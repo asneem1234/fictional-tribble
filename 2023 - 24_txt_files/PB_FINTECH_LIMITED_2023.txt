@@ -1,0 +1,3620 @@
+ 
+ 
+     
+ 
+ 
+        05th September, 2024 
+ 
+To 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor,  
+Plot No. C/1, G Block, 
+Bandra- Kurla Complex,  
+Bandra (E), Mumbai - 400051 
+ 
+SYMBOL: POLICYBZR 
+To 
+BSE Limited 
+Department of Corporate Services/Listing 
+Phiroze Jeejeeboy Towers, 
+Dalal Street, Fort, 
+Mumbai - 400001 
+ 
+SCRIP CODE: 543390 
+                                                       
+Sub.: Disclosure under Regulation 34 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015) - Business Responsibility and Sustainability Report for the Financial Year 2023-24 
+ 
+Dear Sir/Madam,  
+ 
+In terms of the requirements of Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, we are submitting herewith the Business Responsibility and Sustainability 
+Report for the Financial Year 2023-24. The BRSR also forms part of the Integrated Annual Report for the 
+Financial Year 2023-24. 
+ 
+This disclosure will also be hosted on the Company's website viz. www.pbfintech.in 
+ 
+You are requested to take the same on records. 
+ 
+Yours Sincerely, 
+For PB Fintech Limited 
+ 
+ 
+ 
+ 
+Bhasker Joshi 
+Company Secretary and Compliance Officer 
+Place: Gurugram 
+ 
+Encl.: A/a 
+ 
+ 
+BHASKE
+R JOSHI
+Digitally signed 
+by BHASKER 
+JOSHI 
+Date: 2024.09.05 
+18:12:08 +05'30'
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+137
+Dear Stakeholders,
+We are pleased to present the Business Responsibility 
+and Sustainability Reporting (BRSR) report for PB 
+Fintech Limited, a company that has been at the forefront 
+of innovation in the fintech space. Our company was 
+incorporated in 2008 and has since grown to become a 
+leading player in the Indian fintech sector.
+We are committed to ensuring that our company 
+operates responsibly and sustainably. Our commitment 
+to 
+sustainability 
+is 
+reflected 
+in 
+our 
+Business 
+Responsibility and Sustainability Reporting Policy, 
+which was approved by our Board of Directors in 
+February 2023. This policy is aligned with the National 
+Guidelines on Responsible Business Conduct (NGRBC) 
+2018 and the United Nations Sustainable Development 
+Goals (SDGs).
+Our company’s flagship brand, Policybazaar is a 
+leading insurance web aggregator that helps customers 
+compare and purchase insurance policies from 
+various providers. Our platform has made it easier for 
+customers to find the best insurance deals, and we have 
+been instrumental in increasing insurance penetration 
+in India.
+Paisabazaar, another key brand under our umbrella, 
+is a leading online lending marketplace that has 
+revolutionized the way Indians access credit. Our 
+platform connects borrowers with lenders, providing 
+them with a wide range of financial products and 
+services. We are proud to have served millions of 
+customers and have disbursed over `1 trillion in loans 
+since our inception.
+At PB Fintech, we recognize the importance of 
+sustainability and are committed to reducing our 
+environmental impact. We have implemented various 
+initiatives to reduce our carbon footprint, including 
+the use of renewable energy sources and energy-
+efficient systems in our offices. We are also working 
+towards reducing waste and increasing recycling in 
+our operations.
+Our commitment to sustainability extends beyond our 
+own operations. We are working with our suppliers and 
+partners to ensure that they adhere to our sustainability 
+standards and practices. We believe that responsible 
+business practices are essential for long-term success 
+and are committed to making a positive impact on the 
+communities we serve.
+In this BRSR report, we have provided detailed 
+information on our sustainability initiatives, including 
+our environmental, social, and governance (ESG) 
+performance. We have also disclosed our material 
+issues, which are critical to our business and 
+stakeholders. 
+I would like to take this opportunity to thank our 
+stakeholders for their continued support and trust 
+in our company. We are committed to transparency 
+and accountability and will continue to work towards 
+making a positive impact on the environment, society, 
+and our stakeholders.
+Sincerely,
+Yashish Dahiya - Chairman & CEO
+Alok Bansal – Executive Vice Chairman & Whole Time 
+Director
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+Annexure II
+SECTION A: GENERAL DISCLOSURES 
+I.	
+Details of the listed entity
+1.
+Corporate Identity Number (CIN) of the Listed Entity
+L51909HR2008PLC037998
+2.
+Name of the Listed Entity
+PB FINTECH LIMITED
+3.
+Year of Incorporation
+2008
+4.
+Registered Office Address
+Plot 119, Sector 44, Gurugram- 122001, Haryana
+5.
+Corporate Address
+Plot 119, Sector 44, Gurugram- 122001, Haryana
+6.
+E-mail id
+investor.relations@pbfintech.in, 
+complianceofficer@pbfintech.in
+7.
+Telephone
+0124-4562907
+8.
+Website
+www.pbfintech.in
+9.
+Financial year for which reporting is being done
+FY2024 (1st April 2023 to 31st March 2024)
+10.
+Name of the Stock Exchange(s) where shares are listed BSE Ltd. (BSE), and National Stock Exchange of 
+India Ltd. (NSE)
+11.
+Paid up Capital (INR)
+   90,24,06,928/-
+12.
+Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report
+Mr. Bhasker Joshi, 
+Company Secretary
+bhasker@policybazaar.com  
+13.
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e., only for the 
+entity) or on a consolidated basis (i.e. for the entity and 
+all the entities which form a part of its consolidated 
+financial statements, taken together)
+Disclosures made in this report are on a 
+consolidated basis and pertain to all subsidiary 
+companies of PB Fintech Limited.
+14.
+Name of assurance provider
+ Not Applicable
+15.
+Type of assurance obtained
+ Not Applicable
+II.	 Products / Services - As on 31st March, 2024 
+16.	 Details of business activities (accounting for 90% of the Turnover): 
+S. No. Description of Main  Activity
+Description of Business Activity
+% of Turnover of the entity
+1.
+Information and Communication
+Other information & 
+communication service activities
+100
+17.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover): 
+S. No. Product/Service 
+NIC Code
+% of total contributed
+Turnover
+1.
+Insurance Web aggregator / Insurance Broker services
+66220
+80%
+2.
+Other information and communication service activities
+63119
+20%
+III.	Operations 
+18.	 Number of locations where plants and/or operations/offices of the entity are situated: 
+Location 
+Number of plants
+Number of offices
+Total
+National 
+-
+107
+107
+International
+-
+2
+2
+19.	 Markets served by the entity: 
+a.	 Number of locations 
+Locations 
+Number 
+National (No. of States)  
+National Market
+International (No. of Countries)  
+2  (Dubai & Abu Dhabi)
+b.	 What is the contribution of exports as a 
+percentage of the total turnover of the entity?
+Nil
+c.	 A brief on types of customers
+Our customers include persons from all income 
+profiles who use our flagship digital platform 
+such as Policybazaar and Paisabazaar that 
+leverage the power of technology, data, and 
+innovation and enable them to compare, choose 
+and apply for insurance & lending products as 
+well as personal credit products respectively. 
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+139
+IV. 	Employees 
+20.	Details as at the end of Financial Year: 
+a.	 Employees and workers (including differently abled):
+S. No. Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES 
+1.  
+Permanent (D) 
+18441
+14140
+77%
+4301
+23%
+2.  
+Other than Permanent (E)  
+1658
+952
+57%
+706
+43%
+3.  
+Total employees (D + E) 
+20099
+15092
+75%
+5007
+25%
+*Note: The Company does not have any workers as defined in the guidance note on BRSR.
+b.	 Differently abled Employees and workers:  
+S. No. Particulars
+Total
+(A)
+Male  
+Female
+No. (B) 
+% (B / A) 
+No. (C) 
+% (C / A) 
+EMPLOYEES 
+EMPLOYEES
+1.  
+Permanent (D) 
+21
+18
+86%
+3
+14%
+2.  
+Other than Permanent (E)  
+3
+2
+67%
+1
+33%
+3.  
+Total employees (D + E) 
+24
+20
+83%
+4
+17%
+21.	 Participation/Inclusion/Representation of women
+  
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors 
+9
+3
+33.3%
+Key Management Personnel 
+4
+0
+0%
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+141
+22.	Turnover rate for permanent employees and workers
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male 
+Female 
+Total  
+Male 
+Female 
+Total 
+Male 
+Female 
+Total 
+Permanent 
+Employees
+86%
+105%
+91%
+101%
+108%
+104%
+83%
+98%
+87%
+*Increase in turnover is driven by infant attrition (0-1) in contact centre operations which is owing to the 
+two factors- higher quality standards in new hire training assessment and certification as well as surge in 
+contact centre openings in the market. Removing infant attrition, there is degrowth in attrition from 70% in 
+22-23 to 58.54% in 23-24 (till March). Annualised attrition in corporate functions and non-operations for FY24 
+is 25.95%.
+V. 	 Holding, Subsidiary and Associate Companies (including joint ventures) 
+23.	(a) Names of holding / subsidiary / associate companies / joint ventures 
+S. No.
+Name of the holding / subsidiary / 
+associate companies / joint ventures 
+(A) 
+Indicate whether 
+holding / Subsidiary/ 
+Associate / Joint 
+Venture
+% of 
+shares 
+held by 
+listed 
+entity 
+Does the entity indicated at 
+column A, participate in the 
+Business Responsibility initiatives 
+of the listed entity? (Yes/No)
+1
+Policybazaar Insurance
+Brokers Private Limited
+Wholly Owned 
+Subsidiary
+100.00%
+Yes
+2
+Paisabazaar Marketing and 
+Consulting Private Limited
+Wholly Owned 
+Subsidiary
+100.00%
+Yes
+3
+Docprime Technologies Private 
+Limited 
+Wholly Owned 
+Subsidiary
+100.00%
+Yes
+4
+ICALL Support Services Private 
+Limited
+Wholly Owned 
+Subsidiary
+100.00%
+Yes
+5
+Accurex Marketing and Consulting 
+Private Limited
+Wholly Owned 
+Subsidiary
+100.00%
+Yes
+6
+PB Markting and Consulting Private 
+Limited 
+Wholly Owned 
+Subsidiary
+100.00%
+Yes
+7
+Pb Fintech FZ- LLC
+Wholly Owned 
+Subsidiary
+100.00%
+Yes
+8
+PB Financial Account Aggregators 
+Private Limited
+Wholly Owned 
+Subsidiary
+100.00%
+Yes
+9
+Myloancare Ventures Private Limited
+Subsidiary
+70.10%
+Yes
+10
+Visit Internet Services Private Limited 
+Step down Wholly 
+Owned Subsidiary
+100.00%
+Yes
+11
+YKNP Marketing Management -LLC
+Step down  Associate 
+Company
+26.72%
+No
+12
+ZPHIN Computer Systems and 
+Software Designing-LLC
+Step down Wholly 
+Owned Subsidiary
+100.00%
+Yes
+13
+MLC Finotech Private Limited
+Step down Subsidiary
+70.10%
+Yes
+14
+Visit Health Private Limited 
+Step down  Associate 
+Company
+41.50%
+No
+VII. Transparency and Disclosures Compliances  
+25.	Complaints / Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct: 
+Stakeholder 
+group from 
+whom 
+complaint is 
+received  
+Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No) (If 
+yes, then provide 
+web-link for 
+grievance redress 
+policy)  
+FY 2023-24
+FY 2022-23
+Number of 
+filed during 
+the year 
+Number of 
+pending 
+resolution 
+at close of 
+the year 
+Remarks 
+Number of  
+filed during 
+the year 
+Number of 
+pending 
+resolution at 
+close of the 
+year 
+Remarks 
+Communities 
+Y*
+-
+-
+-
+-
+-
+-
+Investors 
+(Other than 
+Shareholders) 
+Y**
+-
+-
+-
+-
+-
+-
+Shareholders 
+Y**
+2
+0
+-
+-
+-
+-
+Employees and 
+workers 
+Y***
+ 17
+0
+-
+18
+2
+2 
+complaints 
+pending 
+on closure 
+of the FY 
+2022-23 are 
+closed.
+Customers 
+Y****
+ 11134
+130
+Out of 130 
+complaints, 
+25 
+complaints 
+are 
+currently 
+open and 
+under 
+process.
+7918
+12
+12 
+complaints 
+pending 
+on closure 
+of the FY 
+2022-23 are 
+closed.
+Value Chain 
+Partners 
+Y*****
+-
+-
+-
+-
+-
+-
+*There are several mechanisms in place to receive and address grievances from the community such as access 
+to e-mail ID of Legal and Compliance officer, Website, Customer helpline/Toll-free number, and the offline 
+outlets of the organization. The grievances from community are addressed by Legal and Compliance officer 
+along-with Stakeholders’ Relationship Management Committee of the Board on a case-to-case basis.
+**Board has constituted several Committees of Directors with adequate delegation of powers to focus effectively 
+on issues and ensure expedient resolution of diverse matters. The Stakeholders’ Relationship Committee 
+deals with all the grievances and  of the Investors and Shareholders. In addition to this investor can contact 
+the Company Secretary & Compliance Officer or Investor Relations Head through their email id and contact 
+number, which are updated on the website of the company. Investors also have the recourse to each out to 
+the Registrar and Transfer Agent (RTA) of the company and can also register their  or concerns with SEBI 
+Redressal Mechanism i.e., SCORES Portal. 
+***The details of grievance redressal mechanism for employees and workers are provided in Principle 3, point 
+No. 6.
+**** The various mechanisms in place to receive and respond to consumer  and feedback are Customer helpline 
+number/Toll-free number, website, App and every outlet as provided in Principle 9, point No. 1.
+***** / Grievances from Value Chain Partners are addressed by relevant Departments on a case-to-case basis.
+No  have been received from communities and  value chain partners during the FY 2022-23 and FY 2023-24. 
+Policies & grievance redressal mechanism are accessible on https://www.pbfintech.in/investor-relations/ 
+VI. 	CSR Details
+24.	(i)	 Whether CSR is applicable as per section 135 
+of Companies Act, 2013: (Yes/No) – YES* 
+(ii)	Turnover (in Rs.) - Rs. 110.29 Crores (FY 
+2023-24)
+(iii)	Net worth (in Rs.)- Rs. 7,729.37 Crores (As on 
+31st March’24) 
+*As the Company’s average net profit of the last 
+three consecutive years (i.e 2020-21, 2021-22 & 
+2022-23) is negative, it is not required to spend 
+any amount on CSR activities during the FY 
+2023-24. 
+26.	Overview of the entity’s material responsible business conduct issues 
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental 
+and social matters that present a risk or an opportunity to your business, rationale for identifying the same, 
+approach to adapt or mitigate the risk along-with its financial implications, as per the following format  
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+143
+S. No. 
+Material 
+issue 
+identified 
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O) 
+Rationale for 
+identifying The risk / 
+opportunity 
+In case of risk, approach to adapt or 
+mitigate 
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications) 
+1
+Information 
+Security and 
+Data Privacy
+R
+PB Fintech Limited 
+provides information 
+services to customers 
+with technology 
+enabled platforms 
+that offer convenient 
+access to insurance, 
+credit, and other 
+financial products 
+to make informed 
+purchase decisions. 
+To effectively deliver 
+value to stakeholders, 
+the information 
+security and data 
+privacy becomes very 
+important.
+Solutions like WAF, next-gen firewall, 
+endpoint security, cloud workload 
+security, URL proxy, cloud security 
+groups, logging & monitoring, cyber 
+threat intelligence are in place to ensure 
+adequate protection against security 
+breaches. Processes like user access 
+rights review, database access review, 
+principle of granting least privilege and 
+backup management among others are 
+defined, documented, and implemented to 
+further strengthen the security. 
+-ve
+2
+Talent 
+Management
+R
+Our team being our 
+biggest strength the 
+importance of Talent 
+Management is very 
+crucial for the success 
+of the organization 
+objectives.
+We continue to invest and reinvest in 
+organizational talent in the form of 
+paid courses, in-house training, soft-
+skill sessions, at the time of joining and 
+during the job tenure. Our HR policies 
+are procedures are aligned to attract and 
+retain the best talents.
+ 
+The post-Covid era has been about 
+raising the bar when it comes to 
+employee engagement. For example, at 
+Policybazaar, the Jeeto Apna Ghar contest, 
+which gives high performing employees a 
+chance to win their own home, has been 
+a key motivator for employees and has 
+helped slash the attrition rate.
++ve
+3
+Financial 
+Literacy 
+Awareness
+O
+Financial literacy 
+awareness is much 
+desired so that people 
+can take right action 
+for their financial 
+safety and security. 
+This becomes more 
+so important in 
+our country where 
+still a large section 
+of the community 
+depends upon 
+informal channels for 
+their insurance and 
+financial needs.
+As part of our Community work we 
+launched “Financial Literacy” program to 
+100 Final Year undergraduate students at 
+each of the locations Gurgaon, Chennai, 
+Kolkata and Mumbai. The total duration 
+of the program was 20 Hrs. in offline 
+mode and with a placement of 50% of 
+which 50 eligible students had been 
+placed within the organization. Till date 
+we have trained more than 6000 school 
+and college students on financial literacy.
++ve
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES 
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards 
+adopting the NGRBC Principles and Core Elements.
+We have implemented Business Responsibility and Sustainability Policy, which is aligned with the 9 principles 
+of National Guidelines on Responsible Business Conduct (NGRBC). We also have implemented following specific 
+policies regarding each of the 9 principles of NGRBC.
+Principle P1:
+Transparency & Accountability
+Principle P2:
+Product Responsibility
+Principle P3:
+Employee Development
+•	Code of Conduct 
+•	Gifting and Anti-Bribery Policy
+•	Code of Conduct for Prevention of Insider 
+Trading Policy 
+•	Whistle Blower Policy
+•	Code of conduct for board of directors and 
+senior management personnel
+•	Code for fair disclosure of unpublished price 
+sensitive information
+•	Policy on board diversity
+•	Policy of related party transactions
+•	Business Responsibility 
+and Sustainability Report
+•	Code of Conduct 
+•	Anti-Sexual Harassment Policy
+•	Equal Opportunity Policy
+•	Gifting and Anti-Bribery Policy
+•	Work From Home Policy 
+•	Workplace Privacy for Employees 
+•	Rewards & Recognition Policy
+Principle P4: 
+Stakeholder Engagement
+Principle P5:
+Human Rights
+Principle P6:
+Environment Principle
+•	Corporate Social Responsibility Policy 
+•	Charter of the Stakeholders’ Relationship 
+Committee
+•	Anti-Sexual Harassment 
+Policy
+•	Equal Opportunity Policy
+•	EHS Policy
+Principle P7:
+Policy Advocacy
+Principle P8:
+Inclusive Growth
+Principle P9:
+Customer Value
+•	Business Responsibility and Sustainability 
+Report
+•	Corporate Social 
+Responsibility Policy
+•	Data Privacy Policy
+•	SOP for Escalation Management
+Disclosure Questions 
+P
+1 
+P
+2 
+P
+3 
+P
+4 
+P
+5 
+P
+6 
+P
+7 
+P
+8 
+P
+9 
+Policy and management processes 
+1.	a.	Whether your entity’s policy/policies cover each principle and its 
+core elements of the NGRBCs. (Yes/No) 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b.	Has the policy been approved by the Board? (Yes/No)  
+Yes
+c.	Web Link* of the Policies, if available  
+https://www.pbfintech.in/investor-relations/
+2.	Whether the entity has translated the policy into procedures. (Yes / 
+No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.	Do the enlisted policies extend to your value chain partners? (Yes/
+No)  
+N
+N
+N
+N
+N
+N
+N
+N
+N
+4.	Name of the national and international codes/certifications/labels/ 
+standards (e.g., Forest Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustee) standards (e.g., SA 8000, OHSAS, ISO, BIS) adopted 
+by your entity and mapped to each principle.  
+Policies has been made as per the National 
+Guidelines on Responsible Business Conduct, 
+2019 released by the Ministry of Corporate 
+Affairs.
+5.	Specific commitments, goals and targets set by the entity with 
+defined timelines, if any. 
+Our strategies, business model and operations 
+are based on environment protection, employee 
+and customer safety.
+6.	Performance of the entity against the specific commitments, goals 
+and targets along-with reasons in case the same are not met. 
+Not Applicable
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+145
+Governance, leadership, and oversight 
+7.	Statement by director responsible for the business 
+responsibility report, highlighting ESG related challenges, 
+targets and achievements (listed entity has flexibility 
+regarding the placement of this disclosure)
+The message from our CEO and Whole-time Director 
+has been included at the beginning of this report.
+8.	Details 
+of 
+the 
+highest 
+authority 
+responsible 
+for 
+implementation and oversight of the Business Responsibility 
+policy (ies).
+Implementation and oversight of the Business 
+Responsibility Policies and the decision making on 
+sustainability related issues is the responsibility 
+of the Business Responsibility and Sustainability 
+Committee (BRSR Committee) of the Board of 
+Directors, which comprises of following members as 
+on March 31, 2024:
+1.	Mr. Yashish Dahiya- Chairman, Executive Director & 
+Chief Executive Officer (Chairperson)
+2.	Mr. Alok Bansal – Executive Vice-Chairman and 
+Whole Time Director 
+3.	Mr. Sarbvir Singh - Executive Director & Joint Group 
+CEO (Member)
+4.	Mr. Mandeep Mehta- Group Chief Financial Officer 
+(Member)
+5.	Mr. Naveen Kukreja- CEO & WTD of Paisabazaar 
+(Member) 
+9.	Does the entity have a specified Committee of the Board/ 
+Director responsible for decision making on sustainability 
+related issues? (Yes / No). If yes, provide details.
+BRSR Committee of the Board is the highest authority 
+for implementation and oversight of the Business 
+Responsibility policies
+10.	 Details of Review of NGRBCs by the Company:  
+Subject for Review
+Indicate whether review was 
+undertaken by Director / Committee of 
+the Board/ Any other Committee 
+Frequency 
+(Annually/ Half yearly/ Quarterly/ Any 
+other – please specify)
+P 
+1 
+P 
+2 
+P 
+3 
+P 
+4 
+P  
+5 
+P 
+6 
+P 
+7 
+P  
+8 
+P  
+9 
+P 
+1 
+P 
+2 
+P 
+3 
+P 
+4 
+P  
+5 
+ P 
+6 
+P 
+7 
+P   
+8 
+P   
+9 
+Performance against above 
+policies and 
+follow up action 
+The review has been done by Business 
+Responsibility and Sustainability 
+Committee. 
+The frequency of the review is annually 
+by the Business Responsibility 
+and Sustainability Committee and  
+subcommittee reviews on half yearly 
+basis.
+Compliance with statutory 
+requirements of relevance to the 
+principles, and, rectification of 
+any non-compliances 
+Compliance with the laws of the land is the first step in responsible business 
+conduct. The compliance review with all the statutory requirements of relevance 
+to the principles of National Guidelines on Responsible Business Conduct has 
+been done by the respective committees of the Board.
+11.	 Has the entity carried out independent assessment/ evaluation of the working of its policies by an external 
+agency? (Yes/No). If yes, provide name of the agency.
+No, the assessment / evaluation of the working of its policies is being done internally as part of the business 
+operating policies and procedures.
+12.	 If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated:  
+Questions 
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+The entity does not consider the Principles material to its 
+business (Yes/No)  
+------------Not Applicable -------------
+The entity is not at a stage where it is in a position to 
+formulate and implement the policies on specified principles 
+(Yes/No)  
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No)  
+It is planned to be done in the next financial year (Yes/No)  
+Any other reason (please specify)  
+SECTION C: PRINCIPLE WISE PERFORMANCE 
+DISCLOSURE 
+This section is aimed at helping entities demonstrate 
+their performance in integrating the Principles and 
+Core Elements with key processes and decisions. 
+The information sought is categorized as “Essential” 
+and “Leadership.” While the essential indicators 
+are expected to be disclosed by every entity that is 
+mandated to file this report, the leadership indicators 
+may be voluntarily disclosed by entities which aspire 
+to progress to a higher level in their quest to be socially, 
+environmentally, and ethically responsible. 
+PRINCIPLE 1 - Businesses should conduct and 
+govern themselves with integrity, and in a manner 
+that is Ethical, Transparent and Accountable 
+We are committed to upholding exemplary governance 
+standards, fostering a value system centered on 
+professionalism, honesty, integrity, and high moral 
+and ethical conduct for the benefit of all stakeholders. 
+We have established appropriate frameworks, policies, 
+and protocols to uphold this principle, guiding our 
+directors, key management personnel (KMPs), and 
+employees to prevent violations and take prompt action 
+against any infractions. Furthermore, our company 
+has implemented a Whistleblower Policy, enabling 
+employees and external parties to report any concerns 
+or grievances related to breaches of our Code of Conduct 
+or unethical conduct.
+Essential Indicators
+1.	 Percentage coverage by training and awareness programmes on any of the principles during the financial year: 
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics / principles covered 
+under the training and its 
+impact
+% age of persons in respective 
+category covered by the 
+awareness programmes
+Board of Directors
+2
+All Principles
+100%
+Key
+Managerial Personnel
+2
+All Principles
+100%
+Employees other than BoD 
+and KMPs
+9
+Principles relevant to their 
+respective functional area
+100%
+2.	 Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings 
+(by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the 
+financial year, in the following format. (Note: the entity shall make disclosures based on materiality as specified 
+in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on 
+the entity’s website): 
+Monetary
+NGRBC 
+Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ 
+judicial 
+institutions
+Amount (In 
+INR)
+Brief of 
+the Case 
+Has an appeal been preferred? (Yes/No)
+Sr. No.
+NGRBC 
+Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ 
+judicial 
+institutions
+Amount 
+(In INR)
+Brief of the Case
+Has an 
+appeal 
+been 
+preferred? 
+(Yes/No)
+Penalty/ Fine 
+Settlement 
+Compounding 
+fee
+1
+Principle 1
+Securities 
+Exchange 
+Board of 
+India
+INR 
+1,00,000/-
+During the year under review, for the violation of the 
+provisions of the Regulations 7(2) of the Securities 
+and Exchange Board of India (Investment Advisors) 
+Regulations, 2013, the SEBI has imposed a monetary 
+penalty of Rs. 1,00,000 (Rupees One Lakh Only) on 
+Paisabazaar Marketing and Consulting Pvt Ltd (“the 
+company”), wholly owned subisidiary of PB Fintech 
+Ltd, under the Section 15EB of the SEBI Act, 1992 for not 
+having the requisite certification by Mr. Naveen Kukreja, 
+WTD & CEO of the company as mandated under The 
+Securities and Exchange Board of India (Investment 
+Advisors) Regulations, 2013. Further, the company 
+has deposited the abovesaid penalty of Rs. 1 lakh and 
+Mr. Naveen Kukreja has obtained the requisite 
+qualification on September 13, 2023. Furthermore, it may 
+also be noted that the SEBI vide its order dated January 
+31, 2024, has issued a censured the company under 
+Regulations 28 of The Securities and Exchange Board 
+of India (Investment Advisors) Regulations, 2013 and 
+has warned the company to be careful and diligent in 
+the conduct of all its business, including that of having 
+required certifications at all times.
+No
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+147
+ 
+Non-Monetary
+ 
+NGRBC 
+Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ 
+judicial 
+institutions
+Brief of the 
+Case
+Has an appeal been preferred? (Yes/No)
+Imprisonment 
+Punishment
+No non-monetary imprisonment or punishment has been imposed on the entity or on the directors or 
+the KMPs.
+3.	 Of the instances disclosed in Question 2 above, details of the Appeal / Revision preferred in cases where 
+monetary or non-monetary action has been appealed. 
+Case Details
+Name of the regulatory/enforcement agencies/judicial 
+institutions
+Not applicable as no fines/penalties etc. has been levied or paid by the organization
+4.	 Does the entity have an anti-corruption or anti-
+bribery policy? If yes, provide details in brief and if 
+available, provide a web-link to the policy. 
+The Code of Conduct covers the anti-corruption 
+and anti-bribery policies of the organization. 
+The company has also adopted a policy on 
+Gifting and Anti-Bribery during the FY 2023-24. 
+https://www.pbfintech.in/pdf/pb-fintech-group-
+gifting-and-anti-bribery-policy-v1.0.pdf
+5.	 Number 
+of 
+Directors/KMPs/employees/workers 
+against whom disciplinary action was taken by any 
+law enforcement agency for the charges of bribery/ 
+corruption: 
+	
+No disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ 
+corruption against any of the Directors/KMPs/
+employees for the FY 2023-24 and 2022-23.
+6.	 Details of  with regard to conflict of interest: 
+	
+No complaint was received with regard to conflict 
+of interest of the Directors, KMPs or any other 
+employee.
+7.	 Provide details of any corrective action taken or 
+underway on issues related to fines / penalties 
+/ action taken by regulators/ law enforcement 
+agencies/ judicial institutions, on cases of corruption 
+and conflicts of interest. 
+This is not applicable as no fines / penalties / action 
+has been taken by regulators/ law enforcement 
+agencies/ judicial institutions, on cases of corruption 
+and conflicts of interest.
+8.	 Number of days of accounts payables (Accounts payable *365) / Cost of goods/services procured) in the 
+following format:
+ 
+FY 2023 – 24
+FY 2022-23
+Number of days of accounts payables
+55.81
+66.67
+9.	 Open-ness of business 
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-
+with loans and advances & investments, with related parties, in the following format:
+Parameter
+Metric
+FY 2023-24
+FY 2022-23
+Concentration of 
+purchases*
+a.	Purchases from trading houses as % of total purchases
+-
+-
+b.	Number of trading houses where purchases are made 
+from
+-
+-
+c.	Purchases from top 10 trading houses as % of total 
+purchases from trading houses
+-
+-
+Parameter 
+Concentrations of sales
+a.	Sales to dealers / distributors as % of total sales
+-
+-
+b.	Number of dealers/distributors to whom sales are made
+-
+-
+c.	Sales to top 10 dealers / distributors as % of total sales to 
+dealers / distributors
+-
+-
+Share of RPTs
+a.	Purchases (Purchases with related parties / Total 
+Purchases)
+6.37%
+8.27%
+b.	Sales (Sales to related parties / Total Sales)
+3.86%
+5.45%
+c.	Loans & advances (Loans & advances given to related 
+parties / Total loans & advances)
+11.08%
+0.00%
+d.	Investments (Investments in related parties / Total 
+Investments made)
+45.51%
+43.56%
+*Not applicable as the nature of the business doesn’t entail any purchase of raw-material or input materials. 
+Essential Indicators
+1.	 Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively. 
+ 
+Current Financial Year 2023-24
+Previous Financial Year 2022-23
+Details of improvements in 
+environmental and social 
+impacts
+R & D
+Not applicable, considering the nature of the operations 
+Capex
+Not applicable, considering the nature of the operations
+Leadership Indicator
+1.	 Awareness programs conducted for value chain 
+partners on any of the Principles during the financial 
+year:
+	
+PB Fintech has been planning to formulate formal 
+training programmes for our value chain partners 
+to educate them on the 9 Principles of NGRBC. 
+2.	 Does the entity have processes in place to avoid/ 
+manage conflict of interests involving members of 
+the Boards? (YES/NO) if yes, provide the details of 
+the same.
+	
+Yes, the company has a Code of Conduct for 
+directors and senior management which requires 
+all concerned to act in the interest of the company 
+and ensure that any other business or personal 
+association does not involve any conflict of interest 
+with the operations of the Company. In case of any 
+actual or potential conflict of interest, the Director 
+concerned is required to immediately report the 
+same to the Board of Directors.
+PRINCIPLE 2 - Businesses should provide goods and 
+services in a manner that is sustainable and safe
+We have devised strategies to enhance resource 
+efficiency 
+in 
+our 
+operations 
+by 
+incorporating 
+environmentally sustainable installations, such as 
+energy-efficient equipment. We prioritize sourcing 
+goods and services necessary for our business 
+operations from local small and medium enterprises 
+affiliated with the Company. Additionally, we prioritize 
+hiring local employees for various manpower services 
+whenever feasible.
+2.	 a.	 Does the entity have procedures in place for 
+sustainable sourcing? (Yes/No)  
+	
+No. The company is not producing any products 
+and hence the sustainable procurement is not 
+directly relevant, however we are in process to 
+establish a sustainable sourcing policy.
+b.	 If yes, what percentage of inputs were sourced 
+sustainably?  
+	
+Once the sustainable sourcing policy is in place, 
+the percentage of sustainable sourced inputs 
+will be tracked.
+3.	 Describe the processes in place to safely reclaim 
+your products for reusing, recycling and disposing at 
+the end of life, for (a) Plastics (including packaging) 
+(b) E-waste (c) Hazardous waste and (d) other waste. 
+	
+This is not applicable since the company is not 
+producing any physical product. 
+4.	 Whether Extended Producer Responsibility (EPR) 
+is applicable to the entity’s activities (Yes / No). If 
+yes, whether the waste collection plan is in line 
+with the Extended Producer Responsibility (EPR) 
+plan submitted to Pollution Control Boards? If not, 
+provide steps taken to address the same. 
+	
+Extended Producer Responsibility (EPR) is not 
+applicable since the company is not producing any 
+physical product. 
+Leadership Indicator
+1.	 Has the entity conducted Life Cycle Perspective 
+/ Assessments (LCA) for any of its products (for 
+manufacturing industry) or for its services (for 
+service industry)? If yes, provide details in the 
+following format.
+	
+No, not applicable as industry is not producing any 
+physical product
+2.	 If there are any significant social or environmental 
+concerns and/or risks arising from production or 
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+149
+disposal of your products / services, as identified in 
+the Life Cycle Perspective / Assessments (LCA) or 
+through any other means, briefly describe the same 
+along-with action taken to mitigate the same.
+	
+No, not applicable since company is not producing 
+any physical product
+3.	 Percentage of recycled or reused input material 
+to total material (by value) used in production (for 
+manufacturing industry) or providing services (for 
+service industry).
+	
+Not applicable since company is not producing any 
+physical product
+4.	 Of the products and packaging reclaimed at end of 
+life of products, amount (in metric tonnes) reused, 
+recycled, and safely disposed, as per the following 
+format:
+	
+Not applicable.
+5.	 Reclaimed products and their packaging materials 
+(as percentage of products sold) for each product 
+category.
+	
+Not applicable.
+PRINCIPLE 3 - Businesses should respect and 
+promote the well-being of all employees, including 
+those in their value chains
+Our company prioritizes the welfare of our workforce, 
+viewing them as our greatest asset. Through various 
+initiatives such as paid courses, in-house training 
+programs, and ongoing development opportunities, we 
+invest in nurturing organizational talent from entry 
+into the company throughout their tenure. Additionally, 
+we provide comprehensive corporate health insurance, 
+modern maternity plans, and stress management 
+workshops to support employee well-being and 
+promote workplace productivity. These efforts aim to 
+ensure access to medical care, ease financial burdens, 
+and raise awareness about mental health, ultimately 
+fostering a healthier and more productive workforce.
+Essential Indicators
+1.	 a.	 Details of measures for the well-being of employees:  
+Category
+Total 
+(A)
+% of employees covered by 
+ 
+Health insurance 
+Accident 
+insurance 
+Maternity 
+benefits 
+Paternity 
+Benefits 
+Day Care 
+facilities 
+Number
+(B)
+% (B /
+A) 
+Number
+(C) 
+% (C /
+A) 
+Number
+(D) 
+% (D /
+A) 
+Number 
+(E) 
+% (E /
+A) 
+Number
+(F) 
+% (F /
+A) 
+ 
+Permanent employees
+ 
+Male  
+14140
+14140
+100%
+14140
+100%
+NA
+-
+14140
+100%
+12022
+85%
+Female  
+4301
+4301
+100%
+4301
+100%
+4301
+100%
+NA
+-
+4078
+95%
+Total  
+18441
+18441
+100%
+18441
+100%
+4301
+100%
+14140
+100%
+16100
+87%
+ 
+ 
+Other than Permanent employees
+ 
+Male  
+952
+952
+100%
+935
+98%
+NA
+-
+0
+0%
+0
+0%
+Female  
+706
+706
+100%
+706
+100%
+706
+100%
+NA
+-
+0
+0%
+Total  
+1658
+1658
+100%
+1641
+99%
+706
+100%
+0
+0%
+0
+0%
+b.	 Details of measures for the well-being of workers:
+	
+Not Applicable 
+c.	 Spending on measured towards well -being of employees and workers (including permanent and other 
+than permanent) in the following format:
+ 
+FY 2023-24
+FY 2022-23
+Cost Incurred on well-being measures as a % of total revenue of the 
+company
+ 0.43%
+ 0.35%
+2.	 Details of retirement benefits, for Current FY and Previous Financial Year.
+ 
+FY 2023-24
+FY 2022-23
+Benefits
+No.  of 
+employees 
+covered as 
+a % of total 
+employees  
+No.  of workers 
+covered as 
+a % of total 
+workers  
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.) 
+No. of 
+employees 
+covered as 
+a % of total 
+Employees
+No.  of workers 
+covered as 
+a % of total 
+workers 
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.) 
+PF 
+100
+NA
+Y
+100%
+NA
+Y
+Gratuity
+100
+NA
+NA
+100%
+NA
+NA
+ESI
+37
+NA
+Y
+40.04%
+NA
+Y
+Other - Pls. 
+specify
+-
+-
+-
+-
+-
+-
+3.	 Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible 
+to differently abled employees and workers, as per 
+the requirements of the Rights of Persons with 
+Disabilities Act, 2016? If not, whether any steps are 
+being taken by the entity in this regard. 
+	
+We do not have a ramp facility in Building No. 109, 
+116 and 135P as it’s not feasible due to high stairs 
+entrance. In case any requirement is observed, 
+to cater the same our security and housekeeping 
+staff are available to assist our differently abled 
+employees. Rest all our buildings have ramp 
+facilities either fixed or movable. Other locations are 
+also covered with this facility.
+4.	 Does the entity have an equal opportunity policy as 
+per the Rights of Persons with Disabilities Act, 2016? 
+If so, provide a web-link to the policy. 
+	
+Yes, the entity does have an equal opportunity 
+policy 
+as 
+per 
+the 
+Rights 
+of 
+Persons 
+with 
+Disabilities Act, 2016. The policy is accessible on 
+https://www.pbfintech.in/pdf/equal-employment-
+opportunity-policy.pdf.
+5.	 Return to work and Retention rates of permanent employees and workers that took parental leave. 
+ 
+Permanent Employees
+Gender 
+Return to work rate 
+Retention rate 
+Male 
+100%
+91%
+Female 
+96%
+70%
+Total 
+98%
+81%
+6.	 Is there a mechanism available to receive and redress grievances for the following  categories of employees and 
+workers? If yes, give details of the mechanism in brief. 
+ 
+Yes/No (If yes, then give details of the mechanism in brief)
+Permanent 
+Workers  
+We have an Employee Grievance Redressal policy in place, under which three EGRC committees - core 
+committee, a first level escalation and, a second level escalation are constituted. Employees can reach 
+out to the committees to formally file a grievance or to appeal the decision of a lower level committee, 
+either via email or via the Company's digital employee help-desk called PB Support which is available 
+on the Company's intranet. are dealt with in a confidential manner. The committees are entrusted to run 
+unbiased and impartial enquiries based upon the principles of natural justice. The respondent is served 
+with a chargesheet at the beginning of an enquiry. Both the complainant and the respondent are given 
+an opportunity to be heard, to defend themselves, to present evidence and to bring forth witnesses. The 
+Committee endeavours to complete the enquiry within a reasonable period but not beyond 15 working 
+days and communicate its findings and its recommendations for action to the HR Head/Committee Head. 
+The report of the committee is treated as an enquiry report on the basis of which an erring employee can 
+be awarded appropriate punishment. The punishment can range from a verbal warning upto termination 
+of service/contract. A record of the enquiry proceedings is maintained by the company and the report / 
+document of reprimand is additionally placed in the personnel file of the employee(s).
+Other than 
+Permanent 
+Workers  
+Permanent 
+Employees 
+Other than 
+Permanent 
+Employees 
+7.	 Membership of employees and worker in association(s) or Unions recognized by the listed entity: 
+	
+There are no employee association(s) or unions recognized by the company.
+8.	 Details of training given to employees and workers: 
+Category
+Total 
+(A)
+FY 2023-24
+Total 
+(D)
+FY 2022-23
+On Health and 
+safety measures*
+On Skill 
+upgradation*
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B) 
+% (B / A) 
+No. (C) 
+% (C / A) 
+No. (E) 
+% (E / D) 
+No. (F) 
+% (F / D) 
+Employees  
+Male
+14140
+13700
+97%
+12500
+88%
+10921
+10506
+96.2%
+9064
+83.0%
+Female
+4301
+4295
+100%
+3900
+91%
+3397
+3268
+96.2%
+2786
+82.0%
+Total
+18441
+17995
+98%
+16400
+89%
+14318
+13774
+96.2%
+11,850
+82.8%
+	
+*Health and safety: Data includes joiners upto Feb’23 as the last workshop was held in early March’23. March’23 
+joiners were trained post closure of FY22-23. Skill upgradation include in-house induction, online and offline 
+product and process refreshers, external and paid courses and certification programs.
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+151
+9.	 Details of performance and Career development reviews of employees:
+Category
+Total (A)
+FY 2023-24
+FY 2022-23
+ 
+No. (B) 
+% (B / A) 
+Total (C)
+No. (D)
+% (D / C)
+Employees*
+Male
+14140
+14140
+100%
+10921
+8969
+82%
+Female
+4301
+4301
+100%
+3397
+2684
+79%
+Total
+18441
+18441
+100%
+14318
+11653
+81%
+	
+The company follows an annual appraisal cycle for which employees joining uptill 31st December are eligible 
+for increments in the next year. Joiners from 1st January onwards are eligible for increment in the next financial 
+year and receive pro-rated increment for the number of months served in excess of 12 months.
+10.	 Health and safety management system: 
+a.	 Whether an occupational health and safety 
+management system has been implemented by 
+the entity? (Yes/ No). If yes, the coverage of such 
+a system?
+	
+Yes, 
+the 
+health 
+and 
+safety 
+management 
+system covers all employees at all facilities of 
+the organization. Some of the infrastructure 
+measures that have been undertaken to ensure 
+health and safety of employees are as follows: 
+•	
+Timely Maintenance and upkeep of electrical 
+/ plumbing equipment
+•	
+CCTV Surveillance and Monitoring
+•	
+Access Control for critical areas
+•	
+Physical Security of premises
+•	
+Fire and safety deployment and maintenance 
+at premises
+•	
+Carry out sanitization and pest control 
+across all facilities
+•	
+Catering to Medical Emergency and ensuring 
+medical kits are available for timely help
+•	
+Maintaining 
+Washroom 
+Checklist 
+for 
+consistent hygiene
+•	
+Ensuring safe / filtered drinking water
+•	
+Office infrastructure is clean and hygienic
+•	
+Chair / workstations are ergonomic and 
+well-maintained
+b.	 What are the processes used to identify work-
+related hazards and assess risks on a routine 
+and non-routine basis by the entity? 
+	
+The Company communicates, involves, and 
+actively engages in training all employees on 
+health and safety issues. 
+	
+The Company monitors the internal health and 
+safety performance, including work-related 
+accidents, incidents, and significant ill-health 
+occurrences such as epidemic threats and 
+investigates those that do occur and helps 
+reduce their number and severity. 
+	
+The Company works closely with appropriate 
+external agencies and within its industry to 
+ensure the continued adoption of appropriate 
+best-practice in health and safety management. 
+c.	 Whether you have processes for workers to 
+report the work-related hazards and to remove 
+themselves from such risks. (Y/N)
+	
+Considering the nature of the operations this is 
+not directly applicable. 
+d.	 Do the employees/ worker of the entity have 
+access 
+to 
+non-occupational 
+medical 
+and 
+healthcare services? (Yes/ No) 
+	
+Yes, the company has a policy of health and 
+accident insurance for the employees. Also, the 
+Company has tie-ups with hospitals and online 
+consultations for the physical and mental well-
+being of employees. 
+11.	 Details of safety related incidents, in the following format:  
+Safety Incident/Number
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked)
+-
+0.78
+Total recordable work-related injuries
+-
+24
+No. of fatalities
+-
+-
+High consequence work-related injury or ill-health (excluding fatalities)
+-
+-
+12.	 Describe the measures taken by the entity to ensure 
+a safe and healthy workplace. 
+	
+The Company has an Equal Employment Opportunity 
+policy and a POSH policy in place.  The Company 
+is committed to maintain a work environment 
+that is free from any harassment and has a work 
+culture which is conducive for diversity. This Equal 
+Opportunities Policy is subject to The Right of 
+Persons with Disabilities Act, 2016, The Transgender 
+Persons (Protection of Rights) Act, 2019 and the HIV 
+& AIDS (Prevention and Control) Act,2017 and any 
+rules, guidelines or government policies incidental 
+thereto as amended from time to time, along with 
+other applicable laws & regulations whose intent is 
+primarily anti- discrimination. The objective of this 
+policy is to provide equal opportunities in terms of 
+employment, and protection from various forms of 
+discrimination throughout the employee lifecycle 
+which includes recruitment to superannuation. 
+The Company is committed to eliminate all kinds of 
+discrimination on the grounds of HIV or AIDS, age, 
+colour, disability, marital status, nationality, race, 
+religion, gender or sexual orientation. The Company 
+strives that all decisions on employment, career 
+progression, training or any other benefits are solely 
+based on qualification and merit.
+	
+Similarly, the Company’s POSH policy is In line with 
+the Sexual Harassment of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 
+(“Act”) and the rules framed thereunder (“Rules”). 
+The Company  has formulated this anti-sexual 
+harassment policy (“Policy”) to prohibit, prevent or 
+deter the commission of acts of Sexual Harassment 
+against women Personnel at Workplace and to 
+provide the procedure for the redressal of  pertaining 
+to Sexual Harassment of women Personnel at the 
+Workplace.
+	
+The company also provides an Employee Assistance 
+Program (EAP) to ensure there is a program in place 
+for addressing mental wellness needs and holistic 
+wellbeing of employees. For this, we have partnered 
+with an external agency named 1to1 help to support 
+our employees with professional counselling. It is 
+a confidential service where employees reach out 
+to the agency directly & avail counselling services 
+though frequent sessions. The association also 
+offers a range of reliable self-help resources like 
+Online Library alongwith e-workshops on important 
+issues like Mental Wellness, Stress Management etc.
+	
+All above mentioned offerings are borne by the 
+organisation and do not incur any cost to our people. 
+Under these policies, the following appointments 
+are made to ensure any grievances arising out of 
+EEO / SH are dealt with in a fair manner:
+•	
+Appointment of a Liaison officer to oversee 
+recruitment of disabled as per The Right of 
+Persons with Disabilities Act, 2016.
+•	
+Appointment of an  officer for grievance 
+redressal and complaint resolution in case of 
+Transgender& people infected with and affected 
+by HIV and AIDS respectively.
+•	
+Appointment of an Internal Committee for 
+grievance  redressal and complaint resolution 
+in case of sexual harassment of women at the 
+workplace
+•	
+The company also provides an Employee 
+Assistance Program (EAP) to ensure there is a 
+program in place for addressing mental health 
+needs and holistic wellbeing of employees.
+	
+In addition to the above, from a cultural and 
+psychological safety standpoint, the following 
+policies have been adopted to safeguard our 
+employees:
+•	
+Work from home Policy
+•	
+Loan Policy
+•	
+Employee Welfare Guideline
+•	
+Workplace Privacy For Employees
+•	
+Reward & Recognition Policy
+13.	 Number of Complaints on the following made by employees and workers:
+ 
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+ Pending 
+resolution at 
+the end of year 
+Remarks Filed during 
+the year 
+Pending 
+resolution at 
+the end of year 
+Remarks 
+Working Conditions 
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Health & Safety 
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Sexual Harassment
+17
+Nil
+NA
+18
+2
+2 complaints pending 
+on closure of the FY 
+2022-23 are closed.
+Discrimination at 
+workplace
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Child Labour
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Forced Labour / 
+Involuntary Labour
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Wages
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Any other type of 
+complaint
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+14.	 Assessments for the year:
+ 
+% of your plants and offices 
+that were assessed (by entity 
+or statutory authorities or third 
+parties) 
+Health and safety 
+practices 
+98%
+Working Conditions 
+95%
+	
+The assessments have been carried on internally by 
+the entity as part of the business operations.
+15.	 Provide details of any corrective action taken or 
+underway to address safety-related incidents (if 
+any) and on significant risks / concerns arising 
+from assessments of health & safety practices and 
+working conditions. 
+	
+The Administration and Facilities Management 
+Team is responsible for conducting investigation  of 
+reported incidents, assisting in the development and 
+implementation of the best practices to minimize 
+risks, and eliminate / reduce occurrence of safety 
+incidents. 
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+153
+Leadership Indicators
+1.	 Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees 
+(Y/N) (B) Workers (Y/N).
+	
+No, Though we don’t offer the life insurance but to take care of immediate needs & requirement of the deceased 
+family, the company provides ex-gratia as a welfare. Furthermore, all employees are covered by EPFO and 
+receive EDLI benefits if a mishap occurs.
+2.	 Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited 
+by the value chain partners. 
+	
+We start empanelment of vendor under CLRA through Agreement, in which statutory measures are captured 
+& vetted by Legal Team. Post agreement, attendance of deployed staff has been verified by PB official, and 
+confirmation given to vendor to raise the invoice. Vendors is submitting invoices along with essentials 
+documents & statutory challans of previous months as well as declaration of remittance/payments of statutory 
+dues. After validation, invoices are being submitting to the finance team for payments post approval of BU head 
+as per terms & conditions of the agreements.
+3.	 Provide the number of employees / workers having suffered high consequence work- related injury / ill-health 
+/ fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in 
+suitable employment or whose family members have been placed in suitable employment:
+Total no. of affected employees/ workers
+No. of employees / workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members have 
+been placed in suitable employment 
+FY 2023-24
+FY 2022-23
+FY 2023-24
+FY 2022-23
+Employees
+Nil
+Nil
+Nil
+Nil
+Workers
+Nil
+Nil
+Nil
+Nil
+4.	 Does the entity provide transition assistance 
+programs to facilitate continued employability and 
+the management of career endings resulting from 
+retirement or termination of employment? (Yes/ No) 
+	
+As a company we have not reached to the stage where 
+the employees have reached to the retirement age. 
+As a company we don’t run out placement services 
+but to ensure the well-being of the employees we 
+do conduct multiple training/counselling session 
+related to Health & Mental being etc.
+5.	 Details on assessment of value chain partners:
+%age of value chain partners 
+(by value of business done 
+with such partners) that were 
+assessed
+Health and safety 
+practices
+-
+Working condition
+-
+6.	 Provide details of any corrective actions taken or 
+underway to address significant risks / concerns 
+arising from assessments of health and safety 
+practices and working conditions   of value chain 
+partners.
+	
+Not Applicable
+PRINCIPLE 4 - Businesses should respect the 
+interests of and be responsive to all its stakeholders
+As a responsible organization, our primary goal is to 
+ensure well-being for all stakeholders over the long 
+term. To address investor concerns, we’ve established 
+a Stakeholders Relationship Committee (SRC). Our 
+technological 
+infrastructure 
+and 
+data 
+analytics 
+capabilities are pivotal in resolving critical issues for 
+all stakeholders, including customers, insurer partners, 
+and lending partners. By providing valuable data 
+insights to our insurer and lending partners, we aim 
+to improve their service delivery while continuously 
+investing in our platforms to enhance customer 
+experience with convenience, speed, and choice.
+2.	 List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group.
+Stakeholder Group 
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group 
+(Yes/No)  
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other  
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly 
+/ others – please 
+specify)  
+Purpose and scope 
+of engagement 
+including key 
+topics and concerns 
+raised during such 
+engagement 
+Customers
+N
+Customer Feedback/Customer 
+Satisfaction Index (CSAT) 
+Website, Social Media 
+Platforms
+Ongoing
+Customer Satisfaction
+Employees
+N
+Notice Boards, Website, 
+Employee Survey feedback, 
+Annual Performance Review, 
+Meetings, Trainings
+Ongoing
+Working condition, 
+Employee 
+performance and 
+Career Progression, 
+Employee 
+Satisfaction 
+Shareholders
+N
+AGM, Investor meets, 
+Filing to Stock Exchanges, 
+Investor Grievance redressal 
+mechanism, Newspaper 
+publications, website of the 
+company
+Ongoing
+Business Strategies 
+and Performance
+Regulatory 
+Authorities
+N
+Regulatory Filings
+Ongoing
+Legal Compliances
+Media
+N
+Press Releases, Social Media 
+Platforms, Media interactions
+Ongoing
+Information 
+dissemination, 
+communicating 
+company’s 
+perspective
+Community
+N
+Corporate Social responsibility 
+initiatives 
+Ongoing
+Social welfare
+Additionally, we’ve formed a Risk Management 
+Committee to oversee and minimize risks, safeguarding 
+the interests of stakeholders to support our business 
+objectives and foster sustainable growth. Our robust 
+risk management framework is designed to effectively 
+mitigate various business and operational risks.
+Essential Indicators
+1.	 Describe 
+the 
+processes 
+for 
+identifying 
+key 
+stakeholder groups of the entity. 
+	
+Stakeholders are individuals or groups that have 
+interests that are affected or could be affected by an 
+organization’s activities. The internal and external 
+groups of key stakeholders have been identified 
+on the basis of their immediate impact on the 
+operations and working of the company and where 
+the business can have the greatest impact. PB 
+Fintech Limited recognizes existing and potential 
+customers, employees, shareholders, investors, 
+regulatory authorities, media, and community as its 
+stakeholders.
+Leadership Indicator
+1.	 Provide the processes for consultation between 
+stakeholders 
+and 
+the 
+Board 
+on 
+economic, 
+environmental, and social topics or if consultation is 
+delegated, how is feedback from such consultations 
+provided to the Board.
+	
+We believe in a consultative approach that 
+involves all stakeholders to ensure value creation. 
+We regularly report stakeholder concerns, both 
+explicit and perceived, to the executive committee 
+for consideration. We also share the Company’s 
+policies and actions as input for the stakeholders. 
+These concerns are viewed as both risks and 
+opportunities for the Company, and we identify 
+strategies to mitigate the risks and capitalize on the 
+opportunities. 
+2.	 Whether stakeholder consultation is used to 
+support the identification and management of 
+environmental, and social topics (Yes / No). If so, 
+provide details of instances as to how the inputs 
+received from stakeholders on these topics were 
+incorporated into policies and activities of the entity.
+	
+Yes, the company has always maintained a 
+regular and proactive engagement with the 
+Company’s important stakeholders, allowing it 
+to work efficiently on its ESG strategies and be 
+transparent about the results. In response to current 
+requirements and interactions with stakeholders, 
+the Company performs periodic evaluations to 
+update and revise policies. 
+3.	 Provide details of instances of engagement with, 
+and actions taken to, address the concerns of 
+vulnerable/ marginalized stakeholder groups.
+	
+The Company actively engages and responds to 
+the underprivileged, vulnerable, and marginalized 
+segments of society. The Company, as part of its 
+voluntary community initiatives, takes care of the 
+needs of the poor and disadvantaged, either directly 
+or through NGOs operating in the neighbourhood of 
+activities. 
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+155
+PRINCIPLE 5 - Businesses should respect and 
+promote human rights 
+Essential Indicators
+We are dedicated to safeguarding the human rights 
+of all individuals affected by our business operations, 
+particularly our employees and those who may be 
+vulnerable or marginalized. We consistently promote 
+adherence to our Human Rights Policy among 
+our business partners and third-party associates. 
+Additionally, we have implemented a Policy on 
+Preventing Sexual Harassment in the Workplace and 
+an Equal Employment Opportunity Policy, supported by 
+accessible grievance redressal mechanisms to address 
+any human rights-related concerns effectively.  
+Policybazaar extends LEAP programme to its Service Advisors
+1.	 Employees who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format:  
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of employees /
+workers covered (B) % (B / A)
+Total (C)
+No. of / employees’ 
+workers covered (D) % (D / C)
+Permanent
+18441
+18441
+100%
+14318
+14318
+100%
+Other than
+permanent
+1658
+1658
+100%
+1149
+1149
+100%
+Total Employees
+20099
+20099
+100%
+15467
+15467
+100%
+2.	 Details of minimum wages paid to employees, in the following format: 
+Category 
+FY 2023-24 
+FY 2022-23
+Total 
+(A)
+Equal to 
+Minimum Wage 
+More than 
+Minimum Wage 
+Total 
+(D) 
+Equal to 
+Minimum Wage 
+More than 
+Minimum Wage 
+No. (B) 
+% (B / A) 
+No. 
+(C) 
+% (C / 
+A) 
+ 
+No. (E) % (E / D) No. (F) % (F / D) 
+Permanent  
+Male 
+14,140
+20
+0.14%
+14120
+99.86%
+10,921
+64
+1%
+10857
+99%
+Female 
+4,301
+1
+0.02%
+4300
+99.98%
+3,397
+28
+1%
+3369
+99%
+Other than Permanent
+Male 
+952
+121
+13%
+831
+87%
+668
+261
+39%
+407
+61%
+Female 
+706
+13
+2%
+693
+98%
+481
+36
+7%
+445
+93%
+3.	 Details of remuneration/salary/wages, in the following format: 
+a.	 Median remuneration / wages
+ 
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category 
+Number 
+Median remuneration/ 
+salary/ wages of respective 
+category 
+Board of Directors (BoD) *
+6
+34,50,000
+3
+31,00,000
+Key Managerial Personnel**
+2
+1,14,74,250
+-
+-
+Employees other than BoD 
+and KMP 
+14140
+3,60,000
+4301
+3,13,728
+Workers 
+-
+-
+-
+-
+	
+*Median Remuneration of directors does not include value of ESOPs.
+	
+ **KMPs other than board of directors
+b.	 Gross wages paid to females as % of total wages paid by the entity in the following format:
+ 
+FY 2023-24
+FY 2022-23
+Gross wages paid to female as %age of total wages
+19.73%
+19.62
+4.	 Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business? (Yes/No) .
+	
+Yes, the HR Head is the focal point responsible for addressing human rights impacts or issues caused or 
+contributed to by the business.
+5.	 Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+The details of grievance redressal mechanism related to human rights issues are provided in Principle 3, point 
+No. 6.
+6.	 Number of Complaints on the following made by employees and workers: 
+ 
+FY 2023-24
+FY 2022-23
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks 
+Filed 
+during 
+the year 
+Pending 
+resolution 
+at the end of 
+year
+Remarks 
+Sexual Harassment 
+17
+Nil
+NA
+18
+2
+2 complaints pending on 
+closure of the FY 2022-23 are 
+closed.
+Discrimination at 
+workplace 
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Child Labour 
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Forced Labour/
+Involuntary Labour 
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Wages 
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Other human rights 
+related issues 
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+7.	 Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) 
+Act, 2013, in the following format:
+ 
+FY 2023-24
+FY 2022-23
+Total Complaints reported under Sexual Harassment on of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+17
+18
+Complaints on POSH as a % of female employees / workers
+0.34
+0.46
+Complaints on POSH upheld
+6
+7
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+157
+8.	 Mechanisms to prevent adverse consequences to 
+the complainant in discrimination and harassment 
+cases.  
+	
+PB Fintech Limited is committed to providing a safe 
+and positive work environment. Employees also have 
+access to several forums where they can highlight 
+matters or concerns faced at the workplace. This 
+is achieved through a well-established and robust 
+grievance resolution mechanism, which are based 
+on the principles of natural justice, confidentiality, 
+sensitivity, 
+non-retaliation, 
+and 
+fairness 
+while 
+addressing concerns. Also, the Whistle Blower 
+Policy provides for the complete protection to the 
+whistleblowers against any unfair practice like 
+retaliation, threat, or intimidation of termination/
+suspension of service, disciplinary action, transfer, 
+demotion, refusal of promotion, or the like including 
+any direct or indirect use of authority to obstruct the 
+whistleblower’s right to continue to perform his/her 
+duties/functions including making further complaint.
+	
+https://www.pbfintech.in/pdf/whistle-blower-
+policy-pbfintech.pdf
+9.	 Do human rights requirements form part of your 
+business agreements and contracts? (Yes/No)  
+	
+No, however the Legal function is studying this 
+and working towards including human rights 
+requirements in business agreements and contracts. 
+10.	 Assessments for the year: 
+% of your plants and offices that were assessed
+(by entity or statutory authorities or third parties) 
+Child labour  
+100%
+Forced/involuntary labour  
+100%
+Sexual harassment 
+100%
+Discrimination at workplace 
+100%
+Wages 
+100%
+Others – please specify 
+ 
+	
+All the assessments have been done by the entity during the course of business operations and according to 
+applicable regulations and policies of the organization.
+11.	 Provide details of any corrective actions taken or 
+underway to address significant risks / concerns 
+arising from the assessments at Question 9 above.  
+	
+Not Applicable
+Leadership Indicator
+1.	 Details of a business process being modified / 
+introduced as a result of addressing human rights 
+grievances/complaints.
+	
+Not Applicable
+2.	 Details of the scope and coverage of any Human 
+rights due-diligence conducted.
+	
+Not Applicable
+3.	 Is the premise/office of the entity accessible to 
+differently abled visitors, as per the requirements of 
+the Rights of Persons with Disabilities Act, 2016? 
+	
+We do not have a ramp facility in Building No. 109, 
+116 and 135P as it’s not feasible due to high stairs 
+entrance. In case any requirement is observed, 
+to cater the same our security and housekeeping 
+staff are available to assist our differently abled 
+employees. Rest all our buildings have ramp 
+facilities either fixed or movable. Other locations are 
+also covered with this facility.
+4.	 Details on assessment of value chain partners:
+ 
+% of value chain partners (by value of business done with such partners) 
+that were assessed 
+Sexual harassment
+-
+Discrimination at workplace
+-
+Child labour
+-
+Forced/involuntary labour  
+-
+Wages 
+-
+Others – please specify 
+-
+5.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+the assessments at Question 4 above.
+	
+Not Applicable
+PRINCIPLE 6 - Businesses should respect and make efforts to protect and restore the environment
+As a responsible corporate entity, our company is committed to minimising its environmental footprint. We adhere 
+to all relevant environmental regulations governing our premises and operations, and we encourage stakeholders 
+to do the same. Despite being a technology-focused firm with minimal environmental impact, we actively seek 
+Essential Indicators
+1.	 Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter 
+FY 2023-24
+FY 2022-23
+From renewable resources
+ 
+ 
+Total electricity consumption (A)  
+173 GJ 
+212 GJ 
+Total fuel consumption (B) 
+-
+-
+Energy consumption through other sources (C) 
+- 
+- 
+Total energy consumed from renewable resources (A+B+C) 
+173 GJ 
+212 GJ 
+From non - renewable resources
+ 
+ 
+Total electricity consumption (D)
+28634 GJ
+26410 GJ
+Total fuel consumption (E)
+3458 GJ
+3999 GJ
+Energy consumption through other sources (F)
+-
+-
+Total energy consumed from non-renewable sources (D+E+F)
+32092 GJ
+30409 GJ
+Total energy consumed (A+B+C+D+E+F)
+32265 GJ 
+30621 GJ 
+Energy intensity per rupee of turnover (Total energy 
+consumption/ Revenue from operation) 
+9.39 GJ/Crores of 
+Turnover
+11.97 GJ/Crores of 
+Turnover
+Energy intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP) (Total energy consumed / Revenue from 
+operations adjusted for PPP)
+2.58 GJ/Crores of 
+Turnover
+3.34 GJ/Crores of 
+Turnover
+Energy intensity in terms of physical output
+- 
+- 
+Energy intensity (optional) – the relevant metric may be selected 
+by the entity 
+-
+-
+	
+Note: Indicate if any independent assessment / evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency. 
+	
+N, No independent assessment / evaluation/assurance has been carried out by an external agency.
+2.	 Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under 
+the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, 
+if any. 
+	
+The operations of the company are not covered under the Performance, Achieve and Trade (PAT) Scheme of the 
+Government of India.
+3.	 Provide details of the following disclosures related to water, in the following format: 
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kilolitres) 
+(i)	 Surface water 
+-
+-
+(ii)	 Groundwater 
+-
+-
+(iii)	Third party water*
+15000
+12000
+(iv)	Seawater / desalinated water 
+-
+-
+(v)	 Others  
+-
+-
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v) 
+15000
+12000
+Total volume of water consumption (in kilolitres)  
+15000
+12000
+Water intensity per rupee of turnover (Total water consumption / 
+Revenue from operations) 
+4.36 KL/Crores of 
+Turnover
+4.69 KL/Crores of 
+Turnover
+Water intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP)(Total water consumption / Revenue
+from operations adjusted for PPP)
+1.2 KL/Crores of 
+Turnover
+1.3 KL/Crores of 
+Turnover
+ways to optimize resource usage in our operations. This includes integrating environmentally friendly equipment 
+such as energy-efficient technologies. Additionally, we have implemented procedures for the responsible disposal 
+of electronic waste (E-waste). Our company aims to embrace sustainable products and practices, working diligently 
+to minimize the carbon footprint associated with our operations and facilities.
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+159
+Parameter
+FY 2023-24
+FY 2022-23
+Water intensity in terms of physicalOutput
+-
+-
+Water intensity (optional) – the relevant metric may be selected 
+by the entity 
+-
+-
+	
+*Municipal Water  
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency. 
+	
+N, No independent assessment / evaluation/assurance has been carried out by an external agency
+4.	 Provide the following details related to water discharged:
+	
+Water is discharged into municipal drainage system and is not being tracked.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency. 
+	
+No independent assessment/ evaluation/assurance has been carried out by any external agency.
+5.	 Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+Not Applicable
+6.	 Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2023-24
+FY 2022-23*
+NOx
+Gm/Kwh
+0.55
+-
+SOx
+-
+-
+-
+Particulate matter (PM)
+Gm/Kwh
+0.08
+-
+Persistent organic pollutants (POP)
+-
+-
+-
+Volatile organic compound (VOC)
+-
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+-
+Others- please specify
+-
+-
+-
+	
+*Tracking for this data has started from FY23-24
+	
+Note: Indicate if any independent assessment / evaluation / assurance has been carried out by an external 
+agency? (Y/N) if yes, name of the external agency.
+	
+No independent assessment/ evaluation/assurance has been carried out by any external agency 
+7.	 Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format: 
+Parameter 
+Unit 
+FY 2023-24
+FY 2022-23
+Total Scope 1 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available) 
+Metric tonnes of 
+CO2 Equivalent*
+1477
+296
+Total Scope 2 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available) 
+Metric tonnes of 
+CO2 equivalent 
+5695
+5942
+Total Scope 1 and Scope 2 emissions intensity per rupee 
+of turnover (Total Scope 1 and Scope 2 GHG emissions / 
+Revenue from operations)
+ Metric tonnes of 
+CO2 Equivalent / 
+Crores of Turnover
+2.09 TCO2e / Crores 
+of Turnover
+2.44 TCO2e / Crores 
+of Turnover
+Total Scope 1 and Scope 2 emission intensity per rupee 
+of turnover adjusted for Purchasing Power Parity (PPP) 
+(Total Scope 1 and Scope 2 GHG emissions / Revenue 
+from operations adjusted for PPP)
+Metric tonnes of 
+CO2 Equivalent / 
+Crores of Turnover
+0.57 TCO2e / Crores 
+of Turnover
+0.64 TCO2e / Crores 
+of Turnover
+Total Scope 1 and Scope 2 emission intensity in terms 
+of physical output
+ -
+ -
+ -
+Total Scope 1 and Scope 2 emission intensity (optional) 
+– the relevant metric may be selected by the entity 
+ -
+ -
+ -
+	
+*The increase in Scope1 GHG emissions are on account of inclusion of Refrigerate gases data in FY23-24
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency. 
+	
+No independent assessment/ evaluation/assurance has been carried out by any external agency 
+8.	 Does the entity have any project related to reducing 
+Green House Gas emission? If Yes, then provide 
+details.  
+	
+To affirm its commitment to Company’s ESG Vision 
+and to proactively reduce its carbon footprint, some 
+of the significant measures undertaken by the 
+Company on a continuous basis including during 
+the year, are listed below:
+a.	 Rationalisation of usage of electricity and 
+electrical equipment – air-conditioning system, 
+office 
+illumination 
+beverage 
+dispensers, 
+desktops
+b.	 Installation of LED lights across all floors which 
+almost emit no heat & UV emissions;
+c.	 Regular monitoring of temperature inside the 
+buildings and controlling the air conditioning 
+system.
+d.	 Usage of energy efficient illumination fixtures.
+e.	 VRV/VRF air-conditioned systems are installed 
+that are second generation energy efficient 
+products
+f.	
+All electrical appliances that we are sourcing 
+for the office are 5* (star) rated for higher energy 
+efficiency.
+9.	 Provide details related to waste management by the entity, in the following format: 
+Parameter
+FY2023-24 FY2022-23*
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+0.7
+-
+E-waste (B)
+5.07
+-
+Bio-medical waste (C)
+-
+-
+Construction and demolition waste (D)
+-
+-
+Battery waste (E)
+11.10
+-
+Radioactive waste (F)
+-
+-
+Other Hazardous waste. Please specify, if any. (G)- Used Oil
+-
+-
+Other Non-hazardous waste generated (H). Please specify, if any. - Paper
+1.50
+-
+Total (A+B + C + D + E + F + G + H)
+18.37
+-
+Waste intensity per rupee  (Crores) of turnover (Total waste generated / Revenue from 
+operations)
+0.0053
+-
+Waste intensity per rupee (Crores) of turnover adjusted for Purchasing Power Parity (PPP) 
+(Total waste generated / Revenue from operations adjusted for PPP)
+0.0014
+-
+Waste intensity in terms of physical output
+-
+-
+Waste intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in metric tonnes)
+Category of waste
+(i)	 Recycled
+18.37
+-
+(ii)	 Re-used 
+-
+-
+(iii)	Other recovery operations 
+-
+-
+Total
+18.37
+-
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i)	 Incineration
+-
+-
+(ii)	 Landfilling
+-
+-
+(iii)	Other disposal operations
+-
+-
+Total
+-
+-
+	
+*Tracking for this data has started from FY23-24.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency.
+	
+N, No independent assessment / evaluation/assurance has been carried out by an external agency.
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy 
+adopted by your company to reduce usage of hazardous and toxic chemicals in your products and processes 
+and the practices adopted to manage such wastes. 
+	
+Green practices are engrained in the Company’s culture, with employees willingly recycling and reusing paper 
+in workstations to reduce waste. All the waste are sent for recycling through authorizes collectors. We are 
+reusing all physical assets including information systems hardware and at the end of life the E-waste is given to 
+authorized recyclers / collectors. Batteries and used oil generated are disposed of through authorized vendors.
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+161
+11.	 If the entity has operations/offices in/around 
+ecologically sensitive areas (such as national parks, 
+wildlife sanctuaries, biosphere reserves, wetlands, 
+biodiversity hotspots, forests, coastal regulation 
+zones etc.) where environmental approvals / 
+clearances are required, please specify details in the 
+following format: 
+	
+No facilities are in/around ecologically sensitive 
+areas.
+12.	 Details of environmental impact assessments 
+of projects undertaken by the entity based on 
+applicable laws, in the current financial year: 
+	
+The operations of the company are not covered 
+by the 2006 notification on Environmental Impact 
+Assessment 
+13.	 Is the entity compliant with the applicable 
+environmental law/ regulations/ guidelines in 
+India; such as the Water (Prevention and Control 
+of Pollution) Act, Air (Prevention and Control of 
+Pollution) Act, Environment protection act and rules 
+thereunder (Y/N).  If not, provide details of all such 
+non-compliances, in the following format: 
+	
+Yes, PB Fintech Limited is compliant with all the 
+applicable environmental laws and regulations 
+based on its nature of business.
+Leadership Indicator
+1.	 Water withdrawal, consumption and discharge in 
+areas of water stress (in kilolitres):
+	
+For each facility / plant located in areas of water 
+stress, provide the following information:
+(i)	 Name of the area
+(ii)	Nature of operations
+	
+Water withdrawal, consumption and discharge in 
+the following format:
+	
+This is not being tracked currently
+2.	 Please provide details of total Scope 3 emissions & 
+its intensity, in the following format:
+	
+Scope 3 GHG emissions are not tracked currently. 
+3.	 With respect to the ecologically sensitive areas 
+reported at Question 11 of Essential indicators 
+above, provide details of significant direct & indirect 
+impact of the entity on biodiversity in such areas 
+along-with prevention and remediation activities.
+	
+Not Applicable
+4.	 If the entity has undertaken any specific initiatives 
+or used innovative technology or solutions to 
+improve resource efficiency, or reduce impact due 
+to emissions / effluent discharge / waste generated, 
+please provide details of the same as well as outcome 
+of such initiatives, as per the following format:
+	
+Not Applicable
+5.	 Does the entity have a business continuity and 
+disaster management plan? Give details in 100 
+words/ web link.
+	
+We have a comprehensive business continuity 
+and disaster management plan in place. This plan 
+covers services like rescue, firefighting, and first 
+aid and it prioritizes safeguarding corporate data, 
+operational integrity, infrastructure security, and 
+personnel safety. The strategy also aims to contain 
+incidents, minimize casualties, and facilitate rapid 
+relief and recovery operations. 
+6.	 Disclose any significant adverse impact to the 
+environment, arising from the value chain of the 
+entity. What mitigation or adaptation measures 
+have been taken by the entity in this regard.
+	
+Not Applicable
+7.	 Percentage of value chain partners (by value of 
+business done with such partners) that were 
+assessed for environmental impacts.
+	
+Nil
+PRINCIPLE 7 - Businesses, when engaging in influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparent.
+Essential Indicators
+1.	 a.	 Number of affiliations with trade and industry chambers/ associations. 
+	
+7 (Seven)
+b.	 List the top 10 trade and industry chambers/associations (determined based on the total members of such 
+body) the entity is a member of/affiliated to. 
+S. No. Name of the trade and industry chambers/ associations 
+Reach of trade and industry 
+chambers/ associations 
+(State/National) 
+1
+The Associated Chambers of Commerce and Industry of India (ASSOCHAM)
+National
+2
+The National Association of Software and Service Companies (NASSCOM)
+National
+3
+Internet and Mobile Association of India (IAMAI)
+National
+4
+Digital Lenders Association of India (DLAI)
+National
+5
+Federation of Indian Chambers of Commerce & Industry (FICCI)
+National
+6
+Confederation of Indian Industry (CII)
+National
+7
+The Merchant Payments Alliance of India (MPAI)
+National
+2.	 Provide details of corrective action taken or underway on any issues related to anticompetitive conduct by the 
+entity, based on adverse orders from regulatory authorities 
+	
+Not Applicable
+Leadership Indicator
+1.	 Details of public policy positions advocated by the entity:
+S. No
+Public Policy 
+advocated
+Method 
+resorted for 
+such advocacy
+Whether information 
+available in public 
+domain? (Yes / No)
+Frequency of Review by Board (Annually 
+/ Half Yearly Quarterly /Other please 
+specify 
+Web link, 
+if available
+The Company does not engage in advocacy for or against any policies. However, our active participation in trade and 
+industry associations enables us to stay informed about industry developments, contribute to policy discussions 
+within the business community. 
+PRINCIPLE 8 - Businesses should promote inclusive 
+growth and equitable development
+Our Corporate Social Responsibility (CSR) Policy and 
+Equal Opportunity policy underscore our dedication to 
+fostering inclusive growth and fair development.
+Essential Indicators
+1.	 Details 
+of 
+Social 
+Impact 
+Assessments 
+(SIA) 
+of projects undertaken by the entity based on 
+applicable laws, in the current financial year. 
+	
+No requirement of Social Impact Assessments (SIA) 
+of projects  was applicable to the company during 
+the FY 2022-23 or FY 2023-24.
+2.	 Provide information on project(s) for which ongoing 
+Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity, in the following format: 
+	
+There was no project involving R&R during the FY 
+2022-23 or FY 2023-24.
+3.	 Describe the mechanisms to receive and redress 
+grievances of the community.   
+	
+There are several mechanisms in place to receive 
+grievances from the community such as access to 
+e-mail ID of Legal and Compliance officer, Website, 
+Customer help-line/Toll-free number, Policybazaar 
+and Paisabazaar App. and every outlet. The 
+grievances from community are addressed by Legal 
+and Compliance officer along-with Stakeholders’ 
+Relationship Committee of the Board.  
+4.	 Percentage of input material (inputs to total inputs 
+by value sourced from suppliers).
+	
+Although we do not procure goods for further 
+processing due to the nature of our business, we give 
+preference for procurement of goods and services 
+which are required to run its business, to the local 
+small and medium enterprises which are listed 
+with the Company. We also prefer local employees/
+staffs for different manpower services, up to the 
+extent possible.  
+ 
+FY 2023-24 FY 2022-23
+Directly sourced from 
+MSMEs / small producers
+41%
+40%
+Directly from within India
+100%
+100%
+5.	 Job creation in smaller towns – Disclose wages 
+paid to persons employed (including employees 
+or workers employed on a permanent or non-
+permanent / on contract basis) in the following 
+locations, as % of total wage cost
+Location
+FY 2023-24
+FY 2022-
+23*
+Rural
+ -
+ -
+Semi – Urban
+ 1%
+ -
+Urban
+ 3%
+ -
+Metropolitan
+ 96%
+ -
+	
+*Tracking for this data has started from FY23-24.
+	
+Place to be categorized as per RBI Classification 
+System - rural / semi-urban / urban / metropolitan)
+Leadership Indicator
+1.	 Provide details of actions taken to mitigate any 
+negative social impacts identified in the Social 
+Impact Assessments (Reference: Question 1 of 
+Essential Indicators above
+Details of negative social 
+impact identified
+Corrective actions taken
+Not Applicable
+2.	 Provide the following information on CSR projects 
+undertaken by your entity in designated aspirational 
+districts as identified by government bodies:
+S. No. State 
+Aspirational 
+District
+Amount spent (In 
+INR)
+Not Apllicable
+3.	 (a)	 Do you have a preferential procurement policy 
+where you give preference to purchase from 
+suppliers comprising marginalized /vulnerable 
+groups? (Yes/No)
+	
+No, we does not have a preferential procurement 
+policy.
+(b)	 From which marginalized /vulnerable groups do 
+you procure?
+	
+Not Applicable
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+163
+(c) What percentage of total procurement (by value)
+does it constitute?
+Not Applicable
+4.
+Details of the benefits derived and shared from
+the intellectual properties owned or acquired by
+your entity (in the current financial year), based on
+traditional knowledge
+Not Applicable
+5.
+Details of corrective actions taken or underway,
+based on any adverse order in intellectual property
+related disputes wherein usage of traditional
+knowledge is involved.
+Not Applicable
+6.
+Details of beneficiaries of CSR Projects:
+Not Applicable as the average profit of the last three
+Financial year was not positive, the company is not
+required to do any CSR spend.
+PRINCIPLE 9 - Businesses should engage with and 
+provide value to their consumers in a responsible 
+manner
+We are dedicated to prioritizing consumer needs by 
+streamlining and digitalizing previously complex offline 
+processes. Our efforts include simplifying renewals 
+and providing real-time updates on services and 
+claims requests for an enhanced consumer experience. 
+Utilizing advanced technology such as chatbots and 
+video calls, we effectively engage with consumers 
+while also utilizing these tools for verification and 
+fraud prevention purposes. For instance, we employ 
+chatbots on WhatsApp to disseminate policy updates 
+and schedule appointments with our advisors.
+Streamlined processes such as KYC, fraud detection, 
+and motor claims have been made more efficient 
+through quick video and document uploads. We are 
+also working towards introducing voice-assisted 
+renewals to our range of renewal offerings. Our focus 
+on technology solutions emphasizes automation and 
+self-service options for consumers, supported by sales 
+and service assistance through telecalls and chats via 
+our website and app. Additionally, we have expanded 
+our support network with accessible offline stores, 
+where consumers can visit and schedule in-person 
+appointments for guidance from our advisors.
+Essential Indicators
+1.
+Describe the mechanisms in place to receive and
+respond to consumer complaints and feedback.
+At Policy Bazaar, a customer can primarily get in
+touch with the following modes:
+1.
+Complaint through My A/c.
+2.
+Complaint through social media
+3.
+Emails where IRDA is copied
+4.
+Emails where CXO’s are copied
+5.
+Toll Free Number
+6.
+Customer raise a complaint through care@
+policybazaar.com
+7.
+Customer can raise a complaint through chat on
+PB website
+The organization has put in place a structured internal 
+escalation mechanism to ensure systematic handling 
+of all complaints along with addressing the complaints 
+within a defined turnaround time and those surpassing 
+the TAT are systematically escalated to the higher 
+authority. Policy Bazaar has a system and a procedure 
+for receiving, registering and disposing of grievances. 
+The company ensures that the following minimum 
+timeframes are adopted:
+a) Endeavour is made to send a written first-time
+response to a complainant within 2 hours of the
+receipt of the grievance.
+b) The first-time response contains the name of the
+officer who will deal with the grievance
+c)
+It contains the details of the insured grievance and
+the follow-up TAT procedure and the time to be
+taken for the resolution of the complaint
+d) Where the complaint will get resolved within
+stipulated days, the resolution is communicated
+along with the acknowledgement.
+e)
+Here the grievance is not resolved within the
+stipulated working days, it is mandatory to share
+the interim time with the customer on the follow-up 
+done.
+f)	 If the customer does not respond to calls and emails 
+3 times the complaint is closed, and an interim
+closure email is also sent. The complaint is again
+opened when the customer responds.
+Regarding 
+Paisabazaar, 
+any 
+customer 
+having 
+a 
+grievance with respect to the product and services 
+offered by the company may reach out to the Company 
+through any of the following channels:
+•
+Toll Free No.
+•
+Email at: care@paisabazaar.com
+•
+Write a letter at the address: Paisabazaar Marketing
+and Consulting Private Limited, Plot number 135P,
+Sector 44, Gurgaon-122001, Haryana.
+The customers are requested to necessarily provide the 
+following details which includes:
+•
+Details of Products for which Grievance is made
+•
+Date of Application submitted
+•
+Details of Grievance
+•
+Valid Contact Information including Phone No. &
+E-mail ID registered with the Company at the time of 
+registration for availing the services of Paisabazaar.
+Once the customer Grievance is received, we will 
+endeavour to send an acknowledgement / a response 
+within 48 working hours of receiving the Grievance. 
+After examining the matter, we will send our final 
+response or explain why we need more time to respond 
+and shall endeavour to do so within 30 days of receipt 
+of Grievance.
+The Nodal Grievance Redressal Officer details are as 
+follows:
+•
+E-mail- servicehead@paisabazaar.com
+•
+Call at - 0124-6473726
+2.
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information
+about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+This is not applicable as the company is not providing 
+and physical products/services. 
+Safe and responsible usage
+Recycling and/or safe disposal
+3.
+Number of consumer complaints in respect of the following:
+The Company is committed to providing solutions that exceed customer expectations and enhance the level of
+business profitability. We consistently strive forth to ensure higher customer satisfaction.
+FY 2023-24
+FY 2022-23
+Number of 
+complaints 
+filed during 
+the year 
+Number of 
+complaints pending 
+resolution at close of 
+the year 
+Remarks 
+Number of 
+complaints 
+filed during 
+the year 
+Number of 
+complaints pending 
+resolution at close of 
+the year 
+Remarks 
+Data Privacy
+-
+-
+-
+-
+-
+-
+Advertising
+-
+-
+-
+-
+-
+-
+Cyber Security
+-
+-
+-
+-
+-
+-
+Delivery of 
+essential services
+-
+-
+-
+-
+-
+-
+Restrictive Trade 
+Practices
+-
+-
+-
+-
+-
+-
+Unfair Trade 
+Practices
+-
+-
+-
+-
+-
+-
+Others 
+11134
+130
+Out of 130 
+complaints, 
+only 25 
+complaints 
+are 
+currently 
+open and 
+under 
+process.
+7918
+12 
+12 
+complaints 
+pending 
+on closure 
+of the FY 
+2022-23 are 
+closed.
+4.
+Details of instances of product recalls on account of
+safety issues:
+Not Applicable
+5.
+Does the entity have a framework/ policy on cyber
+security and risks related to data privacy? (Yes/No)
+If available, provide a web-link of the policy.
+Yes. Information and Cybersecurity Policy of
+Policybazaar Insurance Brokers Private Limited.
+Security solutions like DLP, SOC, WAF (anti-throttling,
+geo-location protection, application security, bot
+protection, client reputation), anti-malware, XDR,
+email security suite are implemented to prevent
+security/privacy breaches. Periodic information
+security awareness trainings are conducted to
+ensure employees are aware of information security 
+responsibilities. Additionally, Policybazaar and
+Paisabazaar are ISO 27001 and PCI DSS certified.
+https://www.policybazaar.com/legal-and-admin-
+policies/
+https://www.paisabazaar.com/privacy-policy
+6.
+Provide details of any corrective actions taken
+or underway on issues relating to advertising,
+and delivery of essential services; cyber security
+and data privacy of customers; re-occurrence of 
+instances of product recalls; penalty / action taken 
+by regulatory authorities on safety of products / 
+services.
+PB 
+Fintech 
+Limited 
+has 
+a 
+comprehensive 
+cybersecurity framework which includes policies, 
+processes, procedures and standards aimed at 
+achieving and sustaining the enterprise-level 
+information security objectives. The company has 
+implemented solutions like WAF, next-gen firewall, 
+endpoint security, cloud workload security, URL 
+proxy, cloud security groups, logging & monitoring 
+and cyber threat intelligence are in place to ensure 
+adequate protection against security breaches. 
+Processes like user access rights review, database 
+access review, principle of granting least privilege 
+and backup management among others are defined, 
+documented and implemented to further strengthen 
+the cyber security and data privacy.
+7.
+Provide the following information relating to data
+breaches:
+a.
+Number of instances of data breaches
+Nil
+STATUTORY REPORTS
+Directors’ Report
+PB FINTECH LIMITED Annual Report 2023-2024
+165
+b.
+Percentage of data breaches involving personally
+identifiable information of customers
+Nil
+c.
+Impact, if any, of the data breaches
+Nil
+Leadership indicators
+1.
+Channels / platforms where information on
+products and services of the entity can be accessed
+(provide web link, if available).
+Information on products and services of the entity
+can be accessed through the websites and the apps
+of the company.
+https://www.pbfintech.in
+https://www.policybazaar.com
+https://www.paisabazaar.com
+2.
+Steps taken to inform and educate consumers about 
+safe and responsible usage of products and/or
+services.
+Not Applicable
+3.
+Mechanisms in place to inform consumers of any
+risk of disruption/discontinuation of essential
+services.
+Not Applicable
+4.
+Does the entity display product information on the
+product over and above what is mandated as per
+local laws? (Yes/No/Not Applicable) If yes, provide
+details in brief. Did your entity carry out any survey
+with regard to consumer satisfaction relating to the
+major products / services of the entity, significant
+locations of operation of the entity or the entity as a
+whole? (Yes/No)
+Product information display on the product is not
+applicable to the nature of our business.
+ 

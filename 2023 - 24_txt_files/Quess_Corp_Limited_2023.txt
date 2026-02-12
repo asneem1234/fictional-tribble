@@ -1,0 +1,2905 @@
+ 
+ 
+August 23, 2024 
+ 
+  To 
+BSE Limited, 
+1st Floor, New Trading Ring, 
+Rotunda Building, Phiroz Jeejeebhoy  
+Towers, Dalal Street, 
+Mumbai – 400 001 
+National Stock Exchange of India Limited 
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (East),  
+Mumbai – 400 051 
+Security Code – 539978 
+NSE Symbol – QUESS 
+ 
+Dear Sir/Madam, 
+ 
+Sub:  Business Responsibility and Sustainability Report for the financial year 2023-24 
+ 
+Pursuant to Regulation 34(2)(f) of Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 (“Listing Regulations”), please find 
+enclosed the Business Responsibility and Sustainability Report for the financial year 2023- 24, 
+which also forms part of the Annual Report for the financial year 2023-24. 
+ 
+The Business Responsibility and Sustainability Report is also uploaded on the official website 
+of the Company at the following link: https://www.quesscorp.com/investor-other-
+information/ and is being filed in XBRL as required.  
+ 
+This is for your information and records. 
+ 
+For Quess Corp Limited 
+ 
+ 
+Kundan K Lal 
+Company Secretary and Compliance Officer 
+Kundan 
+Kumar Lal
+Digitally signed by 
+Kundan Kumar Lal 
+Date: 2024.08.23 
+13:11:16 +05'30'
+Annual Report 2023-24  65
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+ANNEXURE – A
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING 
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1	
+Corporate Identity Number (CIN) of the Listed Entity
+L74140KA2007PLC043909
+2	
+Name of the Listed Entity
+Quess Corp Limited
+3	
+Year of incorporation
+2007
+4	
+Registered office address
+3/3/2, Bellandur Gate, Sarjapur Main Road, Bengaluru - 
+560103, Karnataka, India
+5	
+Corporate address
+3/3/2 Bellandur Gate, Sarjapur Main Road, Bengaluru - 
+560103, Karnataka, India
+6	
+E-mail
+investor@quesscorp.com 
+7	
+Telephone
+08061056001
+8	
+Website
+www.quesscorp.com 
+9	
+Financial year for which reporting is being done
+1 April 2023 to 31 March 2024
+10	 Name of the Stock Exchange(s) where shares are listed
+BSE Limited (BSE) 
+National Stock Exchange of India Limited (NSE)
+11	 Paid-up Capital
+` 1,485.10 million
+12	 Name and contact details (telephone, email address) of the 
+person who may be contacted in case of any queries on the 
+BRSR report
+Mr. Kundan K Lal 
+Vice President & Company Secretary
+080-61056001 
+cosecretary@quesscorp.com 
+13	 Reporting boundary - Are the disclosures under this report 
+made on a standalone basis (i.e. only for the entity) or on 
+a consolidated basis (i.e. for the entity and all the entities 
+which form a part of its consolidated financial statements, 
+taken together)
+The disclosures under this report are made on a consolidated 
+basis. Quess Group comprises of Quess Corp Limited and its 
+Subsidiaries, the details of which are given in point No. 23 of 
+Section A of Business Responsibility and Sustainability Report 
+(BRSR) and on page 67 of the Annual Report FY 2023-24. 
+All these entities are considered for the purpose of financial 
+consolidation; however, for the purpose of reporting data and 
+information in BRSR, we have considered Quess Corp Limited, 
+its 12 Subsidiaries based on the management’s assessment, 
+the list of which are given as appendix to BRSR. 
+14	 Name of assurance provider
+Not Applicable (As per the SEBI Applicability Criteria)
+15	 Type of assurance obtained
+Not Applicable (As per the SEBI Applicability Criteria)
+II:	 Products/services
+16.	 Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of Main Activity
+Description of Business Activity
+% of 
+Turnover of 
+the entity
+1
+Workforce Management
+End-to-end HR services, from customized staffing services, expert 
+talent acquisition, search and recruitment, payroll compliance, training 
+and skill development, to manpower management
+70.38%
+2
+Operating Asset Management
+Facility management, security services, food services, or the more 
+complex ERP, industrial, and cellular services
+14.66%
+3
+Global Technology Solutions*
+CLM and BPO Services, After-Sales Services, HR Outsourcing & 
+Consulting Services, and Digital Transformation Services to Business 
+Consulting Services and IT Consulting Services
+12.25%
+4
+Product Led Businesses
+Digital platforms for workforce hiring, management, engagement, and 
+non-compensation benefits. 
+2.71%
+	
+*Consolidated Basis.
+66    QUESS CORP LIMITED
+17. 	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No.
+Product/Service
+NIC Code
+% of total Turnover contributed
+1
+Workforce Management
+7830
+70.38%
+2
+Operating Asset Management
+74909
+14.66%
+3
+Global Technology Solutions*
+62099
+12.25%
+4
+Product Led Businesses
+62099
+2.71%
+	
+*Consolidated Basis.
+III. 	 Operations
+18. 	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+Nil
+70
+70
+International
+Nil
+13
+13
+19. 	 Markets served by the entity:
+a. 	 Number of locations
+Locations
+Number
+National (No. of States)
+24
+International (No. of Countries)
+8
+b. 	 What is the contribution of exports as a percentage of the total turnover of the entity?
+Less than 1% (Standalone)
+c. 	 A brief on types of customers
+Quess is one of India’s largest private sector companies and a diversified business services provider with a host of 
+technology-enabled staffing and managed outsourcing services across processes such as staffing, facility management, 
+customer care, after-sales service, telecom operations, manufacturing operations, HR & F&A operations, IT & mobility 
+services, etc. We cater to a wide range of B2B segments, delivering comprehensive solutions across multiple industries.
+IV.	 Employees
+20. 	Details as at the end of Financial Year:
+a. 	 Employees and workers (including differently abled):
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No.(B)
+%(B/A)
+No. (C)
+%(C/A)
+EMPLOYEES
+1
+Permanent (D)
+8,734
+5,492
+63%
+3,242
+37%
+2
+Other than Permanent (E)
+461
+198
+43%
+263
+57%
+3
+Total employees (D + E)
+9,195
+5,690
+62%
+3,505
+38%
+WORKERS : 
+4
+Permanent (F)
+5,13,700
+4,21,217
+82%
+92,483
+18%
+5
+Other than Permanent (G)
+51,850
+43,292
+83%
+8,558
+17%
+6
+Total employees (F+ G)
+5,65,550
+4,64,509
+82%
+1,01,041
+18%
+Annual Report 2023-24  67
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+b. 	 Differently abled Employees and workers:
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No.(B)
+%(B/A)
+No. (C)
+%(C/A)
+DIFFERENTLY ABLED EMPLOYEES*
+1
+Permanent (D)
+8
+7
+88%
+1
+13%
+2
+Other than Permanent (E)
+-
+-
+-
+-
+-
+3
+Total differently abled employees (D + E)
+8
+7
+88%
+1
+13%
+DIFFERENTLY ABLED WORKERS:
+4
+Permanent (F)
+504
+444
+88%
+60
+12%
+5
+Other than Permanent (G)
+-
+-
+-
+-
+-
+6
+Total employees (F+ G)
+504
+444
+88%
+60
+12%
+21.	 Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of Females
+No.(B)
+%(B/A)
+Board of Directors
+8
+1
+12.5
+Key Management Personnel
+3
+0
+0
+22. 	Turnover rate for permanent employees and workers
+	
+(Disclose trends for the past 3 years)
+FY- 2024
+(Turnover rate in current FY)
+FY- 2023
+(Turnover rate in previous FY)
+FY- 2022
+(Turnover rate in the year prior 
+to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+48.6%
+38.5%
+41.4%
+47.0%
+61.5%
+50.8%
+47.3%
+56.0%
+49.5%
+Permanent Workers
+72%
+17%
+89%
+-
+-
+-
+-
+-
+-
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+23. 	(a) Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No.
+Name of the holding / subsidiary / associate companies / 
+joint ventures (A)
+Indicate whether 
+holding/ 
+Subsidiary/ 
+Associate/ Joint 
+Venture
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity indicated 
+at column A, participate 
+in the Business 
+Responsibility initiatives of 
+the listed entity? (Yes/No)
+1
+Agency Pekerjaan Quess Recruit Sdn. Bhd.
+Associate
+49%
+No
+2
+Agensi Pekerjaan Monster Malaysia Sdn Bhd
+Subsidiary 
+49%
+No
+3
+Allsec Technologies Limited
+Subsidiary
+73.39%
+Yes
+4
+Allsectech Inc., USA
+Subsidiary 
+100%
+No
+5
+Allsectech Manila Inc., Philippines
+Subsidiary 
+100%
+No
+6
+Bluspring Enterprises Limited
+Subsidiary 
+100%
+No
+7
+Billion Careers Private Limited
+Subsidiary 
+100%
+Yes
+8
+Brainhunter Systems Limited
+Subsidiary 
+100%
+No
+9
+Comtelink SDN. BHD
+Subsidiary 
+100%
+No
+10
+Digitide Solutions Limited
+Subsidiary 
+100%
+No
+11
+Excelus Learning Solutions Private Limited
+Subsidiary 
+100%
+Yes
+68    QUESS CORP LIMITED
+S. 
+No.
+Name of the holding / subsidiary / associate companies / 
+joint ventures (A)
+Indicate whether 
+holding/ 
+Subsidiary/ 
+Associate/ Joint 
+Venture
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity indicated 
+at column A, participate 
+in the Business 
+Responsibility initiatives of 
+the listed entity? (Yes/No)
+12
+Heptagon Technologies Private Limited
+Subsidiary 
+100%
+Yes
+13
+MFXchange (USA), Inc.
+Subsidiary 
+100%
+No
+14
+MFXchange Holdings, Inc.
+Subsidiary 
+100%
+No
+15
+Mindwire Systems Limited
+Subsidiary 
+100%
+No
+16
+Monster.com (India) Private Limited
+Subsidiary 
+83.12%
+Yes
+17
+Monster.com HK Limited
+Subsidiary 
+100%
+No
+18
+Monster.com.SG Pte Limited
+Subsidiary 
+100%
+No
+19
+Quess (Philippines) Corp 
+Subsidiary 
+100%
+No
+20
+Quess Corp (USA) Inc.
+Subsidiary 
+100%
+No
+21
+Quess Corp Lanka (Private) Limited
+Subsidiary 
+100%
+No
+22
+Quess Corp NA LLC
+Subsidiary 
+100%
+No
+23
+Quess Corp Vietnam Limited Liability Company 
+Subsidiary 
+100%
+No
+24
+Quess East Bengal FC Private Limited
+Subsidiary 
+100%
+No
+25
+Quess International Services Private Limited
+Subsidiary 
+100%
+Yes
+26
+Quess Recruit Inc.
+Associate 
+25%
+No
+27
+Quess Selection & Services Pte Ltd
+Subsidiary 
+100%
+No
+28
+Quesscorp Holdings Pte. Limited 
+Subsidiary 
+100%
+No
+29
+Quesscorp Singapore Pte Ltd 
+Subsidiary 
+100%
+No
+30
+Quessglobal (Malaysia) Sdn. Bhd
+Subsidiary 
+100%
+No
+31
+Stellarslog Technovation Private Limited
+Subsidiary 
+100%
+Yes
+32
+Terrier Security Services (India) Private Limited 
+Associate 
+48.05%
+Yes
+33
+Trimax Smart Infraprojects Private Limited
+Subsidiary 
+100%
+Yes
+34
+Vedang Cellular Services Private Limited
+Subsidiary 
+96.97%
+Yes
+VI.	  CSR Details
+24. 	(i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+Yes
+(ii) 	 Turnover (in Million)
+` 1,55,711.84 (Standalone)
+(iii) 	 Net worth (in Million.)
+` 26,889.69(Standalone)
+	
+Note: We have provided the turnover and net worth on a standalone as CSR is applicable based on the eligibility criteria for the 
+respective entity.
+Annual Report 2023-24  69
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+VII. 	Transparency and Disclosures Compliances
+25. 	Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct:
+Stakeholder 
+group from 
+whom complaint 
+is received
+Grievance Redressal 
+Mechanism in Place (Yes/
+No) (If Yes, then provide 
+web-link for grievance 
+redress policy)
+FY- 2024 Current Financial Year
+FY- 2023 Previous Financial Year
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number 
+of com-
+plaints 
+filed dur-
+ing the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes, https://www.quesscorp.
+com/corporate-governance/ 
+0
+0
+NIL
+0
+0
+NIL
+Investors 
+(other than 
+shareholders)
+Yes, https://www.quesscorp.
+com/corporate-governance/ 
+0
+0
+NIL
+0
+0
+NIL
+Shareholders
+Yes, https://www.quesscorp.
+com/corporate-governance/ 
+14
+0
+All 14 
+disposed off
+7
+0
+All 7 disposed off
+Employees and 
+workers
+Yes, https://www.quesscorp.
+com/corporate-governance/ 
+33
+0
+All 33 
+disposed 
+off
+0
+0
+NIL
+Customers
+Yes, https://www.quesscorp.
+com/corporate-governance/ 
+0
+0
+NIL
+0
+0
+NIL
+Value Chain 
+Partners
+Yes, https://www.quesscorp.
+com/corporate-governance/ 
+0
+0
+NIL
+0
+0
+NIL
+Other (please 
+specify)
+Yes, https://www.quesscorp.
+com/corporate-governance/ 
+0
+0
+NIL
+6
+0
+All 6 disposed 
+off (Clarifications 
+were sought 
+by SEBI and 
+Stock Exchange 
+which were 
+satisfactorily 
+replied/resolved)
+	
+Note: Does not include Posh Complaint
+70    QUESS CORP LIMITED
+26.	 Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters 
+that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk 
+along-with its financial implications. 
+Sr. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for 
+identifying the 
+risk / opportunity
+In case of risk, approach to adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+1
+Transformation 
+& Automation
+R
+Constant changes 
+in technologies 
+and automation.
+In the era of digital transformation, we give 
+much importance to digital needs by constantly 
+improving and updating our digital platforms.
+We are constantly moving our business to digital 
+and well-organised data management systems 
+thereby improving and providing better customer 
+services and satisfaction to our clients and 
+stakeholders.
+This helps us to upscale our business and better 
+customer service.
+Leveraging our industry domain knowledge with 
+technology, helps us provide unique business 
+solutions and value propositions to our customers 
+with our tech-applications such as Qjobs, WorQ, 
+Dash, HR modules, etc.
+Positive 
+Implications
+2
+Cyber Security & 
+Data Protection
+R
+Data is of 
+paramount 
+importance, 
+and ensuring its 
+safeguarding is 
+crucial
+Our Cyber Security Council, chaired by the Chief 
+Technology Officer and business IT Heads, 
+meets periodically, with a specific focus on cyber 
+security and data protection risks. Furthermore, 
+the Committee monitors emerging practices 
+and technologies to improve IT systems and 
+infrastructure. Firewall and real-time security 
+monitoring systems to secure our IT environment. 
+Initiatives like VAPT, SIEM, DLP, MDM, etc., have 
+significantly strengthened our security posture
+Positive 
+Implications
+3
+Safety at Work
+R
+Ensuring 
+employee safety 
+and security in 
+a challenging 
+environment to 
+prevent injuries 
+and casualties.
+Our comprehensive Health, Safety and 
+Environment Conservation Policy and the 
+Emergency Procedure Policy govern procedures 
+for our employee safety and incident management. 
+The employee appbased HRMS tool includes an 
+upgraded workflow dedicated to safety incident 
+reporting. The Unified Help Desk (UHD) is 
+responsible for actively monitoring and responding 
+to incidents reported through the app. Mandatory 
+safety training during induction and yearly 
+refreshers, along with job-specific training, boost 
+awareness and adherence to safety protocols
+Positive 
+Implications
+Annual Report 2023-24  71
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+4
+Diversity & 
+Inclusion
+R
+Low productivity 
+of the workforce 
+due to the lack 
+of diversity, 
+inequality, talent, 
+etc.
+Quess is dedicated to sourcing talent from diverse 
+backgrounds worldwide, fostering a distinctive 
+work culture that optimizes our potential and 
+enhances our customers’ productivity. Our 
+Company’s commitment to Equal Employment 
+Opportunity Policy reiterates the organisation’s 
+commitment towards non-discrimination of 
+candidates based on age, colour, sex, disability, 
+marital status, race, religion and sexual 
+orientation. Through our partnerships with various 
+NGOs, we successfully induced PWD associates 
+into the workforce. In alignment with the Prime 
+Minister’s initiative for NARI SHAKTI, our 
+immediate objective is to enhance gender diversity 
+among core employees to 50% (currently at 36%) 
+through strategic talent acquisitions by next year. 
+Numerous workshops are conducted to attract 
+talent in line with this goal.
+Positive 
+Implications
+5
+Climate 
+Changes & 
+reduction 
+of Carbon 
+Footprint
+R
+Global warming 
+and Company’s 
+operations might 
+negatively impact 
+the natural 
+environment
+We continue to drive key sustainability initiatives 
+across our businesses, even though we are a 
+low-carbon emitting company. For the year, we 
+could recycle 5.3K+ kgs of paper waste and 20.2K+ 
+Kgs of E-waste. Our central Kitchen waste is sent 
+to state-approved biogas vendors as a part of the 
+waste disposable management policy. Although 
+our electricity consumption has been a key focus 
+area, to further reduce our Scope 2 emissions, we 
+have taken measures such as usage of LED lights 
+across our multiple office locations as a part of 
+green energy initiatives.
+Positive 
+Implications
+6
+Employee 
+Training
+R
+Lack of proper 
+training and skills 
+in the workforce 
+will lead to poor 
+productivity 
+& employee 
+satisfaction
+Our company is committed to providing utmost 
+importance to proper skill development and 
+upskilling of employees. Our HRMS tool provides 
+mandatory learning for all employees and ensures 
+every employee completes 40 hrs of learning in 
+a year. HRMS tool constantly gets updated with 
+new courses and modules to provide a wide range 
+of knowledge to develop both technical and soft 
+skills required for the growth and development 
+of the employee, which boosts their productivity. 
+In addition to the skill enhancement modules, 
+compliance based modules such as CoC, POSH, 
+Insider Trading, ESG, ERM, etc. are completed 
+by all employees annually. In FY24, employees 
+underwent an avg. of ~ 43 hrs of training.
+Positive 
+Implications
+7
+Compliance with 
+labour laws
+R
+Lack of tracking 
+and adherence 
+to labour laws 
+and regulations 
+might seriously 
+disrupt business 
+operations, loss 
+of reputation 
+including fines 
+and penalties
+Given our diversified staffing business across 
+multiple industries and sectors, there is an 
+increased risk of non-compliance with regulatory 
+labour requirements. Our central compliance 
+team, along with the business compliance team, 
+consistently monitor adherence to labour laws 
+at central, state, and local levels. Important 
+compliances like minimum wages, PF, ESI, PT, 
+LWF, Gratuity, etc., are regularly tracked and 
+reported periodically across the businesses
+Negative 
+Implications
+72    QUESS CORP LIMITED
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy And Management Processes
+1.	
+a.	
+Whether your entity’s policy/policies cover each principle and its 
+core elements of the NGRBCs. (Yes/No)
+Yes
+b.	
+Has the policy been approved by the Board? (Yes/No)
+Yes
+c. 	 Web Link of the Policies, if available
+https://www.quesscorp.com/corporate-governance
+2. 	 Whether the entity has translated the policy into procedures. (Yes / 
+No)
+Yes
+3. 	 Do the enlisted policies extend to your value chain partners? (Yes/No)
+Yes
+4. 	 Name of the national and international codes/certifications/labels/ 
+standards (e.g. Forest Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustea) standards (e.g. SA 8000, OHSAS, ISO, BIS) adopted 
+by your entity and mapped to each principle.
+Companies Act 2013, ISO standards, GPTW, UNSDG, 
+FSSAI, and BIS
+5. 	 Specific commitments, goals and targets set by the entity with defined 
+timelines, if any.
+We have specific commitments and targets for FY25 
+1. 	
+5 million digital job opportunities 
+2. 	 50% women core workforce 
+3. 	 20% emission intensity reduction 
+4. 	 100% ESG compliance new vendors 
+6. 	 Performance of the entity against the specific commitments, goals 
+and targets along-with reasons in case the same are not met.
+1.	
+We have over 7.7 million job opportunities on Qjobs, 
+out of which 2 million jobs were created in FY24.
+2.	
+38% Core women employees and 18% associate 
+women employees
+3.	
+19% reduction in emissions intensity from baseline 
+year of FY22
+4.	
+93% ESG compliance new vendor.
+Governance, leadership and oversight
+7: Statement by director responsible for the business responsibility report, highlighting 
+ESG related challenges, targets and achievements (listed entity has flexibility regarding 
+the placement of this disclosure)
+Refer CEO Speech section of the Annual 
+Report 2024 on page no. 19
+8: Details of the highest authority responsible for implementation and oversight of the 
+Business Responsibility policy (ies).
+Mr. Guruprasad Srinivasan, Executive 
+Director and Group CEO.
+9: Does the entity have a specified Committee of the Board/ Director responsible for 
+decision making on sustainability related issues? (Yes / No). If yes, provide details.
+Yes, refer Board Committee section of 
+the Annual Report 2024 on page no. 110.
+10: 	 Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by 
+Director / Committee of the Board/ Any other 
+Committee
+Frequency (Annually/ Half yearly/ 
+Quarterly/ Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance 
+against 
+above 
+policies and follow up action
+The Board of Directors meets periodically to evaluate operational performance across various 
+aspects, including adherence to NGRBC principles. This evaluation involves board-level 
+committees and the leadership team.
+Compliance 
+with 
+statutory 
+requirements of relevance to the 
+principles, and, rectification of 
+any non-compliances
+Annual Report 2023-24  73
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+11.	 Has the entity carried out independent assessment/ evaluation of the working of 
+its policies by an external agency? (Yes/No). If yes, provide name of the agency.
+No
+12: 	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles material to its business (Yes/No)
+No
+The entity is not at a stage where it is in a position to formulate and implement the 
+policies on specified principles (Yes/No)
+No
+The entity does not have the financial or/human and technical resources available 
+for the task (Yes/No)
+No
+It is planned to be done in the next financial year (Yes/No)
+No
+Any other reason (please specify)
+Not Applicable
+74    QUESS CORP LIMITED
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+1. 	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics / principles 
+covered under the 
+training and its 
+impact
+% age of persons in 
+respective category 
+covered by the awareness 
+programmes
+Board of Directors
+20
+All principles covered
+100%
+Key Managerial Personnel
+23
+All Principles Covered
+100%
+Employees other than BoD and KMPs
+2379
+All Principles Covered
+100%
+Workers*
+0
+Not Applicable
+0%
+	
+*Training to the workers is provided by the clients at their site.
+2. 	 Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by 
+directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year
+Nil
+3. 	 Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-
+monetary action has been appealed.
+Nil
+4. 	 Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link to 
+the policy.
+Yes, Quess Corp’s Anti-Bribery and Anti-Corruption Policy unequivocally prohibits the offering, giving, receiving, or soliciting 
+of any form of bribe or corrupt payment, whether directly or indirectly. This encompasses all interactions, including those 
+involving government officials, third-party agents, and suppliers. The policy not only outlines clear guidelines for recognizing 
+and mitigating potential risks of bribery and corruption but also underscores the critical importance of maintaining precise 
+books and records. Furthermore, it mandates employees to promptly report any suspicious activity they encounter. In the event 
+of a policy breach, the company imposes disciplinary measures, which may include termination of employment or contracts. 
+Additionally, Quess Corp reserves the right to report suspected violations to the relevant authorities.
+https://quesscorp.com//investor/dist/images/pdf/Policies/Anti-Bribery-Anti-Corruption-Policy.pdf
+5. 	 Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for 
+the charges of bribery/ corruption:
+Nil
+6. 	 Details of complaints with regard to conflict of interest:
+Nil
+7. 	 Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law 
+enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+Nil
+8. 	 Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following format:
+FY - 2024 (Current Financial Year)
+FY - 2023 (Previous Financial Year)
+Number of days of account payables*
+27
+19
+	
+*On a Standalone basis.
+Annual Report 2023-24  75
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+9.	
+Open-ness of business 
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and 
+advances & investments, with related parties, in the following format:
+Sr. 
+no
+Parameter
+Metrics
+FY - 2024
+(Current 
+Financial Year)
+FY - 2023
+(Previous 
+Financial Year)
+a
+Concentration of Purchases
+Purchases from trading houses as % of total 
+purchases
+Nil
+Nil
+b
+Concentration of Purchases
+Number of trading houses where purchases 
+are made from
+Nil
+Nil
+c
+Concentration of Purchases
+Purchases from top 10 trading houses as % of 
+total purchases from trading houses
+Nil
+Nil
+a
+Concentration of Sales
+Sales to dealers / distributors as % of total 
+sales
+Nil
+Nil
+b
+Concentration of Sales
+Number of dealers / distributors to whom sales 
+are made
+Nil
+Nil
+c
+Concentration of Sales
+Sales to top 10 dealers / distributors as % of 
+total sales to dealers/ distributors
+Nil
+Nil
+a
+Share of RPTs in
+Purchases (Purchases with related parties / 
+Total Purchases)
+5.85%
+6.24%
+b
+Share of RPTs in
+Sales (Sales to related parties / Total Sales)
+0.59%
+0.59%
+c
+Share of RPTs in
+Loans & advances (Loans & advances given to 
+related parties / Total loans & advances)
+99.41%
+98.22%
+d
+Share of RPTs in
+Investments (Investments in related parties / 
+Total Investments made)
+96.58%
+100%
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+1. 	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social 
+impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Nil
+2 	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+Yes 
+b. 	 If yes, what percentage of inputs were sourced sustainably?
+93%, During the vendor onboarding process, we mandate adherence to our ESG (Environmental, Social, and Governance) 
+framework and require acceptance of our Vendor Code of Conduct Policy.
+3. 	 Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) 
+Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste. 
+Not Applicable, we do not manufacture any products.
+4. 	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste 
+collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, 
+provide steps taken to address the same
+Not Applicable.
+76    QUESS CORP LIMITED
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their 
+value chains
+1. a. and b. Details of measures for the well-being of employees and workers:
+Category
+% of employees covered by
+Total (A)
+Health 
+insurance*
+Accident 
+insurance*
+Maternity 
+benefits*
+Paternity 
+Benefits
+Day Care 
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Permanent employees
+Male
+5,690
+5,690
+100%
+5,690
+100%
+-
+-
+5,690
+100%
+-
+-
+Female
+3,505
+3,505
+100%
+3,505
+100%
+3,505
+100%
+-
+-
+-
+-
+Total
+9,195
+9,195
+100%
+9,195
+100%
+3505
+38%
+5690
+62%
+-
+-
+Permanent workers
+Male
+4,64,509
+3,05,965
+66%
+3,47,696
+75%
+-
+-
+-
+-
+-
+-
+Female
+1,01,041
+61,422
+61%
+65,772
+65%
+1,01,041
+100%
+-
+-
+-
+-
+Total
+5,65,550
+3,67,387
+65%
+4,13,468
+73%
+1,01,041
+18%
+-
+-
+-
+-
+	
+*All employees are covered based on statutory requirements, as applicable
+c. 	 Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in 
+the following format –
+FY-2024 Current Financial Year
+FY-2023 Previous Financial Year
+Cost incurred on well-being measures as a % of 
+total revenue of the company
+0.25%
+0.20%
+2. 	 Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY-2024 Current Financial Year
+FY-2023 Previous Financial Year
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+100%
+88%
+Yes
+100%
+100%
+Yes
+Gratuity
+100%
+90%
+Yes
+100%
+100%
+Yes
+ESI
+10%
+67%
+Yes
+100%
+100%
+Yes
+	
+Note: We have considered only permanent employees.
+3.	
+Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+Yes, our offices prioritize accessibility for persons with disabilities (PWD) by implementing various infrastructure measures 
+such as railings, ramps, lifts, and clear signage throughout the premises.
+4. 	 Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link 
+to the policy.
+Yes,
+https://www.quesscorp.com/investor/dist/images/pdf/Policies/Equal-Employment-Opportunity-Policy.pdf
+Annual Report 2023-24  77
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+5. 	 Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+-
+-
+Female
+67%
+48%
+100%
+57%
+Total
+71%
+54%
+100%
+57%
+6. 	 Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? If yes, 
+give details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent 
+Employees 
+and Other than 
+Permanent 
+Employees
+Yes, 
+Quess has a strong commitment to complying with the law and upholding high standards of corporate 
+governance, conduct, and business ethics. Employees, customers, and third-party intermediaries can use 
+the procedures set out in Whistleblower Policy to submit confidential and/or anonymous complaints. 
+The policy provides a framework for promoting responsible and secure whistleblowing, protecting those 
+wishing to raise concerns about serious irregularities within the company. The policy also aims to ensure 
+that all concerns or complaints are received, investigated, and addressed in a fair, confidential, and timely 
+manner. Further, we have Unified Help Desk (UHD) to address employee grievances. UHD is automated with 
+features such as a ticketing system, smart escalations, vernacular language support as well as call-back 
+mechanisms to enhance transparency and responsiveness. The company’s UHD is an automated system 
+that supports non-permanent employees with their grievances. It offers multiple response mechanisms 
+such as calls and chatbots. UHD is integrated with the online workforce management platform, WorQ for 
+our non-permanent employees.
+7. 	 Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Nil
+8. 	 Details of training given to employees and workers:
+Category
+FY-2024 Current Financial Year
+FY-2023 Previous Financial Year
+Total 
+(A)
+On Health and safety 
+measures
+On Skill 
+upgradation
+Total 
+(D)
+On Health and safety 
+measures
+On Skill 
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+5,690
+5,690
+100%
+5,263
+92%
+4,020
+4,020
+100%
+4,020
+100%
+Female
+3,505
+3,505
+100%
+3,221
+92%
+1,567
+1,567
+100%
+1,567
+100%
+Total
+9,195
+9,195
+100%
+8,484
+92%
+5,587
+5,587
+100%
+5,587
+100%
+Workers: Training to the workers are provided by the customers.
+	
+Note: We have considered only permanent employees.
+9. 	 Details of performance and career development reviews of employees and worker:
+Category
+FY-2024 Current Financial Year
+FY-2023 Previous Financial Year
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees
+Male
+5,690
+5,492
+97%
+4,020
+4,020
+100%
+Female
+3,505
+3,128
+89%
+1,567
+1,567
+100%
+Total
+9,195
+8,620
+94%
+5,587
+5,587
+100%
+Workers: Performance rating are provided by the customers.
+	
+Note: We have considered only permanent employees.
+78    QUESS CORP LIMITED
+10.	 a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, the 
+coverage such system?
+Quess Corp Limited is dedicated to preserving the environment and ensuring safe, healthy working conditions for our 
+employees, visitors, and customers. To facilitate this commitment, we’ve introduced an Incident Management Tool within 
+the WorQ App. This tool empowers employees to report incidents, safety concerns, health hazards, or grievances promptly. 
+The Unified Help Desk (UHD) and respective business representatives promptly address these reports, ensuring resolution 
+within the company’s specified turnaround time (TAT).
+b. 	 What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the 
+entity?
+Regular workplace inspections are conducted to detect potential hazards and evaluate their risk levels. Job hazard analyses 
+are performed to identify specific risks related to tasks or roles. Safety inspections assess the overall effectiveness of the 
+safety program and highlight areas for enhancement. In the event of an incident, thorough investigations are conducted 
+to ascertain the root cause and prevent recurrence. Additionally, employees undergo safety training to bolster their 
+awareness of workplace hazards and acquaint them with the requisite safety protocols. These measures collectively foster 
+a safe and secure work environment. 
+c. 	 Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks. 
+(Y/N)
+Yes
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No)
+Yes
+11. 	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY-2024 
+Current Financial Year
+FY-2023 
+Previous Financial Year
+Lost Time Injury Frequency Rate (LTIFR) (per one million-
+person hours worked)
+Employees
+Nil
+Nil
+Workers
+Not Applicable
+Not Applicable
+Total recordable work-related injuries
+Employees
+Nil
+Nil
+Workers
+Not Applicable
+Not Applicable
+No. of fatalities
+Employees
+Nil
+Nil
+Workers
+Not Applicable
+Not Applicable
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+Nil
+Nil
+Workers
+Not Applicable
+Not Applicable
+	
+Note: We have considered only permanent employees.
+Annual Report 2023-24  79
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+1)	
+Safety Policies and Procedures Implementation: The entity has instituted comprehensive safety policies and procedures, 
+ensuring all employees understand their roles and obligations in maintaining a safe workplace.
+2)	 Safety Training: The entity conducts regular safety training sessions for employees, ensuring awareness of job-related 
+risks and effective mitigation strategies.
+3)	 Hazard Identification and Risk Assessment: Routine assessments are conducted to identify potential hazards and 
+evaluate associated risks, fostering proactive safety measures.
+4)	 Provision of Personal Protective Equipment (PPE): Employees are provided with appropriate PPE to mitigate injury or 
+illness risks, promoting a safer work environment.
+5)	 Equipment and Machinery Maintenance: The entity ensures regular maintenance and servicing of all equipment and 
+machinery, minimizing breakdowns and associated safety hazards.
+6)	 Encouraging Incident Reporting: Employees are encouraged to report safety incidents and near-misses, facilitating 
+prompt corrective action to prevent recurrence.
+7)	 Safety Audits: Regular safety audits are conducted to verify compliance with safety protocols and identify areas for 
+enhancement, ensuring ongoing safety improvements.
+8)	 Emergency Preparedness Mock Drills: The entity conducts fire and earthquake mock drills to prepare employees for 
+emergency response scenarios, enhancing overall safety preparedness.
+13. 	 Number of Complaints on the following made by employees and workers:
+Nil
+14. 	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or third 
+parties)
+Health & safety practices
+5%
+Working Conditions
+15. 	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / 
+concerns arising from assessments of health & safety practices and working conditions.
+We have integrated an Incident Management Tool into the Worq application specifically for our non-permanent employees. 
+Through this tool, employees can promptly report incidents, safety concerns, health hazards, or grievances. These reports 
+are then addressed by the Unified Help Desk (UHD) along with the respective business representatives. Our commitment to 
+resolving these issues within the company’s specified turnaround time (TAT) ensures efficient handling and resolution of all 
+reported matters, fostering a safer work environment for everyone.
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+1. 	
+Describe the processes for identifying key stakeholder groups of the entity
+The Company has identified key stakeholders as part of its ESG framework and intends to work with them to improve their well-
+being and add value to the Company’s business chain. The stakeholders who are impacted economically and socially are the 
+most interacted with, and whom the Company can support. The key stakeholders include customers, suppliers, government 
+and regulatory authorities, investors/shareholders, employees, business partners, and the wider communities that we serve. 
+As India’s leading business services provider, the Company believes that its human capital is its greatest strength. Based on the 
+above, the Company has mapped and identified internal and external stakeholders, including disadvantaged, vulnerable, and 
+marginalized stakeholders. Internal stakeholders have a direct relationship with the company, while external key stakeholders 
+are affected by the business but do not directly work with the company. Investors are significant stakeholders with whom 
+the Company shares a strong relationship and a deep understanding of their expectations. Customers reflect the Company’s 
+commitment, while employees enable the creation of value for customers and the organization and enjoy fulfilling careers. 
+Lastly, suppliers help deliver business value. 
+80    QUESS CORP LIMITED
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/
+No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement 
+(Annually/ 
+Half yearly/ 
+Quarterly 
+/ others – 
+please specify)
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during such engagement
+Customers
+No
+Websites, E-mails, social media, 
+Virtual Meetings
+Annually
+To ensure customer stewardship in 
+terms of transparency and informed 
+choices, for stronger customer 
+relationships and to enhance the 
+business while addressing any issues 
+that customers may have.
+Investors/
+Shareholders
+No
+Regulatory audits and 
+inspections, environmental 
+compliance, policies, good 
+governance, statutory corporate 
+filings, and direct interactions on 
+a caseby- case basis.
+Quarterly, 
+Annually
+Discuss the company’s financial 
+performance and strategic priorities. 
+As per SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 
+2015, the company’s website has a 
+dedicated functional segment called 
+‘Investor Relations’ which contains 
+all the information intended for 
+shareholders, including details about 
+directors, financial statements, annual 
+reports, codes, and policies.
+Business 
+Partners
+No
+Mailers, News Bulletins, 
+Brochures, Social Media, 
+Website
+Weekly, 
+Monthly, 
+Annually
+Stroger partnerships to increase reach 
+and enhance ethical business practices, 
+fair business practices, and governance.
+Suppliers
+No
+Supplier and vendor meetings, 
+binding agreement policies, 
+IT-enabled information 
+sharing tools and recognition 
+platforms, dialogue on industry 
+initiatives, calls, and training and 
+workshops.
+Annually
+Quality improvement and capacity-
+building measures and to discuss their 
+vision and mission, business plans, and 
+supplier awards.
+Employees
+No
+Trainings, Conferences, Website, 
+E-mails, Meetings and Internal 
+management development 
+programmes
+Weekly, 
+Monthly, 
+Annually
+• 	 Proposing measures to increase 
+employee competency at work as well 
+as promote work-life balance.
+• 	 Learning opportunities,
+• 	 Building a safety culture and 
+inculcating safe work practices 
+among employees
+• 	 Improving diversity and inclusion.
+• 	 Effective grievance mechanisms
+Government 
+and 
+Regulatory 
+Authorities
+No
+Regulatory audits and 
+inspections, environmental 
+compliance, policies, good 
+governance, statutory corporate 
+filings, and direct interactions on 
+a caseby- case basis.
+Annually 
+and as per 
+requirements
+•	 Report and compliances on Legal and 
+Regulatory Requirements.
+• 	 Discussions with regards to various 
+regulations and amendments, 
+inspections, and approvals
+Communities
+Yes
+CSR activities, site visits, 
+participation in events, 
+meetings and briefings, 
+official communication 
+channels (including emails, 
+advertisements, publications, 
+websites, and social media).
+Frequent and 
+need 
+based
+Implementing community initiatives and 
+helping them to attain a better standard 
+of living. For making a difference in 
+society and creation an impact through 
+our CSR initiatives and understand areas 
+of sustainable development
+Annual Report 2023-24  81
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+PRINCIPLE 5 Businesses should respect and promote human rights
+1. 	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following 
+format:
+Category
+FY-2024 Current Financial Year
+FY-2023 Previous Financial Year
+Total (A)
+No. of employees / 
+workers covered (B)
+% (B /A)
+Total (C)
+No. of employees / 
+workers covered (D)
+% (D / C)
+Employees*
+Permanent
+8,734
+8,304
+95%
+5,174
+5,174
+100%
+Other than Permanent
+461
+461
+100%
+413
+413
+100%
+Total Employees
+9,195
+8,765
+95%
+5,587
+5,587
+100%
+Workers: Training to the workers are provided by the customers wherever applicable.
+	
+Note: We have considered only permanent employees.
+2. 	 Details of minimum wages paid to employees and workers:
+Minimum wage rates in scheduled employments vary due to several factors including the state, sector, skill level, region, and 
+occupation. Consequently, there isn’t a uniform minimum wage rate applicable nationwide. However, companies are obligated 
+to adhere to minimum wage notifications issued by central and state bodies for various establishments under minimum wage 
+Acts and Rules, ensuring that minimum wages are met. The revision cycle for minimum wages may differ for each state, 
+necessitating ongoing compliance monitoring and adjustments by employers to uphold labour standards.
+3. 	 a.	
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD)
+6
+` 0.7375 million
+1
+` 1.525million
+Key Managerial Personnel
+3
+` 21.867million
+0
+0
+Employees other than BoD and KMP
+5,685
+` 0.864 million
+3,505
+` 0.628 million
+Workers: Not Applicable
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY - 2024 
+Current Financial Year
+FY - 2023 
+Previous Financial Year
+Gross wages paid to females as % of total wages
+38%
+24%
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business? (Yes/No)
+Yes
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+Quess Corp maintains a comprehensive Human Rights Policy that extends to all employees, vendors, and suppliers within 
+its purview. The policy outlines clear procedures for raising grievances and reporting any breaches of policies or procedures 
+confidentially and anonymously. Importantly, it guarantees protection from retaliation for individuals reporting such breaches. 
+This commitment underscores Quess Corp’s dedication to upholding human rights principles across its operations and 
+ensuring a safe and respectful work environment for all stakeholders.
+82    QUESS CORP LIMITED
+6. 	 Number of Complaints on the following made by employees and workers:
+FY-2024 Current Financial Year
+FY-2023 Previous Financial Year
+Filed 
+during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Sexual Harassment
+48
+3
+Under Process
+-
+-
+Nil
+Discrimination at workplace
+-
+-
+Nil
+-
+-
+Nil
+Child Labour
+-
+-
+Nil
+-
+-
+Nil
+Forced Labour/Involuntary Labour
+-
+-
+Nil
+-
+-
+Nil
+Wages
+-
+-
+Nil
+-
+-
+Nil
+Other human rights related issues
+-
+-
+Nil
+-
+-
+Nil
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, in the 
+following format:
+FY-2024 
+Current Financial 
+Year
+FY-2023 
+Previous Financial 
+Year
+Total Complaints reported under Sexual Harassment on of Women at 
+Workplace (Prevention, Prohibition  and Redressal) Act, 2013 (POSH)
+48
+-
+Complaints on POSH as a % of female employees / workers
+0.046%
+-
+Complaints on POSH upheld
+37
+-
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+All employees undergo mandatory training on human rights, with annual sign-offs required to ensure understanding and 
+compliance. The Unified Help Desk (UHD) stands ready to receive and address grievances promptly and effectively. Moreover, 
+key policies including the Human Rights Policy, Equal Employment Policy, Health Safety, and Environmental Conservation Policy 
+are accessible via the HRMS tool and the company website, ensuring transparency and easy reference for all stakeholders. 
+These measures underscore our commitment to upholding human rights, fostering equality, and promoting a safe and 
+sustainable work environment.
+9. 	 Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+Yes, Quess policies, including the Whistleblower’s Policy, Vendor Code of Conduct Policy, Health Safety and Environmental 
+Conservation Policy, and Human Rights Policy, are not only applicable to employees but also extend to customers, vendors, 
+and third-party intermediaries. This broad scope ensures consistent adherence to ethical standards and responsible 
+practices across all interactions and engagements involving Quess Corp. By applying these policies universally, we uphold 
+our commitment to integrity, sustainability, and respect for human rights throughout our operations and interactions with all 
+stakeholders.
+10. 	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or 
+third parties)
+Child labour
+Quess internally monitors compliance with all relevant laws and policies pertaining to these 
+issues at 100% of its offices. There has been no observation by local authority for entity’s 
+premises and offices.
+Forced/involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others - please specify
+11. 	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments 
+at Question 10 above.
+Not Applicable
+Annual Report 2023-24  83
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+1. 	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY-2024
+Current 
+Financial Year
+FY-2023
+Previous 
+Financial Year
+Energy Consumption Sources (in Giga Joules)
+From renewable sources
+Total electricity consumption (A)
+-
+-
+Total fuel consumption (B)
+-
+-
+Energy consumption through other sources (C)
+-
+-
+Total energy consumption (A+B+C)
+-
+-
+From non-renewable sources
+Total electricity consumption (D)
+76,696.45 GJ
+52787.90GJ
+Total fuel consumption (E)
+3,290.68 GJ
+ 2257.32 GJ 
+Energy consumption through other sources (F)
+ -
+ -
+Total energy consumption (D+E+F)
+79,987.13 GJ
+ 55,045.22 GJ 
+Total energy consumption (A+B+C+D+E+F)
+79,987.13 GJ
+ 55,045.22 GJ 
+Energy intensity per rupee of turnover (Total energy consumption/ turnover in 
+rupees) *
+0.46 GJ/`million
+0.33 GJ/`million
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total energy consumed / Revenue from operations adjusted for PPP)*
+10.43 GJ/PPP
+7.51 GJ/PPP
+Energy intensity in terms of physical output
+-
+-
+Energy intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+	
+* The revenue from operations has been adjusted for PPP based on the latest PPP conversion factor published for the year 2022 
+by the World Bank for India, which is 22.88.
+	
+* For the calculation of energy intensity, we have excluded the turnover of our Foreign Entities.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency
+No
+2. 	 Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade 
+(PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. 
+In case targets have not been achieved, provide the remedial action taken, if any.
+Not Applicable
+84    QUESS CORP LIMITED
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY-2024 
+Current Financial 
+Year
+FY-2023 
+Previous 
+Financial Year
+Water withdrawal by source (in kilolitres)
+(i)	
+Surface water
+-
+-
+(ii)	 Groundwater
+-
+76,146 KL
+(iii)	 Third party water
+218280.51 KL
+-
+(iv)	 Seawater / desalinated water
+-
+-
+(v)	 Others
+-
+-
+Total volume of water withdrawal(in kilolitres) (i + ii + iii + iv + v)
+2,18,280.51KL
+76,146 KL
+Total volume of water consumption (in kilolitres)
+2,18,280.51 KL
+76,146 KL
+Water intensity per rupee of turnover (Water consumed / turnover)*
+1.24 KL/ `million 0.45 KL /`million
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total water consumption / Revenue from operations adjusted for PPP)
+28.47 KL/PPP
+10.38 KL/PPP
+Water intensity in terms of physical output
+-
+-
+Water intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+	
+* For the calculation of water intensity, we have excluded the turnover of our Foreign Entities.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency
+No
+4. 	 Provide the following details related to water discharged:
+Sr. 
+no
+Parameter
+FY - 2024 
+(Current 
+Financial Year)
+FY - 2023 
+(Previous
+Financial Year)
+Water discharge by destinations and level of treatment (In Kilolitres)
+1
+To Surface water
+-
+-
+No treatment
+-
+-
+With treatment – please specify level of treatment
+-
+-
+2
+To Groundwater
+-
+-
+No treatment
+-
+-
+With treatment – please specify level of treatment
+-
+-
+3
+To Seawater
+-
+-
+No treatment
+-
+-
+With treatment – please specify level of treatment
+-
+-
+4
+Sent to third-parties
+-
+-
+No treatment
+-
+-
+With treatment – please specify level of treatment
+-
+-
+5
+Others
+-
+-
+No treatment (Municipal Sewage Line)
+65484.15 KL
+-
+With treatment – please specify level of treatment
+-
+-
+Total water discharged (in kilolitres)
+65484.15 KL
+-
+	
+* The Company’s water usage is designated solely for human consumption. With our 70 offices located in rental properties, 
+we currently lack the means to monitor water discharged directly. Nonetheless, we have taken steps to promote responsible 
+Annual Report 2023-24  85
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+water use. Selected branches have been equipped with sensor-based taps, aerator taps, and dual flush mechanisms to ensure 
+judicious water consumption.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency
+No
+5. 	 Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.
+No
+6. 	 Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+As a business service provider, Quess primarily operates with minimal air emissions, mainly arising from the use of diesel 
+generator sets during power outages. Quess ensures compliance with the Air (Prevention & Control of Pollution) Act (1981) by 
+obtaining necessary consent for operating diesel generator sets. Compliance includes adhering to specified stack emission 
+parameters such as nitrous oxide, non-methane hydrocarbons, carbon monoxide, particulate matter, etc. Stack emission 
+monitoring is conducted at the required frequency outlined in the Consent To Operate (CTO) for generator sets, ensuring that 
+emissions remain within permissible limits and environmental standards are upheld.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency
+No
+7. 	 Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY-2024
+Current 
+Financial Year
+FY-2023
+Previous 
+Financial Year
+Total Scope 1 Emissions (Break-up of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+1,647.31 
+2260.02
+Total Scope 2 Emissions (Break-up of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+12946.79
+11,584.01
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+tCO2e/`million
+0.08
+0.08
+Total Scope 1 and Scope 2 emission intensity per rupee of 
+turnover adjusted for Purchasing Power Parity (PPP)
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from 
+operations adjusted for PPP)*
+tCO2/PPP
+1.904
+1.889
+Total Scope 1 and Scope 2  emission intensity in terms of physical 
+output
+-
+-
+-
+Total Scope 1 and Scope 2 emission intensity (optional) – the relevant 
+metric may be selected by the entity
+-
+-
+-
+	
+*For the calculation of emission intensity, we have excluded the turnover of our Foreign Entities 
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency
+No
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+Yes, the company has set targets to reduce greenhouse gas emissions, which include a goal of reducing emission intensity of 
+20% by FY2025. We are proud to report that we have already achieved a 19% reduction in emission intensity from our base year 
+of FY2022.
+86    QUESS CORP LIMITED
+9. 	 Provide details related to waste management by the entity, in the following format:
+(a)	 Total Waste generated (in metric tonnes)
+Parameter
+FY-2024
+Current  
+Financial Year
+FY-2023
+Previous  
+Financial Year
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+-
+-
+E-waste (B)
+20.23
+7.34
+Bio-medical waste (C)
+0.0043
+-
+Construction and demolition waste (D)
+-
+-
+Battery waste (E)
+6.12
+-
+Radioactive waste (F)
+-
+-
+Other Hazardous waste. Please specify, if any (G)
+-
+-
+Other Non-hazardous waste generated (H) – Paper waste, Dry waste, Wet waste
+10.73
+7.52
+Total (A+B + C + D + E + F + G + H)
+37.09
+14.86
+Waste intensity per rupee of turnover
+(Total waste generated / Revenue from operations)*
+0.000217 
+Mt /`million
+0.000089 
+Mt/`million
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total waste generated / Revenue from operations adjusted for PPP)
+0.00497 
+MT/PPP
+0.00203
+MT/PPP
+Waste intensity in terms of physical output
+-
+-
+Waste intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in 
+metric tonnes)
+Category of waste
+(i) 	 Recycled
+37.09
+7.52
+(ii) 	 Re-used
+-
+-
+(iii) 	 Other recovery operations
+-
+-
+Total
+37.09
+7.52
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) 	 Incineration
+0.0043
+7.34
+(ii) 	 Landfilling
+-
+-
+(iii) 	 Other disposal operations
+-
+-
+Total
+0.0043
+7.34
+	
+*For the calculation of waste intensity, we have excluded the turnover of our Foreign Entities.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency
+No
+Annual Report 2023-24  87
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+10. 	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your 
+company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to manage 
+such wastes.
+We are committed to minimizing waste generation and fostering a circular economy. Our efforts include implementing 
+initiatives aimed at reducing waste at its source. We meticulously track hazardous waste and ensure its segregation, storage, 
+and disposal in accordance with local regulations, utilizing authorized recyclers to maintain compliance.
+Moreover, our approach extends to kitchen waste management, where we segregate between dry and wet waste. This 
+segregated waste is then repurposed, with wet waste being utilized in compost manufacturing processes. By adopting 
+these practices, we not only minimize waste sent to landfills but also contribute to sustainable resource management and 
+environmental preservation .
+11. 	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere 
+reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are 
+required, please specify details:
+Not Applicable
+12. 	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current 
+financial year:
+Not Applicable
+13. 	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention and 
+Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). If 
+not, provide details of all such non-compliances
+Yes, Quess has diligently adhered to all relevant environmental laws, regulations, and guidelines applicable in India. Notably, 
+the company has maintained full compliance without incurring any fines, penalties, or regulatory actions under these 
+environmental frameworks. This commitment underscores Quess’s dedication to environmental responsibility and sustainable 
+business practices
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner 
+that is responsible and transparent
+1. 	
+a.	
+Number of affiliations with trade and industry chambers/ associations.
+12
+b.	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the entity 
+is a member of/ affiliated to.
+S. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ associations (State/
+National)
+1
+Confederation of Indian Industries (CII)
+National
+2
+India Staffing Federation
+National
+3
+The federation of Indian Chambers of Commerce and Industry
+National
+4
+All India Organisation of Employers
+National
+5
+Employee Federation of India
+National
+6
+Central Association of Private Security Industry
+National
+7
+Karnataka Employees Association
+State
+8
+The Employers Association, Delhi
+State
+9
+Apex Chamber of Commerce, Delhi
+State
+10
+Madras Chamber of Commerce and Industry
+State
+11
+NASSCOM
+National
+12
+Indo American Chamber of Commerce
+International
+88    QUESS CORP LIMITED
+2. 	 Provide details of corrective action taken or underway on any issues related to anticompetitive conduct by the entity, based on 
+adverse orders from regulatory authorities.
+Nil
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial 
+year.
+Not Applicable
+2. 	 Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity
+Not Applicable
+3. 	 Describe the mechanisms to receive and redress grievances of the community.
+Website correspondence - Individuals can report problems by visiting our Contact Us page and filling out a form or sending 
+an email. We then create a ticket and assign a dedicated executive to assist them. After resolving the issue, we send a status 
+update and feedback form. 
+Toll-free grievance redressal - Quess Corp offers assistance through a toll-free number 1800 572 3333 available on our 
+website. Our in-house contact centre tracks grievances and feedback through a ticket system and assigns them to the 
+respective executive for closure.
+4. 	 Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY-2024
+Current  
+Financial Year
+FY-2023
+Previous  
+Financial Year
+Directly sourced from MSMEs/ small producers
+14.78%
+23%
+Sourced directly from within the district and neighbouring districts( Karnataka Region)
+9%
+-
+5. 	 Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed on a 
+permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost
+Location
+FY 2024 Current Financial Year
+FY 2023 Previous Financial Year
+Rural
+-
+-
+Semi-urban
+38%
+37%
+Urban
+29%
+29%
+Metropolitan
+33%
+35%
+Annual Report 2023-24  89
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+Quess Corp is very serious about grievances and feedback. To resolve each concern and query, we have the following 
+mechanisms in place. Here is how the process functions: 
+Website correspondence – When a client or individual faces problems with our services or platforms, they have an option to 
+visit the Contact Us page and fill out a form or write to us an email. This form is intuitive in nature, and helps one reach the right 
+person. Once it reaches respective teams, a ticket is raised and passed onto a dedicated executive to understand their issue/
+query, guides them to a suitable solution, and closes the ticket. 
+Toll-free grievance redressal – To provide round-the-clock assistance, Quess Corp enables clients with grievance and 
+feedback redressal through toll-free numbers available on our website. This mechanism is supported by an in-house contact 
+centre, which is tracked through a ticket is raised and assigned to the respective business executive for closure. 
+2. 	 Turnover of products and/ services as a percentage of turnover from all products/service that carry information about 
+Environmental and social parameters relevant to the product, Safe and responsible usage, Recycling and/or safe disposal
+Not Applicable
+3. 	 Number of consumer complaints in respect of data privacy, advertising, cybersecurity, delivery of essential services, restrictive 
+trade practices, unfair trade practices
+We do not have any consumer complaints in respect of data privacy, advertising, cybersecurity, delivery of essential services, 
+restrictive trade practices and unfair trade practices.
+4. 	 Details of instances of product recalls on account of safety issues:
+Not Applicable
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a web-
+link of the policy.
+Yes, https://www.quesscorp.com/privacy-statement/ 
+6. 	 Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; 
+cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory 
+authorities on safety of products / services.
+None
+7. 	 Provide the following information relating to data breaches:
+a. 	 Number of instances of data breaches
+Nil
+b.	
+Percentage of data breaches involving personally identifiable information of customers
+Nil
+c.	
+Impact, if any, of the data breaches
+None
+In the ever-evolving business landscape, marked by a strong emphasis on automation, digital transformation, and data 
+protection, the risk dynamics undergo continuous shifts. At Quess, we meticulously evaluate both external and internal 
+factors to identify, assess, control, and effectively manage associated risks. Our meticulously crafted Enterprise Risk 
+Management (ERM) framework, which comprehensively covers all aspects of our operations, enables us to gauge the 
+likelihood and impact of identified risks, ensuring proactive risk mitigation. Anchored by a robust Risk Management 
+Framework, we uphold our commitment to aligning with the company's strategic objectives by comprehensively 
+evaluating risks inherent in our operations.
+Supported by a robust and dynamic internal control system, our ERM Framework boasts the following features:
+•	
+Our Board-approved Risk Management Policy delineates a structured and disciplined approach to risk 
+management, aiding strategic decision-making. The Risk Management Committee, composed of Board members 
+and C-suite Executives, diligently reviews and oversees the progress of mitigation plans, offering essential 
+guidance and direction.
+•	
+The Corporate-level Risk Management Team maintains constant engagement with independent Internal Auditors 
+to pinpoint areas necessitating strengthened processes and internal controls for enhanced risk management. 
+The Audit Committee conducts in-depth discussions and evaluations of audit findings, including the status of 
+management action plans.
+•	
+Business SOPs and policies, alongside centrally issued directives, serve as guiding principles for our internal 
+controls, fortifying our risk management processes.
+Risk Management Framework
+We've embraced a seamlessly integrated ERM Framework, operationalized throughout the organization by our dedicated 
+Risk Management Team. Tailored to accommodate our diverse business needs, our ERM Framework draws from the 
+standards of COSO and ISO 31000, ensuring alignment with best practices and principles.
+Our framework facilitates systematic and proactive risk identification, actively engaging Business Leaders, Functional 
+Heads, and Process Owners. By discerning and mitigating risks, our organization optimizes performance and expedites 
+decision-making. Furthermore, our ERM framework comprehensively identifies strategic, operational, financial, compliance, 
+and sustainability risks, considering both internal and external dimensions across all categories.
+INTEGRATED ERM FRAMEWORK
+(COSO & ISO PRINCIPLES ADAPTED)
+Leadership & 
+commitment
+Risk 
+governance
+Risk 
+reporting
+Mitigation 
+performance
+Risk  
+impact
+Risk  
+strategy
+Risk Culture
+Risk Governance
+Training on Risk Management
+Mitigation impact 
+assessment report 
+Risk committee
+Quarterly mitigation 
+dashboard
+Risk reviews with leadership
+Risk Management Process
+Identify risks
+Enterprise risk 
+registry
+Evaluate risk 
+exposure
+Mitigation plan & 
+execution
+Monitor performance
+Reporting & 
+communication
+Risk Management
+Annual Report 2023-24  51
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+Risk Category
+Description
+Strategic Risks
+Strategic risk involves uncertainties arising from an organization’s leadership decisions on 
+long-term goals, competitive position, and successful execution of strategy. For example, risks 
+associated with business model, service offerings, target markets, etc
+Operational Risks
+Risks that impact our service delivery and business practices due to inadequate or failed internal 
+processes, systems, or people. For example, risks associated with day-to-day operations, such 
+as errors in procedures, technology failures, and the ability to scale based on business needs.
+Financial Risks
+Risks affecting the financial stability and profitability of the business, such as SLA management, 
+fluctuations in market conditions, credit defaults, interest rate changes, etc.
+Compliance Risks
+Non-adherence to central, state, and international laws governing business activities may result 
+in financial and reputational risks. For example, compliance with labour laws, licenses, and 
+permits, etc.
+Sustainability Risks Risk refers to potential threats posed by environmental, social, and governance (ESG) factors 
+that could adversely affect a company’s long-term viability and reputation. These factors include 
+carbon footprint, diversity, inclusion, business ethics, etc.
+Key Business Risks
+Risk
+Risk Description
+Mitigation Actions
+Transformation 
+& Automation
+Constant changes 
+in technologies and 
+automation.
+In the era of digital transformation, we give much importance to digital 
+needs by constantly improving and updating our digital platforms. 
+We are constantly moving our business to digital and well-organised 
+data management systems thereby improving and providing better 
+customer services and satisfaction to our clients and stakeholders. 
+This helps us to upscale our business and better customer service. 
+Leveraging our industry domain knowledge with technology, helps 
+us provide unique business solutions and value propositions to our 
+customers with our tech-applications such as Qjobs, WorQ, Dash, HR 
+modules, etc.
+Cyber Security 
+& Data 
+Protection
+Data is of paramount 
+importance, and ensuring 
+its safeguarding is crucial
+Our Cyber Security Council, chaired by the Chief Technology Officer 
+and business IT Heads, meets periodically, with a specific focus on 
+cyber security and data protection risks. Furthermore, the Committee 
+monitors emerging practices and technologies to improve IT systems 
+and infrastructure. Firewall and real-time security monitoring systems 
+to secure our IT environment. Initiatives like VAPT, SIEM, DLP, MDM, 
+etc., have significantly strengthened our security posture
+Safety at Work 
+Ensuring employee 
+safety and security in a 
+challenging environment 
+to prevent injuries and 
+casualties.
+Our comprehensive Health, Safety and Environment Conservation 
+Policy and the Emergency Procedure Policy govern procedures for 
+our employee safety and incident management. The employee app-
+based HRMS tool includes an upgraded workflow dedicated to safety 
+incident reporting. The Unified Help Desk (UHD) is responsible for 
+actively monitoring and responding to incidents reported through the 
+app. Mandatory safety training during induction and yearly refreshers, 
+along with job-specific training, boost awareness and adherence to 
+safety protocols.
+Diversity & 
+Inclusion
+Low productivity of the 
+workforce due to the lack of 
+diversity, inequality, talent, 
+etc.
+Quess is dedicated to sourcing talent from diverse backgrounds 
+worldwide, fostering a distinctive work culture that optimizes our 
+potential and enhances our customers’ productivity. Our Company’s 
+commitment to Equal Employment Opportunity Policy reiterates the 
+organisation’s commitment towards non-discrimination of candidates 
+based on age, colour, sex, disability, marital status, race, religion and 
+sexual orientation. Through our partnerships with various NGOs, we 
+successfully induced PWD associates into the workforce. In alignment 
+with the Prime Minister’s initiative for NARI SHAKTI, our immediate 
+objective is to enhance gender diversity among core employees to 
+50% (currently at 36%) through strategic talent acquisitions by next 
+year. Numerous workshops are conducted to attract talent in line with 
+this goal.
+52    QUESS CORP LIMITED
+Risk
+Risk Description
+Mitigation Actions
+Climate 
+Changes & 
+reduction 
+of Carbon 
+Footprint
+Global warming and 
+Company’s operations 
+might negatively impact the 
+natural environment
+We continue to drive key sustainability initiatives across our businesses, 
+even though we are a low-carbon emitting company. For the year, we 
+could recycle 5.3K+ kgs of paper waste and 20.2K+ Kgs of E-waste 
+. Our central Kitchen waste is sent to state-approved biogas vendors 
+as a part of the waste disposable management policy. Although our 
+electricity consumption has been a key focus area, to further reduce 
+our Scope 2 emissions, we have taken measures such as usage of LED 
+lights across our multiple office locations as a part of green energy 
+initiatives.
+Employee 
+Training
+Lack of proper training and 
+skills in the workforce will 
+lead to poor productivity & 
+employee satisfaction
+Our company is committed to providing utmost importance to proper 
+skill development and upskilling of employees. Our HRMS tool 
+provides mandatory learning for all employees and ensures every 
+employee completes 40 hrs of learning in a year. HRMS tool constantly 
+gets updated with new courses and modules to provide a wide range 
+of knowledge to develop both technical and soft skills required for 
+the growth and development of the employee, which boosts their 
+productivity. In addition to the skill enhancement modules, compliance-
+based modules such as CoC, POSH, Insider Trading, ESG, ERM, etc. are 
+completed by all employees annually. In FY24, employees underwent 
+an avg. of ~ 43 hrs of training.
+Compliance 
+with labour 
+laws
+Lack of tracking and 
+adherence to labour 
+laws and regulations 
+might seriously disrupt 
+business operations, loss of 
+reputation including fines 
+and penalties
+Given our diversified staffing business across multiple industries and 
+sectors, there is an increased risk of non-compliance with regulatory 
+labour requirements. Our central compliance team, along with the 
+business compliance team, consistently monitor adherence to labour 
+laws at central, state, and local levels. Important compliances like 
+minimum wages, PF, ESI, PT, LWF, Gratuity, etc., are regularly tracked 
+and reported periodically across the businesses 
+Our approach to risk management 
+is designed to provide reasonable, 
+but not absolute, assurance that 
+our assets are safeguarded and the 
+business risks are being assessed 
+and mitigated. All information that 
+must be disclosed, is reported to 
+the senior management including 
+the Chairman, Group CEO, Group 
+CFO, Audit Committee and the Risk 
+Management Committee of the 
+Board.
+Internal Control Systems 
+and their Adequacy
+The Company maintains a robust 
+Internal Control System (ICS), 
+meticulously aligned with the 
+provisions of the Companies Act, 
+2013, and tailored to the scale, 
+scope, and intricacy of its business 
+operations. The Board of Directors 
+has established internal financial 
+controls through comprehensive 
+policies and procedures, duly 
+adopted by the company. These 
+measures ensure the smooth and 
+effective functioning of its business, 
+compliance with all pertinent laws, 
+regulations, and directives from 
+regulatory bodies, protection of 
+assets, authorization of transactions, 
+prevention and detection of 
+frauds and errors, accuracy and 
+completeness of accounting records, 
+and the timely preparation of reliable 
+financial information.
+Grant Thornton Bharat LLP conducts 
+internal audit reviews, with the 
+scope and authority stipulated by 
+the Audit Committee. To maintain 
+independence, the Internal Auditor 
+reports directly to the Chairman of 
+the Audit Committee. The Internal 
+Auditor diligently monitors and 
+evaluates the efficiency of the 
+company’s ICS, ensuring adherence 
+to laws and accounting policies. 
+Management meticulously reviews 
+these reports and implements 
+corrective actions to bolster controls. 
+Summaries of periodic audit 
+findings are presented to the Audit 
+Committee.
+The Audit Committee, comprising 
+six directors, four of whom are 
+independent as mandated by Section 
+177 of the Act, convenes quarterly 
+to review the Internal Audit reports 
+submitted by the Internal Auditor. 
+The Committee meticulously 
+scrutinizes and evaluates key audit 
+findings to ensure the robustness 
+of financial and internal controls, 
+risk management systems, and 
+processes. Regular audits and 
+reviews serve to reinforce these 
+systems. The internal auditor 
+provides quarterly updates to 
+the Committee on the status of 
+key audit findings to ensure swift 
+implementation of resolutions.
+Deloitte Haskins and Sells LLP, the 
+company’s statutory auditors, audit 
+our financial statements and issue a 
+report on our internal controls over 
+financial reporting, as defined under 
+Section 143 of the Companies Act, 
+2013, which is included in our annual 
+report. Additionally, in accordance 
+with Section 177 of the Companies 
+Annual Report 2023-24  53
+Corporate Overview
+Statutory Reports
+Financial Reports
+1-37
+38-130
+131-304
+Act, 2013, read with Regulation 17 
+of SEBI (LODR) Regulations, 2015, 
+the Statutory Auditors, along with 
+the Audit Committee, have opined 
+that the company maintains, in all 
+material respects, an adequate 
+internal financial controls system 
+over financial reporting and that 
+such controls operated effectively 
+during the year.
+Management views the 
+enhancement of ICS as an ongoing 
+endeavour and will persist in efforts 
+to fortify controls, with a focus on 
+preventive and automated measures 
+over manual ones. The company 
+boasts robust ERP and other 
+supplementary IT systems, integral 
+components of its internal control 
+framework. Continual technological 
+advancements are leveraged to 
+further fortify internal controls.
+54    QUESS CORP LIMITED

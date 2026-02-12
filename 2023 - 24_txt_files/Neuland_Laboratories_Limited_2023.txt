@@ -1,0 +1,4161 @@
+ 
+ 
+ 
+July 15, 2024 
+ 
+ 
+To 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 25th Floor, 
+Dalal Street, Mumbai – 400 001 
+ 
+ 
+Scrip Code: 524558 
+ 
+The National Stock Exchange of India Ltd 
+Exchange Plaza,  
+Bandra Kurla Complex 
+Bandra (E), Mumbai – 400 001 
+ 
+Scrip Code: NEULANDLAB; Series: EQ 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Submission of revised Business Responsibility and Sustainability Report (BRSR) for 
+FY 2023-24    
+ 
+Further to our letter dated July 5, 2024 regarding submission of BRSR Report for FY 2023-
+24, we would like to inform you that the additional indicators as per BRSR Core framework 
+were inadvertently omitted. In this regard, we are enclosing herewith the updated BRSR 
+Report for FY 2023-24 and the same is also uploaded on the website of the Company at 
+https://www.neulandlabs.com/sites/neulandlabs/files/neuland-labs/Investors/general-
+meeting/agm-40/neuland-brsr-fy24.pdf. 
+ 
+This is for your information and records. 
+ 
+Thanking you 
+ 
+Yours Sincerely, 
+For Neuland Laboratories Limited 
+ 
+ 
+ 
+Sarada Bhamidipati 
+Company Secretary 
+ 
+ 
+Encl: As above 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SARADA 
+BHAMIDIPATI
+Digitally signed by 
+SARADA BHAMIDIPATI 
+Date: 2024.07.15 
+17:06:44 +05'30'
+Annexure - 2
+Business Responsibility 
+and Sustainability 
+Reporting
+SECTION A:
+GENERAL 
+DISCLOSURES 
+SECTION B:
+MANAGEMENT 
+AND PROCESS 
+DISCLOSURES 
+SECTION C:
+PRINCIPLE-WISE 
+PERFORMANCE 
+DISCLOSURE 
+PRINCIPLE 1:
+PRINCIPLE 2:
+PRINCIPLE 3:
+PRINCIPLE 4:
+PRINCIPLE 5:
+PRINCIPLE 6:
+PRINCIPLE 7:
+PRINCIPLE 8:
+PRINCIPLE 9:
+Contents
+BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY AND IN A 
+MANNER THAT IS ETHICAL, TRANSPARENT AND ACCOUNTABLE
+BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS 
+SUSTAINABLE AND SAFE
+BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EMPLOYEES, 
+INCLUDING THOSE IN THEIR VALUE CHAINS
+BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO ALL 
+ITS STAKEHOLDERS
+BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS 
+BUSINESSES SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE 
+THE ENVIRONMENT
+BUSINESSES, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, 
+SHOULD DO SO IN A MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVELOPMENT
+BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS IN A 
+RESPONSIBLE MANNER
+01
+Annual Report 2023-24
+SECTION A:  
+GENERAL DISCLOSURES
+1.
+Corporate Identity Number (CIN) of the Company
+L85195TG1984PLC004393
+2.
+Name of the Company
+Neuland Laboratories Limited
+3.
+Year of Incorporation
+07/01/1984
+4.
+Registered office address
+11th Floor (5th Level), Phoenix IVY Building, Plot No. 573A-III, 
+Road No. 82, Jubilee Hills, Hyderabad, 500033, Telangana
+5.
+Corporate office address
+11th Floor (5th Level), Phoenix IVY Building, Plot No. 573A-III, 
+Road No. 82, Jubilee Hills, Hyderabad, 500033, Telangana
+6.
+E-mail id
+ir@neulandlabs.com
+7.
+Telephone
++91 40 67611600 / 700
+8.
+Website
+www.neulandlabs.com
+9.
+Financial year for which reporting is being done
+April 1, 2023, to March 31, 2024
+10.
+Name of the Stock Exchange(s) where shares are 
+listed
+a.	 BSE Limited
+b.	 National Stock Exchange of India Limited
+11.
+Paid-up capital
+H 12,82,98,890/-
+12.
+Name and contact details of the person who may 
+be contacted in case of any queries on the BRSR 
+report
+Ms. Sarada Bhamidipati
+Company Secretary & Compliance Officer
+Tel: +91 40-6761 1600
+Email: saradab@neulandlabs.com
+13.
+Reporting boundary
+Standalone basis
+14.
+Name of assurance provider
+Not Applicable, as BRSR Core Assurance is not mandatory 
+for the Company. However, TUV India Private Limited, a third 
+party has conducted an assurance on certain sustainability 
+parameters reported in the integrated report of the 
+Company.
+15.
+Type of assurance obtained
+II.	
+Products/services
+16.	 Details of business activities
+17.	 Products/services sold by the entity
+Product/Service
+NIC Code
+% of turnover
+100 %
+Development, manufacturing & sale 
+of Active Pharmaceutical Ingredients 
+& Custom Manufacturing Solutions
+21001
+Description of 
+main activity
+Description of 
+business activity
+% of total turnover 
+contributed
+100 %
+Manufacturing of Active 
+Pharmaceutical Ingredients
+Manufacturing of Active 
+Pharmaceutical Ingredients 
+I.	
+Details of the Entity
+02
+NEULAND LABORATORIES LIMITED
+III.	 Operations
+18.	 Number of locations where plants and/or operations/offices of the entity are situated.
+Location
+Number of 
+plants*
+Number of 
+offices
+Total
+National
+4*
+1
+5
+International
+0
+2
+2
+19.	 Markets served by the entity
+a. 
+Number of locations – This refers to locations where goods were transported to during the financial year, however the 
+consumption of final product & even customer footprint is larger.
+*The R&D Unit of the company is included under Number of plants.
+Locations
+Number
+National  
+(No. of states)
+10
+Locations
+Number
+International  
+(No. of countries)
+57
+b. 
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+The company has a global presence   with exports accounting for approximately 78% of its revenue.
+c. 
+A brief on types of customers
+	
+GDS Customers – The GDS business serves a diverse range of customers spanning the globe, including large 
+multinational generics companies, generic divisions of major pharmaceutical firms, regional and national-level players, 
+R&D companies specializing in dossier development with niche focuses, and distributors.
+	
+CMS Customers – The CMS business primarily caters to innovators seeking an API partner for API development and 
+manufacturing throughout the clinical lifecycle, regulatory filing, and commercial supply stages. These customers 
+encompass small biotech firms, medium-sized innovators, as well as major pharmaceutical companies.
+IV.	  Employees
+20.	 Details as of March 31, 2024
+a. 
+Employees and workers (including differently abled)
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+  EMPLOYEES
+1.
+Permanent (D)
+1,543
+1,365
+88%
+178
+12%
+2.
+Other than permanent (E)
+150
+150
+100%
+0
+0%
+3.
+Total employees (D + E)
+1,693
+1,515
+89%
+178
+11%
+WORKERS
+1.
+Permanent (F)
+100
+100
+100%
+0
+0%
+2.
+Other than permanent (G)
+1,062
+975
+92%
+87
+8%
+3.
+Total workers (F + G)
+1,162
+1,075
+93%
+87
+7%
+03
+Annual Report 2023-24
+b. 
+Differently abled employees
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+1
+1
+100%
+0
+0%
+2.
+Other than permanent (E)
+0
+0
+0%
+0
+0%
+3.
+Total differently abled employees (D + E)
+1
+1
+100%
+0
+0%
+DIFFERENTLY ABLED WORKERS
+1.
+Permanent (F)
+0
+0
+0%
+0
+0%
+2.
+Other than permanent (G)
+0
+0
+0%
+0
+0%
+3.
+Total differently abled workers (F + G)
+0
+0
+0%
+0
+0%
+21.	 Participation/inclusion/representation of women
+Total (A)
+No. and percentage of females
+No. (B)
+% (B/A)
+Board of Directors
+11*
+3*
+27%
+Key Management Personnel (other than BoD)
+2
+1
+50%
+FY24 (%)
+FY23 (%)
+FY22 (%)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+18.4
+18.5
+18.4
+23.6
+27.8
+24
+24.5
+25
+24.5
+Permanent Workers
+0
+0
+0
+0
+0
+0
+0
+0
+0
+* As on May 10, 2024 (date of the report), two of the directors including one woman director, have retired upon completion of their appointment term.
+22.	 Turnover rate for permanent employees
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a) Names of holding / subsidiary / associate companies / joint ventures
+Sl. 
+No.
+Name of the holding/
+subsidiary/ associate 
+companies/joint 
+ventures (A)
+Indicate whether holding/ 
+Subsidiary/ Associate/ Joint 
+Venture
+% of shares held by 
+listed entity
+Does the entity indicated at 
+column A, participate in the 
+Business Responsibility initiatives 
+of the listed entity? (Yes/No)
+1
+Subsidiary
+Neuland Laboratories Inc., USA
+100%
+Yes
+2
+Subsidiary
+Neuland Laboratories K.K., Japan
+100%
+Yes
+VI.	 CSR Details
+24.	 (i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+	
+(ii)	
+Turnover :  J 15,58,58,05,000.00
+	
+(iii)	 Net worth : J 12,75,66,67,609.00
+	
+(iv)	 Total amount spent on CSR for FY24 : J 3,08,96,288.42 
+04
+NEULAND LABORATORIES LIMITED
+Stakeholder group 
+from whom complaint 
+is received
+Grievance Redressal 
+Mechanisms in Place  
+(Yes/No)
+FY24
+FY23
+(If yes, then provide web-
+link for grievance redress 
+policy)
+Number of 
+complaints 
+filed during
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities 
+Yes. We actively participate 
+in the periodical meetings 
+with the villagers and 
+local communities in 
+the presence of Village 
+Sarpanch and other 
+Government agencies to 
+address community related 
+grievances of all locations
+0
+0
+-
+0
+0
+-
+Investors  (other 
+than shareholders)
+Yes. https://www.
+neulandlabs.com/en/
+investors/investor-
+services/investor-contacts
+0
+0
+-
+0
+0
+-
+Shareholders
+Yes. https://www.
+neulandlabs.com/en/
+investors/investor-
+services/investor-contacts
+2
+0
+-
+1
+0
+-
+Employees and 
+workers
+Yes. Grievance Redressal 
+policy is available for both 
+employees and workers 
+in our intranet portal.  
+Notice board displays are 
+available for workers
+214
+0
+-
+102
+5
+-
+Customers
+Yes, the customers raise 
+their grievances through 
+various channels of 
+communication  such as 
+e-mail, phone calls, in-
+person meetings, periodic 
+customer surveys etc
+0
+0 
+-
+4
+0
+-
+Value Chain Partners 
+Yes, the grievance 
+redressal mechanism for 
+value chain partners is 
+through a dedicated email 
+ID for suppliers available at 
+https://www.neulandlabs.
+com/sites/neulandlabs/
+files/neuland-labs/
+sustainability/sustainable-
+supply-chain/supplier-
+code-of-conduct.pdf
+0
+0
+-
+0
+0
+-
+VII.	  Transparency and Disclosures Compliances  
+25.	 Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct (NGRBC)
+	
+The Company’s key stakeholders include investors, customers, employees, value chain partners/ suppliers and 
+community besides governments/regulatory authorities.
+05
+Annual Report 2023-24
+26.	 OVERVIEW OF THE ENTITY’S MATERIAL RESPONSIBLE BUSINESS CONDUCT ISSUES 
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to 
+adapt or mitigate the risk, as per the following format:
+	
+Material topic identification was conducted through a survey with key stakeholders identified. Board members, 
+Investors/Analysts, Employees, Customers, Bankers, and Suppliers have participated in the survey. The material topics 
+are suitably incorporated in the Environment, Social and Governance (ESG) Strategy of the Company. 
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+1
+Risk 
+Management 
+and Business 
+Continuity  
+Risk
+Our environment both geopolitically and 
+in terms of regulations  is complicated. 
+Unwanted events like natural disasters, 
+workplace accidents, wars, sanctions, 
+continuous cyberattacks, and other 
+similar events can have a substantial 
+negative impact on our operations and 
+commitment to meet patient demands in 
+the absence of strong business continuity 
+plans and safeguards.
+The Company has an Enterprise 
+Risk management program 
+which helps in identifying and 
+addressing risks impacting  
+business operations.
+This includes external and 
+internal risks , as well as 
+specific emerging risk events 
+and business continuity events. 
+More recently the company 
+has embarked on a formal 
+BCMS journey aligned to the 
+ISO 22301 framework with the 
+objective of getting accredited 
+by June 2025.
+Negative
+2
+Climate 
+change
+Risk
+Climate change actions may not be 
+adequate, and ESG priorities may not 
+be collectively met by all participating 
+organizations and nations, thereby, 
+leading to unforeseen risk events. Rise in 
+sea levels in the medium term (5-7 years) 
+may increase the severity of extreme 
+weather events such as cyclones and 
+floods in our logistics and supply chains. 
+In the next 3-5 years, our ESG priorities 
+may require planned investments.
+The Company has adopted the 
+TCFD framework for Climate 
+Change and associated 
+sustainability risks. Presently 
+potential  physical and 
+transition risks are identified 
+and responses are planned.
+Going forward it is proposed 
+to capture relevant data to 
+quantify impact on climate 
+change on the company.
+Company is invested in several  
+initiatives linked to minimizing 
+Environmental emissions.  
+Negative
+3
+Community 
+Wellbeing
+Opportunity
+Investing in community wellbeing 
+initiatives can enhance the quality of life 
+for local communities, foster goodwill, 
+and build stronger relationships with 
+stakeholders. By engaging in community 
+development programs, supports local 
+education and health initiatives, and 
+collaborates with community leaders to 
+address their needs.
+The Company’s ESG priorities 
+actively considers community 
+well being and  the Company’s 
+Social initiatives are focused on 
+the well being of the proximate  
+communities to where the 
+Company operates. 
+ Positive
+06
+NEULAND LABORATORIES LIMITED
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+4
+Digitalization
+Risk and 
+Opportunity
+Digitalization increases communication 
+efficiency while also increasing openness. 
+Enhanced digitization brings with it risks 
+from inadequate training as well as new 
+cybersecurity vulnerabilities.
+Neuland follows a strong 
+governance framework based 
+upon NIST and ISMS 27001 
+to assess and monitor cyber 
+security risks and controls.
+The company’s mitigation 
+among others includes 
+adequate user awareness, 
+responsive and timely 
+incident management, Data 
+leakage prevention and a risk 
+governance structure linked to 
+the overall ERM structure.
+Positive
+5
+Effluent and 
+waste
+Risk
+The Company has a commitment to 
+ensure there is no negative impact on 
+the environment. Minimizing negative 
+environmental impacts and ensuring the 
+highest standards of EMS.
+Neuland has been successfully 
+running a Zero effluent 
+discharge system for over 3 
+years now.
+Disposal of waste is reduced by 
+implementing recycling and safe 
+disposal of waste.
+Negative
+6
+Emissions
+Risk
+Minimizing negative environmental 
+impacts and ensuring the highest 
+standards of Environmental Management 
+Systems.
+Incremental GHG reduction 
+goals through tactical strategies 
+are currently focused on.
+Negative
+7
+Ethics and 
+Compliance
+Risk & 
+Opportunity
+Maintaining high ethical standards and 
+compliance with laws and regulations is 
+critical to avoid legal penalties, financial 
+losses, and damage to our reputation.
+The Company has implemented 
+comprehensive compliance 
+programs, regular employee 
+training on ethical conduct, and 
+a zero-tolerance policy towards 
+corruption and misconduct. 
+A whistleblower program 
+encourages reporting of 
+unethical behavior.
+ Negative
+8
+Human 
+capital 
+development
+Risk and 
+Opportunity
+Skill upgradation of the employees has 
+a direct positive impact on the growth 
+of the business. On the other hand, the 
+risks associated with employee non-
+engagement, inability to attract or retain 
+talent and succession planning gaps can 
+negatively impact the organization
+Several initiatives are underway 
+to make the company an 
+employer of choice including 
+well-designed HR policies 
+healthy work environment, job  
+rotation and other initiatives for 
+retaining talent.
+Positive
+9
+Innovation 
+and R&D
+Opportunity
+Innovation is key to synthesizing novel 
+products and helping our customers 
+innovate. Our R&D activities are aligned to 
+ensure our customers are able to fasten 
+innovation while ensuring access while 
+ensuring that impact on the environment 
+is minimized.
+NA
+Positive
+07
+Annual Report 2023-24
+SECTION B:  
+MANAGEMENT AND PROCESS DISCLOSURES
+POLICY AND MANAGEMENT PROCESS
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+10
+Occupational 
+Health and 
+Safety
+Risk
+Occupational health and safety is core 
+to the Company’s commitment towards 
+employee and workforce safety and 
+wellbeing.
+1. 	 Adherence to ISO45001 
+standards
+2. 	 Goal setting is done to 
+achieve Zero injury
+3. 	 Increase training in health 
+and safety measures
+Negative
+11
+Sustainable 
+Supply Chain
+Risk
+Supply chain risks occur when the 
+process of purchasing or sourcing 
+products, services or resources becomes 
+unreliable.
+Our procurement policy has 
+several levels of checks which 
+assure the quality of the 
+product, vendor and the risks 
+associated. We constantly 
+strive to procure sustainably.
+Negative
+12
+Water
+Risk
+Water, particularly high-quality water, 
+is critical to our operations; hence, we 
+recognized the need to comprehend the 
+predicted changes in water stress and 
+water-related risks.
+The Company created a water 
+management strategy that 
+focuses on lowering water 
+intensity and increasing the 
+percentage of recycled water in 
+our operations.
+Negative 
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+1.	 a.	 Whether your entity’s policy/policies 
+cover each principle and its core 
+elements of the NGRBCs. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+b.	 Has the policy been approved by the 
+Board? (Yes/No)
+The statutory policies are approved by the Board or Board Committees, as 
+applicable. Other applicable policies are either approved by the Board or by the 
+appropriate authority.
+	
+c.	 Web Link of the Policies, if available.
+P1:
+•	
+Code of Ethical Conduct: https://www.neulandlabs.com/sites/neulandlabs/files/
+neuland-labs/career/our-people/code-of-ethical-conduct.pdf
+•	
+Code of Conduct for the Board Members and Senior Management Personnel: 
+https://www.neulandlabs.com/sites/neulandlabs/files/neuland-labs/Investors/
+corporate-governance/policies-and-documents/code-of-conduct-for-the-
+board-and-senior-management.pdf 
+•	
+Neuland Code for Fair Disclosures: https://www.neulandlabs.com/sites/
+neulandlabs/files/neuland-labs/Investors/corporate-governance/policies-and-
+documents/neuland-code-of-fair-disclosures.pdf 
+•	
+Nomination and Remuneration Policy: https://www.neulandlabs.com/sites/
+neulandlabs/files/neuland-labs/Investors/corporate-governance/policies-and-
+documents/nomination-and-remueration-policy.pdf 
+•	
+Whistle Blower Policy: https://www.neulandlabs.com/sites/neulandlabs/files/
+neuland-labs/Investors/corporate-governance/policies-and-documents/
+whistle-blower-policy.pdf
+08
+NEULAND LABORATORIES LIMITED
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P2:
+•	
+Environment, Health, Safety and Sustainability (EHS&S) Policy: https://www.
+neulandlabs.com/en/sustainability/climate-and-environment
+•	
+Quality Policy
+P3:
+•	
+Environment, Health, Safety and Sustainability (EHS&S) Policy: https://www.
+neulandlabs.com/en/sustainability/climate-and-environment 
+•	
+Prevention of Sexual Harassment (PoSH) Policy
+P4:
+•	
+Supplier Code of Conduct: https://www.neulandlabs.com/sites/neulandlabs/
+files/neuland-labs/sustainability/sustainable-supply-chain/supplier-code-of-
+conduct.pdf 
+•	
+Corporate Social Responsibility (CSR) Policy: https://www.neulandlabs.com/
+sites/neulandlabs/files/neuland-labs/Investors/corporate-governance/policies-
+and-documents/corporate-social-responsibility-csr-policy.pdf
+P5:
+•	
+Human Rights Commitment: https://www.neulandlabs.com/sites/neulandlabs/
+files/neuland-labs/career/our-people/human-rights.pdf 
+P6:
+•	
+Environment, Health, Safety and Sustainability (EHS&S) Policy: https://www.
+neulandlabs.com/en/sustainability/climate-and-environment
+P7: Internal procedure on NLL’s position on responsible advocacy
+P8:
+•	
+Corporate Social Responsibility (CSR) Policy: https://www.neulandlabs.com/
+sites/neulandlabs/files/neuland-labs/Investors/corporate-governance/policies-
+and-documents/corporate-social-responsibility-csr-policy.pdf 
+P9:
+•	
+Privacy Policy: https://www.neulandlabs.com/en/privacy-policy 
+•	
+Quality Policy
+2.	 Whether the entity has translated the 
+policy into procedures. (Yes / No)
+Each function maintains its own set of procedures, such as those for EHS 
+(Environmental, Health, and Safety), Supplier Management, and Cybersecurity. 
+Board policies, including those concerning CSR (Corporate Social Responsibility), 
+Whistleblower protocols, and Human Rights, are directly overseen through policy 
+monitoring, thus separate procedures are not deemed necessary for these areas.
+3.	 Do the enlisted policies extend to your   
+value chain partners? (Yes/No)
+Yes. The company has a Supplier Code of Conduct that encompasses business 
+principles and ethics, guidance on employment practices and human rights, 
+environmental health, and safety practices, as well as other business and legal 
+compliance requirements.
+4.	 Name of the national and international 
+codes/certifications/labels/standards 
+(e.g. Forest Stewardship Council, 
+Fairtrade, Rainforest Alliance, Trustea) 
+standards (e.g. SA 8000, OHSAS, ISO, 
+BIS) adopted by your entity and mapped 
+to each principle.
+•	
+ISO 9001,
+•	
+ISO 14001,
+•	
+ISO 27001,
+•	
+ISO 45001, 
+•	
+British Safety Council Occupational Health and Safety and Wellbeing 
+5.	 Specific commitments, goals targets and 
+performance by the entity with defined  
+timelines, if any.
+•	
+Refer to Company’s specific ESG Commitments and Goals in ESG Strategy 
+Section of Integrated Report FY24.
+6.	 Performance of the entity against the specific 
+commitments, goals, and targets along-with 
+reasons in case the same are not met.
+09
+Annual Report 2023-24
+10.	  Details of Review of NGRBCs by the Company
+Subject for Review
+Indicate whether review was undertaken by Director / Committee of the 
+Board/Any other Committee & Frequency
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and 
+follow up action
+The policies of the Company are reviewed periodically / on a need basis 
+by department heads / director / board committees / board members, 
+wherever applicable.
+Compliance with statutory requirements of 
+relevance to the principles and rectification 
+of any non-compliances
+The Company is in compliance with the extant regulations, as applicable.
+11.	 Has the entity carried out independent 
+assessment/ evaluation of the working 
+of its policies by an external agency? 
+(Yes/No). If yes, provide name of the 
+agency
+Our company’s policies undergo assessment by its internal auditors, within 
+the scope defined for the audit. Additionally, the effectiveness of each 
+policy is overseen by department heads, directors, board committees, and 
+board members as appropriate to their respective roles and responsibilities.
+We have obtained independent third-party assurance for our sustainability 
+performance. For the reporting year, the authenticity of the data and 
+systems disclosed in our sustainability disclosures has been assured by an 
+independent third-party assurance provider. This assurance was provided 
+according to the International Standard for Assurance Engagements (ISAE) 
+3000 at the ‘Limited Assurance’ level.
+Additionally, relevant third-party assessments and certifications are 
+periodically conducted across our business units.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+GOVERNANCE, LEADERSHIP AND OVERSIGHT
+7.	 Statement 
+ 
+by 
+director 
+responsible 
+for the business responsibility report, 
+highlighting ESG   related challenges, 
+targets, and achievements (listed entity 
+has flexibility regarding the placement of 
+this disclosure)
+As we focus on business growth, we remain steadfast in our commitment to 
+environmental impact, societal well-being, and transparent operations. 
+This 
+Business 
+Responsibility 
+and 
+Sustainability 
+Report 
+(BRSR) 
+provides 
+comprehensive insights into the company’s standalone operations. We strive to 
+enhance transparency in our disclosures.
+Our ongoing ESG journey is integral to our identity as a responsible corporate citizen, 
+driving us to embed sustainability agenda with our company’s business objectives 
+while recognizing ESG as a pivotal driver for long-term value creation across all 
+stakeholders
+In doing so we recognize we will need to address a few challenges both internal 
+and external. As a highly regulated industry our ability to me swift significant 
+changes are limited. In addition to significant capital investments for ESG initiatives, 
+governmental policies and incentives can play a catalyst role in certain transition 
+such as in the case of renewable sources.
+From a societal perspective, we actively engage in healthcare, women 
+empowerment, rural development, education and skill enhancement through our 
+social impact projects. Our commitment extends to upholding high standards of 
+corporate governance, transparency, accountability, and ethical conduct across our 
+operations
+8.	 Details of the highest authority responsible 
+for implementation and oversight of the 
+Business Responsibility policy(ies).
+Mr. Davuluri Sucheth Rao (DIN: 00108880), Vice Chairman and CEO, under 
+the guidance of the Board of Directors and its Committees is responsible for 
+implementation and oversight of the Business Responsibility policies.
+9.	 Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision making on 
+sustainability related issues? (Yes/No). If 
+yes, provide details.
+Yes, the Risk and Sustainability (R&S) Committee, a sub-committee of the 
+Board, serves as a focal point for providing guidance on sustainability and ESG. 
+The Committee meets at regular intervals to deliberate, and contribute to the 
+Company’s ESG priorities, and strategy. Additionally, they review progress against 
+the company’s goals and targets and provide suggestions for improvement.
+The BRSR is presented to the R&S Committee and the Board for approval.
+10
+NEULAND LABORATORIES LIMITED
+12.	  If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the principles   material to its business 
+(Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a position to formulate and 
+implement the policies on specified principles (Yes/No)
+The entity does not have the financial or/human and technical 
+resources available for the task (Yes/No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+SECTION C:  
+PRINCIPLE-WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1
+BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY AND IN A 
+MANNER THAT IS ETHICAL, TRANSPARENT AND ACCOUNTABLE
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial 
+year
+Segment
+Total 
+number of 
+training and 
+awareness 
+programmes 
+held
+Topics/ principles covered under the training and its impact
+% of persons 
+in respective 
+category 
+covered by 
+the awareness 
+programmes
+Board of 
+directors
+9
+We regularly conduct familiarization programs for our Board of Directors 
+and Key Managerial Personnel. These programs cover topics such as 
+ESG parameters and targets, corporate governance practices, risk 
+management, employee well-being, innovation, and R&D, as well as 
+various other regulatory updates.
+90.32%
+Key Managerial 
+Personnel
+7
+100.00
+Employees 
+other than BOD 
+and KMPs
+98
+Our employees and workers participate in various training and awareness 
+sessions. These include induction training at the time of joining, as well 
+as ongoing training in leadership, policy, safety, environment, social and 
+governance issues, occupational health, mental health, soft skills, risk 
+management, prevention of sexual harassment, and function-specific 
+technical and compliance training throughout their employment.
+98.36%
+Workers
+NA *
+The workers undergo various on the job awareness sessions on skill 
+development, quality, health, and safety, POSH, etc.
+NA
+Essential Indicators:
+*We conduct regular training programs on Quality, Health & Safety, PoSH. However, we have not documented the attendance. We are in the process of 
+establishing processes to capture the same.
+11
+Annual Report 2023-24
+3.	
+Of the instances disclosed in Question 2 above, details of the appeal/revision preferred in cases where 
+monetary or non-monetary action has been appealed.
+	
+Not Applicable as there were no monetary and non-monetary cases recorded during the reporting period.
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy.
+	
+Yes, we at Neuland Laboratories Limited have a comprehensive Anti-Bribery, Anti-Corruption, and Anti-Money 
+Laundering Policy. We are committed to conducting our business ethically and aim to prevent bribery, corruption, and 
+money laundering globally. Our policy applies to all internal and external stakeholders, including employees, directors, 
+agents, consultants, suppliers, and business partners. We prohibit bribery, corruption, improper payments, and money 
+laundering, including specific prohibitions against bribes, facilitation payments, and kickbacks. Gifts, hospitality, and 
+entertainment are allowed only if reasonable, transparent, and compliant with our policies. Company funds cannot be 
+used for political contributions, and charitable contributions must comply with our Corporate Social Responsibility Policy 
+and not be inducements. Our interactions with government officials adhere to high standards of integrity and applicable 
+laws. Third-party dealings require due diligence and integrity, ensuring compliance with anti-bribery and anti-corruption 
+provisions. We maintain accurate records to meet regulatory requirements and prevent financial misconduct. Conflicts 
+of interest must be reported to the Compliance Officer. We conduct regular risk assessments and training sessions to 
+ensure all stakeholders are familiar with our policy and applicable laws. We encourage stakeholders to report suspected 
+violations through designated channels, with protections against retaliation for good faith reports. Violations of our 
+policy may result in disciplinary action, including termination of employment, and potentially notifying appropriate 
+authorities.  We do not tolerate retaliation of any kind.
+5.	
+Number of Directors/KMPs/employees against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption.
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial Institutions
+Brief of the case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+NIL
+Punishment
+FY24
+Directors
+0
+KMPs
+0
+Employees
+0
+Workers
+0
+FY23
+0
+0
+0
+0
+Monetary
+NGRBC 
+Principle
+Name of the regulatory / enforcement 
+agencies / judicial institutions
+Amount 
+(INR)
+Brief of 
+the Case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty/ Fine
+NIL
+Settlement
+Compounding Fee
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings 
+(by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the 
+financial year, in the following format (Note: the entity shall make disclosures on the basis of materiality as 
+specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as 
+disclosed on the entity’s website):
+12
+NEULAND LABORATORIES LIMITED
+6.	
+Details of complaints with regard to conflict of interest
+FY24
+FY23
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of conflict 
+of interest of directors
+0
+-
+0
+-
+Number of complaints received in relation to issues of conflict 
+of interest of KMPs
+0 
+-
+0 
+-
+7.	
+Provide details of any corrective action taken or underway on issues related to fines/penalties/action taken 
+by regulators/law enforcement agencies/judicial institutions, on cases of corruption and conflicts of interest.
+	
+No fines or penalties reported.
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the 
+following format:
+FY 2024
+FY 2023
+Number of days of accounts payables*
+46
+54
+Parameter
+Metrics
+FY 2024
+FY 2023
+Concentration of Purchases
+a.	 Purchases from trading houses as % of total 
+purchases
+-
+-
+b.	 Number of trading houses where purchases are 
+made from
+-
+-
+c.	 Purchases from top 10 trading houses as % of total 
+purchases from trading houses
+-
+-
+Concentration of Sales
+a.	 Sales to dealers / distributors as % of total sales
+-
+-
+b.	 Number of dealers / distributors to whom sales are 
+made
+-
+-
+c.	 Sales to top 10 dealers / distributors as % of total 
+sales to dealers / distributors
+-
+-
+Share of RPTs in
+a.	 Purchases (Purchases with related parties / Total 
+Purchases)
+-
+-
+b.	 Sales (Sales to related parties / Total Sales)
+-
+-
+c.	 Loans & advances (Loans & advances given to 
+related parties / Total loans & advances)
+-
+1%
+d.	 Investments (Investments in related parties / Total 
+Investments made)
+-
+-
+*For all internal and external communications, Company uses sales as the denominator for computing days of accounts payable. Based on Cost of 
+goods/services procured, the number would have accordingly been 70 and 75 for FY24 and FY23 respectively.
+9.	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties 
+along-with loans and advances & investments, with related parties, in the following format:
+1.	
+Awareness programmes conducted for value chain partners on any of the principles during the financial year.
+Leadership Indicators:
+Total number of awareness 
+programmes held
+Topics / principles 
+covered under the training
+% age of value chain partners covered (by value of business 
+done with such partners) under the awareness programmes
+1 Training programme covering 
+86 value chain partners
+ESG, Carbon foot printing
+38%
+13
+Annual Report 2023-24
+PRINCIPLE 2
+BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS 
+SUSTAINABLE AND SAFE
+Essential Indicators:
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively.
+Particulars
+FY 2024
+FY 2023
+Details of improvements in environmental and social impacts
+R&D 
+2%
+1%
+Improvement of waste management practices, scrubbers for controlling air 
+pollution and expansion of Zero liquid discharge at the Units
+Capex
+17%
+33%
+Sewage Treatment Plant and hazardous lab facility for R&D
+2. 
+a. 
+Does the entity have procedures in place for 
+sustainable sourcing? (Yes/No) - Yes
+ 
+b. 
+If yes, what percentage of inputs were sourced 
+sustainably?
+	
+	
+27% (by value of the order) of the suppliers are 
+screened through ESG factors
+	
+We consider supplier commitment to our Supplier Code of 
+Conduct as the first step towards sustainability. As part of 
+the regulated market, our code emphasizes compliance 
+with all applicable regulations. It prohibits child labor, 
+mandates upholding basic human rights, and requires 
+ethical business practices, such as respecting data 
+privacy, intellectual property rights, fair competition, and 
+ensuring safe operating conditions for all workers. Our 
+goal is for all suppliers to commit to this code of conduct. 
+Additionally, we encourage our suppliers to obtain valid 
+ISO 9001, ISO 14001, and ISO 45001 certifications.
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the 
+board? (Yes/No) If yes, provide details of the same.
+	
+Yes, we have implemented a 'Code of Conduct for Board Members and Senior Management' and a 'Related Party 
+Transaction Policy,' both of which apply to our board members. Any transactions involving board members or entities in 
+which they have an interest must be disclosed and approved by the Audit Committee and the Board of Directors. In such 
+cases, the interested directors abstain from discussions. Additionally, the Board Members and the Senior Management 
+personnel confirms their compliance with the Code of Conduct for Board of Directors & Senior Management Personnel 
+on an annual basis.
+	
+The weblink of the abovementioned policies are mentioned below:
+	
+○
+Code of Conduct for Board Members and Senior Management: https://www.neulandlabs.com/sites/neulandlabs/
+files/neuland-labs/Investors/corporate-governance/policies-and-documents/code-of-conduct-for-the-board-
+and-senior-management.pdf
+	
+○
+Related Party Transaction Policy: 
+https://www.neulandlabs.com/en/investors/corporate-governance/policies-and-documents
+3.	
+Describe the processes in place to safely reclaim 
+your products for reusing, recycling, and disposing 
+at the end of life, for (a) Plastics (including 
+packaging) (b) E-waste (c) Hazardous waste and 
+(d) other waste. 
+	
+We have established the standard operating procedure 
+for Hazardous, Non-Hazardous waste and general 
+waste Management is in place.  
+ 
+Hazardous Waste Management:
+Our company generates various types of hazardous 
+waste, including evaporation salt, process salt, spent 
+carbon, ETP sludge, insulation waste, spent mixed 
+solvents, used oil, and PPE. Non-hazardous waste 
+includes plastic, paper, glass, and empty drums, which 
+are responsibly managed through recycling or co-
+processing with approved recyclers.
+14
+NEULAND LABORATORIES LIMITED
+Hazardous waste management strictly follows the 
+Hazardous Waste Management Rules of 2016. We 
+ensure proper collection and containment using MS 
+drums or double-layer polythene bags, clearly labelled 
+for identification. Only trained personnel handle 
+hazardous waste to maintain safety and control.
+We employ co-processing in cement kilns as an 
+environmentally sustainable option for disposing of 
+various wastes, including hazardous ones. This method 
+not only destroys the waste at high temperatures (up 
+to 1450°C) but also incorporates the inorganic content 
+into the clinker, leaving no residues. Co-processing 
+also neutralizes acidic gases within the kiln's alkaline 
+environment and reduces the need for non-renewable 
+resources like coal and limestone.
+Our waste management system aims to achieve zero 
+waste in landfills by maximizing reuse and recycling. 
+In FY23, we successfully eliminated landfill waste, 
+redirecting 100% of it towards co-processing and 
+recycling initiatives. The co-processed waste is 
+effectively utilized as fuel in cement kilns.
+ 
+E-Waste Management:
+Managing e-waste responsibly is crucial due to its 
+hazardous nature and potential environmental and 
+health risks. Our measures include:
+E-Waste Collection Programs: Implementing collection 
+programs within our facilities to ensure proper disposal 
+of obsolete or broken electronic equipment.
+E-Waste Recycling: Partnering with certified e-waste 
+recycling facilities to dismantle devices, separate 
+components, and safely dispose of hazardous substances.
+Reuse and Refurbishment: Refurbishing and reusing 
+functional electronic equipment within the organization.
+Proper Disposal of Hazardous Materials: Safely 
+disposing of hazardous materials like lead, mercury, 
+cadmium, 
+and 
+brominated 
+flame 
+retardants 
+in 
+compliance with regulations.
+Compliance with E-Waste Regulations: Adhering 
+to 
+local 
+and 
+international 
+e-waste 
+regulations, 
+including 
+collection, 
+recycling, 
+disposal, 
+and 
+reporting requirements.
+Vendor Selection and Due Diligence: 
+Carefully 
+selecting and vetting e-waste recycling vendors to 
+ensure they meet environmental and safety standards.
+Employee 
+Training 
+and 
+Awareness: 
+Educating 
+employees on proper e-waste disposal and its 
+environmental and health impacts.
+E-Waste Reporting and Tracking: Maintaining records 
+of e-waste generated, collected, and disposed of for 
+compliance and reporting purposes.
+ 
+Plastic and Other Waste Management:
+We have established recycling programs to capture 
+and recycle materials such as plastic, paper, glass, and 
+metals. Additionally, we invest in resource recovery 
+technologies to extract value from waste streams 
+through processes such as composting, anaerobic 
+digestion, and material recovery.
+By 
+implementing 
+these 
+measures, 
+we 
+ensure 
+responsible 
+e-waste 
+management, 
+minimize 
+environmental and health risks, and contribute to the 
+circular economy by promoting the reuse and recycling 
+of electronic materials.
+4.	
+Whether Extended Producer Responsibility (EPR) 
+is applicable to the entity’s activities (Yes / No). 
+If yes, whether the waste collection plan is in line 
+with the Extended  Producer Responsibility (EPR) 
+plan submitted to Pollution Control Boards? If not, 
+provide steps taken to address the same.
+Not applicable, however, Neuland has registered 
+for Extended Producer Responsibility (EPR) as an 
+importer and has secured approval from the Pollution 
+Control Board (PCB). The annual returns for FY24 have 
+been submitted.
+Leadership Indicators  :
+1.	
+Has the entity conducted Life Cycle Perspective/Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+No Life Cycle Assessment (LCA) was conducted on any products. We plan to conduct LCAs for our specific products in 
+the upcoming years.
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal 
+of your products / services, as identified in the Life Cycle Perspective/Assessments (LCA) or through any 
+other means, briefly describe the same along-with action taken to mitigate the same.
+There are no significant environmental or social concerns identified in our operations. We have procedures and 
+systems in place to effectively mitigate risks, including robust waste management practices and adherence to circular 
+economy principles.
+15
+Annual Report 2023-24
+Essential Indicators
+Input material
+Recycled or re-used input material to total material
+FY24
+FY23
+Solvents
+11.32%
+13.10%
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, 
+and safely disposed, as per the following format
+Not applicable as the nature of our product being consumed at the end of the life of the product. 
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Not applicable as the nature of our product being consumed at the end of the life of the product. 
+PRINCIPLE 3
+BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EMPLOYEES  , 
+INCLUDING THOSE IN THEIR VALUE CHAINS
+1.	
+A. 
+Details of measures for the well-being of employees
+Category
+% of employees covered by
+Total 
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (D)
+% (D/A)
+No. (E)
+% (E/A)
+No. (F)
+% (F/A)
+PERMANENT EMPLOYEES
+Male
+1,365
+1,365
+100%
+1,365
+100%
+0
+0%
+1,365
+100%
+0
+0%
+Female
+178
+178
+100%
+178
+100%
+178
+100%
+0
+0%
+0
+0%
+Total
+1,543
+1,543
+100%
+1,543
+100%
+178
+12%
+1,365
+88%
+0
+0%
+OTHER THAN PERMANENT EMPLOYEES
+Male
+150
+150
+100%
+150
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+150
+150
+100%
+150
+100%
+0
+0%
+0
+0%
+0
+0%
+Note: Previous year’s numbers (FY23) have been rectified. 
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for 
+manufacturing industry) or providing services (for service industry).
+B. 
+Details of measures for the well-being of workers
+Category
+% of Workers covered by
+Total 
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (D)
+% (D/A)
+No. (E)
+% (E/A)
+No. (F)
+% (F/A)
+PERMANENT WORKERS
+Male
+100
+100
+100%
+100
+100%
+0
+0%
+100
+100%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0  
+0%
+0
+0%
+0
+0%
+Total
+100
+100
+100%
+100
+100%
+0
+0%
+100
+100%
+0
+0%
+OTHER THAN PERMANENT WORKERS
+Male
+975
+975
+100%
+975
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+87
+87
+100%
+87
+100%
+0
+0%
+0
+0%
+0
+0%
+Total
+1,062
+1,062
+100%
+1,062
+100%
+0
+0%
+0
+0%
+0
+0%
+16
+NEULAND LABORATORIES LIMITED
+C. 
+Spending on measures towards well-being of employees and workers (including permanent and other than permanent) 
+in the following format
+2.	
+Details of retirement benefits for the current and previous financial year
+Benefits
+FY 2024
+FY 2023
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+employees
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+employees
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Y
+100%
+100%
+Y
+Gratuity
+100%
+100%
+Y
+100%
+100%
+Y
+Employee State Insurance (ESI)
+0%
+0% 
+NA
+0%
+0%
+NA
+Others
+0%
+100%
+Y
+NA
+NA
+NA
+3.	
+Accessibility of workplaces: Are the premises/offices accessible to differently abled employees as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by 
+the entity in this regard.
+	
+For differently abled employees, the infrastructure facilities across the offices and manufacturing and R&D facilities 
+adhere to accessibility standards as required. The Equal Opportunity Policy safeguards the rights of the differently 
+abled employees. 
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy.
+	
+Yes, the policy is accessible on the Company’s intranet. We are committed to being an equal opportunities employer, 
+fostering an inclusive environment where everyone can thrive. We do not discriminate in any aspect of employment 
+based on factors such as race, religion, disability, gender, or age. Our code of ethical conduct reinforces our commitment 
+to hiring and promoting individuals based on their qualifications and abilities, without regard to protected categories. For 
+more information on our company culture, visit https://www.neulandlabs.com/en/careers/people.
+5.	
+Return to work and retention rates of permanent employees that took parental leave.
+Note: Previous year’s numbers (FY23) have been rectified. 
+FY 2024
+FY 2023
+Cost incurred on well-being measures as a % of total revenue of the company
+1%
+1%
+Gender
+Permanent employees
+Return to work rate
+Retention rate
+Male
+100%
+85%
+Female
+100%
+25%
+Total
+100%
+83%
+Yes/No (If yes, then give details of the 
+mechanism in brief)
+Permanent Employees
+Other than Permanent Employees
+Permanent Workers
+Other than Permanent Workers
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees? 
+If yes, give details of the mechanism in brief.
+We have established grievance redressal procedures for all our employees and workers, ensuring that any complaints 
+received through various channels are addressed according to our grievance redressal policy available on our company's 
+intranet. We maintain a strong compliance culture, ensuring grievances are handled in line with our principles and policies 
+through internal reporting.
+17
+Annual Report 2023-24
+At Neuland, we prioritize employee well-being through our dedicated Grievance Redressal policy. Our Central and Location 
+Grievance Committees promptly address employee concerns, fostering a transparent and supportive environment. Employees 
+can easily access our policy and committee details on our intranet portal and are encouraged to report any grievances or 
+human rights violations to our Grievance Cell (grievances@neulandlabs.com).
+Our whistle-blower policy/vigil mechanism extends to our stakeholders including all investors, Employees, Directors, 
+contractors, customers, consultants, suppliers and vendors of the Company and its subsidiaries and all other persons 
+associated with the Company. Concerns raised are reported to the Audit Committee and, where applicable, to the Board 
+through the Compliance Officer. Employees can also bring issues to HR or their reporting manager, and any complaints 
+regarding sexual harassment are addressed under the PoSH Act 2013 and our internal policy in compliance with it. 
+7.	
+Membership of employees in association(s) or unions
+Category
+FY 2024
+FY 2023
+No. of 
+employees 
+covered as 
+a % of total 
+employees 
+(A)
+No. of employees 
+/ workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (B)
+% 
+(B/A)
+Total 
+employees 
+/ workers in 
+respective 
+category 
+(C)
+No. of employees 
+/ workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (D)
+% 
+(D/C)
+Total Permanent Employees
+NA
+NA
+NA
+NA
+NA
+NA
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+Total Permanent Workers
+100
+100
+100%
+106
+106
+100%
+Male
+100
+100
+100%
+106
+106
+100%
+Female
+0
+0
+0%
+0
+0
+0%
+8.	
+Details of training given to employees
+9.	
+Details of performance and career development reviews of employees 
+Category
+FY24
+Total 
+(A)
+On health and 
+safety/wellness 
+measures
+On skill 
+upgradation
+Total 
+(A)
+On health and 
+safety measures/ 
+wellness
+On skill 
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+Male
+1,365
+1,365
+100%
+1,365
+100%
+1,299
+1299
+100%
+692
+53%
+Female
+178
+ 178
+100%
+178
+100%
+149
+149
+100%
+85
+57%
+Total
+1,543
+1,543
+100%
+1,543
+100%
+1,448
+1,448
+100%
+777
+54%
+WORKERS
+Male
+100
+100
+100%
+100
+100%
+106
+106
+100%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+Total
+100
+100
+100%
+100
+100%
+106
+106
+100%
+0
+0%
+Category
+FY24
+FY23
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+EMPLOYEES
+Male
+1,342
+ 917
+68%
+1,299
+1,176
+91%
+Female
+163
+103
+62%
+149
+123
+83%
+Total
+1,505
+ 1,020
+ 68%
+1,448
+1,299
+90%
+WORKERS
+Male
+100
+0
+0%
+106
+0
+0%
+Female
+0
+0
+0%
+0
+0
+0%
+Total
+100
+0
+0%
+106
+0
+0%
+* Cut off date for the performance appraisal is May 31, 2024. 
+Performance goals are established for all employees at the start of the financial year. Our employees participate in mid-
+year and annual performance reviews as part of our performance management process. The performance appraisals are 
+conducted for permanent employees who joined on or before December 31, 2023, and are on the organization's payroll in the 
+18
+NEULAND LABORATORIES LIMITED
+current appraisal cycle. However, performance appraisals 
+are not applicable to our permanent workmen, as they are 
+governed by wage agreements. 
+10.	  Health and safety management system
+a. 
+Whether 
+an 
+occupational 
+health 
+and 
+safety 
+management system has been implemented by the 
+entity? (Yes/ No). If yes, the coverage of such system? 
+Yes, Neuland is certified for ISO 45001  :2018 
+Occupational Health and Safety Management System 
+for all manufacturing sites and R&D.
+b. 
+What are the processes used to identify work -related 
+hazards and assess risks on a routine and non-routine 
+basis by the entity?
+Yes, we have established processes that include 
+workplace risk assessment, HAZOP, Hazard Identification 
+& Risk Assessment (HIRA), permit-to-work systems, 
+safety inspections, and a Safety Audit Management 
+system. Safety audits are conducted regularly at our 
+facilities to ensure compliance and address any concerns 
+promptly. We maintain a rigorous internal audit and 
+reporting system to resolve compliance issues as soon 
+as possible. Inter-facility safety audits are conducted 
+every six months, while external audits occur annually. 
+Safety Incident/Number
+FY24
+FY23
+Employees
+Workers
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Lost Time Injury Frequency 
+Rate (LTIFR) (per one million-
+person hours worked)
+Total recordable work-
+related injuries
+No. of fatalities 
+(safety incident) 
+High consequence work-
+related injury or ill-health 
+(excluding fatalities)
+Our objective is to continually improve processes to 
+enhance health and safety outcomes. 
+c. 
+Whether you have processes for workers to report the 
+work-related hazards and to remove themselves from 
+such risks. (Y/N) 
+Yes. We have an internal reporting mechanism in place 
+to report hazards both online and offline, which is 
+monitored 24x7 and addressed immediately. Our incident 
+management system ensures that any incident is reported 
+to relevant statutory authorities and internal teams. 
+Following this, incident investigation is conducted by cross-
+functional teams to identify the root cause. Corrective and 
+preventive actions (CAPA) are then recommended and 
+tracked in monthly review meetings for implementation. If 
+the same issue is identified at other sites, a global CAPA is 
+generated for implementation across all sites.
+d. 
+Do the employees have access to non-occupational 
+medical and healthcare services? (Yes/ No)
+Yes, we have an Occupational Health Centre at all our 
+locations, with an inhouse doctor . First aid facility is 
+available at corporate office. All the employees undergo 
+pre-employment and periodic health assessments to 
+ensure good health.
+11.	 Details of safety related incidents
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+Neuland is committed to maintaining the highest standards of occupational health, safety, and environmental practices. Our 
+proactive approach to risk assessment, safety audits, and incident management ensures continuous improvement of our 
+processes and the well-being of our employees. We remain dedicated to fostering a culture of safety and prioritizing the health 
+and safety of all stakeholders.
+19
+Annual Report 2023-24
+We implement a thorough risk assessment process to 
+ensure workplace safety, including regular workplace 
+risk 
+assessments, 
+HAZOP 
+studies, 
+and 
+Hazard 
+Identification & Risk Assessments (HIRA). These 
+processes help us identify and address potential hazards 
+and risks associated with our operations proactively.
+Our stringent permit-to-work system ensures that all 
+critical tasks undergo proper authorization and risk 
+assessment before commencement, further enhancing 
+safety measures within our facilities.
+Aligned with ISO standards ISO 45001:2018 & ISO 
+14001:2015, our Environment, Health, and Safety (EHS) 
+Management System undergoes regular internal, inter-
+facility, and external audits. These audits aim to verify 
+compliance with safety standards and drive continual 
+improvement in our safety practices. As a result of these 
+efforts, we have maintained a strong safety record with 
+Category
+FY 2024
+FY 2023
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Working conditions
+6,647
+317
+-
+7,623
+258
+-
+Health and safety
+689 
+0
+-
+737
+0
+-
+We have Safety committee meetings once in quarter as per the EHS Standard Operating Process.
+Note: Previous year’s numbers (FY23) have been rectified.
+14.	 Assessments for the year
+% of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Health and safety practices
+100%
+Working conditions
+100%
+15.	 Provide details of any corrective action taken or 
+underway to address safety-related incidents (if 
+any) and on significant risks / concerns arising 
+from assessments of health and safety practices 
+and working conditions.
+Currently, we have a well-established procedure where 
+an Environmental, Health, and Safety (EHS) assessment 
+is conducted before undertaking any project. This 
+assessment aims to explore the overall feasibility 
+of the project, ensuring that it minimally impacts the 
+safety and health of employees and the environment. 
+We conduct risk assessments annually based on our 
+internal Standard Operating Procedures (SOPs) and 
+audit criteria, with all Corrective and Preventive Actions 
+(CAPA) reviewed and completed within specified 
+timelines by both site and higher management.
+At Neuland, safety incidents are treated with utmost 
+seriousness, and prompt corrective actions are taken 
+to address any issues that arise. Collaborative efforts 
+between government bodies, regulatory agencies, and 
+organizations are made to ensure workplace safety.
+no significant workplace incidents or accidents during 
+the reporting period.
+At Neuland, we prioritize the health and well-being of our 
+employees through comprehensive initiatives. Regular 
+health check-ups, wellness programs, and measures 
+to improve the working environment are integral to our 
+employee health strategy. We actively foster a positive 
+safety culture through platforms such as Safety 
+Committee Meetings and safety awareness sessions, 
+encouraging employee participation and feedback.
+Pre-employment and periodic medical check-ups, 
+coupled with health awareness sessions and vaccination 
+drives, contribute significantly to maintaining a healthy 
+workforce. Additionally, personalized employee care, 
+including individual health records and counselling, 
+ensures that employees at high risk of adverse medical 
+situations receive appropriate support and attention.
+13.	 Number of complaints on the following made by employees
+Strict enforcement of safety regulations and guidelines 
+is one of the primary measures taken to address 
+safety incidents, with regular inspections and audits 
+conducted to ensure compliance. Training programs 
+are also implemented to educate employees on safety 
+practices, raising awareness about potential workplace 
+hazards and providing them with necessary skills to 
+prevent accidents and injuries.
+Incident reporting systems are in place to encourage 
+employees to report safety concerns promptly, facilitating 
+prompt investigation and resolution of issues before they 
+escalate. In cases where significant risks are identified, 
+proactive measures such as thorough risk assessments, 
+additional safety protocols, provision of personal 
+protective 
+equipment 
+(PPE), 
+or 
+facility/equipment 
+modifications are implemented to mitigate these risks.
+Overall, Neuland places a high priority on ensuring 
+the health and safety of its workforce and community 
+members. Through proactive measures and prompt 
+corrective actions, we aim to create a safe and secure 
+environment for all individuals.
+20
+NEULAND LABORATORIES LIMITED
+% of value chain   partners (by value of business done with such 
+partners) that were assessed
+Health and safety practices
+20%
+Working conditions
+Leadership Indicators
+1.	
+Does the entity extend any life  insurance or any compensatory package in the event of death of a. Employees 
+(Y/N) and b. Workers (Y/N)
+Yes, for both our employees and workers.
+2.	
+Provide the measures undertaken  by the entity to ensure that statutory dues have been deducted and 
+deposited by the value chain partners.
+We maintain robust mechanisms to ensure that all applicable statutory dues related to transactions with its value chain 
+partners are accurately deducted and deposited in accordance with regulations. These processes undergo regular audit 
+scrutiny. We diligently collect relevant certificates and proofs from its contractors regarding the payment of statutory 
+dues such as PF, ESIC, etc., for contractual employees and workers. Furthermore, we emphasize ethical behaviour and 
+integrity from its value chain partners in all business dealings, emphasizing adherence to fair business practices.
+3.	
+Provide the number of employees having suffered high consequence work-related injury / ill-health / fatalities 
+(as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment:
+Total no. of affected 
+employees/Workers
+No. of employees that are rehabilitated and placed 
+in suitable employment or whose family members 
+have been placed in suitable employment
+FY24
+FY23
+FY24
+FY23
+Employees
+-
+-
+-
+-
+Workers
+-
+-
+- 
+-
+4.	
+Does the entity provide transition assistance programmes to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment? (Yes/No)
+	
+Yes, subject to requirement, the company rehires retired employees as consultants. In the case of permanent employees 
+who have exited the company with good performance, the Company is open to rehire such candidates, subject to 
+availability of position and skill match.
+5.	
+Details on assessment of value chain partners
+6.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from 
+assessments of health and safety practices and working conditions of value  chain partners.
+There were no significant risks/concerns identified during the supplier assessments. 
+21
+Annual Report 2023-24
+PRINCIPLE 4
+BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO ALL 
+ITS STAKEHOLDERS
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+Our key stakeholders at NLL include investors, board members, workers, clients, suppliers, the community, and regulators 
+among others. We believe that businesses that invest in building trust and fostering a cooperative working environment 
+with stakeholders are more likely to succeed. Therefore, effective stakeholder communication is a cornerstone of our 
+strategy. Over the years, we have built strong relationships with our stakeholders based on trust and respect. We 
+engage with them regularly through various channels to understand their needs and goals, ensuring our efforts are 
+aligned with their expectations.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group. 
+Key 
+Stakeholders
+Whether 
+identified 
+as 
+Vulnerable 
+& Margi-
+nalized 
+Group 
+(Yes/No)
+Channels of 
+communication (Email, 
+SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Others
+Frequency of 
+engagement 
+(Annually/
+Half yearly/ 
+Quarterly 
+/ Others 
+– please 
+specify)
+Purpose and scope of engagement including 
+key topics and concerns raised during such 
+engagement
+Board and 
+Committees 
+of the Board
+No
+•	
+Presentations, reports, 
+awareness sessions 
+and surveys
+Quarterly 
+and need 
+based
+Overall operations, business performance, risks 
+and opportunities strategy, assessment reports, 
+legal updates, industry updates, compliance 
+certificates, audit reports, ESG programs, 
+business continuity and crisis management and 
+material topics survey.
+Employees 
+and workers
+No
+•	
+Multi-level and multi-
+topic engagement 
+based on the 
+employee group
+•	
+Performance feedback
+•	
+Surveys 
+•	
+Training sessions
+•	
+Several informal 
+modes like toolbox talk 
+specifically used for 
+workers
+•	
+Email and website
+•	
+Digital and physical 
+notice board. 
+Daily
+Our people, their ideas and their passion are the 
+key forces that drive our company’s trajectory 
+forward. 
+We aim to provide our employees a safe, 
+inclusive and  empowering workplace that 
+encourages  transparent engagement and 
+the freedom to  act, innovate and grow as 
+professionals and  individuals. Our ongoing 
+effort is to maintain  two-way engagement with 
+colleagues  globally including those in corporate 
+offices,  R&D labs, manufacturing locations 
+and in the field. Our engagement ranges from 
+providing the latest and updated information on 
+Company and industry developments, avenues 
+for employee voice to capability building, 
+recognition and celebrations.
+22
+NEULAND LABORATORIES LIMITED
+Key 
+Stakeholders
+Whether 
+identified 
+as 
+Vulnerable 
+& Margi-
+nalized 
+Group 
+(Yes/No)
+Channels of 
+communication (Email, 
+SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Others
+Frequency of 
+engagement 
+(Annually/
+Half yearly/ 
+Quarterly 
+/ Others 
+– please 
+specify)
+Purpose and scope of engagement including 
+key topics and concerns raised during such 
+engagement
+Suppliers
+No
+•	
+Supplier audits
+•	
+Supplier meets
+•	
+Topic-based select 
+supplier engagement
+•	
+Grievance redressal
+Frequent and 
+need based
+•	
+To ensure business continuity and 
+opportunities without any quality related 
+challenges
+•	
+To identify and close gaps at supplier 
+facilities related to cGMP practices
+•	
+To seek their confirmation on compliance 
+with our Suppliers Code of Conduct
+•	
+Create awareness on ESG parameters
+•	
+To address any feedback/ queries related to 
+the product
+Customers
+No
+•	
+Customer meets and 
+visit by the customer 
+to Neuland
+•	
+Customer audits
+•	
+Customer surveys
+•	
+Structured 
+engagement with 
+select customers
+Frequent 
+•	
+To achieve higher market share through 
+better coverage and penetration into new 
+markets and maximize the outreach of our 
+products
+•	
+To create awareness about new portfolio 
+and initiatives
+•	
+Credit worthiness and fair business practices
+•	
+To address any query/ feedback by customer
+Government 
+and 
+Regulators
+No
+•	
+Fillings and 
+submissions 
+•	
+Engagement during 
+visits to our facilities 
+•	
+Structured meetings 
+on defined topics, as 
+needed
+•	
+Email and website
+Need-based
+Our engagement with official authorities 
+is multi-fold. With regulatory authorities, 
+our engagement is aimed at discharging 
+responsibilities and furthering our core business 
+of product development, launch, manufacturing, 
+etc. in keeping with the latest and highest 
+standards of compliance
+Community
+Yes
+Our engagement with 
+the community includes 
+physical visits as well as 
+digital channels.
+Frequent and 
+need based
+We engage with the community to understand 
+areas for sustainable development; to develop 
+a sustainable ecosystem for our communities 
+and to understand the social / development 
+challenges / need of the local communities.
+Our corporate social responsibilities are 
+centered around health and wellbeing, 
+education, women empowerment, gender 
+equality, afforestation and clean water and 
+sanitation, infrastructure development in the 
+villages around our manufacturing plants. 
+Investors/
+Financial 
+Partners
+No
+investor meetings/ calls, 
+conferences, earnings call, 
+investor events, e-mail, 
+press releases, stock 
+exchange intimations, 
+investor presentations and 
+annual reports. Various 
+updates on the website 
+and other places of 
+engagement.
+Frequent and 
+need based
+We engage with them so that they can take an 
+informed decision to invest in our Company. 
+The key area of engagement includes an update 
+on the business and financial performance, 
+Company’s strategy and growth levers, potential 
+opportunities and risks, our sustainability goals/ 
+actions, and material events which may have a 
+positive or negative impact on the performance 
+of the Company.
+23
+Annual Report 2023-24
+Leadership Indicators 
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and 
+social topics or if consultation is delegated, how feedback from such consultations is provided to the Board.
+The Company is committed to the principle that robust stakeholder engagement is essential to realize its vision of 
+sustainable and inclusive growth. To this end, a comprehensive framework has been established to navigate the 
+complexities of stakeholder interactions. The Board of Directors exercises oversight through the Corporate Social 
+Responsibility (CSR) and Risk & Sustainability Committees, which, among other responsibilities, assess, oversee, and 
+set the course for the Company's CSR initiatives and sustainability endeavours. Progress reports concerning these 
+areas are regularly presented to these Committees by the Management. Furthermore, the Company has instituted a 
+Steering Committee, composed of senior management, tasked with the supervision of the Company's ESG objectives. 
+This Steering Committee operates with the support of a dedicated Core Committee and an operational Driving Team. 
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental 
+and social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders 
+on these topics were incorporated into policies and activities of the entity. 
+Yes, we conducted a materiality assessment involving intensive stakeholder engagement. Both internal and external 
+stakeholders identified key material topics across ESG that could impact the Company’s business. Our ESG strategy will 
+be formulated based on the inputs received from key stakeholders on these material topics. Key topics are also listed in 
+Section A - Question 24 of this report. 
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups. – 
+We are dedicated to serving disadvantaged, vulnerable, and marginalized stakeholders in areas near our manufacturing 
+facilities through various CSR initiatives. We implement numerous programs focusing on education, women empowerment, 
+clean water and sanitation, skills development and livelihoods, health and well-being, environmental sustainability, and 
+sustainable communities. These initiatives are carried out both directly and in partnership with other organizations to 
+support marginalized sections of the community. For more details, please refer to Principle 8 of this report.
+PRINCIPLE 5
+BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+Essential Indicators
+1.	
+Employees who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format
+Category
+FY24
+FY 2023
+Total 
+(A)
+No. of employees 
+covered (B)
+% 
+(B/A)
+Total 
+(C)
+No. of employees 
+covered (D)
+% 
+(D/C)
+EMPLOYEES
+Permanent
+1,543
+1,543
+100%
+0
+0
+0%
+Other than permanent
+150
+150
+100%
+0
+0
+0%
+Total Employees
+1,693
+1,693
+100%
+0
+0
+0%
+WORKERS
+Permanent
+100
+100
+100%
+0
+0
+0%
+Other than permanent
+1,062
+1,062
+100%
+0
+0
+0%
+Total Workers
+1,162
+1,162
+100%
+0
+0
+0%
+24
+NEULAND LABORATORIES LIMITED
+2.	
+Details of minimum wages paid to employees
+3. A Details of remuneration/salary/Wages, in the following format:
+Category
+FY24
+FY23
+Total 
+(A)
+Equal to  
+Minimum Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+Permanent
+1,543
+0
+0
+1,543
+100%
+1,448
+0
+0
+1,448
+100%
+Male
+1,365
+0
+0
+1,365
+100%
+1,299
+0
+0
+1,299
+100%
+Female
+178
+0
+0
+178
+100%
+149
+0
+0
+149
+100%
+Other than Permanent
+150
+0
+0
+150
+100%
+120
+0
+0
+120
+100%
+Male
+150
+0
+0
+150
+100%
+120
+0
+0
+120
+100%
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+WORKERS
+Permanent
+100
+0
+0
+100
+100%
+106
+0
+0
+106
+100%
+Male
+100
+0
+0
+100
+100%
+106
+0
+0
+106
+100%
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other than Permanent
+1,062
+0
+0
+1,062
+100%
+1,182
+1,182
+100%
+0
+0
+Male
+975
+0
+0
+975
+100%
+1,117
+1,117
+100%
+0
+0
+Female
+87
+0
+0
+87
+100%
+65
+65
+100%
+0
+0
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category (₹)
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category (₹)
+Board of Directors (BoD)  
+(including whole-time directors)  
+8
+30,70,000
+3
+31,60,000
+Key Managerial Personnel (other than BoD)
+1
+1,77,17,136
+1
+40,74,265
+Employees other than BoD and KMP*
+1,361
+5,79,996
+178
+4,57,380
+Workers
+100
+9,42,705
+0
+-
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business? (Yes/No)
+Yes, we have a Grievance Redressal policy in place, Central Grievance Committee addresses grievances of permanent 
+employees and Location Grievance Committee addresses grievances of permanent workmen. The policy and the 
+committee members list are available to all employees in our intranet portal. Additionally, we encourage employees to 
+raise their concerns and ask for help in case of any violation or perceived violation of human rights. They can report any 
+grievance to – Grievance Cell (grievances@neulandlabs.com).
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues
+Any grievance arising out of violation of human rights shall be dealt with as per process defined under Grievance 
+Redressal policy. They can report any grievance to – Grievance Cell (grievances@neulandlabs.com).
+FY 2024
+FY 2023
+Gross wages paid to females as % of total wages
+7.56%
+7.34%
+*Employee count here is excluding 3 whole-time directors and 2 KMP. 
+B. 
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+25
+Annual Report 2023-24
+6.	
+Number of complaints on the following made by employees and workers 
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) 
+Act, 2013, in the following format
+FY 2024
+FY 2023
+Filed during 
+the year
+Pending 
+resolution at the 
+end of the year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at the 
+end of the year
+Remarks
+Sexual Harassment
+0
+0
+-
+0
+0
+-
+Discrimination at workplace
+0
+0
+-
+0
+0
+-
+Child Labour
+0
+0
+-
+0
+0
+-
+Forced Labour/ Involuntary Labour
+0
+0
+-
+0
+0
+-
+Wages
+0 
+0
+-
+0
+0
+-
+Other human rights related issues
+0
+0
+-
+0
+0
+-
+% of offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labour
+100%
+Forced/involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others – please specify (Health & Safety)
+11.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising 
+from the assessments at Question 9 above.
+There were no significant risks/concerns from the social assessment conducted for all units (Unit-1, Unit-2, Unit-3 & 
+R&D) and the corporate office. 
+* SA-8000 GAP Analysis conducted in FY23 
+FY 2024
+FY 2023
+Total Complaints reported under Sexual Harassment on of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+0
+0
+Complaints on POSH as a % of female employees / workers
+0
+0
+Complaints on POSH upheld
+0
+0
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases
+Our 'Prevention of Workplace Discrimination, Protection of Human Rights & Equal Employment Opportunities' policy 
+ensures that actions taken to remedy any situation will not negatively affect the person who lodged the complaint. 
+The Company is committed to promoting a work environment that fosters professional growth and encourages equal 
+opportunity, as demonstrated by our Zero Tolerance policy towards any form of sexual harassment in the workplace. 
+These policies are available on the Company’s intranet. We do not tolerate retaliation of any kind.
+9.	
+Do human rights requirements form part of your business agreements and contracts?
+Yes, the Company has human rights requirements related requirements as part of the business agreements and contracts 
+our value chain partners through supplier code of conduct.
+10.	 Assessments for the year 
+26
+NEULAND LABORATORIES LIMITED
+Leadership Indicators 
+1.	
+Details of a business process being modified/introduced as a result of addressing human rights grievances/ 
+complaints.
+There have been no changes to our processes, as no human rights grievances or complaints were recorded.
+2.	
+Details of the scope and coverage of any human rights due diligence conducted.
+The scope covered all locations of the organizations and covered the following areas:
+Our focus areas include Child Labor, Forced Labor, Health & Safety, Freedom of Association and Right to Collective 
+Bargaining, Non-discrimination, Disciplinary Practices, Working Hours, Remuneration, and Management Systems. We 
+are developing action plans to address any gaps identified in these areas. 
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights 
+of Persons with Disabilities Act, 2016?
+For the differently abled visitors, the infrastructure facilities across the offices and manufacturing and R&D facilities 
+adhere to accessibility standards as required. 
+4.	
+Details on assessment of value chain partners
+% of value chain partners (by value of business done with such 
+partners) that were assessed 
+Sexual Harassment
+20%
+Discrimination at workplace
+Child Labour
+Forced Labour/Involuntary Labour
+Wages
+Others – please specify
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising 
+from the assessments at Question 4 above. 
+There were no significant risks/concerns identified during the supplier assessments
+Essential Indicators 
+PRINCIPLE 6
+BUSINESSES SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE 
+THE ENVIRONMENT
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity
+Parameter*
+FY24
+FY23
+From renewable sources
+Total electricity consumption (A) 
+0
+0
+Total fuel consumption (B) 
+0
+0
+Energy consumption through other sources (C) 
+0
+0
+Total energy consumed from renewable sources (A+B+C) 
+0
+0
+From non-renewable sources
+Total electricity consumption (D) GJ
+1,44,203.10
+1,30,245.31
+Total fuel consumption (E) GJ
+4,97,547.24
+4,14,763.94
+Energy consumption through other sources (F) GJ
+0
+0
+Total energy consumed from non-renewable sources (D+E+F) GJ 
+6,41,750.34
+5,45,009.25
+Total energy consumed (A+B+C+D+E+F) GJ
+6,41,750.34
+5,45,009.25
+27
+Annual Report 2023-24
+* PPP – IMF conversion factors for FY2024: 22.4 and FY2023: 22.17
+Parameter
+FY 2024
+FY 2023
+Water withdrawal by source (in kilolitres)
+(i)	 Surface water
+-
+-
+(ii)	 Groundwater
+-
+-
+(iii)	Third party water
+1,28,000.00
+1,13,130.00
+(iv)	Seawater / desalinated water
+-
+-
+(v)	Others
+-
+-
+Total volume of water withdrawal (in kilolitres)
+-
+-
+Total volume of water consumption (in kilolitres)
+1,28,000.00
+1,13,130.00
+Water intensity per rupee of turnover (Total water consumption / Revenue 
+from operations)
+ 0.00000821 
+ 0.00000950 
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP)* (Total water consumption / Revenue from operations adjusted for PPP)
+ 0.000184
+ 0.000211
+Water intensity in terms of physical output (KL/Kg of production)
+0.33
+0.28
+Parameter*
+FY24
+FY23
+Energy intensity per rupee of turnover (Total energy consumed / Revenue 
+from operations)
+ 0.000041 
+ 0.000046 
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP)* (Total energy consumed / Revenue from operations adjusted for PPP)
+ 0.000922 
+ 0.001014 
+Energy intensity in terms of physical output (GJ/Kg of production)
+1.65
+1.37
+* PPP – IMF conversion factors for FY2024: 22.4 and FY2023: 22.17
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. - Yes, TUV India Private Limited, a third party conducts an annual assurance on 
+sustainability parameters reported in the integrated report of the Company. The assurance is performed for 2023-2024.
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY 2024
+FY 2023
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 To Surface water
+	
+-	
+No treatment
+Nil
+Nil
+	
+-	
+With treatment – please specify level of treatment
+Nil
+Nil
+(ii)	 To Groundwater
+	
+-	
+No treatment
+Nil
+Nil
+	
+-	
+With treatment – please specify level of treatment
+Nil
+Nil
+(iii)	To Seawater
+	
+-	
+No treatment
+Nil
+Nil
+	
+-	
+With treatment – please specify level of treatment
+Nil
+Nil
+(iv)	Sent to third parties
+	
+-	
+No treatment
+Nil
+Nil
+	
+-	
+With treatment – please specify level of treatment
+Nil
+Nil
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? if yes, 
+name of the external agency. - Yes, TUV India Private Limited, a third party conducts an annual assurance on sustainability 
+parameters reported in the integrated report of the Company. The assurance is performed for 2023-2024.
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under 
+the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action 
+taken, if any.
+	
+Not applicable
+3.	
+Provide details of the following disclosures related to water.
+28
+NEULAND LABORATORIES LIMITED
+Parameter
+FY 2024
+FY 2023
+(v)	Others
+	
+-	
+No treatment
+Nil
+Nil
+	
+-	
+With treatment – please specify level of treatment
+Tertiary
+Tertiary
+Total water discharged (in kilolitres)
+84,672.00
+74,885.00
+Parameter
+Please specify unit
+FY 2024
+FY 2023
+NOx
+tons
+28.23
+21.89
+SOx
+tons
+74.15
+64.46
+Particulate matter (PM)
+tons
+37.18
+27.87
+Persistent organic pollutants (POP)
+-
+-
+-
+Volatile organic compounds (VOC)
+-
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+-
+Others – please specify
+-
+-
+-
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+To conserve natural resources and protect the surrounding environment, we at Neuland have implemented a Zero 
+Liquid Discharge (ZLD) strategy for our wastewater management. This initiative has been successful in preventing any 
+negative impact on nearby water bodies, demonstrating our commitment to environmental stewardship and compliance 
+with regulatory requirements.
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+IF YES, NAME OF THE EXTERNAL AGENCY. - Yes, TUV India Private Limited, a third party conducts an annual assurance 
+on sustainability parameters reported in the integrated report of the Company. The assurance is performed for 2023-2024.
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format:
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. - Yes, TUV India Private Limited, a third party conducts an annual assurance on 
+sustainability parameters reported in the integrated report of the Company. The assurance is performed for 2023-2024.
+Parameter
+Unit
+FY 24
+FY 23
+Total Scope 1 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+22,943.25
+27,442.35
+Total Scope 2 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+27,323.16
+27,245.08
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover
+Metric tonnes of CO2 
+equivalent per Rupee
+0.0000035
+0.0000047
+Total Scope 1 and Scope 2 emission intensity per 
+rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (Total Scope 1 and Scope 2 GHG emissions / 
+Revenue from operations adjusted for PPP)
+Metric tonnes of CO2 
+equivalent per Rupee
+ 0.000078 
+ 0.000104 
+Total Scope 1 and Scope 2 emission intensity in terms 
+of physical output
+Metric tonnes of CO2 
+equivalent per Kg of 
+production
+0.14
+0.14
+* PPP – IMF conversion factors for FY2024: 22.4 and FY2023: 22.17
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency - Yes, TUV India Private Limited, a third party conducts an annual assurance on 
+sustainability parameters reported in the integrated report of the Company. The assurance is performed for 2023-2024.
+29
+Annual Report 2023-24
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details.
+ 
+Scope 1 Emissions Reduction:
+	
+○
+Reduced coal consumption.
+	
+○
+Replacement of R-22 with R-404a, leading to less consumption.
+ 
+Scope 2 Emissions Reduction:
+	
+○
+Reduced consumption of purchased electricity.
+ 
+Initiatives for 2023-24:
+Energy Efficiency Improvements: Implementing energy efficiency measures in buildings, industries, and transportation 
+to reduce energy consumption and lower GHG emissions. This includes enhancing insulation, upgrading appliances and 
+equipment, and optimizing industrial processes.
+Decarbonization of Industry: Adopting cleaner production processes, low-carbon technologies, and increasing the use 
+of recycled materials in manufacturing to reduce emissions from industrial activities.
+Afforestation and Reforestation: Planting trees and restoring degraded ecosystems to sequester carbon dioxide from 
+the atmosphere, effectively reducing GHG concentrations.
+Policy Measures: Implementing an energy policy and conducting energy audits at our sites to identify areas for reducing 
+energy usage and improving efficiency.
+Public Awareness and Education: Raising public awareness about the impacts of climate change and the importance 
+of reducing GHG emissions to encourage individual and collective action, driving further progress toward emission 
+reduction goals.
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter (in metric tonnes)
+FY24
+FY23
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+2.63
+17.92
+E-waste recycled (B)
+2.32
+3.10
+Bio-medical waste (C)
+4.33
+3.95
+Construction and demolition waste (D)
+2,680.74
+1,612.95
+Battery waste (E)
+0.19
+2.50
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any. (G)
+7021.29
+5,653.14
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up 
+by composition i.e. by materials relevant to the sector)
+83.58
+61.42
+Total (A+B + C + D + E + F + G + H)
+9795.08
+7354.97
+Waste intensity per rupee of turnover 
+(Total waste generated / Revenue from operations)
+ 0.00000063 
+ 0.00000062 
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (Total waste generated / Revenue from operations adjusted for PPP)*
+ 0.000014 
+ 0.000014 
+Waste intensity in terms of physical output (Tonnes/Kg of production)
+0.03
+0.02
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+ operations (in metric tonnes)
+Category of waste
+(i)	 Recycled#
+2,685.87
+1,636.47
+(ii)	 Re-used
+7,068.02
+5,714.55
+(iii)	Other recovery operations
+-
+-
+Total
+* PPP – IMF conversion factors for FY2024: 22.4 and FY2023: 22.17
+30
+NEULAND LABORATORIES LIMITED
+# Plastic Waste, E-waste, Battery waste and Construction & demolition waste are considered under Recycled waste.
+* PPP – IMF conversion factors for FY2024: 22.4 and FY2023: 22.17
+(Source - https://www.imf.org/external/datamapper/PPPEX@WEO/OEMDC/IND)
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. - Yes, TUV India Private Limited, a third party conducts an annual assurance on 
+sustainability parameters reported in the integrated report of the Company. The assurance is performed for 2023-2024.
+Note: Previous year’s numbers (FY23) have been rectified.
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy 
+adopted by your company to reduce usage of hazardous and toxic chemicals in your products and processes 
+and the practices adopted to manage such wastes.
+Our company has implemented a comprehensive standard operating procedure for the management of hazardous, 
+non-hazardous, and general waste. Hazardous waste, including various materials such as evaporation salt, process 
+salt, spent carbon, and others, is managed in strict compliance with the Hazardous Waste Management Rules of 2016. 
+We employ proper collection and containment methods, utilizing MS drums or double-layer polythene bags labeled 
+for identification, and only trained personnel handle hazardous waste to ensure safety and control. Co-processing in 
+cement kilns is utilized as an environmentally sustainable option for disposing of hazardous waste, effectively reducing 
+landfill usage and maximizing reuse and recycling efforts. In FY23, we successfully diverted all landfill waste towards 
+co-processing and recycling initiatives, contributing to our goal of achieving zero waste in landfills.
+Additionally, our company prioritizes responsible e-waste management through various measures, including 
+e-waste collection programs, recycling partnerships, employee training, and compliance with regulations. We also 
+have established recycling programs for plastic, paper, glass, and metals, alongside investing in resource recovery 
+technologies to extract value from waste streams. These initiatives collectively ensure environmentally responsible 
+waste management practices while contributing to the circular economy and minimizing environmental and health risks 
+associated with waste disposal.
+All waste management practices are firmly established within our organization, guided by the principle of "wealth from 
+waste," with the overarching aim of achieving zero waste in landfills while maximizing reuse and recycling. Our strategy 
+ensures that all co-processing waste is directed to the cement industry for utilization as fuel in kilns. Hazardous waste 
+generated in our processes, such as Evaporation Salt, Process Salt, Spent Carbon, and others, is meticulously managed, 
+while non-hazardous waste, including plastic, paper, glass, and empty drums, undergoes recycling or co-processing. 
+We collaborate with approved recyclers for the disposal of various waste types, including plastic, paper, glass, waste oil, 
+and E-waste. Biomedical waste is appropriately handled through incineration.
+11.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) 
+where environmental approvals / clearances are required, please specify details.
+None of our operational sites are situated in ecologically sensitive areas.
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, 
+in the current financial year
+No, during the reporting year there were no projects eligible for undertaking the EIA.
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the 
+Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment 
+Protection Act and Rules thereunder (Y/N). If not, provide details of all such non-compliances.
+Yes. The Company is compliant with all the applicable environmental laws / regulations / guidelines in India.
+Parameter (in metric tonnes)
+FY24
+FY23
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i)	 Incineration
+-
+-
+(ii)	 Landfilling
+-
+-
+(iii)	Other disposal operations
+4.33
+3.95
+Total
+-
+-
+31
+Annual Report 2023-24
+ Leadership Indicators 
+1.	
+Water withdrawal, consumption, and discharge in areas of water stress (in kilolitres): 
+ 
+For each facility / plant located in areas of water stress, provide the following information: 
+(i)	
+Name of the area: Bonthapally, Pashamylaram, Gaddapotharam and Jubilee Hills
+(ii)	
+Nature of operations: Manufacturing, R&D and Administration
+(iii)	 Water withdrawal, consumption, and discharge in the following format:
+Parameter
+FY24
+FY23
+Water withdrawal by source (in kilolitres)
+(i)	 Surface water
+-
+-
+(ii)	 Groundwater
+-
+-
+(iii)	Third party water
+1,28,000.00
+1,13,130.00
+(iv)	Seawater / desalinated water
+-
+-
+(v)	 Others
+-
+-
+Total volume of water withdrawal (in kilolitres)
+-
+-
+Total volume of water consumption (in kilolitres)
+1,28,000.00
+1,13,130.00
+Water intensity per rupee of turnover (Water consumed / turnover) KL/Rs.
+0.0000082
+0.0000095
+Water intensity (optional) – the relevant metric may be selected by the entity KL/INR lakhs
+0.82
+0.95
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 To Surface water
+	
+- No treatment
+Nil
+Nil
+	
+- With treatment – please specify level of treatment
+Nil
+Nil
+(ii)	To Groundwater
+	
+- No treatment
+Nil
+Nil
+	
+- With treatment – please specify level of treatment
+Nil
+Nil
+(iii) To Seawater
+	
+- No treatment
+Nil
+Nil
+	
+- With treatment – please specify level of treatment
+Nil
+Nil
+(iv) Sent to third parties
+	
+- No treatment
+Nil
+Nil
+	
+- With treatment – please specify level of treatment
+Nil
+Nil
+(v)	Others
+	
+- No treatment
+Nil
+Nil
+	
+- With treatment – please specify level of treatment
+Tertiary
+Tertiary
+Total water discharged (in kilolitres)
+84,672.00
+74,885.00
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. - Yes, TUV India Private Limited, a third party conducts an annual assurance on 
+sustainability parameters reported in the integrated report of the Company. The assurance is performed for 2023-2024.
+Note: Previous year’s numbers (FY23) have been rectified.
+2.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format: 
+Parameter
+Unit
+FY 2024
+FY 2023
+Total Scope 3 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+3,036.82 
+5,406.00
+Total Scope 3 emissions per rupee of turnover
+Metric tonnes of 
+CO2 equivalent per 
+Rupee
+0.00000019 
+0.00000045 
+Total Scope 3 emission intensity (optional) – the relevant 
+metric may be selected by the entity
+Metric tonnes of 
+CO2 equivalent per 
+lakhs Rupees 
+0.02
+0.05
+Note:  Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/n) if yes, name of the external agency. - Yes, TUV India Private Limited, a third party conducts an annual assurance on 
+sustainability parameters reported in the integrated report of the Company. The assurance is performed for 2023-2024. 
+32
+NEULAND LABORATORIES LIMITED
+3.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention 
+and remediation activities.
+Not Applicable, as we do not operate in ecologically sensitive areas.
+4.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve 
+resource efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide 
+details of the same as well as outcome of such initiatives, as per the following format:
+Our environmental initiatives are at the core of our operations, driven by a commitment to sustainability and responsible 
+resource management. We prioritize waste management practices guided by the principle of "wealth from waste," aiming 
+for zero waste in landfills while maximizing reuse and recycling efforts. Hazardous waste, including various materials 
+like Evaporation Salt, Process Salt, and Spent Carbon, is carefully managed, while non-hazardous waste undergoes 
+recycling or co-processing. We collaborate with approved recyclers for responsible disposal, ensuring compliance with 
+regulations and environmental standards.
+Furthermore, we implement a Zero Liquid Discharge (ZLD) mechanism across all our facilities, ensuring that wastewater 
+generated undergoes treatment and is reused in utility harvesting processes. This approach not only minimizes our 
+environmental footprint but also promotes efficient resource utilization.
+In addition to waste management, our environmental initiatives encompass energy efficiency improvements, 
+decarbonization of industry, afforestation and reforestation efforts, and public awareness and education campaigns. 
+Through these measures, we strive to reduce greenhouse gas emissions, conserve natural resources, and mitigate 
+environmental impacts.
+Our commitment to environmental stewardship is reflected in our comprehensive approach to environmental management, 
+as outlined in our standard operating procedures and policies. By integrating environmental considerations into our daily 
+operations, we aim to contribute positively to the well-being of our planet and future generations.
+5.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+Currently the company has a Disaster Management plan from an IT perspective. Also, a plan exists for Supply Chain 
+Management & Manufacturing/Operations setup which has enabled the company to quickly respond to the pandemic 
+situation and other emergencies. In terms of continuity from a manufacturing perspective, the Company has qualified 
+key products from multiple lines and have lines that are qualified for multiple products which is a key risk mitigation 
+step. The company is working towards a comprehensive BCP aligned to ISO 22301 scoping in the all departments and 
+locations and covering a range of scenarios, and aims to secure accreditation by June 2025.
+6.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard.
+Increased emissions were identified as a key impact of our procurement activities. To address this, the organization 
+undertook a supply chain de-risking plan focused on decreasing geographical dependencies and shortening the supply 
+chain, particularly in response to the pandemic and other global concerns. As part of this strategy, we developed an 
+alternate Indian supplier for a key starting material for one of our beta-blocker drugs, in addition to our original Chinese 
+vendor. This initiative resulted in a significant cost reduction due to the price decrease and process improvements by 
+the Indian supplier. Additionally, this effort significantly reduced carbon emissions. 
+7.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts.
+20% of the significant suppliers were assessed for environmental impacts.  
+PRINCIPLE 7
+BUSINESSES, WHEN ENGAGING   IN INFLUENCING PUBLIC AND REGULATORY POLICY, 
+SHOULD DO SO IN A MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+Essential Indicators
+1. 
+a. Number of affiliations with trade and industry chambers/ associations.
+	
+   Neuland is a member of 6 trade and industry chambers/associations
+33
+Annual Report 2023-24
+S. 
+No.
+Name of the trade and industry chambers/associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1.
+Federation of Telangana Chambers of Commerce and Industry (FTCCI)
+State
+2.
+Bulk Drug Manufacturers Association (India) (BDMA)
+National
+3.
+Pharmaexcil
+State
+4.
+Confederation of Indian Industry (CII)
+State
+5.
+Society for Cyberabad Security Council (SCSC)
+State
+6.
+Society for Sangareddy Security Council (SSSC) 
+State
+Leadership Indicators 
+2.	
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by 
+the entity, based on adverse orders from regulatory authorities.
+	
+Nil
+1.	
+Details of public policy positions advocated by the entity
+The Company engages in advocating for the advancement of the industry and public welfare. We focus on areas such 
+as sustainable product development, environmental impact management, women’s safety and security, and corporate 
+social responsibility (CSR). Our participation extends to collaborating with industry associations and partnering with 
+local government authorities on various initiatives aimed at promoting these causes. In the coming periods, we may 
+be required to engage with government agencies, local municipalities or village panchayats in pursuing our renewable 
+energy transition or biodiversity initiatives, however currently we do not anticipate any significant opportunity unfolding 
+on the topic of policy advocacy for Climate Change matters.
+PRINCIPLE 8
+BUSINESSES, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, 
+SHOULD DO SO IN A MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in 
+the current financial year.
+Not Applicable, the Company has not undertaken any SIA during the reporting period.
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken 
+by your entity.
+Not Applicable, the company has not undertaken any projects which required R&R.
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+We actively collaborate with villagers and local communities, alongside Village Sarpanch and other Government agencies, 
+to address any community-related issues in all locations where we operate.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers.
+Parameter
+FY 2024
+FY 2023
+Directly sourced from MSMEs/ small producers
+38.3%
+31.04%
+Sourced directly from within the district and neighbouring districts
+59.78%
+24.80%
+ b. List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) 
+the entity is a member of/affiliated to:
+34
+NEULAND LABORATORIES LIMITED
+ Leadership Indicators
+Location
+FY 2024
+FY 2023
+Rural
+0
+0
+Semi-Urban*
+80%
+81%
+Urban
+0
+0
+Metropolitan
+20%
+19%
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact 
+Assessments (Reference: Question 1 of Essential Indicators above)
+	
+Not Applicable as we have not conducted any Social Impact Assessment during the reporting period.
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational 
+districts as identified by government bodies
+	
+Neuland has not taken up any CSR activities in the aspirational districts as listed by the government. 
+3. 
+a. 
+Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups ? (Yes/No)
+	
+	
+Not applicable. We're in the process of building a diversified vendor base to mitigate the risks associated with 
+relying on a single vendor. This approach also allows us to engage with small and medium enterprises, contributing 
+to the growth of the local economy and supply chain. Our procurement efforts are focused on a range of vendors, 
+and we've transitioned to an e-procurement portal, ensuring equal access for all vendors to transparently engage 
+with our company. However, we haven't specifically targeted marginalized groups in our supplier selection process.
+ 
+b. 
+From which marginalized /vulnerable groups do you procure? What percentage of total procurement (by value) 
+does it constitute?
+	
+	
+Not Applicable
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity 
+(in the current financial year), based on traditional knowledge.
+	
+Not Applicable
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved.
+	
+Not Applicable
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers 
+employed on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost
+* The villages where our facilities are located are classified as semi-urban since they are under the jurisdiction of metropolitan authority.
+35
+Annual Report 2023-24
+6.	
+Details of beneficiaries of CSR  Projects  
+CSR 
+Project
+No. of persons benefitted 
+from CSR Projects
+% of beneficiaries from vulnerable 
+and marginalized groups
+1.	
+Health & Well being
+3.	
+Gender Equality
+5.	
+Education & Gender Equality
+2.	
+Education
+4.	
+Clean water and sanitation
+	
+-	
+Infrastructure upgradation, 
+building repair and 
+painting of 2 PHCs
+	
+-	
+Health Camps in villages 
+around the facilities
+	
+-	
+Medical Support to  orphan 
+infants / children
+	
+-	
+SHE-Shuttle bus services
+	
+-	
+Upgradation of Anganwadi 
+school building
+	
+-	
+Gurukul Hostel – Renovation 
+of 6 classrooms
+	
+-	
+Donation of uniforms 
+to students at  
+Government Schools
+	
+-	
+Donation of road 
+barricades and 
+awareness on road safety
+	
+-	
+Quality education
+	
+-	
+120KL Water Tank 
+Construction in Village
+	
+-	
+Installation of 3 
+RO-Water Plants
+-          ~1,400 people
+-	
+The bus, is being used by 
+women workforce travelling 
+to the factories and also by 
+government school children
+-	
+~60 students & ~50 village women
+-	
+~240 girl students
+-          ~750 rural students
+-	
+Public safety and sensitizing 
+villagers and local 
+communities on road safety
+-	
+~900 families
+The main objective of CSR 
+activities of the company is to 
+focus on serving disadvantaged, 
+vulnerable and marginalized 
+stakeholders from weak socio-
+economic background in core 
+areas near to its manufacturing 
+facilities through various 
+CSR initiatives.
+36
+NEULAND LABORATORIES LIMITED
+CSR 
+Project
+No. of persons benefitted 
+from CSR Projects
+% of beneficiaries from vulnerable 
+and marginalized groups
+PRINCIPLE 9
+BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS IN A 
+RESPONSIBLE MANNER
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback . 
+	
+The consumer complaints are being handled timely as per internal SOP. 
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information 
+about
+As a percentage to total turnover
+Environmental and social parameters relevant to the 
+product
+100 %.
+The company provides safety data sheets that are shared with 
+the customers for all its products wherever applicable and as 
+required.  Our products are not sold to retail customers as it is 
+and therefore product  information is not provided.
+Safe and responsible usage
+Recycling and/or safe disposal
+6.	
+Education, Gender Equality & 
+Clean water and sanitation
+8.	
+Sustainable communities
+	
+-	
+Construction of new 
+drainage line and CC roads 
+at Government Gurukul 
+Residential School
+	
+-	
+Laying of Cement 
+concrete (CC) roads
+	
+-	
+CC Cameras for 
+safety & surveillance
+	
+-	
+Providing skill training
+	
+-	
+Annual maintenance cost 
+of sapling plantation done 
+during last financial year
+-	
+~640 Girl Students
+-	
+~1,250 persons & ~100 vehicles 
+use the roads per day
+-	
+Provided CC Cameras for 
+surveillance covering 6 kms 
+covering crowded areas and 
+key public spots.
+7.	
+Education &  Decent work & 
+Economic growth
+9.	
+Afforestation
+-	
+~46 nos. rural youth
+	
+~3,000 trees
+37
+Annual Report 2023-24
+Leadership Indicators
+Number
+Reasons for recall
+Voluntary recalls
+0
+0
+Forced recalls
+0
+0
+3.	
+Number of consumer complaints in respect of the following:
+4.	
+Details of instances of product recalls on account of safety issues
+FY 2024
+FY 2023
+Received 
+during the 
+year
+Pending resolution 
+at end of year
+Remarks
+Received 
+during the year
+Pending resolution 
+at end of year
+Remarks
+Data privacy
+0
+0
+-
+0
+0
+-
+Advertising
+0
+0
+-
+0
+0
+-
+Cyber-security
+0
+0
+-
+0
+0
+-
+Restrictive Trade Practices
+0
+0
+-
+0
+0
+-
+Unfair Trade Practices
+0
+0
+-
+0
+0
+-
+Others
+0
+0
+-
+0
+0
+-
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If 
+available, provide a web-link of the policy. 
+	
+Yes, we have Cyber security framework related policies are available on the Company’s intranet. We have obtained 
+ISO 27001:2022 certification for our organization. Also, we the company has a data privacy policy, and the web-link at 
+https://www.neulandlabs.com/en/privacy-policy 
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising and delivery 
+of essential services; cyber security and data privacy of customers; re-occurrence of instances of product 
+recalls; penalty/action taken by regulatory authorities on safety of products/services.
+	
+No incidents reported hence no corrective actions 	
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web 
+link, if available). 
+	
+○
+https://www.neulandlabs.com/
+	
+○
+https://www.neulandlabs.com/en/generic-apis
+	
+○
+https://www.neulandlabs.com/en/cdmo-services
+	
+○
+https://www.linkedin.com/company/neuland-laboratories-limited/
+	
+○
+https://twitter.com/NeulandLabs
+	
+○
+https://www.youtube.com/@neulandlaboratories537
+	
+○
+https://www.facebook.com/NeulandLaboratories/ 
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services. 
+	
+We provide a safety data sheet together with the product in accordance with the worldwide standardized system, even 
+though the consumer has access to the product’s general information (GHS). To guarantee safety at every stage of the 
+product lifecycle, we also offer handling and storage guidelines. The safety data sheet gives the consumer a thorough 
+overview of the product, as well as dos and don’ts, and guidelines for material handling. The product safety is assessed 
+during the entire product research and development stage as well. Mechanisms are in place to inform consumers of any 
+risk of disruption/discontinuation of essential services.
+38
+NEULAND LABORATORIES LIMITED
+3.	
+Does the entity display product information on the product over and above what is mandated as per local 
+laws? (Yes/No/Not applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to 
+consumer satisfaction relating to the major products / services of the entity, significant locations of operation 
+of the entity or the entity as a whole? (Yes/No)
+	
+Yes, all the relevant product information such as name and grade of the product, batch number, manufacturing date, re-
+test date, quantity, manufacturer’s details, storage and handling instructions, precautionary/hazard statements, disposal 
+procedures etc., are provided on the labels
+	
+Yes, customer feedback is taken and evaluated annually. In the current year the Company conducted a survey for 
+Generic Drug Substances (GDS) customers and for Customs Manufacturing Solutions (CMS) Customers.
+4.	
+Provide the following information relating to data breaches
+	
+a.	
+Number of instances of data breaches along with impact - Nil
+	
+b.	
+Percentage of data breaches involving personally identifiable formation of customer – 0%
+39
+Annual Report 2023-24

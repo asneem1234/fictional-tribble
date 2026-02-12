@@ -1,0 +1,4315 @@
+ 
+ 
+NLC India Limited 
+ (‘Navratna’ - Government of India Enterprise) 
+Registered Office: No.135, EVR Periyar High Road, Kilpauk, Chennai-600 010 
+Corporate Office: Block-1, Neyveli-607 801, Cuddalore District, Tamil Nadu. 
+CIN: L93090TN1956GOI003507, Website: www.nlcindia.in               
+email: cosec@nlcindia.in, Phone: 044-28369139 
+ 
+ 
+    Lr. No. Secy/68th BRSR/2024                                         
+   Date: 02.09.2024 
+ 
+To 
+National Stock Exchange of India Ltd 
+Plot No. C/1, G Block 
+Bandra-Kurla Complex 
+Bandra (E), Mumbai-400 051. 
+ 
+Scrip Code: NLCINDIA 
+To 
+BSE Ltd 
+Phiroze JeeJeebhoy Towers 
+Dalal Street 
+Mumbai-400 001. 
+ 
+Scrip Code : 513683  
+ 
+Sir/Madam, 
+ 
+ 
+Sub:  Intimation under Regulation 34 of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 - Reg. 
+ 
+*** 
+ 
+Pursuant to Regulation 34 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, we enclose herewith the Business Responsibility 
+and Sustainability Report of the Company for the Financial Year 2023-24. 
+ 
+This is for your information and records. 
+ 
+ 
+Thanking You, 
+ 
+Yours faithfully, 
+for NLC India Limited  
+ 
+ 
+Company Secretary                         
+& Compliance Officer 
+ 
+Udhayashankar 
+Rajamanickam
+Digitally signed by 
+Udhayashankar Rajamanickam 
+Date: 2024.09.02 18:11:45 +05'30'
+Business Responsibility & Sustainability 
+Reporting (BRSR)
+Section A: General Disclosures
+I. Details of the listed entity
+1.	 Corporate Identity Number (CIN) of the Listed Entity
+L93090TN1956GOI003507
+2.	 Name of the Listed Entity 
+NLC India Limited (‘NLCIL’)
+3.	 Year of incorporation 
+1956
+4.	 Registered office address 
+No. 135, EVR Periyar High Road, Kilpauk, Chennai- 600010, Tamil Nadu
+5.	 Corporate address
+Block - 1, Neyveli - 607 801, Cuddalore District, Tamilnadu
+6.	 E-mail 
+investors@nlcindia.in
+7.	 Telephone
+044-28360027, Fax: 044-28360057
+8.	 Website
+http://www.nlcindia.in/
+9.	 Financial year for which reporting is being done
+2023-24
+10.	 Name of the Stock Exchange(s) where shares are listed 
+• BSE Ltd., Phiroze Jeejeebhoy Towers, Dalal Street, Mumbai- 400001
+• National Stock Exchange of India Ltd., Exchange Plaza, Plot no. C/1, G 
+Block, Bandra-Kurla Complex, Bandra (E), Mumbai - 400 051.
+11.	 Paid-up Capital
+₹ 1,386.64 Crore
+12.	 Name and contact details (telephone, email address) of the person who 
+may be contacted in case of any queries on the BRSR report 
+Shri. R Udhayashankar, Company Secretary
+Telephone - 044 28369139
+Email - cosec@nlcindia.in
+13.	 Reporting boundary
+	
+Are the disclosures under this report made on a standalone basis (i.e., 
+only for the entity) or on a consolidated basis (i.e. for the entity and all 
+the entities which form a part of its consolidated financial statements, 
+taken together).
+The disclosures made under this report are made on a standalone basis for 
+NLCIL.
+14.	 Name of assurance provider
+Since the assurance for BRSR (Business Responsibility and Sustainability 
+Reporting) is not currently mandatory, the company has chosen not to 
+undertake it.
+15.	 Type of assurance obtained
+II. Products/services
+16. Details of business activities (accounting for 90% of the turnover):
+S. No. Description of main activity
+Description of business activity
+% of turnover of the entity (FY23-24)
+1.
+Electricity supply
+Electric power generation
+75%
+2.
+Mining
+Mining of coal and lignite
+25%
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No. Product/Service
+NIC Code
+% of total turnover contributed
+1.
+Electric power generation
+35102
+75%
+2.
+Sale of Coal
+05101
+19%
+3.
+Sale of Lignite
+05201
+6%
+III. Operations 
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location 
+Number of plants 
+Number of offices 
+Total
+National
+15
+9
+24
+International 
+-
+-
+-
+19. Markets served by the entity:
+a. Number of locations
+Locations 
+Number
+National (No. of States/UTs)
+10
+International (No. of Countries)
+NA
+b. What is the contribution of exports as a percentage of the total turnover of the entity?
+NIL
+c. A brief on types of customers
+The company provides energy and auxiliary services to a diverse customers that includes state distribution firms, commercial enterprises, 
+and industrial consumers. Additionally, the company has a fuel supply contract with an independent power producer, TAQA Neyveli Power 
+Company Pvt. Ltd. Neyveli. for its thermal power plant and MoU with NTPC for a period of 03 years for supply of coal for its thermal power 
+plants. Lignite is sold through E-Auction route to industries for captive power generation, refractories and other allied uses. NLCIL is also 
+involved in power trading where power consumers buy the surrendered power by the DISCOMs. NLCIL provides consultancy services to 
+clients operating in the mining sector and to firms engaged in solar power generation.
+IV. Employees
+20. Details as at the end of Financial Year:
+a. Employees and Workers (including differently abled):
+S. No. Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Employees
+1.
+Permanent (D)
+3,579
+3,268
+91%
+311
+9%
+2.
+Other than Permanent (E) 
+102
+70
+69%
+32
+31%
+3.
+Total employees (D + E)
+3,681
+3,338
+91%
+343
+9%
+Workers
+4.
+Permanent (F)
+6,789
+6,250
+92%
+539
+8%
+5.
+Other than Permanent (G) 
+15,999
+15,100
+94%
+899
+6%
+6.
+Total workers (F + G)
+22,788
+21,350
+94%
+1,438
+6%
+b. Differently abled Employees and Workers
+S. No
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Differently Abled Employees
+1.
+Permanent (D)
+39
+37
+95%
+2
+5%
+2.
+Other than Permanent (E) 
+-
+-
+-
+-
+-
+3.
+Total differently abled employees (D + E)
+39
+37
+95%
+2
+5%
+Differently Abled Workers
+4.
+Permanent (F)
+164
+134
+82%
+30
+18%
+5.
+Other than permanent (G)
+-
+-
+-
+-
+-
+6.
+Total differently abled workers (F + G)
+164
+134
+82%
+30
+18%
+21. Participation/Inclusion/Representation of women
+Category
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors (BOD)
+11
+3
+27.27
+Key Management Personnel (KMP) (Excluding Whole-time Directors)
+1
+0
+0
+22. Turnover rate for permanent employees and workers (Disclosure trends for the past 3 years)
+Category
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+2.58
+0.64
+2.41
+1.04
+0.02
+1.06
+1.45
+1.51
+1.46
+Permanent Workers
+0.05
+0.18
+0.06
+0.04
+0.01
+0.05
+0
+0.18
+0.01
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a) Names of holding / subsidiary / associate companies / joint ventures
+S. No. Name of the holding / subsidiary / 
+associate companies / joint ventures (A)
+Indicate whether holding/ 
+Subsidiary/ Associate/ Joint 
+Venture
+% of shares held by 
+listed Entity
+Does the entity indicated at column A, 
+participate in the Business Responsibility 
+initiatives of the listed entity? (Yes/No)
+1.
+NLC Tamil Nadu Power Limited (NTPL)
+Subsidiary
+89%
+Yes
+2.
+Neyveli Uttar Pradesh Power Limited 
+(NUPPL)
+Subsidiary
+51%
+Yes
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+236
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+237
+S. No. Name of the holding / subsidiary / 
+associate companies / joint ventures (A)
+Indicate whether holding/ 
+Subsidiary/ Associate/ Joint 
+Venture
+% of shares held by 
+listed Entity
+Does the entity indicated at column A, 
+participate in the Business Responsibility 
+initiatives of the listed entity? (Yes/No)
+3.
+Coal Lignite Urja Vikas Private Limited 
+(CLUVPL)
+Joint venture
+50%
+No
+4.
+MNH Shakti Limited (MNH)
+Joint venture
+15%
+No
+5.
+NLC India Green Energy Limited (NIGEL)
+Subsidiary
+100%
+Yes
+6.
+NLC India Renewables Limited (NIRL)
+Subsidiary
+100%
+Yes
+VI. CSR Details
+24.	 (i)	 Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) - Yes
+	
+(ii)	 Turnover ₹ 10,518.64 Crore
+	
+(iii)	 Net worth ₹ 15,993.91 Crore
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct:
+Stakeholder group from 
+whom complaint is 
+received
+Grievance redressal 
+mechanism in place (Yes/
+No) If Yes, then provide 
+web-link for grievance 
+redress policy)
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Number of 
+complaints filed 
+during the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Number of 
+complaints filed 
+during the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Investors (other than 
+shareholders)
+Y
+NA
+NIL
+NA
+NIL
+NIL
+NA
+Communities
+Y
+185
+6
+NA
+327
+4
+NA
+Shareholders
+Y
+NIL
+NIL
+NA
+16
+NIL
+NA
+Employees and workers
+Y
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Customers
+Y
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Value Chain Partners
+Y*
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Others 
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+*https://www.nlcindia.in/new_website/Vendor%20Grievance%20Policy%20rv1%2018082022.pdf#:~:text=NLCIL%20Vendor%20Grievance%20Process%20allows%20
+vendors%20to%20access,about%20the%20contracting%20process%20and%20contract%20award%20decisions
+26. Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that present 
+a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk along-with its financial 
+implications, as per the following format
+S.No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1.
+Community 
+Engagement
+R
+The communities form as a key 
+stakeholder considering the nature 
+of the business
+Communities are engaged through skill 
+development and contract employment 
+and several CSR projects
+Negative
+2.
+Health and 
+Safety
+R
+Risk of accidents that could result in 
+impacting the health and safety of 
+the relevant stakeholders due to the 
+nature of operations
+Safety measures and action taken to avoid 
+fire incidents in thermal plants are:
+•	
+The 
+Company 
+conducts 
+routine 
+assessments to ensure the effectiveness 
+of its Fire Detection and Suppression 
+System, weekly inspections of fire 
+pumps, hydrant pipelines, and valves. 
+A fire crew is on standby around the 
+clock, with fire and foam tenders 
+readily available at all sites.
+•	
+According to the company’s Safety 
+and Health policy, every individual is 
+empowered to identify and halt any 
+unsafe practices.
+•	
+Free medical facilities are available to 
+NLC employees and contract workers. 
+•	
+The Company has successfully adopted 
+ISO 45001-2018 standards. 
+Negative
+S.No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+•	
+Additionally, a collaborative fire safety 
+campaign with the CISF fire crew is 
+organized annually. All employees 
+and contract workers receive practical 
+training on how to use portable fire 
+extinguishers.
+Safety in Mines
+•	
+NLCIL has put into effect a thorough 
+array of safety protocols to ensure a 
+secure and healthy work environment 
+across all mining operations. This 
+includes yearly safety evaluations by an 
+ISO Team, monthly reviews by Central 
+Safety 
+Council 
+Members, 
+safety-
+focused workshops, training sessions, 
+and consistent safety officer gatherings. 
+Neyveli mines utilize cutting-edge 
+technology with integrated safety 
+features and stringent enforcement 
+of Standard Operating Procedures. 
+Safety Management Plans have been 
+developed based on risk assessments 
+and cover all mining activities.
+•	
+Safety meetings, inspections, and 
+educational activities are conducted on 
+a regular basis. This includes Tri-partite 
+& Bi-partite meetings and Safety Week 
+Celebrations. The company has well-
+established and supervised safety 
+equipments, first aid, fire safety, and 
+accident investigation protocols.
+3.
+Air Emissions
+R
+The main sources of emission of 
+pollutants are :
+•	
+Drilling and excavation activity 
+•	
+Transportation of lignite/ coal 
+•	
+Storage yard & Haul roads 
+•	
+Stack emissions 
+•	
+Ash handling system
+NLCIL has implemented various measures to 
+mitigate emissions, including the following:
+•	
+Installation of water sprinkler and fog 
+systems.
+•	
+Utilizing water sprinklers on haul roads.
+•	
+Employing 
+vehicle-mounted 
+water 
+sprayers and pressurized mobile water 
+sprinkling systems for internal mine 
+roads.
+•	
+Implementing conveyor water spraying.
+•	
+Installing water spray pipelines at 
+working faces.
+•	
+Establishing fixed water sprinkler guns 
+in the bunker area.
+•	
+Introducing 
+a 
+fog 
+cannon 
+dust 
+suppression system in the Coal Stock 
+Yard.
+•	
+Equipping facilities with electrostatic 
+precipitators.
+•	
+Progressing 
+towards 
+the 
+implementation 
+of 
+flue 
+gas 
+desulfurization.
+Negative
+4.
+Land 
+acquisitions
+R
+Delay for NLCIL’s operations related 
+to mining activities.
+•	
+R&R (Rehabilitation and Resettlement) 
+policy in place, which compensates 
+over and above the requirements 
+under ‘The Right to Fair Compensation 
+and Transparency in Land Acquisition, 
+Rehabilitation and Resettlement Act, 
+2013’ (RFCT LARR Act). 
+•	
+Providing employment opportunities 
+to project affected persons through 
+skill development and contractual 
+employment besides engagement in 
+agriculture and farming.
+Negative
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+238
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+239
+S.No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+5.
+Resource 
+availability
+O
+Availability of abundant resource
+•	
+Improvement in operating parameters 
+to effective usage of resources 
+•	
+Adoption 
+of 
+resource 
+efficient 
+technology
+Negative
+6.
+Renewable 
+energy
+O
+Renewable energy is one of the key 
+focus areas of NLC as a long-term 
+strategy.
+Development 
+of 
+renewable 
+energy 
+deployments are being ventured.
+Positive
+7.
+Water and 
+Effluent 
+Management
+R
+The major pollutant that is present 
+in the seepage and surface 
+water is Suspended Solids. Other 
+pollutants such as Bio-chemical 
+Oxygen Demand, Chemical Oxygen 
+Demand, Total Suspended Solids, 
+Total Dissolved Solids, Oil & Grease 
+etc., are generated from the vehicle 
+washing & domestic waste from the 
+mines
+•	
+Every industry is equipped 
+with 
+the 
+necessary 
+Sewage 
+Treatment 
+Plants (STPs) and Effluent Treatment 
+Plants (ETPs) to ensure that treated 
+wastewater 
+meets 
+environmental 
+standards.
+•	
+Implementation of rainwater harvesting 
+within NLCIL premises.
+•	
+Facilitation of artificial groundwater 
+recharge using the gravity method in 
+designated recharge zones.
+•	
+Enhancement 
+of 
+groundwater 
+levels through the artificial recharge 
+technique through injection wells.
+Negative
+8.
+Governance
+R
+Being a regulated entity, compliance 
+in all aspects is a priority
+•	
+NLCIL has formulated policies that 
+focus 
+on 
+essential 
+elements 
+of 
+Environmental, Social, and Governance 
+(ESG) to steer the company’s culture.
+•	
+The company offers training and 
+awareness 
+initiatives 
+to 
+combat 
+corruption 
+and 
+prevent 
+anti-
+competitive practices.
+•	
+Efforts 
+are 
+made 
+to 
+educate 
+stakeholders 
+about 
+updates 
+in 
+regulatory standards.
+•	
+The company employs risk management 
+practices under the supervision of the 
+Board.
+•	
+Comprehensive training and guidance 
+on the code of conduct are provided to 
+all stakeholders.
+Negative
+9.
+Training, 
+education and 
+development
+O
+We understand the changing 
+landscape in the context upskilling, 
+compliance managements and career 
+development
+During the pandemic, significant initiatives 
+were undertaken for deployment and 
+enhancement of digital accessibility for 
+the workforce. Additionally we conduct 
+several training courses both internal and 
+external for our employees upskilling and 
+development.
+Positive
+10.
+Climate 
+Strategy
+R
+Given the carbon-intensive nature 
+of the operations, it is crucial for 
+to develop a climate strategy that 
+aligns with the evolving regulatory 
+landscape and compliance 
+requirements of carbon markets.
+The company has ventured into renewable 
+power and aims to expand further in 
+the sector. Additionally, Research and 
+Development team (CARD) is focused on 
+creating innovative solutions to reduce the 
+carbon footprint.
+Negative
+11.
+Innovation and 
+Digitization
+O
+We are convinced that ongoing 
+innovation is essential to foster eco-
+friendly advancements and establish 
+an employee-friendly workplace.
+We hold the conviction that continuous 
+innovation is necessary to encourage 
+environmentally conscious solutions and 
+cultivate a workplace that is conducive to 
+employee well-being.
+Positive
+12.
+Sustainable 
+Supply Chain
+O
+In our commitment to delivering 
+uninterrupted power to our 
+customers, we recognize the 
+significance of maintaining a 
+sustainable supply chain.
+•	
+Establishing guidelines for a sustainable 
+supply chain.
+•	
+Conducting 
+capacity-building 
+programs for suppliers that focus on 
+environmental, social, and economic 
+aspects to ensure mutual benefits.
+•	
+Voluntary collection of Environmental, 
+Social, and Governance (ESG) data from 
+suppliers.
+Positive
+S.No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+13.
+Ethics and 
+integrity
+O
+As a regulated entity it is essential 
+to maintain the highest standards of 
+ethics in the organization
+•	
+Ethics, as a fundamental value, are 
+integrated into all business processes, 
+ensuring adherence to principles of 
+ethics and integrity.
+•	
+Implementation of policies such as 
+the code of conduct, whistleblower 
+protection, 
+complaint 
+resolution, 
+and prohibition of unethical business 
+dealings.
+•	
+Full 
+compliance 
+with 
+laws 
+and 
+regulations to maintain a transparent 
+and corruption-free work environment.
+•	
+Installation of display boards in all 
+offices urging visitors to resist coercion 
+and to report any corrupt activities 
+directly to the Chief Vigilance Officer.
+Positive
+14.
+Biodiversity 
+Preservation
+O
+We intend to conserve and promote 
+the biodiversity in the areas which 
+have been reclaimed after mining
+Ensure and implement responsible business 
+practices in areas of high biodiversity value.
+Negative
+15.
+Decommissioning 
+of Old Plants
+R
+Some of our plants have attained 
+their end of life. We would be 
+decommissioning such plants.
+The process of plant decommissioning 
+is regulated by the standards set by the 
+Ministry of Power (MoP).
+•	
+Ensure 
+safety 
+and 
+security 
+of 
+individuals and the minimization of 
+environmental impact throughout the 
+decommissioning phase.
+Negative
+16.
+Operational 
+Efficiency and 
+Plant Reliability
+O
+Operational efficiencies are key 
+parameter for resource conservation
+We are in the process of implementing 
+supercritical boilers that feature reduced 
+fuel consumption and can lower CO2 
+emissions.
+We are also embracing Green mining 
+technologies to reduce the environmental 
+footprint of our mining operations.
+Positive
+Section B: Management and Process Disclosures
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the NGRBC 
+Principles and Core Elements.
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Policy and management processes
+1a.	 Whether your entity’s policy/policies cover 
+each principle and its core elements of the 
+NGRBCs. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b.	 Has the policy been approved by the Board? 
+(Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+c. Web Link of the Policies, if available
+Whistle blower policy-https://web.nlcindia.in/webcount/Document/whistleblow.pdf
+Complaint handling policy-https://web.nlcindia.in/webcount/Document/Complaint_Policy.pdf
+Archival Policy-https://www.nlcindia.in/investor/ArchivalPolicy.pdf
+Nomination and Remuneration Policy-https://www.nlcindia.in/investor/Remuneration-policy13032019.
+pdf
+Policy for Materiality of Event-https://www.nlcindia.in/investor/policy_materiality_event.pdf
+Policy on Material Subsidiary-https://www.nlcindia.in/investor/policy_on_material_subsidiaries.pdf
+Policy on Related Party Transaction-https://www.nlcindia.in/investor/policy_on_related_party_
+transactions.pdf
+Cyber security policy-https://www.nlcindia.in/new_website/cyber-policy-17-22.pdf
+Vendor grievance policy-https://www.nlcindia.in/new_website/Vendor%20Grievance%20Policy%20
+rv1%2018082022.pdf#:~:text=NLCIL%20Vendor%20Grievance%20Process%20allows%20vendors%20
+to%20access,about%20the%20contracting%20process%20and%20contract%20award%20decisions
+Waste Management Policy-https://www.nlcindia.in/new_website/Waste%20Management%20Policy.
+pdf
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+240
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+241
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+ESG Policy-https://www.nlcindia.in/new_website/ESG_policy_28082023.pdf
+Dividend Distribution Policy-https://www.nlcindia.in/investor/dividenddistributionpolicy_15042017.pdf
+Policy for Investment in Surplus Funds-https://www.nlcindia.in/investor/policyforSTD07122018.pdf
+Environment Policy of NLC-https://www.nlcindia.in/new_website/env-policy-2019.pdf
+CSR Policy-https://www.nlcindia.in/new_website/csr_new/csr_policy_2021.pdf
+Code of Conduct-https://www.nlcindia.in/new_website/codeconduct.pdf
+Code of conduct for prevention of Insider Trading-https://www.nlcindia.in/investor/code_conduct_
+trading.pdf
+Code of Practices and Procedures for disclosure of Unpublished Price Sensitive Information-https://
+www.nlcindia.in/investor/Code%20of%20Practices%20and%20Procedures%20for%20Fair%20
+Disclosure%20of%20Unpublished%20Price%20Sensitive%20Information06042019.pdf
+Health & Safety Policy-https://www.nlcindia.in/new_website/NLC%20Safety%20policy.pdf
+Code of Conduct to regulate, monitor and report trading - https://www.nlcindia.in/investor/code_
+conduct_trading.pdf
+2. Whether the entity has translated the policy 
+into procedures. (Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3. Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4. Name of the national and international codes/
+certifications/labels/standards (e.g. Forest 
+Stewardship Council, Fairtrade, Rainforest 
+Alliance, trustee) standards (e.g. SA 8000, 
+OHSAS, ISO, BIS) mapped to each principle.
+•	
+ISO/IEC 17025:2005 
+•	
+ISO 45001-2018- Safety Management System and ISO 
+•	
+ISO 9001 - 2015 Quality Management System 
+•	
+ISO 14000-2015 – Environmental Management System 
+•	
+ISO 17025 - Testing and Calibration Laboratories
+5. Specific commitments, goals and targets set by 
+the entity with defined timelines, if any.
+NLCIL has set an ambitious growth objective to become a significant player in the energy sector, with a 
+goal to boost its power generation capabilities to 20,130 MW by the year 2030. To achieve self-reliance 
+in fuel supply, the company intends to increase its lignite extraction capabilities from the present 30.10 
+million tonnes per annum (MTPA) to an impressive 41.35 MTPA. Additionally, it plans to substantially raise 
+its coal mining capacity from the current 20.00 MTPA to an outstanding 62.00 MTPA. Furthermore, NLCIL 
+is focused on significantly expanding its renewable energy capacity to 10,110 MW by 2030, up from its 
+current capacity of 1,431 MW.
+6. Performance of the entity against the specific 
+commitments, goals and targets along-with 
+reasons in case the same are not met.
+Refer Director’s report
+Governance, Leadership and Oversight
+7. Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and achievements (listed entity has 
+flexibility regarding the placement of this disclosure)
+8. Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy/policies
+Functional Directors bear the responsibility of effectively implementing and overseeing the Business 
+Responsibility policies within their specific functional domains.
+9. Does the entity have a specified Committee of 
+the Board/ Director responsible for decision 
+making on sustainability related issues? (Yes / 
+No). If yes, provide details.
+Yes, we have established an ESG Committee to look into sustainability. The committee reports to Board 
+of Directors.
+10. Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by 
+Director / Committee of the Board/Any other 
+Committee
+Frequency (Annually/ Half yearly/ Quarterly/ Any 
+other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and 
+follow up action
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Annually
+Compliance with statutory requirements 
+of relevance to the principles, and 
+rectification of any non-compliances
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Quarterly/ Annually
+11. Has the entity carried out independent assessment/ evaluation of the working of its policies by an external agency? (Yes/No). If yes, provide name of the 
+agency
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+N
+N
+Y
+N
+N
+Y
+N
+Y
+N
+12. If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated:
+Questions 
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the principles material to its business (Yes/No) 
+All principles are covered by our ESG policy
+The entity is not at a stage where it is in a position to formulate and implement the policies on 
+specified principles (Yes/No) 
+The entity does not have the financial or/human and technical resources available for the task 
+(Yes/No) 
+It is planned to be done in the next financial year (Yes/No) 
+Any other reason (please specify) 
+Section C: Principle Wise Performance Disclosure
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key processes 
+and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential indicators are expected to be 
+disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed by entities which aspire 
+to progress to a higher level in their quest to be socially, environmentally, and ethically responsible.
+Principle 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable. 
+Essential Indicators
+1. Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number  
+of training and 
+awareness 
+programmes held
+Topics / principles covered under the training and its impact
+Percentages of persons 
+in respective category 
+covered by the awareness 
+programmes
+Board of Directors (BoD)
+8
+•	
+World Mining Congress (WMC)
+•	
+Special-Ownership & Responsibility
+•	
+Orientation Prog. For Functional Directors of CPSES-DPE
+•	
+CII Annual Session 2023
+•	
+Master Class For Directors
+100%
+Key  Managerial 
+Personnel (KMPs)
+13
+•	
+Capital Markets Week Learning from G20
+•	
+RO-Assessment Centre and Development Centre
+•	
+Special Webinar on Navigating the Changes Through The Lens 
+•	
+RO-Cyber Hygiene and Security 
+•	
+Company Secretaries of CPSES on Effective Functioning
+100%
+Employees other than 
+BoD and KMPs
+1028
+•	
+Functional and Behavioral Training
+•	
+Health and Well-Being
+•	
+Management Development
+•	
+Quality and Environmental Standards
+94%
+Workers
+894
+•	
+Safety
+•	
+Skill Development and Upgradation
+•	
+Statutory Program
+•	
+Women Empowerment
+•	
+CSR Awareness
+75%
+2. Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by 
+directors / KMPs) with regulators/ law enforcement agencies/judicial institutions, in the financial year, in the following format (Note: 
+the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+Type
+NGRBC Principle
+Name of the regulatory/ 
+Enforcement agencies/ 
+judicial institutions
+Amount (In ₹)
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty/ Fine
+Not Applicable
+Settlement
+Compounding fee
+Non-Monetary
+Type
+NGRBC Principle
+Name of the regulatory/ 
+Enforcement agencies/ 
+judicial institutions
+Amount (In ₹)
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+Not Applicable
+Punishment
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+242
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+243
+3. Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-monetary 
+action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+Not Applicable
+4. Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link to 
+the policy. 
+NLCIL has established comprehensive internal regulations that address anti-bribery and anti-corruption measures. In its dedication to 
+upholding ethical standards, NLCIL has partnered with reputable entities like the Central Vigilance Commission (CVC) and Transparency 
+International India (TII) to establish the Integrity Pact Program. This program ensures rigorous oversight of all tender processes involving 
+amounts over ₹ 1 Crore, enforcing a stringent integrity agreement between NLCIL and its vendors/contractors.
+5. Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the 
+charges of bribery/ corruption.
+Category
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Directors
+NA
+NA
+KMPs
+Employees 
+Workers
+6. Details of complaints with regard to conflict of interest:
+Topic
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of Conflict of 
+Interest of the Directors
+Nil
+NA
+Nil
+NA
+Number of complaints received in relation to issues of Conflict of 
+Interest of the KMPs
+Nil
+NA
+Nil
+NA
+7. Provide details of any corrective action taken or underway on issues related to fines / penalties /action taken by regulators/ law 
+enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+Not Applicable
+8. Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following format:
+Particulars
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Number of days of accounts payables
+72
+58
+9. Openness of business
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and advances 
+& investments, with related parties, in the following format
+Parameter
+Metrics
+FY 2023-24 
+Current Financial 
+Year
+FY 2023 Previous 
+Financial Year
+Concentration of Purchases
+a. Purchases from trading houses as % of total purchases
+NA
+NA
+b. Number of trading houses where purchases are made from
+NA
+NA
+c. Purchases from top 10 trading houses as % of total purchases from trading 
+houses
+NA
+NA
+Concentration of Sales
+a. Sales to dealers / distributors as % of total sales
+NA
+NA
+b. Number of dealers / distributors to whom sales are made
+NA
+NA
+c. Sales to top 10 dealers / distributors as % of total sales to dealers / distributor
+NA
+NA
+Share of RPTs in
+a. Purchases (Purchases with related parties / Total Purchases)
+NA
+NA
+b. Sales (Sales to related parties / Total Sales)
+NA
+NA
+c. Loans & advances (Loans & advances given to related parties / Total loans & 
+advances)
+NA
+NA
+d. Investments ( Investments in related parties / Total Investments made)
+NA
+NA
+Leadership Indicators
+1. Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total number of awareness 
+programmes held
+Topics / principles covered under the 
+training
+%age of value chain partners covered (by value of business done with 
+such partners) under the awareness programmes
+17
+17 Vendor’s Meeting have been 
+conducted throughout the year 
+Not Assessed
+2.	Does the entity have processes in place to avoid/manage conflict of interests involving members of the Board? (Yes/No) If yes, provide 
+details of the same.
+	
+Yes, the Company has the following policies to avoid/manage the conflict of interest, applicable on stakeholders of the Company.
+	
+1. Code of Conduct for Board Members and Senior Management Personnel. 
+	
+2. Code of conduct for prevention of Insider Trading. 
+	
+3. Code of Practices and Procedures for disclosure of Unpublished Price Sensitive Information. 
+	
+4. Whistle Blower Policy. 
+	
+5. Complaint Handling Policy. 
+	
+6. Policy for Materiality of Event. 
+	
+7. Policy on Related Party Transaction
+Principle 2:  Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social 
+impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Type
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Details of improvements in environmental and social impacts
+R&D
+24%
+37%
+The Center for Advanced Research and Development (CARD) has initiated the Innovation Incubation 
+Centre (IIC). The IIC is dedicated to projects that aim to enhance environmental quality and the societal 
+effects of various products and methodologies. Furthermore, it engages in research and development 
+activities such as the production of Green Hydrogen, feasibility assessment of Lignite/Humic acid for 
+semiconductor applications, Sustainable utilization of Coal through Flash Graphene extraction, Lignite 
+to Syngas for power generation, Enhancing Life of Bottom Rollers used in Bucket Wheel Excavators, 
+among others.
+Capex
+93%
+95%
+2. a Does the entity have procedures in place for sustainable sourcing? (Yes/No)- Yes 
+Lignite/Coal Linkage:
+•	 100% of lignite requirement for the power generation is sourced sustainably by locating the power station at pithead reducing the 
+energy required for transportation. 
+•	 100% of coal requirement for the proposed NLC Talabira Thermal Power Project is sourced sustainably from Talabira II & III Coal Mines, 
+Odisha.
+b. If yes, what percentage of inputs were sourced sustainably?
+The bulk of the resources utilized by NLCIL are obtained through environmentally responsible methods, mainly from the company’s own 
+coal and lignite mines. Additionally, the company is vigorously assessing and applying sustainability evaluations for its vendors to ensure 
+that sustainability is integrated throughout its entire supply chain.
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+244
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+245
+3. Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) Plastics 
+(including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+a)	 Plastic Management (including packaging): Since 2006, Neyveli Township has prohibited the use of plastic bags and wrappers. To tackle 
+the accumulation of plastic waste, such as oil and milk sachets, a structured method has been established. This waste is gathered, 
+shredded, and then integrated into construction materials for local projects, transforming plastic refuse into useful building additives 
+and fostering environmental sustainability.
+b)	 Electronic Waste Handling: NLCIL orchestrates the collection and disposal of electronic waste through an electronic auction facilitated 
+by MSTC, entrusting it to recyclers authorized by the Pollution Control Board.
+c)	 Management of Hazardous Materials: NLCIL ensures the safe disposal of hazardous waste produced through an e-tender by MSTC, 
+directing the waste to recyclers, co-processors, or disposal facilities approved by the Pollution Control Board.
+d)	 Utilization of Other Waste Products: NLCIL is committed to repurpose 100% of the fly ash generated by its lignite and coal-powered 
+thermal power plants.
+4. Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No).
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same.
+Not Applicable
+Leadership Indicators
+1. Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) or for its 
+services (for service industry)? If yes, provide details in the following format?
+NIC Code
+Name of 
+Product /Service
+% Of total 
+Turnover 
+Contributed
+Boundary for which the 
+Life Cycle Perspective 
+/ Assessment was 
+conducted
+Whether conducted by 
+independent external 
+agency (Yes/No)
+Results communicated 
+in public domain (Yes/
+No)
+If yes, provide the web 
+link
+Life Cycle Assessment (LCA) have not been conducted. However, LCA of the fuel has been planned.
+2. If there are any significant social or environmental concerns and/or risks arising from production or disposal of your products / 
+services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same along-
+with action taken to mitigate the same.
+Name of Product / Service
+Description of the risk / concern
+Action Taken
+Not Applicable
+3. Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or 
+providing services (for service industry).
+Indicate input material
+Recycled or re-used input material to 
+total material
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Not Applicable
+4. Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely disposed 
+as per the following format.
+ 
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+ 
+Re-Used
+Recycled
+Safely Disposed
+Re-Used
+Recycled
+Safely Disposed
+Plastics (including packaging)
+Not Applicable
+Not Applicable
+E-waste
+Hazardous waste
+Other waste
+5. Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Indicate product category
+Reclaimed products and their packaging materials as % of total products sold in respective category
+Not Applicable
+Principle 3: Businesses should respect and promote the well-being of all employees, including those in their value chains
+Essential Indicators
+1 a. Details of measures for the well-being of employees.
+Category
+% of employees covered by
+Total (A)
+Health insurance 
+Accident insurance 
+Maternity benefits 
+Paternity Benefits 
+Day Care facilities 
+No. (B)
+%(B/ A)
+No.(C)
+%(C/A)
+No.(D)
+% (D/A)
+No.(E)
+%(E/ A)
+No.(F)
+%(F/ A)
+Permanent employees
+Male
+3,268
+3,268
+100%
+3,268
+100%
+NA
+NA
+3,268
+100%
+NA
+NA
+Female
+311
+311
+100%
+311
+100%
+311
+100%
+NA
+NA
+311
+100%
+Total
+3,579
+3,579
+100%
+3,579
+100%
+311
+100%
+3,268
+100%
+311
+100%
+Other than Permanent employees
+Male
+70
+70
+100%
+70
+100%
+NA
+NA
+70
+100%
+NA
+NA
+Female
+32
+32
+100%
+32
+100%
+32
+100%
+NA
+NA
+32
+100%
+Total
+102
+102
+100%
+102
+100%
+32
+100%
+70
+100%
+32
+100%
+b. Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total (A)
+Health Insurance
+Accident Insurance
+Maternity Benefits
+Paternity Benefits
+Day Care facilities
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (D)
+% (D/A)
+No. (E)
+% (E/A)
+No. (F)
+% (F/A)
+Permanent workers
+Male
+6,250
+6,250
+100%
+6,250
+100%
+NA
+NA
+6,250
+100%
+NA
+NA
+Female
+539
+539
+100%
+539
+100%
+539
+100%
+NA
+NA
+539
+100%
+Total
+6,789
+6,789
+100%
+6,789
+100%
+539
+100%
+6,250
+100%
+539
+100%
+Other than Permanent workers
+Male
+15,100
+15,100
+100%
+15,100
+100%
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+899
+899
+100%
+899
+100%
+NA
+NA
+NA
+NA
+NA
+NA
+Total
+15,999
+15,899
+100%
+15,899
+100%
+NA
+NA
+NA
+NA
+NA
+NA
+c. Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in the 
+following format:
+Spending on measures towards well-being of employees and workers (including permanent and other 
+than permanent) in the following format –
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Cost incurred on wellbeing measures as a % of total revenue of the Company
+1.49%
+0.90%
+2. Details of retirement benefits
+Benefits
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as a % of 
+total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No.of employees 
+covered as a % of 
+total employees
+No. of workers 
+Covered as a % of 
+total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+100
+100
+Y
+100
+100
+Y
+Gratuity
+100
+100
+Y
+100
+100
+Y
+ESI
+-
+-
+-
+-
+-
+-
+NLC Pension Scheme
+100
+100
+Y
+100
+100
+Y
+Post retirement Medical 
+Assistance (PRMA)
+100
+100
+Y
+100
+100
+Y
+3. Accessibility of workplaces 
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights 
+of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+The organization is dedicated to fostering an inclusive workplace for differently abled individuals, in line with the stipulations of the Rights 
+of Persons with Disabilities Act, 2016. In pursuit of this goal, the organization has established a tailored manual designed to facilitate equal 
+opportunities for everyone. This manual is in harmony with the directives issued by the Department of Personnel and Training (DoP&T) and 
+includes a range of amenities and support systems intended to create a supportive work atmosphere for Persons with Disabilities (PwDs).
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+246
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+247
+4. Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link 
+to the policy. 
+NLCIL ensures proper representation of persons with disabilities within its workforce and adheres to the provisions outlined in the Rights 
+of Persons with Disabilities Act, 2016. NLCIL’s internal manual offers guidelines adhering to the Act.
+5. Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+100%
+NA
+Female
+100%
+100%
+100%
+NA
+Total
+100%
+100%
+100%
+NA
+6. Is there a mechanism available to receive and redress grievances for the following categories of employees and workers? If yes, give 
+details of the mechanism in brief.
+Category
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent Workers
+NLCIL is committed to maintaining a culture of open and transparent communication, creating an atmosphere where 
+employees feel comfortable voicing their concerns to their business heads, the HR department, or members of the senior 
+management. The company adheres to an open-door policy, ensuring that employees at all levels have the opportunity 
+to engage with the senior management team. Furthermore, NLCIL has introduced the Corporate Whistleblower Initiative 
+(CWI), which serves as an official channel for employees to report issues across a variety of topics. Information about the 
+grievance process and the CWI is effectively communicated to employees through a specialized module, which includes 
+awareness-sessions as part of the employee induction program.
+Other than Permanent 
+Workers
+Additionally, NLCIL has established a thorough policy for the prevention, prohibition, and resolution of sexual harassment 
+against women in the workplace, adhering to the Sexual Harassment of Women at Workplace (Prevention, Prohibition 
+and Redressal) Act, 2013. This policy is accessible on the company's website, and an Internal Complaints Committee 
+(ICC), predominantly composed of female members, is tasked with investigating such complaints. NLCIL actively organizes 
+workshops, group discussions, online training sessions, and awareness campaigns to educate employees about preventing 
+sexual harassment at work, ensuring consistent and proactive involvement in addressing this crucial issue.
+Permanent Employees
+The steps for the grievance redressal mechanism are outlined as follows:
+•	 Employees are required to lodge their grievances promptly using the specified format, and this should be done 
+immediately or at most within three months from the date of the incident.
+•	 To ensure swift, accurate, and efficient resolution of grievances, employees are classified into three distinct groups: (a) 
+Workmen and Staff, (b) Supervisors and Executives, and (c) Executives at the level of General Manager and above. A 
+dedicated Corporate Level Redressal Committee has been established for each category of employees.
+The grievance handling process is divided into two stages:
+I. Stage-I involves the employee presenting their grievance directly to the head of their Department/Unit using the 
+designated FORM-I, following the proper channels. Upon receiving the grievance, the Department/Unit Head will engage 
+with the employee to address the issue and will return FORM-I with comments or actions to be taken, within a 15-day period 
+from the date the grievance was received.
+II. Stage-II allows for an appeal process. If the employee is dissatisfied with the outcome or response received at Stage-I, they 
+may appeal to the respective Corporate Level Grievance Redressal Committee using FORM-II. Appeals must be submitted 
+in duplicate to the Committee’s Secretary and must include a copy of FORM-I, which contains the Department/Unit Head’s 
+remarks or proposed resolution.
+Other than Permanent 
+Employees
+7. Membership of employees and worker in association(s) or Unions recognized by the listed entity:
+Category
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Total employees 
+/ workers in 
+respective 
+category (A)
+No. of employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (B)
+% (B/A)
+Total employees 
+/ workers in 
+respective category 
+(C)
+No. of employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (D)
+% (D/C)
+Total Permanent Employees
+3,579
+2,566
+72%
+3,676
+2,778
+76%
+Male
+3,268
+2,346
+72%
+3,357
+2,535
+76%
+Female
+311
+220
+71%
+319
+243
+76%
+Total Permanent Workers
+6,789
+4,890
+72%
+7,105
+4,848
+68%
+Male
+6,250
+4,597
+73%
+6,534
+4,475
+68%
+Female
+539
+293
+54%
+571
+373
+65%
+8. Details of training given to employees and workers:
+Category 
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Total (A)
+On Health and safety 
+measures
+On Skill upgradation
+Total (D)
+On Health and safety 
+measures
+On Skill upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+3,268
+79
+2%
+13
+0.39%
+3,357
+151
+4%
+643
+19%
+Female
+311
+19
+6%
+2
+0.64%
+319
+17
+5%
+150
+47%
+Total
+3,579
+98
+3%
+15
+0.41%
+3,676
+168
+5%
+793
+22%
+Workers
+Male
+6,250
+151
+2%
+11
+0.17%
+6,534
+1,930
+30%
+1326
+20%
+Female
+539
+41
+8%
+0
+0.00%
+571
+47
+8%
+196
+34%
+Total
+6,789
+192
+3%
+11
+0.16%
+7,105
+1977
+28%
+1522
+21%
+9. Details of performance and career development reviews of employees and worker:
+Category 
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+3,268
+3,268
+100%
+3,357
+3,357
+100%
+Female
+311
+311
+100%
+319
+319
+100%
+Total
+3,579
+3,579
+100%
+3,676
+3,676
+100%
+Workers
+Male
+6,250
+6250
+100%
+6,534
+6,534
+100%
+Female
+539
+539
+100%
+571
+571
+100%
+Total
+6,789
+6,789
+100%
+7,105
+7,105
+100%
+10. Health and safety management system:
+a.	Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, what is the 
+coverage of such a system?
+	
+Yes, ISO 45001-2018 has been implemented.
+b.	What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity?
+	
+HIRA i.e., Hazard Identification and Risk Assessment is practiced, and Safety Management Plan (SMP) is prepared based on the same.
+c.	 Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks (Y/N) - Y 
+	
+As per Safety and Health policy, every employee and worker have the authority to challenge and stop unsafe activities.
+d.	Do the employees/ workers of the entity have access to non-occupational medical and healthcare services (Y/N) - Y
+	
+Free medical facilities are available to NLC employees and contract workers.
+11. Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category*
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked)
+Employees
+0.013
+0
+Workers
+0.065
+0.13
+Total recordable work-related injuries
+Employees
+1
+0
+Workers
+2
+8
+No. of fatalities 
+Employees
+0
+0
+Workers
+3
+2
+High consequence work-related injury or ill-health (excluding fatalities)
+Employees
+0
+0
+Workers
+3
+0
+*Including the contract workforce
+The FY 2022-23 number on high consequences work related injury has been revisited and revised in this year’s BRSR.
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+248
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+249
+12. Describe the measures taken by the entity to ensure a safe and healthy workplace.
+•	 NLCIL systematically conducts safety evaluations on an annual basis for all its mining operations through the ISO Team, while external 
+agencies with accreditation carry out safety audits for thermal power stations once every two years.
+•	 Internal Safety Organization, along with Central Safety executives, regularly perform inspections at both mines and thermal plants. They 
+generate safety observation reports which are then shared with the heads of respective units to ensure adherence to safety protocols.
+•	 In the event of any accidents or incidents, comprehensive investigations are launched to ascertain the root causes. Following these 
+investigations, appropriate corrective measures are put into action to avert similar occurrences in the future.
+•	 The Central Safety Council organize inspections and meetings on a monthly basis according to a pre-set annual agenda, with a focus 
+on various units.
+•	 Statutory officials with the requisite qualifications are responsible for the oversight of mines and thermal plants. They have established 
+specialized divisions dedicated to the maintenance of safety and health standards.
+•	 NLCIL has developed detailed standard operating procedures (SOPs) for all operations related to mining and thermal power generation. 
+These SOPs are rigorously enforced and undergo regular revisions to ensure their effectiveness. Additionally, SOPs are made available 
+in the local language to facilitate better comprehension and execution.
+•	 The Central Safety Wing at NLCIL convenes monthly meetings with safety officers from all units, including NLCIL, NUPPL, NTPL, CLUVPL, 
+MNH, NIGEL, and NIRL to discuss and promote safety measures.
+•	 Regular meetings of the Unit Safety Committee are also held on a monthly basis at both mining and thermal plant locations.
+•	 Each mining site is equipped with fire tenders that operate 24/7, managed by the Central Industrial Security Force (CISF) personnel.
+•	 NLCIL has a specialized division with expertise in managing groundwater, which plays a crucial role in analysing and controlling the risks 
+associated with water.
+•	 The organization’s Vocational Training Centre boasts a state-of-the-art simulator for virtual training of equipment operators. This 
+initiative is aimed at reducing the risk of accidents during the actual operation of equipment.
+•	 Blast-free technology, utilizing surface miners, is employed for coal excavation in Talabira – II & III OCP.
+13. Number of complaints on the following made by employees and workers
+Category
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Filed during  
+the year
+Pending resolution 
+at the end of year
+Remarks
+Filed during  
+the year
+Pending resolution 
+at the end of year
+Remarks
+Working Conditions
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Health & Safety
+NIL
+NIL
+NIL
+NIL
+14. Assessments for the year
+Category
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / 
+concerns arising from assessments of health & safety practices and working conditions. 
+Following are the corrective actions taken/underway: 
+•	 Distribution of Personal Protective Equipment (PPE): Employees at both mining and thermal power facilities are equipped with essential 
+and role-specific PPE to safeguard their well-being. A detailed PPE issuance log is kept to accurately track the distribution frequency 
+of PPE.
+•	 Enforcement of Standard Operating Procedures (SOP): Thoroughly developed SOPs for all operational activities within mines and thermal 
+plants are in place. Strict compliance with these SOPs is mandated to ensure uniform and safe working conditions.
+•	 Lock Out and Tag Out (LOTO) Measures: Compliance with LOTO protocols is critical before initiating any task. Workers are provided with 
+LOTO ID cards, which are attached to the corresponding locks and include comprehensive information about the accountable individual. 
+These locks remain in place until the associated task is fully completed.
+•	 Comprehensive Training and Evaluation: Safety training encompasses instructional videos, practical demonstrations of PPE use, and 
+interactive discussions for feedback. Follow-up assessments confirm the effectiveness of the training sessions. The Group Vestibule 
+Training Centre (GVTC) also offers simulator-based training for Heavy Earth Moving Machinery (HEMM) Operators, enhancing skill 
+development in the vernacular.
+•	 Diligent Workmen’s Inspectors Monitoring: Regular safety checks by Workmen’s Inspectors from various fields such as Mining, 
+Mechanical, and Electrical provide an all-encompassing safety review. Their findings are promptly communicated to Safety Officers 
+and Unit Heads for immediate remedial action, reinforcing a strong safety ethos.
+•	 Lighting Improvement Efforts: Frequent illumination assessments are conducted in mining areas to ensure proper lighting levels in 
+compliance with standards. The transition to LED lighting is progressively being implemented on SME machines, haul roads, and other 
+areas within both mines and thermal plants.
+•	 Daily Safety Communication via Public Address System: Safety messages and updates are broadcasted daily through the public address 
+system, enforcing a mindset of safe work practices. Each workday begins with a collective recitation of the Safety Pledge.
+•	 Safety Training for Contract Workers: In-depth safety training is provided to contract workers engaged in LHS/JT-2 Structural 
+reinforcement tasks, guaranteeing uniform safety measures during welding, cutting, and material handling.
+•	 Thorough Safety Audits: A cross-functional team regularly performs safety audits at all Mines and Thermal Power Plants, fostering 
+ongoing improvements and adherence to safety regulations.
+•	 Monthly Safety Officers Assembly: Safety Officers from all NLC units, including NTPL, NUPPL, CLUVPL, MNH, NIGEL, and NIRL convene 
+monthly under the leadership of ED/Central Safety. These meetings facilitate the exchange of knowledge, sharing of best practices, and 
+the strengthening of a proactive safety culture.
+•	 Central Safety Council (CSC) Diligence: The CSC, with members from various units, conducts detailed monthly reviews, followed by 
+presentations of their observations to unit heads and ED/Central Safety in the afternoon. This vigilant approach underscores our 
+commitment to upholding a stringent safety infrastructure.
+Leadership Indicators
+1.	Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) Workers 
+(Y/N). 
+	
+A. Employees (Yes/No): Yes 
+	
+B. Workers (Yes/No): Yes
+2.	Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value chain 
+partners.
+	
+NLCIL meticulously complies with the calculation and payment of all statutory dues related to its transactions, as per the current 
+regulations. Both internal and statutory audits thoroughly examine this process. For contract workers, division executives and HR 
+executives provide monthly approvals to confirm adherence to all statutory mandates. Payments for all kinds of work are disbursed only 
+after receiving such clearances. Additionally, regular inspections by the appropriate authorities are conducted to guarantee ongoing 
+compliance with statutory duties.
+3.	Provide the number of employees / workers having suffered high consequence work related injury / ill-health / fatalities (as reported 
+in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable employment or whose family members 
+have been placed in suitable employment:
+Category
+Total no. of affected  
+employees/ workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members 
+have been placed in  
+suitable employment
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Employees
+0
+0
+0
+0
+Workers
+3
+2
+3
+2
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+250
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+251
+4.	Does the entity provide transition assistance programs to facilitate continued employability and the management of career endings 
+resulting from retirement or termination of employment? (Yes/ No) 
+	
+Yes
+5.	Details on assessment of value chain partners:
+Category
+% of value chain partners (by value of business done with such partners) that were assessed
+Health and safety conditions
+The Company mandates that its value chain partners adhere to current regulations, which encompass health and safety 
+standards as well as working conditions. These requirements are clearly stipulated within procurement agreements. 
+Monitoring of performance encompasses a range of criteria, not limited to but inclusive of compliance with health and 
+safety protocols and working conditions regulations. While there has not been a targeted evaluation focusing solely on 
+the health and safety practices and working conditions of value chain partners, regular inspections of significant value 
+chain partners are conducted.
+Working conditions 
+6.	Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments of health 
+and safety practices and working conditions of value chain partners.
+	
+No corrective action plan has been necessitated on the above-mentioned parameters.
+Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders.
+Essential Indicators
+1.	Describe the processes for identifying key stakeholder groups of the entity. 
+	
+NLC India Limited utilizes a proactive and strategic approach to stakeholder engagement, selecting key stakeholders from a broad 
+spectrum of potential entities. The identification process hinges on a thorough assessment of the significant impact each group has on 
+the Company’s ability to create value, as well as the influence the Company has on these groups. Currently, the Company has identified 
+seven pivotal internal and external stakeholder groups, namely Employees, Government and Regulatory Authorities, Customers, Local 
+Communities and Civil Society Organizations/NGOs, Suppliers, Academic and Research Institutions, and Investors.
+2.	List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder Group
+Whether identified 
+as Vulnerable & 
+Marginalized Group 
+(Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of engagement 
+(Annually/ Half yearly/ Quarterly / 
+others – please specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Employees
+No
+E-mail, direct communication
+Engaged on a need basis depending 
+upon the purpose
+To keep employees aware 
+of key developments within 
+the organization through 
+engagement activities, training, 
+awareness, and welfare 
+programmes
+Shareholders/
+investors 
+No
+Annual General Meetings, 
+quarterly results investor meetings, 
+stock exchange intimations, 
+Emails, advertisement, Website 
+communication
+Engaged through multiple 
+regulatory meetings, other 
+engagements depending upon the 
+purpose
+Information of the financial 
+and other key parameters, 
+considering critical inputs from 
+the shareholders
+Customers
+No
+Customer meetings, website 
+publications, conferences, emails, 
+and advertisements
+On a need basis
+Business related discussions, 
+awareness and training 
+programmes, workshops, and 
+seminars.
+Government and 
+Regulatory Bodies
+No
+Compliance meetings, comments 
+given on regulatory matters, 
+industry associations, mail 
+communication
+Continual on a need basis
+Policy advocacy, statutory 
+meetings
+Community
+Yes
+CSR activities, community meetings, 
+mail communication
+Catering to the requirements as and 
+when need arises
+CSR initiatives
+Institutions
+No
+Mail communication, industry 
+association
+On a need basis
+Talent collaboration, training 
+programmes
+Suppliers
+No
+Mail communications, seminars, 
+conferences
+On a need basis
+Business related discussions, 
+awareness and training 
+programmes, workshops, and 
+seminars
+Leadership Indicators
+1.	Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or if 
+consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+The Company is committed to continuous dialogue with stakeholders regarding Environment, Social, and Governance (ESG) matters, 
+facilitated by specialized departments within the organization. NLCIL emphasizes the collection of regular feedback from stakeholders, 
+integrating their perspectives into the company’s strategic direction to maintain congruence with its mission and vision. To focus on the 
+most significant issues affecting both stakeholders and the business, internal discussions take place to identify and select the primary 
+areas of concern. Subsequently, these selected issues are tackled through engagement with pertinent stakeholders, taking into account 
+their urgency and influence.
+2.	Whether stakeholder consultation is used to support the identification and management of environmental, and social topics (Yes 
+/ No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into 
+policies and activities of the entity.
+	
+NLCIL highly values the inputs and recommendations from its diverse stakeholder base. The Company proactively interacts with 
+stakeholders to ensure their expectations are effectively reflected in its policies and actions. In response to the needs and preferences 
+voiced by stakeholders, NLCIL carries out a variety of CSR initiatives. These initiatives cover an extensive array of projects, such as 
+advancing healthcare through medical camps, establishing healthcare facilities for public hospitals, enhancing sanitation by supporting 
+the construction of toilets, providing educational assistance with scholarships for students, and executing rural development programs 
+that offer accessible social amenities in Neyveli, among others. NLCIL is committed to ongoing dialogue with the local communities, 
+contributing to the growth of a community that is both value-oriented and self-reliant.
+3.	Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized stakeholder 
+groups. 
+	
+NLCIL addresses the concerns of vulnerable / marginalized stakeholder groups, especially through the wide-ranging CSR projects. For 
+more information, refer to the CSR report.
+Principle 5: Businesses should respect and promote human rights.
+Essential Indicators
+1.	Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following format:
+Category
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Total (A)
+No. of employees / 
+workers covered (B)
+% (B/A)
+Total (C)
+No. of employees 
+/ workers covered 
+(D)
+% (D/C)
+Employees
+Permanent
+3,579
+67
+1.87%
+3,676
+49
+0
+Other than permanent 
+0
+0
+0
+0
+Total employees
+3,579
+67
+1.87%
+3,676
+49
+0
+Workers
+Permanent
+6,789
+460
+0
+7,105
+35
+0
+Other than permanent 
+0
+0
+0
+0
+Total workers 
+6,789
+460
+0
+7,105
+35
+0
+2.	Details of minimum wages paid to employees and workers, in the following format
+Category
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Total (A)
+Equal to Minimum Wage
+More than Minimum 
+Wage
+Total (D)
+Equal to Minimum Wage
+More than Minimum 
+Wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+Male
+3,268
+-
+-
+3,268
+100%
+3,357
+-
+-
+3,357
+100%
+Female
+311
+-
+-
+311
+100%
+319
+-
+-
+319
+100%
+Total
+3,579
+-
+-
+3,579
+100%
+3,676
+-
+-
+3,676
+100%
+Other than Permanent Employees
+Male
+70
+-
+-
+70
+100%
+72
+-
+-
+72
+100%
+Female
+32
+-
+-
+32
+100%
+30
+-
+-
+30
+100%
+Total
+102
+-
+-
+102
+100%
+102
+-
+-
+102
+100%
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+252
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+253
+Category
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Total (A)
+Equal to Minimum Wage
+More than Minimum 
+Wage
+Total (D)
+Equal to Minimum Wage
+More than Minimum 
+Wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Workers Permanent
+Male
+6,250
+-
+-
+6,250
+100%
+6,534
+-
+-
+6,534
+100%
+Female
+539
+-
+-
+539
+100%
+571
+-
+-
+571
+100%
+Total
+6,789
+-
+-
+6,789
+100%
+7,105
+-
+-
+7,105
+100%
+Other than Permanent Workers
+Male
+15,100
+-
+-
+15,100
+100%
+14,786
+-
+-
+14,786
+100%
+Female
+899
+-
+-
+899
+100%
+980
+-
+-
+980
+100%
+Total
+15,999
+-
+-
+15,999
+100%
+15,736
+-
+-
+15,736
+100%
+3.	Details of remuneration/salary/wages, in the following format*:
+a.	Median remuneration / wages:
+Category
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category
+Board of Directors (BoD)
+6
+2,52,679
+0
+NA
+Key Managerial Personnel 
+(Including Whole-time Directors)
+7
+2,22,985
+0
+NA
+Employees other than BoD and KMP
+3,262
+1,56,856
+343
+98,561
+Workers
+6,250
+1,16,832
+539
+72,664
+b.	Gross wages paid to females as % of total wages paid by the entity, in the following format:
+Category
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Gross wages paid to females as % of total wages
+8.25
+8.29
+4.	Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed 
+to by the business? (Yes/No) 
+NLCIL rigorously follows the principles set forth in the Constitution of India and complies with all applicable human rights legislation, 
+including the Right to Information (RTI) Act, the Prohibition of Child Labour Act, the Sexual Harassment at Workplace Act, and other 
+pertinent labor laws. The Company has instituted a specialized task force dedicated to the oversight and administration of human rights 
+matters, ensuring swift resolution of any issues that may emerge. It is significant to note that NLCIL has not encountered any stakeholder 
+grievances related to human rights infringements, highlighting its dedication to maintaining the highest ethical and legal standards in this 
+area.
+5.	Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+NLCIL has implemented a comprehensive grievance redressal system that includes the gathering complaints, their careful examination 
+through an established process, and their prompt resolution. Moreover, NLCIL rigorously complies with the redressal protocols mandated 
+by applicable human rights legislation. By adhering to these legal requirements, NLCIL ensures that issues concerning human rights are 
+resolved effectively and suitably, reinforcing its dedication to protecting and advocating for human rights within its domain of impact.
+6.	Number of Complaints on the following made by employees and workers:
+Category
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Filed during the 
+year
+Pending Resolution 
+at the end of year
+Remarks
+Filed during the 
+year
+Pending Resolution 
+at the end of year
+Remarks
+Sexual Harassment
+3
+Nil
+Nil
+1
+Nil
+Nil
+Discrimination at 
+workplace
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Child Labour
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Forced Labour/ Involuntary 
+Labour
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Wages
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Other human rights 
+related issues
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+7.	 Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, in the 
+following format:
+Category
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Total Complaints reported under Sexual Harassment on of Women at Workplace (Prevention, Prohibition and 
+Redressal) Act, 2013 (POSH)
+3
+1
+Complaints on POSH as a % of female employees / workers
+0.0000756
+0.000038
+Complaints on POSH upheld
+0
+0
+8.	Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+The Company is unwavering in its commitment to protect stakeholders from discrimination or harassment of any kind, actively taking steps 
+to avert negative outcomes. To this end, a Whistleblower policy has been established, which not only promotes the process of reporting 
+misconduct or malpractices but also offers strong safeguards for those who report in good faith. These safeguards include defense 
+against harassment, unfair treatment, or victimization, ensuring that individuals who disclose information are protected from any form of 
+retribution or adverse effects. By encouraging a secure and supportive atmosphere for voicing concerns, the Company cultivates a culture 
+of openness, responsibility, and security for all parties involved.
+9.	Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+Yes, business agreements and contracts contain human rights requirements.
+10. Assessments of the year
+Category
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labour 
+The Company is in compliance with all applicable laws
+Forced/involuntary labour 
+Sexual harassment 
+Discrimination at workplace 
+Wages 
+11. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at 
+Question 9 above. 
+Not Applicable
+Leadership Indicators
+1. Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints. 
+NLCIL is committed to upholding the core principles of human rights across all facets of its business activities. This commitment aligns 
+seamlessly with the Company’s Human Rights Statement, which acts as a directive benchmark. NLCIL emphasizes the significance of 
+fostering awareness and maintaining ethical behavior among its workforce. To this end, the Company regularly organizes training sessions 
+centered on the Code of Conduct. These efforts are designed to acquaint employees with the guiding principles and values that should 
+steer their conduct, nurturing an organizational culture that prizes responsible and ethical actions.
+2. Details of the scope and coverage of any Human rights due diligence conducted
+Nil
+3. Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with 
+Disabilities Act, 2016?
+NLCIL is dedicated to providing an accessible environment for visitors with disabilities at its Registered Office, Corporate Office, and 
+all operational units. The premises are outfitted with ramps to enable smooth navigation for specially abled. Sufficient elevators and 
+facilities are available to accommodate the unique requirements of visitors with disabilities. Acknowledging the needs of those who are 
+visually impaired, the Company offers application forms in Braille to promote inclusiveness and ensure equal access for everyone. NLCIL’s 
+commitment to accessibility includes fostering an environment that is both inviting and accommodating for differently abled individuals.
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+254
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+255
+4. Details on assessment of value chain partners:
+Category
+% of value chain partners (by value of business done with such partners) that were assessed 
+Sexual harassment  
+NLCIL prioritizes ensuring that its value chain partners adhere to the same values, principles, and business ethics that 
+the Company itself maintains. Although a targeted assessment of value chain partners has not been carried out, specific 
+agreements exist within certain lending arrangements to meticulously oversee these aspects. These provisions mandate 
+that NLCIL's partners maintain elevated standards of behavior and ethics in all their business interactions, thereby fostering 
+a culture of honesty and responsible business conduct throughout the value chain.
+Discrimination at workplace 
+Child labour 
+Forced/involuntary labour 
+Wages 
+Others – please specify
+5. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at 
+Question 4 above.
+Not Applicable
+Principle 6:  Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1. Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2023-24 
+Current Financial 
+Year 
+FY 2022-23 
+Previous Financial 
+Year
+From renewable sources
+Total electricity consumption (A) (GJ)
+34,312
+43,117
+Total fuel consumption (B) (GJ)
+-
+-
+Energy consumption through other sources (C) (GJ)
+-
+-
+Total energy consumed from renewable sources (A+B+C) (GJ)
+34,312
+43,117
+From non-renewable sources
+Total electricity consumption (D) (GJ)
+1,523
+1,641
+Total fuel consumption (E) (GJ)
+24,85,27,811
+27,62,41,506
+Energy consumption through other sources (F)
+-
+-
+Total energy consumed from non-renewable sources (D+E+F) (GJ)
+24,85,29,334
+27,62,43,147
+Total energy consumed (A+B+C+D+E+F) (GJ)
+24,85,63,645
+27,62,86,265
+Energy intensity per rupee of turnover (Total energy consumed / Revenue from operations)
+0.00236
+0.00213
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total energy consumed / 
+Revenue from operations adjusted for PPP)
+NA
+NA
+Energy intensity in terms of physical output – Energy consumption per unit of gross power generated (GJ/Gross 
+power generated in kWh)
+0.0127
+0.0126
+Energy intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+The data for FY 2022-23 has been revisited and revised in this year’s report. IPCC factors have been used to arrive at the energy consumption 
+from fuels.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency
+No. However, NLCIL intends to have an independent assessment carried out by external agencies.
+2. Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade (PAT) 
+Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets 
+have not been achieved, provide the remedial action taken, if any. 
+TPS-I Expn
+•	 TPS 1 Expansion is a Designated Consumer (DC) under PAT scheme of the Government of India. 
+•	 Target achieved in PAT 1 Cycle (2012-13 to 2014-15) and also earned 3212 Energy Savings Certificate. 
+•	 Target not achieved in PAT II Cycle (2016-17 to 2018-19) and 17970 no. of ESCert purchased. 
+•	 Remedial measures viz. heat rate improvement by turbine overhaul, energy efficiency coating in circulating water pumps, fixing of 
+capacitor banks for voltage improvement, replacement of conventional lamps with LED lamps etc are being carried out. 
+TPS-II
+•	 TPS-II is a Designated Consumer (DC) under PAT scheme of the Government of India. 
+•	 In PAT cycle-I (2012-13 to 2014-15), TPS-II had achieved the Net Heat Rate(NHR) target of 3148 kcal/kWhr. In this cycle, TPS-II was 
+credited with 535 ESCert. 
+•	 In PAT cycle-II (2016-17 to 2018-19), TPS-II could not achieve the Net Heat Rate target of 3097.48 kcal/kWhr. In this cycle, due to non-
+achievement of NHR target, 69365 ESCert were purchased. 
+•	 Remedial measures viz. turbine overhaul to improve heat rate, RAPH basket cleaning and seal replacement, arresting air ingress in 
+boilers, replacement of conventional lamps with LED lamps, among others are being carried out.
+3. Provide details of the following disclosures related to water, in the following format:
+Parameter 
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Water withdrawal by source (in Million litres)
+(i) Surface water
+10,240
+8,505
+(ii) Groundwater
+146
+22
+(iii) Third party water
+0
+0
+(iv) Seawater / desalinated water
+0
+0
+(v) Others (Rainwater storage)
+1,19,262
+1,09,774
+Total volume of water withdrawal (in kiloliters) (i + ii + iii + iv + v)
+1,29,648
+1,18,301
+Total volume of water consumption (in Million liters)
+90,898
+87,085.94
+Water intensity per rupee of turnover (Total water consumption / Revenue from operations)
+0.00000086
+0.00000067
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total water consumption / 
+Revenue from operations adjusted for PPP)
+NA
+NA
+Water intensity in terms of physical output (ML/kWh)
+0.0000046
+0.0000040
+Water intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+Data on water consumption for FY 2022-23 was revisited and revised in this year’s report.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency
+No. However, NLCIL intends to have an independent assessment carried out by an external agencies.
+4. Provide the following details related to water discharged:
+Parameter
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Water discharge by destination and level of treatment (in kilo liters)
+(i) To Surface water
+0
+0
+No treatment
+0
+0
+With treatment – please specify level of treatment
+0
+0
+(ii) To Groundwater
+0
+0
+No treatment
+0
+0
+With treatment – please specify level of treatment
+0
+0
+(iii) To Seawater
+0
+0
+No treatment
+0
+0
+With treatment – please specify level of treatment
+0
+0
+(iv) Sent to third parties 
+0
+0
+No treatment (Water sent for treatment to Central Effluent Treatment Plant) *
+0
+0
+With treatment – please specify level of treatment
+48,962
+39527
+(v) Others
+0
+0
+No treatment
+0
+0
+With treatment – Tertiary treatment
+0
+0
+Total water discharged (in million liters) 
+48,962
+39527
+Data on water treatment for FY 2022-23 was revisited and revised in this year’s report.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency.
+No, however NLCIL intends to have an independent assessment carried out by external agencies.
+5. Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation. 
+The Company is yet to implement Zero Liquid Discharge. However, various steps are being undertaken to reduce consumption of water 
+and re-use treated water for green belt development.
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+256
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+257
+6. Please provide details of air emissions (other than GHG emissions) by the entity, in the following format*:
+Parameter 
+Please specify unit 
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+NOx 
+µg/m3
+110-395
+110-478
+SOx 
+µg/m3
+747-2345*
+741-2528*
+Particulate matter (PM)
+µg/m3
+35.35-108
+37-120
+Persistent organic pollutants (POP) 
+NA
+NA
+NA
+Volatile organic compounds (VOC) 
+NA
+NA
+NA
+Hazardous air pollutants (HAP)
+NA
+NA
+NA
+* FGD implementation is under progress for reduction of SO2 emissions
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency.
+Yes. Carried out by TNPCB, 3 rd party laboratories. 
+7. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit 
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Total Scope 1 emissions (Break-up of the GHG into CO2 , CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+2,51,54,950
+2,79,78,031
+Total Scope 2 emissions (Break-up of the GHG into CO2 , CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+303
+324
+Total Scope 1 and Scope 2 emissions
+Metric tonnes of CO2  
+equivalent
+2,51,55,253
+2,79,78,354
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover (Total 
+Scope 1 and Scope 2 GHG emissions / Revenue from operations)
+Kg Per ₹
+0.00024
+0.00022
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover adjusted 
+for Purchasing Power Parity (PPP)  (Total Scope 1 and Scope 2 GHG emissions / 
+Revenue from operations adjusted for PPP)
+NA
+NA
+NA
+Total Scope 1 and Scope 2 emission intensity in terms of physical output 
+(tCO2 e/kWh)
+tCO2 e/kWh
+0.001287
+0.001274
+Total Scope 1 and Scope 2 emission intensity (optional) – the relevant metric 
+may be selected by the entity
+NA
+-
+-
+Data on emissions for FY 2022-23 was revisited and revised in this year’s report. IPCC and CEA factors have been considered for calculation 
+of scope 1 and scope 2 emissions respectively.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency.
+No. However, NLCIL intends to have an independent assessment carried out by an external agency.
+8. Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details. 
+•	 NLCIL is committed to following government regulations and protocols in its mining operations, while also actively engaging in various 
+environmental and sustainability efforts. These efforts include the adoption of clean energy solutions for mining processes, extensive 
+creation of green belts, biological restoration of decommissioned mine lands for agricultural use, and the incorporation of renewable 
+energy sources like wind and solar power.
+•	 NLCIL’s extensive green belt serves as an effective carbon sink, markedly enhancing the air quality in nearby regions. Annually, the 
+company reclaims around 100 hectares of land, planting 2,500 trees per hectare in accordance with the guidelines set by the Ministry.
+•	 In the thermal power stations, NLCIL utilizes state-of-the-art technologies such as Electrostatic Precipitators (ESP), Super Critical Boilers, 
+and is in the process of adopting Flue Gas Desulfurization (FGD) to ensure emissions remain below the stipulated standards.
+•	 Every NLCIL unit is actively engaged in energy-saving practices to further diminish greenhouse gas (GHG) emissions.
+•	 NLCIL’s venture into renewable energy marks a significant step in reducing the country’s dependence on coal-based fuels. The company 
+has established solar power plants with a capacity of 1,380.06 MW and wind power plants with a capacity of 51 MW across various 
+sites. Moreover, battery-operated cars have been introduced at the NLCIL General Hospital to reduce the carbon footprint typically 
+associated with traditional vehicles.
+•	 Expansion into Renewable Energy NLCIL’s forward-looking goals for transitioning to renewable energy generation will play a crucial 
+role in decreasing reliance on coal and, most importantly, will contribute to a substantial reduction in the industry’s carbon footprint 
+in the near future.
+•	 NLCIL is progressing on 510 MW project under the CPSU scheme and shall execute in three phases across locations including Rajasthan, 
+Gujarat and Neyveli. Moreover, the Company emerged as successful bidder for 150 MW Hybrid project under the Solar Energy 
+Corporation of India (SECI) framework.
+•	 By 2030, we plan to increase the renewable capacity from 1431 MW to 10,110 MW by implementing various Solar & Wind Projects. At 
+present 2,110 MW of RE projects are under implementation. 
+9. Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+0
+0
+E-waste (B)
+10.04
+12.91
+Bio-medical waste (C)
+11.196
+12.3
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+60.59
+21.57
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Haz. Waste from process + Haz. Waste from pollution control equipment’s, + Filter bed 
+sand+ Filter bags etc.  (G)
+0
+0
+Transformer Oil
+0
+0
+Used Oil/ Spent resin
+77.46
+91.62
+Other Non-hazardous waste generated (H). MS Scrap + Aluminum scrap (Break-up by composition i.e., by 
+materials relevant to the sector)
+0
+0
+Total (A+B + C + D + E + F + G + H) 
+159.286
+138.4
+Waste intensity per rupee of Turnover 
+(Total waste generated in Metric tonnes / Revenue from operations in Cr ₹ )
+0.0000000015
+0.0000000011
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) 
+(Total waste generated / Revenue from operations adjusted for PPP)
+NA
+NA
+Waste intensity in terms of physical output (MT/kWh)
+0.0000000081
+0.0000000063
+Waste intensity (optional) –the relevant metric may be selected by the entity
+-
+-
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in metric tonnes)
+Category of waste
+(i) Recycled
+0
+0
+(ii) Re-used
+0
+0
+(iii) Other recovery operations
+-
+-
+Total 
+0
+0
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) Incineration
+0
+0
+(ii) Landfilling
+0
+0
+(iii) Other disposal operations 
+-
+-
+E-waste
+10.04
+12.91
+Biomedical waste
+11.196
+12.3
+Battery 
+60.59
+21.57
+Hazardous
+77.46
+91.62
+Total
+159.286
+138.4
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency 
+No. However, NLCIL intends to have an independent assessment carried out by an external agency.
+10. Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your company 
+to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to manage such wastes.
+•	 The Company’s mining operations prioritize the preservation of valuable topsoil from mined-out land, which is subsequently reused 
+for land reclamation purposes. NLCIL implements contemporary techniques for slope stabilization and topsoil preservation in mines to 
+foster green cover and environmental sustainability.
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+258
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+259
+•	 NLCIL is actively involved in organic and bio-farming on rehabilitated land, maintaining soil fertility and promoting sustainable agriculture 
+in an environmentally friendly way.
+•	 In Neyveli Township, NLCIL has built a modern sewage treatment facility with a 30 MLD (million liters per day) capacity. The output from 
+this plant, including treated water and manure, is used for developing green zones and for horticultural purposes, including nurturing 
+plant nurseries.
+•	 An extensive Integrated Solid Waste Management System (ISWMS) is planned for the entire Neyveli Township, informed by a pilot 
+study and historical waste data. This system will feature a biogas plant that processes domestic and municipal solid waste to generate 
+energy, as well as facilities for converting waste to electricity to harness greenhouse gases, and for producing bio-manure through 
+vermi-composting and micro-nutrient composting with biochest.
+•	 For over sixty years, NLC India Limited has been in step with the national vision of a “Clean & Green India,” consistently adopting cutting-
+edge environmental technologies.
+•	 NLCIL has completed a research and development project in partnership with the Vellore Institute of Technology (VIT), which repurposes 
+bottom ash from thermal power stations as an alternative to fine aggregates (sand) in construction. An experimental building of 920 
+square feet has been constructed using bottom ash in place of fine aggregates.
+•	 NLCIL ensures 100% utilization of the fly ash produced by its thermal power plants by distributing it to brick and cement industries, 
+and by using it internally to manufacture fly ash bricks, solid blocks, RCC (reinforced cement concrete) door and window frames, lamp 
+posts, slabs, and other items.
+11. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere 
+reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are 
+required, please specify details in the following format:
+S. No. Location of operations/offices Type of operations
+Whether the conditions of environmental approval / clearance are being complied 
+with? (Y/N) If no, the reasons thereof and corrective action taken, if any.
+1.
+Talabira II & III OCP
+Mining
+Yes. Obtained Environment Clearance & Forest Clearance and the conditions are being 
+compiled by the unit.
+2.
+NTTPP, Odisha
+Power Generation
+Yes. Obtained EC on 02-02-2021 and WLC on 13-10-2020
+12. Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current financial 
+year:
+Name and brief 
+details of project
+EIA Notification 
+No.
+Date
+Whether conducted by independent 
+external agency (Yes / No)
+Results communicated in public 
+domain (Yes / No)
+Relevant Web link
+Environmental Impact assessment was not undertaken this year
+13. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention and 
+Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). If not, 
+provide details of all such non-compliances, in the following format:
+S. No. Specify the law / regulation / guidelines 
+which was not complied with
+Provide details of the non-compliance
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution 
+control boards or by courts
+Corrective action 
+taken, if any
+Not Applicable
+Leadership Indicators
+1. Water withdrawal, consumption and discharge in areas of water stress (in kilo liters): 
+For each facility / plant located in areas of water stress, provide the following information: 
+(i)	
+Name of the area: Not Applicable
+(ii)	
+Nature of operations: Not Applicable
+(iii)	 Water withdrawal, consumption, and discharge in the following format:
+Parameter
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+Currently, no plant 
+is located in a water 
+stressed area.
+Currently, no plant 
+is located in a water 
+stressed area.
+(ii) Groundwater
+(iii) Third party water
+(iv) Seawater / desalinated water
+(v) Others 
+Total volume of water withdrawal (in kilolitres)
+Total volume of water consumption (in kilolitres)
+Water intensity per rupee of turnover (Water consumed / turnover)
+Water intensity (optional) – the relevant metric may be selected by the entity
+Water discharge by destination and level of treatment (in kilolitres)*
+(i) Into Surface water
+Currently, no plant 
+is located in a water 
+stressed area.
+Currently, no plant 
+is located in a water 
+stressed area.
+- No treatment
+- With treatment – please specify level of treatment
+(ii) Into Groundwater
+- No treatment
+- With treatment – please specify level of treatment
+(iii) Into Seawater
+- No treatment
+- With treatment – please specify level of treatment
+(iv) Sent to third parties 
+- No treatment
+- With treatment – please specify level of treatment
+(v) Others
+- No treatment
+- With treatment – please specify level of treatment
+Total water discharged (in kilolitres) 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency. NA
+2. Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter 
+Unit 
+FY 2023-24 
+Current Financial 
+Year
+FY 2023 Previous 
+Financial Year
+Total Scope 3 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if 
+available)
+Metric tonnes of 
+CO2 equivalent 
+NLCIL is in the process of collating data 
+for accounting scope 3 emissions for the 
+relevant emission categories
+Total Scope 3 emissions per ₹ of turnover
+tCO2e/₹ turnover
+Total Scope 3 emission intensity (optional) – the relevant metric may be selected by the 
+entity
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency.
+No. However, NLCIL intends to have an independent assessment carried out by an external agencies.
+3. With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details of significant 
+direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities. 
+No project of NLCIL is located in an eco-sensitive area
+4. If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or 
+reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as outcome of such 
+initiatives, as per the following format:
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+260
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+261
+S. No Initiative undertaken 
+Details of the initiative (Web-link, if any, may be provided along-with summary) Outcome of the initiative 
+1.
+Green Hydrogen
+Hydrogen that is generated using electrolysis powered by renewable energy sources, 
+resulting in zero emissions, is referred to as green hydrogen. This production process 
+does not release any greenhouse gases, contributing to the decarbonization of 
+multiple industries. NLC India Limited appointed. Engineers India Limited as the 
+Project Management Consultancy to oversee the establishment of Proton Exchange 
+Membrane (PEM) electrolyzer-based green hydrogen demonstration facility in 
+Neyveli, with a project duration of eight months.
+Established 
+a 
+4 
+MW 
+Proton 
+Exchange 
+Membrane 
+(PEM) 
+electrolyzer-based green hydrogen 
+demonstration facility in Neyveli.
+2.
+Study on Development 
+of Hi-Tech Agriculture 
+using Hydroponics / 
+Aeroponics
+In an effort to rehabilitate the land, an advanced agricultural setup employing 
+hydroponics and aeroponics methods is being implemented. The main objective of 
+this endeavor is to create a hydroponic farming system in the restored section of 
+Mine-IA, which will be equipped with Internet of Things (IoT) technology to enable 
+the live collection of data and monitoring of plant development.
+In-depth studies suggest that this 
+novel 
+approach 
+has 
+significant 
+potential 
+to 
+boost 
+revenue 
+generation while making effective 
+use of scarce land resources.
+3.
+Activated carbon 
+development using 
+lignite – HA sludge
+The creation of activated carbon from lignite and Humic Acid (HA) sludge is an 
+important advancement in utilizing waste effectively and supporting environmental 
+well-being. When humic acid is extracted, the leftover HA sludge is high in carbon. 
+The idea is to convert this carbon-dense substance into activated carbon using 
+a suitable method. Activated carbon is sought after for its extensive porosity and 
+large surface area, which make it excellent for adsorbing impurities, thus making it 
+valuable for water and air purification.
+This initiative repurposes HA sludge, 
+giving waste byproducts a valuable 
+new use and diminishing their 
+environmental impact. It offers 
+a cost-effective and sustainable 
+method 
+for 
+creating 
+activated 
+carbon, improving green waste 
+management 
+practices, 
+and 
+conserving resources.
+4.
+Lignite to Syngas for 
+power generation 
+The Integrated Gasification Combined Cycle (IGCC) technology transforms carbon-
+rich materials into a hydrogen-rich synthesis gas (syngas), which is subsequently 
+utilized to produce electricity in a combined cycle power station. This method 
+enables the effective use of diverse carbon-based fuels and facilitates more efficient 
+capture and control of pollutants compared to traditional coal or lignite-fired power 
+plants. In line with this, a work order was issued to BHEL to conduct a feasibility study 
+for the development of an IGCC pilot plant that will generate power from lignite.
+Establishment of a pilot plant using 
+Integrated Gasification Combined 
+Cycle 
+(IGCC) 
+technology 
+for 
+electricity generation from lignite. 
+This will help in effective and 
+efficient use for carbon related fuels 
+and reduce the release of pollutants 
+in the environment.
+5.
+Development of eco-
+friendly geo-polymer 
+ash based green bricks 
+using solar heating
+The creation of environmentally friendly geo-polymer bricks made from ash and 
+cured with solar energy presents a sustainable method for brick production. These 
+bricks incorporate fly ash, a byproduct of thermal power stations, significantly 
+decreasing their ecological footprint. By substituting traditional kiln firing with solar 
+heating, the process cuts down on energy use and carbon output. This inventive 
+method not only lessens the carbon footprint but also enhances the effective use of 
+waste. These green bricks, which demand less water and raw materials, offer a more 
+eco-conscious choice for building, aiding in the advancement of a more sustainable 
+tomorrow.
+Fly ash generated is utilized thereby 
+ensuring waste management and 
+environmental sustainability
+5. Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link. 
+NLC India Limited has put into action an all-encompassing disaster management strategy, with the foremost aim of protecting the safety 
+and health of employees at the facility. This strategy includes a variety of goals such as providing quick and effective emergency responses, 
+reducing environmental harm, lessening the loss of property for both the facility and the nearby community, executing rescue missions, 
+and administering medical care to those injured.
+The disaster management strategy prepares for a broad spectrum of potential catastrophes, including natural phenomena like geological, 
+hydrological, climatic, and atmospheric events, as well as human-induced disasters of a sociological or technological kind. The primary goal 
+of this strategy is to promote a forward-thinking, comprehensive, and coordinated approach to enhance readiness for disasters, lessen their 
+impact, and improve emergency reactions in case of unexpected crises. It acts as an extensive guide and reference for power sector utilities, 
+addressing all aspects of the disaster management cycle, as outlined in the “Crisis and Disaster Management Plan for the power sector.”
+6. Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or adaptation 
+measures have been taken by the entity in this regard?
+NLC India Limited is taking several steps to reduce its environmental footprint, including the adoption of clean renewable energy sources, 
+the use of Circulating Fluidized Bed Combustion (CFBC) and supercritical boilers, the practice of eco-friendly mining, and the installation 
+of pollution control systems like dust suppression mechanisms, bag filters, and water jets/sprinklers.
+The Company conducts regular assessments to monitor the effectiveness of these green initiatives in reducing environmental stress. 
+The results of these assessments are communicated to regulatory bodies through various reports such as Environmental Statements, 
+Environmental Compliance reports, and Fly Ash Reports. Some of these reports, including the Fly Ash Reports, are also accessible on 
+NLCIL’s website for public viewing.
+NLCIL is actively contributing to the resolution of global environmental challenges by undertaking numerous projects. A key focus is 
+expanding the renewable energy capacity to significantly cut down on greenhouse gas emissions. NLCIL has made strides in this area by 
+installing 1,380.06 MW of solar power capacity and 51 MW of wind power capacity, thereby reinforcing its commitment to renewable 
+energy.
+To address pollution from its thermal power projects, NLCIL has introduced environmental safeguards such as high stacks for the dispersion 
+of gaseous and particulate emissions, electrostatic precipitators for dust management, and the commencement of flue gas desulfurization 
+(FGD) processes to limit sulfur dioxide (SO2) emissions.
+In the mining operations, NLCIL has adopted environmental protection measures like water sprinklers for dust suppression and the creation 
+of lush green belts along the roads within and surrounding the mining areas.
+NLCIL also prioritizes environmental education and has organized various programs on topics like environmental and pollution control, 
+energy saving, co-generation methods, mining mitigation, and environmental impact assessment.
+Through these comprehensive measures and initiatives, NLCIL is diligently pursuing environmental sustainability and fostering responsible 
+practices in all its operational activities.
+7. Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental impacts.
+Nil
+Principle 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent
+Essential Indicators
+1 a. Number of affiliations with trade and industry chambers/ associations. 
+NLCIL has 12 affiliations with trade and industry chambers/associations.
+b. List the top 10 trade and industry chambers/ associations (determined based on the total members of such a body) the entity is a 
+member of/ affiliated to.
+S. No. Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ associations (State/National)
+1.
+The Employers Federation of Southern India (EFSI)
+National
+2.
+Quality Circle Forum of India (QCFI)
+National
+3.
+All India Management Association (AIMA)
+National
+4.
+Power Sector Skill Council (PSSC)
+National
+5.
+Skill Council for Mining Sector (SCMS)
+National
+6.
+National Institute of Personnel Management (NIPM)
+National
+7.
+Standing Conference of Public Enterprises (SCOPE)
+National
+8.
+Central Board of Irrigation and Power (CBIP)
+National
+9.
+Project Management Associates (PMA)
+National
+10.
+Public Relations Society of India (PRSI)
+National
+11.
+National Safety Council (NSC)
+National
+12.
+All India Organization of Employer’s (AIOE)
+National
+2. Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, based on 
+adverse orders from regulatory authorities.
+Name of the Authority
+Brief of the Case
+Corrective Action Taken
+Not Applicable
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+262
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+263
+Leadership Indicators
+1. Details of public policy positions advocated by the entity:
+S. No. Public policy advocated 
+Method resorted for such 
+advocacy
+Whether information 
+available in the public 
+domain? (Yes/No)
+Frequency of Review by 
+Board (Annually/ Half 
+yearly/ Quarterly / Others 
+– please specify) 
+Web Link, if available
+The Company is deeply involved in engaging with stakeholders, working alongside industry players and government agencies to provide meaningful 
+input into the creation of policies concerning energy, economic reforms, water management, mining methods, sustainability, and both conventional and 
+alternative energy sources. Additionally, the Company is proactive in its interactions with trade and industry groups to influence the regulatory framework 
+and policy decisions related to the power sector. Through its active participation in these dialogues, the Company aims to aid in the development of robust 
+and influential policies that advance the interests of the industry while encouraging sustainable operations.
+Principle 8: Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1. Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial year.
+Name and brief details of project SIA Notification No. Date of notification
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results communicated 
+in public domain (Yes 
+/ No)
+Relevant Web Link
+Not applicable, as there were no projects that required SIA to be undertaken under law
+2. Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity, in 
+the following format:
+S. No. Name of Project for which R&R is ongoing 
+State
+District
+No. of Project Affected 
+Families (PAFs) 
+% of PAFs covered 
+by R&R 
+Amounts paid to PAFs 
+in the FY (In ₹)
+1
+Mine II - NLCIL
+Tamil Nadu
+Cuddalore
+105
+30.48%
+4.46 Cr
+2
+Talabira II and III OCP - NLCIL
+Odisha
+Sambalpur
+1,512
+12.03%
+10.06 Cr
+Jharsuguda
+1,461
+Not yet started
+-
+3
+NLC Talabira Thermal Power Project
+Odisha
+Jharsuguda
+1,305
+8.20%
+13.4 Cr
+Sambalpur
+284
+Not yet started
+-
+3. Describe the mechanisms to receive and redress grievances of the community.
+NLC India Limited actively engages with the community through various Corporate Social Responsibility (CSR) initiatives, managed by 
+a designated CSR head who acts as the central figure for community grievance redressal. Community members have the option to 
+communicate with NLCIL via program officers who are experts in specific domains. These officers serve as the first point of contact for 
+the community to express their concerns and grievances, which can be conveyed either verbally or in writing. Collaborating closely with 
+the CSR head, the program officers are committed to ensuring that all issues are listened to, comprehensively addressed, and resolved to 
+the community’s contentment. This system establishes efficient communication pathways, guaranteeing that community members have 
+straightforward access to NLCIL for sharing their input and grievances.
+4. Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Parameter
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Directly sourced from MSMEs/ small producers 
+50.53%
+49.95%
+Directly from within India
+99.41%
+99.95%
+Data for FY 2022-23 has been revisited and revised in this year’s report.
+5. Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed on a permanent 
+or non-permanent / on contract basis) in the following locations, as % of total wage cost:
+Location
+FY 2023-24 
+Current Financial 
+Year
+FY 2022-23 
+Previous Financial 
+Year
+Rural
+0.002%
+-
+Semi-urban
+0.015%
+0.11%
+Urban
+0.15%
+-
+Metropolitan
+0.01%
+-
+Note – Data disclosed includes the information on the job created for the particular year.
+*(Place to be categorized as per RBI Classification System - rural / semi-urban / urban / metropolitan)
+Leadership Indicators
+1. Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments (Reference: 
+Question 1 of Essential Indicators above):
+Details of negative social impact identified 
+Corrective action taken 
+Not Applicable
+2. Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by 
+government bodies:
+State
+Aspirational District
+Amount Spent (D In Lakh)
+Swachhata related activities at two locations of swachh iconic places(SIP) in Rajasthan state
+Jaisalmer district, Rajasthan
+50.38
+Financial Support to help in promoting the quality education for students from Tribal areas 
+of Odisha, Saraswathi Sihshu Vidya Mandir pariasalana samithi, Balimela
+Malkangiri district, Odisha
+78.30
+3. (a) Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising marginalized 
+/vulnerable groups? (Yes/No) 
+No
+(b) From which marginalized /vulnerable groups do you procure? 
+No
+(c) What percentage of total procurement (by value) does it constitute? 
+Not Applicable
+4. Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current financial 
+year), based on traditional knowledge:
+S. No. Intellectual Property based on traditional knowledge Owned/Acquired(Yes/No) Benefit shared (Yes/No) Basis of calculating benefit share 
+Nil
+5. Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein usage 
+of traditional knowledge is involved.
+Name of authority
+Brief of the Case
+Corrective action taken
+NA
+6. Details of beneficiaries of CSR Projects:
+S. No. CSR Projects
+No. of persons benefited from CSR 
+Projects
+% of beneficiaries from vulnerable 
+and marginalized groups
+1.
+Promoting Healthcare
+3,39,016 People,143 villages were benefitted
+70%
+2.
+Providing Safe Drinking Water
+62,248 People were benefitted
+3.
+Promoting Sanitation
+13,025 People were benefitted
+4.
+Promoting Education
+38,365 People were benefitted
+5.
+Promoting Special Education
+145 People were benefitted
+6.
+Promoting Employment Enhancing Skills
+1,324 People were benefitted
+7.
+Promoting gender equality, empowering women setting up 
+homes and hostels for women and orphans; setting up old age 
+homes, day care centers and such other facilities for senior 
+citizens
+2,000 Widows were befitted 
+8.
+Ensuring environmental sustainability, ecological balance, 
+protection of flora and fauna Animal welfare, Agro-forestry, 
+Conservation of natural resources, maintaining quality of soil, 
+air and water including contribution to the Clean Ganga Fund 
+set up by the Central Government for the rejuvenation of river 
+Ganga
+1,000 School Children were benefitted
+9.
+Protection of national heritage, art and culture
+5,000 tourists and general public were 
+benefitted 
+10.
+Measures for the benefit of armed forces veterans, war 
+widows and their dependents;
+42 Students were benefitted
+11.
+Promoting Rural Sports
+10,330 People were benefitted
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+264
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+265
+S. No. CSR Projects
+No. of persons benefited from CSR 
+Projects
+% of beneficiaries from vulnerable 
+and marginalized groups
+12.
+Rural development projects, Providing Infrastructure, Roads 
+and Access
+67,600 People were benefitted
+13.
+Water Resource Augmentation
+General Public 
+Principle 9: Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1. Describe the mechanisms in place to receive and respond to consumer complaints and feedback. 
+The Central Electricity Regulatory Commission (CERC) acts as the supervisory body for managing the tariff structures of power generation 
+companies that are under the ownership or control of the Central Government. Power plants are mandated to lodge applications for tariff 
+determination, which may include generating tariff applications, miscellaneous applications, or review applications.
+When there are objections to the decisions rendered by the Central and State Electricity Regulatory Commissions, the Appellate Tribunal 
+for Electricity (APTEL) steps in as a specialized appellate authority with expertise across multiple disciplines. Established in 2005, APTEL’s 
+primary responsibility is to adjudicate appeals, which are typically initiated by Distribution Companies (DISCOMs) or power generation 
+stations, especially concerning disputes over capacity and energy charges that CERC may have rejected. The appeal procedure entails the 
+filing of legal documents, known as pleadings, followed by a series of hearings. After the hearings, APTEL may decide to send the case back 
+to the CERC for additional review and to ensure adherence to its directives.
+2. Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:
+Parameter
+As a percentage to total turnover
+Environmental and social parameters relevant to the product Not applicable as NLC India Limited is in the business of producing electricity and selling 
+Coal and Lignite. There are no shelf goods or services that may carry information
+Safe and responsible usage
+Recycling and/or safe disposal
+3. Number of consumer complaints in respect of the following:
+FY 2023-24 (Current Financial Year)
+Remarks 
+FY 2022-23 (Previous Financial Year)
+Remarks
+Received during the 
+year
+Pending resolution at 
+end of year
+Received during the 
+year
+Pending resolution at 
+end of year
+Data privacy
+NA
+NA
+NA
+NA
+NA
+NA
+Advertising
+NA
+NA
+NA
+NA
+NA
+NA
+Cyber-security
+NA
+NA
+NA
+NA
+NA
+NA
+Delivery of essential services
+NA
+NA
+NA
+NA
+NA
+NA
+Restrictive Trade Practices
+NA
+NA
+NA
+NA
+NA
+NA
+Unfair Trade Practices
+NA
+NA
+NA
+NA
+NA
+NA
+Other 
+NA
+NA
+NA
+NA
+NA
+NA
+4. Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+Not Applicable
+Forced recalls
+5. Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a web-
+link of the policy.
+Yes. NLCIL has developed a Cyber Security & Data Privacy Policy reflecting on its commitment to safeguard and restrict access to sensitive 
+data 
+Link: https://www.nlcindia.in/new_website/cyber-policy-17-22.pdf
+6. Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; cyber 
+security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory authorities 
+on safety of products / services.
+Nil
+7. Provide the following information relating to data breaches:
+a. Number of instances of data breaches – Not Applicable
+b. Percentage of data breaches involving personally identifiable information of customers - Not Applicable
+c. Impact, if any, of the data breaches - Not Applicable
+Leadership Indicators
+1. Channels / platforms where information on products and services of the entity can be accessed (provide web link, if available). 
+All information regarding business of NLC India Limited can be accessed through the Company’s Website www. nlcindia.in and in its periodic 
+disclosures such as the annual report and the integrated report. 
+Link - https://www.nlcindia.in
+2. Steps taken to inform and educate consumers about safe and responsible usage of products and/or services. 
+Not Applicable. NLCIL’s major services include Electricity generation it is not directly involved in the distribution services to the consumer.
+3. Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services. 
+Not Applicable. NLCIL’s major services include Electricity generation it is not directly involved in the distribution services to the consumer.
+4. Does the entity display product information on the product over & above what Is mandated as per local laws? (Yes/No/Not Applicable) 
+If yes, provide details in brief? Did your entity carry out any survey with regard to consumer satisfaction relating to the major products 
+/ services of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No) 
+Not Applicable. NLCIL’s major services include Electricity generation it is not directly involved in the distribution services to the consumer.
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+Home
+Overview
+Value 
+Creation
+Statutory 
+Reports
+Financial 
+Statements
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+266
+68
+th 
+Integrated Annual Report FY 2023-24
+Powering Possibilities, Delivering Sustainability
+267

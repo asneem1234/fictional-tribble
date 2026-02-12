@@ -1,0 +1,3174 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SYMBOL: NPST                                                                                                                                 Dated: 23.08.2024 
+ISIN: INE0FFK01017                                                                                           
+ 
+To,  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Manager-Listing Department, 
+The National Stock Exchange of India Limited, 
+Exchange Plaza, NSE Building, 
+Bandra Kurla Complex, 
+Bandra East, Mumbai-400 051 
+Fax: 022-26598237, 022-26598238 
+ 
+Subject: Business Responsibility and Sustainability Report for financial year 2023-24 
+ 
+Respected Sir/Madam, 
+ 
+Pursuant to Regulation 34 of the Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, we are submitting herewith the Business Responsibility and 
+Sustainability Report for financial year 2023-24. 
+ 
+The same will also be made available on the website of the Company at www.npstx.com/investor-
+desk/notices-announcement. 
+ 
+We request you to kindly take the same on records. 
+ 
+ 
+Thanking You, 
+Yours Faithfully, 
+For Network People Services Technologies Limited 
+ 
+ 
+ 
+Chetna Chawla 
+Company Secretary and Compliance Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHETNA AVINASH 
+CHAWLA
+Digitally signed by CHETNA 
+AVINASH CHAWLA 
+Date: 2024.08.23 15:34:23 
++05'30'
+SECTION A: GENERAL DISCLOSURES
+I.
+Details of the listed entity
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L74110MH2013PLC248874
+2
+Name of the Listed Entity
+NETWORK PEOPLE SERVICES TECHNOLOGIES
+LIMITED
+3
+Date of Incorporation
+04-10-2013
+4
+Registered office address
+OFF NO.427/428/429,A-WING, NSIL,LODHA SUPREMUS
+II ROAD NO.22,WAGLE INDUSTRIAL ESTATE,THANE,
+(W)-400604
+5
+Corporate address
+OFF NO.427/428/429,A-WING, NSIL,LODHA SUPREMUS
+II ROAD NO.22,WAGLE INDUSTRIAL ESTATE,THANE,
+(W)-400604
+6
+E-mail
+cs@npstx.com
+7
+Telephone
++ 91 2261482100
+8
+Website
+www.npstx.com
+9
+Financial year for which reporting is being done
+Start date
+End date
+Current Financial Year
+01-04-2023
+31-03-2024
+Previous Financial Year
+01-04-2022
+31-03-2023
+Prior to Previous Financial year
+01-04-2021
+31-03-2022
+10
+Name of the Stock Exchange(s) where shares are listed
+Details of the Stock Exchanges
+Sr. No.
+Name of the Stock exchange
+Description of other stock exchange
+Name of the Country
+1
+NSE
+11
+Paid-up Capital (In Rs)
+193860000.00
+12
+Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on the BRSR report
+Name
+Mrs. Chetna Chawla Contact No: + 91 2261482100 Email Id:
+cs@npstx.com
+Contact
+Contact No: + 91 2261482100
+E mail
+cs@npstx.com
+13
+Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e.
+only for the entity) or on a consolidated basis (i.e. for the entity and all the entities which
+form a part of its consolidated financial statements, taken together).
+Standalone basis
+14
+Whether the company has undertaken reasonable assurance of the BRSR Core?
+No
+II.
+Products/services
+17
+Details of business activities (accounting for 90% of the turnover)
+Details of business activities (accounting for 90% of the turnover)
+Sr. No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1
+Support service to Organizations
+Other support services to organizations
+98.00%
+18
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover)
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover)
+Sr.
+No.
+Product/Service
+NIC Code
+% of total Turnover contributed
+1
+Support service to Organizations
+72291
+98.00%
+NIC Code list link:
+https://www.ncs.gov.in/Documents/NIC_Sector.pdf
+III. Operations
+19
+Number of locations where plants and/or operations/offices of the entity are situated
+Location
+Number of plants
+Number of offices
+Total
+National
+0
+3
+3
+International
+0
+0
+0
+20
+Markets served by the entity
+A
+Number of locations
+Locations
+Number
+National (No. of States)
+28
+International (No. of Countries)
+0
+B
+What is the contribution of exports as a
+percentage of the total turnover of the entity?
+0.00%
+C
+A brief on types of customers
+NPST works with Public sector as well as Scheduled banks and Merchants spread across different states in
+the Country. Currently we are working with more than 1.5 lakh merchants. we also have Locations in 8
+Union Territories
+IV.
+Employees
+21
+Details as at the end of Financial Year
+A.
+Employees and workers (including differently abled)
+Sr.
+No.
+Particulars
+Total
+(A)
+Male
+Female
+Other
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (H)
+% (H / A)
+EMPLOYEES
+1
+Permanent (D)
+268
+212
+79.10%
+56
+20.90%
+0
+0.00%
+2
+Other than permanent
+(E)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+3
+Total employees(D +
+E)
+268
+212
+79.10%
+56
+20.90%
+0
+0.00%
+WORKERS
+4
+Permanent (F)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+5
+Other than permanent
+(G)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+6
+Total workers (F + G)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+B.
+Differently abled Employees and workers:
+Sr.
+No.
+Particulars
+Total
+(A)
+Male
+Female
+Other
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (H)
+% (H / A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+2
+Other than Permanent
+(E)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+3
+Total differently
+abled employees (D +
+E)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+DIFFERENTLY ABLED WORKERS
+4
+Permanent (F)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+5
+Other than Permanent
+(G)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+6
+Total differently
+abled workers (F +
+G)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+22
+Participation/Inclusion/Representation of women
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+2
+2
+100.00%
+Key Management
+Personnel
+1
+1
+100.00%
+23
+Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+Turnover rate in current FY (2023-
+24)
+Turnover rate in previous FY (2022-
+23)
+Turnover rate in the year prior to the
+previous FY (2021-22)
+Male
+Female
+Other
+Total
+Male
+Female
+Other
+Total
+Male
+Female
+Other
+Total
+Permanent Employees
+20.00%
+23.00%
+0.00%
+20.00%
+30.00%
+21.00%
+0.00%
+28.00%
+41.00%
+13.00%
+0.00%
+36.00%
+Permanent Workers
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+V.
+Holding, Subsidiary and Associate Companies (including joint ventures)
+24
+(a) Names of holding / subsidiary / associate companies / joint ventures
+Holding, Subsidiary and Associate Companies (including joint ventures)
+Sr.
+No.
+Name of the holding /
+subsidiary/associate
+companies/joint ventures (A)
+Indicate whether
+holding/Subsidiary/Associate/Joint
+Venture
+% of shares
+held by listed
+entity
+Does the entity indicated at column A,
+participate in the Business Responsibility
+initiatives of the listed entity? (Yes/No)
+1
+SSK CITIZEN SERVICES PRIVATE
+LIMITED
+Subsidiary
+99.80%
+No
+2
+TIMEPAY DIGITAL INFOTECH
+PRIVATE LIMITED
+Subsidiary
+85.00%
+No
+VI.
+CSR Details
+25
+(i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+Yes
+(ii) Turnover (in Rs.)
+407869000.00
+(iii) Net worth (in Rs.)
+285751000.00
+VII. Transparency and Disclosures Compliances
+26
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct
+Stakeholder
+group from
+whom
+complaint is
+received
+Grievance
+Redressal
+Mechanism
+in Place
+(Yes/No/NA)
+(If Yes, then provide web-link
+for grievance redress policy)
+FY (2023-24)
+PY (2022-23)
+(If NA,
+then
+provide
+the
+reason)
+Number of
+complaints
+filed
+during the
+year
+Number of
+complaints
+pending
+resolution
+at close of
+the year
+Remarks
+Number of
+complaints
+filed
+during the
+year
+Number of
+complaints
+pending
+resolution
+at close of
+the year
+Remarks
+Communities
+Yes
+https://www.npstx.com/investor-
+desk/policies/
+0
+0
+0
+0
+0
+0
+Investors
+(other than
+shareholders)
+Yes
+https://www.npstx.com/investor-
+desk/policies/
+0
+0
+0
+0
+0
+0
+Shareholders
+Yes
+https://www.npstx.com/investor-
+desk/policies/
+0
+0
+0
+0
+0
+0
+Employees
+and workers
+Yes
+https://www.npstx.com/investor-
+desk/policies/
+0
+0
+0
+0
+0
+0
+Customers
+Yes
+https://www.npstx.com/investor-
+desk/policies/
+0
+0
+0
+0
+0
+0
+Value Chain
+Partners
+Yes
+https://www.npstx.com/investor-
+desk/policies/
+0
+0
+0
+0
+0
+0
+SECTION B: MANAGEMENT AND PRO
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+Policy and management processes
+1. a. Whether your entity’s
+policy/policies cover each
+principle and its core
+elements of the NGRBCs.
+(Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+b. Has the policy been
+approved by the Board?
+(Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+c. Web Link of the
+Policies, if available
+https://www.npstx.com/investor-
+desk/policies/
+https://www.npstx.com/investor-
+desk/policies/
+https://www.npstx.com/investor-
+desk/policies/
+https://www.npstx.com/investor-
+desk/policies/
+https:
+desk/p
+2. Whether the entity has
+translated the policy into
+procedures. (Yes / No/
+NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+3. Do the enlisted policies
+extend to your value chain
+partners? (Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+4. Name of the national
+and international
+codes/certifications/labels/
+standards (e.g. Forest
+Stewardship Council,
+Fairtrade, Rainforest
+Alliance, Trustee)
+standards (e.g. SA 8000,
+OHSAS, ISO, BIS)
+adopted by your entity
+and mapped to each
+principle.
+Our Company is certified with
+ISO 9001:2015 for delivering
+Quality products, ISO
+27001:2013 ensuring
+information security and CMMI
+Level 3 for software & mobile
+solutions platform process
+improvement
+Our Company is certified with
+ISO 9001:2015 for delivering
+Quality products, ISO
+27001:2013 ensuring
+information security and CMMI
+Level 3 for software & mobile
+solutions platform process
+improvement
+Our Company is certified with
+ISO 9001:2015 for delivering
+Quality products, ISO
+27001:2013 ensuring
+information security and CMMI
+Level 3 for software & mobile
+solutions platform process
+improvement
+Our Company is certified with
+ISO 9001:2015 for delivering
+Quality products, ISO
+27001:2013 ensuring
+information security and CMMI
+Level 3 for software & mobile
+solutions platform process
+improvement
+Our C
+ISO 9
+Quali
+27001
+inform
+Level
+soluti
+impro
+5. Specific commitments,
+goals and targets set by
+the entity with defined
+timelines, if any.
+We are dedicated in exhibiting
+ethical conduct towards all
+stakeholders, encompassing
+customers, employees,
+shareholders, and regulators, as
+part of our enduring
+commitment to operational and
+business excellence and our
+firm adherence to strong
+governance principles. This
+includes NPST's initiatives
+aimed at promoting POSH
+compliance, which underscore
+our dedication to fostering a
+safe and respectful workplace
+We are dedicated in exhibiting
+ethical conduct towards all
+stakeholders, encompassing
+customers, employees,
+shareholders, and regulators, as
+part of our enduring
+commitment to operational and
+business excellence and our
+firm adherence to strong
+governance principles. This
+includes NPST's initiatives
+aimed at promoting POSH
+compliance, which underscore
+our dedication to fostering a
+safe and respectful workplace
+We are dedicated in exhibiting
+ethical conduct towards all
+stakeholders, encompassing
+customers, employees,
+shareholders, and regulators, as
+part of our enduring
+commitment to operational and
+business excellence and our
+firm adherence to strong
+governance principles. This
+includes NPST's initiatives
+aimed at promoting POSH
+compliance, which underscore
+our dedication to fostering a
+safe and respectful workplace
+We are dedicated in exhibiting
+ethical conduct towards all
+stakeholders, encompassing
+customers, employees,
+shareholders, and regulators, as
+part of our enduring
+commitment to operational and
+business excellence and our
+firm adherence to strong
+governance principles. This
+includes NPST's initiatives
+aimed at promoting POSH
+compliance, which underscore
+our dedication to fostering a
+safe and respectful workplace
+We ar
+ethica
+stakeh
+custom
+shareh
+part o
+comm
+busin
+firm a
+gover
+includ
+aimed
+comp
+our de
+safe a
+6. Performance of the
+entity against the specific
+commitments, goals and
+targets along-with reasons
+Embracing rigorous corporate
+governance standards represents
+our commitment to achieving
+our goals effectively.
+Additionally, continuously
+Embracing rigorous corporate
+governance standards represents
+our commitment to achieving
+our goals effectively.
+Additionally, continuously
+Embracing rigorous corporate
+governance standards represents
+our commitment to achieving
+our goals effectively.
+Additionally, continuously
+Embracing rigorous corporate
+governance standards represents
+our commitment to achieving
+our goals effectively.
+Additionally, continuously
+Embr
+gover
+our co
+our go
+Addit
+in case the same are not
+met.
+updating and implementing new
+policies enhances workplace
+conditions for sustained
+improvement.
+updating and implementing new
+policies enhances workplace
+conditions for sustained
+improvement.
+updating and implementing new
+policies enhances workplace
+conditions for sustained
+improvement.
+updating and implementing new
+policies enhances workplace
+conditions for sustained
+improvement.
+updat
+polici
+condi
+impro
+Governance, leadership and oversight
+7. Statement by director responsible for the business responsibility report, highlighting ESG related challenges,
+targets and achievements (listed entity has flexibility regarding the placement of this disclosure)
+ESG is not applicable to the
+Company
+8. Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy
+(ies).
+Mr. Deepak Chand Thakur
+Managing Director
+9. Does the entity have a specified Committee of the Board/ Director responsible for decision making on
+sustainability related issues? (Yes / No/ NA).
+NA
+Not
+Applicable
+If yes, provide details.
+10. Details of Review of NGRBCs by the Company
+Subject for Review
+Indicate whether review was undertaken by Director/Committee of the Board/Any other Committee
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and follow up
+action
+Director
+Director
+Director
+Director
+Director
+Director
+Any other
+Committee
+Director
+Director
+Description of other committee for performance
+against above policies and follow up action
+Not Applicable
+Compliance with statutory requirements of relevance
+to the principles and rectification of any non-
+compliances
+Director
+Director
+Director
+Director
+Director
+Director
+Any other
+Committee
+Director
+Director
+Description of other committee for compliance with
+statutory requirements of relevance to the principles
+and rectification
+Not Applicable
+Frequency (Annually / Half yearly /Quarterly/ Any other-please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and follow up
+action
+Annually
+Annually
+Annually
+Annually
+Annually
+Annually
+Any other
+Annually
+Half
+Yearly
+Description of other committee for performance
+against above policies and follow up action
+Not Applicable
+Compliance with statutory requirements of relevance
+to the principles and rectification of any non-
+compliances
+Quarterly Quarterly Quarterly Quarterly Quarterly Quarterly Any other
+Quarterly Quarterly
+Description of other committee for compliance with
+statutory requirements of relevance to the principles
+and rectification
+Not Applicable
+11. Has the entity carried out independent assessment/ evaluation of the working of its policies by an external agency?
+(Yes/No).
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+No
+No
+No
+No
+No
+No
+No
+No
+No
+If Yes, Provide name of the agency
+12. If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+The entity does not consider the Principles material to its business (Yes/No)
+The entity is not at a stage where it is in a position to formulate and implement the policies on specified principles
+(Yes/No)
+The entity does not have the financial or/human and technical resources available for the task (Yes/No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+Notes
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key processes and decisions. The
+information sought is categorized as “Essential” and “Leadership”. While the essential indicators are expected to be disclosed by every entity that is mandated to
+file this report, the leadership indicators may be voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be socially,
+environmentally and ethically responsible.
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent and Accountable.
+Essential Indicators
+1. Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number of
+training and
+awareness
+programmes held
+Topics/principles covered under the
+training and its impact
+%age of persons in respective category covered by the awareness
+programmes
+Board of Directors
+1
+Familiarization Program
+100.00%
+Key Managerial
+Personnel
+37
+POSH, LinkedIn learning - Behavior
+Leadership
+35.00%
+Employees other than
+BoD and KMPs
+950
+POSH, Linkedin Learning - Non-
+Tech Skill Based, Tech Skill Based,
+Behavior Generic, Behavior
+Leadership
+37.00%
+Workers
+0
+0
+0.00%
+2. Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by directors / KMPs) with regulators/
+law enforcement agencies/ judicial institutions, in the financial year, in the following format (Note: the entity shall make disclosures on the basis of materiality as
+specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+Non- Monetary
+4. Does the entity have anti-corruption or anti-bribery policy?
+Yes
+If Yes, provide details in brief
+Yes. The Company is committed to fighting against corruption and bribery in every way we
+can. The policy is brought to promote honest and ethical conduct in the Organisation.
+Provide a web-link if the entity has anti-corruption or anti-bribery
+policy
+www.npstx.com/investor-desk/policies
+5. Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the charges of bribery/
+corruption:
+FY (2023-24)
+PY (2022-23)
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+6. Details of complaints with regard to conflict of interest:
+FY (2023-24)
+PY (2022-23)
+Number
+Remarks
+Number
+Remarks
+Number of complaints
+received in relation to
+issues of Conflict of
+Interest of the Directors
+0
+0
+0
+0
+Number of complaints
+received in relation to
+issues of Conflict of
+Interest of the KMPs
+0
+0
+0
+0
+7. Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law enforcement
+agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+Not
+Applicable
+8. Number of days of accounts payables
+FY (2023-24)
+PY (2022-23)
+i) Accounts payable x 365 days
+140481.20
+30346.10
+ii) Cost of goods/services procured
+4428.32
+1281.92
+iii) Number of days of accounts payables
+32
+24
+9. Open-ness of business - Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and advances &
+investments, with related parties, in the following format
+Parameter
+Metrics
+FY (2023-24)
+PY (2022-23)
+Concentration of Purchases
+a. i) Purchases from trading houses
+ii) Total purchases
+iii) Purchases from trading houses as
+% of total purchases
+b. Number of trading houses where
+purchases are made
+c. i) Purchases from top 10 trading
+houses
+ii) Total purchases from trading
+houses
+iii) Purchases from top 10 trading
+houses as % of total purchases from
+trading houses
+Parameter
+Metrics
+FY (2023-24)
+PY (2022-23)
+Concentration of Sales
+a. i) Sales to dealer / distributors
+1265800000.00
+401000000.00
+ii) Total Sales
+1275100000.00
+407800000.00
+iii) Sales to dealer / distributors as %
+of total sales
+99.27%
+98.33%
+b. Number of dealers / distributors to
+whom sales are made
+84
+30
+c. i) Sales to top 10 dealers /
+distributors
+728500000.00
+355100000.00
+ii) Total Sales to dealer / distributors
+1275100000.00
+407800000.00
+iii) Sales to top 10 dealers /
+distributors as % of total sales to
+dealer / distributors
+57.13%
+87.08%
+Parameter
+Metrics
+FY (2023-24)
+PY (2022-23)
+Share of RPTs in
+a. i) Purchases (Purchases with
+related parties)
+5200000.00
+0.00
+ii) Total Purchases
+442800000.00
+0.00
+iii) Purchases (Purchases with
+related parties as % of Total
+Purchases)
+1.17%
+b. i) . Sales (Sales to related parties)
+0.00
+0.00
+ii) Total Sales
+0.00
+0.00
+iii) Sales (Sales to related parties as
+% of Total Sales)
+c. i) Loans & advances given to
+related parties
+1200000.00
+0.00
+ii) Total loans & advances
+1200000.00
+0.00
+iii) Loans & advances given to
+related parties as % of Total loans &
+advances
+100.00%
+d. i) Investments in related parties
+42500000.00
+0.00
+ii) Total Investments made
+42500000.00
+0.00
+iii) Investments in related parties as
+% of Total Investments made
+100.00%
+Leadership Indicators
+2. Does the entity have processes in place to avoid/ manage conflict of interests
+involving members of the Board?
+Yes
+If Yes, provide details of the same.
+Yes. The Company believe in transparency while entering
+into any transaction with member of the board. In order to
+avoid any conflict of interest, the concerned director does
+not participate in the transaction/ agenda where he or she
+is interested.
+Notes
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1. Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social impacts of product and
+processes to total R&D and capex investments made by the entity, respectively.
+FY (2023-24)
+PY (2022-23)
+Details of improvements in
+environmental and social impacts
+R&D
+0.00%
+0.00%
+0
+Capex
+0.00%
+0.00%
+0
+2. a. Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+No
+b. If yes, what percentage of inputs were sourced sustainably?
+3. Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for
+(a) Plastics (including packaging)
+Not Applicable
+(b) E-waste
+Not Applicable
+(c) Hazardous waste
+Not Applicable
+(d) other waste
+Not Applicable
+4. Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No).
+No
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan
+submitted to Pollution Control Boards?
+If not, provide steps taken to address the same.
+Leadership Indicators
+1. Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for
+manufacturing industry) or for its services (for service industry)?
+4. Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely disposed, as per the following format:
+FY (2023-24)
+PY (2022-23)
+Re-Used
+Recycled
+Safely Disposed
+Re-Used
+Recycled
+Safely Disposed
+Plastics (including packaging)
+E waste
+Hazardous waste
+Notes
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their value chains
+Essential Indicators
+1. a. Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number
+(B)
+% (B /
+A)
+Number
+(C)
+% (C /
+A)
+Number
+(D)
+% (D / A)
+Number
+(E)
+% (E /
+A)
+Number (F)
+% (F / A)
+Permanent employees
+Male
+212
+212
+100.00%
+212
+100.00%
+212
+100.00% 0
+0.00%
+Female
+56
+56
+100.00%
+56
+100.00%
+56
+100.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Total
+268
+268
+100.00%
+268
+100.00%
+56
+20.90%
+212
+79.10%
+0
+0.00%
+Other than permanent employees
+Male
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Female
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Total
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+b. Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number
+(B)
+% (B /
+A)
+Number
+(C)
+% (C /
+A)
+Number
+(D)
+% (D / A)
+Number
+(E)
+% (E /
+A)
+Number (F)
+% (F / A)
+Permanent workers
+Male
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Female
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Total
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Other than permanent workers
+Male
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Female
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Total
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+C. Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in the following format:
+FY (2023-24)
+PY (2022-23)
+i) Cost
+incurred on
+wellbeing
+measures
+(well-being
+measures
+means well-
+being of
+employees and
+workers
+(including
+male, female,
+permanent and
+other than
+permanent
+employees and
+workers)
+47700000.00
+11300000.00
+ii) Total
+revenue of the
+company
+1300700000.00
+411200000.00
+iii) Cost
+incurred on
+wellbeing
+measures as a
+% of total
+revenue of the
+company
+3.67%
+2.75%
+2. Details of retirement benefits
+Benefits
+FY (2023-24)
+PY (2022-23)
+No.of employees
+covered as a % of
+total employees
+No.of workers
+covered as a % of
+total workers
+Deducted and
+deposited with the
+authority (Y/N/N.A.)
+No.of employees
+covered as a % of total
+employees
+No.of workers covered as a
+% of total workers
+Deducted
+and
+deposited
+with the
+authority
+(Y/N/N.A.)
+PF
+100.00%
+0.00%
+Yes
+100.00%
+0.00%
+Yes
+Gratuity
+100.00%
+0.00%
+No
+100.00%
+0.00%
+No
+ESI
+7.00%
+0.00%
+Yes
+14.00%
+0.00%
+Yes
+3. Accessibility of workplaces
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the
+requirements of the Rights of Persons with Disabilities Act, 2016?
+Yes
+If not, whether any steps are being taken by the entity in this regard.
+4. Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016?
+Yes
+If so, provide a web-link to the policy.
+https://www.npstx.com/investor-desk/policies/
+5. Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100.00
+100.00
+0.00
+0.00
+Female
+100.00
+100.00
+0.00
+0.00
+Other
+0.00
+100.00
+0.00
+0.00
+Total
+100.00
+100.00
+0.00
+0.00
+6. Is there a mechanism available to receive and redress grievances for the following categories of employees and worker?
+Yes
+If yes, give details of the mechanism in brief.
+Yes/No
+(If Yes, then give details of the mechanism in brief)
+Permanent Workers
+No
+Other than Permanent Workers
+No
+Permanent Employees
+Yes
+KEKA portal - internal HR portal for addressing employee queries and
+concerns
+Other than Permanent Employees
+No
+7. Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY (2023-24)
+PY (2022-23)
+Total
+employees/workers
+in respective
+category (A)
+No.of employees /
+workers in respective
+category, who are
+part of association(s)
+or Union (B)
+% (B / A)
+Total employees /
+workers in respective
+category (C)
+No.of employees /workers
+in respective category,who
+are part of association(s) or
+Union (D)
+% (D / C)
+Total
+Permanent
+Employees
+268
+0
+0.00%
+0
+0
+0.00%
+Male
+212
+0
+0.00%
+0
+0
+0.00%
+Female
+56
+0
+0.00%
+0
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0
+0.00%
+Total
+Permanent
+Workers
+0
+0
+0.00%
+0
+0
+0.00%
+Male
+0
+0
+0.00%
+0
+0
+0.00%
+Female
+0
+0
+0.00%
+0
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0
+0.00%
+8. Details of training given to employees and workers:
+Category
+FY (2023-24)
+PY (2022-23)
+Total
+(A)
+On Health and safety
+measures
+On Skill upgradation
+Total (D)
+On Health and safety
+measures
+On Skill upgradation
+No. (B)
+% (B /
+A)
+No. (C)
+% (C /
+A)
+No. (E)
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+Male
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Female
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Total
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Workers
+Male
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Female
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Total
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+9. Details of performance and career development reviews of employees and worker:
+Category
+FY (2023-24)
+PY (2022-23)
+Total (A)
+No. (B)
+% (B / A)
+Total (D)
+No. (E)
+% (E / D)
+Employees
+Male
+0
+208
+0.00%
+0
+166
+0.00%
+Female
+0
+51
+0.00%
+0
+39
+0.00%
+Other
+0
+0
+0.00%
+0
+0
+0.00%
+Total
+0
+259
+0.00%
+0
+205
+0.00%
+Workers
+Male
+0
+0
+0.00%
+0
+0
+0.00%
+Female
+0
+0
+0.00%
+0
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0
+0.00%
+Total
+0
+0
+0.00%
+0
+0
+0.00%
+10. Health and safety management system:
+a.Whether an occupational health and safety management system has been
+implemented by the entity? (Yes/ No/ NA).
+No
+If yes, the coverage such system?
+b. What are the processes used to identify work-related hazards and assess
+risks on a routine and non-routine basis by the entity?
+Employees have the avenue to raise any concerns they may have
+through the KEKA portal. This platform serves as a dedicated space
+where employees can submit their feedback, questions, or issues
+regarding various aspects of their work environment, policies, or other
+relevant matters. By utilizing the KEKA portal, employees can ensure
+that their concerns are heard and addressed appropriately, fostering a
+transparent and supportive workplace culture.
+c. Whether you have processes for workers to report the work related
+hazards and to remove themselves from such risks?
+Yes
+d. Do the employees/ worker of the entity have access to non-occupational
+medical and healthcare services?
+Yes
+11. Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category*
+FY (2023-24)
+PY (2022-23)
+Lost Time Injury Frequency Rate (LTIFR) (per
+one million-person hours worked)
+Employees
+0.00
+0.00
+Workers
+0.00
+0.00
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+0
+0
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work related injury or ill-
+health (excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12. Describe the measures taken by the entity to ensure a safe and healthy
+work place.
+The Health & Safety policy is communicated to all employees, overseen by the
+Compliance Officer who ensures implementation, seeks necessary approvals, and
+drives improvements in operational and management systems to uphold excellence in
+environmental, health, and safety standards. To prevent or mitigate significant
+occupational health & safety impacts, we have implemented several measures: •
+Installation and maintenance of fire detection, alarm, and suppression systems. •
+Regular reviews, inspections, and audits of our facilities to ensure readiness for safety
+incidents. • Conducting frequent drills for fire and medical emergencies. •
+Establishment of medical rooms in corporate offices and provision of first aid kits with
+essential medicines at specific locations to address general health and safety needs. •
+Actively seeking and incorporating employee feedback to enhance our health and
+safety practices. These efforts underscore our commitment to maintaining a safe and
+healthy work environment for all employees
+13. Number of Complaints on the following made by employees and workers:
+FY (2023-24)
+PY (2022-23)
+Filed during the
+year
+Pending resolution at
+the end of year
+Remarks
+Filed during the year
+Pending resolution at the
+end of year
+Remarks
+Working
+Conditions
+0
+0
+0
+0
+Health &
+Safety
+0
+0
+0
+0
+14. Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or
+third parties)
+Health and safety practices
+0.00%
+Working Conditions
+0.00%
+15. Provide details of any corrective action taken or underway to address
+safety-related incidents (if any) and on significant risks / concerns arising
+Not Applicable
+from assessments of health & safety practices and working conditions.
+Leadership Indicators
+1. Does the entity extend any life insurance or any compensatory package in the event of death of
+(A) Employees (Y/N)
+Yes
+(B) Workers (Y/N).
+No
+2. Provide the measures undertaken by the entity to ensure that statutory
+dues have been deducted and deposited by the value chain partners.
+Employees are provided coverage under a Term Insurance Policy, ensuring financial
+protection for them and their families in the event of unforeseen circumstances such as
+disability, critical illness, or death.
+3. Provide the number of employees / workers having suffered high consequence work related injury / ill-health / fatalities (as reported in Q11 of Essential
+Indicators above), who have been are rehabilitated and placed in suitable employment or whose family members have been placed in suitable employment:
+Total no. of affected employees/ workers
+No. of employees/workers that are rehabilitated and placed in
+suitable employment or whose family members have been placed in
+suitable employment
+FY (2023-24)
+PY (2022-23)
+FY (2023-24)
+PY (2022-23)
+Employees
+0
+0
+0
+0
+Workers
+0
+0
+0
+0
+4. Does the entity provide transition assistance programs to facilitate continued employability and the management
+of career endings resulting from retirement or termination of employment? (Yes/ No/ NA)
+No
+5. Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were
+assessed
+Health and safety practices
+0.00%
+Working Conditions
+0.00%
+6. Provide details of any corrective actions taken or underway to address
+significant risks / concerns arising from assessments of health and safety
+practices and working conditions of value chain partners.
+Notes
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1. Describe the processes for
+identifying key stakeholder groups of
+the entity.
+The first stage of identifying stakeholder involves mapping and prioritizing key stakeholders based on relevance, role, and
+influence. Once the stakeholders have been identified and prioritized, the engagement channels are established. The result
+from the engagement is channelised inside the organization and ensures that the stakeholder gets the right feedback or
+resolution as the case may be. Internal Stakeholders of the Company include employees, senior leaders, managers, Board
+of Directors. External stakeholders include customers, investors, regulatory bodies, vendors, service providers and media.
+2. List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Sr.
+No.
+Stakeholder
+Group
+Whether
+identified as
+Vulnerable &
+Marginalized
+Group
+Channels of
+communication
+Details of Other
+Channels of
+communication
+Frequency
+of
+engagement
+Details of
+Other
+Frequency of
+engagement
+Purpose and scope of engagement including
+key topics and concerns raised during such
+engagement
+1
+Employees
+No
+Other
+Periodical
+Employees Surveys,
+IT services related
+survey, learning and
+development
+activities.
+Others –
+please
+specify
+Need Basis
+Career Management and Growth Prospects,
+Learning opportunities, Compensation
+structure, Building a safety culture and
+inculcating safe work practices, Improving
+Diversity and Inclusion, etc. Career
+Management and Growth Prospects, Learning
+opportunities, Compensation structure,
+Building a safety culture and inculcating safe
+work practices, Improving Diversity and
+Inclusion, etc. Career Management and Growth
+Prospects, Learning opportunities,
+Compensation structure, Building a safety
+culture and inculcating safe work practices,
+Improving Diversity and Inclusion, etc.
+2
+Customers
+No
+Other
+Calls and meetings
+related to projects;
+project management
+assessments;
+discussions on
+2.relationships;
+executive briefings;
+Others –
+please
+specify
+Need basis
+Operate with integrity and teamwork, crafting
+solutions that meet both immediate and long-
+term customer demands.Prioritizing customer
+requirements on a fundamental level and
+staying abreast of industry trends to precisely
+evaluate their needs.
+3
+Shareholders/
+Investors
+No
+Other
+Press releases, email
+advisories, in-person
+meetings, investor
+conferences,
+conference calls,
+newspaper
+publications
+Quarterly
+Comprehend what investors anticipate, keep
+them informed about the company's growth
+path, and assist them in expressing their
+concerns.
+4
+Business
+Partners and
+Collaborators
+No
+Other
+Conferences and
+Networking events,
+Physical/virtual
+meets
+Others –
+please
+specify
+Need Basis
+Market expansion, Innovation and technology
+integration
+5
+Community
+No
+Other
+CSR initiatives
+Others –
+please
+specify
+Continuous
+Supporting the community through social
+giving and actively contributing to sustainable
+development efforts.
+Leadership Indicators
+1. Provide the processes for
+consultation between stakeholders and
+the Board on economic, environmental,
+and social topics or if consultation is
+delegated, how is feedback from such
+consultations provided to the Board.
+The Executive Directors and Senior Management Personnel are actively engaged in regular interactions with various
+stakeholders, including investors, employees, and customers. These engagements provide invaluable feedback that plays a
+crucial role in the Company’s commitment to sustainability. The feedback obtained from these interactions is then brought
+to the attention of the Board to ensure that the concerns and ideas of its stakeholders are given due consideration. In
+addition, any significant topics that arise through regular stakeholder engagement are brought to the Board through
+various channels. The Company has a well-defined process in place for addressing suggestions, complaints, and
+grievances, which are carefully evaluated based on their significance. Depending on the nature and scope of the issues,
+they are referred to the appropriate committee of the Board.
+2.Whether stakeholder consultation is
+used to support the identification and
+management of environmental, and
+social topics.
+Yes
+If so, provide details of instances as to
+how the inputs received from
+stakeholders on these topics were
+incorporated into policies and activities
+of the entity.
+Yes, through the feedbacks helps in decision making and policy development which is used to support environmental and
+social topics
+3. Provide details of instances of
+engagement with, and actions taken to,
+address the concerns of vulnerable/
+marginalized stakeholder groups.
+The company maintains continuous interaction and engagement with internal and external stakeholders, ensuring
+inclusion of disadvantaged, vulnerable, and marginalized groups
+Notes
+PRINCIPLE 5 Businesses should respect and promote human rights
+Essential Indicators
+1. Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following format:
+Category
+FY (2023-24)
+PY (2022-23)
+Total (A)
+No. of employees/workers
+covered (B)
+% (B / A)
+Total
+(C)
+No. of employees/workers
+covered (D)
+% (D / C)
+Employees
+Permanent
+268
+268
+100.00%
+229
+229
+100.00%
+Other than
+permanent
+0
+0
+0.00%
+0
+0
+0.00%
+Total Employees
+268
+268
+100.00%
+229
+229
+100.00%
+Workers
+Permanent
+0
+0
+0.00%
+0
+0
+0.00%
+Other than
+permanent
+0
+0
+0.00%
+0
+0
+0.00%
+Total Workers
+0
+0
+0.00%
+0
+0
+0.00%
+2. Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY (2023-24)
+PY (2022-23)
+Total
+(A)
+Equal to Minimum Wage
+More than Minimum
+Wage
+Total
+(D)
+Equal to Minimum Wage
+More than Minimum Wage
+No.
+(B)
+% (B /A)
+No. (C)
+% (C
+/A)
+No.
+(E)
+% (E /D)
+No. (F)
+% (F /D)
+Employees
+Permanent
+268
+0
+0.00%
+268
+100.00%
+229
+5
+2.18%
+224
+97.82%
+Male
+212
+0
+0.00%
+212
+100.00%
+186
+2
+1.08%
+184
+98.92%
+Female
+56
+0
+0.00%
+56
+100.00%
+43
+3
+6.98%
+40
+93.02%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Other than
+Permanent
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Male
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Female
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Workers
+Permanent
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Male
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Female
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Other than
+Permanent
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Male
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Female
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+3. Details of remuneration/salary/wages, in the following format:
+a. Median remuneration / wages:
+Male
+Female
+Other
+Number
+Median remuneration/ salary/
+wages of respective category
+Number
+Median remuneration/
+salary/ wages of respective
+category
+Number
+Median remuneration/
+salary/ wages of
+respective category
+Board of Directors
+(BoD)
+2
+28400000
+1
+0
+0
+0
+Key Managerial
+Personnel
+1
+1900000
+0
+0
+0
+0
+Employees other
+than BoD and KMP 330
+222400000
+0
+0
+0
+0
+Workers
+0
+0
+0
+0
+0
+0
+b. Gross wages paid to females:
+FY (2023-24)
+PY (2022-23)
+Gross wages paid to females
+26500000.00
+16300000.00
+Total wages
+252700000.00
+146200000.00
+Gross wages paid to females (Gross wages paid to females as % of total
+wages)
+10.49%
+11.15%
+4. Do you have a focal point (Individual/ Committee) responsible for
+addressing human rights impacts or issues caused or contributed to by
+the business?
+Yes
+5. Describe the internal mechanisms in place to redress grievances
+related to human rights issues.
+As a company, we have a dedicated HR team that serves as the primary point of contact
+for receiving and addressing human rights grievances within the organization.
+6. Number of Complaints on the following made by employees and workers:
+FY (2023-24)
+PY (2022-23)
+Filed during the
+year
+Pending resolution at the end of
+year
+Remarks
+Filed during
+the year
+Pending resolution at the
+end of year
+Remarks
+Sexual Harassment
+0
+0
+0
+0
+Discrimination at workplace
+0
+0
+0
+0
+Child Labour
+0
+0
+0
+0
+Forced Labour/Involuntary Labour
+0
+0
+0
+0
+Wages
+0
+0
+0
+0
+Other human rights related issues
+0
+0
+0
+0
+7. Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, in the following format:
+FY (2023-24)
+PY (2022-23)
+i) Total Complaints reported under Sexual Harassment on of Women at Workplace
+(Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+0
+0
+ii) Female employees / workers
+0
+0
+iii) Complaints on POSH as a % of female employees / workers
+iv) Complaints on POSH upheld
+0
+0
+8. Mechanisms to prevent adverse consequences to the
+complainant in discrimination and harassment cases.
+Employees are encouraged to approach HR regarding any questions or concerns related to
+harassment. Each report undergoes a thorough investigation, followed by decisive action to uphold
+a safe and respectful workplace environment in accordance with company policies and legal
+standards.
+9. Do human rights requirements form part of your business
+agreements and contracts? (Yes/No/NA)
+NA
+Not Applicable
+10. Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or third
+parties)
+Child labour
+0.00%
+Forced/involuntary labour
+0.00%
+Sexual harassment
+0.00%
+Discrimination at workplace
+0.00%
+Wages
+0.00%
+11. Provide details of any corrective actions taken or
+underway to address significant risks / concerns arising from
+the assessments at Question 10 above.
+There were no corrective actions taken since there were 0 concerns arising from the assessments
+Leadership Indicators
+1. Details of a business process being modified / introduced as
+a result of addressing human rights grievances/complaints.
+No complaints regarding human rights violations have arisen. Yet, the company diligently oversee,
+assess, and refresh company policies and procedures to maintain a human rights issue-free
+environment.
+2. Details of the scope and coverage of any Human rights
+due-diligence conducted
+No human rights due diligence was conducted in the current reporting year.
+3. Is the premise/office of the entity accessible to differently
+abled visitors, as per the requirements of the Rights of
+Persons with Disabilities Act, 2016?
+Yes
+4. Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were assessed
+Sexual harassment
+0.00%
+Discrimination at workplace
+0.00%
+Child Labour
+0.00%
+Forced Labour/Involuntary Labour
+0.00%
+Wages
+0.00%
+5. Provide details of any corrective actions taken or underway
+to address significant risks / concerns arising from the
+assessments at Question 4 above.
+Notes
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1. Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Whether total energy consumption and energy intensity is applicable to the company?
+No
+Revenue from operations (in Rs.)
+FY
+(2023-
+24)
+PY (2022-23)
+0.00
+0.00
+Parameter
+Units
+FY
+(2023-
+24)
+PY (2022-23)
+From renewable sources
+Total electricity consumption (A)
+Total fuel consumption (B)
+Total energy consumed from renewable sources (A+B+C)
+From non-renewable sources
+Total electricity consumption (D)
+Total fuel consumption (E)
+Total energy consumed from non-renewable sources (D+E+F)
+Total energy consumed (A+B+C+D+E+F)
+Energy intensity per rupee of turnover (Total energy consumed / Revenue from operations)
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total energy
+consumed / Revenue from operations adjusted for PPP)
+Energy intensity in terms of physical Output
+Energy intensity (optional) – the relevant metric may be selected by the entity
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an
+external agency? (Y/N)
+If yes, name of the external agency.
+2. Does the entity have any sites / facilities identified as designated consumers (DCs) under the
+Performance, Achieve and Trade (PAT) Scheme of the Government of India?
+No
+If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have
+not been achieved, provide the remedial action taken, if any.
+3. Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY
+(2023-
+24)
+PY (2022-23)
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+0.00
+0.00
+(ii) Groundwater
+0.00
+0.00
+(iii) Third party water
+0.00
+0.00
+(iv) Seawater / desalinated water
+0.00
+0.00
+(v) Others
+0.00
+0.00
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+0.00
+0.00
+Total volume of water consumption (in kilolitres)
+0.00
+0.00
+Water intensity per rupee of turnover (Total water consumption / Revenue from operations)
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total water consumption /
+Revenue from operations adjusted for PPP)
+0.00
+0.00
+Water intensity in terms of physical output
+0.00
+0.00
+Water intensity (optional) – the relevant metric may be selected by the entity
+0.00
+0.00
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an
+external agency?
+No
+If yes, name of the external agency.
+4. Provide the following details related to water discharged:
+Parameter
+FY
+(2023-
+24)
+PY (2022-23)
+Water discharge by destination and level of treatment (in kilolitres)
+(i) To Surface water
+0.00
+0.00
+No treatment
+0.00
+0.00
+With treatment – please specify level of treatment
+0.00
+0.00
+(ii) To Groundwater
+0.00
+0.00
+No treatment
+0.00
+0.00
+With treatment – please specify level of treatment
+0.00
+0.00
+(iii) To Seawater
+0.00
+0.00
+No treatment
+0.00
+0.00
+With treatment – please specify level of treatment
+0.00
+0.00
+(iv) Sent to third-parties
+0.00
+0.00
+No treatment
+0.00
+0.00
+With treatment – please specify level of treatment
+0.00
+0.00
+(v) Others
+0.00
+0.00
+No treatment
+0.00
+0.00
+With treatment – please specify level of treatment
+0.00
+0.00
+Total water discharged (in kilolitres)
+0.00
+0.00
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an
+external agency? (Y/N)
+No
+If yes, name of the external agency.
+5. Has the entity implemented a mechanism for Zero Liquid Discharge?
+NA
+Not applicable, being a service industry.
+If yes, provide details of its coverage and implementation.
+6. Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Whether air emissions (other than GHG emissions) by the entity is applicable to the company?
+No
+Parameter
+Please
+specify
+unit
+FY
+(2023-
+24)
+PY (2022-23)
+NOx
+SOx
+Particulate matter (PM)
+Persistent organic pollutants (POP)
+Volatile organic compounds (VOC)
+Hazardous air pollutants (HAP)
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an
+external agency? (Y/N)
+If yes, name of the external agency.
+7. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Whether greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity is applicable to
+the company?
+No
+Parameter
+Unit
+FY
+(2023-
+24)
+PY (2022-23)
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if
+available)
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if
+available)
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover (Total Scope 1 and Scope 2 GHG
+emissions / Revenue from operations)
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover adjusted for Purchasing Power
+Parity (PPP) (Total Scope 1 and Scope 2 GHG emissions / Revenue from operations adjusted for
+PPP)
+Total Scope 1 and Scope 2 emission intensity in terms of physical output
+Total Scope 1 and Scope 2 emission intensity (optional) – the relevant metric may be selected by the
+entity
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N)
+If yes, name of the external agency.
+8. Does the entity have any project related to reducing Green House Gas emission?
+NA
+Not applicable, being a service company.
+If Yes, then provide details.
+9. Provide details related to waste management by the entity, in the following format:
+Parameter
+FY
+(2023-
+24)
+PY (2022-23)
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+0.00
+0.00
+E-waste (B)
+0.00
+0.00
+Bio-medical waste (C)
+0.00
+0.00
+Construction and demolition waste (D)
+0.00
+0.00
+Battery waste (E)
+0.00
+0.00
+Radioactive waste (F)
+0.00
+0.00
+Other Hazardous waste. Please specify, if any. (G)
+0.00
+0.00
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up by composition i.e. by materials
+relevant to the sector)
+0.00
+0.00
+Total (A+B + C + D + E + F + G + H)
+0.00
+0.00
+Waste intensity per rupee of turnover (Total waste generated / Revenue from operations)
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total waste generated /
+Revenue from operations adjusted for PPP)
+0.00
+0.00
+Waste intensity in terms of physical output
+0.00
+0.00
+Waste intensity (optional) – the relevant metric may be selected by the entity
+0.00
+0.00
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in metric tonnes)
+Category of waste
+(i) Recycled
+0.00
+0.00
+(ii) Re-used
+0.00
+0.00
+(iii) Other recovery operations
+0.00
+0.00
+Total
+0.00
+0.00
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) Incineration
+0.00
+0.00
+(ii) Landfilling
+0.00
+0.00
+(iii) Other disposal operations
+0.00
+0.00
+Total
+0.00
+0.00
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an
+external agency? (Y/N)
+No
+If yes, name of the external agency.
+10. Briefly describe the waste management practices adopted in your establishments. Describe the
+strategy adopted by your company to reduce usage of hazardous and toxic chemicals in your
+products and processes and the practices adopted to manage such wastes.
+Not applicable
+13. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India;
+such as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of
+Pollution) Act, Environment protection act and rules thereunder (Y/N/NA).
+NA
+Not applicable being a service industry
+If not, provide details of all such non-compliances, in the following format:
+Leadership Indicators
+1. Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+For each facility / plant located in areas of water stress, provide the following information:
+Details For each facility / plant located in areas of water stress
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an
+external agency? (Y/N)
+If yes, name of the external agency.
+2. Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Whether total Scope 3 emissions & its intensity is applicable to the company?
+No
+Parameter
+Unit
+FY
+(2023-
+24)
+PY (2022-23)
+Total Scope 3 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if
+available)
+Total Scope 3 emissions per rupee of turnover
+Total Scope 3 emission intensity (optional) – the relevant metric may be selected by the entity
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an
+external agency? (Y/N)
+If yes, name of the external agency.
+3. With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators
+above, provide details of significant direct & indirect impact of the entity on biodiversity in such
+areas along-with prevention and remediation activities.
+5. Does the entity have a business continuity and disaster management plan?
+Yes
+Details of entity at which business continuity and disaster management plan is placed or weblink.
+https://www.npstx.com/investor-
+desk/policies/
+6. Disclose any significant adverse impact to the environment, arising from the value chain of the
+entity. What mitigation or adaptation measures have been taken by the entity in this regard.
+Not applicable
+7. Percentage of value chain partners (by value of business done with such partners) that were
+assessed for environmental impacts.
+Notes
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is
+responsible and transparent
+Essential Indicators
+1. a. Number of affiliations with trade and industry chambers/ associations.
+0
+b. List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the entity is a member of/ affiliated to
+Sr. No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ associations (State/National/International)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Leadership Indicators
+Notes
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development
+Essential Indicators
+3. Describe the mechanisms to receive and redress
+grievances of the community.
+NOT APPLICABLE
+4. Percentage of input material (inputs to total
+inputs by value) sourced from suppliers:
+FY (2023-24)
+PY (2022-23)
+Directly sourced from MSMEs/ small producers
+0.00%
+0.00%
+Sourced directly from within the district and
+neighbouring districts
+0.00%
+0.00%
+5. Job creation in smaller towns - Disclose wages paid to persons employed (including employees or workers employed on a permanent or non-permanent / on
+contract basis) in the following locations, as % of total wage cost:
+FY (2023-24)
+PY (2022-23)
+1. Rural
+i) Disclose wages paid to persons employed
+(including employees or workers employed on a
+permanent or non-permanent / on contract basis)
+0.00
+0.00
+ii) Total Wage Cost
+0.00
+0.00
+iii) % of Job creation in Rural areas
+2. Semi-urban
+i) Disclose wages paid to persons employed
+(including employees or workers employed on a
+permanent or non-permanent / on contract basis)
+0.00
+0.00
+ii) Total Wage Cost
+0.00
+0.00
+iii) % of Job creation in Semi-Urban areas
+3. Urban
+i) Disclose wages paid to persons employed
+(including employees or workers employed on a
+permanent or non-permanent / on contract basis)
+0.00
+0.00
+ii) Total Wage Cost
+0.00
+0.00
+iii) % of Job creation in Urban areas
+4. Metropolitan
+i) Disclose wages paid to persons employed
+(including employees or workers employed on a
+permanent or non-permanent / on contract basis)
+0.00
+0.00
+ii) Total Wage Cost
+0.00
+0.00
+iii) % of of Job creation in Metropolitan area
+Leadership Indicators
+3. (a) Do you have a preferential procurement
+policy where you give preference to purchase from
+suppliers comprising marginalized /vulnerable
+groups? (Yes/No/NA)
+No
+(b) From which marginalized /vulnerable groups do you procure?
+0
+(c) What percentage of total procurement (by value) does it constitute?
+0.00%
+6. Details of beneficiaries of CSR Projects:
+Details of beneficiaries of CSR Projects
+Sr.No.
+CSR Project
+No. of persons benefitted from
+CSR Projects
+% of beneficiaries from vulnerable and
+marginalized groups
+1
+Empowering Rural women through financial inclusion and
+literacy - Laadli Foundation
+16000
+0.00%
+Notes
+Under its CSR initiatives, the company has supported the Laadli Foundation's project aimed at empowering
+rural women through financial inclusion and literacy. While the precise figures detailing the exact number and
+percentage of beneficiaries cannot be determined exactly due to the project's extensive reach across various
+rural areas, the number mentioned in point number 6 above is sourced from the official website of the Laadli
+Foundation.
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1. Describe the mechanisms in place to receive and respond
+to consumer complaints and feedback.
+The company's dedication to customer satisfaction is exemplified by its robust complaints and
+feedback mechanism. This streamlined system allows users to effortlessly voice concerns, provide
+feedback, and report issues encountered during payment transactions. By promptly addressing these
+issues and leveraging feedback for continuous improvement, the company not only ensures quick
+resolutions but also gains invaluable insights. Through responsive problem-solving and a commitment
+to enhancing both merchant and user experiences, the company consistently upholds the highest
+service standards, fostering trust and loyalty among its clientele.
+2. Turnover of products and/ services as a percentage of
+turnover from all products/service that carry information
+about
+As a percentage to total turnover
+Environmental and social parameters relevant to the product 0.00%
+Safe and responsible usage
+0.00%
+Recycling and/or safe disposal
+0.00%
+3. Number of consumer
+complaints in respect of
+the following
+FY (2023-24)
+Remark
+PY (2022-23)
+Remark
+Received
+during the
+year
+Pending
+resolution at
+end of year
+Received during the year
+Pending resolution at end of
+year
+Data privacy
+0
+0
+0
+0
+0
+0
+Advertising
+0
+0
+0
+0
+0
+0
+Cyber-security
+0
+0
+0
+0
+0
+0
+Delivery of essential
+services
+0
+0
+0
+0
+0
+0
+Restrictive Trade
+Practices
+0
+0
+0
+0
+0
+0
+Unfair Trade Practices
+0
+0
+0
+0
+0
+0
+Other
+0
+0
+0
+0
+0
+0
+4. Details of instances of
+product recalls on
+account of safety issues
+Number
+Reasons for recall
+Voluntary recalls
+0
+0
+Forced recalls
+0
+0
+5. Does the entity have a framework/ policy on cyber
+security and risks related to data privacy?
+No
+If available, provide a web-link of the policy
+6. Provide details of any corrective actions taken or
+underway on issues relating to advertising, and delivery of
+essential services; cyber security and data privacy of
+customers; re-occurrence of instances of product recalls;
+penalty / action taken by regulatory authorities on safety of
+products / services.
+NIL
+7. Provide the following information relating to data breaches:
+a. Number of instances of data breaches along-with impact
+0
+b. Percentage of data breaches involving personally
+identifiable information of customers
+0.00%
+c. Impact, if any, of the data breaches
+NIL
+Leadership Indicators
+1. Channels / platforms where information on products and
+services of the entity can be accessed (provide web link, if
+available).
+www.npstx.com
+2. Steps taken to inform and educate consumers about safe
+and responsible usage of products and/or services
+Not applicable, as the company does not provide products or services that could involve safety issues
+or misuse concerns.
+3. Mechanisms in place to inform consumers of any risk of
+disruption/discontinuation of essential services.
+Each customer relationship has a mechanism in place to handle any disruption/discontinuation of
+services.
+4. Does the entity display product information on the
+product over and above what is mandated as per local laws?
+NA
+Not Applicable
+If yes, provide details in brief.
+Did your entity carry out any survey with regard to
+consumer satisfaction relating to the major products /
+services of the entity, significant locations of operation of
+the entity or the entity as a whole?
+Notes

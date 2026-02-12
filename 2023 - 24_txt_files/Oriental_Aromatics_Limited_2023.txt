@@ -1,0 +1,4103 @@
+ 
+  Ref: OAL/BSE/NSE/49/2024-25 
+ 
+  27th July, 2024 
+ 
+To  
+To  
+The Manager 
+The Manager 
+Department of Corporate Services, 
+Listing Department, 
+BSE Limited, 
+National Stock Exchange of India Limited  
+Phiroz Jeejeebhoy Towers 
+Exchange Plaza, Bandra Kurla Complex 
+Dalal Street, Mumbai- 400 001                           Bandra (East), Mumbai - 400 051 
+Scrip ID: OAL 
+Symbol: OAL 
+Scrip Code: 500078 
+Series: EQ 
+ 
+Sub: Business Responsibility and Sustainability Report for the Financial Year (FY)- 2023-24 
+ 
+Dear Sir/Ma’am, 
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations 
+& Disclosure Requirements) Regulations 2015, please find enclosed herewith Business 
+Responsibility and Sustainability Report (BRSR) for FY 2023-24 which forms part of the Annual 
+Report for the FY 2023-24.  
+ 
+The said BRSR is also available on Company's website at www.orientalaromatics.com under 
+Investor Relations section.  
+ 
+We request you to take the above on record. 
+ 
+Thanking you, 
+Yours Faithfully, 
+For Oriental Aromatics Limited 
+ 
+ 
+Kiranpreet Gill 
+Company Secretary & Compliance Officer 
+Encl: As above 
+Kiranpreet Kaur 
+Gill
+Digitally signed by Kiranpreet Kaur Gill 
+DN: c=IN, o=Personal, title=5221, 
+pseudonym=6711F2060B76AF8EBDBE127363974437, 
+2.5.4.20=a8dc12d2c586cd36c350f98adc9b09df478d2f3a16767b6418
+494f0ae6acc784, postalCode=400005, st=Maharashtra, 
+serialNumber=C07400A6777ACC58AF26AC954AD5B929B7A9078CF6
+C1456CA837C253E4BF56D1, cn=Kiranpreet Kaur Gill 
+Date: 2024.07.27 12:40:43 +05'30'
+Financial Statements
+Statutory Reports
+Corporate Overview
+137
+Annual Report 2023-24
+BUSINESS RESPONSIBILITY & 
+SUSTAINABILITY REPORT (BRSR)
+Business Responsibility and Sustainability Reporting (BRSR) is the practice of companies disclosing information 
+about their environmental, social, and governance (ESG) performance. It goes beyond financial reporting to 
+provide stakeholders with a comprehensive view of a company’s non-financial impacts and contributions to 
+sustainable development. BRSR covers topics such as environmental impact, social responsibility, and governance 
+practices, aiming to promote transparency and accountability.
+SECTION A: GENERAL DISCLOSURES
+I. 	
+Details of the listed entity
+1.
+Corporate Identification Number 
+(CIN) of the Listed Entity
+L17299MH1972PLC285731
+2.
+Name of Listed Entity
+Oriental Aromatics Limited (“OAL/ Company”)
+3.
+Year of incorporation
+07th April, 1972
+4.
+Registered office address
+133, Jehangir Building, 2nd floor, Mahatma Gandhi Road, Fort, 
+Mumbai-400001
+5.
+Corporate office address
+6.
+E-mail
+cs@orientalaromatics.com; investors@orientalaromatics.com
+7.
+Telephone
++91 22 43214000
+8.
+Website
+www.orientalaromatics.com
+9.
+Financial year for which the reporting 
+is done
+1st  April, 2023 to 31st  March, 2024
+10. Name of the Stock Exchange(s) where 
+shares are listed
+1. BSE Limited – Scrip Code : 500078
+2. National Stock Exchange of India Limited, Symbol : OAL
+11.
+Paid-up Capital
+INR 1682.68 Lakh
+12.
+Name and contact details (telephone, 
+email address) of the person who may 
+be contacted in case of any queries 
+on the BRSR report
+Ms. Kiranpreet Gill,
++91 22 66556000; cs@orientalaromatics.com
+Company Secretary & Compliance Officer
+133, Jehangir Building, 2nd floor, Mahatma Gandhi Road, Fort,
+Mumbai 400001
+13.
+Reporting 
+boundary 
+- 
+Are 
+the 
+disclosures under this report made 
+on a standalone basis (i.e. only for 
+the entity) or on a consolidated basis 
+(i.e. for the entity and all the entities 
+which form a part of its consolidated 
+financial statements, taken together)
+Standalone basis
+14
+Name of assurance provider
+ NA
+15
+Type of assurance obtained
+ NA
+II.	
+Products/Services
+	
+ 16.	 Details of business activities (accounting for 90% of the turnover)
+S. 
+No.
+Description of main 
+activity
+Description of business activity
+% of turnover of 
+the entity
+1
+Manufacturing
+Manufacturing of Chemical and chemical products 
+including Flavors, Fragrances, Specialty Aroma 
+Ingredients, Camphor & Terpene Chemicals.
+100%
+	
+ 17.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover)
+S. 
+No. Product/service
+NIC Code
+% of total turnover 
+contributed
+1
+Camphor & Terpene Chemicals
+20118
+33%
+2
+Fragrances & Flavours
+20118
+27%
+3
+Specialty Aroma Chemicals
+20118
+30%
+138
+III.	 Operations
+	
+18. 	 Number of locations where plants and/or operations/offices of the entity are situated
+Location
+Number of Plants
+Number of Offices
+Total
+National
+5*
+1**
+6
+International
+-
+1#
+1
+	
+	
+* Including plant of our wholly owned subsidiary i.e Oriental Aromatics & Sons Ltd located at Mahad, 
+Maharashtra & R&D Lab at Chandivali, Mumbai 
+	
+	
+** Registered /Corporate Office at Mumbai, Maharashtra 
+	
+	
+# Subsidiary in Indonesia - PT Oriental Aromatics 
+	
+	
+Note: The Company has 2 subsidiaries, including 1 subsidiary outside India. There is no direct participation 
+of the subsidiaries in the BRSR initiatives as presently there are no business operations being undertaken.
+	
+19. 	 Markets served by the entity
+	
+	
+a.	
+Number of locations
+Locations
+Numbers
+National (No. of States)
+28
+International (No. of Countries)
+35
+	
+	
+b. 	 What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+	
+	
+Exports contribute to 44% of the total turnover of the entity.
+	
+	
+c. 	 A brief on types of customers
+	
+	
+	
+Oriental Aromatics Limited caters to a diverse range of customers across various industries. Some 
+of the main types of customers that the company serves include FMCG industry, personal care, fine 
+fragrances, aroma chemicals, puja samagri market and pain management.
+IV. 	 Employees
+	
+20. 	Details as at the end of Financial year: 
+	
+	
+a.	
+Employees and workers (Including differently abled)
+S. 
+No. Particulars
+Total (A)
+Male
+Female
+No. (B)
+%(B/A)
+No. (C)
+%(C/A)
+EMPLOYEES
+1.
+Permanent (D)
+561
+474
+84.5%
+87
+15.5%
+2.
+Other than permanent (E)
+5
+4
+80%
+1
+20%
+3.
+Total employees (D+E)
+566
+478
+84.5%
+88
+15.5%
+WORKERS
+4.
+Permanent (F)
+174
+173
+99.4%
+1
+0.6%
+5.
+Other than permanent (G)
+945
+871
+92.16%
+74
+7.83%
+6.
+Total workers (F+G)
+1119
+1044
+93.30%
+75
+6.70%
+Financial Statements
+Statutory Reports
+Corporate Overview
+139
+Annual Report 2023-24
+	
+	
+b. 	 Differently abled employees and workers
+S. 
+No. Particulars
+Total (A)
+Male
+Female
+No. (B)
+%(B/A)
+No. (C)
+%(C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+0
+0
+0%
+0
+0%
+2.
+Other than permanent (E)
+0
+0
+0%
+0
+0%
+3.
+Total differently abled 
+Employees (D + E)
+0
+0
+0%
+0
+0%
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+0
+0
+0%
+0
+0%
+5.
+Other than permanent (G)
+0
+0
+0%
+0
+0%
+6.
+Total differently abled 
+workers (F + G)
+0
+0
+0%
+0
+0%
+	
+21. 	 Participation/Inclusion/ Representation of Women
+Total (A)
+No. and Percentage of 
+Females
+No. (B)
+% (B/A)
+Board of Directors
+7 
+1 
+14%
+Key Management Personnel*
+4
+2
+50% 
+	
+22. 	Turnover rate for permanent employees and workers
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+employees
+30.01%
+28.41% 29.72%
+35.86%
+25.27% 34.10%
+25.59%
+13.76% 23.34%
+Permanent workers
+22%*
+0%
+22%
+6.56%
+0%
+6.56%
+6.44%
+0%
+6.44%
+*The variation in % of permanent workers is high as compared to last year due to few workers being 
+promoted to employees.
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+	
+23. 	(a)	 Names of holding / subsidiary / associate companies / joint ventures
+S.
+No.
+Name of the holding / subsidiary/ 
+associate companies/ joint 
+ventures (A)
+Indicate whether 
+holding/ 
+Subsidiary/ 
+Associate/ Joint 
+Venture
+% of 
+shares 
+held by
+listed 
+entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+Initiatives of the listed 
+entity? (Yes/No)
+ 1.
+PT Oriental Aromatics (Indonesia)
+ Subsidiary
+99.86%
+ No
+ 2.
+Oriental Aromatics & Sons Limited
+ Subsidiary
+100% 
+VI. 	 CSR Details
+	
+24. 	(i) 	 Whether CSR is applicable as per section 135 of Companies Act, 2013	: 	
+Yes
+	
+	
+(a)	 Turnover (in Rs.) (23-24)	 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+: 	
+` 8,43,73,02,858
+	
+	
+(b)	 Net worth (in Rs.) (23-24)	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+: 	
+` 5,86,75,95,561
+	
+	
+*(Note: The Turnover mentioned above includes Revenue from operations as well as other income sources)
+140
+VII. 	Transparency and Disclosures Compliances
+	
+25.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal Mechanism in 
+Place (Yes/No) *
+(If Yes, then provide web-link for 
+grievance redress policy) 
+FY 2023-24
+FY 2022-23
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+The mechanism is in place to receive 
+concerns from community via email 
+at info@orientalaromatics.com, which 
+are worked upon and redressed 
+accordingly.
+0
+0
+-
+0
+0
+-
+Investors 
+(other than 
+shareholders)
+Yes
+0
+0
+-
+0
+0
+-
+Shareholders
+Yes, Shareholders can register their 
+grievances with the Company or its 
+RTA. The Details of the same are at 
+http://www.orientalaromatics.com/
+investors-grievances-contacts.php.
+Further grievances can also be lodged 
+with SEBI at https://scores.gov.in/
+scores/Welcome.html
+7
+0
+-
+9
+0
+-
+Employees 
+and workers
+Yes, The mechanism is in place to 
+receive concerns from employees 
+and workers via email at info@
+orientalaromatics.com, 
+which 
+are 
+worked upon and redressed. The 
+employees & workers can register their 
+grievances via email  at dhirendra@
+orientalaromatics.com 
+/ 
+info@
+orientalaromatics.com
+0
+0
+-
+0
+0
+-
+Customers
+Yes, the company has a mechanism 
+to handle and address customer 
+complaints. 
+The 
+customers 
+can 
+register their grievances via email at 
+sales.mumbai@orientalaromatics.com 
+and info@orientalaromatics.com
+42
+0
+-
+18
+0
+All 
+complaints 
+resolved.
+Value Chain 
+Partners
+The mechanism is in place to receive 
+concerns from value chain partners via 
+email at info@orientalaromatics.com, 
+which are worked upon and redressed 
+accordingly.
+0
+0
+-
+0
+0
+-
+Note:  Web-link for grievance redress policy that forms part of BRSR Policy that can be 
+accessed 
+at 
+https://www.orientalaromatics.com/documents/corporate-governance/policies/
+BusinessResponsibilityPolicy1920.pdf
+Financial Statements
+Statutory Reports
+Corporate Overview
+141
+Annual Report 2023-24
+	
+26.	 Overview of the entity’s material responsible business conduct issues
+	
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to 
+environmental and social matters that present a risk or an opportunity to your business, rationale for 
+identifying the same, approach to adapt or mitigate the risk along-with its financial implications, as per 
+the following format
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+Implications
+of the risk or 
+opportunity
+(Indicate 
+positive or 
+negative 
+implications)
+ 1
+Climate Change 
+and Emissions
+ Risk
+The chemical industry faces the risk 
+of plant emissions, environmental 
+degradation, and social repercussions. 
+Such incidents can profoundly affect 
+the company's business operations 
+and revenue streams. Therefore, 
+ensuring proper treatment of plant 
+emissions is critical to mitigating 
+adverse impacts and safeguarding 
+the 
+company's 
+reputation 
+and 
+financial stability.
+By engaging in energy efficient 
+technologies, OAL targets to 
+reduce the greenhouse gases. 
+Renewable energy such as 
+biomass boilers are put in place 
+to reduce dependency on fossil 
+fuels. Additionally, OAL has 
+committed to SBTi projects and 
+obtained CDP and EcoVadis 
+certification. 
+ Negative
+2
+Energy 
+Management
+Opportunity
+The 
+Company 
+with 
+continuous 
+process 
+reengineering 
+and 
+by 
+monitoring its energy requirements 
+of  finished goods tries to optimise 
+energy consumptions during product 
+development which in turn helps in 
+reducing the manufacturing costs. 
+There is an opportunity to increase 
+the renewable energy mix, having a 
+positive impact on the environment 
+as well as increasing the company's 
+reputation 
+as 
+a 
+environmentally 
+conscious company.
+ -
+ Positive
+ 3
+Occupational 
+Health & Safety
+ Risk
+Occupational Health and Safety 
+are of immense concern at OAL as 
+there are high volumes of hazardous 
+chemicals used and produced in 
+the factories which can severely 
+impact the company socially by 
+endangering 
+workers' 
+well-being, 
+leading to accidents, injuries, and 
+even 
+fatalities. 
+Such 
+incidents 
+tarnish the company's reputation, 
+erode employee trust, and invite 
+public scrutiny, ultimately damaging 
+relationships with stakeholders and 
+undermining community confidence 
+in the company's operations.
+OAL has a robust Occupational 
+Health & Safety system and 
+has 
+adopted 
+ISO 
+45001 
+for 
+the 
+management 
+of 
+Health & Safety across its 
+operations. We continue to 
+drive improvements in process 
+safety management by taking 
+necessary 
+steps. 
+A 
+safety 
+committee has been set up to 
+take care of the occupational 
+hazards. All our plants and 
+offices are regularly assessed 
+on health and safety and 
+working conditions.
+ Negative
+142
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+Implications
+of the risk or 
+opportunity
+(Indicate 
+positive or 
+negative 
+implications)
+4
+Employee 
+Well-being and 
+Satisfaction
+Opportunity
+Prioritizing 
+employee 
+wellbeing 
+and satisfaction promotes a socially 
+responsible environment. It reduces 
+turnover rates, boosts morale, and 
+enhances productivity. By fostering 
+a healthy work-life balance, providing 
+support 
+systems, 
+and 
+investing 
+in 
+employee 
+development, 
+the 
+company contributes to societal 
+welfare, strengthens community ties, 
+and upholds ethical labour standards.
+-
+Positive
+5
+Training and 
+Development
+Opportunity
+Training and development in a 
+chemical manufacturing company 
+enhances 
+safety, 
+improves 
+efficiency, 
+ensures 
+regulatory 
+compliance, foster innovation, and 
+boost employee morale, leading to 
+higher productivity and reduced 
+operational risks. At OAL, regular 
+trainings and awareness programs 
+are conducted in a timely manner. 
+The events include multiple training 
+programs such as behavioural, ESG 
+awareness, soft skills to improve 
+employee’s 
+skills 
+and 
+overall 
+development.
+-
+Positive
+6
+Product Safety 
+and Quality
+Risk
+Product Safety and Quality is of 
+paramount 
+importance 
+due 
+to 
+the nature of the product and the 
+industry it serves. If the company 
+fails to deliver high-quality and safe 
+products, it could result in detrimental 
+impacts on both the company and 
+various stakeholders, including the 
+environmental and social dimensions. 
+This is particularly crucial for chemical 
+products like camphor and others, as 
+subpar quality or safety measures 
+could lead to severe consequences 
+for all involved parties.
+To look after the product 
+quality 
+and 
+safety 
+of 
+its 
+products, OAL has stringent 
+quality control, regular audits, 
+employee training, compliance 
+with 
+regulatory 
+standards, 
+robust 
+safety 
+protocols, 
+supplier quality management, 
+advanced 
+monitoring 
+technology, and continuous 
+improvement of processes and 
+safety measures.
+Negative
+Financial Statements
+Statutory Reports
+Corporate Overview
+143
+Annual Report 2023-24
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+Implications
+of the risk or 
+opportunity
+(Indicate 
+positive or 
+negative 
+implications)
+7
+Corporate 
+Governance 
+and Regulatory 
+Compliance
+Risk
+OAL's 
+core 
+business 
+revolves 
+around 
+manufacturing 
+chemical 
+products, resulting in the generation 
+of 
+hazardous 
+waste 
+alongside 
+other waste materials. Given the 
+stringent regulations governing such 
+industries, any non-compliance could 
+incur penalties, fines, and significantly 
+disrupt the company's operations. 
+Therefore, adherence to regulatory 
+standards is imperative to ensure 
+smooth 
+functioning 
+and 
+uphold 
+the integrity of OAL's operations. 
+Effective 
+corporate 
+governance 
+ensures compliance with all relevant 
+laws and regulations governing the 
+company, 
+thereby 
+reducing 
+the 
+risk of penalties and protecting the 
+company's reputation from severe 
+repercussions
+To mitigate the risk of non-
+compliance, 
+OAL 
+ensures 
+transparency, 
+accountability, 
+and 
+ethical 
+conduct 
+by 
+establishing clear guidelines 
+and processes for decision-
+making, 
+risk 
+management, 
+and 
+regulatory 
+compliance. 
+Effective corporate governance 
+practices builds trust among 
+stakeholders, enhancing our 
+reputation and credibility in 
+the 
+market. 
+By 
+upholding 
+principles of integrity, fairness, 
+and responsibility at all levels 
+of the organization, we create 
+a culture of good governance 
+that 
+supports 
+long-term 
+sustainability 
+and 
+value 
+creation. 
+Negative
+144
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place 
+towards adopting the NGRBC Principles and Core Elements.
+S. 
+No. Disclosure Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Policy and management processes
+1.
+a.  Whether the entity’s policy/policies cover 
+each principle and its core elements of the 
+NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b.   Has the policy been approved by the 
+Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+c.   Web Link of the Policies, if available
+  http://www.orientalaromatics.com/documents/corporate-
+governance/policies/BusinessResponsibilityPolicy1920.pdf
+2.
+Whether the entity has translated the policy 
+into procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.
+Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4.
+Name of the national and international codes/
+certifications/labels/ standards (e.g. Forest 
+Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustee) standards (e.g. SA 8000, 
+OHSAS, ISO, BIS) adopted by your entity and 
+mapped to each principle.
+All policies confirm to the applicable laws of the country, 
+SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 and National Guidance on Responsible 
+Business Conduct. Following are few of the certifications 
+adopted by OAL and mapped to each principle: 
+• FSSAI (P2)
+• US FDA (P2)
+• REACH (P2)
+• WHO GMP (P2)
+• ISO 45001 (P3)
+• ISO 14001 (P6)
+• ECOVADIS (P2, P3, P4, P5, P6)
+• NGRBC (P7)
+• ISO 9001 (P9)
+• Halal (P9)
+• Kosher (P9)
+5.
+Specific commitments, goals and targets set 
+by the entity with defined timelines, if any.
+Refer to Environmental & sustainable practises at OAL in 
+Annual Report on Pg No. 30-33
+6.
+Performance of the entity against the specific 
+commitments, goals and targets along-with 
+reasons in case the same are not met.
+Not Applicable
+Governance, leadership and oversight
+7.
+Statement by director responsible for the 
+business responsibility report, highlighting ESG 
+related challenges, targets and achievements 
+(listed entity has flexibility regarding the 
+placement of this disclosure)
+Please refer to the ‘Message from the Chairman and 
+Managing Director’ section in the Annual Report 2023- 
+24 on Pg No: 10.
+8.
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy (ies).
+Mr. Dharmil A. Bodani 
+BRSR Head
+info@orientalaromatics.com
+9.
+Does the entity have a specified Committee of 
+the Board/ Director responsible for decision 
+making on sustainability related issues? (Yes / 
+No/ NA). If yes, provide details.
+Yes. The CSR Committee is responsible for the reviewing, 
+monitoring and overseeing and decision making on 
+sustainability related issues.  Further, OAL has a specific 
+internal ESG committee which works closely with CSR 
+Committee in implementing the Business Responsibility 
+and Sustainability (BRSR) Policy.
+Financial Statements
+Statutory Reports
+Corporate Overview
+145
+Annual Report 2023-24
+10. 	 Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was 
+undertaken by
+Director/Committee of the Board/
+Any other Committee
+Frequency
+(Annually / Half yearly /Quarterly/ 
+Any other-please specify)
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+Performance against 
+above policies and follow 
+up action
+Committee of the Board
+Annually
+Compliance with statutory 
+requirements of relevance 
+to the principles and 
+rectification of any non-
+compliances
+Committee of the Board
+Quarterly
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+11.
+Has the entity carried out 
+independent assessment/ 
+evaluation of the working 
+of 
+its 
+policies 
+by 
+an 
+external 
+agency? 
+(Yes/
+No). If yes, provide name 
+of the agency.
+N
+FSSAI
+US FDA
+REACH
+WHO GMP
+ISO 
+45001
+N
+N
+ISO 
+14001 
+N
+N
+Kosher 
+Halal
+ISO 9001
+NA
+INTERTEK 
+DEUTSCHLAND 
+GMBH, GPC 
+– GLOBAL 
+PRODUCT 
+COMPLIANCE 
+EUROPE
+TUV 
+SUD 
+SOUTH 
+ASIA 
+PVT. 
+LTD.
+NA
+NA
+TUV 
+SUD 
+SOUTH 
+ASIA 
+PVT. 
+LTD.
+NA
+NA
+STAR 
+KOSHER,
+LPPOM MUI 
+– MAJELIS 
+ULAMA 
+INDONESIA 
+HALAL
+12. 	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: 
+Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+The entity does not consider the Principles 
+material to its business (Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a position to 
+formulate and implement the policies on specified 
+principles (Yes/No)
+The entity does not have the financial or/human 
+and technical resources available for the task (Yes/
+No)
+It is planned to be done in the next financial year 
+(Yes/No)
+Any other reason (please specify)
+146
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable. 
+(This principle focuses on the importance of ethical conduct and transparency in business operations. Companies 
+should follow ethical business practices and adhere to high standards of integrity. They should also be transparent 
+about their activities, operations, and financial reporting, as well as be accountable for their actions)
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial 
+year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes 
+held
+Topics/principles covered under the training 
+and its impact
+%age of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Board of 
+Directors
+ 3
+ESG 
+awareness, 
+Financial 
+and 
+operational 
+performance of the Company
+ 100%
+Key Managerial 
+Personnel
+ 3
+ESG awareness, Financial and operational 
+performance of the Company
+ 100%
+Employees other 
+than BOD and 
+KMPs
+75
+Human Rights, POSH, Health and Safety, 
+Emergency, Technical, Behavioural and Soft 
+skills.  
+ 100%
+Workers
+ 203
+Health and Safety awareness and trainings on 
+emergency, technical, behavioural and soft skills
+ 100%
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in 
+proceedings (by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial 
+institutions, in the financial year, in the following format 
+Monetary
+Particular
+NGRBC 
+Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount (In 
+INR)
+Brief of the 
+Case
+ Has an appeal 
+been preferred?
+(Yes/No)
+Penalty/ Fine
+Nil
+Nil
+Nil
+Nil
+Nil
+Settlement
+Nil
+Nil
+Nil
+Nil
+Nil
+Compounding fee
+Nil
+Nil
+Nil
+Nil
+Nil
+Non-Monetary
+Particular
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcement agencies/ judicial 
+institutions
+Brief of the 
+Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Imprisonment
+Nil
+Nil
+Nil
+Nil
+Not applicable
+Punishment
+Nil
+Nil
+Nil
+Nil
+Not applicable
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where 
+monetary or non-monetary action has been appealed.
+ Case Details 
+ Name of the regulatory/ enforcement 
+agencies/ judicial institutions 
+Not applicable
+Financial Statements
+Statutory Reports
+Corporate Overview
+147
+Annual Report 2023-24
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if 
+available, provide a web-link to the policy:
+	
+Yes, an Anti-Corruption and Anti-Bribery Policy is there in place.
+	
+The policy addresses the zero-tolerance approach to fraud, corruption and bribery and is committed to 
+doing business ethically and fairly. The Executive Board is committed to supporting the implementation of 
+this policy and programs. This policy aims to establish the highest standards of business ethics.
+	
+The policy applies to all OAL workers, officers, managers and directors and contractors. Any person who 
+thinks there has been a violation of this policy can contact the compliance team at cs@orientalaromatics.
+com.
+	
+Any OAL employee who violates the Anti-Bribery & Anti-Corruption Policy shall face disciplinary action that 
+could end their employment or other relationship with the Company. Restitution may also be required, and 
+individual personnel may be the subject of civil or criminal action. OAL is committed to make complainants 
+feel safe, respected, and protected when raising complaints. This promotes a culture of accountability and 
+enables to address issues promptly and effectively.
+	
+If Yes, provide a web link to the policy, if available -Web link of the Anti- Corruption or anti bribery policy 
+is place
+	
+https://www.orientalaromatics.com/documents/corporate-governance/policies/Anti%20Bribery%20&%20
+Anti%20Corruption%20Policy.pdf
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption:
+ 
+FY 2023-24
+FY 2022-23
+Directors 
+Nil
+Nil
+Key Managerial Personnel (KMPs) 
+Employees 
+Workers 
+6.	
+Details of complaints with regard to conflict of interest:
+FY 2023-24
+FY 2022-23
+Number
+Remarks
+Number
+Remarks
+Number of complaints received 
+in relation to issues of Conflict of 
+Interest of the Directors
+Nil
+Nil
+Number of complaints received 
+in relation to issues of Conflict of 
+Interest of the KMPs
+7.	
+ Provide details of any corrective action taken or underway on issues related to fines / penalties / 
+action taken by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption 
+and conflicts of interest.
+	
+Not applicable.
+8. 	 Number of days of accounts payables in the following format:
+ 
+FY 2023-24
+FY 2022-23
+Number of days of accounts payables
+ 48
+48 
+148
+9.	
+Openness of business
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties 
+along-with loans and advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of 
+Purchases
+a. Purchases from trading houses as % of total 
+purchases
+ 18.27%
+17.03%
+b. Number of trading houses where purchases are 
+made from
+ 67
+ 54
+c. Purchases from top 10 trading houses as % of total 
+purchases from trading houses
+ 68.58%
+ 82.14%
+Concentration of 
+Sales
+a. Sales to dealers / distributors as % of total sales
+16.58%
+12.52%
+b. Number of dealers / distributors to whom sales 
+are made
+368
+386
+c. Sales to top 10 dealers / distributors as % of total 
+sales to dealers / distributors
+81.54%
+80.74%
+Share of RPTs in
+a. Purchases (Purchases with related parties / Total 
+Purchases)
+ 0
+0
+b. Sales (Sales to related parties / Total Sales)
+ 0
+ 0
+c. Loans & advances (Loans & advances given to 
+related parties / Total loans & advances)
+67.77%
+ 0
+d. Investments
+ 0
+100%
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable 
+and safe.
+(This principle highlights the importance of sustainable and safe production practices. Companies should 
+strive to minimize the environmental impact of their activities and ensure that their products and services 
+are safe for consumers and the environment.)
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made 
+by the entity, respectively.
+FY 2023-24
+FY 2022-23
+Details improvement of in environmental and social impacts
+R&D
+33%
+100%
+The expenditure % covers salary of employees hired for doing 
+research & process optimisation to improve the environmental and 
+social impacts of our product.
+Capex
+6.46%
+10.37%
+Recent upgrades have been implemented to enhance energy 
+efficiency and environmental sustainability. A total condensate 
+recovery system has been installed at Bareily to optimize energy 
+usage. Additionally, a sewage treatment plant at Bareily is now 
+operational, contributing to environmental protection by recycling 
+wastewater for gardening purposes. Variable frequency drives have 
+been introduced to further reduce energy consumption. At Baroda, 
+a stack gas monitoring system has been set up as a pollution control 
+measure to monitor and manage emissions effectively.
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing (Yes/No)
+	
+	
+Yes, 
+Financial Statements
+Statutory Reports
+Corporate Overview
+149
+Annual Report 2023-24
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+61%
+3. 	 Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the 
+end of life, for 
+(a) 
+Plastics (including 
+packaging)
+Plastic packaging is sent to waste disposal service providers under 
+the supervision of the State Pollution Control Board. 
+(b) 
+E-waste
+This is not applicable as the Company is not reclaiming any electronic 
+items, and any e-waste generated on site is given to certified vendors 
+for safe disposal.  
+(c) 
+Hazardous waste
+OAL’s products are treated as consumables by its customers, who 
+manufacture value-added products. The Company has limited scope 
+for reclaiming any hazardous waste generated by its products at the 
+end of its life cycle.
+(d) 
+other waste
+Not applicable
+4.	
+a.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No)
+	
+	
+Yes, we have EPR registration no. for Ambernath and Bareilly Unit. For other units, the Company has 
+applied for EPR registration and same is under process.
+	
+b.	
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) 
+plan submitted to Pollution Control Boards?
+	
+	
+Yes, the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted 
+to Pollution Control Boards.
+	
+c.	
+If not, provide steps taken to address the same
+	
+	
+Not Applicable
+150
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, 
+including those in their value chains.
+(This principle emphasizes the importance of employee well-being. Companies should provide safe and healthy 
+working conditions, fair wages, and opportunities for  career development to all employees in their value chains, 
+including suppliers, contractors, and temporary workers.)
+Essential Indicators
+1.	
+a.	
+Details of measures for the well-being of employees:
+Category  	
+% of employees covered by
+Total 
+(A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care
+facilities
+Number
+(B)
+%  
+(B / A)
+Number
+(C)
+%
+(C / A)
+Number
+(D)
+% 
+(D / A)
+Number
+(E)
+% 
+(E / A)
+Number
+(F)
+% 
+(F / A)
+Permanent employees
+Male
+474
+452
+95%
+474
+100%
+NA
+NA
+0%
+0%
+0%
+0%
+Female
+87
+84
+97%
+87
+100%
+87
+100%
+NA
+NA
+0%
+0%
+Others
+0
+0
+0%
+0
+0%
+NA
+NA
+NA
+NA
+0%
+0%
+Total
+561
+536
+95.5%
+561
+100%
+87
+100%
+0%
+0%
+0%
+0%
+Other than Permanent employees
+Male
+4
+4
+100%
+4
+100%
+NA
+NA
+0
+0%
+0%
+0%
+Female
+1
+1
+100%
+1
+100%
+1
+100%
+NA
+NA
+0%
+0%
+Others
+0
+0
+0%
+0
+0%
+NA
+NA
+NA
+NA
+0%
+0%
+Total
+5
+5
+100%
+5
+100%
+1
+100%
+0
+0%
+0%
+0%
+	
+b. 	 Details of measures for the well-being of workers:
+Category  	
+% of workers covered by
+Total 
+(A)
+Health
+insurance
+ Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care
+facilities
+Number
+(B)
+% 
+(B / A)
+Number
+(C)
+% 
+(C / A)
+Number
+(D)
+% 
+(D / A)
+ Number
+(E)
+% 
+(E / A)
+Number
+(F)
+% 
+(F / A)
+Permanent workers
+Male
+173
+173
+100%
+173
+100%
+NA
+NA
+0%
+0%
+0%
+0%
+Female
+1
+1
+100%
+1
+100%
+1
+100%
+NA
+NA
+0%
+0%
+Others
+0
+0
+0%
+0
+0%
+NA
+NA
+NA
+NA
+0%
+0%
+Total
+174
+174
+100%
+174
+100%
+1
+100%
+0%
+0%
+0%
+0%
+Other than Permanent workers
+Male
+871
+871
+100%
+871
+100%
+NA
+NA
+0%
+0%
+0%
+0%
+Female
+74
+74
+100%
+74
+100%
+74
+100%
+NA
+NA
+0%
+0%
+Others
+0
+0
+0%
+0
+0%
+NA
+NA
+NA
+NA
+0%
+0%
+Total
+945
+945
+100%
+945
+100%
+74
+100%
+0%
+0%
+0%
+0%
+Financial Statements
+Statutory Reports
+Corporate Overview
+151
+Annual Report 2023-24
+	
+c. 	 Spending on measures towards well-being of employees and workers (including permanent and 
+other than permanent) in the following format
+ 
+FY 2023-24
+FY 2022-23
+Cost incurred on well- being measures as a % of total revenue of 
+the company
+0.31%
+0.31%
+2.	
+Details of retirement benefits, for Current Financial Year and Previous Financial Year:
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+ 100%
+   100%
+Y 
+92% 
+100% 
+Y 
+Gratuity
+ 100%
+100% 
+Y 
+ 100%
+ 100%
+ Y
+ESI*
+ 100%
+100% 
+Y 
+ 100%
+ 100%
+ Y
+Others – 
+Superannuation**
+ 0
+0 
+NA 
+0 
+0 
+NA 
+	
+*The actual ESI coverage is 16.43% for employees and 95.08% for workers. The 100% coverage shown in the 
+above table represents the full extent of ESI applicability, as the remaining individuals are exempt from ESI 
+coverage under the Employees’ State Insurance Corporation Act. 1948 (ESIC). 
+	
+* *The company extends NPS instead of superannuation scheme to its employees at their option, out of the 
+total remuneration.
+3.	
+Accessibility of workplaces:
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per 
+the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being 
+taken by the entity in this regard.
+	
+Yes. OAL is dedicated towards promoting diversity in the workforce and ensuring that all employees are 
+treated equally and with respect. We strive to create an inclusive work environment that is welcoming 
+to everyone. Our facilities are designed to be inclusive and accessible to people with disabilities as per 
+the provisions of The Rights of Persons with Disabilities Act, 2016. During the year, infrastructure at the 
+Bareily plant was completed and the infrastructure at Baroda plant is anticipated to finish by Q1-FY 24-25. 
+Rampage, signage and washrooms were constructed for person with disabilities. We are also working to 
+improve all necessary premises to make them more accessible to differently abled employees and workers.
+4. 	 Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? 
+If so, provide a web-link to the policy.
+	
+Yes. The web-link to the policy is as follows:
+	
+https://www.orientalaromatics.com/documents/corporate-governance/policies/Equal%20Employment%20
+Opportunity%20Policy.pdf
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave:
+Permanent employees
+Permanent workers
+Gender
+ Return to work rate
+ Retention rate
+ Return to work rate
+ Retention rate
+Male
+0%
+0%
+0
+0
+Female
+100%
+100%
+0
+0
+ Total 
+100%
+100% 
+0
+0
+152
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of 
+employees and worker? If yes, give details of the mechanism in brief:
+Category
+Yes/No
+If Yes, then give details of the mechanism in brief
+Permanent Workers
+ Yes
+As a part of the Employee well-being policy which 
+forms part of our BRSR Policy, aligned with HR Policy, 
+POSH Policy and Employee Grievance Mechanism, 
+any grievances or complaints shall be reported to the 
+respective location HR. If the same is not resolved within 
+the stipulated time, then same shall be escalated to the 
+Corporate HR. 
+The Corporate HR then reports to management on the 
+resolution of grievances or complaints and outlines any 
+corrective actions taken. Location wise contact details 
+are displayed on Notice boards at the respective plant 
+locations. 
+The Corporate HR can be contacted at: 
+dhirendra@orientalaromatics.com 
+(Mr. Dhirendra Bacchav, DGM- HR)
+Other than Permanent Workers
+ Yes
+Permanent Employees
+ Yes
+Other than Permanent Employees
+ Yes
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+employees 
+/ workers  
+in 
+respective 
+category 
+(A)
+No. of 
+employees/ 
+workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or Union (B)
+% (B / 
+A)
+Total 
+employees 
+/ workers 
+in 
+respective
+category 
+(C)
+No. of 
+employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or Union (D)
+% 
+(D / C)
+Total Permanent Employees
+Male
+474
+0
+0%
+443
+0
+0%
+Female
+87
+0
+0%
+84
+0
+0%
+Others
+0
+0
+0%
+0
+0
+0%
+Total
+561
+0
+0%
+527
+0
+0%
+Total Permanent Workers
+Male
+173
+141
+81%
+177
+177
+100%
+Female
+1
+0
+0%
+0
+0
+100%
+Others
+0
+0
+0%
+0
+0
+100%
+Total
+174
+141
+81%
+177
+177
+100%
+Financial Statements
+Statutory Reports
+Corporate Overview
+153
+Annual Report 2023-24
+8.	
+Details of training given to employees and workers:
+ Category 
+FY 2023-24
+FY 2022-23
+Total 
+(A) 
+On Health 
+and safety 
+measures 
+On Skill 
+upgradation 
+Total 
+(D) 
+On Health and 
+safety measures 
+On Skill 
+upgradation 
+ No.  
+(B) 
+ % 
+(B/ A) 
+ No.  
+(C) 
+ % 
+(C / A) 
+ No. 
+(E) 
+ % 
+(E / D) 
+ No. (F) 
+ % 
+(F / D) 
+Employees
+Male
+478
+442
+92%
+286
+60%
+452
+293
+65%
+85
+19%
+Female
+88
+51
+58%
+59
+67%
+85
+6
+7%
+35
+41%
+Others
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+Total
+566
+493
+87%
+345
+61%
+537
+299
+56%
+120
+22%
+Workers
+Male
+1044
+1044
+100%
+1044
+100%
+177 
+82
+46%
+7
+4%
+Female
+75
+75
+100%
+75
+100%
+0
+0
+0%
+0
+0%
+Others
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+Total
+1119
+1119
+100%
+1119
+100%
+177
+82
+46%
+7
+4%
+Note: Total workers and total employees are inclusive of other than permanent employees and other than 
+workers.
+9.	
+Details of performance and career development reviews of employees and workers:
+Category 
+FY 2023-24
+FY 2022-23
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees
+Male
+474
+474
+100%
+452
+452
+100%
+Female
+87
+87
+100%
+85
+85
+100%
+Others
+0
+0
+0%
+0
+0
+0%
+Total
+561
+561
+100%
+537
+537
+100%
+Workers
+Male
+173
+173
+100%
+758
+0
+0%
+Female
+1
+1
+100%
+7
+0
+0%
+Others
+0
+0
+0%
+0
+0
+0%
+Total
+174
+174
+100%
+765
+0
+0%
+Note: The above data of FY 2023-24 includes only permanent employees and permanent workers.
+10.	 Health and safety management system: 
+	
+a. 	 Whether an occupational health and safety management system has been implemented by the entity? 
+(Yes/ No)
+	
+	
+Yes. The Company has implemented an Occupational Health and Safety management system that covers 
+and applies to all employees and contractual workers. The company is IMS (i.e. Integrated Management 
+System) certified wherein the Company’s operational facilities are ISO 45001 (an international 
+Occupational Health and Safety standard) certified by independent audit agencies. Following training 
+& activities are done time to time:
+	
+	
+1.	
+Mock Fire drills
+	
+	
+2.	
+Annual Health check-up (with tie ups with nearby hospitals)
+	
+	
+3.	
+POSH Trainings
+	
+	
+4.	
+Maintenance of an incident register
+154
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-
+routine basis by the entity?
+	
+	
+We prioritize the identification and mitigation of risks through our audit system, which includes internal 
+and external audits focusing on environmental and occupational health and safety parameters. The 
+Company has appropriate procedures to assess risk on routine and non-routine basis:
+ 
+ 
+• 
+Work Permit System
+ 
+ 
+• 
+Job Safety Analysis
+ 
+ 
+• 
+Safety Inspections and Audits
+ 
+ 
+• 
+Incident Investigation and Analysis
+ 
+ 
+• 
+Employee Involvement and Reporting
+ 
+ 
+• 
+Hazard Identification & Risk Assessment (HIRA)
+ 
+ 
+• 
+Management of Change
+ 
+ 
+• 
+Safety Committee
+ 
+ 
+• 
+Toolbox Talk & Safety Training
+	
+c.	
+Whether you have processes for workers to report the work related hazards and to remove themselves 
+from such risks. (Yes/No)
+	
+	
+Yes.
+ 
+ 
+• 
+Reporting of unsafe condition & unsafe acts (Safety Observations)
+ 
+ 
+• 
+Near Miss Reporting
+ 
+ 
+• 
+Toolbox Talk
+ 
+ 
+• 
+Safety Committee meeting
+	
+d. 	 Do the employees/ worker of the entity have access to non-occupational medical and healthcare 
+services? (Yes/ No). If yes, the Coverage such systems?
+	
+	
+Yes.
+ 
+ 
+• 
+Mediclaim Policy Family for employee & family members
+ 
+ 
+• 
+Yoga & Meditation session for employees for physical and mental wellness
+ 
+ 
+• 
+Blood tests and eye tests conducted for employees and workers.
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category*
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one 
+million-person hours worked)
+Employee
+ 0
+0 
+Workers
+ 0
+0
+Total recordable work-related injuries
+Employee
+5
+1
+Workers
+5
+2
+No. of fatalities
+Employee
+ 0
+0
+Workers
+ 0
+0
+High-consequence work-related injury or ill health 
+(excluding fatalities)
+Employee
+ 0
+0
+Workers
+ 0
+0
+*Including in the contract workforce
+Financial Statements
+Statutory Reports
+Corporate Overview
+155
+Annual Report 2023-24
+12. 	 Describe the measures taken by the entity to ensure a safe and healthy work place:
+	
+The Health, Safety & Environment (HSE) department at the manufacturing units is headed by the respective 
+Plant Heads. The Plant Head has the overall responsibility for the implementation of the requirements 
+of the HSE standards. The Company has adopted ISO 45001, an internationally recognized standard for 
+occupational health and safety management systems. The Plant Head is supported by HSE Head & HSE 
+Officers to ensure the effective management of process-related risks, promoting safety and preventing 
+incidents. The company has adopted:
+ 
+• 
+HIRA (Hazard Identification & Risk Assessment)
+ 
+• 
+Safety Audit by Third Party
+ 
+• 
+Execution of all the high-risk jobs through a work permit system
+ 
+• 
+Conduct of Safety Committee Meetings
+ 
+• 
+Regular Safety Training to employee
+ 
+• 
+Employee transport facility
+13.	 Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Working Conditions
+-
+-
+-
+-
+-
+-
+Health & Safety
+-
+-
+-
+-
+-
+-
+14.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Health and safety practices
+100%*
+Working Conditions
+100%**
+* (ISO 45001 internal as well as external audit)
+** (Third Party Safety Audit as per IS 14489)
+15. 	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and 
+on significant risks/ concerns arising from assessments of health & safety practices and working conditions.
+	
+There were no incidents where corrective action was required to be taken. .
+156
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its 
+stakeholders
+(This principle highlights the importance of stakeholder engagement. Companies should consider the interests and 
+perspectives of all stakeholders, including shareholders, employees, customers, suppliers, and the communities 
+in which they operate. They should also be responsive to stakeholder concerns and feedback.)
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity:
+	
+The Company identifies any individual, group, or institution that contributes to its business chain as a major 
+stakeholder. Key stakeholders include:
+ 
+• 
+Customers
+ 
+• 
+Employees
+ 
+• 
+Suppliers and value chain partners
+ 
+• 
+Shareholders
+ 
+• 
+Government and regulators
+ 
+• 
+Non-governmental organizations (NGOs/NPOs)
+	
+The process of identifying these key stakeholders involves input and comments from all departments within 
+the Company, as well as senior management. This collaborative approach ensures a thorough review is 
+conducted to recognize the most important stakeholders in the company’s activities.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group:
+Stakeholder 
+Group
+Whether identified 
+as Vulnerable & 
+Marginalized Group
+Channels of 
+communication (Email, 
+SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website, 
+Other- Please Specify)
+Frequency of 
+engagement 
+(Annually, Half-
+yearly, Quarterly, 
+others- Please 
+specify)
+Purpose and  scope of engagement 
+including key topics and concerns raised 
+during such engagement
+Customers
+ No
+Exhibitions , Customer 
+feedback surveys, In-
+person meetings/letters, 
+Company websites, 
+Product information on 
+packaging, Conferences, 
+Email, SMS
+Others- Frequent 
+& need-basis
+The Company recognizes that understanding 
+its customers' needs is crucial for setting the 
+quality and pricing of its products. Customer 
+demands also fuel the creation of new 
+and innovative products. Additionally, the 
+Company aims to reduce the environmental 
+and social impacts of its products, helping 
+customers 
+achieve 
+their 
+sustainability 
+objectives.
+Employees
+ No
+Emails, Video messages, 
+Internal Communication 
+platforms, Team meetings, 
+One-to-one meetings/
+briefings, Trainings,, Notice 
+Boards  
+Others- Frequent 
+& need-basis
+- The Company aims to enhance employee 
+engagement 
+and 
+communication 
+by 
+promoting collaborative working, diversity, 
+and well-being at the workplace. 
+- The Company also seeks to provide 
+employees 
+with 
+opportunities 
+for 
+accelerated career growth.
+Financial Statements
+Statutory Reports
+Corporate Overview
+157
+Annual Report 2023-24
+Stakeholder 
+Group
+Whether identified 
+as Vulnerable & 
+Marginalized Group
+Channels of 
+communication (Email, 
+SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website, 
+Other- Please Specify)
+Frequency of 
+engagement 
+(Annually, Half-
+yearly, Quarterly, 
+others- Please 
+specify)
+Purpose and  scope of engagement 
+including key topics and concerns raised 
+during such engagement
+Suppliers & 
+Value chain 
+partners
+ No
+Supplier evaluation 
+questionnaires, Contractual 
+meetings, Email, SMS, 
+Website, Phone calls, Video 
+Conferencing Meetings.
+Others- Frequent 
+& need-basis
+The Company's goals include creating 
+maximum 
+opportunities 
+for 
+suppliers 
+throughout the value chain, embedding 
+sustainability into procurement decisions, 
+and sourcing high-quality raw materials and 
+services at competitive prices.
+Shareholders/ 
+Research 
+Analysts 
+ No
+Annual General Meeting, 
+Annual Reports, One-to-
+one meetings, Quarterly 
+conference calls, Investor 
+conferences, emails, phone 
+calls and website.
+Others- Frequent 
+& need-basis  
+The Company aims to reveal both financial 
+and non-financial factors to offer valuable 
+information that creates substantial long-
+term value for investors and shareholders. 
+Additionally, the Company engages with all 
+stakeholders to understand their priorities 
+and address their queries and concerns, 
+thereby enhancing business practices.
+Governments 
+& Regulatory 
+Bodies
+ No
+Press Releases, Quarterly 
+Results, Annual Reports 
+including BRSR Report, 
+Stock Exchange filings, , 
+Statutory Filings.
+Others- Frequent 
+& need-basis  
+The 
+Company 
+strives 
+to 
+boost 
+its 
+sustainability 
+performance 
+and 
+ensure 
+better compliance with relevant regulations. 
+It also seeks to aid nation-building through 
+its products and taxes, while supporting 
+government initiatives through corporate 
+social 
+responsibility 
+(CSR) 
+and 
+local 
+community contributions.
+NGOs/ NPOs 
+& Other 
+groups
+ No
+CSR initiatives, Telephonic 
+discussions, Emails, 
+Personal visits.
+Others- Frequent 
+& need-basis
+The Company plans to collaborate with 
+experts for the successful execution of CSR 
+programs and to routinely discuss and share 
+updates to enhance the current initiatives.
+158
+PRINCIPLE 5: Businesses should respect and promote human rights
+This principle focuses on the importance of human rights. Companies should respect and promote human rights, 
+including the rights to freedom of expression, association, and privacy. They should also prevent and address 
+human rights violations in their operations and value chains.
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the 
+entity, in the following format:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of 
+employees 
+/ workers 
+covered (B)
+% (B / A)
+Total (C)
+No. of
+Employees 
+/ workers 
+covered 
+(D)
+% (D / C)
+Employees
+Permanent
+561
+405
+72%
+527
+286
+54%
+Other  than 
+Permanent
+5
+5
+100%
+10
+0
+0%
+Total Employees
+566
+410
+72.4%
+537
+286
+53%
+Workers
+Permanent
+174
+46
+26.44%
+177
+17
+10%
+Other than 
+Permanent
+945
+42
+4.44%
+588
+0
+0%
+Total Workers
+1119
+88
+7.86%
+765
+17
+2%
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category 
+FY 2023-24
+FY 2022-23
+Total 
+(A) 
+Equal to 
+Minimum Wage 
+More than 
+Minimum Wage 
+Total 
+(D) 
+Equal to 
+Minimum Wage 
+More than 
+Minimum Wage 
+No. 
+(B) 
+% (B / 
+A) 
+No. 
+(C) 
+% (C / 
+A) 
+No. 
+(E) 
+% (E / 
+D) 
+No. 
+(F) 
+% (F / 
+D) 
+Employees
+Permanent
+Male
+474
+0
+0%
+474
+100%
+443
+0
+0%
+443
+100%
+Female
+87
+0
+0%
+87
+100%
+84
+0
+0%
+84
+100%
+Total
+561
+0
+0%
+561
+100%
+527
+0
+0%
+527
+100%
+Other than Permanent
+Male
+4
+0
+0%
+4
+100%
+9
+0
+0%
+9
+100%
+Female
+1
+0
+0%
+1
+100%
+1
+0
+0%
+1
+100%
+Total
+5
+0
+0%
+5
+100%
+10
+0
+0%
+10
+100%
+Workers
+Permanent 
+Male
+173
+0
+0%
+173
+100%
+177
+0
+0%
+177
+100%
+Female
+1
+0
+0%
+1
+100%
+0
+0
+0%
+0
+100%
+Total
+174
+0
+0%
+174
+100%
+177
+0
+0%
+177
+100%
+Other than Permanent
+Male
+871
+871
+100%
+0
+0%
+581
+581
+100%
+0
+0%
+Female
+74
+74
+100%
+0
+0%
+7
+7
+100%
+0
+0%
+Total
+945
+945
+100%
+0
+0%
+588
+588
+100%
+0
+0%
+Financial Statements
+Statutory Reports
+Corporate Overview
+159
+Annual Report 2023-24
+3.	
+Details of remuneration/salary/wages, in the following format:
+	
+a.	
+Median remuneration / wages:
+Male
+Female
+Number
+Median 
+remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median 
+remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD)
+3
+2,34,08,000
+0
+0
+Key Managerial Personnel
+2
+96,33,874
+2
+74,35,528
+Employees other than BoD and KMP
+473
+4,20,072
+86
+5,36,568
+Workers
+1044
+1,79,100
+75
+1,52,292
+	
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of total wages
+13.52%
+12.70%
+4. 	 Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or 
+issues caused or contributed to by the business?
+	
+Yes.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues:
+	
+The Human Resource Head and the individual plant heads hold the responsibility for looking after any 
+human rights issues caused or contributed to by the business. 
+	
+Additionally, the company has formed POSH Policy in which location wise POSH committees have been 
+formed along with an external committee member who also represents a NGO. The POSH Committee 
+carries out Quarterly Review where all the human right issues related to female employees are discussed 
+and corrective actions taken on the same is informed to the Management by the corporate HR. 
+	
+Likewise, OAL’s all manufacturing facilities have safety and canteen committees to look after and solve the 
+overall Human Rights issues related to Food and work place safety. 
+	
+Any grievances / complaints with respect to non-compliance with the Policy shall be reported to the 
+Corporate HR. The company has established and defined internal procedures to redress grievances related 
+to Employees and workers. 
+	
+The Corporate HR can be contacted at: 
+	
+dhirendra@orientalaromatics.com 
+	
+(Mr. Dhirendra Bacchav, DGM- HR) 
+	
+The Company values honesty, integrity, and ethical behaviour as the foundation for long-term trust. 
+	
+Respect for human rights is critical in upholding these fundamental concepts. The Company is committed 
+to protecting and upholding human rights. 
+	
+For more information, refer to our BRSR Policy which includes the Human Rights Policy and Equal 
+Employment Opportunity Policy.
+160
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Sexual Harassment
+0
+0
+-
+0
+0
+-
+Discrimination at workplace
+0
+0
+-
+0
+0
+-
+Child Labour
+0
+0
+-
+0
+0
+-
+Forced 
+Labour/Involuntary 
+Labour
+0
+0
+-
+0
+0
+-
+Wages
+0
+0
+-
+0
+0
+-
+Other human rights related 
+issues
+-
+-
+-
+-
+-
+-
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and 
+Redressal) Act, 2013, in the following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Total Complaints reported under Sexual Harassment on of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+ 0
+0 
+Complaints on POSH as a % of female employees / workers
+ 0
+ 0
+Complaints on POSH upheld
+ 0
+ 0
+8. 	 Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+Oriental Aromatics is dedicated to employee well-being through its stringent Prevention of Sexual Harassment 
+(POSH) Policy. This policy ensures that complainants’ human rights are protected, preventing any adverse 
+consequences related to discrimination or harassment. It guarantees confidentiality and anonymity for all 
+complainants, supported by an Internal Complaints Committee that conducts inquiries while safeguarding 
+the identities of all involved. Regular sensitization programs on discrimination and sexual harassment 
+prevention further reinforce this commitment. 
+	
+The POSH Policy also features location-specific committees which comprises of NGO representative. These 
+committees conduct quarterly reviews to address human rights issues concerning female employees, 
+implementing corrective actions as necessary. The outcomes of these reviews and actions taken are reported 
+to management by the Corporate HR.
+9. 	 Do human rights requirements form part of your business agreements and contracts? (Yes/No/NA)  
+	
+Yes.
+9.	
+Assessments for the year:
+% of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Child labour 
+100%
+Forced/involuntary labour 
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others – please specify
+- 
+11. 	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising 
+from the assessments at Question 10 above.
+	
+There were no cases where corrective action was required. 
+Financial Statements
+Statutory Reports
+Corporate Overview
+161
+Annual Report 2023-24
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the 
+environment
+(This principle emphasizes the importance of environmental stewardship. Companies should minimize their 
+impact on the environment, conserve natural resources, and promote environmental sustainability. They should 
+also take steps to restore and rehabilitate degraded ecosystems.)
+Essential Indicators
+1.	
+Details of total energy consumption (in GigaJoules or multiples) and energy intensity, in the following 
+format:
+(In Joules or multiples)
+Parameter
+FY 2023-24
+*FY 2022-23
+From renewable sources
+Total electricity consumption (A)
+-
+-
+Total fuel consumption (B)
+-
+-
+Energy consumption through other sources (C)
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+-
+-
+From non-renewable sources
+-
+Total electricity consumption (D)
+89,846.64
+ 91,064.65
+Total fuel consumption (E)
+7,68,116.26
+8,03,604.19
+Energy consumption through other sources (F)
+ -
+ -
+Total energy consumed from non-renewable sources (D+E+F)
+ 8,57,962.90
+8,94,668.83
+Total energy consumed (A+B+C+D+E+F)
+ 8,57,962.90
+8,94,668.83
+Energy intensity per rupee of turnover
+(Total energy consumed (GJ) / Revenue from operations (in rupees))
+0.000101687
+0.000104659
+Energy intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (PPP)
+(Total energy consumed (in GJ)/ Revenue from operations adjusted for 
+PPP (in rupees))
+0.002056108
+0.002116206
+Energy intensity in terms of physical output
+(Total energy consumed (in GJ) per unit of production (in metric tonnes)
+61.63969394
+59.12038789
+Energy intensity (optional) – the relevant metric may be selected by the 
+entity
+-
+ -
+Note: Indicate if any independent assessment/ evaluation/assurance 
+has been carried out by an external agency?
+ No
+If yes, name of the external agency.
+ NA
+	
+*Note: The energy number for FY 2022-23 has been updated due to change in energy factors. 
+2. 	 Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Yes/No)
+	
+No. 
+	
+If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not 
+been achieved, provide the remedial action taken, if any.
+	
+Not Applicable
+162
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+ 
+- 
+(ii) Groundwater
+1,63,286
+ 1,95,039
+(iii) Third party water
+1,93,243
+ 1,57,897
+(iv) Seawater / desalinated water
+ -
+- 
+(v) Others 
+ -
+- 
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+3,56,529
+3,52,936 
+Total volume of water consumption (in kilolitres)
+2,28,200 
+*2,28,430
+Water intensity per rupee of turnover 
+-
+-
+(Total water consumption (in KL)/ Revenue from operations (in rupees))
+0.000027047
+0.000026722
+Water intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (PPP) 
+(Total water consumption (in KL) / Revenue from operations adjusted for 
+PPP (in rupees))
+0.000546881
+0.000540317
+Water intensity in terms of physical output
+Total water consumption (in KL) per unit of production (in metric tonnes)
+ 16.39
+15.09482588
+Water intensity (optional) – the relevant metric may be selected by the entity
+ -
+ -
+	
+*Note:*Methodology for calculation for water consumption for FY 2022-23 has been updated (water 
+consumption= water withdrawal - water discharge)
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Yes/No)
+	
+No
+	
+If yes, name of the external agency.
+	
+NA
+4. 	 Provide the following details related to water discharged:
+Parameter
+FY 2023-24
+FY 2022-23
+Water discharge by destination and level of treatment (in kilolitres)
+(i) To Surface water
+ -
+-
+No treatment
+ -
+ -
+With treatment – please specify level of treatment
+ -
+-
+(ii) To Groundwater
+88,443
+81,535
+No treatment
+With treatment – Tertiary treatment
+88,443
+81,535
+(iii) To Seawater
+ -
+-
+No treatment
+ -
+ -
+With treatment – please specify level of treatment
+ -
+-
+(iv) Sent to third parties
+39,886
+42,971
+No treatment- (High Concentrated Effluent to common spray dryer)
+9,569
+ 8,664
+With treatment –
+(High Concentrated Effluent to CETP with primary, secondary and tertiary)
+30,317
+ 34,307
+(v) Others
+-
+-
+No treatment
+ -
+ -
+With treatment – please specify level of treatment
+ -
+-
+Total water discharged (in kilolitres)
+ 1,28,329
+1,24,506
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N)
+No
+If yes, name of the external agency.
+ NA
+Financial Statements
+Statutory Reports
+Corporate Overview
+163
+Annual Report 2023-24
+5. 	 Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage 
+and implementation.
+ 
+Yes The Ambernath plant has successfully implemented a Zero Liquid Discharge (ZLD) mechanism. This 
+innovative approach ensures that no liquid waste is discharged from the plant. Instead, the water is recycled and 
+utilized for irrigation and flushing purposes, effectively conserving this valuable resource.
+	
+In line with our commitment to water conservation, we have taken proactive measures at our Bareilly and 
+Baroda Plants. Through our reuse and recycle approach, we aim to optimize water consumption and minimize 
+wastewater generation. We envisage implementing ZLD in both these plants to enhance the coverage of ZLD 
+practices across the company. These initiatives reflect our recognition of the importance of water as a critical 
+resource, and our dedication to water conservation.
+6. 	 Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please 
+specify unit
+FY 2023-24
+FY 2022-23
+NOx
+ ppm
+74.674
+ 34.60
+SOx
+ Mg/Nm3
+38.36667
+ 20.40
+Particulate matter (PM 10)
+ ppm
+49
+62.75
+Particulate matter (PM 2.5)
+Persistent organic pollutants (POP)
+-
+-
+-
+Volatile organic compounds (VOC)
+-
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+-
+Others – please specify
+Note: Indicate if any independent assessment/ evaluation/
+assurance has been carried out by an external agency? (Y/N)
+ Yes
+If yes, name of the external agency.
+1. Enviro-Tech services
+2. Bhagwati Enviro Care Pvt. Ltd.
+3. Sky Lab, Bhiwandi
+4. Sky Lab Analytical Laboratory.
+7. 	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 1 emissions (Break-up of 
+the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available) *
+Metric tonnes of CO2 
+equivalent
+26,268.76
+31,606
+Total Scope 2 emissions (Break-up of 
+the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+17,869.50
+20,376
+Total Scope 1 and Scope 2 emissions 
+per rupee of turnover
+(Total Scope 1 and Scope 2
+GHG emissions (TCO2e / 
+Revenue from operations (in 
+rupees))
+0.000005231 0.000006081
+Total Scope 1 and Scope 2 emission 
+intensity per rupee of turnover adjusted 
+for Purchasing Power Parity (PPP)
+(Total Scope 1 and Scope 2
+ GHG emissions (TCO2e)/
+Revenue from operations
+adjusted for PPP (in rupees))
+0.000105777
+0.000122956
+Total Scope 1 and Scope 2 emission 
+intensity in terms of physical output
+MTCO2e per metric tonne
+3.17107941
+3.43500958
+164
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 1 and Scope 2 emission 
+intensity (optional) – the relevant metric 
+may be selected by the entity
+ -
+ -
+ -
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N)
+ No
+If yes, name of the external agency.
+NA
+	
+*Biogenic emission fuel consumed in FY23-24 is 54,238.80 TCO2e
+8. 	 Does the entity have any project related to reducing Green House Gas emission?  (Yes/ No). If yes, then 
+provide details.
+	
+Yes. OAL strives to address the climate change risks arising out of greenhouse gas emission by taking up 
+energy efficiency and renewable energy projects in its plants. The Company has invested in a biomass-based 
+boiler to meet its steam requirements and reduce its dependence on fossil fuel. The company regularly takes 
+up various energy efficiency initiatives at the plants by adopting energy efficient technologies for reducing 
+greenhouse gas emission. The company’s commitment to climate action and minimizing environmental 
+impact is demonstrated through their Carbon Disclosure Project (CDP) certification, where they received a 
+B -rating in the Management band.
+	
+This is higher than the Asia regional average of C, enabling OAL to progress in environmental stewardship 
+by benchmarking and comparing their climate governance practices with their peers.
+9. 	 Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+ 142.73
+26.28
+E-waste (B)
+ 0.93
+ 4.57
+Bio-medical waste (C)
+ 0
+ 0.50
+Construction and demolition waste (D)
+ 0
+ 0
+Battery waste (E)
+ 0.07
+ 0.41
+Radioactive waste (F)
+ 0
+ 0
+Other Hazardous waste. Please specify, if any. (G)
+ 13,004.27
+ 17,541.27
+Other Non-hazardous waste generated (H).
+Please specify, if any. 
+(Break-up by composition i.e. by materials relevant to the sector)
+1,084.30
+239.50
+Total (A+B + C + D + E + F + G + H)
+14,232.28
+17,812.53
+Waste intensity per rupee of turnover
+(Total waste generated / Revenue from operations)
+ 0.000001687
+0.000002084
+Waste intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (PPP) (Total waste generated / Revenue from operations 
+adjusted for PPP)
+0.000034108
+0.000042133
+Waste intensity in terms of physical output
+1.022
+1.177
+Waste intensity (optional) – the relevant metric may be selected by 
+the entity
+-
+-
+Financial Statements
+Statutory Reports
+Corporate Overview
+165
+Annual Report 2023-24
+For each category of waste generated, total waste recovered through recycling, re-using or other 
+recovery operations (in metric tonnes)
+Category of waste
+FY 2023-24
+FY 2022-23
+(i) Recycled
+ 0
+ 0
+(ii) Re-used
+ 0*
+ 14,777
+(iii) Other recovery operations
+ 13,811.20
+ 2,329
+Total
+ 13,811.20
+17,106
+* Waste recycled and reused in the year FY23-24 is considered in other recovery options
+For each category of waste generated, total waste disposed by nature of disposal method (in metric 
+tonnes)
+Category of waste
+FY 2023-24
+FY 2022-23
+(i) Incineration
+0
+ 108
+(ii) Landfilling
+ 310.91
+ 265
+(iii) Other disposal operations
+110.19
+ 69
+Total
+421.10
+ 442
+Note: Indicate if any independent assessment/ evaluation/
+assurance has been carried out by an external agency? (Y/N)
+ No
+If yes, name of the external agency.
+ NA
+10. 	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy 
+adopted by your company to reduce usage of hazardous and toxic chemicals in your products and processes 
+and the practices adopted to manage such wastes.
+	
+The manufacturing process produces wastes, which comprises of plastic and steel drums, ETP sludge, 
+distillation residue, glass roll, boiler ash, solid waste from building and demolition, e-waste, and plastic 
+garbage. In light of this, the company has implemented efforts to ensure responsible waste management 
+procedures. Our goal is to avoid the disposal of huge volumes of waste by implementing techniques that 
+recycle used materials and reintroduce excess material back into the manufacturing process. The company 
+follows the ‘3R’ principle, which aims to reduce, reuse, and recycle garbage.
+	
+We dispose of hazardous garbage using legal and environmentally safe methods, and we sell non-hazardous 
+material to licensed recyclers. We handle all trash in accordance with the Consent to Operate/Hazardous 
+trash authorization for each location. To reduce the generation of hazardous waste, the organization uses a 
+“Reduce, Reuse, Recycle, Recovery, and Disposal” approach that is refined on a regular basis. The Company 
+either sends hazardous waste to authorized recyclers, disposes of it at Treatment Storage and Disposal 
+Facilities (TSDF), or sells it to other companies as raw material.
+	
+Discarded batteries are disposed as buy back through authorized dealers. The plastic waste is properly 
+collected, segregated and stored at designated place and is disposed through authorized vendors and 
+e-waste is sent to certified recyclers only.
+	
+The construction and demolition waste is collected, segregated and reused wherever required inside the 
+premises.
+	
+We are planning to install a composter to treat the canteen and employee’s residual waste.
+	
+We have ETP and STP installed at all our sites. The wastewater is reused for gardening otherwise released in 
+the Nagar Nigam sewage system. The sludge generated in ETP waste is sent to a certified third party, and 
+STP waste is used for gardening.
+	
+Recognizing the importance of water as a resource, we undertake several initiatives to optimize the 
+consumption and reduce resultant wastewater generation through our reuse or recycle approach at our 
+Bareilly and Baroda Plant. Effluent generated at Bareilly and Baroda is treated in Effluent Treatment Plant 
+(ETP) followed by treatment in RO plant. The company has installed Effluent Treatment Plant (ETP), Reverse 
+Osmosis (RO) plant to recover 70%-80% of the water from ETP effluent which is recycled to process. 
+Currently we are recycling 30% pure condensate against total steam consumption of 175 TPD (tonnes per 
+day). Bareilly plant recycles wash water within the same process, thus saving on almost 5 -10% of fresh water. 
+166
+11. 	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) 
+where environmental approvals / clearances are required, please specify details in the following format:
+S. 
+No.
+Location of operations/
+offices
+Type of 
+operations
+Whether the conditions of environmental 
+approval / clearance are being complied with? 
+(Y/N) If no, the reasons thereof and corrective 
+action taken, if any.
+Not Applicable
+12. 	 Details of environmental impact assessments of projects undertaken by the entity based on applicable 
+laws, in the current financial year:
+	
+None of the projects undertaken by OAL in FY 2023-24 required Environmental Impact Assessments (EIA).
+Name and brief 
+details of project
+EIA 
+Notification 
+No.
+Date
+Whether conducted 
+by independent 
+external agency 
+(Yes / No)
+Results 
+communicated in 
+public domain 
+(Yes / No)
+Relevant 
+Web link
+Not Applicable
+13. 	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the 
+Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment 
+protection act and rules thereunder (Y/N/NA). 
+	
+Yes
+	
+If not, provide details of all such non-compliances, in the following format: 
+Specify the law/
+regulation/ guidelines 
+which was not 
+complied with
+Provide details of the 
+non- compliance
+Any fines / penalties / action 
+taken by regulatory agencies 
+such as pollution control 
+boards or by courts
+Corrective action taken, 
+if any
+Not Applicable
+Leadership Indicators
+2. 	 Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 3 emissions (Break-up of the GHG 
+into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if 
+available)*
+Metric tonnes of CO2 
+equivalent
+3,80,435.94
+-
+Total Scope 3 emissions per rupee of turnover
+(Total Scope 3 emissions 
+/ Total revenue from 
+operations)
+0.00004509
+-
+Total Scope 3 emission intensity (optional) – the 
+relevant metric may be selected by the entity 
+Units of Production (Metric Tonnes)
+(Total Scope 3 emissions / 
+Total units of production)
+27.332132
+-
+Note: Indicate if any independent assessment/ 
+evaluation/assurance has been carried out by an 
+external agency? (Y/N)
+ No
+If yes, name of the external agency.
+ NA
+	
+**Scope 3 Categories includes emission from Category-1 Purchased Goods & Services, Category-2 Capital 
+Goods, Category-4 Upstream Transportation & Distribution, Category 5- Waste Generated, Category-6 
+Business Travel, Category-7 Employee Commuting, Category-9 Downstream Transportation & Distribution
+Financial Statements
+Statutory Reports
+Corporate Overview
+167
+Annual Report 2023-24
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, 
+should do so in a manner that is responsible and transparent
+(This principle highlights the importance of responsible advocacy. Companies should engage in policy advocacy 
+in a responsible and transparent manner, and avoid engaging in activities that could undermine the public interest 
+or the democratic process.)
+Essential Indicators
+1.	
+a.	
+Number of affiliations with trade and industry chambers/ associations: 
+	
+	
+The Company has affiliations with 9 (Nine) trade and industry chambers / associations.
+	
+b. 	 List the top 10 trade and industry chambers/ associations (determined based on the total members 
+of such body) the entity is a member of/ affiliated to:
+Sr. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ 
+associations 
+(State/National/ International)
+ 1.
+Indian Institute of Packaging (IIP)
+ National
+ 2.
+Industrial Entrepreneurs Memorandum (IEM) certificate
+ National
+ 3.
+Chemexcil (RCMC)  
+ National
+ 4.
+Bombay Chamber of Commerce and Industry
+ National
+ 5.
+Indian Chemical Council (ICC)
+ National
+ 6.
+Flavors and Fragrance Association of India
+ National
+7.
+International Federation of Essential Oil and Aroma Trade
+ National
+8.
+International Fragrance Association
+ National
+9.
+Export Inspection Agency
+ National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct 
+by the entity, based on adverse orders from regulatory authorities:
+Name of authority
+Brief of the case
+Corrective action taken
+There were no cases where corrective action was needed to be taken.
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development
+(This principle emphasizes the importance of promoting inclusive and equitable economic development. 
+Companies should create economic opportunities for all, including disadvantaged and marginalized groups. 
+They should also contribute to the development of local communities and support social and economic 
+empowerment.)
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable 
+laws, in the current financial year:
+Name and brief 
+details of project
+SIA 
+Notification 
+No.
+Date of 
+notification
+Whether conducted 
+by independent 
+external agency
+(Yes / No)
+Results 
+communicated 
+in public domain
+(Yes / No)
+Relevant 
+Web link
+ Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+168
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity, in the following format:
+Sr. No.
+Name of Project 
+for which R&R is 
+ongoing
+State
+District
+No. of Project 
+Affected Families 
+(PAFs)
+% of PAFs 
+covered by 
+R&R
+Amounts paid 
+to PAFs in the 
+FY (In INR)
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+3. 	 Describe the mechanisms to receive and redress grievances of the community.
+	
+OAL recognizes its social duty and promotes inclusive growth and equitable development for all stakeholders. 
+It passionately thinks that expanding together responsibly will contribute to the success of its business.
+	
+The Value Chain Partners and Communities Grievance Redressal Policy along with the BRSR Policy highlights 
+the grievance redressal mechanism of the community. It discusses the process of receiving and resolving 
+community complaints and grievances. The unit-level Human Resource/Admin Department communicates 
+with the community on a number of issues such as health care, education, sustainability, rural development, 
+and so on, and any concerns received are addressed and resolved.
+	
+Any complaint or grievance received from the community shall be reported to DGM-HR for Registered office 
+locations and to the factory managers at the respective plants as mentioned below:
+	
+OAL Registered Office & R&D Lab: dhirendra@orientalaromatics.com / info@orientalaromatics.com
+	
+Ambernath : jignesh@orientalaromatics.com
+	
+Bareilly: jpathak@orientalaromatics.com
+	
+Vadodara: jigar_patel@orientalaromatics.com
+	
+Grievances related to CSR shall be reported to the Chairman of the CSR Committee Mr. Shyamal A. Bodani, 
+at info@orientalaromatics.com.
+	
+With a focus on community needs and concerns, we try to reduce our environmental, societal, and communal 
+impact while contributing to society through carefully selected CSR programs.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/ small producers
+ 8.89%
+ 6.19%
+Directly from within India
+ 47.05%
+ 35.52%*
+* Sourced directly from within the district and neighbouring districts
+5. 	 Job creation in smaller towns – Disclose wages paito persons employed (including employees or workers 
+employed on a permanent or non-permanent / on contract basis) in the following locations, as % of total 
+wage cost
+FY 2023-24
+FY 2022-23
+Rural
+35.21%
+35.04%
+Semi-urban
+10.35%
+10.67%
+Urban
+26.51%
+22.33%
+Metropolitan
+27.93%
+31.96%
+(Place to be categorized as per RBI Classification System - rural / semi-urban / urban/metropolitan)
+Financial Statements
+Statutory Reports
+Corporate Overview
+169
+Annual Report 2023-24
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a 
+responsible manner
+(This principle highlights the importance of responsible consumer engagement. Companies should provide safe, 
+high-quality products and services, and ensure that they are marketed and sold ethically and responsibly. They 
+should also be transparent about their products and services, and provide consumers with the information they 
+need to make informed choices.)
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback: 
+	
+Oriental Aromatics has a comprehensive system in place to handle consumer complaints and feedback as 
+part of its Integrated Management System. Customers are invited to complete a feedback form, which covers 
+various aspects of our performance, including quality, quantity, delivery schedule, assistance provided by 
+service personnel, and communication. Customers rate each aspect from excellent to poor, providing us 
+with valuable insights into our strengths and areas for improvement. 
+	
+Customers may file a complaint via letter or email, which is further analyzed by the management. Upon 
+receipt of a complaint, an acknowledgment is immediately sent to the customer. Depending on the nature 
+of the complaint—whether technical or commercial— either the Accounts department or the Plant Head, will 
+take necessary action. Finally, the required corrective measures are implemented and communicated back 
+to the customer.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry 
+information about:
+ 
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+100%
+Safe and responsible usage
+100%
+Recycling and/or safe disposal 
+100%
+3.	
+Number of consumer complaints in respect of the following:
+FY 2023-24
+Remarks
+FY 2022-23
+Remarks
+Received 
+during 
+the year
+Pending 
+resolution 
+at end of 
+year
+Received 
+during 
+the year
+Pending 
+resolution 
+at end of 
+year
+Data privacy
+0
+0
+-
+0
+0
+-
+Advertising
+0
+0
+-
+0
+0
+-
+Cyber-security
+0
+0
+-
+0
+0
+-
+Delivery of essential 
+services
+0
+0
+-
+0
+0
+-
+Restrictive Trade 
+Practices
+0
+0
+-
+0
+0
+-
+Unfair Trade Practices
+0
+0
+-
+0
+0
+-
+Other
+42
+0
+-
+18 
+0
+Product and 
+transportation
+4.	
+Details of instances of product recalls on account of safety issues:
+ 
+Number
+Reasons for recall
+Voluntary recalls 
+0
+NA
+Forced recalls
+0
+NA
+170
+5. 	 Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No). If 
+available, provide a web link of the policy
+	
+Yes, 
+	
+https://www.orientalaromatics.com/documents/corporate-governance/policies/Cyber%20Security%20
+Policy.pdf
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery 
+of essential services; cyber security and data privacy of customers; re-occurrence of instances of product 
+recalls; penalty/action taken by regulatory authorities on the safety of products/services: 
+	
+There were no issues where corrective actions needed to be taken.
+7. 	 Provide the following information relating to data breaches
+a.  Number of instances of data breaches along-with impact
+0 
+b.  Percentage of data breaches involving personally identifiable information of 
+customers
+0% 
+c.  Impact, if any, of the data breaches
+     Not Applicable

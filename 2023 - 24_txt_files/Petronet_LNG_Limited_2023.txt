@@ -1,0 +1,4833 @@
+ 
+Petronet LNG Limited 
+Regd. Office: World Trade Centre, Babar Road, Barakhamba Lane, New Delhi – 110001 
+Phone: 011-23411411, Fax: 011- 23472550, CIN: L74899DL1998PLC093073 
+Email: investors@petronetlng.in, Company’s website: www.petronetlng.in 
+PAN: AAACP8148D            GST: 07AAACP8148D1ZI 
+ 
+Dahej LNG Terminal: 
+GIDC Industrial Estate, Plot No. 7/A, Dahej 
+Taluka Vagra, Distt. Bharuch - 392130 (Gujarat) 
+Tel.: 02641-257249 Fax· 02641-257252 
+ 
+Kochi LNG Terminal: 
+Survey No. 347, Puthuvypu 
+P.O. 682508, Kochi 
+Tel.· 0484-2502268 
+ 
+ 
+  ND/PLL/SECTT/REG. 34/2024                                                                        10th August 2024  
+ 
+ 
+The Manager 
+BSE Limited  
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai – 400 001 
+The Manager 
+National Stock Exchange of India Ltd. 
+Exchange Plaza, Bandra Kurla Complex 
+Bandra East, Mumbai – 400 051 
+ 
+Sub:       Intimation under Regulation 34 of SEBI (LODR) Regulations, 2015- Business Responsibility and 
+Sustainability Report of Petronet LNG Limited for the Financial Year 2023-24 
+ 
+Dear Sir / Madam, 
+ 
+In continuation of our letter dated 10.08.2024, whereby the Annual Report of the Company for the Financial Year 
+2023-24, which includes the Notice of 26th AGM of the Company, was sent to the Stock Exchanges. 
+ 
+Please find attached the Business Responsibility and Sustainability Report of the Company for the financial year 
+2023-24. 
+ 
+The above is for your kind information & records please. 
+ 
+Thanking you, 
+Yours faithfully, 
+ 
+ 
+ 
+ 
+ 
+(Rajan Kapur) 
+Encl: as above                                                       
+ 
+   
+ 
+ 
+  Company Secretary 
+ 
+ 
+Rajan 
+Kapur
+Digitally signed 
+by Rajan Kapur 
+Date: 2024.08.10 
+15:41:10 +05'30'
+133
+134
+ANNEXURE- VII
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+SECTION A: GENERAL DISCLOSURES
+I.   Details of the listed entity
+1
+Corporate Identity Number (CIN) of the Company
+L74899DL1998PLC093073
+2
+Name of the Company
+Petronet LNG Ltd (‘PLL’ or ‘the company’)
+3
+Year of Incorporation
+1998
+4
+Registered office address
+1st Floor, World Trade Centre, Babar Road, Barakhamba 
+Lane, New Delhi - 110 001
+5
+Corporate office address
+1st Floor, World Trade Centre, Babar Road, Barakhamba 
+Lane, New Delhi - 110 001
+6
+E-mail id
+esg@petronetlng.in
+7
+Telephone
+011 2341 1411
+8
+Website
+www.petronetlng.in
+9
+Financial year for which reporting is being done
+ FY 2023-24
+10
+Name of the Stock Exchange(s) where shares are listed
+Equity shares are listed on BSE Limited (BSE) and 
+National Stock Exchange of India Limited (NSE) 
+11
+Paid-up capital
+Rs 1,500 Crore
+12
+Name and contact details of the person who may 
+be contacted in case of any queries on the Business 
+Responsibility and Sustainability Report (BRSR)
+Name: Debabrata Satpathy
+General Manager (Finance & Accounts)
+Email Id: esg@petronetlng.in
+Telephone: 011-23472525
+13
+Reporting Boundary
+Disclosures made in this report are on a Standalone Basis
+14
+Name of assurance provider
+PLL intends to obtain assurance on ESG parameters in 
+the future
+15
+Type of assurance obtained
+Not Applicable
+II.	 Products/services	
+16.	 Details of business activities (accounting for 90% of the turnover):
+S. No
+Description of main activity
+Description of business activity
+% Of turnover
+1.
+Import of Liquefied Natural Gas (LNG) and sale 
+of Regasified – LNG (RLNG)
+Import and storage of LNG and sale of 
+LNG/RLNG
+  93.65%
+17.	 Products/services sold by the entity (accounting for 90% of the entity’s turnover)
+S. No.
+Product/Service
+NIC Code
+% Of total turnover 
+contributed
+1
+LNG / RLNG sales
+0910
+93.65%
+135
+III.	Operations	
+18.	Number of locations where plants and/or operations/offices of the entity are situated
+Location
+Number of plants
+Number of offices
+Total
+National
+02
+03
+05
+International
+-
+-
+-
+19. Markets served by the entity
+a.	
+Number of locations
+Location
+Number
+National (No. of states)
+19
+International (No. of countries)
+Nil 
+	
+b.	 What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+NIL
+	
+c.	
+A brief on types of customers
+	
+	
+PLL is engaged in import, storage and regasification of Liquefied Natural Gas (LNG). Its customer’s primarily consist 
+of corporates such as Oil and Gas Entities, Gas Aggregators, Petrochemical Entities, Refineries, City Gas Distribution 
+Entities, Fertilizer and Power Generating Entities and Other Industrial Entities.
+IV.	Employees	
+20.	Details as on March 31, 2024
+a.	
+Employees and workers (including differently abled)
+S. No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1
+Permanent (D)
+265
+248
+94%
+17
+6%
+2
+Other than Permanent (E)
+6
+6
+100%
+0
+0%
+3
+Total employees (D+E)
+271
+254
+94%
+17
+6%
+WORKERS / STAFF
+1
+Permanent (F)
+256
+242
+95%
+14
+5%
+2
+Other than Permanent (G)
+2433
+2336
+96%
+97
+4%
+3
+Total workers (F+G)
+2689
+2578
+96%
+111
+4%
+136
+b.	 Differently abled employees and workers
+S. No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+1
+1
+100%
+0
+0%
+2
+Other than Permanent (E)
+0
+0
+0%
+0
+0%
+3
+Total differently abled 
+employees (D+E)
+1
+1
+100%
+0
+0%
+DIFFERENTLY ABLED WORKERS / STAFF
+1
+Permanent (F)
+0
+0
+0%
+0
+0%
+2
+Other than Permanent (G)
+0
+0
+0%
+0
+0%
+3
+Total differently abled 
+workers (F+G)
+0
+0
+0%
+0
+0%
+21.	Participation/inclusion/representation of women
+Particulars
+Total (A)
+No. and percentage of females
+No. (B)
+% (B/A)
+Board of Directors*
+14
+1
+7.14
+Key Management Personnel*
+4
+0
+0
+*Including whole-time directors
+22.	Turnover rate for permanent employees and workers/staff
+Particulars
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+2.88%
+5.88%
+3.08%
+4.01%
+6.25%
+4.17%
+4.04%
+11.11%
+4.53%
+Permanent 
+Workers/staff
+1.2%
+0%
+1.13%
+2.04%
+14.29%
+2.70%
+1.58%
+5.88%
+1.85%
+V.	 Holding, subsidiary and associate companies (including joint ventures) 
+23.	a)     Names of holding / subsidiary / associate companies / joint ventures: 
+S. 
+No.
+Name of Holding/Subsidiary/
+Associate Companies/Joint 
+Venture (A)
+Indicate whether 
+Holding/ Subsidiary/ 
+Associate/Joint 
+Venture
+% Of shares 
+held by listed 
+entity
+Does the entity indicated in 
+column A, participate in the 
+Business Responsibility initiatives 
+of listed entity? (Yes/No)
+1
+Petronet LNG Foundation
+Subsidiary
+100%
+Yes
+137
+S. 
+No.
+Name of Holding/Subsidiary/
+Associate Companies/Joint 
+Venture (A)
+Indicate whether 
+Holding/ Subsidiary/ 
+Associate/Joint 
+Venture
+% Of shares 
+held by listed 
+entity
+Does the entity indicated in 
+column A, participate in the 
+Business Responsibility initiatives 
+of listed entity? (Yes/No)
+2
+Petronet Energy Limited
+Subsidiary
+100%
+The subsidiaries/Joint venture 
+companies undertake their own 
+Business Responsibility (BR) 
+initiatives and adhere to the 
+guidelines issued by the statutory 
+authorities / Government from time 
+to time, as applicable
+3
+Petronet LNG Singapore Pte. 
+Ltd.
+Subsidiary
+100%
+4
+Adani Petronet (Dahej) Port 
+Limited
+Joint Venture
+26%
+5
+India LNG Transport Company 
+(No. 4) Private Limited
+Joint Venture
+26%
+VI.	CSR Details  	
+24.	 (i) 	Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+a.	
+Turnover (in Rs. Crore) - 52,728.43
+b.	 Net worth (in Rs. Crore) –16,962.80
+VII. Transparency and Disclosures Compliances 
+25.	Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct (NGRBC)
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct
+Stakeholder 
+group from whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/No)
+FY 2023-24
+FY 2022-23
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes
+Nil
+NA*
+-
+Nil
+NA*
+-
+Investors (other 
+than shareholders)
+NA
+Nil
+NA*
+-
+Nil
+NA*
+-
+Shareholders
+Yes, Shareholders 
+can register their 
+complaints/ 
+grievances at the 
+Company’s following 
+email ids: investors@
+petronetlng.in
+44
+0
+-
+56
+2
+-
+Employees and 
+workers
+Yes
+Nil
+NA*
+-
+Nil
+NA*
+-
+Customers
+Yes
+Nil
+NA*
+-
+Nil
+NA*
+-
+Value Chain Partners
+Yes
+Nil
+NA*
+-
+Nil
+NA*
+-
+* NA = Not Applicable
+138
+26.	Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk, as per the following format:
+	
+Materiality assessment was conducted by PLL in FY 2022-2023 for the business, which is reproduced below:
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case 
+of risk, 
+approach 
+to adapt or 
+mitigate.
+Financial implications 
+of the risk or 
+opportunity (Indicate 
+positive or negative 
+implications)
+1
+Raw Material 
+Security
+Opportunity
+According to the COP27 conference, 
+natural gas is slated to serve as the 
+bridge fuel to achieve global net-zero 
+goals. The Government of India aims 
+to increase the share of natural gas in 
+the country's energy mix from 6% to 
+15% by 2030. For PLL, India's leading 
+LNG import, storage, and regasification 
+company, this represents a significant 
+opportunity.
+-
+Positive: Crucial for 
+sustainability and 
+growth opportunity as 
+leading player in the 
+industry.
+2
+Water 
+Management
+Opportunity
+Effective water management offers 
+PLL several opportunities to enhance 
+sustainability, 
+improve 
+operational 
+efficiency, comply with regulatory 
+requirements, foster innovation, and 
+build positive stakeholder relations.
+-
+Positive: Initiatives 
+taken around waste and 
+water has a positive 
+implication towards 
+business sustainability 
+and responsibility for 
+the environment.
+3
+Waste 
+management
+Opportunity
+PLL strives to utilize resources optimally. 
+Efficient waste management offers 
+opportunities to enhance sustainability, 
+improve productivity, meet regulatory 
+requirements, 
+and 
+foster 
+positive 
+stakeholder relations.
+-
+4
+GHG 
+emissions
+Opportunity
+PLL envisions GHG emissions as a 
+chance to improve environmental 
+performance, contribute to climate 
+change 
+mitigation, 
+comply 
+with 
+regulations, and diversify its business 
+portfolio.
+-
+Positive: Taking action 
+on climate change can 
+create new business 
+opportunities and lead 
+to sustainable growth.
+5
+Energy 
+management
+Opportunity
+The plant and machinery utilized by oil 
+and gas companies consume substantial 
+amounts of energy during operations. 
+Implementing 
+efficient 
+energy 
+management initiatives can help reduce 
+operational expenses and contribute 
+positively to the environment.
+-
+Positive: Adopting 
+energy management 
+practices can enhance 
+a company’s reputation 
+by demonstrating 
+a commitment to 
+sustainability and 
+responsible business 
+practices, which can 
+improve brand image 
+and stakeholder trust.
+139
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case 
+of risk, 
+approach 
+to adapt or 
+mitigate.
+Financial implications 
+of the risk or 
+opportunity (Indicate 
+positive or negative 
+implications)
+6
+Human 
+capital 
+development
+Opportunity
+A thriving human capital is critical to a 
+company's consistent business growth 
+and its ability to make positive impacts 
+on society. Therefore, PLL endeavours 
+to create a conducive work environment 
+and offer ample opportunities for 
+professional 
+development 
+to 
+its 
+employees.
+-
+Positive: Providing 
+a conducive work 
+place with growth 
+opportunities, allows 
+individuals to feel 
+valued and included, 
+leading to increased 
+engagement and 
+motivation to perform 
+at their best.
+7
+Business 
+ethics and 
+accountability
+Opportunity
+PLL 
+believes 
+that 
+adhering 
+to 
+ethical business practices and being 
+accountable for actions helps avoid 
+legal, regulatory, and reputational risks. 
+This can lead to cost savings, increased 
+profitability, and improved financial 
+performance.
+-
+Positive: Ethical 
+business practices and 
+accountability can 
+improve relations with 
+stakeholders, including 
+employees, investors, 
+suppliers and customers 
+etc.
+8
+Customer & 
+stakeholders’ 
+satisfaction
+Opportunity
+PLL acknowledges that feedback is 
+crucial for any industry to thrive and 
+grow. Therefore, the company values 
+and appreciates feedback from its 
+customers.
+-
+Positive: Increased 
+customer satisfaction 
+can result in greater 
+customer loyalty, 
+ultimately resulting in 
+higher profitability and 
+business growth.
+9
+Responsible/ 
+sustainable 
+supply chain
+Opportunity
+Responsible supply chain leads to 
+increased efficiency, such as reducing 
+waste, improving delivery times and 
+increasing the quality of materials and 
+products. This can lead to cost savings 
+and improved profitability.
+-
+Positive: By 
+promoting social 
+and environmental 
+sustainability in its 
+supply chain, the 
+company can contribute 
+to the long-term well-
+being of communities 
+and the planet, while 
+ensuring business 
+sustainability and 
+growth.
+10
+Innovation & 
+technology
+Opportunity
+Innovation and technology can improve 
+the efficiency and productivity of PLL’s 
+operations and plans for diversification, 
+resulting in cost savings, increased 
+profitability and business growth.
+-
+Positive: Innovation in 
+would have a positive 
+effect on the business 
+sustainability and 
+growth.
+140
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case 
+of risk, 
+approach 
+to adapt or 
+mitigate.
+Financial implications 
+of the risk or 
+opportunity (Indicate 
+positive or negative 
+implications)
+11
+Occupational 
+Health & 
+Safety (OHS)
+Risk
+Considering the business processes 
+and resource deployment, improper 
+management of health and safety 
+hazards can have disastrous effects on 
+both individuals and assets for PLL.
+PLL stresses great importance on health 
+& safety in its operations.
+PLL has a Risk 
+Management 
+Committee 
+and the 
+committee 
+responsible 
+for 
+developing 
+and 
+monitoring 
+the 
+Company’s 
+risk 
+management 
+policies 
+regularly 
+reports to 
+the board of 
+directors on 
+its activities. 
+The policies 
+are in place 
+to identify 
+and analyse 
+the risks 
+faced by the 
+Company, 
+establish 
+appropriate 
+risk limits 
+and controls, 
+and monitor 
+risks and 
+adherence to 
+limits.
+Negative: Non-
+compliance with OHS 
+regulations can result 
+in loss of resources, 
+penalties, legal 
+action, damage to the 
+company’s reputation 
+and impediment to 
+sustainable growth.
+12
+Community 
+engagement
+Risk
+PLL maintains a strong connection 
+with 
+its 
+community 
+stakeholders, 
+including those who are disadvantaged, 
+vulnerable, or marginalized, at and near 
+its significant operational sites.
+Proper management of community 
+relations is essential to maintain a 
+peaceful and harmonious environment 
+around the operational area.
+Negative: A lack of 
+community engagement 
+or inadequate 
+communication with 
+local stakeholders 
+can lead to 
+misunderstandings, 
+mistrust, opposition 
+to the business and its 
+activities and business 
+sustainability/growth.
+13
+Air quality
+Risk
+PLL believes that it is important for the 
+company to implement measures to 
+mitigate air quality risks such as investing 
+in 
+emission 
+control 
+technologies, 
+reducing flaring and venting, improving 
+vehicle and equipment efficiency and 
+engaging with local communities to 
+address concerns related to air quality.
+Negative: Poor air 
+quality can damage the 
+company’s reputation 
+and brand image, 
+leading to decreased 
+stakeholder loyalty and 
+trust.
+141
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURE
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+The National Guidelines for Responsible Business Conduct (NGRBC) as prescribed by the Ministry of Corporate Affairs 
+advocates nine principles referred as P1-P9 as given below:
+P1
+Businesses should conduct and govern themselves with integrity in a manner that is Ethical, Transparent and 
+Accountable
+P2
+Businesses should provide goods and services in a manner that is sustainable and safe
+P3
+Businesses should respect and promote the well-being of all employees, including those in their value chains
+P4
+Businesses should respect the interests of and be responsive towards all its stakeholders
+P5
+Businesses should respect and promote human rights
+P6
+Businesses should respect, protect and make efforts to restore the environment
+P7
+Businesses when engaging in influencing public and regulatory policy, should do so in a manner that is responsible 
+and transparent
+P8
+Businesses should promote inclusive growth and equitable development
+P9
+Businesses should engage with and provide value to their consumers in a responsible manner
+Disclosure Question
+P 1
+P 2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+POLICY AND MANAGEMENT PROCESSES
+1. a. Whether your entity’s policy/ 
+policies cover each principle and its 
+core elements of the NGRBCs. (Yes/
+No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b.  Has the policy been approved by 
+the Board? (Yes/No)
+Yes*
+c.  Web link of the policies, if 
+available
+The internal policies of the Company are available on Company’s intranet and 
+accessible only to employees and other internal stakeholders. All policies relevant 
+for external stakeholders are available on Company’s website https://petronetlng.in/
+index.php
+2. Whether the entity has translated 
+the policy into procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3. Do the enlisted policies extend 
+to your value chain partners? (Yes/ 
+No)
+Yes**
+4.Name the national and 
+international codes/ certifications/ 
+labels/ standards adopted by 
+your entity and mapped to each 
+principle.
+-
+ISO 9001
+ISO 14001
+ISO 45001
+ISO 55001
+OHSAS 
+18001 / 
+ISO 45001
+-
+-
+ISO 
+14001
+-
+-
+-
+142
+Disclosure Question
+P 1
+P 2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+5. Specific commitments, goals 
+and targets set by the entity with 
+defined timelines, if any
+PLL acknowledges the importance of ESG considerations and integrates it across 
+various processes such as specific energy consumption in regasification. PLL maintains 
+a continuous focus on identifying opportunities to minimize its own operational impact 
+on the environment, and is dedicated to provide LNG as a cleaner fuel alternative. 
+Additionally, PLL recognizes the pressing need to optimize Green House Gas (GHG) 
+emissions, adopting energy efficient procedures and technologies, waste generation 
+and water usage. PLL endeavours to adopt sustainable practices to ensure business 
+growth and also adheres to relevant norms and principles such as NGRBC principles.
+6. Performance of the entity against 
+the specific commitments, goals 
+and targets along with reasons in 
+case the same are not met
+PLL is committed to provide a cleaner fuel in the form of LNG as compared to traditional 
+fossil fuels. PLL has implemented measures to reduce emissions at its terminals and 
+facilities; including adoption of renewable energy for its consumption, and optimising 
+the use of energy efficient equipment. Apart from the same, PLL is in the process of 
+setting ESG commitments and goals and will report the performance in future.
+*All PLL’s policies are approved by board or competent authority of the company.
+**PLL’s major value chain partners adhere to all the nine NGRBC principles.	
+ 
+143
+GOVERNANCE, LEADERSHIP AND OVERSIGHT
+7.	
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets 
+and achievements (listed entity has flexibility regarding the placement of this disclosure) 
+	
+It gives me immense pleasure to present to you PLL’s Business Responsibility and Sustainability Report (BRSR) for FY 
+2023-24. The report has been prepared in compliance with the updated format (Annexure II) prescribed by the Securities 
+and Exchange Board of India (SEBI). This report reflects our dedication to Environmental, Social, and Governance (ESG) 
+principles and outlines PLL’s progress in addressing key challenges, and achieving meaningful milestones. 
+	
+We recognize that our operations impact the environment, society, and our stakeholders. Our challenges include reducing 
+carbon emissions, minimizing waste, promoting diversity and inclusion, and ensuring ethical supply chain practices. We 
+face these challenges with the aim to drive positive change.
+	
+In the 28th Conference of the Parties to the United Nations Framework Convention on Climate Change, Paris Agreement 
+(COP28), an objective was set to achieve zero routine flaring (burning excess gas) from oil and gas operations by 2030. 
+This was followed by a consensus reached in COP27 that natural gas would be the bridge fuel for the next four to five 
+decades in the world’s pursuit of controlling and minimizing the usage of heavily polluting fuels. In the same backdrop, 
+the Government of India aims to augment the use of natural gas from currently about 6% to 15% in the energy mix of 
+India by 2030. Therefore, usage of natural gas as a cleaner alternative bears immense importance.
+	
+PLL currently handles around 74% of LNG imports in India and caters to around 34% natural gas consumption in the country. 
+To contribute to the objective of achieving a cleaner environment, PLL has achieved a significant milestone of extending its 
+LNG Sale Purchase Agreement (SPA) with QatarEnergy for 7.5 MMTPA for 20 years starting from 2028. Many projects are 
+being planned and executed to increase the company’s regasification capacity from 22.50 MMTPA to 31.50 MMTPA.
+	
+In the context of ESG, PLL has identified key issues, such as water management, waste management, carbon emissions, 
+community engagement, air quality, human capital development, business ethics and accountability, etc. Accordingly, the 
+company addresses the challenges faced by the industry and mitigates their impact on the environment and society. PLL 
+engages with the communities under various CSR projects and contributes to the society, aiding in various societal issues. 
+Customer orientation, innovation and R&D are the focus areas of PLL in pursuit of excellence in ESG practices.
+	
+PLL remains committed to excellence as it navigates the ESG journey. To make available LNG as a cleaner fuel alternative 
+to the nation and adopt sustainable practices to ensure business growth, ESG bears utmost importance for us.
+	
+Together, we can create a sustainable future.
+Pramod Narang
+Director (Technical)
+8.	
+Details of the highest authority responsible for implementation and oversight of the Business Responsibility & 
+Sustainability (BRSR) Policy
+	
+Name: 	
+	
+Mr Pramod Narang 
+	
+Designation: 	
+Director (Technical) 
+	
+DIN:  	
+	
+07792813
+9.	
+Does the entity have a specified committee of the board/ director responsible for decision making on sustainability 
+related issues? (Yes/ No). If yes, provide details      
+	
+As the Director (Technical) of PLL, Mr. Pramod Narang bears the responsibility of making decisions concerning sustainability-
+related matters. He is supported by a multidisciplinary team, which works diligently to manage various aspects of ESG 
+(Environmental, Social, and Governance) across PLL’s locations. The company has a CSR Committee of the Board that 
+looks after community/ social related initiatives.
+144
+10.	 Details of Review of the National Guidelines on Responsible Business Conduct (NGRBC) by the company:
+S.
+No.
+Subject for Review
+a. Indicate whether review was undertaken by Director / Committee of 
+the Board/ Any other Committee
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+1.
+Performance against above policies and follow up 
+action
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+2.
+Compliance with statutory requirements of 
+relevance to the principles, and rectification of 
+any non-compliances
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+S.
+No.
+Subject for Review
+b. Frequency (Annually/ Half yearly/ Quarterly/ Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+1.
+Performance against above policies and follow up 
+action
+Yes, policies are internally assessed and updated/modified in response to 
+changing business circumstances.
+2.
+Compliance with statutory requirements of 
+relevance to the principles, and the rectification of 
+any non-compliances
+The Company complies with applicable laws and regulations
+11.	 Has the entity carried out independent assessment/ evaluation of the working of its policies by an external agency? 
+(Yes/No). If yes, provide name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+PLL conducts regular internal audits by in-house team(s) and reputed third-party agency i.e. Deloitte. Additionally, a Big4 
+accounting firm reviewed the ESG-related policies.
+12.	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+	
+Not Applicable 
+145
+SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements 
+with key processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential 
+indicators are expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be 
+voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be socially, environmentally and 
+ethically responsible.
+PRINCIPLE 1- BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH 
+INTEGRITY AND IN A MANNER THAT IS ETHICAL, TRANSPARENT AND ACCOUNTABLE
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics/ principles covered under the training 
+audits impact
+% of persons in 
+respective category 
+covered by the 
+awareness programmes
+Board of 
+Directors
+10
+•	
+Stakeholder 
+management 
+and 
+Community 
+related awareness sessions
+•	
+Conferences/seminars covering subjects like 
+sustainable energy, net zero and related topics
+100%
+Key Managerial 
+Personnel (KMP)
+11
+•	
+Prevention of Sexual Harassment (POSH)
+•	
+Stakeholder 
+management 
+and 
+Community 
+related awareness sessions
+•	
+Conferences/seminars covering subjects like 
+sustainable energy, net zero and related topics
+100%
+Employees other 
+than BoD and 
+KMPs
+91
+•	
+Prevention of Sexual Harassment (POSH)
+•	
+Basic Fire Training & Live LNG Firefighting Demo
+•	
+Environment Management at PLL
+•	
+ESG Risk Analysis
+•	
+Hazardous & Other Wastes Management & 
+Emergency Measure
+•	
+Suraksha Samwad : Incidents in Upstream Oil & 
+Gas Industry and Learning from Them
+•	
+Workplace Hazards and Control Measures
+•	
+Hazard Identification & Risk Assessment, HIRA
+•	
+Mental Health Awareness for Well-being of 
+Employees
+•	
+Office Ergonomics 
+•	
+Process Safety Management (PSM)
+•	
+Hazard Identification and risk assessment (HIRA) 
+and Control of Substances Hazardous to Health 
+(COSHH)
+•	
+Statutory OHC training, Section 111A, 
+1.	
+Accident Prevention & protection 
+2.	
+PLL QHSE policy & life saver rules 
+3.	
+Work permit system 
+100%
+Workers/Staff
+84
+100%
+146
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics/ principles covered under the training 
+audits impact
+% of persons in 
+respective category 
+covered by the 
+awareness programmes
+4.	
+Machine guarding 
+5.	
+Fire safety 
+6.	
+Housekeeping 
+7.	
+Electrical safety 
+8.	
+Chemical safety 
+9.	
+Material handling 
+10.	 PPE
+11.	 Emergency preparedness
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in 
+the following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 
+of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC 
+Principle
+Name of 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount (in INR)
+Case brief
+Has an 
+appeal 
+been 
+preferred? 
+(Yes/No)
+Penalty/ Fine
+Nil
+Settlement
+Compounding 
+fee
+Non-Monetary
+NGRBC 
+Principle
+Name of 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Case brief
+Has an 
+appeal been 
+preferred? 
+(Yes/No)
+Imprisonment
+Nil
+Punishment
+3.	
+Of the instances disclosed in Question 2 above, details of the appeal/revision preferred in cases where monetary or 
+non-monetary action has been appealed.
+	
+Not Applicable
+147
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a 
+web-link to the policy.
+   Name of Policy
+Policy Description
+Web-link/URL
+Vigilance Policy
+PLL outlines its approach to ensure 
+transparency and impartiality within 
+its system. The vigilance policy 
+comprises precise definitions, terms 
+and conditions to report legitimate 
+concerns affecting the company.
+https://www.petronetlng.in/PDF/Vigil-
+Mechanism-02092014.pdf 
+5.	
+Number of Directors/KMPs/employees against whom disciplinary action was taken by any law enforcement   agency 
+for the charges of bribery/ corruption:	
+Segment
+FY 2023-24
+FY 2022-23
+Directors
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil
+Workers
+Nil
+Nil
+6.	
+Details of complaints with regard to conflict of interest
+	
+PLL discloses zero details of complaints regarding conflicts of interest - 
+Particulars
+FY 2023-24
+FY 2022-23
+Number
+Remarks
+Number
+Remarks
+Number of Complaints received in 
+relation to issues of conflicts of interest 
+of the Directors
+Nil
+Nil
+Nil
+Nil
+Number of Complaints received in 
+relation to issues of Conflict of Interest 
+of the KMPs
+Nil
+Nil
+Nil
+Nil
+7.	
+Details of any corrective action taken or underway on issues related to fines/penalties/action taken by regulators/law 
+enforcement agencies/judicial institutions, on cases of corruption and conflicts of interest.
+	
+Not Applicable
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following 
+format:
+Particulars
+FY 2023-24
+FY 2022-23
+Number of days of accounts payable
+22.50
+11.43
+148
+9.	
+Openness of business
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans 
+and advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of 
+Purchases
+a.	
+Purchases from trading houses as % of total purchases
+NA*
+NA*
+b.	 Number of trading houses where purchases are made from
+NA*
+NA*
+c.	
+Purchases from top 10 trading houses as % of total purchases 
+from trading houses
+NA*
+NA*
+Concentration of 
+Sales
+a.	
+Sales to dealers / distributors as % of total sales
+NA*
+NA*
+b.	 Number of dealers / distributors to whom sales are made
+NA*
+NA*
+c.	
+Sales to top 10 dealers / distributors as % of total sales to 
+dealers / distributors
+NA*
+NA*
+Share of RPTs in
+a.	
+Purchases (Purchases to related parties / Total Purchases)
+0.65%
+NA*
+b.	 Sales (Sales to related parties / Total Sales)
+98.05%
+98.41%
+c.	
+Loans & advances (Loans & advances given to related parties / 
+Total loans & advances)
+NA*
+NA*
+d.	 Investments (Investments in related parties / Total Investments 
+made)
+NA*
+0.23%
+*NA is Not Applicable
+Leadership indicators 
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year: 
+	
+As part of value chain engagement, PLL organizes numerous training and awareness sessions such as:
+•	
+A mega community safety awareness drive encompassing emergency preparedness, fire safety, live fire extinguisher 
+demonstrations, and road safety was conducted at nearby schools, colleges, and villages.
+•	
+A community safety awareness program was organized at Luvara village and Lakhigam village, situated in the vicinity 
+of the Dahej terminal.
+•	
+A public awareness program on ERDMP (Emergency Response and Disaster Management Plan) was organized at the 
+Kochi terminal in Ernakulam Grama Panchayat.
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/
+No) If Yes, provide details of the same.
+	
+Yes, if any director has a direct or indirect interest in an agenda/matter, they refrain from participating in the discussion. 
+Each director gives the disclosure of his interest in any company or body corporate, firm, or any other association of 
+persons by giving a notice in writing. The same is put up to the Board for information. The related party transaction policy 
+of the company can be accessed through below link: -
+	
+https://petronetlng.in/PDF/RPT%20Policy_13042023.pdf
+PRINCIPLE 2- BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER 
+THAT IS SUSTAINABLE AND SAFE
+Essential indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+149
+Particulars
+FY 2023-24
+FY 2022-23
+Details of improvements in  environmental and social impact
+R&D
+-
+-
+-
+Capex
+70%
+84.84%
+PLL is in the process of expanding LNG Handling/Unloading, Storage and 
+Regasification capacities through brownfield expansions of its existing 
+terminals and at other places of country as Greenfield projects. Brief of 
+the ongoing projects are as below:
+Dahej terminal
+•	
+2 LNG Storage tanks have been constructed and are in commissioning 
+stage.
+•	
+Regasification capacity expansion form existing 17.5 MMTPA to 
+22.5 MMTPA is also under process and project is under construction 
+stage, the same is expected to be commission till March 2024
+•	
+Construction of Third jetty at Dahej is going to start soon, the said 
+facility will be capable to unload Ethane and Propane along with 
+LNG
+•	
+Expansion of Truck Loading facilities
+Kochi terminal
+•	
+Installation of GUCD facility
+•	
+Expansion of Truck Loading facilities
+Gopalpur, Odisha
+•	
+PLL is going to setup greenfield project-LNG Handling/Unloading, 
+Storage and Regasification Terminal of 4MMTPA capacity. Project is 
+in engineering phase.
+CBG Plant at Deogarh, Odisha
+•	
+PLL is also in the process of setting up a CBG Plant at Odisha 10 TPD
+LNG Retailing
+•	
+4 LNG dispensing stations are in final stage of commissioning and 
+setting up of fifth station outside Dahej LNG Terminal is expected to 
+commence soon. Further, 10 more stations have been awarded to 
+be installed for introducing LNG as a cleaner alternative to heavily 
+polluting fuels
+Others
+•	
+200 kWp solar power plant commissioning in Kochi terminal in FY 
+2023-24
+•	
+30KLD Sewage Treatment Plant commissioned at Kochi Terminal
+•	
+Investments in Affordable Rental Housing Complexes (ARHC) to 
+offer affordable accommodations specifically tailored for low-
+income and middle-income households.
+•	
+2 Variable Frequency Drive (VFD) air Compressors installed at Kochi 
+Terminal
+2.	
+ a.  Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+At PLL, procurement of input materials, equipment, tools, spares services etc, is done as per the Contract and Procurement 
+Policy, which is diligently followed across the locations that considers sustainable procurement. There is a well-defined 
+Delegation of Authority for procurement of goods and services.
+	
+`PLL is primarily engaged in the business of importing LNG at its Re-gas terminals located at Dahej (Gujarat) and Kochi 
+150
+(Kerala); which makes the sourcing of approximately 95.6% of the input material sustainable. The majority of import of 
+LNG is governed under various Long-term SPAs namely: 
+a)	 7.5 MMTPA LNG SPA on a FOB basis with RasGas/Qatargas (LNG imported from Qatar) and 
+b)	 1.425 MMTPA LNG SPA on a DES basis with MARC Australia (a subsidiary of ExxonMobil) with LNG imported primarily 
+from Australia and Oman.
+	
+Apart from sourcing LNG under the above-mentioned Long-term SPAs, PLL also occasionally imports LNG Spot cargos on a 
+need basis for its downstream customers from international LNG suppliers/traders etc. on the basis of Policy and Process 
+for Purchase of LNG on Spot/Short-term basis, approved by PLL’s Board.
+b.	 If yes, what percentage of inputs were sourced sustainably?
+	
+96%
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, 
+for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste
+	
+PLL does not manufacture a product that generates plastic or e-waste. However, in some of the ancillary operations, 
+the company generates hazardous waste, which includes sludge from wastewater treatment. The detailed quantities of 
+hazardous waste generated and method of disposal are mentioned in Principle 6 of the report.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the 
+waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same.
+	
+EPR does not apply to PLL’s activities.
+	
+Leadership Indicators 
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) 
+or for its services (for service industry)? If yes, provide details in the following format.
+	
+PLL is in the business of regasification of LNG. Natural gas being an essential commodity, LCA for regasification services of 
+PLL is not relevant.
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly 
+describe the same along-with action taken to mitigate the same.
+Name of Product / Service
+Description of the risk / concern
+Actions Taken
+LNG/ RLNG/Regasification 
+services /Ancillary 
+services
+Impacts-
+•	
+Air environment
+•	
+Water resources and quality
+•	
+Land use
+•	
+Soil quality
+•	
+Solid waste
+•	
+Noise levels
+•	
+Terrestrial and aquatic ecology
+•	
+Demography 
+and 
+socio-
+economics
+•	
+Infrastructural Facilities.
+Air Pollution Management-
+In order to manage fugitive hydrocarbon emissions, the 
+following measures were taken:
+•	
+To ensure the proper functioning of pumps, 
+mechanical seals were provided and undergo 
+periodic inspections.
+•	
+Liquid fuel storage tanks were filled by a submerged 
+method.
+•	
+Effectively control fugitive emissions from the 
+hydrocarbon processing areas, regular maintenance 
+of valves, flanges, pumps, compressor seals, gasket 
+materials, and other associated equipment was done.
+151
+Name of Product / Service
+Description of the risk / concern
+Actions Taken
+•	
+To ensure that SO2 emissions from the revamp 
+stacks remain within permissible limits, monitoring 
+is conducted on a regular basis.
+Water Pollution Management-
+The mitigation measures for reducing the impacts 
+include a sedimentation tank to filter solids from run-
+off water, an oil and grease trap at the equipment 
+maintenance centre, septic tanks to treat sanitary 
+waste at the plant, and utilizing wastewater for the 
+development of green belts.
+Noise Pollution Management-
+Noise is generated by various equipment during the 
+process, such as pumps, cooling towers, compressors, 
+etc. To mitigate high noise levels, the following measures 
+were taken:
+•	
+Equipment design adhere to noise level regulations 
+set forth by regulatory authorities.
+•	
+Acoustic barriers or shelters are necessary in noisy 
+workplaces to mitigate noise levels.
+•	
+To minimize noise generated by equipment like 
+pumps, hoods were installed.
+•	
+PPE such as earplugs and earmuffs is supplied to 
+workers in high-noise-level areas.
+•	
+Regular monitoring of employee exposure in noisy 
+areas is done to ensure compliance with OSHA 
+requirements.
+Solid Waste Management-
+Hazardous waste generated on site is collected and 
+stored in a designated area. An authorized agency is 
+responsible for the disposal of the hazardous waste 
+generated.
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+	
+Less than 1%
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and 
+safely disposed, as per the following format::
+	
+Not Applicable to PLL.
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+	
+There is no scope of reclaiming product packaging in case of LNG/RLNG. 
+152
+PRINCIPLE 3- BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL 
+EMPLOYEES, INCLUDING THOSE IN THEIR VALUE CHAINS
+ 	
+Essential Indicators
+1.	
+a. Details of measures for the well-being of employees:
+% Of employees covered by
+Category
+Total (A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Daycare 
+facilities
+No. 
+(B)
+% 
+(B/A)
+No. 
+(C)
+% 
+(C/A)
+No. 
+(D)
+% 
+(D/A)
+No. 
+(E)
+% 
+(E/A)
+No. 
+(F)
+% (F/A)
+PERMANENT EMPLOYEES
+Male
+248
+248
+100%
+248
+100%
+0
+0%
+248
+100%
+159
+64%
+Female
+17
+17
+100%
+17
+100%
+17
+100%
+0
+0%
+3
+18%
+Total
+265
+265
+100%
+265
+100%
+17
+6%
+248
+94%
+162
+61%
+OTHER THAN PERMANENT EMPLOYEES
+Male
+6
+6
+100%
+6
+100%
+0
+0%
+0
+0%
+6
+100%
+Female
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+6
+6
+100%
+6
+100%
+0
+0%
+0
+0%
+6
+100%
+	
+b.	 Details of measures for the well-being of workers:
+% Of workers/staff covered by
+Category
+Total (A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day care facilities
+No. 
+(B)
+% 
+(B/A)
+No. 
+(C)
+% 
+(C/A)
+No. 
+(D)
+% 
+(D/A)
+No. 
+(E)
+% 
+(E/A)
+No. (F)
+% (F/A)
+PERMANENT WORKERS/STAFF
+Male
+242
+242
+100%
+242
+100%
+0
+0%
+242
+100%
+208
+86%
+Female
+14
+14
+100%
+14
+100%
+14
+100%
+ 0
+0%
+4
+29%
+Total
+256
+256
+100%
+256
+100%
+14
+5%
+242
+95%
+212
+83%
+OTHER THAN PERMANENT WORKERS/STAFF*
+Male
+2336
+2336
+100%
+2336
+100%
+0
+0%
+0
+0%
+2277
+98%
+Female
+97
+97
+100%
+97
+100%
+97
+100%
+0
+0%
+86
+89%
+Total
+2433
+2433
+100%
+2433
+100%
+97
+4%
+0
+0%
+2363
+97%
+*For Other than Permanent Workers/Staff the measures for well-being is ensured through the respective contractors.
+c.	
+Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent) in the following format –
+Particulars
+FY 2023-24
+FY 2022-23
+Cost incurred on well- being measures as a % of total  revenue  of  the company
+0.0081%
+0.0057%
+PLL invests in the well-being of all employees and workers. For FY2023-2024, the above spending is reported only for the 
+permanent employees and workers/staff. 
+153
+2.	
+Details of retirement benefits for the current and previous financial year*
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered (as 
+a % of total 
+employee)
+No. of 
+workers 
+covered (as 
+a % of total 
+workers)
+Deducted & 
+deposited 
+with the 
+authority 
+(Yes/No/NA)
+No. of 
+employees 
+covered (as 
+a % of total 
+employees)
+No. of 
+workers 
+covered (as 
+a % of total 
+workers)
+Deducted and 
+deposited 
+with the 
+authority 
+(Yes/No/NA)
+PF
+100%
+100%
+Yes
+100%
+100%
+Yes
+Gratuity
+100%
+100%
+NA
+100%
+100%
+NA
+ESI
+0
+0
+NA
+NA
+NA
+NA
+Others- Please Specify**
+100%
+100%
+NA
+100%
+100%
+NA
+*The above data is with respect to permanent employees and workers/staff
+** Medical Insurance, Superannuation Scheme, NPS and Resettlement Allowance
+3.	
+Accessibility of workplaces
+	
+Are the premises/offices accessible to differently abled employees as per the requirements of the Rights of Persons 
+with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+	
+Yes, PLL has taken proactive measures to ensure that its premises provide accessible facilities for differently abled 
+employees and workers. The company recognizes the importance of ensuring equal opportunities for all employees and 
+has implemented measures to cater to the needs of differently abled individuals. Wherever the offices of PLL are in leased 
+premises, it is ensured that such facilities are made available by the owners of the premises.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide 
+a web-link to the policy.
+	
+As an organization, the company upholds an unwavering stance against discrimination and firmly adheres to the highest 
+standards of equal opportunity. PLL embraces a culture of inclusivity, where every individual is treated with respect 
+and dignity, regardless of their background. The company has an equal opportunity policy: https://petronetlng.in/PDF/
+PLL%20Equal%20Opportunity%20Policy.pdf 
+5.	
+Return to work and retention rates of permanent employees that took parental leave.
+Gender
+Permanent employees
+Permanent Workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+100%
+100%
+Female
+100%
+100%
+100%
+100%
+Total
+100%
+100%
+100%
+100%
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+workers? If yes, give details of the mechanism in brief.
+Particulars
+Yes/No 
+If Yes, then give details of the mechanism in brief)
+Permanent Employees
+Yes
+PLL has a grievance redressal policy which ensures that all employees have 
+the opportunity to raise their grievances pertaining to employment matters 
+outlined in the company policy. The policy enables timebound redressal 
+and facilitates a dispute resolution process to resolve misunderstandings 
+and uphold a harmonious work environment.
+Permanent Workers
+Yes
+The grievances are addressed and resolved through Engineer-In-Charge 
+and/or Supervisor.
+154
+Particulars
+Yes/No 
+If Yes, then give details of the mechanism in brief)
+Other than Permanent 
+Employees
+Yes
+PLL has a grievance redressal policy which ensures that all employees have 
+the opportunity to raise their grievances pertaining to employment matters 
+outlined in the company policy. The policy enables timebound redressal 
+and facilitates a dispute resolution process to resolve misunderstandings 
+and uphold a harmonious work environment.
+Other than Permanent 
+Workers
+Yes
+The grievances are addressed and resolved through Engineer-In-Charge 
+and/or Contractor Supervisor.
+7.	
+Membership of employees in association(s) or unions recognised by the listed entity:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+employees 
+/ workers 
+in 
+respective 
+category 
+(A)
+No. of employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (B)
+% (B 
+/ A)
+Total 
+employees 
+/ workers 
+in 
+respective 
+category 
+(C)
+No. of employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (D)
+% (D 
+/ C)
+Total Permanent Employees
+PLL has various forums, where employees and workers can participate and provide their 
+feedback to the management. However, any recognised association of officers or union 
+of workers/employees is not in place in the company. Therefore, the said indicator is not 
+applicable for PLL.
+- Male
+- Female
+Total Permanent Workers
+- Male
+- Female
+8.	
+Details of training given to employees and workers
+Category
+FY 2023-24
+FY 2022-23
+Total 
+(A)
+On health & safety/ 
+wellness measures
+On skill 
+upgradation
+Total 
+(D)
+On health and safety 
+measures/ wellness
+On skill 
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. F
+% (F/D)
+EMPLOYEES
+Male
+248
+248
+100%
+248
+100%
+248
+248
+100%
+248
+100%
+Female
+17
+17
+100%
+17
+100%
+16
+16
+100%
+16
+100%
+Total
+265
+265
+100%
+265
+100%
+264
+264
+100%
+264
+100%
+WORKERS/STAFF
+Male
+242
+242
+100%
+242
+100%
+245
+245
+100%
+245
+100%
+Female
+14
+14
+100%
+14
+100%
+14
+14
+100%
+14
+100%
+Total
+256
+256
+100%
+256
+100%
+259
+259
+100%
+259
+100%
+*PLL is not currently monitoring the trainings provided to the non-permanent workers/staff, as they are managed by third-
+party contractors.
+155
+9.	
+Details of performance and career development reviews of employees and workers
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+EMPLOYEES
+Male
+248
+248
+100%
+248
+248
+100%
+Female
+17
+17
+100%
+16
+16
+100%
+Total
+265
+265
+100%
+264
+264
+100%
+WORKERS/STAFF*
+Male
+242
+242
+100%
+245
+245
+100%
+Female
+14
+14
+100%
+14
+14
+100%
+Total
+256
+256
+100%
+259
+259
+100%
+*PLL is not currently monitoring the evaluation of non-permanent workers/staff, as they are managed by third-party contractors.
+10.	 Health and safety management system:
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If 
+yes, the coverage such system? 
+	
+Yes, PLL has a well-defined and ISO 45001-certified occupational health and safety system in place to prevent workplace 
+injuries and accidents. The company’s comprehensive policy for Quality, Health, Safety, Environment, and Asset 
+Management ensures that it maintains the highest standards of safety and quality across all its operations. 
+b.	 What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by 
+the entity?
+	
+To ensure the safety of employees and prevent any work-related hazards, the company employs various methods to 
+identify potential risks and assess them in a timely manner. This includes conducting Hazards Identification and Risk 
+Assessment (HIRA), Quantitative Risk Assessment (QRA), HAZOP studies, and regular risk analysis. Based on the results 
+of these assessments, the company takes appropriate risk mitigation measures to ensure a safe work environment. 
+Additionally, both the plants (Dahej and Kochi) obtained the British Safety Council 5 Star Occupational Health and Safety 
+Award for the excellence in occupational health, safety management systems, and performance. Achieving this feat 
+typically involves rigorous assessment and verification of an organization’s commitment to ensuring a safe and healthy 
+working environment for employees. The audit covered the following:-
+•	
+An assessment of how PLL performed against regulation and best practice,
+•	
+A detailed list of recommendations on which to develop a strategy or action plan to improve Health and Safety,
+•	
+Quantified outcome in all the 57 elements,
+•	
+Potential for improved safety performance, workforce morale and wellbeing.
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such 
+risks. (Yes/No)
+	
+Yes, PLL has a process in place for workers to report work-related hazards to remove themselves from such risks.
+156
+d.	 Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/No)
+	
+Yes, the employees/ workers have access to non-occupational medical and healthcare services.
+11.	  Details of safety related incidents
+Safety Incident/Number
+Category
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per 
+one million-person hours worked)
+Employees
+0
+0
+Workers
+0
+0.27 
+Total recordable work-related injuries
+Employees
+0
+0 
+Workers
+0
+1 
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-
+health (excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+PLL has implemented a comprehensive Health, Safety, and Environment (HSE) management system to ensure the 
+safety and well-being of its employees, contractors, and visitors. This system includes a detailed Quality, Health, Safety, 
+and Environment (QHSE) policy that outlines the company’s commitment to maintaining high standards of safety and 
+environmental responsibility in its operations.
+	
+The HSE management system also includes training programs for employees and contract workmen, designed to equip 
+them with the necessary skills and knowledge to work safely and responsibly. Permit-to-work procedures are implemented 
+to ensure that work activities are carried out safely and efficiently, while incident reporting systems and safety inspection 
+and audit programs help identify potential hazards and prevent accidents.
+	
+Periodic health monitoring programs are also in place for both employees and contractors, along with contract management 
+procedures that ensure all parties adhere to HSE requirements. The HSE committee oversees the implementation and 
+maintenance of the HSE management system, ensuring that it remains effective and up to date with evolving industry 
+standards and best practices.
+	
+PLL recognizes the importance of prioritizing the health, safety, and well-being of its employees, contractors, and visitors. 
+The implementation of a robust HSE management system underscores the company’s commitment to uphold high 
+standards of safety, environmental responsibility, and social accountability in all its operations.
+13.	 Number of complaints on working conditions and health and safety made by employees and workers
+Category
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Working Conditions
+0
+0
+-
+0
+0
+-
+Health & Safety
+0
+0
+-
+0
+0
+-
+157
+14.	 Assessments for the year
+Particulars
+% Of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and    on significant 
+risks / concerns arising from assessments of health and safety practices and working conditions.  	
+Safety Incident / Risk / Concern
+Corrective Action(s) Taken/Underway
+No risk or incident occurred.
+Leadership Indicators 
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) 
+(B) Workers (Y/N)?*
+Employees
+Yes
+Workers
+Yes
+*The above is in respect of permanent employees and workers/staff. For Other than Permanent Employees, Workers/Staff the 
+same is ensured through the respective contractors.
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by 
+the value chain partners.
+	
+As per the terms of the contracts, the Invoice of Contractors are processed based on submission of documentary evidence 
+related to payment of ESI contribution, Health Insurance policy or other such statutory payments / deposits.
+3.	
+Provide the number of employees / workers having suffered high consequence work related injury / ill-health / 
+fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment
+Particulars
+Total no. of affected employees/ 
+workers
+No. of employees/workers that are rehabilitated and placed 
+in suitable employment or whose family members have been 
+placed in suitable employment
+FY 2023-24
+FY 2022-23
+FY 2023-24
+FY 2022-23
+Employees
+Nil
+Nil
+Nil
+Nil
+Workers/Staff
+Nil
+Nil
+Nil
+Nil
+158
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management of 
+career endings resulting from retirement or termination of employment? (Yes/ No)
+	
+Yes, PLL extends its transition assistance programs to individuals who choose to opt for them during their notice period. 
+This initiative aims to provide even more comprehensive support to valued team members during this crucial phase 
+of their professional journey. It offers a range of resources, guidance, and personalized assistance to help individuals 
+effectively navigate this period and make a successful transition.
+5.	
+Details on assessment of value chain partners: 
+Particulars
+% of value chain partners (by value of business done with 
+such partners) that were assessed
+ Health and safety practices 
+70-80% 
+ Working Conditions 
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners. 
+	
+Nil
+159
+PRINCIPLE 4- BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO 
+ALL ITS STAKEHOLDERS
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+PLL defines its key stakeholders as those who are significantly impacted by the company’s operations, or those who 
+can significantly impact the company’s operations and activities. Regular engagement with these stakeholders helps the 
+Company in understanding their expectations, review the same internally and imbibe these in developing strategies, 
+plans & business activities. 
+	
+PLL recognizes the importance of stakeholder engagement in promoting sustainable business practices. The company 
+actively engages with a diverse range of stakeholders to gain a better understanding of their needs and expectations 
+and aligns its business processes and strategies accordingly. The company’s identifications of key stakeholder groups 
+is driven by materiality which is done by respective departments of the company. The company has identified key 
+stakeholder groups, including employees, contract employees, customers/clients, promoters, shareholders/investors, 
+suppliers, lenders, local communities, consultants/advisors/auditors, NGOs/NPOs, media and government & regulators. 
+The company works to engage with each of these groups in a meaningful way.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Key 
+Stakeholders
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Others
+Frequency of 
+engagement
+Purpose and scope of engagement including key 
+topics and concerns        raised during such 
+engagement
+Employee
+No
+Discussion forums, Intranet, 
+Messaging Groups, Social 
+Media, announcements/
+notifications by e-mail. 
+Regular
+•	 Update on company policies, event 
+announcements, 
+grievance 
+redressal, 
+campaigns, and any other changes that 
+may occur.
+•	 Any feedback that the employee may like 
+to share in the town hall meet.
+Contract 
+Employee
+No
+Regular
+Customers/
+Client
+No
+Email, customer engagement 
+and grievance redressal, Face 
+to Face interaction, surveys, 
+E-mail communication, and 
+periodic meetings.
+Regular
+•	 The company conducts a customer 
+satisfaction survey to address customers’ 
+inquiries regarding pricing, billing, and 
+technical issues related to supply.
+•	 Discovering opportunities to enhance PLL’s 
+service and product quality.
+Promoters/
+Shareholders/
+Investors
+No
+Face to face Meetings, 
+Annual Reports, investors 
+meet, conference call, 
+virtual meetings and E-mail 
+communication.
+Quarterly results, Investor 
+presentations, Annual 
+general Meetings.
+Ongoing 
+engagement 
+with at 
+least one 
+engagement 
+on a 
+quarterly 
+basis
+Regular updates on performance, dividends, 
+profitability, financial stability, business outlook 
+and seeking feedback on a regular basis.
+•	 To answer investor queries on financial 
+performance.
+•	 To present business performance highlights 
+to investors.
+•	 To discuss publicly available Company 
+information to shareholders and investors.
+Business 
+Partners and 
+vendors
+No
+Meetings, Email
+Regular
+•	 Acquiring performance-related information.
+•	 Identifying and resolving any concerns.
+Local 
+community
+Yes
+Community meetings, 
+email, website, social media, 
+awareness programs etc.
+Regular
+•	 Community 
+development 
+initiatives 
+undertaken after understanding the needs 
+of the local communities and providing 
+solutions in identified areas.
+•	 Taking feedback from the communities.
+•	 Conducting safety and first aid trainings
+160
+Key 
+Stakeholders
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Others
+Frequency of 
+engagement
+Purpose and scope of engagement including key 
+topics and concerns        raised during such 
+engagement
+Lenders/
+Consultants/
+Advisors/
+Auditors
+No
+Meetings, Email, Website
+Regular
+•	 Developing and maintaining relationships, 
+bringing best possible business solutions, 
+audit of accounts and best disclosures in 
+financial statements etc.
+•	 Management 
+review 
+meetings 
+with 
+auditors
+NGO/NPO
+No
+Website, email
+Need Basis
+•	 Sharing information about PLL’s strategy 
+and performance.
+•	 Sharing the company’s perspectives and 
+contributing thought leadership on issues 
+that affect the public and businesses.
+•	 Information on quarterly and annual 
+performance results
+Media
+No
+Interviews, Interactions and 
+Press Briefings
+Need Basis
+Government 
+and 
+Regulators
+No
+Meetings with key 
+regulatory bodies, 
+Written communications, 
+Presentations, Industry 
+associations.
+Ongoing
+•	 Seeking 
+clarifications, 
+submitting 
+representations, 
+communicating 
+challenges 
+and 
+providing 
+recommendations, knowledge sharing, 
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized 
+stakeholder groups.
+	
+PLL engages with local communities under various CSR projects and contributes to the society, aiding in various societal 
+issues. The CSR projects cover the areas of healthcare, education, welfare of war widows, women empowerment, rural 
+development, arts & culture, welfare of divyangjans, environment & sustainability, etc. directly as well as in association 
+with local self govt bodies, district & state administrations, NGOs and project implementation partners. These initiatives 
+are undertaken prioritising on the felt need of the communities, leading to creation of opportunities and strive towards 
+a more equitable society. The details of CSR projects are reported in Principle 8 of the report as well as on the website- 
+https://petronetlng.in/index.php. 
+Leadership Indicators 
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social 
+topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+The company fosters the practice of direct engagement with the promoters and shareholders, offering a comprehensive 
+overview of the company’s strategies, and addressing any queries or concerns they may have. This transparent 
+communication strategy builds trust among shareholders. About other stakeholders, the communication and feedback 
+process is carried out by different groups and relevant officers, as designated by the company. There are board-level sub-
+committees to look into areas of CSR, Business Development, Projects, Audit & Financial Statements etc.
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and social 
+topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these topics 
+were incorporated into policies and activities of the entity.
+	
+PLL conducted a materiality assessment to identify and address the most important ESG issues. All identified stakeholders 
+were given the opportunity to provide their inputs, which allowed PLL to capture their non-financial impacts, prioritize 
+issues and strengthen its analytical skills, ultimately ensuring long-term success.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized 
+stakeholder groups. 
+	
+PLL has taken a proactive approach to promote inclusive growth by identifying underprivileged communities in the vicinity 
+of its business location and actively collaborating with them. The Company has also implemented specific projects that 
+focus on improving the quality of life of persons with disabilities who are marginalized, vulnerable, and disadvantaged.
+161
+PRINCIPLE 5 - BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of 
+employees/ 
+workers 
+covered (B)
+% (B/A)
+Total (C)
+No. of 
+employees/ 
+workers 
+covered (D)
+% (D/C)
+EMPLOYEES
+Permanent
+265
+265
+100%
+264
+264
+100%
+Other than Permanent 
+6
+6
+100%
+4
+4
+100%
+Total employees 
+271
+271
+100% 
+268
+268
+100%
+WORKERS/STAFF
+Permanent 
+256
+256
+100%
+259
+259
+100%
+Other than Permanent 
+2433
+2433
+100%
+2,118
+2,118
+100%
+Total workers 
+2689
+2689
+ 100%
+2,377
+2,377
+100%
+2.	
+Details of minimum wages paid to employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+(A)
+Equal to 
+minimum wage
+More than 
+minimum wage
+Total 
+(D)
+Equal to 
+minimum wage
+More than 
+minimum wage
+No. 
+(B)
+% (B/A)
+No. 
+(C)
+% 
+(C/A)
+No. 
+(E)
+% 
+(E/D)
+No. 
+(F)
+% 
+(F/D)
+EMPLOYEES
+Permanent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Male
+248
+- 
+- 
+248
+100%
+248
+-
+-
+248
+100%
+Female
+17
+- 
+- 
+17
+100%
+16
+-
+-
+16
+100%
+Non-permanent 
+ 
+ 
+ 
+ 
+ 
+Male
+6 
+- 
+- 
+         6 
+100%
+4
+-
+-
+4
+100%
+Female 
+-
+- 
+- 
+0
+0%
+-
+-
+-
+-
+0
+WORKERS/STAFF
+Permanent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Male
+242
+- 
+- 
+242
+100%
+245
+- 
+- 
+245
+100%
+Female
+14
+- 
+- 
+14
+100%
+14
+- 
+- 
+14
+100%
+Non-permanent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Male
+2,336 
+2,284 
+97.77%
+ 52 
+2.22%
+2073
+2073
+100%
+-
+-
+Female
+97 
+89 
+91.75%
+8 
+8.25%
+45
+45
+100%
+-
+-
+162
+3.	
+Details of remuneration/salary/wages, in the following format:
+	
+a.	
+Median remuneration / wages:
+Particulars
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD) *
+3
+1,70,61,348
+0
+-
+KMP (other than BoD)
+1
+1,01,66,664
+0
+-
+Employees other than BOD & KMP
+244
+41,05,098
+17
+  34,34,820 
+Workers
+242
+ 17,40,996 
+14
+  23,83,123 
+b.	 Gross wages paid to females as % of total wages paid by the entity, in the following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of total wages
+5.29%
+5.07%
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business? (Yes/No)
+	
+PLL’s unwavering commitment to ensure employee well-being and job satisfaction is demonstrated by its comprehensive 
+grievance redressal policy. The four-tier grievance redressal mechanism is an effective and well-structured approach 
+that enables employees to raise their concerns and resolve them at the earliest and most appropriate level. This system 
+fosters a positive work environment by promoting a culture of transparency, fairness, and mutual respect.
+	
+In addition, PLL goes above and beyond to provide a safe and inclusive workplace for its employees by establishing an 
+Internal Complaints Committee (ICC) to address complaints of sexual harassment. The ICC is a testament to the company’s 
+zero-tolerance policy towards any form of harassment or discrimination, ensuring that all employees are aware of their 
+rights and obligations under the law. This proactive measure provides a safe and confidential platform for employees to 
+report any instances of harassment, further promoting a work culture that is respectful and inclusive.
+	
+By having both a comprehensive grievance redressal policy and an Internal Complaints Committee, PLL demonstrates its 
+commitment to create a positive work environment that promotes employee well-being, productivity, and job satisfaction. 
+The company continues to review and update these policies regularly to ensure that they remain effective and relevant 
+in addressing the evolving needs and concerns of its workforce.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues?
+	
+PLL is dedicated to protecting the human rights of all individuals within the organization and its operations. To achieve this, 
+the company strictly adheres to all applicable labour laws and statutory requirements and has established a mechanism 
+to address grievances related to Prevention of Sexual Harassment (POSH) and whistle-blower complaints.
+	
+To ensure that its business operations are carried out in a fair and ethical manner, the company has implemented a 
+number of policies, including but not limited to the Vigil Mechanism, Code of Conduct, Board Diversity Policy, Corporate 
+Social Responsibility Policy, and Grievance Policy etc. These policies are designed to promote a human-rights-oriented 
+approach throughout its operations.
+163
+6.	
+Number of complaints on the following made by employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Sexual Harassment
+Nil
+Not Applicable
+Not Applicable
+Nil
+Not Applicable
+Not Applicable
+Discrimination at 
+workplace
+Nil
+Not Applicable
+Not Applicable
+Nil
+Not Applicable
+Not Applicable
+Child Labour
+Nil
+Not Applicable
+Not Applicable
+Nil
+Not Applicable
+Not Applicable
+Forced /Involuntary 
+Labour
+Nil
+Not Applicable
+Not Applicable
+Nil
+Not Applicable
+Not Applicable
+Wages
+Nil
+Not Applicable
+Not Applicable
+Nil
+Not Applicable
+Not Applicable
+Other issues
+Nil
+Not Applicable
+Not Applicable
+Nil
+Not Applicable
+Not Applicable
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 
+2013, in the following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Total Complaints filed under the Sexual Harassment of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013
+Nil
+Nil
+Complaints on POSH as a % of female employees / workers
+Nil
+Nil
+Complaints on POSH upheld
+Nil
+Nil
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases
+	
+The company is committed to creating a safe and respectful workplace for all its employees, especially women. To 
+achieve this goal, the company has developed effective processes and mechanisms to prevent adverse consequences in 
+discrimination and harassment cases.
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes, PLL ensures strict adherence to all laws and frameworks concerning human rights and labour practices. In addition, 
+PLL is committed to eradicating the reprehensible practices of child labor / forced or compulsory labour.
+10.	 Assessments for the year:
+Particulars
+% of offices that were assessed (by entity or statutory authorities or third parties)
+Child labour
+100%
+Forced/ involuntary labour
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others – please specify
+100%
+164
+11.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above.
+	
+The Company has assessed that no high rated risks were observed. Hence it is not applicable.
+Leadership Indicators
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints - 
+	
+Modification / introduction of business process as a result of human rights grievances / complaints is not applicable in 
+case of PLL.
+2.	
+Details of the scope and coverage of any Human rights due-diligence conducted. 
+	
+Not Applicable
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+	
+Yes, the company has constructed its offices with the intention of providing easy accessibility for everyone, including 
+individuals with disabilities, by installing features such as elevators and ramps to ensure equal access. Wherever the 
+company operates in leased premises, it is ensured that the building adheres to the above requirements.
+4.	
+Details on assessment of value chain partners: 
+% of offices that were assessed (by entity or 
+statutory authorities or third parties)
+Child labour
+100%
+Our major stakeholders are our promoters who 
+are Maharatana PSUs. Based on data available 
+in public domain, it can be inferred that these 
+stakeholders have robust health and safety 
+practices and highly conducive working conditions. 
+Forced/ involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others – please specify
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above. 
+	
+No concerns have been highlighted of the performance of the value chain partners, their practices, and adherence to 
+sustainability standards in FY 2022-23 and FY 2023-24.
+165
+PRINCIPLE 6- BUSINESS SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE THE 
+ENVIRONMENT
+Essential Indicators
+1.	
+Details of total energy consumption (in joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2023-24 
+FY 2022-23
+From renewable sources
+Total electricity consumption (A)
+2109.13 GJ*
+1281.02 GJ
+Total fuel consumption (B)
+0
+0
+Energy consumption through other sources (C)
+0
+0
+Total energy consumption (A+B+C)
+2109.13 GJ
+1281.02 GJ 
+From non-renewable sources
+Total electricity consumption (D)
+854,152.34 GJ
+6,95,710.08 GJ
+Total fuel consumption (E)
+41,36,723.48 GJ
+44,57,196.38 GJ**
+Energy consumption through other sources (F)
+0
+0
+Total energy consumed from non- renewable sources (D+E+F)
+49,90,875.82 GJ
+51,52,906.46 GJ 
+Energy intensity per rupee of turnover
+(Total energy consumed / Revenue from operations) (GJ/INR Crore)
+94.65246396
+86.04745493
+Energy intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (PPP)
+(Total energy consumed / Revenue from operations adjusted for PPP) (GJ/
+INR Crore adjusted for PPP)
+2120.309845
+1907.413933
+Energy intensity in terms of physical output (GJ/TBTU)
+5431.063518
+6857.072985
+Energy intensity (optional) – the relevant 
+Metric may be selected by the entity
+*GJ refers to Giga Joules
+**Note: The FY2022-2023 figure is suitably restated/amended for fair representation.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency. 
+No
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have 
+been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+As of March 31st, 2024, none of the sites of PLL are identified as designated customers under the PAT scheme of the 
+Government of India. 
+166
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+0
+0
+(ii) Ground Water
+0
+0
+(iii) Third Party Water
+41,204.31**
+11,203.5**
+(iv) Seawater/Desalinated Water
+0
+0
+(v) Others (Condensate water generated at the facility)
+35,191**
+43,008**
+Total volume of water withdrawal (in kilolitres)
+41,204.31*
+11,203.5*
+Total volume of water consumption (in kilolitres)
+65,802.92
+45,658
+Water intensity per rupee of turnover
+(Total water consumption / Revenue from operations) (KL/INR Crore)
+1.247959023
+0.762245206
+Water intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (PPP)
+(Total water consumption / Revenue
+from operations adjusted for PPP) (KL/INR Crore adjusted for PPP)
+27.95553008
+16.89668948
+Water intensity in terms of physical output (KL/TBTU)
+71.60663801
+60.74288907
+	
+* Condensate water is being generated through the internal process of PLL, thus this water is not considered under water 
+withdrawal.
+	
+**In FY 2023-2024, third party water consumption increased due to consumption in projects of 22,518 kilolitres. In the 
+operations, assessing the water consumption at a combined level considering both third party water and generation of 
+condensate water, indicates overall water consumption remaining largely at similar levels.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+No
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY 2023-24
+FY 2022-23
+Water discharge by destination and level of treatment (in kilolitres)
+(i) To Surface water
+Not Applicable
+Not Applicable
+-	
+No treatment
+Not Applicable
+Not Applicable
+-	
+With treatment – please specify level of treatment
+Not Applicable
+Not Applicable
+(ii) To Ground Water
+Not Applicable
+Not Applicable
+-	
+No treatment
+Not Applicable
+Not Applicable
+-	
+With treatment – please specify level of treatment
+Not Applicable
+Not Applicable
+(iii) To Seawater
+Not Applicable
+Not Applicable
+-	
+No treatment
+Not Applicable
+Not Applicable
+-	
+With treatment – please specify level of treatment
+Not Applicable
+Not Applicable
+167
+Parameter
+FY 2023-24
+FY 2022-23
+(iv) Sent to third-parties
+Not Applicable
+Not Applicable
+-	
+No treatment
+Not Applicable
+Not Applicable
+-	
+With treatment – please specify level of treatment
+Not Applicable
+Not Applicable
+(v) Others
+10,592.39
+9,355.88
+-	
+No treatment
+Not Applicable
+Not Applicable
+-	
+With treatment – please specify level of Treatment (Water treated 
+through STPs is used for horticulture purposes inside the facilities)
+10,592.39
+9,355.88
+Total water discharged (in kilolitres)
+10,592.39
+9,355.88
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+No
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+Yes, PLL regasification terminal is ZLD approved from pollution control board. Liquid discharged in domestic usage are 
+treated in STP  plant and treated water is being used for gardening purposes . Furthermore, pure water condensed from 
+atmospheric air in process of regasification of LNG, is stored in a vast pond. This pure (equivalent to rainwater) is treated 
+and used for various purposes to reduce dependency of water on third parties.
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2023-24
+FY 2022-23
+NOx
+mg/Nm3
+46.22
+40.84
+SOx
+mg/Nm3
+0
+0
+Particulate matter (PM)
+mg/Nm3
+26.41
+24.21
+Persistent organic pollutants (POP)
+-
+-
+-
+Volatile organic compounds (VOC)
+-
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+-
+Others- please specify
+-
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+No
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 1 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+TCO2e
+2,64,694.94 
+2,69,669.95
+Total Scope 2 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+TCO2e
+169,881.41
+1,37,209.49
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover (Total Scope 1 and Scope 2 GHG emissions / 
+Revenue from operations)
+TCO2e/INR Crore
+8.241784366
+6.792717652
+168
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 1 and Scope 2 emission intensity per rupee 
+of turnover adjusted for Purchasing Power Parity (PPP)
+(Total Scope 1 and Scope 2 GHG emissions / Revenue 
+from operations adjusted for PPP)
+TCO2e/INR Crore 
+adjusted for PPP
+184.6242116
+150.5741722
+Total Scope 1 and Scope 2 emission intensity in terms of 
+physical output
+TCO2e/TBTU
+472.9053267
+541.3078253
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency. – 
+	
+No
+8.	
+Does the entity have any project/Initiatives related to reducing Green House Gas emission? If yes, then provide details.
+	
+Please refer to point 4 under Leadership Indicator of Principle 6 for details.
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+0
+0
+E-waste (B)
+2.273
+2.571
+Bio-medical waste (C)
+0.01289
+0.005066
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+3.823
+1.238
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any. (G) (Empty discarded drums, 
+carboys sent to GPCB-approved decontamination facility, Empty paint 
+containers) & Used Oil
+11.278
+6.1479
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up 
+by composition i.e. by materials relevant to the sector)
+0
+0
+Total (A+B + C + D + E + F + G + H)
+17.387
+9.962
+Waste intensity per rupee of turnover 
+(Total waste generated / Revenue from operations) (MT/INR Crore)
+0.000330
+0.000166
+Waste intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (PPP)
+(Total waste generated / Revenue from operations adjusted for PPP) 
+(MT/INR Crore adjusted for PPP)
+0.007386
+0.003687
+Waste intensity in terms of physical output (MT/TBTU)
+0.018920
+0.013253
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)
+Category of waste
+ 
+(i) Recycled
+0
+0
+(ii) Re-used
+0
+0
+(iii) Other recovery operations (Replacement of Battery)
+0.341
+0.162
+Total
+0.341
+0.162
+169
+Parameter
+FY 2023-24
+FY 2022-23
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) Incineration
+0.86
+1.101
+(ii) Landfilling (Waste residue containing oil and empty container of paint 
+sent to authorised agency disposal site for land filling.)
+5.95
+0
+(iii) Other disposal operations 
+1.152
+0.795
+Used Oil sent to GPCB approved recycler
+3.67575
+1.8054
+Total
+11.63775
+3.7014
+* To convert used oil into metric tonnes, a conversion factor of 0.85 metric tonnes per kilolitre is utilized. 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency. 
+No
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+your company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes.
+1.	
+Waste bins are provided across plant locations for collecting Biodegradable and Non-Biodegradable wastes. Disposal 
+of Non-hazardous wastes are part of the house keeping contract.
+2.	
+Hazardous wastes generated in the terminal are stored in hazardous waste storage and disposed through GPCB/
+KSPCB approved agency by adhering applicable rules and regulations. Regular verification of the disposing agency is 
+done by PLL.
+3.	
+A STP is installed and being operated for the treatment of sewages generated from plant admin building and canteen. 
+Treated water from STP is being used for gardening.
+4.	
+The utilization of hazardous chemicals within the terminal is kept to a minimum. The primary hazardous chemicals 
+used are Liquid Nitrogen (Liq. N2), Sodium Hydroxide (NaOH), soda ash, hypochlorite, High-Speed Diesel (HSD), 
+and Glycol. It is important to note that no waste is produced during the handling of these chemicals. However, any 
+hazardous waste generated from the handling of biocides, lubricating oil, and similar substances is disposed of in a 
+manner that is both environmentally responsible and friendly.
+11.	  If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details.
+S. No.
+Location of 
+operations/ offices
+Type of operations
+Whether the conditions of environmental approval/ 
+clearance are being complied with? (Y/N)
+If no, the reasons thereof and corrective 
+action taken, if any.
+1
+Kochi- Puthuvypeen, 
+Kerala 
+LNG storage and 
+regasification terminal
+Yes
+2
+Dahej, Gujarat
+LNG storage and 
+regasification terminal
+Yes
+170
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in FY 
+2023-24 
+Name and brief 
+details of project
+EIA Notification Number
+Date 
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes / No)
+Results 
+communicated 
+in public 
+domain (Yes/
+No)
+Relevant Web 
+Links
+Petrochemicals 
+Complex at Dahej
+Notification No. S.O. 1533 
+(E) published by Ministry 
+of Environment, Forest & 
+Climate Change (MoEF&CC), 
+Govt. of India, New Delhi 
+-
+Yes
+Yes
+Final EIA report 
+has been uploaded 
+on MoEF&CC 
+portal PARIVESH,  
+parivesh.nic.in 
+Gopalpur LNG 
+Terminal
+Notification No. S.O. 1533 
+(E) published by Ministry 
+of Environment, Forest & 
+Climate Change (MoEF&CC), 
+Govt. of India, New Delhi
+-
+Yes
+No
+Draft EIA report 
+has been prepared. 
+Final EIA report 
+will be uploaded 
+on relevant web 
+links after final 
+Environment 
+Clearance.
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act 
+and rules thereunder (Y/N). If not, provide details of all such non-compliances.
+	
+Yes, PLL is compliant with all the national laws and regulations related to the environment.
+S. No.
+Specify the law / 
+regulation / guidelines 
+which was not complied 
+with
+Provide details 
+of the non-
+compliance
+Any fines / penalties / 
+action taken by regulatory 
+agencies such as pollution 
+control boards or by courts
+Corrective action 
+taken if any
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Leadership Indicators
+1.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres): 
+	
+PLL plants are not categorized as water stress areas. 
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. 
+	
+Not applicable
+2.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+	
+PLL is in the process of computing Scope 3 emissions for FY 2023-2024.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. 
+	
+Not applicable
+3.	
+With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, provide details 
+of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation 
+activities.
+	
+There are no significant direct or indirect impacts identified for both the sites of PLL. This has been verified through 
+assessments conducted by renowned government agencies such as National Institute of Oceanography (NIO) and Gujarat 
+Institute of Desert Ecology (GUIDE).
+171
+4.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same 
+as well as outcome of such initiatives, as per the following format:
+S. 
+No.
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be 
+provided along-with summary)
+Outcome of the initiative
+1
+Solar Power plant
+•	
+A solar power plant of capacity 400 KW installed 
+at Kochi. Planning is initiated add 756KW more 
+solar power plant. 
+•	
+A solar power plant of capacity 160 KW installed 
+& 120 KW solar plant installation under progress 
+at Dahej Plant.
+Environment friendly and 
+sustainable source of supply.
+2
+STP
+•	
+A STP of capacity 30 KLD installed & operating in 
+Kochi
+•	
+A STP of capacity 100 KLD installed & operating in 
+Dahej
+Treatment of sewages 
+generated from plant 
+admin building and kitchen. 
+Discharge of sewages to land is 
+controlled.
+3
+Utilizing chilled water for 
+building AC system 
+•	
+Utilizing chilled water for building AC system and 
+Nitrogen generation plant instead of refrigerant 
+system.
+Saving in consumption of 
+energy
+4.
+In Dahej terminal diesel 
+consumption in tugboats 
+is reduced due to 
+supplying shore electric 
+power from terminal 
+to tugboat while idling, 
+since Dec-23.
+•	
+Marine Crafts while idling at berth require power 
+to maintain their lights, heating, cooling, and 
+other essential functions onboard.  This power is 
+typically provided by running the vessel’s diesel-
+fuelled auxiliary engines (AEs).
+•	
+  This power is now supplied from shore electrical 
+power. Use of shore power allows the vessel to 
+turn off its auxiliary engines and stop burning 
+Diesel. Shore power is therefore an effective way 
+of reducing air emissions.
+Dahej terminal has been 
+able to save 25,766 Liters 
+(Electricity consumed-55310 
+Kw) of diesel till March 2024 
+and corresponding carbon 
+footprints.
+5.
+Innovative initiative 
+has been taken by PLL 
+to utilize cold energy 
+of LNG in upcoming 
+petrochemical plant 
+•	
+Initiative to replace refrigerant with cold 
+energy inherited with LNG is taken to replace 
+conventional design of refrigerant utilization
+GHG emission and energy 
+used for the cooling process 
+in petrochemical will be 
+optimized.
+6.
+Optimised operations 
+at both terminals to 
+reduce specific energy 
+consumption
+•	
+Both terminals are optimizing operations to 
+reduce specific power consumptions
+Kochi terminal Specific power 
+consumption is reduced to 
+0.478 kWh/MMBtu during FY 
+2023-24 surpassing previous 
+best of 0.512 kWh/MMBtu
+7.
+In shipping operational 
+efficiency for voyage fuel 
+consumption is enhanced 
+•	
+Fuel optimization during voyage including 
+berthing at Jetty is optimized.
+Energy consumption is 
+Reduced by 2.75 % of total 
+loaded quantity as compared 
+to last FY 2022-23.
+8.
+Reduction in emissions 
+from GTG
+•	
+In a significant step toward reducing GHG 
+emissions, PLL has successfully reduced its 
+reliance on Gas Turbine Generators (GTGs) at the 
+Kochi terminal and same practice is continuing to 
+manage operations without GTG operations.
+Reduction in Scope 1 GHG 
+emissions
+172
+S. 
+No.
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be 
+provided along-with summary)
+Outcome of the initiative
+9.
+Expansion of capacities 
+in LNG terminals and 
+dispensing stations
+•	
+Expanding PLL’s storage capacity in Dahej by 
+putting up the 7th and 8th LNG tanks
+•	
+Expansion of the nameplate capacity of Dahej 
+terminal from 17.5 MMTPA to 22.5 MMTPA
+•	
+Work for addition of another RLNG Terminal of 4 
+MMTPA capacity is under progress in Gopalpur, 
+Odisha
+•	
+4 LNG dispensing stations are in final stage of 
+commissioning and setting up of fifth station 
+outside Dahej LNG Terminal is expected to 
+commence soon. Further, 10 more stations have 
+been awarded to be installed for introducing LNG 
+as a cleaner alternative to heavily polluting fuels. 
+Providing cleaner fuel 
+alternative (RLNG) to the 
+nation
+10.
+Compressed Biogas
+•	
+Projects are under development to install 
+compressed biogas
+Providing cleaner fuel 
+alternative to the nation 
+and reduction/utilisation of 
+agricultural waste
+11.
+Resource Efficiency
+•	
+Dahej 
+terminal 
+achieved 
+25-millions 
+safe 
+man hours on Nov-23 as an indication of PLL’s 
+commitment towards HSE compliances.
+Providing safe working 
+conditions to optimize 
+efficiency
+5.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+Both the Dahej and Kochi LNG plants have an Emergency Response Disaster Management Plan (ERDMP) in place. In the 
+event of an emergency, PLL is prepared with a comprehensive and well-defined emergency response plan that ensures 
+quick and effective action to mitigate the impact.
+	
+Additionally, the company has implemented a structured approach to recover from disasters and maintain critical IT 
+services through a robust Business Continuity Planning (BCP) framework. To ensure resilience and uninterrupted service, 
+PLL has established two strategically located data centres: one at its corporate office and the other at its regasification site 
+in Dahej, Gujarat.
+	
+The IT Business Continuity Plan (IT BC Plan) reflects PLL’s extensive preparedness in terms of people, processes, and 
+technology. This plan ensures that critical IT services, such as SAP systems, email, and data storage, remain operational 
+during any disaster. The company has meticulously developed Business Continuity and Disaster Recovery (BC/DR) plans 
+for these essential IT services, detailing specific procedures and protocols to follow in the event of a disruption.
+	
+These measures highlight PLL’s commitment to maintaining seamless operations and minimizing downtime, thereby 
+safeguarding its infrastructure and ensuring continuous support for its business functions”.
+6.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation 
+or adaptation measures have been taken by the entity in this regard.
+	
+PLL intends to incorporate sustainability in its value chain and develop a plan in the future to collaborate with value chain 
+partners to adopt sustainable practices. This will help PLL to reduce the impact on the environment.
+7.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts.
+	
+PLL intends to assess the value chain partners by establishing a sustainable supply chain framework and developing ESG 
+criteria for the suppliers in the future. The company also plans to identify its critical suppliers and update the supplier 
+code of conduct to ensure ethical and sustainable practices are incorporated by the company’s suppliers.
+173
+PRINCIPLE 7- BUSINEESS, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, 
+SHOULD DO SO IN A MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+Essential Indicator
+1.	
+a. 	 Number of affiliations with trade and industry chambers/ associations. 
+	
+PLL is affiliated with 6 industrial and trade associations, and the same are listed below.
+b. 	 List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) 
+the entity is a member of/ affiliated to.
+S. No.
+Name of the trade and industry chambers / associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1
+PHD Chamber of Commerce
+National
+2
+Federation of Indian Chamber of Commerce and Industry
+National
+3
+SCOPE
+National
+4
+Federation of Indian Petroleum Industry
+National
+5
+National Safety Council
+National
+6
+Natural Gas Society
+National
+7
+Kerala Management Association
+State
+8
+Bharuch District Management Association
+State
+9
+Dahej Industries Association
+State
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, 
+based on adverse orders from regulatory authorities.
+Name of the Authority
+Brief of the case
+Corrective Action Taken
+Nil
+Not applicable
+Not applicable
+Leadership Indicators
+1. Details of public policy positions advocated by the entity: 
+S. No.
+Public policy 
+advocated
+Method 
+resorted for such 
+advocacy
+Whether 
+information 
+available in 
+public domain? 
+(Yes/No)
+Frequency of 
+Review by Board 
+(Annually/ Half 
+yearly/ Quarterly 
+/ Others – please 
+specify)
+Web Link, if 
+available
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+174
+PRINCIPLE 8-BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVELOPMENT
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current 
+financial year. 
+Name and 
+brief details 
+of project
+SIA Notification 
+No.
+Date of 
+notification
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes/No)
+Results 
+communicated in 
+public domain (Yes/
+No)
+Relevant Web 
+link
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity
+S. No.
+Name of Project 
+for which R&R is 
+ongoing
+State
+District
+No. of Project 
+Affected Families 
+(PAFs)
+% of PAFs 
+covered by 
+R&R
+Amounts paid 
+to PAFs in the 
+FY (In INR)
+Not Applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+PLL understands that being a responsible corporate citizen means prioritizing the well-being of the communities in which 
+it operates. To this end, the company has implemented several mechanisms such as community engagement through 
+designated department, taking of projects as per the need of the community and taking feedback from the community 
+time to time.
+	
+One of the key initiatives is the establishment of the Petronet LNG Foundation (PLF), exclusively dedicated to addressing 
+community concerns and improving their living standards. The foundation’s CSR team collaborates closely with local 
+communities to identify their needs and develop targeted interventions that address their concerns. Through community 
+development projects, the foundation works towards improving the quality of life of community members, promoting 
+sustainable development and empowering communities.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers*
+Particulars
+FY 2023-24 
+FY 2022-23
+Directly sourced from MSMEs/ small 
+producers
+Not applicable
+Not applicable
+Sourced directly from within the 
+district and neighbouring districts
+Not applicable
+Not applicable
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed 
+on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost
+Location
+FY 2023-24 
+FY 2022-23
+Rural
+-
+-
+Semi-urban
+51%
+54%
+Urban
+18%
+18%
+Metropolitan
+31%
+28%
+175
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above): 
+	
+Nil
+a.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies
+S No.
+State
+Aspirational district
+Amount spent (in Rs Lacs)
+1
+Uttar Pradesh 
+Sonbhadra 
+106
+2
+Uttarakhand
+Haridwar
+8.2
+3
+Kerala 
+Wayanad
+12
+4
+Haryana
+Nuh
+38.57
+5
+Bihar
+Begusarai
+1191.3
+2.	
+(a) 	 Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups? (Yes/No) 
+(b) 	 From which marginalized /vulnerable groups do you procure? 
+(c) 	 What percentage of total procurement (by value) does it constitute? 
+	
+The Company believes in equal and fair opportunity to all vendors including marginalised/vulnerable groups.
+3.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge: 
+	
+Nil
+4.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property-related disputes 
+wherein usage of traditional knowledge is involved. 
+	
+Nil
+5.	
+Details of beneficiaries of CSR projects
+S. 
+No.
+CSR Projects (in FY 2023-24)
+No. of persons 
+benefitted from 
+CSR Projects
+% Of beneficiaries 
+from vulnerable and 
+marginalized groups
+1
+Health camp in Sonbhadra district of Uttar Pradesh
+2,804 
+80%
+2
+Infrastructure facilities & providing equipment to Government Medical 
+College, Kottayam
+25,000 
+90%
+3
+Setting-up of five smart classrooms in a school in Meerut District of 
+Uttar Pradesh
+100 
+100%
+4
+Health Awareness Camps and facilitation of Ayushman Health Cards 
+for the EWS/backward rural population of Saran District, Bihar
+52,500 
+100%
+5
+Bicycles & Umbrellas to the students and workforce in Dibrugarh & 
+Tinsukia districts of Assam     
+2,000 
+50%
+6
+Support for SRPM Healthcare and Education Centres in Delhi 
+70 
+50%
+176
+S. 
+No.
+CSR Projects (in FY 2023-24)
+No. of persons 
+benefitted from 
+CSR Projects
+% Of beneficiaries 
+from vulnerable and 
+marginalized groups
+7
+Support to Mahavir International for Child Eye & Health Care Project 
+4,675 
+70%
+8
+Skill Training Programme for economically weaker rural youth of 
+Mathura, Uttar Pradesh (U.P)
+130 
+100%
+9
+Supporting visually challenged at a Blind School 
+60 
+100%
+10
+Health awareness workshops and distribution of sanitary napkins 
+5,000 
+100%
+11
+Mobile Medical Units (2 MMUs in Mirzapur) 
+10,997 
+100%
+12
+Setting Computer Labs with Digital Library in five Govt. Schools in 
+Indore, MP
+500 
+50%
+13
+Health Camps in Bulandsahr District
+6,200 
+70%
+14
+Health Camps in Varanasi
+3,772 
+85%
+15
+Setting up 9 Smart Classrooms, distribution of 500 Shiksha Tablets and 
+9 PM-WANI Wi-Fi Access Points in Dibrigarh, Assam 
+11,000 
+80%
+16
+Support towards procuring  ambulance with four-wheel facility to 
+Edamalakudy Family Health Center
+2,500 
+100%
+17
+Medical Bed & Equipment to the shelter home of TESF, located at 
+Bandhwari & Mandawar Villages in Gurugram, Haryana
+1,000 
+100%
+18
+Procurement and Installation of RO water purifying systems and Water 
+Coolers in Government Schools in Bihar
+7,500 
+100%
+19
+Support for ICT equipment for the rehabilitation program of differently 
+abled
+250 
+100%
+20
+Sarojini Naidu Anganwadi, Kothamangalam
+600 
+100%
+21
+Renovation & Refurbushing of Divyang School
+100 
+100%
+22
+Jan Arogyam ( Women Centric Healthcare Centre  ) 
+11,880 
+80%
+23
+Educating Children for Life : Providing Online /Offline education to 500 
+underpriviledged students
+500 
+100%
+24
+Skill Development Training of 100 underprivileged youth from 
+Badarpur and adjoining areas in South East District
+100 
+100%
+25
+Financial support for distribution of Unifom Sweaters 
+2,000 
+100%
+177
+S. 
+No.
+CSR Projects (in FY 2023-24)
+No. of persons 
+benefitted from 
+CSR Projects
+% Of beneficiaries 
+from vulnerable and 
+marginalized groups
+26
+Organising Vedic Education & Life Enhancement Camps
+70 
+100%
+27
+Support Mahavir International towards Eye & Health Check Up Camps 
+under Project "Doctors at Door Step"
+3,720 
+100%
+28
+Bus at the Lakshmi Bai College, Hisar, Haryana
+500 
+100%
+29
+Organising Women health and awareness camps for backward classes 
+in Agra, Uttar Pradesh.
+2,000 
+100%
+30
+Financial Support to Poornata Curriculum - A Value Based Education 
+Prgramme 
+600 
+80%
+31
+Support for organising Medical Health Camps in Delhi
+800 
+100%
+32
+Moran Blind School, Dibrugarh, Assam
+60 
+100%
+33
+Support for Organising Women Health and Nutritional Camps in 
+Banswara 
+3,923 
+100%
+34
+Distribution of Stationary Kits to School Students
+1,500 
+100%
+35
+Refurbishment of Jawahar Bal Bhavan (JBB) by District Nirmithi Kendra, 
+Thrissur
+2,000 
+80%
+36
+Procurement and Installation of RO with water coolers to Government 
+Schools in Maharajganj, Bihar
+17,500 
+100%
+37
+Providing financial support to Le Rythme towards “Empowerment 
+of under privileged women and autistic people through holistic skill 
+development programme with job opportunities”.
+50 
+100%
+38
+Distribution of School Uniform & Textbooks to underprivileged 
+students in Delhi/NCR
+500 
+100%
+39
+Construction of two Classrooms and one Multi-media room at DVKM, 
+Dahej (Bharuch)
+450 
+75%
+40
+Organising Women Skill Training in Mirzapur district, Uttar Pradesh
+400 
+100%
+41
+Support for Data Entry Operator, self-employed cutting and Tailoring 
+training program
+120 
+100%
+42
+National Super 100 Project for JEE exams 
+30 
+100%
+43
+Distribution of food from ‘Annabhandar’ to underprivileged in Delhi/
+NCR under the project “Anna-Seva”
+5,000 
+100%
+178
+S. 
+No.
+CSR Projects (in FY 2023-24)
+No. of persons 
+benefitted from 
+CSR Projects
+% Of beneficiaries 
+from vulnerable and 
+marginalized groups
+44
+Computer Centre at Noida 
+370 
+100%
+45
+Petronet Computer Centres in Noida ( 2 Nos ) 
+200 
+100%
+46
+Support for Papad Making Gruh-Udyog by Women SHG of Lakhigam 
+Village
+15 
+50%
+47
+Celebration of Swachhta Pakhwada – 2023
+1,882 
+70%
+48
+Supply of Ration Kits for Flood Relief Activities in Bharuch District 
+500 
+90%
+49
+District Level Special Olympics 2023
+250 
+50%
+50
+Support towards repair of ceiling and enclosing classrooms of 
+Government LP School, Palliport, Vypin
+90 
+90%
+51
+Support towards refurbishing toilets of Santa Cruz High School, 
+Ochanthuruth, Vypin
+357 
+70%
+52
+Support towards setting up helpdesk for differently abled and senior 
+citizens at Revenue Divisional Office (RDO), Fort Kochi.
+144,000 
+80%
+53
+Support towards installing incinerators at Government Medical College 
+Idukki
+160 
+90%
+54
+Support towards upgrading Government Child Welfare Committee 
+(CWC) office, Ernakulam to child-friendly along with repair of toilet
+2,400 
+100%
+55
+Support for installing Solar panels at APJ Abdul Kalam International 
+Residential Tribal School.
+186 
+100%
+56
+Conducting training for plumbing and sanitation and deployment of 
+startup projects for the underprivileged through TECHIN, IIT Palakkad
+100 
+100%
+57
+Support for providing safe drinking water facility for Government 
+Higher Secondary School, Elankunnapuzha. 
+500 
+70%
+58
+Water cooler for BVHS
+714 
+75%
+59
+Safe flooring of Physics lab at Elakunnpuzha GHSS
+145 
+70%
+60
+Support towards procurement and installation of Incinerator at 
+Ekalavya Model Residential School, Painavu, Idukki
+204 
+100%
+61
+Support towards sponsoring medicines for Super Speciality Medical 
+Camp conducted by Indian Medical Association, Cochin chapter
+2,500 
+95%
+179
+S. 
+No.
+CSR Projects (in FY 2023-24)
+No. of persons 
+benefitted from 
+CSR Projects
+% Of beneficiaries 
+from vulnerable and 
+marginalized groups
+62
+Support towards placing false ceiling for PHC, Puthuvypu
+80 
+95%
+63
+Support towards procurement and Installation of Incinerator for Pre-
+Metric Hostel (Girls) Scheduled Tribe Department, Neriamangalam
+100 
+100%
+64
+Support towards creating “Pacha Thuruth” (Green Island) at Family 
+Health Centre, Munambam
+48,000 
+65%
+65
+Support towards procuring medicines and investigation services 
+in association with Sree Sudheendra Medical Mission Hospital, 
+Kacherippady for Super Speciality Medical Camp at Kalamassery
+5,800 
+98%
+66
+Support towards constructing Baby friendly washroom at Anganwadi 
+No: 105, Njarakkal
+18 
+60%
+67
+Support for providing safe drinking water facility for Community Health 
+Centre Malippuram
+87,000 
+80%
+68
+Installlation of CT Scan Machine at the General Hospital, Ernakulam
+11,750 
+90%
+69
+Skill Development Training of 100 Youths each in Baddi, Dehradun & 
+Murthal 
+150 
+100%
+70
+Petronet Jammu Super 30 programme at Jammu & Petronet Kashmir 
+Super 30 programme at Srinagar and National Super 100  at Delhi/NCR 
+110 
+100%
+71
+Sulabh Toilet Complex (Sulabh Suvidha Kendra) Katra in the District 
+Reasi, Jammu
+24,000 
+50%
+72
+Mobile Medical Units (2 MMUs in Delhi, 1 MMU in Kerala & 1 MMU 
+Gujarat )
+96,443 
+80%
+73
+Construction of School Building for Government Primary School, 
+Lakhigam Village
+275 
+70%
+74
+Empowerment of Women through Livelihood Enhancement Project ( 
+Distribution of Sewing Machines)
+6,000 
+100%
+75
+Eye Care Equipment equipment for the underpriviledged at an Eye 
+Hospital
+17,735 
+80%
+76
+Digital mental healthcare and wellbeing program for the mentally 
+challenged 
+1,190 
+100%
+77
+Mid-day Meal Programme for School Children 
+3,300 
+80%
+180
+S. 
+No.
+CSR Projects (in FY 2023-24)
+No. of persons 
+benefitted from 
+CSR Projects
+% Of beneficiaries 
+from vulnerable and 
+marginalized groups
+78
+Mobile Medical Units (2 MUMUs in Sonbhadra)
+37,443 
+80%
+79
+Skill Development Training in Plastics Technology for  Youth 
+150 
+20%
+80
+Residential Coaching and Mentoring for JEE Exams to under priviledged 
+students 
+110 
+100%
+81
+Skill Training Programme for economically weaker rural youths of 
+Mathura, U.P
+130 
+100%
+82
+Support to disability assessment and assistive devices distribution 
+camp 
+3,500 
+100%
+83
+Extension of project “Jan Arogyam” (Women – Centric Healthcare 
+Centre)
+10,560 
+80%
+84
+Health Awareness Workshops and distribution of Sanitary Napkins in 
+Govt, Schools
+150 
+100%
+85
+Provide basic Computer education to economically weaker students of 
+society in NOIDA
+300 
+100%
+86
+Educating Children for Life: Providing Online education to 500 under 
+privileged Children 
+500 
+100%
+87
+Ekal Vidyalayas in Wayanad and Bharuch 
+4,327 
+70%
+88
+Providng Nutritional Kits to TB Patients of Bharuch Taluka in association 
+with District TB Office
+300 
+100%
+89
+Approval for supporting Blind People Association for Distribution and 
+Training of ‘Saarthi Assistive Mobility Device’ to Person with Visual 
+Impairment in Kerala 
+1,000 
+100%
+90
+Development of Sports Facilities at Govt. High School, Lakhigam Village 
+140 
+75%
+91
+Distribution of Fishing Kits to Fisherman Community of nearby villages 
+120 
+100%
+92
+Infrastructure Restoration at Pereira Wadi Municipal School
+1,500 
+100%
+93
+‘Poornata Curriculum - A value-based education program’ by Blue Orb 
+Foundation for implementation in Delhi NCR
+640 
+100%
+94
+Installation of solar power generation plant at Disha Foundation - A 
+Resource Centre for children & young adults with Multiple Disabilities
+300 
+100%
+95
+Conversion of ICU Beds at General Hospital, Ernakulam with equipment 
+6,524 
+90%
+181
+S. 
+No.
+CSR Projects (in FY 2023-24)
+No. of persons 
+benefitted from 
+CSR Projects
+% Of beneficiaries 
+from vulnerable and 
+marginalized groups
+96
+Ekal Vidyalaya and Ekal-on-Wheels in Gujarat and Kerala
+5,000 
+100%
+97
+Tablets to the teachers at Schools run by South Delhi Municipal 
+Corporation (SDMC) 
+700 
+50%
+98
+Expansion of the 35-bedded charitable hospital run by Swami 
+Vivekanand Health Mission Society (SVHMS) at Dharmawala, Dehradun 
+71,077 
+100%
+99
+Naipunyam – Skill Development Training Programme 
+200 
+85%
+100
+Skill development programme in apparel sector with Apparel Made-ups 
+and Home Furnishing Sector Skill Council (AMHSSC) in Varanasi (UP)
+500 
+100%
+101
+Kaushal Setu ( Skill Development Programme with CIPET)
+200 
+70%
+102
+Academic and Admin Block At School Of Sustainable Habitats , Ladakh
+900 
+70%
+103
+Construction of the Primary School at Luwara
+250 
+70%
+104
+Construction of BSF Widow Quarters at Gandhinagar, Gujarat
+120 
+100%
+105
+Dinkar Ghat at Simariya in association with National Mission for Clean 
+Ganga 
+3,600,000 
+70%
+182
+PRINCIPLE 9- BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS IN A 
+RESPONSIBLE MANNER
+Essential Indicators 
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback
+	
+In case of any issues, customers submit their complaints / feedback via email to designated officers of PLL, who in turn 
+promptly respond after due internal examination of the issue.
+2.	
+Turnover of products and/services as a percentage of turnover from all products/service that carry information about:
+Particulars
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+Not applicable
+Safe and responsible usage
+Not applicable
+Recycling and/or safe disposal
+Not applicable
+3.	
+Number of consumer complaints:
+Particulars
+FY 2023-24
+Remarks
+FY 2022-23
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data privacy
+Nil
+NA*
+-
+Nil
+NA*
+-
+Advertising
+Nil
+NA*
+-
+Nil
+NA*
+-
+Cyber-security
+Nil
+NA*
+-
+Nil
+NA*
+-
+Delivery of 
+essential services
+Nil
+NA*
+-
+Nil
+NA*
+-
+Restrictive Trade 
+Practices
+Nil
+NA*
+-
+Nil
+NA*
+-
+Unfair Trade 
+Practices
+Nil 
+NA*
+-
+Nil 
+NA*
+-
+Other
+Nil
+NA*
+-
+Nil
+NA*
+-
+*NA means Not Applicable
+4.	
+Details of instances of product recalls on accounts of safety issues
+Particulars
+Number
+Reasons for recall
+Voluntary recalls
+Nil
+Forced recalls
+183
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+	
+The company has Information Security Policy and a Data Security Policy. The Information Security Policy aims to provide 
+management guidance and support for information security, ensuring compliance with PLL’s business requirements and 
+relevant laws and regulations. This policy is implemented across all PLL offices, work centres, and terminals, covering all 
+users connected to PLL’s information resources in any form. It also applies to all employees, service providers, partners, 
+consultants, third-party vendor staff, and contractors utilizing PLL’s information resources. Non-compliance or violation 
+of the Information Security Policy will result in disciplinary action. The policy is reviewed annually or in the event of 
+significant changes to ensure its ongoing appropriateness, sufficiency, and effectiveness.
+	
+The Data Privacy Policy is designed to protect the privacy of personal information handled by PLL employees, temporary 
+staff, and authorized third parties. PLL management has adopted adequate measures to ensure the privacy of personnel 
+information. These measures include developing a comprehensive data privacy policy for the organization, regularly 
+updating the policy, and promoting privacy awareness within the organization. Violations of the Data Privacy Policy may 
+result in management actions, such as employee termination, replacement of third-party staff, or contract termination. 
+The company’s commitment to data privacy is evident through its emphasis on safeguarding personal information, 
+recognizing its significance in an era plagued by persistent data breaches. By implementing this policy, PLL fosters trust 
+among customers and stakeholders, reaffirming its dedication to data privacy and protection.
+	
+The policy is uploaded in the company’s intranet portal.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+	
+Not Applicable
+7.	
+Provide the following information relating to data breaches:
+a)	 Number of instances of data breaches
+	
+Nil
+b)	 Percentage of data breaches involving personally identifiable information of customers
+	
+Nil
+c)	
+Impact, if any, of the data breaches
+	
+Not Applicable
+Leadership Indicators 
+1.	
+Channels / platforms where information on products and services of the Company can be accessed
+	
+Detailed information on the products and services offered by the company is available at Company’s website, as per the 
+below web link- https://petronetlng.in/
+2.	
+Steps taken to inform and educate consumers, about safe and responsible usage of products and services
+	
+The RLNG handling is through pipelines and is subject to the safety norms of the pipeline operators such as GAIL, GSPL, 
+IOCL etc. With regard to the LNG sold by tankers, the mandate details, including the HAZCHEM code and emergency 
+contact information, are displayed on the tanker. Additionally, a Transport Emergency (TREM) card containing instructions 
+on how to deal with a fire is kept in the file in multiple local languages, such as Malayalam, Tamil, Kannada, Telugu, and 
+Hindi. To ensure awareness, an initiation session on the do’s and don’ts during an emergency scenario for drivers and 
+others is conducted for each truck.
+184
+3.	
+Mechanisms in place to inform consumers of any risk of disruption / discontinuation of essential services
+	
+The mechanisms for notifying customers include emails, letters, and calls. The company also sends emails and notices to 
+off-takers /customers informing about regular maintenance at the terminal.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? 
+(Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer 
+satisfaction relating to the major products / services of the entity, significant locations of operation of the entity or the 
+entity as a whole? (Yes/No)
+	
+Yes, the display of mandate details (such as the HAZCHEM code) and emergency contact details on the tanker is carried 
+out. Additionally, TREM cards are placed in the file in local languages such as Malayalam, Tamil, Kannada, Telugu, and 
+Hindi. An initiation session is also conducted for each truck to raise awareness about the do’s and don’ts in case of a fire 
+or other emergency scenarios for drivers and other personnel. The company interact and engage with its customers on a 
+regular basis to obtain their feedback.
