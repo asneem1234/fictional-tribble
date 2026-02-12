@@ -1,0 +1,4257 @@
+    Works: i) Plot No.1, Udyog Vihar, P.O. Chorhata, Rewa-486006(M.P.) 
+                                          ii) Plot No.1-C & 1-D, Udyog Vihar, P.O. Chorhata, Rewa-486006(M.P.) 
+ 
+ 
+Vindhya Telelinks Limited 
+ 
+ 
+Regd. Office: Udyog Vihar, P.O. Chorhata,  
+Rewa - 486 006 (M.P.), India 
+ 
+Telephone No: (07662) 400400 * Fax No: (07662) 400591 
+Email: headoffice@vtlrewa.com; Website: www.vtlrewa.com 
+PAN NO.AAACV7757J * CIN: L31300MP1983PLC002134 
+                                                                                                                                                                   GSTIN: 23AAACV7757J1Z00 
+ 
+ 
+VTL/CS/23-24/Reg-34(2)(f)                                                                     16 AUG 2023 
+ 
+BSE Ltd. 
+The Manager, 
+Corporate Relationship Department, 
+Listing Department, 
+1st Floor, New Trading Ring, 
+The National Stock Exchange of India Ltd, 
+Rotunda Building, 
+Exchange Plaza, C-1, Block G, 
+P.J. Towers, Dalal Street, 
+Bandra Kurla Complex, 
+Fort, 
+Bandra (E), 
+MUMBAI-400 001 
+MUMBAI-400 051 
+ 
+Company’s Scrip Code: 517015 
+Company’s Scrip Code: VINDHYATEL  
+ 
+Dear Sirs, 
+ 
+Sub:  Business Responsibility and Sustainability Report 
+for 
+the 
+financial 
+year 
+2022-23 
+pursuant 
+to 
+Regulation 34(2)(f) of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015            _ 
+ 
+Pursuant to Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, please find enclosed herewith the Business 
+Responsibility and Sustainability Report (‘BRSR’) for the financial year 2022-23, which 
+also forms part of the Annual Report of the Company for the financial year 2022-23. 
+ 
+This is for your information and records. 
+ 
+Thanking you, 
+ 
+Yours faithfully,  
+For Vindhya Telelinks Limited 
+ 
+ 
+ 
+(Dinesh Kapoor) 
+Company Secretary 
+ 
+Encl: As above 
+ 
+ 
+ 
+DINESH 
+KAPOOR
+Digitally signed by 
+DINESH KAPOOR 
+Date: 2023.08.16 
+13:36:15 +05'30'
+VTL
+44
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+[Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015]
+This report has been prepared following the SEBI Guidelines for Business Responsibility and Sustainability Reporting (BRSR). Its 
+primary objective is to demonstrate heightened transparency concerning the ways in which businesses generate value by actively 
+contributing to a sustainable economy. The report underscores our unwavering commitment to creating long-term value for our 
+stakeholders as we actively promote sustainable development.
+SECTION A: GENERAL DISCLOSURES
+I.
+DETAILS OF THE ENTITY
+Sl. 
+No.
+Particulars
+Response
+1.
+Corporate identity Number (CIN) of the Entity
+L31300MP1983PLC002134
+2.
+Name of the Entity
+Vindhya Telelinks Limited
+3.
+Year of incorporation
+1983
+4.
+Registered office address
+Udyog Vihar, P.O. Chorhata,
+Rewa– 486006 (M.P.), India
+5.
+Corporate address
+Commercial Plaza, 2nd Floor, Wing-B,
+Radisson Hotel, N.H-8, Mahipalpur,
+New Delhi – 110037, India
+6.
+E-mail
+headoffice@vtlrewa.com
+7.
+Telephone
+07662400400
+8.
+Website
+www.vtlrewa.com
+9.
+Financial year for which reporting is being done
+2022-23
+10.
+Name of the Stock Exchange(s) where shares are listed
+BSE Limited (BSE)
+National Stock Exchange of India Limited (NSE)
+11.
+Paid-up Capital
+` 118,508,630 (Divided into 11850863 equity 
+shares of ` 10/- each).
+12.
+Name and contact details (telephone, email address) of the person 
+who may be contacted in case of any queries on the BRSR report
+Shri Y.S. Lodha, Managing Director & CEO
+Phone: 011-45538800
+e-mail: headoffice@vtlrewa.com
+13.
+Reporting boundary - Are the disclosures under this report made on a 
+standalone basis (i.e., only for the entity) or on a consolidated basis (i.e., 
+for the entity and all the entities which form a part of its consolidated 
+financial statements, taken together).
+The disclosures under this report are made on 
+stand-alone basis, unless otherwise specified.
+II.
+PRODUCTS/SERVICES
+14.
+Details of business activities (accounting for 90% of the turnover):
+Sl. 
+No.
+Description of Main 
+Activity
+Description of Business Activity
+% of Turnover of the 
+entity
+1.
+Manufacturing
+Electrical equipment, General purpose and Special purpose 
+Machinery & equipment, Transport equipment 
+21.71%
+2.
+Construction
+Roads, Railways, Utility projects 
+78.29%
+45
+VTL
+MP BIRLA
+GROUP
+15.
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+Sl. 
+No.
+Product/Service
+NIC Code*
+% of total Turnover 
+contributed
+1.
+Manufacturing of Telecommunication Cables including Jelly Filled Copper 
+Cables, Optical Fibre Cables, Solar PV Cables, Railway Signalling and 
+Quad Cables, Power Cables and other telecom fibre accessories.
+31300;
+33201
+21.71%
+2.
+Engineering, Procurement & Construction (EPC) business in the key 
+infrastructure sectors viz. Telecom, Power, Water Supply & Irrigation, 
+Gas Pipeline and System Integration.
+45203;
+45204
+78.29%
+* Alphabetic Index 5 digit as prescribed by The Ministry of Statistics and Programme Implementation (MOSPI) in terms of 
+Guidance Note on BRSR Reporting issued by SEBI.
+III.
+OPERATIONS
+1.
+Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+Cable Business - 1
+Cable Business - 2
+3
+EPC Business - 0
+EPC Business - 8
+8
+International
+Nil
+Nil
+Nil
+17.
+Markets served by the entity:
+(a)
+Number of locations
+Locations
+Number
+National (No. of States)
+The Cable Business Segment serves a total of 28 states and 3 Union territories within 
+the country, while the EPC Business Segment at present operates in 19 states and 4 
+Union Territories across the nation.
+It demonstrate a strong presence in the national market, catering to a significant 
+number of states and contributing to the entity’s overall market reach domestically.
+International (No. of Countries) At the international level, the Cable Business Segment extends its services to 23 
+countries.
+(b)
+Contribution of exports:
+What is the contribution of exports as a percentage of the total turnover of the entity%
+4.52%
+(c)
+Type of Customers
+A brief on 
+types of 
+customers
+The Company operates in two Business Segments, namely Cable manufacturing and EPC 
+(Engineering, Procurement, and Construction).
+Cable Manufacturing:
+Our Company is dedicated to supplying high-quality Telecom and Power Cables to various customers 
+consisting of different Government Departments, including BSNL (Bharat Sanchar Nigam Limited) 
+and APSFL (Andhra Pradesh State FiberNet Limited) and private sector telecom Companies such as 
+Bharti Airtel, Reliance Jio etc., who rely on our cables for their communication infrastructure needs. 
+We are proud to be a trusted supplier to these esteemed government organizations.
+In addition to government departments, we also cater to the requirements of the Railways. Our cables 
+play a crucial role in ensuring efficient and reliable communication and power transmission within the 
+vast railway network. By providing cables specifically designed for railway applications, we contribute 
+to the smooth functioning of the transportation system.
+Telecom Operators form another significant customer segment for our Cable Business. We 
+understand the importance of seamless connectivity in today’s digital age, and we supply top-notch 
+cables that enable telecom operators to deliver reliable voice and data services to their customers. 
+Our cables undergo rigorous testing to meet the stringent standards set by the industry.
+Furthermore, we are actively involved in the renewable energy sector by supplying Solar DC 
+Cables. These cables are essential components of solar power installations and enable the efficient 
+transmission of direct current generated from solar panels. By serving the renewable energy industry, 
+we contribute to the growth of sustainable and clean energy sources.
+VTL
+46
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+Engineering, Procurement, and Construction:
+EPC (Engineering, Procurement, and Construction) Business Segment boasts an impressive 
+customer base encompassing various sectors.
+We are proud to be associated with the Central and State Government bodies, as our Company 
+has successfully bid for and won several contract / tenders. The trust placed in us by government 
+organizations highlights our ability to deliver on large-scale projects and meet stringent quality 
+standards. Through our partnership with the government, we contribute to the development and 
+modernization of public infrastructure in the country.
+Public Sector Undertakings also form an integral part of our customer base. These organizations, 
+which play a vital role in various sectors such as telecom, water, irrigation, power, oil and gas, system 
+integration etc. rely on our expertise for their engineering and construction needs. We collaborate 
+closely with public sector undertakings to ensure the successful execution of their projects.
+Additionally, we serve Private Sector Corporates, catering to their diverse engineering and 
+construction requirements. We offer customized solutions that meet the specific needs of private 
+sector companies, enabling them to enhance their operational efficiency and achieve their project 
+goals.
+Under the Company’s IP-1 license for establishing a comprehensive optical fibre cable network, 
+numerous telecom operators have been reliant on the network infrastructure developed by the 
+Company. The network has been gradually expanded to encompass new geographical areas within 
+India, thereby extending its coverage.
+We are committed to delivering exceptional products and services to our valued customers and 
+establishing long-term partnerships based on trust and mutual success.
+IV.
+EMPLOYEES
+18.
+Details at the end of the year of financial year:
+(a)
+Employees and workers (including differently abled):
+Sl. 
+No
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Employees
+1.
+Permanent (D)
+341
+336
+98.53%
+5
+1.47%
+2.
+Other than Permanent (E)
+1456
+1433
+98.42%
+23
+1.58%
+3.
+Total employees (D + E)
+1797
+1769
+98.44%
+28
+1.56%
+Workers
+1.
+Permanent (F)
+104
+104
+100%
+Nil
+0%
+2.
+Other than Permanent (G)
+147
+147
+100%
+Nil
+0%
+3.
+Total workers (F + G)
+251
+251
+100%
+Nil
+0%
+(b)
+Differently abled Employees and workers:
+Sl. 
+No
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Differently Abled Employees
+1.
+Permanent (D)
+1
+1
+100%
+0
+0%
+2.
+Other than Permanent (E)
+0
+0
+0%
+0
+0%
+3.
+Total employees (D + E)
+1
+1
+100%
+0
+0%
+Differently Abled Workers
+1.
+Permanent (F)
+0
+0
+0%
+0
+0%
+2.
+Other than Permanent (G)
+0
+0
+0%
+0
+0%
+3.
+Total workers (F + G)
+0
+0
+0%
+0
+0%
+47
+VTL
+MP BIRLA
+GROUP
+19.
+Participation/Inclusion/Representation of women:
+Category
+Total (A)
+No. and percentage of 
+Females
+No. (B)
+% (B / A)
+Board of Directors
+10
+2
+20%
+Key Management Personnel
+3
+0
+0%
+20.
+Turnover rate for permanent employees and workers:
+(Disclose trends for the past 3 years)
+Category
+FY 2022-23
+(Turnover rate in current 
+FY)
+FY 2021-22
+(Turnover rate in previous 
+FY)
+FY 2020-21
+(Turnover rate in the year 
+prior to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+3.17%
+Nil
+3.17%
+0.80%
+Nil
+0.80%
+1.30%
+Nil
+1.30%
+Permanent Workers
+1.58%
+Nil
+1.58%
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+V.
+HOLDING, SUBSIDIARY AND ASSOCIATE COMPANIES (INCLUDING JOINT VENTURES)
+21.
+Names of holding / subsidiary / associate companies / joint ventures:
+Sl. 
+No.
+Name of the holding / 
+subsidiary / associate 
+companies / joint ventures 
+(A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares held 
+by listed entity
+Does the entity indicated at 
+column A, participate in the 
+Business Responsibility initiatives 
+of the listed entity? (Yes/No)
+1.
+August Agents Limited
+Subsidiary
+100.00
+No
+2.
+Insilco Agents Limited
+Subsidiary
+100.00
+No
+3.
+Laneseda Agents Limited
+Subsidiary
+100.00
+No
+4.
+Birla Visabeira Private Limited
+Joint Venture
+40.00
+No
+5.
+Punjab Produce Holdings 
+Limited
+Associate
+48.00
+No
+6.
+Universal Cables Limited
+Associate
+23.85
+No
+7.
+Birla Corporation Limited
+Associate
+8.29
+No
+VI.
+CORPORATE SOCIAL RESPONSIBILITY (CSR) DETAILS
+22.
+Sl. 
+No.
+Requirement
+Response
+1.
+Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+Yes
+Financial year 2021-22
+Turnover (in ` Lakhs)
+` 1,32,394.90
+Net worth (in ` Lakhs)
+` 93,838.92
+Financial year 2022-23
+Turnover (in ` Lakhs)
+` 2,90,011.06
+Net worth (in ` Lakhs)
+` 1,08,153.24
+VTL
+48
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+VII. TRANSPARENCY AND DISCLOSURES COMPLIANCES
+23.
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from 
+whom complaint 
+is received
+Grievance Redressal Mechanism in Place 
+(Yes/No) (If yes, then provide web-link for 
+grievance redress policy)
+FY 2022-23
+Current Financial Year
+FY 2021-22
+Previous Financial Year
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes*
+0
+0
+-
+0
+0
+-
+Investors 
+(including 
+Shareholders)
+Yes
+https://www.vtlrewa.com/investors-services.html
+4
+0
+-
+1
+0
+-
+Employees and 
+workers
+Yes*
+0
+0
+-
+0
+0
+-
+Customers
+Yes*
+0
+0
+-
+0
+0
+-
+Value Chain 
+Partners
+Yes*
+0
+0
+-
+0
+0
+-
+Other (please 
+specify) 
+-
+-
+-
+-
+-
+-
+-
+* The Company has formulated a comprehensive Stakeholder Management Policy to establish a structured framework for 
+addressing concerns and grievances raised by both internal and external stakeholders. This policy has been devised to 
+proactively mitigate any potential social risks that could adversely affect the business operations.
+In line with the policy, the Company places great emphasis on maintaining the highest level of confidentiality when 
+managing grievances, thereby minimizing conflicts and nurturing robust stakeholder relationships. Stakeholders are strongly 
+encouraged to utilize the dedicated redressal channel outlined in the policy, especially when alternative mechanisms are 
+not accessible to them.
+For further details, the Stakeholder Management Policy can be accessed via the following web link: 
+https://www.vtlrewa.com/pdf/Stakeholder-Management-Policy.pdf.
+24.
+Overview of the entity’s material responsible business conduct issues:
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format:
+49
+VTL
+MP BIRLA
+GROUP
+Sl. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial implications of the risk or 
+opportunity (Indicate positive or negative 
+implications)
+1.
+Footprint of 
+operations
+Risk & 
+Opportunity
+RISK
+The Company’s only limited activities pose 
+risks to the local environment and surrounding 
+communities, including biodiversity impacts, 
+emissions into the air, water discharges, 
+natural resource consumption, and waste 
+generation. Managing and accessing these 
+environmental risks are crucial to avoid 
+potential legal and reputational issues.
+OPPORTUNITY
+There are opportunities for the Company to 
+address these risks and enhance its reputation 
+by implementing sustainable construction 
+practices, 
+conducting 
+comprehensive 
+environmental 
+impact 
+assessments, 
+engaging stakeholders, and investing in 
+innovation and research. By embracing 
+these opportunities, the Company can 
+minimize negative environmental impacts, 
+comply with regulations, and position itself 
+as a responsible and sustainable leader in 
+the industry
+The Company is actively mitigating 
+the risk associated with footprints 
+of 
+operations 
+by 
+implementing 
+robust environmental management 
+systems, 
+conducting 
+regular 
+assessments, 
+and 
+adopting 
+sustainable 
+practices. 
+Through 
+responsible resource consumption, 
+waste 
+reduction 
+initiatives, 
+and 
+stakeholder 
+engagement, 
+the 
+Company strives to minimize its 
+environmental impact, protect local 
+ecosystems, and ensure the well-
+being of surrounding communities.
+NEGATIVE
+The financial implications of the identified risk 
+include potential negative impacts such as 
+increased costs for addressing environmental 
+issues, potential fines or penalties for non-
+compliance with regulations, and potential 
+legal expenses. These financial implications 
+can lead to a decrease in profitability and cash 
+flow if adequate measures are not taken to 
+manage and mitigate environmental risks.
+POSITIVE
+Implementing 
+sustainable 
+construction 
+practices 
+and 
+effectively 
+managing 
+environmental 
+risks 
+can 
+enhance 
+the 
+Company’s 
+reputation 
+and 
+attractiveness 
+to environmentally conscious clients and 
+partners. This can lead to increased business 
+opportunities, a competitive edge in obtaining 
+new projects, and potentially higher project 
+value. Additionally, proactive engagement with 
+stakeholders and investment in research and 
+innovation can drive efficiency, cost savings, 
+and long-term financial sustainability.
+2.
+Energy 
+Management
+Opportunity
+The identification of energy management 
+as an opportunity for the Company stems 
+from the potential benefits of enhancing 
+overall 
+energy 
+efficiency, 
+diversifying 
+energy sources, and accessing alternative 
+and renewable energy. By implementing 
+energy-efficient technologies and systems, 
+the Company can reduce costs, improve 
+operational efficiency, and mitigate the risks 
+associated with energy price fluctuations. 
+Furthermore, the installation of a rooftop solar 
+power plant demonstrates the Company’s 
+commitment to renewable energy, which not 
+only reduces dependence on conventional 
+sources but also aligns with sustainability 
+goals. Embracing energy management as an 
+opportunity can enhance competitiveness, 
+contribute to a greener future, and strengthen 
+the Company’s environmental stewardship.
+-
+POSITIVE
+By enhancing overall energy efficiency, the 
+Company can reduce energy consumption 
+and associated costs, leading to potential cost 
+savings and improved profitability. Diversifying 
+energy sources and accessing alternative and 
+renewable energy can also contribute to long-
+term financial sustainability by mitigating the 
+risks of energy price fluctuations and reducing 
+reliance on conventional energy sources. 
+Additionally, investing in renewable energy 
+initiatives, such as the rooftop solar power 
+plant, may provide opportunities for incentives, 
+subsidies, and long-term cost savings through 
+reduced energy bills. Overall, effective energy 
+management 
+can 
+positively 
+impact 
+the 
+Company’s financial performance and enhance 
+its competitive position in the market.
+VTL
+50
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+Sl. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial implications of the risk or 
+opportunity (Indicate positive or negative 
+implications)
+3.
+Waste 
+Management
+Opportunity
+The Company has categorized waste 
+management 
+as 
+an 
+opportunity 
+by 
+implementing 
+responsible 
+waste 
+management 
+practices, 
+such 
+as 
+minimizing waste generation and ensuring 
+environmentally 
+responsible 
+disposal. 
+Through meticulous waste segregation, 
+reuse of materials within its operations, 
+and responsible disposal through approved 
+vendors, the Company aims to minimize its 
+environmental footprint, conserve resources, 
+and comply with regulatory requirements. 
+This commitment to sustainable waste 
+management not only reduces potential 
+negative 
+impacts 
+but 
+also 
+presents 
+opportunities for cost savings, resource 
+efficiency, and enhanced environmental 
+stewardship.
+-
+POSITIVE
+By minimizing waste generation and promoting 
+resource efficiency, the Company can reduce 
+waste disposal costs, optimize material usage, 
+and potentially generate revenue through 
+the sale of reusable materials. Furthermore, 
+complying 
+with 
+regulatory 
+requirements 
+mitigates the risk of fines and legal liabilities, 
+while 
+demonstrating 
+a 
+commitment 
+to 
+sustainable 
+practices 
+can 
+enhance 
+the 
+Company’s reputation, attract environmentally 
+conscious clients, and contribute to long-term 
+financial sustainability.
+4.
+Community 
+Development 
+Risk & 
+Opportunity
+The 
+categorization 
+of 
+Community 
+Development (Human Rights & Community 
+Relations) as both a risk and an opportunity 
+stem from the potential impacts of the 
+Company’s long-term construction activities 
+on 
+local 
+communities. 
+Risks 
+include 
+community dissatisfaction and potential legal 
+issues arising from environmental and social 
+impacts.
+On the other hand, the opportunity lies in 
+engaging with stakeholders and prioritizing 
+community interests to foster positive 
+relationships, obtain a social license to 
+operate, enhance the Company’s reputation, 
+and drive long-term business sustainability. 
+The Company is committed to 
+mitigating 
+the 
+risk 
+associated 
+with Community Development by 
+promoting community development, 
+respecting 
+human 
+rights, 
+and 
+fostering strong community relations, 
+the Company aims to build trust, 
+enhance its social license to operate, 
+and create shared value for both the 
+Company and the communities it 
+serves.
+NEGATIVE
+Negative 
+impacts 
+such 
+as 
+community 
+dissatisfaction, legal issues, and reputational 
+damage can result in increased costs, potential 
+litigation expenses, and a loss of business 
+opportunities. 
+Additionally, 
+addressing 
+environmental and social impacts may require 
+additional investments in mitigation measures, 
+potentially impacting profitability and cash flow 
+in the short term.
+POSITIVE
+By 
+prioritizing 
+community 
+engagement, 
+respecting human rights, and obtaining a social 
+license to operate, the Company can benefit 
+from enhanced reputation and community 
+support. This can lead to increased customer 
+loyalty, attracting socially conscious investors, 
+and opening doors to potential partnerships and 
+business collaborations. The positive financial 
+implications may include improved long-term 
+profitability, access to new markets, and cost 
+savings through streamlined operations and 
+reduced conflicts with local communities.
+51
+VTL
+MP BIRLA
+GROUP
+Sl. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial implications of the risk or 
+opportunity (Indicate positive or negative 
+implications)
+5.
+Workforce 
+Health and 
+Safety
+Risk
+The categorization of Workforce Health 
+and Safety as a risk is based on the high 
+fatality and injury rates in the EPC industry 
+compared to other sectors, as well as the 
+increased vulnerability of temporary workers 
+due to lack of training and experience. 
+Failing to effectively manage these risks can 
+result in human suffering, legal liabilities, and 
+financial costs. 
+The Company prioritizes workforce 
+health and safety by implementing 
+comprehensive 
+safety 
+protocols, 
+providing 
+regular 
+training 
+programs, and fostering a strong 
+safety culture. By conducting risk 
+assessments, ensuring compliance 
+with occupational health and safety 
+regulations, 
+and 
+continuously 
+monitoring and improving safety 
+practices, 
+the 
+Company 
+aims 
+to protect the well-being of its 
+employees. Through these efforts, 
+the Company seeks to minimize 
+accidents, injuries, and fatalities, 
+creating a safe and healthy work 
+environment 
+while 
+enhancing 
+employee morale, productivity, and 
+retention.
+NEGATIVE
+Workplace accidents and injuries can result in 
+increased costs, including medical expenses, 
+compensation claims, potential legal liabilities, 
+and 
+regulatory 
+fines. 
+Additionally, 
+such 
+incidents can lead to project delays, increased 
+insurance premiums, and reputational damage, 
+impacting the Company’s profitability and 
+hindering its ability to secure future projects
+6.
+Materials 
+Sourcing
+Opportunity
+The categorization of Materials Sourcing 
+as an opportunity is based on the potential 
+to reduce direct and indirect greenhouse 
+gas emissions and integrate value chain 
+partner 
+considerations 
+effectively 
+into 
+the Company’s business strategy. By 
+strategically selecting suppliers with lower 
+carbon footprints, promoting sustainable 
+practices, and incorporating responsible 
+supply chain management, the Company can 
+enhance its environmental reputation, attract 
+environmentally conscious customers, and 
+meet the growing demand for sustainable 
+products and services. This opportunity 
+aligns with environmental sustainability 
+goals, enhances operational efficiency, and 
+positively impacts the Company’s long-term 
+financial performance.
+-
+POSITIVE
+By strategically selecting suppliers with lower 
+carbon footprints and incorporating sustainable 
+practices, the Company can potentially reduce 
+costs associated with energy consumption, 
+waste management, and compliance with 
+environmental 
+regulations. 
+Furthermore, 
+meeting the growing demand for sustainable 
+products and services can open new market 
+opportunities, 
+attract 
+environmentally 
+conscious customers, and strengthen the 
+Company’s competitive position. Additionally, a 
+positive environmental reputation can enhance 
+brand value and customer loyalty, leading 
+to increased sales and long-term financial 
+sustainability.
+VTL
+52
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+Sl. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial implications of the risk or 
+opportunity (Indicate positive or negative 
+implications)
+7.
+Systematic 
+Risk 
+Management
+Risk
+The categorization of Systematic Risk 
+Management as a risk is based on the need 
+for the Company to successfully implement 
+measures to address business continuity 
+risks and enhance system resilience. Failure 
+to effectively manage these risks can lead to 
+operational disruptions, financial losses, and 
+reputational damage. Although implementing 
+such measures may incur upfront costs, 
+the Company is likely to benefit from lower 
+remediation expenses in the long term, 
+as proactive risk management enhances 
+operational 
+efficiency, 
+risk 
+mitigation 
+capabilities, and business continuity during 
+high-impact disruptions.
+The 
+Company 
+is 
+dedicated 
+to 
+mitigating 
+systematic 
+risks 
+by 
+implementing 
+robust 
+risk 
+management 
+strategies 
+and 
+processes. 
+Through 
+proactive 
+identification, 
+assessment, 
+and 
+monitoring of potential risks, the 
+Company aims to minimize the impact 
+of high-impact disruptions on its 
+operations. By establishing business 
+continuity 
+plans, 
+implementing 
+effective 
+crisis 
+management 
+protocols, and fostering a culture of 
+risk awareness and preparedness, 
+the Company seeks to enhance its 
+resilience and ensure the continuity 
+of its operations. These systematic 
+risk management efforts not only 
+protect the Company’s financial 
+performance but also contribute to its 
+long-term sustainability and ability to 
+secure new projects with confidence.
+NEGATIVE
+Failure 
+to 
+effectively 
+address 
+business 
+continuity risks and enhance system resilience 
+can result in significant financial losses due 
+to operational disruptions, increased costs 
+for remediation and recovery, and potential 
+reputational damage. Additionally, the lack of 
+preparedness for high-impact disruptions may 
+lead to lost business opportunities, customer 
+dissatisfaction, and potential legal liabilities, 
+further impacting the Company’s financial 
+performance.
+8.
+Product and 
+Process 
+Innovation
+Opportunity
+The categorization of Product and Process 
+Innovation as an opportunity is based 
+on the potential to adopt sustainable 
+construction methods that reduce the 
+Company’s 
+environmental 
+impact. 
+By 
+utilizing renewable and recyclable materials, 
+minimizing 
+embodied 
+energy, 
+reducing 
+energy consumption, minimizing waste, and 
+protecting natural habitats, the Company 
+can enhance its environmental stewardship 
+and reputation. Additionally, embracing 
+innovative 
+solutions 
+and 
+alternative 
+strategies reflects a commitment to social 
+and environmental responsibility, attracting 
+conscious 
+consumers, 
+and 
+gaining 
+a 
+competitive edge in the market. Overall, 
+product and process innovation offer the 
+Company a chance to align its operations 
+with sustainability goals, drive positive 
+change, and capitalize on the growing 
+demand for sustainable practices.
+-
+POSITIVE
+Embracing product and process innovation in the 
+adoption of sustainable construction methods 
+can have positive financial implications for the 
+Company. By using renewable and recyclable 
+materials, 
+reducing 
+energy 
+consumption, 
+minimizing waste, and implementing innovative 
+solutions, the Company can achieve cost 
+savings through improved resource efficiency, 
+reduced operational expenses, and decreased 
+waste disposal costs. Moreover, the positive 
+environmental 
+reputation 
+gained 
+through 
+these innovations can attract environmentally 
+conscious customers, enhance brand value, 
+and open new market opportunities, leading 
+to increased sales, customer loyalty, and long-
+term financial sustainability.
+53
+VTL
+MP BIRLA
+GROUP
+Sl. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial implications of the risk or 
+opportunity (Indicate positive or negative 
+implications)
+9.
+Business 
+Integrity and 
+Ethics
+Risk
+The categorization of Business Integrity and 
+Ethics as a risk is based on the Company’s 
+exposure to various risks related to bribery, 
+corruption, and anti-competitive practices.
+Either in the Manufacturing operations or 
+in the EPC, the Company is entangled into 
+managing complexities arising out due to 
+multiple local agents and subcontractors, the 
+complications of project financing and project 
+permitting, the magnitude of the contracts.
+The Company places a strong 
+emphasis on business integrity and 
+ethics by adhering to high ethical 
+standards and promoting a culture 
+of honesty and transparency. By 
+implementing 
+robust 
+governance 
+structures, 
+conducting 
+regular 
+ethics training, and enforcing strict 
+compliance measures, the Company 
+strives to prevent bribery, corruption, 
+and 
+anti-competitive 
+practices. 
+Through these efforts, the Company 
+aims to safeguard its reputation, 
+maintain the trust of stakeholders, 
+and ensure long-term sustainability. 
+By prioritizing business integrity 
+and ethics, the Company not only 
+mitigates legal and reputational 
+risks but also fosters a positive 
+working environment and fosters 
+strong relationships with customers, 
+suppliers, and partners.
+NEGATIVE
+Instances of bribery, corruption, and anti-
+competitive practices can result in financial 
+penalties, 
+legal 
+costs, 
+and 
+reputational 
+damage. These negative outcomes can lead 
+to loss of business opportunities, customer 
+distrust, reduced market share, and potential 
+legal liabilities, all of which can significantly 
+impact the Company’s financial performance 
+and long-term sustainability.
+POSITIVE
+Effectively managing and prioritizing business 
+integrity and ethics can have positive financial 
+implications for the Company. By establishing 
+an 
+ethical 
+culture, 
+implementing 
+robust 
+governance 
+structures, 
+and 
+maintaining 
+strong internal controls, the Company can 
+minimize the financial risks associated with 
+unethical practices. This includes avoiding 
+legal penalties, reputational damage, and loss 
+of business opportunities. Moreover, a strong 
+commitment to business integrity and ethics 
+can enhance the Company’s reputation, attract 
+ethical business partners and investors, and 
+foster customer loyalty, resulting in increased 
+sales, market share, and long-term financial 
+sustainability.
+VTL
+54
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+Sl. 
+No
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.
+(a)
+Whether your entity’s policy/
+policies cover each principle and 
+its core elements of the NGRBCs. 
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+(b)
+Has the policy been approved by 
+the Board? (Yes/No)
+Yes
+No
+No
+Yes
+No
+No
+Yes
+Yes
+No
+Particulars of the Policies
+Anti-Corruption or Anti-
+Bribery Policy
+Sourcing with Human Dignity 
+Policy
+Non-Discrimination, Diversity 
+and Equal Opportunity Policy
+Stakeholder Management 
+Policy
+Modern Slavery Policy, 
+Human Dignity Policy
+Sustainability Policy
+Policy on Responsible 
+Advocacy
+Corporate Social 
+Responsibility Policy
+Information Security 
+Management System Policy
+(c)
+Web Link of the Policies, if 
+available
+https://www.vtlrewa.com/pdf/Anti-Bribery-and-Anti-Corruption-Policy.pdf
+https://www.vtlrewa.com/pdf/VTL-Sourcing-with-Human-Dignity.pdf
+https://www.vtlrewa.com/pdf/Non-Discrimination-Diversity-and-Equal-Opportunity-Policy.pdf
+https://www.vtlrewa.com/pdf/Stakeholder-Management-Policy.pdf
+https://www.vtlrewa.com/pdf/VTL-Modern-Slavery-Policy.pdf
+https://www.vtlrewa.com/pdf/VTL-Human-Dignity-Policy.pdf
+https://www.vtlrewa.com/pdf/VTL-sustainability-policy.pdf
+https://www.vtlrewa.com/pdf/Policy-on-Responsible-Advocacy.pdf
+https://www.vtlrewa.com/Policies/CSR.pdf
+https://www.vtlrewa.com/ISMS-Policy.pdf
+2.
+Whether the entity has translated the 
+policy into procedures. (Yes / No)
+Yes, the Company has translated the policy into procedures. These procedures 
+outline the specific steps and actions required to implement the policies effectively.
+The Company ensures clarity and provides a practical framework for employees to 
+follow. This translation promotes consistency and reduces ambiguity, ensuring that 
+the policies are applied consistently throughout the organization.
+55
+VTL
+MP BIRLA
+GROUP
+3.
+Do the enlisted policies extend to your 
+value chain partners? (Yes/No)
+Yes, the policies of the Company extend to its value chain partners whenever 
+appropriate and feasible. The Company understands the significance of aligning 
+policies with its partners to ensure consistency and shared standards. The 
+Company also considers entering into an ‘Integrity Pact’ with key Vendors/Partners 
+as deemed necessary.
+By fostering collaboration and upholding common values, the Company promotes 
+a responsible and harmonious business ecosystem for all stakeholders involved.
+4.
+Name of the national and international 
+codes/certifications/labels/standards 
+(e.g., Forest Stewardship Council, 
+Fairtrade, Rainforest Alliance, Trustea) 
+standards (e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity and 
+mapped to each principle.
+The Company is having various management system certifications, BIS Licences 
+and Other Product Certification.
+¾
+Management Systems:
+1.
+ISO 9001 : 2015 - Quality Management Systems
+2.
+TL 9000 (R 6.3 / 5.7H) - Quality Management Systems for International 
+Telecommunications Industry
+3.
+ISO/TS 22163 : 2017 - Quality Management Systems for International 
+Rail Industry
+4.
+ISO 14001 : 2015 - Environment Management Systems
+5.
+ISO 45001 : 2018 - Occupational Health and Safety Management Systems
+6.
+ISO 27001 : 2013 - Information Security Management Systems
+7.
+ISO 22301 : 2019 - Business Continuity Management Systems
+¾
+BIS Licences:
+1.
+BIS License for LT Power and Control Cables as per IS 1554 (Pt-1) : 1988
+2.
+BIS License for LT PVC Insulated Flexible Cables & Cords as per IS 694: 
+2010
+3.
+BIS License for LT XLPE Insulated Power Cables per IS 7098 (Pt-1): 
+1988
+4.
+BIS License for XLPE Insulated Power Cables for working voltages from 
+3.3 kV Up to and incl. 33 kV as per IS 7098 (Pt-2): 2011
+¾
+Other Product Certifications:
+1.
+Solar PV Cable (As per EN 50618:2014) (E-Beam Crosslinkable Cable) 
+from TUV Rheinland
+2.
+Electric cables for photovoltaic systems with a voltage rating of 1.5 kV DC 
+(As per IEC 62930:2017) from TUV Rheinland
+5.
+Specific 
+commitments, 
+goals 
+and 
+targets set by the entity with defined 
+timelines, if any. 
+During the financial year 2022-23, the Company has set several goals to enhance 
+its sustainability efforts and overall corporate social responsibility. These goals 
+include:
+1.
+Establishing and maintaining systematic sustainability databases: The 
+Company plans to develop comprehensive databases to effectively track 
+and manage sustainability-related data. These databases will ensure smooth 
+reporting in the future and enable the Company to measure its progress 
+towards sustainability goals.
+2.
+Reducing electricity consumption from the grid: The Company aims to 
+reduce its reliance on grid electricity by a certain percentage. This reduction 
+could be achieved through various means such as implementing energy-
+efficient technologies, optimizing energy usage, and exploring renewable 
+energy sources.
+3.
+Monitoring and evaluating E, S, & G parameters: The Company intends 
+to actively monitor and evaluate the performance and risks associated with 
+Environmental (E), Social (S), and Governance (G) parameters. This helps the 
+Company identify areas for improvement and mitigate risks associated with 
+sustainability issues.
+4.
+Strengthening the training division and educating employees: The 
+Company plans to enhance its training division to educate all employees 
+and workers on issues related to Environmental, Social, and Governance 
+(E,S&G) practices. By March, 2024, all employees will receive training on the 
+actions and initiatives undertaken by the organization to address these issues 
+effectively.
+VTL
+56
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+5.
+CO2 Emission Reduction in Construction Activities: To accomplish this 
+goal, we are committed to adopting and deploying state-of-the-art technologies, 
+practices, and processes that effectively mitigate the release of CO2 during 
+our construction operations. Our focus is on utilizing the best available means 
+to significantly reduce the environmental impact associated with our activities, 
+thus contributing to the global efforts towards carbon footprint reduction and 
+environmental sustainability. By prioritizing the reduction of CO2 emissions, we 
+aim to demonstrate our dedication to responsible environmental stewardship 
+in all aspects of our operations.
+6.
+Ensuring Full Compliance with Policies and Zero Tolerance for Bribery 
+and Unethical Practices: The Company upholds the highest ethical 
+standards, maintaining zero tolerance for bribery and unethical practices. We 
+have implemented stringent policies, rigorous training, and regular monitoring 
+to ensure compliance across all levels. Our commitment to integrity and fair 
+practices fosters trust among stakeholders, as we strive to be an industry role 
+model for ethical business conduct.
+These goals collectively reflect the Company’s commitment to sustainable practices, 
+social responsibility, and the continuous improvement of its environmental, social, 
+and governance performance.
+6.
+Performance of the entity against 
+the specific commitments, goals and 
+targets along-with reasons in case the 
+same are not met
+The Company has set specific commitments, goals and targets during the period 
+2022-23, hence the performance of the Company against the specific commitments, 
+goals and targets along with reasons will be reported next year.
+ Governance, leadership and oversight
+7.
+Statement by director responsible for 
+the business responsibility report, 
+highlighting ESG related challenges, 
+targets and achievements 
+“As the Director responsible for business responsibility at VTL, I am honoured to 
+provide an update on our Company’s progress in addressing key Environmental, 
+Social, and Governance (ESG) challenges. Today, I am proud to share that our 
+cQOOiVOenV VQ UWUVainaDiliV[ haU leF VQ UiInificanV aFXanceOenVU in QWr QReraViQnU 
+positively impacting the environment, our stakeholders, and the communities we 
+serve.
+Despite the ongoing challenges presented by the global pandemic, we have 
+successfully achieved important milestones in various areas. Through our 
+unwavering dedication to ESG principles, we have notably reduced our carbon 
+footprint, ensuring a more sustainable future. Furthermore, we have actively 
+engaged and invested in local communities through comprehensive Corporate 
+Social Responsibility (CSR) framework that encompasses a range of focus areas 
+viz. animal welfare, promoting healthcare, sanitation facilities, special education 
+including employment enhancing vocational skills. By investing in these crucial 
+areas, we actively contribute to the well-being of our planet and society.
+9e firOl[ DelieXe in Vhe iORQrVance Qf cQnVinWQWU iORrQXeOenV Yhich iU Yh[ 
+we are setting new targets for the future. Our ultimate aspiration is to become a 
+leading force in sustainability, not only within our industry but across all sectors. 
+By exemplifying best practices in ESG, we aim to inspire positive change and be 
+recognized as pioneers in creating a better world.
+Our Company has a comprehensive Corporate Social Responsibility (CSR) 
+framework that encompasses a range of focus areas. These include animal welfare, 
+promoting preventive healthcare and sanitation facilities, ensuring environmental 
+sustainability, disaster management, and relief and rehabilitation activities. By 
+investing in these crucial areas, we actively contribute to the well-being of our planet 
+and society.
+To ensure the safety and well-being of our employees, we have implemented a 
+robust system that covers all aspects of our operations. This system includes health 
+anF UafeV[ VraininI ha\arF iFenVificaViQn riUM aUUeUUOenV inciFenV reRQrVinI anF 
+ongoing monitoring and improvement. Our goal is to provide a secure and healthy 
+work environment, in compliance with relevant regulations and standards, and 
+empower our employees to report any potential risks or hazards.
+57
+VTL
+MP BIRLA
+GROUP
+Moreover, we recognize the importance of stakeholder engagement and have 
+developed a comprehensive framework to facilitate this process. This framework 
+cQnUiFerU DQVh Vhe inVereUVU anF inƀWence Qf QWr UVaMehQlFerU $[ anal[UinI facVQrU 
+UWch aU FeRenFenc[ reURQnUiDiliV[ aVVenViQn anF inƀWence Ye iFenVif[ anF enIaIe 
+with stakeholders in a manner that fosters meaningful dialogue and collaboration.
+Additionally, our commitment to good corporate governance practices is unwavering. 
+We have assembled a team of exceptional Directors who serve on various 
+committees, including CSR, Audit, Nomination and Remuneration Committee, 
+Stakeholder’s Relationship Committee, and Risk Management Committee. Their 
+expertise and guidance ensure that our operations align with the highest standards 
+of accountability, transparency, and ethical conduct.
+I am immensely proud of the progress we have made in our ESG endeavours. 
+Our Company remains steadfast in its dedication to continuously improve our 
+performance and set new benchmarks for the future. By prioritizing sustainability, 
+engaging with stakeholders, and upholding good corporate governance practices, 
+we strive to make a positive and lasting impact on our environment, society, and the 
+lives of our employees.”
+- Y.S. Lodha (Managing Director & CEO)
+8.
+Details 
+of 
+the 
+highest 
+authority 
+responsible 
+for 
+implementation 
+and 
+oversight 
+of 
+the 
+Business 
+Responsibility policy(ies).
+The highest authority responsible for the implementation and oversight of the 
+Business Responsibility policies has been given to Shri Y.S. Lodha (DIN: 00052861), 
+the Managing Director and Chief Executive Officer of the Company. Further, he 
+is accountable for implementing policies and making decisions on sustainability-
+related issues.
+9.
+Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision making on 
+sustainability related issues? (Yes / 
+No). If yes, provide details.
+10.
+Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken 
+by Director / Committee of the Board/ Any 
+other Committee
+Frequency (Annually/ Half yearly/ 
+Quarterly/ Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above 
+policies and follow up 
+action
+Yes, performance review was undertaken by 
+Board of Directors.
+Annually
+Compliance with statutory 
+requirements of relevance 
+to the principles, and, 
+rectification of any non-
+compliances
+Yes, the Company comply with statutory 
+requirements relevant to the principles with 
+regard to Statutory requirements and review 
+was undertaken by the Board of Directors.
+Annually
+11.
+Independent assessment/ evaluation of the working of its policies by an external agency:
+Has the entity carried out independent 
+assessment/ evaluation of the working 
+of its policies by an external agency? 
+(Yes/No). If yes, provide name of the 
+agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The Company has not undertaken any external assessment or evaluation of the 
+effectiveness of its policies. However, an extensive internal management evaluation 
+process is in place to thoroughly assess all policies. Subsequently, the Board of 
+Directors approves these policies based on the outcomes of the evaluation.
+VTL
+58
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+12.
+If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated:
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the principles material to its business (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+The entity is not at a stage where it is in a position to formulate and implement 
+the policies on specified principles (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+The entity does not have the financial or/human and technical resources 
+available for the task (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+It is planned to be done in the next financial year (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Any other reason (please specify)
+-
+*
+*
+-
+*
+*
+-
+-
+*
+* These policies have been embedded into the systems and procedures followed by the Company for a considerable period of 
+time. It is imperative to emphasize that strict adherence to these procedures is enforced to enhance operational efficiency and 
+ensure the achievement of a sustainable business model.
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+The purpose of this section is to assist organizations in showcasing their proficiency in integrating principles and core elements into 
+critical processes and decisions. The Company has duly provided all mandatory disclosures as per the BRSR framework. Efforts are 
+underway to disclose leadership indicators for forthcoming fiscal years.
+PRINCIPLE 1: BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY, AND IN A MANNER THAT 
+IS ETHICAL, TRANSPARENT AND ACCOUNTABLE
+ESSENTIAL INDICATORS:
+1.
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics / principles covered under the training and 
+its impact
+% age of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Board of Directors
+1
+BRSR Awareness Program 
+80%
+Key Managerial Personnel 1
+BRSR Awareness Program
+100%
+Employees 
+other 
+than 
+BOD and KMPs
+Cable Business:
+18
+Awareness of ISO 45001, BCMS, ISMS, MSA. Training 
+on Health & Wellbeing, Basic First Aid and Safety. 
+100%
+EPC Business:
+4
+i.Awareness of Integrated Management. requisite 
+based on QMS (ISO 9001:2015), EMS (45001:2018) 
+HSE (ISO 14001:2018)
+50%
+52
+ii.Training on Health & Wellbeing, Basic First Aid and 
+Safety Prevention of Sexual Harassment, Code of 
+Discipline, Social Security Training, On Job Training, IT 
+Awareness training.
+100%
+Workers
+Cable Business:
+40
+Awareness of ISO 45001, BCMS, ISMS, 5S. Training 
+on Health & Wellbeing, Basic First Aid, Safety and On 
+Job Training. 
+100%
+EPC Business:
+10
+Training on Health & Wellbeing, Basic First Aid and 
+Safety, Prevention of Sexual Harassment, Code of 
+Discipline, Social security, On Job Training
+100%
+The Company recognizes the importance of training for the development and growth of its employees, and for the success of 
+the business. We believe that training is an investment that yields long-term benefits for both the individual and the organization.
+59
+VTL
+MP BIRLA
+GROUP
+In order to ensure the highest level of safety and quality in all our operations, the Company provides training programs for 
+the Board of Directors, Key Management Personnel, Employees, and Workers. Our goal is to create a culture of continuous 
+learning and improvement, where every individual is equipped with the knowledge and skills required to perform their job 
+effectively and safely.
+We understand that training is an ongoing process, and we are committed to providing our employees with the necessary support 
+and resources to achieve their full potential. We believe that investing in our employees is key to our success, and we will 
+continue to prioritize their growth and development.
+2.
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / 1MPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the 
+following format:
+MONETARY
+Particulars
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcement agencies/
+judicial institutions
+Amount
+(In INR)
+Brief of the 
+Case
+Has an appeal 
+been preferred?
+(Yes/No)
+Penalty/ Fine
+Nil
+NA
+NA
+NA
+NA
+Settlement
+Nil
+NA
+NA
+NA
+NA
+Compounding fee
+Nil
+NA
+NA
+NA
+NA
+NON-MONETARY
+Particulars
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Brief of the 
+Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Imprisonment
+Nil
+NA
+NA
+NA
+Punishment
+Nil
+NA
+NA
+NA
+The Company takes immense pride in its unwavering commitment to upholding the highest standards of ethical and legal conduct 
+across all its operations. Consequently, neither the Company nor its directors or key managerial personnel (KMPs) have incurred 
+any fines, penalties, punishments, awards, compounding fees, or settlement amounts in any form of proceedings.
+3.
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or 
+non-monetary action has been appealed:
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+This particular section is not applicable to the Company
+4.
+Anti-corruption or Anti-bribery policy:
+Does the entity have 
+an anti-corruption or 
+anti-bribery policy? If 
+yes, provide details in 
+brief and if available, 
+provide a web-link to 
+the policy.
+Yes, the Company has developed a comprehensive Anti-Corruption or Anti-Bribery Policy, showcasing 
+our unwavering dedication to maintaining the highest ethical standards throughout our business 
+operations and fostering a climate of transparency and equitable business practices. This policy 
+reflects our firm commitment to establishing and enforcing robust measures to detect, prevent, and 
+combat corrupt activities, including bribery.
+For detailed information and access to the policy, kindly visit the following web link: 
+https://www.vtlrewa.com/pdf/Anti-Bribery-and-Anti-Corruption-Policy.pdf.
+This policy serves as a guiding framework to ensure that all stakeholders, including employees, 
+partners, and suppliers, are aware of our zero-tolerance approach towards corruption and bribery, and 
+can actively contribute to the maintenance of a fair and ethical business environment.
+5.
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Directors
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil
+Workers
+Nil
+Nil
+VTL
+60
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+No disciplinary action has been taken by any law enforcement agency against any director, KMP, employees or workers of 
+our Company for charges of bribery or corruption. Our Company maintains a zero-tolerance policy towards corruption and is 
+dedicated to upholding the highest standards of ethical conduct and transparency in all business dealings.
+.
+Details of complaints with regard to conflict of interest:
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues 
+of Conflict of Interest of the Directors
+Nil
+-
+Nil
+-
+Number of complaints received in relation to issues 
+of Conflict of Interest of the 1MPs
+Nil
+-
+Nil
+-
+7.
+Corrective Actions:
+Provide details of any corrective action taken or underway 
+on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, 
+on cases of corruption and conflicts of interest.
+This particular section does not pertain to the Company, 
+as it has not incurred any fines, penalties, or regulatory, law 
+enforcement, or judicial actions with respect to instances 
+involving corruption and conflicts of interest.
+PRINCIPLE 2: BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS SUSTAINABLE AND SAFE
+ESSENTIAL INDICATORS:
+1.
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively:
+Particulars
+Current Financial 
+Year
+Previous Financial 
+Year
+Details of improvements in 
+environmental and social impacts
+R&D
+-
+-
+NA
+Capex
+-
+13.11%
+Energy Conservation
+2.
+Sustainable sourcing:
+Does 
+the 
+entity 
+have procedures in 
+place for sustainable 
+sourcing? (Yes/No)
+Cable Business:
+Yes, the Company has successfully incorporated a Supplier Framework with the explicit objective of 
+fostering sustainable sourcing practices. This comprehensive framework encompasses the meticulous 
+evaluation and selection of suppliers, primarily based on three fundamental criteria, namely:
+•
+Quality: This criterion pertains to the meticulous assessment of the suppliers’ products or 
+services, encompassing factors such as performance, durability, reliability, and compliance with 
+industry standards. By prioritizing quality, the Company aims to ensure that the sourced materials 
+or services meet the highest standards and align with its own commitment to excellence.
+•
+Pricing: The Company diligently considers the financial aspect when assessing potential 
+suppliers. This entails evaluating the overall cost-effectiveness and competitiveness of the 
+proposed pricing structures. By meticulously scrutinizing pricing, the Company strives to strike 
+a balance between obtaining optimal value for its investments while maintaining profitability and 
+cost-efficiency.
+•
+Delivery: Timeliness and reliability of delivery are key factors in the selection process. The 
+Company places great emphasis on suppliers’ ability to deliver products or services within agreed-
+upon timeframes, maintaining consistency and minimizing disruptions to its own operations. By 
+prioritizing efficient and reliable delivery, the Company seeks to uphold its commitment to meet 
+customer demands and operational timelines.
+61
+VTL
+MP BIRLA
+GROUP
+Further, suppliers are evaluated and ranked according to their performance in relation to the 
+aforementioned parameters. Additionally, the Company has established Environmental Requirements 
+for its suppliers, which are communicated to them.
+During the supplier registration process, the Company conducts an evaluation to assess their 
+suitability. A Supplier Registration Questionnaire is sent to suppliers to gather information regarding 
+Quality, Environment, Occupational Health & Safety, and compliance with Statutory & Regulatory 
+Requirements.
+EPC Business:
+Within the framework of the EPC Business Segment, materials are procured using two distinct 
+channels: direct sourcing and sourcing through contractors. Throughout the sourcing process, careful 
+attention is given to the following factors:
+•
+Standards & Specifications: The procurement process adheres to established benchmarks, 
+such as BIS certifications, which serve as quality and compliance standards for the materials 
+being sourced.
+•
+Contractor Selection: A comprehensive criterion is employed to select & empanel contractors. 
+This criterion encompasses a range of parameters which includes evaluation of various techno-
+commercial as well as financial parameters enabling the ranking of contractors and facilitating 
+informed decisions regarding sourcing preferences.
+•
+Ongoing Contractor Monitoring: Regular and periodic evaluations are conducted to monitor 
+the performance of contractors on the basis of performance, quality consciousness, target 
+achievement & other parameters. This monitoring process ensures that contractors consistently 
+meet the required standards and maintain the expected level of quality and efficiency.
+By incorporating these considerations into the sourcing procedures under the EPC Business Segment, 
+the organization ensures that materials are procured in accordance with predefined standards and 
+specifications while maintaining a robust system for contractor evaluation and monitoring.
+If 
+yes, 
+what 
+percentage 
+of 
+inputs were sourced 
+sustainably?
+ 100%
+3.
+Processes in place to reclaim products for reuse, recycle and safe disposal of products at the end of life:
+Describe 
+the 
+processes in place 
+to safely reclaim your 
+products for reusing, 
+recycling 
+and 
+disposing at the end 
+of life, for (a) Plastics 
+(including packaging) 
+(b) 
+E-waste 
+(c) 
+Hazardous waste and 
+(d) other waste.
+Cable Business:
+The Company ensures that the cables supplied to customers possess a minimum lifespan of 25-30 
+years. To ensure transparency and proper handling of end-of-life treatment, customers are provided 
+with a comprehensive Material Safety Data Sheet (MSDS) that contains detailed information on the 
+appropriate procedures for disposal or treatment.
+Given that the cables are predominantly utilized by industrial entities, the responsibility for the effective 
+management of end-of-life treatment lies with the customers themselves. This entails adhering to the 
+guidelines specified in the MSDS and complying with the relevant laws and regulations in force during 
+that period.
+Regarding waste generated within the Company, stringent measures are implemented to ensure 
+compliance with environmental laws and consent conditions. Specific waste categories are handled 
+as follows:
+•
+Plastic Waste: The Company responsibly sells plastic waste to authorized recyclers, thereby 
+promoting sustainable waste management practices.
+•
+E-Waste: In line with regulatory requirements, the Company sells electronic waste exclusively to 
+authorized recyclers, ensuring proper recycling and disposal.
+•
+Acid Batteries: The Company follows a buy-back policy with Original Equipment Manufacturers 
+(OEMs) to ensure the safe and environmentally sound disposal of acid batteries.
+•
+Hazardous Waste: All hazardous waste generated is meticulously disposed of through authorized 
+recyclers, adhering to strict guidelines and safety protocols.
+•
+Other Non-Hazardous Waste: The Company adopts a responsible approach by selling non-
+hazardous waste to trusted vendors who can appropriately handle and utilize the materials.
+VTL
+62
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+EPC Business:
+Within the EPC Business Segment, two primary waste streams are generated: Construction & 
+Demolition waste and Metallic Scrap waste. These waste materials are effectively managed through 
+well-defined procedures. Construction & Demolition waste is reused wherever possible during ongoing 
+operations, minimizing waste generation and promoting resource efficiency.
+Metallic Scrap waste, on the other hand, is sold exclusively to authorized vendors who possess the 
+necessary expertise and infrastructure for proper recycling, disposal and utilization of these materials. 
+By adopting such practices, the Company aims to reduce environmental impacts and contribute to 
+sustainable waste management practices within the EPC Business Segment.
+4.
+Extended Producer Responsibility (EPR) plan:
+Whether Extended Producer Responsibility (EPR) is applicable to the 
+entity’s activities (Yes / No). If yes, whether the waste collection plan is in 
+line with the Extended Producer Responsibility (EPR) plan submitted to 
+Pollution Control Boards? If not, provide steps taken to address the same.
+Extended Producer Responsibility (EPR) is 
+applicable and the Company has obtained 
+EPR registration under Importer category.
+PRINCIPLE 3: BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EMPLOYEES, INCLUDING 
+THOSE IN THEIR VALUE CHAINS
+ESSENTIAL INDICATORS:
+1.
+(A)
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total (A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number (B) % (B/A) Number (C) % (C/A) Number (D) % (D/A) Number (E) % (E/A) Number (F) % (F/A)
+Permanent employees
+Male
+336
+336
+100%
+336
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+5
+5
+100%
+5
+100%
+5
+100%
+0
+0%
+0
+0%
+Total
+341
+341
+100%
+341
+100%
+5
+1%
+0
+0%
+0
+0%
+Other than Permanent employees
+Male
+1433
+0
+0%
+1433
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+23
+0
+0%
+23
+100%
+23
+100%
+0
+0%
+0
+0%
+Total
+1456
+0
+0%
+1456
+100%
+23
+2%
+0
+0%
+0
+0%
+63
+VTL
+MP BIRLA
+GROUP
+(B)
+Details of measures for the well-being of workers:
+Category
+% of employees covered by
+Total (A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number (B) % (B/A) Number (C) % (C/A) Number (D) % (D/A) Number (E) % (E/A) Number (F) % (F/A)
+Permanent workers
+Male
+104
+104
+100%
+104
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+104
+104
+100%
+104
+100%
+0
+0%
+0
+0%
+0
+0%
+Other than Permanent workers
+Male
+147
+147
+100%
+147
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+147
+147
+100%
+147
+100%
+0
+0%
+0
+0%
+0
+0%
+2.
+Details of retirement benefits, for Current Financial Year and Previous Financial Year:
+Benefits
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Yes
+100%
+100%
+Yes
+Gratuity
+100%
+100%
+Yes
+100%
+100%
+Yes
+ESI
+79%
+NA
+Yes
+73%
+NA
+Yes
+Others – Mediclaim
+The Company has Workmen Compensation Policy in place of ESI for all the Workers
+3.
+Accessibility of workplaces:
+Are the premises / offices of the 
+entity accessible to differently 
+abled employees and workers, as 
+per the requirements of the Rights 
+of Persons with Disabilities Act, 
+2016? If not, whether any steps are 
+being taken by the entity in this 
+regard.
+Yes, the premises and offices of the Company are designed to be accessible to 
+employees and workers with disabilities.
+Given that there is presently only one differently abled employee, meticulous attention 
+has been given to providing suitable facilities both within the factory premises and 
+in the Company’s township where the employee resides. These accommodations 
+are implemented to ensure that the employee can navigate and perform their duties 
+comfortably and efficiently, in line with their unique requirements and abilities.
+4.
+Equal Opportunity Policy:
+Does the entity have an equal 
+opportunity policy as per the 
+Rights of Persons with Disabilities 
+Act, 2016? If so, provide a web-link 
+to the policy.
+Yes, the Company has adopted an Equal Opportunity Policy that ensures individuals 
+of all age, religion, race, region, ethnicity, gender, ability, and sexual orientation work 
+collectively in an environment that flourishes on originality.
+For more information regarding the Equal Opportunity Policy, please visit the following 
+web link:
+https://www.vtlrewa.com/pdf/Non-Discrimination-Diversity-and-Equal-Opportunity-Policy.pdf.
+This policy document outlines the principles and guidelines that the Company upholds to 
+promote equal opportunities and non-discrimination within the organization.
+VTL
+64
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+5.
+Return to work and Retention rates of permanent employees and workers that took parental leave:
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+NIL
+NIL
+NIL
+NIL
+Female
+NIL
+NIL
+NIL
+NIL
+Total
+NIL
+NIL
+NIL
+NIL
+6.
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? 
+If yes, give details of the mechanism in brief:
+Yes/No (If yes, then give details of the mechanism in brief)
+Permanent Workers
+Certainly, the Company has established mechanisms to receive and address grievances in a formal 
+and structured manner, ensuring that employees and workers have an avenue to voice their concerns.
+The following channels are available for the receipt of grievances:
+•
+Suggestion Boxes: These designated boxes allow employees and workers to submit their 
+grievances or suggestions anonymously, ensuring confidentiality and encouraging open 
+communication.
+•
+Emails: The Company provides an official email address where employees and workers can 
+send their grievances directly to the relevant department or designated personnel responsible for 
+grievance handling.
+•
+Display Boards: Display boards are strategically placed within the premises, prominently featuring 
+the mobile numbers of designated personnel who are responsible for addressing grievances. This 
+ensures easy access and communication for employees and workers.
+•
+Site Safety Person’s Interactions: The Site Safety Person actively engages in daily interactions 
+with employees and workers, providing them with an opportunity to voice their concerns and 
+grievances related to safety or any other relevant issues.
+•
+Head of HR Interactions: The Head of HR regularly interacts with employees and workers, 
+creating an open and approachable environment where grievances can be discussed and 
+resolved.
+Once a grievance is received, the Company ensures a responsive approach to address the concern. 
+Grievances are thoroughly examined, and necessary corrective actions are taken promptly.
+This includes conducting investigations, analysing the root causes, and implementing appropriate 
+measures to resolve the issues raised. The Company is committed to fair and effective grievance 
+resolution, ensuring that the concerns of employees and workers are acknowledged, heard, and 
+appropriately addressed.
+Other than 
+Permanent Workers
+Permanent 
+Employees
+Other than 
+Permanent 
+Employees
+7.
+Membership of employees and worker in association(s) or Unions recognised by the entity:
+Category
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Total 
+employees 
+/ workers in 
+respective 
+category (A)
+No. of employees / 
+workers in respective 
+category, who are 
+part of association(s) 
+or Union (B)
+% (B / A)
+Total 
+employees 
+/ workers in 
+respective 
+category (C)
+No. of employees / 
+workers in respective 
+category, who are 
+part of association(s) 
+or Union (D)
+% (D / C)
+Total Permanent 
+Employees
+341
+156
+45.7%
+348
+147
+42.2%
+Male
+336
+154
+45.8%
+341
+144
+42.2%
+Female
+5
+2
+40.0%
+7
+3
+42.9%
+Total Permanent 
+Workers
+104
+104
+100.0%
+111
+111
+100.0%
+Male
+104
+104
+100.0%
+111
+111
+100.0%
+Female
+0
+0
+0%
+0
+0
+0%
+The aforementioned details are exclusive to the cable business, as the employees and workers within the EPC business segment 
+are not affiliated with any association or recognized union.
+65
+VTL
+MP BIRLA
+GROUP
+8.
+Details of training given to employees and workers:
+Category
+FY 2022-23 (Current Financial Year)
+FY 2021-22 (Previous Financial Year)
+Total (A)
+On Health and 
+safety
+On Skill 
+upgradation
+Total (D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B) % (B / A)
+No. (C) % (C / A)
+No. (E) % (E / D)
+No. (F) % (F / D)
+Employees
+Male 
+1769
+1769
+100%
+1769
+100%
+1256
+1244
+99%
+1244
+99%
+Female
+28
+28
+100%
+28
+100%
+22
+22
+100%
+22
+100%
+Total
+1797
+1797
+100%
+1797
+100%
+1278
+1266
+99%
+1266
+99%
+Workers
+Male
+251
+251
+100%
+231
+92.03%
+237
+224
+94.51%
+217
+91.56%
+Female
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+Total
+251
+251
+100%
+231
+92.03%
+237
+224
+94.51%
+217
+91.56%
+9.
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2022-23 (Current Financial Year)
+FY 2021-22 (Previous Financial Year)
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees
+Male
+1769
+1725
+97.51%
+1256
+1244
+99.04%
+Female
+28
+26
+92.86%
+22
+20
+90.91%
+Total
+1797
+1751
+97.44%
+1278
+1264
+98.90%
+Workers
+Male
+251
+231
+92.03%
+237
+231
+97.47%
+Female
+0
+0
+0.00%
+0
+0
+0.00%
+Total
+251
+231
+92.03%
+237
+231
+97.47%
+10.
+Health and safety management system:
+Sl. 
+No.
+Particulars
+Response
+(a)
+Whether 
+an 
+occupational 
+health 
+and 
+safety 
+management 
+system 
+has 
+been implemented by the 
+entity? (Yes/ No). If yes, the 
+coverage such system?
+Yes, the Company has implemented an occupational health and safety management 
+system.
+The coverage of the system includes all aspects of the Company’s operations, including 
+employee and worker health and safety training, hazard identification and risk assessment, 
+incident reporting and investigation, and ongoing monitoring and improvement. The 
+system is designed to ensure a safe and healthy work environment for all employees and 
+to comply with relevant health and safety regulations and standards.
+(b)
+What are the processes 
+used to identify work-related 
+hazards and assess risks on 
+a routine and non-routine 
+basis by the entity?
+The Company recognize that identifying work-related hazards and assessing risks is 
+critical for ensuring the safety and well-being of our employees. To achieve this, we 
+employ several processes and procedures, including the following:
+(a)
+Work safety analysis, standard operating procedure, and operational control plan 
+are observed to monitor routine activities.
+(b)
+Non-routine activities are supervised using a seven-type work permit system, which 
+covers various types of hazardous activities, including hot work operations, cold 
+work activities, electrical installation and maintenance, working at heights, confined 
+space entry, and heavy lifting operations.
+VTL
+66
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+Sl. 
+No.
+Particulars
+Response
+By following these processes and procedures, we strive to ensure the health and safety 
+of our personnel, equipment, and materials involved in our operations.
+The Company is committed to minimizing the risks associated with non-routine activities, 
+preventing accidents and injuries, and creating a safe and healthy work environment for 
+all the employees and workers.
+(c)
+Whether you have processes 
+for workers to report the 
+work-related hazards and 
+to remove themselves from 
+such risks. (Y/N)
+Yes, the Company has implemented robust mechanisms to enable workers to report 
+work-related hazards and safeguard themselves from such risks. These mechanisms 
+encompass well-defined reporting channels and procedures for employees to promptly 
+communicate hazards, near-misses, and incidents. Moreover, the Company provides 
+comprehensive training and resources to empower workers in identifying and reporting 
+potential hazards effectively.
+Furthermore, the Company has implemented explicit policies and procedures to safeguard 
+workers’ rights to refuse unsafe work, without encountering any form of retaliation or 
+reprisal. These measures are in place to uphold the principle of ensuring a secure and 
+healthy work environment for all employees.
+(d)
+Do the employees/ worker 
+of the entity have access to 
+non-occupational 
+medical 
+and healthcare services? 
+(Yes/ No)
+The Company offers its employees access to medical and healthcare services that are 
+not directly related to occupational illnesses or injuries. These services may comprise 
+health insurance coverage or the ability to obtain medical services through third-party 
+providers.
+The primary objective of these services is to promote the general health and welfare of 
+the employees, both on and off the job.
+11.
+Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Lost Time Injury Frequency Rate (LTIFR) (per 
+one million-person hours worked)
+Employees
+0
+0
+Workers
+86.84
+286.94
+Total recordable work-related injuries
+Employees
+0
+1
+Workers
+25
+12
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-
+health (excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12.
+Measures to ensure a safe and healthy workplace:
+Describe 
+the 
+measures taken by 
+the entity to ensure a 
+safe and healthy work 
+place.
+The Company has implemented robust operational controls to proactively identify and mitigate 
+potential work-related hazards and associated risks. With the utmost commitment to ensuring a safe 
+and healthy workplace, the following comprehensive measures have been adopted:
+•
+Daily health and safety briefing exercises: Regular sessions are conducted to disseminate 
+essential information and updates on health and safety practices to all employees. These briefings 
+serve as a vital platform for promoting awareness and reinforcing the importance of maintaining 
+a secure working environment.
+•
+On-the-job safety training through Site Safety Trainings: Employees undergo rigorous 
+training sessions specifically tailored to their respective job roles and work environments. These 
+trainings equip them with the necessary knowledge and skills to identify potential hazards, apply 
+preventive measures, and respond effectively to emergencies.
+•
+Toolbox Trainings: Supplementing the on-the-job safety training, Toolbox Trainings further 
+enhance employee awareness and proficiency in safety practices. These interactive sessions 
+provide practical guidance on using tools, equipment, and machinery safely, thereby minimizing 
+the risk of accidents and injuries.
+67
+VTL
+MP BIRLA
+GROUP
+•
+Display of proper safety instructions on board and signages: Visual aids, including prominently 
+displayed safety instructions, signage, and posters, are strategically placed throughout the 
+workplace. These visual cues serve as constant reminders of the importance of adhering to safety 
+protocols and guidelines.
+•
+Feedback and suggestions: The Company regularly records feedback and suggestions from 
+employees to continually improve working conditions. This feedback is analysed, and appropriate 
+measures are taken to address any issues raised.
+•
+Engaging in reactive monitoring activities: The Company engages in reactive monitoring 
+activities to identify potential hazards that may have been overlooked during routine inspections. 
+This approach allows the Company to address potential hazards proactively, reducing the 
+likelihood of accidents or injuries
+The primary objective of these measures is to bolster the safety and well-being of all employees and 
+diminish the likelihood of work-related accidents or illnesses.
+13.
+Number of Complaints on the following made by employees and workers:
+Particulars
+FY (2022-23) Current Financial Year
+FY (2021-22) Previous Financial Year
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working Conditions
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Health & Safety
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+The Company takes pride in maintaining a healthy and safe workplace, and is pleased to report that no complaints have been 
+received from employees or workers concerning working conditions or health and safety. This underscores the Company’s 
+commitment to providing a positive work environment for all.
+14.
+Assessments for the year:
+Particulars
+ of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15.
+Corrective Actions:
+Provide details of any corrective 
+action taken or underway to address 
+safety-related incidents (if any) and 
+on significant risks / concerns arising 
+from assessments of health & safety 
+practices and working conditions.
+This specific section is deemed inapplicable as the assessments conducted on 
+Health & Safety practices and working conditions did not reveal any notable risks 
+or concerns.
+Through proactive measures and continuous improvement initiatives, the Company 
+strives to maintain a safe working environment, adhering to industry best practices 
+and relevant regulatory requirements. Our commitment to the health and safety of 
+our workforce remains unwavering, and we will promptly address any emerging 
+issues to further enhance our practices and working conditions.
+VTL
+68
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+PRINCIPLE 4: BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO ALL ITS STAKEHOLDERS
+ESSENTIAL INDICATORS:
+1.
+Identification of stakeholders group:
+Describe the processes 
+for 
+identifying 
+key 
+stakeholder groups of 
+the entity
+The Company has developed a stakeholder engagement framework to improve the process of 
+identifying stakeholders. This framework is intended to increase the effectiveness of engagement 
+with stakeholders, which is essential for maintaining the Company’s reputation, building trust, and 
+creating value for all stakeholders.
+The stakeholder engagement framework consists of two dimensions, which are crucial in identifying 
+stakeholders. The first dimension relates to the stakeholder’s interests, while the second dimension 
+is concerned with the stakeholder’s level of influence. By considering both of these dimensions, 
+the organization can identify stakeholders and determine the appropriate modes and levels of 
+engagement required for each stakeholder group.
+In addition to these dimensions, the Company also takes into account several criteria when 
+identifying stakeholder groups. These include:
+(a)
+The stakeholders’ level of dependency on the organization,
+(b)
+The level of responsibility they have in relation to the organization,
+(c)
+The amount of attention they receive from the organization, and
+(d)
+Their level of influence over the organization.
+By using this stakeholder engagement framework and considering these criteria, the Company 
+can better identify the stakeholders who are most crucial to its success and develop engagement 
+strategies that align with their needs and interests. This approach is critical for maintaining positive 
+relationships with stakeholders and achieving the organization’s strategic objectives.
+2.
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group:
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/
+No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly 
+/ others – please 
+specify)
+Purpose and scope of 
+engagement including key topics 
+and concerns raised during such 
+engagement
+Shareholders
+No
+•
+Annual General Meeting,
+•
+Shareholder meets,
+•
+Email,
+•
+Stock Exchange (SE) 
+intimations,
+•
+Annual report, quarterly 
+results, media releases and
+•
+Company’s website
+Quarterly, Half 
+yearly and 
+annually
+Share price appreciation, dividends, 
+profitability and financial stability, 
+robust ESG practices, risks, growth 
+prospects.
+Employees & 
+Workers 
+No 
+•
+Emails
+•
+Team Engagement
+•
+Engagement through Training 
+Programs
+•
+Notice Board
+Periodically
+Hearing of all employee concerns 
+Conducting meetings People voice 
+meeting Suggestion Schemes 
+Conducting enquiries
+69
+VTL
+MP BIRLA
+GROUP
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/
+No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly 
+/ others – please 
+specify)
+Purpose and scope of 
+engagement including key topics 
+and concerns raised during such 
+engagement
+Customers 
+No
+•
+Emails
+•
+Regular Meets
+•
+Personal Visits / Interviews
+•
+Satisfaction Surveys
+Regular
+Queries/suggestions/assurance/ 
+complaints etc.
+Understating the customers’ 
+requirements
+Suppliers 
+No
+•
+Emails
+•
+Supplier Meetings
+Regular
+Queries/suggestions/ assurance/
+complaints etc.
+Raising our concerns with suppliers
+Government 
+and Regulators
+No 
+•
+Reporting / Filings
+•
+Submissions/ Applications
+•
+Industry forum meets
+On periodical 
+basis as provided 
+under relevant 
+legislations
+In relation to Compliances with 
+applicable laws, Industry concerns, 
+changes in regulatory frameworks, 
+skill and capacity building, 
+employment.
+Community
+No 
+•
+Periodical Meets
+•
+Personal Visits
+Periodically
+Under CSR projects covering 
+Community development, livelihood 
+support, disaster relief, Animal 
+welfare, Sanitation etc
+Board of 
+Directors
+No 
+•
+Emails
+•
+Regular meetings
+Quarterly and on 
+any event/need 
+basis
+Company’s business operations, 
+planning, strategies etc.
+Contractors 
+No 
+•
+Emails
+•
+Need based meetings
+•
+Periodical Reports
+Periodically
+Contractual Agreements, 
+Performance evaluation, Fair 
+and timely payment, Quality and 
+performance.
+Industry 
+& Trade 
+Associations 
+No 
+•
+Emails
+•
+Regular meetings
+•
+Periodical Reports
+Periodically
+Networking opportunities and 
+industry specific updates
+Trade Unions
+No 
+•
+Emails
+•
+Need based meetings
+Requirement 
+basis
+Collective Bargaining, Worker 
+welfare, Change in Employment 
+practices, Labour relations
+Subsidiaries 
+No
+•
+Emails
+•
+Need based meetings
+•
+Periodical Reports
+Quarterly and 
+need basis
+Discussions on major Investment/ 
+expansion plans’, Sharing of 
+performance Data, facilitate decision 
+making on major topics.
+Professional & 
+Consultants 
+No
+•
+Emails
+•
+Need based meetings
+•
+Periodical Reports
+Quarterly and 
+need basis
+Compliance to legal requirements, 
+advice on business, legal, tax and 
+environment etc. related issues.
+Bankers 
+No
+•
+Periodical Meetings
+•
+Periodical Reports
+•
+Emails
+Requirement 
+basis
+Understand the banking compliance 
+Maintaining rapport with our bankers 
+Banking/Credit facilities.
+Waste 
+Collection 
+Agents 
+No 
+•
+Emails
+•
+Need based meetings
+Requirement 
+basis
+Compliance to legal requirements, to 
+carry out sound management of the 
+waste generated by the Company.
+VTL
+70
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+PRINCIPLE 5: BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+ESSENTIAL INDICATORS:
+1.
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format:
+Category
+FY 2022-23 (Current Financial Year)
+FY 2021-22 (Previous Financial Year)
+Total (A)
+No. of employees 
+/ workers covered 
+(B)
+% (B / A)
+Total (C)
+No. of employees 
+/ workers covered 
+(D)
+% (D / C)
+Employees
+Permanent
+341
+341
+100%
+348
+348
+100%
+Other than permanent
+1456
+1456
+100%
+930
+930
+100%
+Total Employees
+1797
+1797
+100%
+1278
+1278
+100%
+Workers
+Permanent
+104
+104
+100%
+111
+111
+100%
+Other than permanent
+147
+147
+100%
+126
+126
+100%
+Total Workers
+251
+251
+100%
+237
+237
+100%
+2.
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2022-23 (Current Financial Year)
+FY 2021-22 (Previous Financial Year)
+Total (A) Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+Total (D) Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+No. (B) % (B / A)
+No. (C) % (C / A)
+No. (E) % (E / D)
+No. (F) % (F / D)
+Employees
+Permanent
+341
+0
+0%
+341
+100%
+348
+0
+0%
+348
+100%
+Male
+336
+0
+0%
+336
+100%
+341
+0
+0%
+341
+100%
+Female
+5
+0
+0%
+5
+100%
+7
+0
+0%
+7
+100%
+Other than 
+Permanent
+1456
+0
+0%
+1456
+100%
+930
+0
+0%
+930
+100%
+Male
+1433
+0
+0%
+1433
+100%
+915
+0
+0%
+915
+100%
+Female
+23
+0
+0%
+23
+100%
+15
+0
+0%
+15
+100%
+Workers
+Permanent
+104
+0
+0%
+104
+100%
+111
+0
+0%
+111
+100%
+Male
+104
+0
+0%
+104
+100%
+111
+0
+0%
+111
+100%
+Female
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+Other than 
+Permanent
+147
+0
+0%
+147
+100%
+126
+2
+2%
+124
+98%
+Male
+147
+0
+0%
+147
+100%
+126
+2
+2%
+124
+98%
+Female
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+The Company provides fair and competitive compensation to all employees and workers, as part of our responsibility and ethical 
+practices. We believe that a fair wage is crucial for the well-being and dignity of our workforce, and we aim to pay above the 
+minimum wage in all our operations. We acknowledge that offering fair compensation is not only the right thing to do but also 
+critical to attracting and retaining a skilled and motivated workforce.
+71
+VTL
+MP BIRLA
+GROUP
+We regularly evaluate our compensation policies and practices to ensure that they align with our commitment to providing fair 
+and competitive wages to all employees and workers. We are proud to have a valued and respected workforce, and we remain 
+committed to upholding our promise of fair and equitable compensation.
+3.
+Details of remuneration/salary/wages, in the following format:
+Category
+Male
+Female
+Number Median remuneration/ 
+salary/ wages of 
+respective category
+Number Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BOD)
+8
+1112500
+2
+747500
+Key Managerial Personnel (KMP)
+3
+7094178
+0
+0
+Employees other than BOD and KMP
+333
+684804
+5
+587592
+Workers
+251
+357045
+0
+0
+4.
+Focal point for addressing human rights:
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No)
+Yes, the Cable Business Segment of the Company has designated the Head of Human Resources as the focal point responsible 
+for addressing any human rights impacts or issues that may arise as a result of the business’s operations.
+Additionally, within the EPC Business Segment, the Project Monitoring Committee serves as the designated focal point for 
+addressing human rights issues.
+5.
+Internal mechanisms in place to redress grievances related to human rights issues:
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+The Company has implemented an internal grievance redressal mechanism that incorporates a well-defined Code of Discipline. 
+Within this framework, individuals have the opportunity to lodge complaints directly with the Project Monitoring Committee or the 
+Head of Human Resources, should any violations occur.
+Upon receiving a complaint, the designated focal point, in collaboration with the Human Resources department, initiates 
+a thorough investigation into the matter. Prompt and appropriate remedial actions are then taken to address the situation 
+effectively.
+Furthermore, the Company maintains open and transparent channels of communication with its stakeholders, including 
+local communities, civil society organizations, and relevant government agencies. This proactive approach ensures that any 
+grievances related to human rights are promptly and efficiently addressed, fostering a harmonious and responsible relationship 
+with all stakeholders involved.
+6.
+Number of Complaints on the following made by employees and workers:
+Category
+FY 2022-23 (Current Financial Year)
+FY 2021-22 (Previous Financial Year)
+Filed 
+during the 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+Sexual Harassment
+NIL
+NIL
+None
+NIL
+NIL
+None
+Discrimination at workplace
+NIL
+NIL
+None
+NIL
+NIL
+None
+Child Labour
+NIL
+NIL
+None
+NIL
+NIL
+None
+Forced Labour/Involuntary 
+Labour
+NIL
+NIL
+None
+NIL
+NIL
+None
+Wages
+NIL
+NIL
+None
+NIL
+NIL
+None
+Other human rights related 
+issues
+NIL
+NIL
+None
+NIL
+NIL
+None
+VTL
+72
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+7.
+Prevention of discrimination and harassment cases:
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases
+The Company is firmly committed to maintaining a workplace environment that is free from all forms of harassment, including 
+sexual harassment. To ensure compliance with this commitment, the Company maintains a strict Code of Conduct for Sites and 
+Project Operations, which requires the reporting of all harassment concerns and ensures prompt resolution of any complaints 
+received.
+Moreover, the Company has established internal committees across various locations to investigate allegations of sexual 
+harassment and recommend appropriate action, as necessary. Additionally, regular awareness and training sessions are 
+conducted to ensure that employees are fully aware of the nuances of sexual harassment and the relevant redressal mechanisms.
+8.
+Human rights requirements forming part of your business agreements and contracts:
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+Yes, the Company diligently ensures the inclusion of specific human rights requirements within its business contracts. These 
+requirements encompass the following:
+1.
+Sellers, vendors, and suppliers are obligated to provide an Anti-Corruption Undertaking.
+2.
+Suppliers are required to abstain from employing child labour in any of their manufacturing or general activities conducted 
+within the factory premises.
+3.
+Suppliers are expected to diligently comprehend and faithfully adhere to safety and environmental protocols.
+In addition to the aforementioned clauses, other contextual and necessity-based requirements are also incorporated into the 
+business contracts.
+9.
+Assessments for the year:
+Category
+ of your plants and offices that were assessed
+(by entity or statutory authorities or third parties)
+Child labour
+100 %
+Forced/involuntary labour
+100 %
+Sexual harassment
+100 %
+Discrimination at workplace
+100 %
+Wages
+100 %
+10.
+Corrective Actions to address significant risks / concerns arising from the assessments:
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above.
+The Company’s self-assessment and customer diligence did not reveal any noteworthy risks or concerns. The organization 
+is committed to upholding human rights and has implemented a comprehensive framework to address significant risks and 
+concerns associated with forced labour, child labour, sexual harassment, discrimination, and wages. This framework includes 
+periodic evaluations to detect any potential violations and regular employee training to foster awareness and prevent such 
+occurrences.
+In the event of any violations being discovered, the Company takes swift and effective corrective action, which may involve 
+suspending work, ending contracts, or pursuing legal action as appropriate. Furthermore, the Company continually assesses 
+and improves its policies and procedures to ensure that human rights are upheld throughout all its operations.
+73
+VTL
+MP BIRLA
+GROUP
+PRINCIPLE 6: BUSINESSES SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE THE ENVIRONMENT
+ESSENTIAL INDICATORS:
+1.
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Year)
+Total electricity consumption (A)
+46310 GJ
+28156 GJ
+Total fuel consumption (B)
+1838 GJ
+298 GJ
+Energy consumption through other sources (C)*
+10387 GJ
+10190 GJ
+Total energy consumption (ABC)
+58535 GJ
+38644 GJ
+Energy intensity per rupee of turnover (Total energy consumption/ 
+turnover in rupees)
+7.7 GJ
+7 GJ
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency% (Y/N) If yes, 
+name of the external agency.
+During the FY 2022-2023, The Company’s total energy consumption saw an increase of 19891 GJ (51.5%) and an increase of 
+38% in total sales.
+2.
+Designated Consumers (DCs) under the Performance, Achieve and Trade (PAT) Scheme of the Government of India:
+This particular section is not applicable, as the Company has not been identified as designated consumer under Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India.
+3.
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-2023
+FY 2021-2022
+Water withdrawal by source (in kilolitres)
+(i)
+Surface water
+Nil
+Nil
+(ii)
+Groundwater
+131192
+137912
+(iii)
+Third party water
+Nil
+Nil
+(iv)
+Seawater / desalinated water
+Nil
+Nil
+(v)
+Others
+Nil
+Nil
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+131192
+137912
+Total volume of water consumption (in kilolitres)
+131192
+137912
+Water intensity per rupee of turnover (Water consumed / turnover)
+20.7 KL/Million Rs.
+25.0 KL/Million Rs.
+Water intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency. The Company has not conducted any independent assessment, evaluation or 
+assurance by an external agency.
+4.
+Mechanism for Zero Liquid Discharge:
+Has the entity implemented 
+a mechanism for Zero 
+Liquid 
+Discharge? 
+If 
+yes, 
+provide 
+details 
+of 
+its 
+coverage 
+and 
+implementation.
+The Company has implemented a @ero Liquid Discharge (@LD) system at its manufacturing plant 
+located in Rewa, which has been operational since 1999. This mechanism ensures that no liquid 
+waste is discharged from the facility.
+Water is primarily used for cooling purposes in the plant’s operations and is circulated within a 
+closed loop, without any release of industrial effluent into the environment.
+Additionally, the domestic wastewater generated within the facility is treated in a Sewage Treatment 
+Plant (STP), and the resulting treated water is then employed for horticultural purposes within 
+the Company premises. This ensures a sustainable and environmentally conscious approach to 
+water management within the organization.
+VTL
+74
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+5.
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+The Company’s cable business segment do not utilize any stacks that release air emissions.
+Further, we would like to address an important matter regarding the emissions generated by our Engineering, Procurement, and 
+Construction (EPC) business segment, during the reporting period, our EPC business faced significant challenges in measuring 
+and documenting emissions due to the inherent complexities associated with its activities. Consequently, we regretfully 
+acknowledge our inability to include any specific figures or data for this period within the report.
+We are fully aware of the significance of environmental stewardship and the importance of transparent reporting. As such, we are 
+actively taking steps to address this issue and enhance our emissions measurement system.
+Currently, we are in the process of establishing a robust and reliable system that will enable us to accurately measure and 
+document emissions for future financial years. We are committed to implementing comprehensive methodologies and leveraging 
+advanced tools and technologies to ensure accurate reporting in the future.
+Parameter
+Please specify unit
+FY 2022-2023
+FY 2021-2022
+NOx
+-
+Nil
+Nil
+SOx
+-
+Nil
+Nil
+Particulate matter (PM)
+-
+Nil
+Nil
+Persistent organic pollutants (POP)
+-
+Nil
+Nil
+Volatile organic compounds (VOC)
+-
+Nil
+Nil
+Hazardous air pollutants (HAP)
+-
+Nil
+Nil
+Others – please specify
+-
+Nil
+Nil
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency% (Y/N) If yes, 
+name of the external agency.
+The Company has not conducted any independent assessment, evaluation or assurance by an external agency. Nevertheless, 
+the Company monitors ambient air quality on a quarterly basis through a National Accreditation Board for Testing and Calibration 
+Laboratories (NABL) accredited agency.
+6.
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY 2022-2023
+FY 2021-2022
+Total Scope 1 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+128
+21
+Total Scope 2 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+13387
+9054
+Total Scope 1 and Scope 2 emissions per rupee of turnover Metric tonnes of 
+CO2 equivalent
+1.77 MT/Million Rs
+1.64 MT/Million Rs
+Total Scope 1 and Scope 2 emission intensity (optional) – 
+the relevant metric may be selected by the entity
+Metric tonnes of 
+CO2 equivalent
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency% (Y/N) If yes, 
+name of the external agency.
+The Company has not conducted any independent assessment, evaluation or assurance by an external agency. Nevertheless, 
+the Company does perform quarterly monitoring of ambient air quality through an agency accredited by the National Accreditation 
+Board for Testing and Calibration Laboratories (NABL).
+7.
+Project related to reducing Green House Gas emission:
+Does the entity have any project 
+related 
+to 
+reducing 
+Green 
+House Gas emission? If Yes, 
+then provide details.
+The Company has implemented a rooftop solar power plant with a capacity of 2 MW, which 
+has significantly aided in reducing its carbon footprint.
+Through the utilization of solar power, the Company has succeeded in curbing its CO2 
+emissions by 2406 MT in the fiscal year 2021-22 and by 2452 MT in the fiscal year 2022-23.
+75
+VTL
+MP BIRLA
+GROUP
+8.
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-2023
+FY 2021-2022
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+445 MT
+310 MT
+E-waste (B)
+Nil
+Nil
+Bio-medical waste (C)
+Nil
+Nil
+Construction and demolition waste (D)
+Nil
+Nil
+Battery waste (E)
+Nil
+5.41 MT
+Radioactive waste (F)
+Nil
+Nil
+Other Hazardous waste. Please specify, if any. (G)
+4.8 MT
+4.91 MT
+Other Non-hazardous waste generated (H). Please specify, if any. 
+(Break-up by composition i.e. by materials relevant to the sector)
+608 MT
+615 MT
+Total (A B  C  D  E  F  G  H)
+1057.8 MT
+935.32 MT
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)
+(i) Recycled
+The plastic and other hazardous waste produced by 
+the Company is vendored to a registered recycler, 
+while other non-hazardous waste is similarly sold for 
+recycling, wherever feasible.
+(ii) Re-used
+(iii) Other recovery operations
+Total
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+The 
+Company’s 
+waste 
+management 
+system 
+encompasses appropriate waste disposal methods. 
+Nonetheless, the Company is not executing any disposal 
+methods as specified.
+(i) Incineration
+(ii) Landfilling
+(iii) Other disposal operations
+Total
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency% (Y/N) If yes, 
+name of the external agency.
+The Company has not conducted any independent assessment, evaluation or assurance by an external agency.
+9.
+Waste management practices adopted in the establishment:
+Briefly describe the 
+waste 
+management 
+practices adopted in 
+your establishments. 
+Describe the strategy 
+adopted 
+by 
+your 
+company to reduce 
+usage of hazardous 
+and toxic chemicals 
+in your products and 
+processes 
+and 
+the 
+practices adopted to 
+manage such wastes.
+The Company has implemented a suite of waste management practices to curtail waste generation 
+and ensure that all waste is handled in an ecologically responsible manner.
+Cable Business:
+The storage, collection, and disposal of hazardous waste adheres to consent conditions. The 
+hazardous waste generated is disposed of by vending it to Authorised Recyclers approved by the 
+Central Pollution Control Board (CPCB). Similarly, solid waste is also disposed of in compliance with 
+Consent Conditions.
+Although the manufacturing process of cables employs non-hazardous materials, certain waste 
+material is categorized as hazardous due to the recycling process involved.
+EPC Business:
+This Business Segment places significant emphasis on the proper segregation of waste materials.
+Following meticulous sorting, two primary approaches are taken: firstly, where possible, segregated 
+waste materials are reused internally to minimize waste production and encourage efficient resource 
+usage.
+Secondly, any waste that cannot be reused in-house is vended to approved vendors who have 
+the competence to responsibly handle and manage such materials. These practices exemplify 
+the Company’s commitment to sustainable waste management and play a part in reducing the 
+environmental impact of our operations.
+VTL
+76
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+10.
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details in the following format:
+Sl. 
+No
+Location of 
+operations/offices
+Type of 
+operations
+Whether the conditions of environmental approval / clearance are being complied 
+with? (Y/N) If no, the reasons thereof and corrective action taken, if any.
+The Company does not have any offices or operational sites in the vicinity of any ecologically sensitive area.
+11.
+Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year:
+The aforementioned section is not relevant to the Company. Nevertheless, the Company carries out an Aspect Impact Analysis 
+of all its manufacturing processes as required by ISO 14001.
+12.
+Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and 
+rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format
+Yes, the Company is fully compliant with all the applicable environmental laws/regulations/guidelines in India including but not 
+limited to Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection 
+act and rules.
+PRINCIPLE 7: BUSINESSES, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, SHOULD DO SO IN 
+A MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+ESSENTIAL INDICATORS:
+1.
+(A)
+Affiliations with trade and industry chambers/ associations:
+Number of affiliations with trade and industry chambers/ associations.
+The Company is affiliated with five (5) trade and industry chambers/associations.
+(B)
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) 
+the entity is a member of/ affiliated to:
+Sl. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1.
+Indian Electrical and Electronics Manufacturers Association (IEEMA) 
+National
+2.
+Engineering Export Promotion Council of India (EEPC) 
+National
+3.
+Telecom Equipment and Services Export Promotion Council (TEPC)
+National
+4.
+Federation of Indian Export Organisations (FIEO)
+National
+5.
+Bombay Chamber of Commerce & Industry (BCCI)
+State
+2.
+Provide details of corrective action taken or underway on any issues related to anticompetitive conduct by the entity, 
+based on adverse orders from regulatory authorities:
+Name of authority
+Brief of the case
+Corrective action taken
+-
+-
+-
+The Company has not engaged in any anti-competitive conduct.
+77
+VTL
+MP BIRLA
+GROUP
+PRINCIPLE 8: BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVELOPMENT
+The Company places significant emphasis on its Social Policy, which encompasses a range of objectives including animal welfare, 
+the establishment of environmentally sustainable social infrastructure, improved health facilities, the eradication of hunger, and the 
+promotion of education pertaining to culture.
+Furthermore, the Company actively engages in contributing to the social and economic advancement of the communities in which it 
+operates. This commitment is reflected in the comprehensive Corporate Social Responsibility (CSR) policy, which encompasses the 
+formulation, implementation, monitoring, evaluation, documentation, and reporting of CSR activities undertaken by the Company.
+Through its social investments, the Company addresses various needs of the communities residing in the proximity of its facilities and 
+plants. It achieves this by undertaking sustainable initiatives in critical areas such as health, education, animal welfare, infrastructure 
+and community development, as well as responding to natural disasters and pandemics. By undertaking these initiatives, the Company 
+strives to make a positive and lasting impact on the well-being and development of the local communities it serves.
+ESSENTIAL INDICATORS:
+1.
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current 
+financial year:
+Name and brief details 
+of project
+SIA 
+Notification 
+No.
+Date of 
+notification
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results communicated 
+in public domain (Yes / 
+No)
+Relevant 
+Web link
+This section is not applicable to the Company as there were no projects that required SIA to be undertaken under Law.
+2.
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your 
+entity, in the following format:
+Sl. 
+No.
+Name of Project for 
+which R&R is ongoing
+State
+District
+No. of Project Affected 
+Families (PAFs)
+% of PAFs 
+covered by R&R
+Amounts paid to PAFs 
+in the FY (In INR)
+This section is not applicable to the Company as there were no projects that required Rehabilitation and Resettlement (R&R).
+3.
+Community redressal mechanism:
+Describe the mechanisms to receive and redress grievances of the community.
+The implementation of an effective Grievance Redressal Mechanism (GRM) is vital in fostering a strong bond with the community 
+and acquiring the essential social license to carry out community-focused endeavours.
+To ensure that community members have a platform to voice their concerns, the Company has established a readily accessible 
+and efficient grievance redressal mechanism. Within this framework, local employees regularly engage with the community, 
+actively seeking out grievances and addressing them in a timely manner.
+Upon receiving feedback or complaints, the Company undertakes a comprehensive investigation of the matter at hand, leaving 
+no stone unturned. This diligent process enables the Company to gather all relevant information and ascertain the appropriate 
+actions required to rectify the situation. Swift corrective measures are then implemented to effectively resolve the grievances 
+and maintain a harmonious relationship with the community.
+By upholding such a responsive and transparent approach, the Company endeavours to foster trust, open communication, and 
+mutual respect with the community, thereby ensuring that their concerns are acknowledged and addressed in a satisfactory 
+manner.
+VTL
+78
+MP BIRLA
+GROUP
+VTL
+MP BIRLA
+GROUP
+4.
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Category
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Directly sourced from MSMEs/ small producers
+35.35%
+33.12%
+Sourced directly from within the district and neighbouring districts
+47.53%
+44.23%
+PRINCIPLE 9: BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS IN A RESPONSIBLE 
+MANNER
+The Company places great importance on its commitment to responsibly engage with and provide value to its consumers, considering 
+it a fundamental aspect of its business strategy. This approach not only builds trust and loyalty among customers but also contributes 
+to a sustainable future for all stakeholders involved.
+As a responsible entity, the Company acknowledges the significance of engaging with and offering value to its consumers in a 
+responsible manner. It strives to ensure that its products and services not only meet the needs of customers but also minimize any 
+potential adverse effects on society and the environment.
+In pursuit of this objective, the Company actively seeks to understand the preferences and requirements of its customers. It maintains 
+diverse channels of communication to interact with them, aiming to deliver the best possible experience. Moreover, the Company is 
+committed to providing accurate and transparent information about its products and services. This includes comprehensive details 
+about their safety, quality, and environmental impact.
+By adopting this customer-centric approach, the Company aims to foster long-lasting relationships with its customers while upholding 
+its commitment to social and environmental responsibility. Through these efforts, the Company strives to create a positive impact and 
+contribute to a sustainable future for all stakeholders involved.
+ESSENTIAL INDICATORS:
+1.
+Consumer Complaints and feedback:
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+The Company has implemented various channels through which customers can easily communicate their concerns and engage 
+with the Company. To facilitate this, the contact information for all branches and marketing offices of the Company can be found 
+on its website at https://www.vtlrewa.com/contact.html.
+In addition to these avenues, the Company has taken the initiative to assign a dedicated accounts manager to key customers. 
+This personalized support ensures that the specific requirements, grievances, and expectations of these customers are 
+effectively addressed.
+When a customer complaint is received, it is promptly conveyed to the sales department in Rewa. The details of the complaint 
+are duly recorded in a customer complaint register, enabling a systematic approach to resolution. The Company takes immediate 
+corrective and preventive actions to address the complaint and ensures that the customer is kept informed about the steps taken 
+to resolve the issue.
+To gauge the satisfaction levels of its customers, the Company conducts an annual consumer satisfaction survey. This survey 
+allows customers to provide feedback on their experiences, enabling the Company to identify areas for improvement and 
+effectively address any issues raised by its customers.
+By establishing these comprehensive mechanisms, the Company strives to maintain open lines of communication with its 
+customers, promptly address their concerns, and continuously enhance its services based on customer feedback.
+2.
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:
+Category
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+100%
+Safe and responsible usage
+100%
+Recycling and/or safe disposal
+Not applicable
+79
+VTL
+MP BIRLA
+GROUP
+3.
+Number of consumer complaints in respect of the following:
+Category
+FY 2022-23
+(Current Financial Year)
+Remarks
+FY 2021-22  
+(Previous Financial Year)
+Remarks
+Received 
+during the year
+Pending 
+resolution at 
+end of year
+Received 
+during the year
+Pending 
+resolution at 
+end of year
+Data Privacy
+During the financial years 2021-22 and 2022-23, the Company 
+has not received any complaints within the specified categories.
+Advertising
+Cyber Security
+Delivery of 
+essential Services
+Restrictive Trade 
+Practices
+Unfair Trade 
+Practices
+Other
+4.
+Details of instances of product recalls on account of safety issues:
+Particulars
+Number
+Reasons for recall
+Voluntary recalls
+Nil
+Nil
+Forced recalls
+Nil
+Nil
+5.
+Cyber security policy:
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+The Company has implemented a robust Information Security Management Policy that clearly outlines its dedication to upholding 
+the confidentiality, integrity, and availability of information.
+Furthermore, the Company has attained ISO 27001 certification for its Information Security Management System, which 
+serves as a testament to its unwavering commitment to maintaining the highest levels of information security. This certification 
+underscores the Company’s adherence to globally recognized standards in safeguarding sensitive information.
+For detailed information regarding the Information Security Management Policy, please refer to the Policy document, which can 
+be accessed at the following weblink: https://www.vtlrewa.com/ISMS-Policy.pdf.
+This document provides comprehensive insights into the Company’s practices and procedures for ensuring the security of 
+information assets, reinforcing its commitment to protecting valuable information from unauthorized access, disclosure, 
+alteration, or destruction.
+6.
+Corrective Actions:
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services
+This particular section is not applicable. 

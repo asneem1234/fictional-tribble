@@ -1,0 +1,2953 @@
+ 
+ 
+ 
+August 24, 2023 
+  
+To 
+Listing Department 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai- 400001 
+Through: BSE Listing Centre 
+Security Code: 533339 
+To 
+Listing Department 
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex, 
+Bandra (E), Mumbai – 400 051 
+Through: NEAPS- Symbol: ZENTEC 
+ 
+Dear Sir, 
+ 
+Sub: Business Responsibility and Sustainability Report for the FY 2022-23 
+***** 
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed copy of 
+Business Responsibility and Sustainability Report (BRSR) of the Company for the financial 
+year 2022-23, which forms part of the Annual report for the financial year 2022-23.  
+ 
+The 
+BRSR 
+is 
+also 
+made 
+available 
+on 
+the 
+website 
+of 
+the 
+Company 
+at: 
+https://www.zentechnologies.com/investors 
+ 
+ 
+Kindly take the same on record and acknowledge the receipt. 
+ 
+Thanking you. 
+Yours faithfully, 
+For Zen Technologies Limited  
+ 
+ 
+M. Raghavendra Prasad 
+Company Secretary and Compliance officer 
+ 
+Encl: as above  
+ 
+Movva Raghavendra 
+Prasad
+Digitally signed by Movva 
+Raghavendra Prasad 
+Date: 2023.08.24 17:38:20 
++05'30'
+Business Responsibility and Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I. Details of the listed entity
+1.
+Corporate Identity Number (CIN) of the Listed Entity
+L72200TG1993PLC015939
+2.
+Name of the Listed Entity
+Zen Technologies Limited
+3.
+Year of incorporation
+29/06/1993
+4.
+Registered office address
+B-42, Industrial Estate, Sanathnagar, Hyderabad - 500018, 
+Telangana, India.
+5.
+Corporate address
+B-42, Industrial Estate, Sanathnagar, Hyderabad - 500018, 
+Telangana, India.
+6.
+E-mail
+cosec@zentechnologies.com
+7.
+Telephone
++91 - 40 - 2381 4894/3294
+8.
+Website
+www.zentechnologies.com 
+9.
+Financial year for which reporting is being done
+01 April 2022 to 31 March 2023
+10.
+Name of the Stock Exchange(s) where shares are listed
+National Stock Exchange of India Limited (NSE) & BSE Limited
+11.
+Paid-up Capital (as on 31 March 2023)
+₹ 7,95,10,000
+12.
+Name and contact details (telephone, email address) of the 
+person who may be contacted in case of any queries on the 
+BRSR report
+Name: Mr. Ashok Atluri 
+Ph. No: 040-2381 4894/3294; 04023813281 
+Mail Id: cosec@zentechnologies.com/ 
+info@zentechnologies.com  
+Address: B-42, Industrial Estate, 
+Sanath Nagar, Hyderabad-500018, Telangana, India.
+13.
+Reporting boundary - Are the disclosures under this report 
+made on a standalone basis (i.e., only for the entity) or on 
+a consolidated basis (i.e., for the entity and all the entities 
+which form a part of its consolidated financial statements, 
+taken together).
+This report is made on Standalone Basis
+II. Products/services
+14. Details of business activities (accounting for 90% of the turnover):
+S. No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+a.
+Manufacturing and Sale of security equipment 
+and  Simulators
+Computer, electronic, Communication and 
+scientific measuring & control equipment
+78%
+b.
+Providing Training Solutions and other services
+Other support services to organizations
+22%
+15. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+a.
+Manufacturing and Sale of Simulators
+26700
+78%
+b.
+Providing Training Solutions and other services
+85499
+22%
+III. Operations
+16. Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+ Total
+National
+1
+3
+4
+International
+-
+1
+1
+01
+ANNUAL REPORT 2022-23
+17. Markets served by the entity:
+a. Number of locations
+Locations
+Number
+National (No. of States)
+All States
+International (No. of Countries)
+9 Countries
+b. What is the contribution of exports as a percentage of the total turnover of the entity?
+The contribution of exports as a percentage of total turnover is 35.37%
+c. A brief on types of customers
+Zen Technologies Limited (“Zen Technologies”/“Zen”) has been operating since 1993, specializing in the provision of training systems 
+and counter-drone solutions. We supply these cutting-edge resources to prestigious organizations like the Ministry of Defence (MoD), 
+Govt. of India, friendly foreign Armed Forces, State police units, security forces, and paramilitary forces. With a strong focus on delivering 
+high-quality services, we cater to the diverse needs of our esteemed clientele, contributing significantly to enhancing their training and 
+security capabilities both domestically and internationally.
+IV. Employees
+18. Details as at the end of Financial Year:
+a. Employees and workers (including differently abled):
+S. No.
+Particulars
+Total 
+(A)
+Male
+ Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1.
+Permanent (D)
+258
+222
+86.05%
+36
+13.95%
+2.
+Other than Permanent (E)
+-
+-
+-
+-
+-
+3.
+Total employees (D + E)
+258
+222
+86.05%
+36
+13.95%
+WORKERS
+4.
+Permanent (F)
+-
+-
+-
+-
+-
+5.
+Other than Permanent (G)
+199
+137
+69%
+62
+31%
+6.
+Total workers (F + G)
+199
+137
+69%
+62
+31%
+b. Differently abled Employees and workers:
+S. No.
+Particulars
+Total 
+(A)
+Male
+ Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+-
+-
+-
+-
+-
+2.
+Other than Permanent (E)
+-
+-
+-
+-
+-
+3.
+Total differently abled employees (D + E)
+-
+-
+-
+-
+-
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+-
+-
+-
+-
+-
+5.
+Other than permanent (G)
+-
+-
+-
+-
+-
+6.
+Total differently abled workers (F + G)
+-
+-
+-
+-
+-
+19. Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B/A)
+Board of Directors
+8
+2
+25%
+Key Management Personnel
+2
+Nil
+NA
+02
+ZEN TECHNOLOGIES LIMITED
+ANNUAL REPORT 2022-23
+20. Turnover rate for permanent employees and workers
+Particulars
+FY2022-23  
+(Turnover rate in current FY)
+FY2021-22 
+(Turnover rate in previous FY)
+FY2020-21  
+(Turnover rate in the year prior 
+to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+14.5%
+2.7%
+17.2%
+19.6%
+6.6%
+26.3%
+13.1%
+2.9%
+16.0%
+Permanent Workers
+-
+-
+-
+-
+-
+-
+-
+-
+-
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+21. (a) Names of holding/subsidiary/associate companies/joint ventures
+S. No.
+Name of the holding/subsidiary/
+associate companies/joint ventures (A)
+Indicate whether 
+holding/Subsidiary/
+Associate/Joint Venture
+% of shares held 
+by listed entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed entity? 
+(Yes/No)
+1.
+Unistring Tech Solutions Private Limited
+Subsidiary
+51%
+No
+2.
+Zen Medical Technologies Private Limited
+Subsidiary
+100%
+3.
+Zen Defence Technologies L.L.C.
+Subsidiary
+99%
+4.
+Zen Technologies USA Inc
+Subsidiary
+100%
+VI. CSR Details
+22. (i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: 
+Yes, CSR is applicable to Zen Technologies Limited
+         (ii)	 Turnover (in ₹): ₹ 1,61,43,57,973
+        (iii)	 Net worth (in ₹): ₹ 3,19,19,23,102
+VII. Transparency and Disclosures Compliances
+23. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No)
+FY 2022-23  
+Current Financial Year
+FY2021-22 
+Previous Financial Year
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Communities
+https://www.
+zentechnologies.
+com/investor-
+contacts
+-
+-
+-
+-
+-
+-
+Investors (other than 
+shareholders)
+-
+-
+-
+-
+-
+-
+Shareholders
+-
+-
+-
+-
+-
+-
+Employees and 
+workers
+https://www.
+zentechnologies.
+com/investor_
+relations/
+Whistle-Blower-
+Policy.pdf
+3
+3
+-
+-
+-
+-
+Customers
+-
+-
+-
+-
+-
+-
+Value Chain Partners
+1
+1
+-
+1
+1
+-
+Other (please specify)
+https://www.
+zentechnologies.
+com/Zen-
+Technologies-
+SHP.pdf
+-
+-
+-
+-
+-
+-
+03
+ANNUAL REPORT 2022-23
+24. Overview of the entity’s material responsible business conduct issues
+S.  
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk/opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1.
+Technological 
+Advancements 
+and Innovation
+Opportunity
+Identifying and capitalizing on 
+technological advancements 
+and fostering innovation can 
+give Zen Technologies Limited a 
+competitive edge, leading to the 
+development of cutting-edge 
+products and services, increased 
+market share, and improved 
+customer satisfaction.
+NA
+Potential revenue growth, 
+cost savings through 
+improved efficiency, and 
+increased profitability.
+2.
+Government 
+Regulations 
+and Policies
+Risk and 
+Opportunity
+Adherence to government 
+regulations is critical to avoid 
+penalties and maintain a 
+favourable business environment. 
+On the other hand, favourable 
+policies can present opportunities 
+for Zen Technologies Limited to 
+secure government contracts and 
+incentives.
+Stay informed about 
+changing regulations, 
+maintain compliance, 
+and actively engage with 
+policymakers for favourable 
+policies.
+Non-compliance may lead 
+to fines and reputational 
+damage, while compliance 
+can lead to increased 
+business opportunities and 
+potential cost savings.
+3.
+Geopolitical 
+and Economic 
+Stability
+Risk and 
+Opportunity
+Zen Technologies Limited’s 
+operations may be affected 
+by geopolitical tensions and 
+economic fluctuations in 
+different regions where it 
+operates or sells its products.
+Diversify markets, assess 
+geopolitical risks, and 
+implement risk management 
+strategies.
+Instability can lead to 
+market volatility and 
+impact revenue, while 
+stability can provide growth 
+opportunities in stable 
+markets.
+4.
+Customer 
+Satisfaction 
+and Retention
+Opportunity
+Satisfied customers are more 
+likely to be loyal and recommend 
+Zen Technologies Limited’s 
+products and services to others, 
+leading to increased sales and a 
+positive brand image.
+NA
+Increased customer 
+retention can lead to 
+higher recurring revenue 
+and reduced marketing 
+costs for acquiring new 
+customers.
+5.
+Cybersecurity 
+and Data 
+Privacy
+Risk
+As a technology Company dealing 
+with sensitive data, the risk of 
+cybersecurity breaches and data 
+privacy violations can lead to legal 
+liabilities, reputational damage, 
+and financial losses.
+Implement robust 
+cybersecurity measures, 
+conduct regular security 
+audits, and comply with data 
+protection regulations.
+Data breaches can result 
+in financial losses, legal 
+penalties, and damage to 
+the Company’s reputation.
+6.
+Talent 
+Acquisition and 
+Retention
+Opportunity 
+and Risk
+Attracting and retaining skilled 
+and talented employees is 
+crucial for the Company’s growth 
+and success. On the other hand, 
+high employee turnover can lead 
+to increased recruitment costs 
+and loss of valuable expertise
+Offer competitive 
+compensation packages, 
+career development 
+opportunities, and foster a 
+positive work culture.
+Effective talent 
+management can result in 
+increased productivity and 
+reduced recruitment costs, 
+while high turnover can lead 
+to higher expenses and 
+lower productivity.
+7.
+Supply Chain 
+Disruption
+Risk
+Identifying the risk of supply 
+chain disruption is crucial as it 
+can lead to production delays, 
+increased costs, and customer 
+dissatisfaction.
+The Company maintains 
+a diversified supplier base, 
+conducts regular risk 
+assessments, and establishes 
+contingency plans to mitigate 
+supply chain disruptions. 
+Collaborative relationships 
+with suppliers and real-time 
+monitoring also contribute to 
+timely responses to potential 
+disruptions.
+Proper risk management 
+helps minimize financial 
+losses associated with 
+supply chain disruptions, 
+such as production 
+downtime and increased 
+operational expenses.
+04
+ZEN TECHNOLOGIES LIMITED
+ANNUAL REPORT 2022-23
+24. Overview of the entity’s material responsible business conduct issues (Contd.)
+S.  
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk/opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+8.
+Capacity or 
+Infrastructure 
+Constraint
+Opportunity 
+and Risk
+Recognizing capacity or 
+infrastructure constraints is 
+essential to ensure optimal 
+resource allocation and prevent 
+operational bottlenecks that 
+may impede growth.
+The Company continuously 
+invests in capacity 
+expansion and infrastructure 
+development based on 
+demand forecasts. This 
+proactive approach enables 
+seamless operations and 
+supports business growth. 
+Additionally, partnerships 
+and collaborations can help 
+address temporary capacity 
+constraints.
+Adequate capacity and 
+infrastructure planning 
+enhance operational 
+efficiency, reduce 
+disruptions, and support 
+revenue growth by meeting 
+customer demands 
+effectively.
+9.
+Dependence 
+on 
+Outsourcing 
+to External 
+Vendors for 
+Manufacturing 
+Sub-systems
+Opportunity 
+and Risk
+Recognizing the dependence 
+on external vendors for 
+manufacturing sub-systems 
+helps assess potential risks 
+to quality control, delivery 
+timelines, and cost fluctuations, 
+as well as opportunities for 
+collaboration and innovation.
+The Company employs 
+stringent vendor selection 
+criteria, quality control 
+processes, and regular 
+performance assessments to 
+ensure consistent and reliable 
+supply. Exploring strategic 
+partnerships and joint 
+development initiatives can 
+also enhance collaboration 
+with vendors.
+Effective vendor 
+management contributes 
+to stable costs, high-quality 
+products, and innovation, 
+positively impacting the 
+Company’s financial 
+performance.
+10.
+Financial 
+Risk - Timely 
+Availability of 
+Fund Based 
+and Non-fund 
+Based Finance
+Risk
+Recognizing financial risks 
+associated with the timely 
+availability of fund-based and 
+non-fund-based finance is 
+crucial to ensure uninterrupted 
+business operations and growth 
+plans.
+The Company maintains 
+strong banking relationships, 
+diversifies funding sources, 
+and regularly assesses 
+financial requirements. 
+Developing contingency 
+plans and optimizing working 
+capital management help 
+mitigate the risk of financial 
+constraints.
+Effective financial risk 
+management safeguards 
+against potential cash 
+flow disruptions, penalties, 
+and missed growth 
+opportunities, ensuring 
+the Company’s financial 
+stability, and supporting 
+strategic initiatives.
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.      a.	
+Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b.	
+Has the policy been approved by the Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+c.	
+Web Link of the Policies, if available
+P1:
+1.	
+https://www.zentechnologies.com/assets/uploads/files/
+business-responsibility-policy.pdf 
+2.	
+https://www.zentechnologies.com/investor_relations/Zen-Risk-
+Management-Policy.pdf 
+3.	
+https://www.zentechnologies.com/investor_relations/CODE-OF-
+CONDUCT-FOR-THE-BOARD-MEMBERS.pdf 
+4.	
+https://www.zentechnologies.com/investor_relations/code-of-
+conduct-for-senior-management.pdf
+5.	
+https://www.zentechnologies.com/investor_relations/code-of-
+practices-and-procedures-for-fairdisclosure-of-upsi.pdf
+05
+ANNUAL REPORT 2022-23
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES (Contd.)
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+6.	
+https://www.zentechnologies.com/investor_relations/code-of-
+conduct-to-regulate-monitor-and-report-trading-by-insiders-
+(effective-from-01.04.2019).pdf 
+7.	
+https://www.zentechnologies.com/investor_relations/Code-of-
+Conduct-to-Regulate-Monitor-and-Report-Trading-by-Insiders.pdf 
+8.	
+https://www.zentechnologies.com/investor_relations/
+Familiarization-Program-for-Independent-Directors.pdf
+P2:
+1.	
+https://www.zentechnologies.com/assets/uploads/files/
+business-responsibility-policy.pdf 
+P3:
+1.	
+https://www.zentechnologies.com/assets/uploads/files/
+business-responsibility-policy.pdf 
+2.	
+Code of conduct for Employees
+P4:
+1.	
+https://www.zentechnologies.com/assets/uploads/files/
+business-responsibility-policy.pdf 
+2.	
+https://www.zentechnologies.com/investor_relations/CSR-
+Policy.pdf 
+P5:
+1.	
+https://www.zentechnologies.com/assets/uploads/files/
+business-responsibility-policy.pdf
+P6:
+1.	
+https://www.zentechnologies.com/assets/uploads/files/
+business-responsibility-policy.pdf 
+P7:
+1.	
+https://www.zentechnologies.com/assets/uploads/files/
+business-responsibility-policy.pdf 
+P8:
+1.	
+https://www.zentechnologies.com/assets/uploads/files/
+business-responsibility-policy.pdf 
+2.	
+https://www.zentechnologies.com/investor_relations/CSR-
+Policy.pdf 
+P9:
+1.	
+https://www.zentechnologies.com/assets/uploads/files/
+business-responsibility-policy.pdf
+2.	
+Whether the entity has translated the policy into 
+procedures. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.	
+Do the enlisted policies extend to your value chain 
+partners? (Yes/No)
+Yes
+No
+No
+No
+No
+No
+No
+No
+No
+4.	
+Name of the national and international codes/
+certifications/labels/standards (e.g., Forest Stewardship 
+Council, Fairtrade, Rainforest Alliance, Trustea) standards 
+(e.g., SA 8000, OHSAS, ISO, BIS) adopted by your entity 
+and mapped to each principle. 
+Zen Technologies aligns its policies with globally recognized standards 
+and practices, such as ISO 9001:2015 for quality management systems 
+and ISO/IEC 27001:2013 for information security management 
+systems. By adhering to these international standards, the Company 
+demonstrates its commitment to ensuring high-quality products 
+and services and safeguarding sensitive information with robust 
+security measures.
+06
+ZEN TECHNOLOGIES LIMITED
+ANNUAL REPORT 2022-23
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES (Contd.)
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+5.	
+Specific commitments, goals, and targets set by the 
+entity with defined timelines, if any.
+Zen is currently taking steps to measure energy, water, emissions and 
+other relevant sustainability data. Also, Zen is in the process of reviewing 
+our sustainability parameters and would suitably identify areas that 
+require improvement, including but not limited to training, awareness 
+within the organization around sustainability.
+6.	
+Performance of the entity against the specific 
+commitments, goals, and targets along-with reasons in 
+case the same are not met.
+As this is our first year for Business Responsibility and Sustainability 
+Reporting, we have not set formal goals to report against. Our 
+performance against goals would be reported based on some of the 
+goals that we set and actions that we take during the year.
+Governance, leadership, and oversight
+7.	
+Statement by director responsible for the business 
+responsibility report, highlighting ESG related challenges, 
+targets, and achievements (listed entity has flexibility 
+regarding the placement of this disclosure)
+Please refer page no: 16
+8.	
+Details of the highest authority responsible for 
+implementation 
+and 
+oversight 
+of 
+the 
+Business 
+Responsibility policy (ies).
+Mr. Ashok Atluri
+Chairman & Managing Director
++91 40 23813281
+E-mail: cosec@zentechnologies.com/
+ info@zentechnologies.com 
+9.	
+Does the entity have a specified Committee of the Board/
+Director responsible for decision making on sustainability 
+related issues? (Yes/No). If yes, provide details.
+No
+10. Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken 
+by Director/Committee of the Board/Any 
+other Committee
+Frequency (Annually/Half yearly/Quarterly/
+Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance 
+against 
+above 
+policies and follow up action
+The Policies adhere to relevant laws and National 
+Standards. The responsibility for implementing 
+the Policies rests with the respective functional 
+Heads, and they are subject to review by 
+the Management.
+Periodically whenever required
+Compliance 
+with 
+statutory 
+requirements of relevance to the 
+principles, and rectification of 
+any non-compliances
+The Company complies with all 
+applicable regulations.
+Periodically whenever required
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+11.	 Has the entity carried out independent assessment/evaluation of the working of its 
+policies by an external agency? (Yes/No). If yes, provide name of the agency.
+Yes, Zen Technologies regularly conducts audits 
+and internal reviews of all policies and processes. 
+These assessments are performed periodically 
+by 
+the 
+Company 
+to 
+ensure 
+compliance, 
+effectiveness, and continuous improvement in 
+its operations.
+12. If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated:
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the principles material to its 
+business (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+The entity is not at a stage where it is in a position to formulate 
+and implement the policies on specified principles (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+The entity does not have the financial or/human and technical 
+resources available for the task (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+It is planned to be done in the next financial year (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Any other reason (please specify)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+07
+ANNUAL REPORT 2022-23
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+Principle 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+Essential Indicators
+1. Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics/principles covered 
+under the training and its 
+impact
+%age of persons in respective 
+category covered by the 
+awareness programmes
+Board of Directors
+Throughout the year, Zen Technologies held multiple meetings with its Directors and Key 
+Management Personnel (KMPs) to provide comprehensive updates on the Company’s 
+overall performance. These presentations covered various aspects of the business, including 
+macroeconomic and market reviews, equity performance, earnings outlook, the Company’s 
+strategy, business model, operations, service and product offerings, and the allocation of funds for 
+Corporate Social Responsibility (CSR). Additionally, Senior Function Heads also participated in these 
+meetings with the Board members to gain deeper insights into different facets of the business.
+Key Managerial Personnel
+Employees other than BoD and 
+KMPs
+Zen Technologies provides orientation and on-the-job training programs to enhance employees’ 
+comprehension of the Company’s business and to support their professional growth. These 
+initiatives aim to improve employee performance and contribute to their overall development within 
+the organization.
+Workers
+Zen Technologies provides orientation and on-the-job training programs to enhance workers' 
+comprehension of the Company’s business and to support their professional growth. These 
+initiatives aim to improve worker performance and contribute to their overall development within 
+the organization.
+2.	
+Details of fines/penalties/punishment/award/compounding fees/settlement amount paid in proceedings (by the 
+entity or by directors/KMPs) with regulators/law enforcement agencies/judicial institutions, in the financial year:
+During the financial year 2022-23, Zen Technologies Showcased its ethical and transparent practices across all its operations, 
+resulting in a clean record without any fines, penalties, punishments, awards, compounding fees, or settlement amounts imposed by 
+regulators, law enforcement agencies, or judicial institutions.
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where 
+monetary or non-monetary action has been appealed.
+Not Applicable
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy.
+Yes, Zen Technologies places paramount importance on transparency and ethical conduct in all aspects of its business operations. 
+The Company’s Non-Disclosure Agreement with every employee/worker/vendor/consultants/professionals incorporates 
+provisions specifically addressing anti-corruption and anti-bribery measures. Serving as a comprehensive guideline, the process 
+sets forth the ethical and responsible business standards that are to be strictly adhered to by management, employees, agents, 
+suppliers, vendors, and business partners.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/corruption:
+The Directors, Key Management Personnel (KMPs), and employees of the Company consistently demonstrate ethical and transparent 
+behaviour. As a result, no disciplinary action has been initiated by any law enforcement agency against them for charges related 
+to bribery.
+6.	
+Details of complaints with regard to conflict of interest:
+Particulars
+FY2022-23
+FY2021-22
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to the issues of 
+Conflict of Interest of the Directors
+-
+-
+-
+-
+Number of complaints received in relation to the issues of 
+Conflict of Interest of the KMPs
+-
+-
+-
+-
+08
+ZEN TECHNOLOGIES LIMITED
+ANNUAL REPORT 2022-23
+7.	
+Provide details of any corrective action taken or underway on issues related to fines/penalties/action taken by 
+regulators/law enforcement agencies/judicial institutions, on cases of corruption and conflicts of interest.
+Not Applicable as there have been no issues related to fines/penalties/action taken by regulators/law enforcement agencies/judicial 
+institutions, on cases of corruption and conflicts of interest
+Principle 2: Businesses should provide goods and services in a manner that is sustainable and safe
+ESSENTIAL INDICATORS
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively.
+Particulars
+FY2022-23
+FY2021-22
+Details of improvements in environmental and social impacts
+R & D
+11.68%
+8.45%
+The research and development department at Zen Technologies focuses 
+on producing simulators while considering both global and local standards 
+and requirements. The primary objective of this endeavour is to enhance the 
+product’s environmental and social impacts, aiming for a more sustainable and 
+socially responsible approach.
+Capex
+-
+-
+2. a.	Does the entity have procedures in place for 
+sustainable sourcing? (Yes/No)
+No, the entity currently does not have procedures in place 
+for sustainable sourcing. However, we understand the 
+importance of sustainable practices and are actively exploring 
+ways to integrate sustainable sourcing into our operations. We 
+are committed to adopting responsible sourcing practices in 
+the future to minimize environmental impacts, uphold ethical 
+standards, and contribute positively to the communities 
+and regions from which we source our materials. We are 
+currently working on improving and align with sustainable 
+sourcing principles and industry best practices to meet the 
+expectations of our stakeholders and fulfil our corporate 
+social responsibility.
+3.	
+Describe the processes in place to safely reclaim 
+your products for reusing, recycling, and disposing 
+at the end of life, for (a) Plastics (including packaging) 
+(b) E-waste (c) Hazardous waste and (d) other waste:
+As a leading provider of cutting-edge combat training 
+solutions for global defense and security forces, we want 
+Principle 3: Businesses should respect and promote the well-being of all employees, including those in their value chains
+ESSENTIAL INDICATORS
+1. a.	Details of measures for the well-being of Employees:
+Category
+% of employees covered by
+Total (A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day Care 
+facilities
+No (B)
+%(B/A)
+No (B)
+%(B/A)
+No (B)
+%(B/A)
+No (B)
+%(B/A)
+No (B)
+%(B/A)
+Male
+222
+222
+100%
+222
+100%
+-
+-
+-
+-
+-
+-
+Female
+36
+36
+100%
+36
+100%
+36
+100%
+-
+-
+-
+-
+Total
+258
+258
+100%
+258
+100%
+36
+100%
+-
+-
+-
+-
+to be transparent with our stakeholders about our waste 
+management practices. We currently do not have a system in 
+place to reclaim products once they are sold.
+4.	
+Whether Extended Producer Responsibility (EPR) 
+is applicable to the entity’s activities (Yes/No). If 
+yes, whether the waste collection plan is in line 
+with the Extended Producer Responsibility (EPR) 
+plan submitted to Pollution Control Boards? If not, 
+provide steps taken to address the same.
+As part of our commitment to environmental responsibility, 
+Zen Technologies acknowledges the importance of 
+Extended Producer Responsibility (EPR) for electronic waste 
+and plastic waste generated by our products. We understand 
+that once the simulators are sold, they do not come back to 
+the Company, making it challenging to reclaim the products.
+At present, we do not have a dedicated mechanism to recycle 
+the products and waste.
+09
+ANNUAL REPORT 2022-23
+ b. Details of measures for the well-being of Workers: 
+Category
+% of workers covered by
+Total (A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day Care 
+facilities
+No (B)
+%(B/A)
+No (B)
+%(B/A)
+No (B)
+%(B/A)
+No (B)
+%(B/A)
+No (B)
+%(B/A)
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Note: All eligible workers are covered under ESI Act.
+2.	
+Details of retirement benefits, for current financial year and previous financial year 
+Benefits
+FY2022-23 
+FY2021-22
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+employees 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of employees 
+covered as a % of 
+total employees
+No. of 
+employees 
+covered as a % 
+of total workers 
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Yes
+100%
+100%
+Yes
+Gratuity
+100%
+100%
+Yes
+100%
+100%
+Yes
+ESI
+13%
+70%
+Yes
+22%
+65%
+Yes
+NPS
+-
+-
+-
+-
+-
+-
+Superannuation
+-
+-
+-
+-
+-
+-
+3.	
+Accessibility of workplaces
+Are the premises/offices of the entity accessible to 
+differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities 
+Act, 2016? If not, whether any steps are being taken by the 
+entity in this regard.
+Zen Technologies does not currently have the necessary 
+infrastructure to make workplaces accessible to differently 
+abled employees and workers. We recognize the importance 
+of providing an inclusive work environment and are 
+committed to taking the necessary steps to improve 
+accessibility in the future. As part of our ongoing efforts to 
+promote diversity and equal opportunities, we will actively 
+work on implementing infrastructural arrangements to cater 
+to the needs of differently abled individuals, ensuring their full 
+participation and comfort within our organization.
+4.	
+Does the entity have an equal opportunity policy 
+as per the Rights of Persons with Disabilities Act, 
+2016? If so, provide a web-link to the policy.
+Zen Technologies may not have a specific written policy 
+addressing the issue directly, but the principles of non-
+discrimination and equal treatment are deeply ingrained 
+within the Company’s Employees Code of Conduct. This code 
+sets the expected standards of behaviour for all employees, 
+emphasizing the importance of treating each individual with 
+fairness and respect.
+Moreover, Zen is unwavering in its commitment to maintaining 
+an inclusive and equitable environment, regardless of gender, 
+caste, creed, religion, or disability status. The Company 
+upholds the core principle of non-discrimination, striving 
+to create a workplace that values diversity and treats all 
+employees with equality and dignity. This dedication reflects 
+Zen’s strong belief in fostering a culture of respect and 
+inclusivity, where everyone can thrive and contribute to the 
+Company’s success.
+5.	
+Return to work and Retention rates of permanent 
+employees and workers that took parental leave. 
+The return to work and retention rates of permanent 
+employees and workers who took parental leave stand 
+at an impressive rate of 100%, reflecting the Company’s 
+commitment to fostering a supportive and inclusive work 
+environment that enables seamless transitions back to 
+work after parental leave. This achievement underscores 
+our dedication to ensuring a positive work-life balance and 
+nurturing long-term career growth for our employees.
+10
+ZEN TECHNOLOGIES LIMITED
+ANNUAL REPORT 2022-23
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief.
+Yes/No (If yes, then give details of the mechanism in brief)
+Permanent Workers
+Zen Technologies prioritizes the well-being and feedback of its employees and workers by 
+providing multiple channels to raise grievances and concerns. In addition to the Prevention 
+of Sexual Harassment (POSH) committee and the Whistle Blower platform, the Company 
+offers various forums for employees to voice their complaints and share suggestions. These 
+options encompass Business HR intervention, team meetings, quarterly business update 
+meetings, and meetings with the Management. By offering these accessible avenues, 
+Zen ensures that employees can comfortably express their concerns and contribute their 
+valuable ideas, fostering a supportive and inclusive work environment.
+Other than Permanent Workers
+Permanent Employees
+Other than Permanent Employees
+7.	
+Membership of employees and worker in association(s) or Unions recognized by the listed entity: Not Applicable
+8.	
+Details of training Programs given to employees and workers:
+Category
+FY2022-23 
+FY2021-22
+Total (A)
+On Health and 
+safety measures
+On skill 
+upgradation
+Total (A)
+On Health and 
+safety measures
+On skill 
+upgradation
+No (B)
+%(B/A)
+No (B)
+%(B/A)
+No (B)
+%(B/A)
+No (B)
+%(B/A)
+Employees
+Male
+222
+214
+96.3%
+188
+84.7%
+203
+198
+97.5%
+162
+79.8%
+Female
+36
+35
+97.2%
+30
+83.3%
+24
+23
+95.8%
+19
+79.2%
+Total
+258
+249
+96.5%
+218
+84.5%
+227
+221
+97.3%
+181
+79.7%
+Workers
+Male
+137
+133
+97.0%
+116
+84.7%
+79
+75
+94.9%
+63
+79.7%
+Female
+62
+62
+100%
+52
+83.9%
+6
+6
+100%
+4
+66.7%
+Total
+199
+195
+97.9%
+168
+84.4%
+85
+81
+95.2%
+67
+78.8%
+9.	
+Details of performance and career development reviews of employees and workers:
+Category
+FY 2022-23 
+FY2021-22
+Total (A)
+No (B)
+%(B/A)
+Total (A)
+No (B)
+%(B/A)
+Employees
+Male
+222
+139
+63%
+166
+107
+64%
+Female
+36
+15
+42%
+15
+7
+47%
+Total
+258
+154
+60%
+181
+114
+63%
+Workers
+Male
+137
+45
+33%
+79
+35
+44%
+Female
+62
+15
+24%
+6
+3
+50%
+Total
+199
+60
+30%
+85
+38
+45%
+10.	 Health and safety management system:
+a.	
+Whether an occupational health and safety 
+management system has been implemented by 
+the entity? (Yes/No). If yes, the coverage such 
+system?
+Zen Technologies goes above and beyond mere 
+compliance with health and safety standards. The 
+Company is deeply committed to driving continuous 
+improvement and striving for excellence in all its 
+operations to ensure the highest level of safety for 
+its employees. By fostering a safety-focused culture 
+and promoting adherence to international standards, 
+Zen creates a work environment where employees 
+can thrive, knowing that their health and well-being 
+are paramount. This unwavering dedication to safety 
+underscores Zen’s commitment to creating a workplace 
+where employees feel secure and valued, ensuring their 
+overall growth and success.
+b.	
+What are the processes used to identify work-
+related hazards and assess risks on a routine 
+and non-routine basis by the entity?
+Zen Technologies conducts regular safety drills to 
+evaluate the effectiveness of its safety protocols and 
+identify potential risks during work operations. The 
+Company places significant importance on maintaining 
+11
+ANNUAL REPORT 2022-23
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY2022-23
+FY2021-22
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked)
+Employees
+-
+-
+Total recordable work-related injuries
+Employees
+-
+-
+No. of fatalities
+Employees
+-
+-
+High consequence work-related injury or ill-health (excluding fatalities)
+Employees
+-
+-
+12.	 Describe the measures taken by the entity to 
+ensure a safe and healthy workplace.
+Zen Technologies has developed a comprehensive business 
+responsibility policy that encompasses various crucial areas, 
+including competence building, training, occupational health, 
+inspection systems, audits, procurement, contractors’ 
+control, and risk assessments. These policies and systems 
+are carefully designed to proactively identify and address 
+potential risks effectively.
+Compliance with all pertinent statutory requirements 
+concerning preventive healthcare and occupational health 
+and safety is of utmost priority for Zen. The Company 
+endeavours to establish, implement, and maintain a 
+proactive process that systematically identifies hazards, 
+determines appropriate controls to eliminate or minimize 
+risks to an acceptable level, and identifies relevant risks 
+and opportunities for the occupational health and safety 
+management system.
+By emphasizing a proactive approach to safety and risk 
+management, Zen demonstrates its unwavering commitment to 
+ensuring the well-being of its workforce and creating a secure and 
+healthy working environment.
+open communication with on-site personnel to gather 
+feedback and assess encountered or anticipated 
+hazards. 
+This 
+valuable 
+feedback 
+is 
+thoroughly 
+analysed to identify risks and develop appropriate 
+mitigation strategies. By prioritizing safety drills and 
+actively engaging with employees, Zen showcases 
+its unwavering commitment to upholding a secure 
+work environment and continuously enhancing safety 
+measures. This proactive approach to safety reflects 
+the Company’s dedication to ensuring the well-being 
+and protection of its workforce.
+c.	
+Whether you have processes for workers to 
+report the work-related hazards and to remove 
+themselves from such risks. (Y/N)
+Zen Technologies actively monitors and addresses 
+work-related hazards to maintain a safe working 
+environment. The Company places great importance 
+on identifying potential hazards and taking swift 
+corrective actions.
+Zen values the feedback from its workers, leveraging 
+their firsthand experiences and observations to identify 
+areas for improvement and implement necessary 
+measures to mitigate risks.
+By adopting a proactive approach to hazard monitoring 
+and involving workers in the feedback process, Zen 
+demonstrates its unwavering commitment to workplace 
+safety. This approach empowers employees to report 
+concerns and actively participate in the continuous 
+enhancement of safety protocols.
+Through 
+continuous 
+monitoring 
+and 
+prompt 
+rectification of work-related hazards, Zen prioritizes the 
+well-being of its employees and fosters a healthy work 
+environment that promotes safety and productivity.
+d.	
+Do the employees/worker of the entity have 
+access 
+to 
+non-occupational 
+medical 
+and 
+healthcare services? (Yes/No)
+Zen Technologies prioritizes the availability of non-
+occupational medical and healthcare services at its 
+sites. To meet the health needs of employees beyond 
+occupational requirements, the Company provides 
+these services either on-site or through partnerships 
+with trusted nearby medical entities.
+Furthermore, Zen places a strong emphasis on 
+equipping its personnel with the necessary training to 
+respond effectively to on-site medical emergencies. 
+Through comprehensive training programs, employees 
+are prepared to handle such situations and provide 
+necessary assistance until professional medical help 
+arrives, ensuring swift and efficient emergency response.
+By taking these measures, Zen demonstrates its 
+commitment to the well-being of its workforce, promoting 
+a safe and healthy working environment that goes 
+beyond meeting just occupational health requirements.
+13.	 Number of Complaints on the following made by employees and workers:
+Category
+FY2022-23 
+FY2021-22
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Working Conditions
+-
+-
+-
+-
+-
+-
+Health & Safety
+-
+-
+-
+-
+-
+-
+12
+ZEN TECHNOLOGIES LIMITED
+ANNUAL REPORT 2022-23
+14.	 Assessments for the year:
+% of your plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+Health and safety practices
+Zen Technologies has established robust procedures for the assessment of its plants and 
+offices by entities, statutory authorities, and third parties concerning health and safety 
+practices and working conditions. These procedures include:
+1.	
+Inspection by regulatory authorities: Regulatory authorities conduct yearly visits to 
+Zen’s plants, conducting thorough inspections to assess various aspects of health, 
+safety, and working conditions, ensuring compliance with regulations.
+2.	
+Annual inspection by regulatory bodies: Zen’s plants undergo comprehensive annual 
+inspections by regulatory bodies to evaluate health, safety, and working conditions, 
+ensuring adherence to industry standards and regulations.
+These assessment visits and inspections, conducted by competent persons and regulatory 
+authorities, exemplify Zen’s unwavering commitment to maintaining a safe and compliant 
+work environment across all its plants and offices. The Company takes proactive measures 
+to uphold the highest standards of health and safety for its workforce, aligning with its 
+dedication to employee well-being and a culture of excellence.
+Working Conditions
+15.	 Provide details of any corrective action taken or 
+underway to address safety-related incidents 
+(if any) and on significant risks/concerns arising 
+from assessments of health & safety practices and 
+working conditions.
+Zen Technologies has implemented several significant 
+corrective actions based on assessments of health and safety 
+practices and working conditions. These actions include:
+1.	
+Installation of Fire Hydrant Systems: In hazardous areas, 
+Zen installed fire hydrant systems to prevent fire incidents 
+and ensure the safety of personnel and assets.
+2.	
+Provision of Handrails: Handrails were added to staircases 
+and tapping platforms to enhance safety, reduce the risk 
+of falls or slips, and provide stability for employees.
+3.	
+Eye Vision and Colour Vision Testing: All individuals 
+underwent eye vision and colour vision tests to identify 
+potential visual impairments that could impact safety or 
+job performance. This enables appropriate measures or 
+accommodations to be implemented for improved safety 
+and well-being.
+4.	
+Implementation of Safety Work Permit System: A safety 
+work permit system was established for non-routine 
+tasks, ensuring strict adherence to safety protocols, and 
+minimizing the likelihood of accidents or incidents.
+5.	
+Dust Extraction Systems and Maintenance: Dust 
+extraction systems were put in place to control dust 
+emissions from conveyor transfers, reducing health risks 
+associated with dust exposure. Regular maintenance 
+and timely replacement of dust bags are conducted to 
+maintain optimal functionality.
+Through these proactive and targeted corrective actions, 
+Zen Technologies demonstrates its commitment to 
+continuous improvement in health and safety practices. 
+By addressing specific areas of concern, the Company 
+ensures a safer work environment for its employees and 
+contractors. This commitment reflects Zen’s dedication 
+to the well-being and protection of its workforce, fostering 
+a culture of safety and excellence across all operations.
+Principle 4: Businesses should respect the interests of 
+and be responsive to all its stakeholders
+ESSENTIAL INDICATORS
+1.	
+Describe the processes for identifying key 
+stakeholder groups of the entity.
+Zen is in the process of establishing a formal Stakeholder 
+Engagement Framework to identify stakeholders. The 
+process considers various factors in identifying stakeholders:
+Dependency: Groups or individuals who directly or indirectly 
+rely on Zen’s activities, products, services, and associated 
+performance, or on whom Zen depends on to operate.
+Responsibility: Groups or individuals to whom Zen has, or 
+may have in the future, legal, commercial, operational, or 
+ethical/moral responsibilities.
+Attention: Groups or individuals who require immediate 
+attention from Zen regarding financial, economic, social, or 
+environmental issues.
+Influence: Groups or individuals who can impact Zen’s 
+strategic or operational decision-making.
+Diverse perspectives: Groups or individuals who offer 
+different viewpoints that can lead to new insights and identify 
+opportunities for action.
+By considering these factors, Zen ensures comprehensive 
+stakeholder identification, enabling effective engagement 
+and collaboration with various groups to address their needs 
+and concerns.
+13
+ANNUAL REPORT 2022-23
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder 
+Group
+Whether identified 
+as Vulnerable & 
+Marginalized Group
+Channels of  
+communication
+Frequency of 
+engagement
+Purpose and scope of engagement 
+including key topics and concerns raised 
+during such engagement
+Employees and 
+Workers
+No
+•	
+Personalised learning 
+and development 
+programmes.
+•	
+Regular performance 
+review and feedback. 
+•	
+One-on-one 
+engagement, townhall 
+meetings.
+•	
+Employee engagement 
+surveys. 
+•	
+Programmes catered 
+around overall wellbeing.
+•	
+Intranet Portal.
+•	
+Emails, Notice Board, 
+Meetings
+Continuous
+The purpose is to foster an open forum for 
+employee concerns and improve Company 
+culture. Key topics include communication, 
+feedback, 
+and 
+addressing 
+employee 
+concerns. Concerns involve unresolved 
+issues, low trust, and morale.
+Meetings facilitate communication and 
+decision-making. Key topics are agendas, 
+participation, and outcomes. Concerns 
+include ineffective meetings, lack of follow-
+up, and low attendance.
+Suggestion schemes encourage innovative 
+ideas 
+and 
+operational 
+improvements. 
+Key topics are suggestion submissions, 
+evaluation criteria, and implementation. 
+Concerns include inadequate incentives, 
+lack of follow-up, and low engagement.
+Enquiries investigate and resolve issues. 
+Key topics are the enquiry process, 
+documentation, 
+and 
+stakeholder 
+communication. 
+Concerns 
+involve 
+unresolved issues, lack of transparency, and 
+negative impact on Company culture.
+Customers and 
+Suppliers
+No
+Partnering with customers in 
+their transition from products 
+to services. Utilizing one-on-
+one 
+interactions, 
+customer 
+satisfaction 
+surveys, 
+and 
+feedback calls after addressing 
+complaints. 
+Providing 
+customer 
+service 
+helpline 
+and communication channels 
+including email, telephone, and 
+physical meetings as needed. 
+Leveraging 
+emails, 
+supplier 
+portals, collaborative platforms, 
+supplier forums, and periodic 
+face-to-face 
+meetings 
+for 
+effective engagement.
+Fortnightly
+Addressing customer queries, suggestions, 
+and complaints for improved satisfaction 
+and 
+brand 
+reputation. 
+Understanding 
+customer 
+requirements 
+to 
+enhance 
+products 
+and 
+services. 
+Gathering 
+feedback from suppliers and evaluating 
+their performance for better collaboration 
+and quality. Supporting supplier capacity 
+building 
+and 
+fostering 
+collaborative 
+innovation. Ensuring ethical and sustainable 
+practices throughout the supply chain.
+Shareholders
+No
+Annual General Meeting, 
+Shareholder meets, email, 
+Stock Exchange (SE) 
+intimations, investor/analysts 
+meet/conference calls, annual 
+report, quarterly results, 
+media releases and Company/
+SE website. E-mail, Notice, 
+Investor Calls & Newspaper 
+advertisements.
+Quarterly/
+annually and 
+whenever 
+required
+Evaluating 
+financial 
+performance 
+and 
+stability for growth: Share price trends, 
+dividends, 
+profitability, 
+and 
+financial 
+statements. Concerns include volatility, 
+fluctuating dividends, low profitability, and 
+financial risks.
+Addressing shareholder queries, suggestions, 
+complaints, 
+and 
+providing 
+assurance. 
+Concerns include poor communication, 
+unresolved issues, lack of transparency, and 
+declining investor confidence.
+Identifying 
+shareholder 
+expectations 
+and aligning operations and strategies: 
+Shareholder demographics, engagement, 
+and feedback mechanisms. Concerns include 
+divergent expectations, lack of engagement, 
+and inadequate feedback mechanisms.
+14
+ZEN TECHNOLOGIES LIMITED
+ANNUAL REPORT 2022-23
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group. 
+(Contd.)
+Stakeholder 
+Group
+Whether identified 
+as Vulnerable & 
+Marginalized Group
+Channels of  
+communication
+Frequency of 
+engagement
+Purpose and scope of engagement 
+including key topics and concerns raised 
+during such engagement
+Bankers
+No
+Periodical Meetings
+Need basis
+Understanding 
+banking 
+compliance, 
+maintaining rapport with bankers, and 
+managing banking/credit facilities. Key topics 
+include 
+regulations, 
+compliance, 
+credit 
+facilities, and relationship management. 
+Concerns involve non-compliance, strained 
+relationships, and limited access to credit 
+facilities.
+Board of 
+Directors
+No
+Engaging with Board members 
+through regular meetings to 
+discuss Company performance, 
+strategy, and challenges. 
+Engaging with specific Board 
+committees for focused updates 
+on specific areas. Providing 
+regular reports on Company 
+performance and progress. 
+Providing informal updates 
+through various channels.
+Quarterly and 
+on any event/
+need basis.
+The Board of Directors is reviewing the 
+Company’s business operations, planning, 
+and strategies to identify improvement 
+opportunities. 
+Key 
+topics 
+include 
+the 
+business 
+model, 
+operational 
+efficiency, 
+growth strategies, risk management, and 
+financial performance. Concerns involve poor 
+performance, outdated strategies, lack of 
+innovation, and insufficient risk management.
+Government/
+Regulatory 
+Authorities
+No
+E-mails and letters, 
+Conferences, Industry forums. 
+Regulatory filings, Meetings 
+with officials, Representations.
+On periodical 
+basis 
+whenever 
+required
+Zen strives to achieve strong performance 
+and execute its strategic objectives. We 
+actively engage with public and business 
+concerns, seeking to understand and 
+contribute 
+to 
+insightful 
+discussions 
+surrounding these issues. We believe in 
+addressing responsible business matters in 
+a proactive manner. By aligning our response 
+to such concerns, Zen aims to demonstrate 
+our commitment to responsible and ethical 
+business practices.
+Principle 5: Businesses Should Respect and Promote Human Rights
+ESSENTIAL INDICATORS
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, 
+in the following format: 
+Category
+FY2022-23 (Current Financial Year)
+FY2021-22 (Previous Financial Year)
+Total (A)
+No. of employees/
+workers covered (B)
+% (B/A)
+Total (C)
+No. of employees/
+workers covered (D)
+% (D/C)
+Employees
+Permanent
+-
+-
+-
+-
+-
+-
+Other than permanent
+-
+-
+-
+-
+-
+-
+Total Employees
+-
+-
+-
+-
+-
+-
+Workers
+Permanent
+-
+-
+-
+-
+-
+-
+Other than permanent
+-
+-
+-
+-
+-
+-
+Total Workers
+-
+-
+-
+-
+-
+-
+15
+ANNUAL REPORT 2022-23
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY2022-23 (Current Financial Year)
+FY2021-22 (Previous Financial Year)
+Total 
+(A)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+No.(B)
+%(B/A)
+No. (C)
+%(C/A)
+No. (E)
+%(E/D)
+No.(F)
+% (F/D)
+Employees
+Permanent
+Male
+222
+-
+-
+222
+100%
+203
+-
+-
+203
+100%
+Female
+36
+-
+-
+36
+100%
+24
+-
+-
+24
+100%
+Other than Permanent
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Workers
+Permanent
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other than Permanent
+Male
+137
+-
+-
+137
+100%
+79
+-
+-
+79
+100%
+Female
+62
+-
+-
+62
+100%
+6
+-
+-
+6
+100%
+3.	
+Details of remuneration/salary/wages, in the following format: 
+Category
+Male
+Female
+Number
+Median remuneration/
+salary/wages of respective 
+category (₹ Per Annum)
+Number
+Median remuneration/
+salary/wages of respective 
+category (₹ Per Annum)
+Board of Directors (BoD)
+6#
+1,76,58,791
+2#
+24,38,796
+Key Managerial Personnel
+2
+38,88,486
+-
+-
+Employees other than BoD and KMP
+217
+5,35,925
+35
+4,31,600
+Workers
+137
+2,28,085
+62
+2,13,980
+#Note: Includes 3 male independent directors and 1 female independent directors to whom no remuneration is not required to be paid. 
+4.	
+Do you have a focal point (Individual/Committee) 
+responsible for addressing human rights impacts 
+or issues caused or contributed to by the business? 
+(Yes/No): 
+Yes, Zen Technologies Limited has a focal point or committee 
+dedicated to addressing human rights impacts or issues 
+caused or contributed to by the business. This committee 
+is responsible for ensuring that the Company’s operations, 
+policies, and practices align with international human 
+rights standards. It proactively identifies and addresses 
+any potential human rights risks and works to implement 
+measures to respect and promote human rights throughout 
+the Company’s activities and supply chain. The committee’s 
+focus is to foster a culture of respect for human rights and 
+ensure that the Company operates in a socially responsible 
+and ethical manner.
+5.	
+Describe the internal mechanisms in place to 
+redress grievances related to human rights issues:
+Zen Technologies actively promotes human rights through 
+its Code of Conduct and Standing Orders. These documents 
+outline 
+the 
+Company’s 
+commitment 
+to 
+upholding 
+fundamental human rights principles and standards within 
+its operations. In addition, Zen has established a Whistle 
+Blower and Protection Policy that allows employees to 
+confidentially report any violations or concerns related 
+to human rights. The Company encourages a culture of 
+accountability, transparency, and ethical conduct, ensuring 
+that reported concerns are promptly and appropriately 
+addressed. By fostering such a culture, Zen strives to create a 
+workplace where human rights are respected and protected, 
+aligning with its commitment to social responsibility and 
+ethical practices.
+16
+ZEN TECHNOLOGIES LIMITED
+ANNUAL REPORT 2022-23
+6.	
+Number of Complaints on the following made by employees and workers:
+Category
+FY 2022-23 (Current Financial Year)
+FY 2021-22 (Previous Financial Year)
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Sexual Harassment
+Throughout the reporting period, Zen received no complaints pertaining to any human 
+rights issues
+Discrimination at workplace
+Child Labour
+Forced Labour/Involuntary Labour
+Wages
+Other human rights related issues
+7.	
+Mechanisms to prevent adverse consequences to the 
+complainant in discrimination and harassment cases
+Zen Technologies Limited’s Whistle Blower & Protection 
+Policy places significant emphasis on confidentiality 
+and protection against victimization. The policy enables 
+confidential or anonymous reporting of wrongful conduct, 
+with strict measures to maintain confidentiality and conduct 
+thorough investigations. Breaches of confidentiality are 
+treated seriously to ensure a safe reporting environment. 
+This policy fosters a trusting atmosphere where stakeholders 
+can report wrongdoing without fear of retaliation, promoting 
+accountability, transparency, and ethical standards within the 
+organization. By prioritizing the protection of all stakeholders’ 
+rights, Zen ensures a culture of integrity and compliance with 
+the highest ethical principles.
+8.	
+Do human rights requirements form part of your 
+business agreements and contracts? (Yes/No)
+At Zen Technologies, we are committed to ensuring that our 
+agreements consistently reflect values and principles that 
+promote responsible and sustainable practices throughout 
+our supply chain. Our top priority is the well-being and safety 
+of individuals, ethical conduct, and the respect for human 
+rights. Through transparent collaboration with our partners, 
+we actively strive to create a positive impact on people, 
+the environment, and the communities we operate in. By 
+upholding these values, we aim to foster a culture of integrity 
+and sustainability, contributing to the betterment of society 
+and the protection of our planet for future generations.
+9.	
+Assessments for the year:
+Category
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labour
+100%
+Forced/involuntary labour
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others – please specify
+-
+10.	 Provide details of any corrective actions taken or underway to address significant risks/concerns arising from 
+the assessments at Question 9 above
+During the self-assessment process and through diligent evaluation by our customers, Zen Technologies has not identified any 
+significant risks or concerns. This positive outcome reflects our commitment to maintaining high standards of quality, safety, and 
+ethical practices in our operations and products. We will continue to be proactive in assessing and addressing any potential issues to 
+ensure the satisfaction and trust of our customers and stakeholders.
+Principle 6: Businesses should respect and make efforts to protect and restore the environment
+ESSENTIAL INDICATORS
+1.	
+Details of total energy consumption (in GJ) and energy intensity, in the following format: 
+Parameter
+FY 2022-23 
+(Current Financial Year)
+FY 2021-22 
+(Previous Financial 
+Year)
+Total electricity consumption (A)
+1,950.37
+1,818.88
+Total fuel consumption (B)
+139.99
+-
+Energy consumption through other sources (C)
+-
+-
+17
+ANNUAL REPORT 2022-23
+Note: We have established procedures to capture the required information from FY23.
+Note: Indicate if any independent assessment/evaluation/
+assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. 
+No, Zen Technologies has not conducted any assessment, 
+evaluation, or obtained assurances from an external agency. The 
+Company is committed to continuously improving its practices 
+and remains open to exploring opportunities for third-party 
+assessments in the future to ensure transparency and build trust 
+with its customers and stakeholders.
+2.	
+Does the entity have any sites/facilities identified 
+as 
+designated 
+consumers 
+(DCs) 
+under 
+the 
+Performance, Achieve and Trade (PAT) Scheme 
+of the Government of India? (Y/N) If yes, disclose 
+whether targets set.
+No, Zen Technologies does not have any site identified as 
+Designated Consumers (DCs) under the Perform, Achieve, 
+and Trade (PAT) scheme. This indicates that the Company 
+is not currently covered under the PAT scheme, which aims 
+to promote energy efficiency and conservation in industries 
+designated as DCs by the government.
+3.	
+Provide details of the following disclosures related 
+to water, in the following format: 
+At Zen Technologies Limited, currently we do not have 
+processes that consume water except for domestic 
+purposes, and we prioritize responsible water usage in 
+our manufacturing processes, ensuring minimal water 
+consumption. We strictly reserve water resources for 
+human consumption only, aligning with our commitment to 
+sustainability and environmental stewardship. However, we 
+would implement processes and systems to capture relevant 
+information. By adhering to these principles, we contribute 
+to the preservation of water resources and promote a more 
+sustainable future for all.
+Note: Indicate if any independent assessment/
+evaluation/assurance have been carried out by an 
+external agency? (Y/N) If yes, name of the external 
+agency. 
+Not Applicable
+4.	
+Has the entity implemented a mechanism for Zero 
+Liquid Discharge? If yes, provide details of its 
+coverage and implementation. 
+Not Applicable
+5.	
+Please provide details of air emissions (other than 
+GHG emissions) by the entity, in the following format:
+Our Company operates in the service sector and does not 
+produce any products that release emissions into the air.
+Note: Indicate if any independent assessment/
+evaluation/assurance have been carried out by an 
+external agency? (Y/N) If yes, name of the external 
+agency. 
+Not Applicable
+1.	
+Details of total energy consumption (in GJ) and energy intensity, in the following format: (Contd.)
+Parameter
+FY 2022-23  
+(Current Financial Year)
+FY 2021-22  
+(Previous Financial Year)
+Total energy consumption (A+B+C)
+2,090.36
+1,818.88
+Energy intensity per rupee of turnover (Total energy consumption/
+turnover in rupees)
+0.13 GJ/₹ 1 Lakh
+0.31 GJ/₹ 1 Lakh
+Energy intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format: 
+Parameter
+Unit
+FY 2022-23  
+(Current Financial Year)
+FY 2021-22  
+(Previous Financial Year)
+Total Scope 1 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+tCO2e
+10.37
+-
+Total Scope 2 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+tCO2e
+438.83
+409.25
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover
+tCO2e/₹ 1 Lakh
+0.03
+0.07
+Total Scope 1 and Scope 2 emission intensity  
+(optional) – the relevant metric may be selected by the entity
+-
+-
+-
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details: 
+Currently, the entity does not have any specific projects or initiatives in place aimed at reducing Green House Gas emissions. While 
+environmental considerations are important, the Company’s current focus may be directed toward other sustainability efforts or 
+operational aspects.
+18
+ZEN TECHNOLOGIES LIMITED
+ANNUAL REPORT 2022-23
+8.	
+Provide details related to waste management by the entity, in the following format:
+The Company does not have any mechanism to recycle the products and waste. All the wastes are being sold as scrap.
+Parameter
+FY 2022-23 
+(Current Financial Year)
+FY 2021-22 
+(Previous Financial Year)
+Total waste generated (in Metric tonnes)
+E-waste
+-
+4.71
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Other disposal operations
+-
+4.71
+9.	
+Briefly describe the waste management practices 
+adopted in your establishments. Describe the 
+strategy adopted by your Company to reduce usage 
+of hazardous and toxic chemicals in your products 
+and processes and the practices adopted to manage 
+such wastes.
+At our establishment, we consider integrating sustainability 
+aspects in our process. We have implemented various 
+initiatives to reduce our environmental footprint and promote 
+responsible waste management.
+Our efforts include the implementation of recycling programs 
+and composting organic waste, reducing waste generation 
+wherever possible. Embracing green chemistry principles and 
+exploring alternative materials, we aim to minimize the use of 
+hazardous and toxic chemicals, prioritizing the safety of both 
+our employees and the environment.
+Compliance with relevant regulations is of utmost importance 
+to us, and we strictly follow safety measures such as proper 
+storage, labelling, and segregation of chemicals to prevent 
+accidents. Thorough employee training ensures the safe 
+handling and disposal of waste materials.
+In collaboration with certified waste handlers, we ensure 
+that hazardous waste undergoes appropriate treatment and 
+disposal. By responsibly managing waste, including hazardous 
+substances, and reducing landfill usage, we actively contribute 
+to building a sustainable future for our planet.
+Our commitment to effective waste management aligns 
+with our dedication to environmental preservation and 
+responsible business practices. We will continue to evolve 
+and innovate in our waste reduction efforts to make a positive 
+impact on the environment and the communities we serve.
+10.	 If the entity has operations/offices in/around 
+ecologically sensitive areas (such as national parks, 
+wildlife sanctuaries, biosphere reserves, wetlands, 
+biodiversity hotspots, forests, coastal regulation 
+zones 
+etc.) 
+where 
+environmental 
+approvals/
+clearances are required, please specify details in 
+the following format:
+Not Applicable as Zen does not operate or have offices in 
+or around ecologically sensitive areas, including national 
+parks, wildlife sanctuaries, biosphere reserves, wetlands, 
+biodiversity hotspots, forests, and coastal regulation zones.
+11.	 Details of environmental impact assessments 
+of projects undertaken by the entity based on 
+applicable laws, in the current financial year: 
+During the current financial year, Zen Technologies Limited 
+did not undertake any projects that required environmental 
+impact assessments as per relevant laws. As a result, 
+there were no obligations or requirements for conducting 
+environmental impact assessments for the projects 
+undertaken by the Company.
+Zen remains committed to adhering to all applicable 
+environmental regulations and ensuring responsible business 
+practices that minimize the Company’s environmental 
+impact. As we continue to grow, we will maintain our focus 
+on sustainability and environmental stewardship, seeking 
+opportunities to contribute positively to the protection and 
+conservation of the environment.
+12.	 Is the entity compliant with the applicable 
+environmental 
+law/regulations/guidelines 
+in 
+India, such as the Water (Prevention and Control 
+of Pollution) Act, Air (Prevention and Control of 
+Pollution) Act, Environment protection act and 
+rules thereunder (Y/N). If not, provide details of all 
+such non-compliances, in the following format:
+Zen Technologies is fully committed to adhering to and ensuring 
+compliance with a wide range of environmental laws, regulations, 
+and guidelines applicable in India. This includes strict adherence 
+to key laws such as the Water (Prevention and Control of 
+Pollution) Act, the Air (Prevention and Control of Pollution) Act, 
+and the Environment Protection Act, along with relevant rules 
+framed under these laws. The Company demonstrates its 
+dedication to environmental responsibility and sustainability 
+through the maintenance of a robust system that ensures 
+complete compliance with these legal frameworks.
+Principle 7: Businesses, when engaging in influencing 
+public and regulatory policy, should do so in a manner 
+that is responsible and transparent
+ESSENTIAL INDICATORS:
+1. A)	 Affiliations with trade and industry chambers/
+associations:
+Zen Technologies has formed partnerships with five trade 
+and industry chambers/associations. These affiliations 
+enhance the Company’s network and engagement in the 
+trade and industry sectors. Through these collaborations, 
+Zen gains access to valuable knowledge, industry insights, 
+and collective efforts to address shared challenges and 
+drive progress. By staying connected to broader industry 
+trends and developments, the Company remains informed 
+and actively contributes to its sector’s advancement and 
+advocacy efforts.
+19
+ANNUAL REPORT 2022-23
+B)	
+List the top 10 trade and industry chambers/associations (determined based on the total members of such body) 
+the entity is a member of/affiliated to:
+S. No.
+Name of the trade and industry chambers/associations
+Reach of trade and industry chambers/
+associations (State/National)
+1.
+Federation Of Indian Chambers of Commerce and Industry (FICCI)
+National
+2.
+Confederation Of Indian Industry (CII)
+National
+3.
+Society Of Indian Defence Manufacturers (SIDM)
+National
+4.
+The Federation of Telangana Chambers of Commerce and Industry (FTCCI)
+State
+5.
+Aerospace & Defence Consultants Association of India 
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anticompetitive conduct by the 
+entity, based on adverse orders from regulatory authorities: 
+Zen Technologies has a strong track record of fair competition and has not engaged in any anti-competitive conduct. The Company 
+has not faced any adverse orders from regulatory authorities in relation to such practices. We maintain a steadfast commitment to 
+upholding fair competition and adhere to all applicable laws and regulations, ensuring a competitive and equitable marketplace for 
+all stakeholders.
+Principle 8: Businesses should promote inclusive growth and equitable development
+ESSENTIAL INDICATORS:
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year: 
+No, Zen Technologies Limited currently does not have any Social Impact Assessment (SIA) projects in place. We will keep our 
+stakeholders informed if any such projects are initiated in the future. Our commitment to responsible business practices and social 
+responsibility remains unwavering, and we will continue to explore opportunities to make a positive impact on the communities 
+we serve.
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken 
+by your entity, in the following format:
+Not applicable, Zen Technologies Limited has not undertaken any ongoing Rehabilitation and Resettlement (R&R) projects at 
+this time.
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+Zen Technologies has established a structured and responsive system to address community complaints and concerns. A dedicated 
+committee, consisting of representatives from various departments, handles written complaints, conducts thorough investigations, 
+and takes prompt and appropriate actions.
+It is noteworthy that the Company has not received any complaints related to its corporate social responsibility (CSR) efforts, 
+showcasing its strong commitment to upholding high standards and fulfilling social responsibilities in a responsible manner. This 
+approach fosters a positive and harmonious relationship with the community, reflecting our dedication to being a responsible 
+corporate citizen.
+We will continue to prioritize transparent communication and community engagement, ensuring that our CSR initiatives align with the 
+needs and aspirations of the communities we serve. By actively listening to and addressing community feedback, we strive to build 
+enduring partnerships that contribute positively to the welfare and development of society.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers: 
+Category
+FY 2022-23 
+(Current Financial Year)
+FY 2021-22 
+(Previous Financial Year)
+Directly sourced from MSMEs/small producers
+15.14%
+5.63%
+Sourced directly from within the district and neighbouring districts
+48.24%
+54.96%
+Principle 9: Businesses should engage with and provide value to their consumers in a responsible manner
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+Zen Technologies Limited is dedicated to providing excellent customer service, and multiple mechanisms are in place for customers 
+to report complaints or provide feedback. Every customer concern is treated with utmost care at all levels within the organization.
+When incidents occur, the Company identifies and analyses them thoroughly, and a well-defined action plan is developed to address 
+the issues. Regular engagement with the customer is maintained to validate the action plan, and updates about the progress of the 
+actions taken are provided.
+20
+ZEN TECHNOLOGIES LIMITED
+ANNUAL REPORT 2022-23
+3.	
+Number of consumer complaints in respect of the following:
+Category
+FY 2022-23 
+(Current Financial Year)
+Remarks
+FY 2021-22 
+(Previous Financial Year)
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data privacy
+Throughout the reporting period, Zen received no complaints which are relevant to this 
+section 
+Advertising
+Cyber-security
+Delivery of essential services
+Restrictive Trade Practices
+Unfair Trade Practices
+Other
+4.	
+Details of instances of product recalls on account of safety issues: 
+Particulars
+Number
+Reasons for recall
+Voluntary recalls
+-
+-
+Forced recalls
+-
+-
+5.	
+Does the entity have a framework/policy on cyber security and risks related to data privacy? (Yes/No) If 
+available, provide a web-link of the policy.
+At Zen Technologies, we place the highest importance on our cyber security policy to protect our digital assets from potential cyber 
+threats. The policy covers multiple areas, including information systems, networks, data security, roles and responsibilities, and 
+incident response procedures.
+All individuals within the organization, including employees, contractors, and interns, are required to strictly adhere to this policy. It 
+includes a comprehensive set of measures to ensure security, such as safeguarding confidential data, securing devices, adopting 
+safe email practices, managing passwords effectively, ensuring secure data transfer, and promptly reporting any security breaches 
+that may occur.
+By enforcing these measures, we aim to maintain a robust and secure cyber environment, safeguarding our data, systems, and 
+operations from cyber risks. We are committed to continuously enhancing our cyber security practices to stay ahead of emerging 
+threats and protect our valuable digital assets and information.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty/action taken by regulatory authorities on safety of products/services
+Zen Technologies Limited has not encountered any reported incidents relating to issues such as advertising and delivery of essential 
+services, cyber security, and data privacy of customers, re-occurrence of product recalls, or penalties/actions taken by regulatory 
+authorities on the safety of products/services. This indicates the Company’s diligent efforts in adhering to high standards and 
+best practices to ensure the safety, security, and quality of its products and services. Zen remains committed to upholding its 
+commitment to customer satisfaction and compliance with all applicable regulations to maintain a positive reputation and build trust 
+with its stakeholders.
+Feedback from customers is valued and taken positively, and the action plans are refined based on this feedback to continuously 
+improve and update performance.
+At Zen Technologies, customer satisfaction is of paramount importance, and we are committed to fostering a strong relationship 
+with our customers by actively listening to their concerns and continuously striving to enhance our products and services to meet 
+their needs.
+2.	
+Turnover of products and/services as a percentage of turnover from all products/service that carry information 
+about:
+All our products carry information about safe and responsible usage.
+21
+ANNUAL REPORT 2022-23
