@@ -1,0 +1,3048 @@
+ 
+ 
+ 
+Ref No: RML/2023-24/397 
+Date: August 28, 2023 
+To,  
+BSE Limited                                        
+ 
+           
+                   National Stock Exchange of India Limited 
+Scrip Code: 543228  
+ 
+ 
+           
+                   NSE Symbol: ROUTE 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Business Responsibility and Sustainability Report for the financial year 2022‐23 
+Pursuant to Regulation 34(2)(f) of the SEBI (Listing Obligations & Disclosure Requirements) Regulations 2015, 
+please find enclosed the Business Responsibility and Sustainability Report (“BRSR”) for the financial year    
+2022-23 which also forms part of the Annual Report for the financial year 2022-23.  
+ 
+The BRSR is also available on the Company’s website at www.routemobile.com. 
+ 
+You are requested to take the above information on record. 
+ 
+Thanking You 
+Yours truly, 
+For Route Mobile Limited 
+ 
+ 
+______________________________________________________________ 
+Rathindra Das 
+Group Head‐Legal, Company Secretary & Compliance Officer 
+Membership No. F12663 
+ 
+Encl: Business Responsibility and Sustainability Report for the Financial Year 2022-23 (Pdf) 
+ 
+ 
+"'1.. routemobile 
+v 
+communication simplified 
+Registered & Corporate Office: 
+Route Mobile Limited 
+4'" Dimension, 3"' floor, Mind Space, Malad (West), 
+Mumbai - 400 064, India 
++91 22 4033 7676/77-99 I Fax: +97 22 4033 7650 
+info@routemobile.com I www.routemobile.com 
+CIN No: L72900MH2004PLC746323 
+Digitally signed by: Rathindra das
+DN: CN = Rathindra das C = IN O = 
+Personal
+Date: 2023.08.28 21:28:58 +05'30'
+Rathindra das
+About Route Mobile Limited
+Route Mobile Limited (”RML/ Route Mobile”) is a leading Cloud Communication Platform service provider, catering 
+to enterprises, over-the-top (OTT) players and mobile network operators (MNO). Our product portfolio includes 
+smart solutions in Messaging, Voice, Email, and SMS Filtering, Analytics & Monetisation. RML provides real-time 
+connected customer experiences with its advanced Customer Experience Platform as a Service (CXPaaS), globally. 
+With omnichannel workflows and a data-centric approach, our comprehensive CXPaaS solutions help businesses 
+to create real-time, smart, and conversational customer experiences
+Since its inception in 2004, Route Mobile has been enhancing mobile communications through technology upgrades 
+and product innovations; meeting the needs of a diverse clientele across geographies. Our customizable, user-friendly, 
+and effective solutions enable enterprises and mobile operators to deliver efficient services to their customers.
+COVID-19 crisis has brought about years of change in the way companies in all sectors and regions do business; 
+companies have accelerated the digitisation of their customer and supply-chain interactions and of their internal 
+operations by three to four years as they recognize technology’s strategic importance as a critical component of 
+the business, not just a source of cost efficiencies. It is in this context that we see the use of information systems to 
+continue in the same vein for some time.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY 
+REPORT
+Annexure – 8
+1
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1.
+Corporate Identity Number (CIN) of the Listed Entity
+L72900MH2004PLC146323
+2.
+Name of the Listed Entity
+Route Mobile Limited ("RML")
+3.
+Year of incorporation
+2004
+4.
+Registered office address
+4th Dimension, 3rd Floor, Mind Space, Malad (West), Mumbai 
+400064, Maharashtra, India
+5.
+Corporate address
+6.
+E-mail ID
+investors@routemobile.com
+7.
+Telephone
++ 91-022-4033 7676
+8.
+Website
+www.routemobile.com
+9.
+Financial year for which reporting is being done
+April 1, 2022 - March 31, 2023
+10.
+Name of the Stock Exchange(s) where shares are 
+listed
+BSE Limited and National Stock Exchange of India Limited
+11.
+Paid-up Capital
+H62,44,32,170
+12.
+Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report. 
+Rathindra Das,
+Group Head - Legal, Company Secretary & Compliance 
+Officer investors@routemobile.com + 91-022-4033 7676
+13.
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e., only for the 
+entity) or on a consolidated basis (i.e., for the entity and 
+all the entities which form a part of its consolidated 
+financial statements, taken together).
+Standalone basis
+II.	 Products/ services:
+	
+14.	 Details of business activities (accounting for 90% of the turnover):
+S. No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of  
+the entity
+1.
+Other information services activities
+Omni-Channel CPaaS and CXPaaS
+100%
+	
+15.	 Products/Services sold by the entity (accounting for 90% of the entity’s turnover):
+S. No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1.
+Enterprise Communication Services like A2P messaging
+63999
+100%
+III.	 Operations:
+	
+16.	 Number of locations where plants and/ or operations/ offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+Not Applicable
+7
+31
+International
+24
+	
+	
+BUSINESS RESPONSIBILITY & SUSTAINABILITY 
+REPORT
+2
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+	
+17.	 Markets served by the entity:
+	
+	
+Our operations are spread across SE Asia, GCC region, Africa, LATAM, USA, UK and Europe. We have direct 
+presence in more than 20 countries.
+	
+	
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+3
+International (No. of Countries)
+20
+	
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+	
+	
+30.83%
+	
+	
+c.	
+A brief on types of customers
+	
+	
+	
+We cater to customers across different business verticals. Majority of our customer base is Business 
+to Business (B2B)
+	
+	
+	
+Our customer base can largely be split up between the following:
+	
+	
+1.	
+Enterprises, i.e. businesses and corporations across all industries such as retail, e-commerce, finance, 
+healthcare, travel and more;
+	
+	
+2.	
+Mobile Network Operators (MNOs) offering them messaging and communication services and 
+platforms to expand their network reach, generate additional revenue streams, and serve their own 
+enterprise customers;
+	
+	
+3.	
+Resellers and Aggregators who leverage Route Mobile's infrastructure and global network to offer 
+messaging and communication services to their clients;
+	
+	
+4.	
+Application Developers who can use Route Mobile's APIs and SDKs to integrate messaging, voice and 
+email functionalities into their apps, ensuring seamless communication and user engagement;
+	
+	
+5.	
+Agencies who use Route Mobile's secure and reliable communication services to interact with citizens, 
+disseminate information and coordinate internal communication;
+	
+	
+6.	
+Banks and Financial Institutions to send transaction alerts, OTPs and promotional messages securely 
+and efficiently.
+IV.	 Employees
+	
+18.	 Details as at the end of Financial Year:
+	
+	
+a.	
+Employees and workers (including differently abled):
+S. No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+404
+313
+77.48
+91
+22.52
+2.
+Other than
+Permanent (E)
+6
+5
+83.33
+1
+16.67
+3.
+Total employees
+(D + E)
+410
+318
+77.56
+92
+22.44
+WORKERS
+4.
+Permanent (F)
+Company does not employ any Worker as defined 
+under Sec 2(zr) of the Industrial Relations Code, 
+2020.
+5.
+Other than
+Permanent (G)
+6.
+Total workers (F + G)
+3
+	
+	
+b.	
+Differently abled Employees and workers:
+S. No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+1
+1
+100
+Nil
+Nil
+2.
+Other than
+Permanent (E)
+0
+0
+0
+Nil
+Nil
+3.
+Total differently abled employees (D + E)
+1
+1
+100
+NA
+NA
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+Company does not employ any Worker as defined 
+under Sec 2(zr) of the Industrial Relations Code, 
+2020.
+5.
+Other than permanent (G)
+6.
+Total differently abled workers (F + G)
+	
+19.	 Participation/ Inclusion/ Representation of women
+Particulars
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+7*
+1
+14.29
+Key Management Personnel
+2
+0
+NA
+	
+	
+* Includes the Managing Director and Chief Executive Officer who is also the Key Managerial Personnel of the Company.
+	
+20.	 Turnover rate for permanent employees and workers
+FY 2022-23
+FY 2021-22
+FY 2020-21
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+25%
+6%
+31%
+19%
+2%
+21%
+9%
+5%
+14%
+Permanent Workers
+Not Applicable
+V.	 Holding, Subsidiary and Associate Companies (including joint ventures)
+	
+21.	 (a)	 Names of holding/ subsidiary/ associate companies/ joint ventures
+S. No. Name of the holding/ subsidiary/ associate 
+companies/ joint ventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares 
+held by listed 
+entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed entity? 
+(Yes/No)
+1.
+Refer to Annexure 1 to the Board’s report for information on holding/ subsidiary/ 
+associate companies/ joint ventures.
+No
+VI.	 CSR Details
+22.
+(i)
+Whether CSR is applicable as per Section 135 of Companies Act, 2013: Yes
+(ii)
+Turnover (in C)
+5,35,79,85,361/- (FY 2022-2023 - Standalone)
+(iii) Net worth (in C)
+11, 26, 45, 75, 491/- (Standalone)
+4
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+VII.	Transparency and Disclosures Compliances
+	
+23.	 Complaints/ Grievances on any of the principles (Principles 1 to 9) under the National Guidelines 
+on Responsible Business Conduct:
+Stakeholder group from 
+whom complaint is 
+received
+Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No)
+(If Yes, then 
+provide 
+web-link for 
+grievance 
+redress policy)
+FY 2022-23
+FY 2021-22
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+https://
+routemobile.
+com/
+corporate-
+policies/
+Nil
+Nil
+None
+Nil
+Nil
+None
+Investors  
+(other than 
+shareholders)
+Nil
+Nil
+None
+Nil
+Nil
+None
+Shareholders
+Refer to the "Investor complaints" section of the Corporate governance 
+report of this Annual Report for more information on the investor complaints 
+that have been received and resolved
+Employees and workers
+None
+Customers 
+Value Chain Partners
+Other (please specify)
+	
+24.	 Overview of the entity’s material responsible business conduct issues
+	
+	
+The materiality map for RML was developed by first identifying the sets of issues that were deemed to be 
+material for the company basis the research on industry, peers and the company itself. This list was then 
+prioritised by the senior management to arrive at the final set of material issues for the company.
+S. No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk/  
+opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial implications 
+of the risk or 
+opportunity (Indicate 
+positive or negative 
+implications)
+1.
+Digital theft, 
+mobile security 
+and firewall
+Opportunity 
+As with every passing day, more 
+and more people adopt and 
+shift 
+to 
+digital 
+transactions, 
+theft and security issues have 
+also emerged. Countries across 
+the globe has a sizeable elderly 
+population who may not be 
+very sophisticated in operating 
+phones and computers; this at 
+the same time offers an incredible 
+opportunity for RML through 
+security/ 
+scanning 
+offerings 
+and thus leading to increasing 
+revenue from our curated service 
+offerings.
+NA
+Positive
+2.
+Talent pool
+Opportunity 
+and Risk
+Increasing revenue from service 
+offerings 
+from 
+cutting 
+edge 
+technology & products, enabled 
+by our talent pool; this could also 
+pose as threat as the company 
+may lose in talent retention if 
+the millennial talent pool is not 
+provided with satisfactory career 
+programmes accompanied by 
+industry competitive facilities at 
+work place.
+Talent re- skilling, attrition
+Positive: Given niche 
+talent 
+pool, 
+we 
+can emerge as a 
+preferred 
+business 
+partner.
+5
+S. No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk/  
+opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial implications 
+of the risk or 
+opportunity (Indicate 
+positive or negative 
+implications)
+3.
+Platform 
+reliability
+Opportunity
+Our platform reliability creates 
+differentiation from competitor 
+by ensuring high service delivery.
+Strengthen infrastructure, 
+implement redundancy 
+measures, 
+continuous 
+monitoring 
+and 
+maintenance
+Positive
+4.
+Business 
+Continuity
+Risk
+Any downtime can result in 
+poor customer experience and 
+potential customer loss.
+Develop comprehensive 
+business continuity plans, 
+conduct 
+regular 
+drills 
+testing 
+and 
+establish 
+backup systems
+Negative
+5.
+Innovation
+Opportunity
+We 
+continuously 
+enhance 
+product capabilities and drive 
+multiple revenue streams with 
+existing / new customer base. 
+At the same time, this helps 
+enhance 
+service 
+quality 
+and 
+customer retention.
+Foster 
+a 
+culture 
+of 
+innovation, invest in R&D, 
+and 
+collaborate 
+with 
+technology partners
+Positive
+6.
+Digital Inclusion 
+resulting in 
+market growth
+Opportunity
+In order to provide access to 
+everyone in society, especially 
+those in rural areas and low-
+income households, Companies 
+are making huge investments 
+in 
+digital 
+Infrastructure 
+and 
+programmes 
+that 
+aim 
+to 
+narrow the digital divide. As 
+more companies across various 
+sectors 
+have 
+started 
+using 
+cloud-based services, the cloud 
+communication market in India 
+is expanding quickly. This creates 
+various opportunities for RML.
+NA
+Positive:
+With 
+Digital 
+inclusion 
+and 
+rapidly 
+growing 
+market 
+several 
+opportunities 
+are 
+created.
+7.
+Digital Identity
+Opportunity
+To avoid income loss, enterprises 
+must be prepared to resist identity 
+theft in real-time. Additionally, 
+it's critical to protect clients from 
+fraud and inconveniences by 
+adding an additional degree of 
+security to their online experience.
+NA
+Positive:
+TruSense 
+– 
+A 
+product launched 
+by the Company 
+ensures 
+secure 
+a u t h e n t i c a t i o n , 
+reliable 
+identity 
+verification 
+and 
+intelligent 
+fraud 
+detection 
+with 
+a 
+frictionless 
+user 
+experience
+8.
+Data Privacy 
+and Regulatory 
+Compliance
+Risk
+As we process data, we may be 
+exposed to privacy breach claims. 
+Further various countries have 
+regulatory authorities for e.g. TRAI 
+in India. These authorities define 
+rules of the game for CPaaS 
+players and changes to these 
+regulatory requirements could 
+affect business potential.
+Privacy policy, employee 
+training. 
+Robust 
+Compliance programme, 
+audit.
+Negative:
+Claims under privacy 
+laws in jurisdictions 
+where we operate.
+6
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+P 1
+Businesses should conduct and govern themselves with integrity in a manner that is ethical, transparent and accountable
+P 2
+Businesses should provide goods and services in a manner that is sustainable and safe
+P 3
+Businesses should respect and promote the well-being of all employees, including those in their value chains
+P 4
+Businesses should respect the interests of and be responsive towards all its stakeholders
+P 5
+Businesses should respect and promote human rights
+P 6
+Businesses should respect, protect and make efforts to restore the environment
+P 7
+Businesses when engaging in influencing public and regulatory policy should do so in a manner that is responsible and 
+transparent
+P 8
+Businesses should promote inclusive growth and equitable development
+P 9
+Businesses should engage with and provide value to their consumers in a responsible manner
+S 
+No.
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P5
+P 6
+P 7
+P 8
+P 9
+Policy and management processes
+1.
+a.	 Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs.
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+While there is no standalone policy document on public advocacy 
+through participation in various industry forums and conferences, the 
+company expresses its policies on relevant topics such as spamming, 
+data theft, phishing attacks, cybercrime, IP based authentication, 
+Mobile application generating token codes and Mobile Identity 
+Solutions, etc.  
+b.	 Has the policy been approved by the Board? 
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+NA
+Yes
+Yes
+c.	 Web Link of the Policies, if available
+ https://routemobile.com/corporate-policies/
+2.
+Whether the entity has translated the policy into 
+procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+NA
+Yes
+Yes
+3.
+Do the enlisted policies extend to your value chain 
+partners? (Yes/No)
+Yes, Policies such as ESG policy, Anti-Fraud, Anti-Bribery & Anti- 
+Corruption Policy, Supplier code of conduct, policy on Prevention of 
+Sexual Harassment Policy (POSH) at Work Place and Code of Conduct 
+for Regulating, Monitoring and Reporting of Trades and Prevention of 
+Insider Trading are extended to our value chain partners.
+4.
+Name of the national and international codes/
+certifications/labels/ 
+standards 
+(e.g. 
+Forest 
+Stewardship Council, Fairtrade, Rainforest Alliance, 
+Trustea) standards (e.g. SA 8000, OHSAS, ISO, 
+BIS) adopted by your entity and mapped to each 
+principle.
+We utilize the international standard of GRI framework for our 
+reporting. We adhere to UNGC principles and OECD Principles 
+of Corporate Governance. We also have a certified (by KVQA 
+Certification Services Private Limited) robust quality management 
+system complying with ISO 9001:2015 and an information security 
+management system complying with ISO/IEC 27001:2013 certified 
+including further CMMI Level 5 certification.
+5.
+Specific commitments, goals and targets set by 
+the entity with defined timelines, if any.
+None; however, we have identified certain UN SDGs (sustainable 
+development goals) which compliment to our core business and 
+our CSR programme which focuses on healthcare, and education & 
+sports. Please read our sustainability report https://routemobile.com/
+compliance/2023/Sustainability-Report-FY-2022-23.pdf for the FY 
+2022-23 for details.
+6.
+Performance of the entity against the specific 
+commitments, goals and targets along-with 
+reasons in case the same are not met.
+Governance, Leadership and Oversight
+7.
+Statement by Director responsible for the business 
+responsibility report, highlighting ESG related 
+challenges, targets and achievements (listed entity 
+has flexibility regarding the placement of this 
+disclosure)
+Please 
+refer 
+to 
+our 
+Sustainability 
+Report 
+https://routemobile.com/
+compliance/2023/Sustainability-Report-FY-2022-23.pdf for the FY 2022-
+23.
+7
+S 
+No.
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P5
+P 6
+P 7
+P 8
+P 9
+8.
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy(ies).
+CSR Committee and 
+Mr. Rajdipkumar Gupta, 
+Managing Director & Group CEO
+Composition of CSR Committee:
+S 
+No.
+Name of Director
+Designation / Nature of 
+Directorship
+DIN
+1
+Mr. Nimesh Salot
+Chairman - Independent 
+Director
+00004623
+2
+Mr. Sandipkumar 
+Gupta
+Member - Non- Executive 
+Non- Independent Director
+01272932
+3
+Mr. Rajdipkumar 
+Gupta
+Member - Executive 
+Director
+01272947
+9.
+Does the entity have a specified Committee of the 
+Board/ Director responsible for decision-making 
+on sustainability related issues? (Yes / No). If yes, 
+provide details.
+Functional heads ensure various policies are adhered to under the 
+overall aegis of various committees like Nomination & Remuneration 
+Committee, CSR Committee, Risk Management Committee.
+10.	 Performance against above policies and follow up action
+S. No.
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+a)
+Indicate whether review was undertaken 
+by Director/ Committee of the Board/ Any 
+other Committee
+Board
+Board 
+Com- 
+mittee
+Board 
+Com- 
+mittee
+Board 
+Com- 
+mittee
+Board 
+Com- 
+mittee
+Board 
+Com- 
+mittee
+NA
+Board
+Board
+b)
+Frequency
+(Annually/ Half yearly/ Quarterly/ Any other 
+– please specify)
+Annu- 
+ally
+Annu- 
+ally
+Annu- 
+ally
+Quar- 
+terly
+Annu- 
+ally
+Annu- 
+ally
+NA
+Need 
+based
+Need 
+based
+c)
+Compliance with statutory requirements 
+of 
+relevance 
+to 
+the 
+principles, 
+and 
+rectification of any non-compliances
+Status of compliance with all applicable statutory requirements is 
+reviewed on a quarterly basis by the Board. Quarterly Compliance 
+Certificate on applicable laws is provided by respective department 
+heads and placed before the Board by the Company Secretary.
+11.
+Has 
+the 
+entity 
+carried 
+out 
+independent 
+assessment/ evaluation of the working of its 
+policies by an external agency? (Yes/No). If yes, 
+provide name of the agency.
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Yes, all the policies of the Company were independently evaluated by 
+Pozhat Sustainable Solutions Private Limited in FY 2022-23.
+Further the policies are evaluated internally from time to time and 
+updated whenever required. The Company continues to sustain 
+its commitment to the highest levels of quality, superior service 
+management, robust information security practices and mature 
+business continuity management. Our quality management system 
+certified by KVQA Certification Services Private Limited complies with 
+ISO 9001:2015 while our information security management system 
+is certified by KVQA Certification Services Private Limited as ISO/IEC 
+27001:2013 compliant.
+8
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+12.	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+The entity does not consider the Principles material to its 
+business (Yes/No)
+No
+The entity is not at a stage where it is in a position to 
+formulate and implement the policies on specified 
+principles (Yes/No)
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+Yes*
+N.A.
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No)
+N.A.
+It is planned to be done in the next financial year (Yes/No)
+No
+Any other reason (please specify)
+None
+* There is no standalone policy on public advocacy. For the time being, Company’s public advocacy is through participation in various 
+industry forums and conferences where we express our opinions on various relevant topics.
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core 
+Elements with key processes and decisions. The information sought is categorised as “Essential” and “Leadership”. 
+While the essential indicators are expected to be disclosed by every entity that is mandated to file this report, the 
+leadership indicators may be voluntarily disclosed by entities which aspire to progress to a higher level in their quest 
+to be socially, environmentally and ethically responsible.
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner 
+that is Ethical, Transparent and Accountable.
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the 
+financial year:
+Segment
+Total number 
+of training and 
+Awareness 
+programmes held
+Topics / principles Covered under the training and its 
+impact
+%age of persons 
+in respective 
+category covered 
+by awareness 
+programmes
+Board of Directors 
+1
+Code of conduct, Data Privacy & GDPR, ESG, Structural 
+Digital Database under SEBI (Prohibition of Insider 
+Trading) Regulations, 2015
+100%
+Key Managerial Personnel 
+2
+Code of conduct, Data Privacy & GDPR, Intellectual 
+Property, Company’s code on prohibition of insider 
+trading 
+SEBI 
+(Prohibition 
+of 
+Insider 
+Trading) 
+Regulations, 2015.
+100%
+Employees other than BoD and 
+KMPs 
+6
+Company’s code on prohibition of insider trading 
+SEBI (Prohibition of Insider Trading) Regulations, 
+2015, Code of Conduct, The Sexual Harassment of 
+Women at Workplace (Prevention, Prohibition and 
+Redressal) Act, 2013, Data privacy / GDPR.
+100%
+Workers 
+Company does not employ any Worker as defined under Sec 2(zr) of the Industrial 
+Relations Code, 2020.
+9
+2.	
+Details of fines/ penalties/ punishment/ award/ compounding fees/ settlement amount paid in 
+proceedings (by the entity or by directors/ KMPs) with regulators/ law enforcement agencies/ judicial 
+institutions, in the financial year, in the following format:
+Monetary
+NGRBC Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount  
+(In INR)
+Brief of the 
+Case
+Has an appeal been 
+preferred?(Yes/No)
+Penalty/ Fine 
+None
+Seattlement
+None
+Compounding Fee
+None
+Non-Monetary
+NGRBC Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Brief of the Case
+Has an appeal been 
+preferred?(Yes/No)
+Imprisonment
+None
+Punishment
+None
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where 
+monetary or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+Not Applicable
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if 
+available, provide a web-link to the policy.   
+	
+At Route Mobile Limited, we have instituted a stringent anti-bribery and anti-corruption policy, underlining 
+our commitment to upholding the highest standards of professional conduct, fairness, and integrity in all 
+our business interactions and relationships across the globe. We operate under a policy of zero tolerance 
+towards any form of bribery or corruption, whether direct or indirect. This applies universally to all individuals 
+associated with our Company, including employees of all levels, consultants, contractors, volunteers, interns, 
+agents, sponsors, and anyone else connected with Route Mobile Limited or its subsidiaries.
+	
+Our policy explicitly prohibits our associates, consultants, advisors, and employees from engaging in any form 
+of bribery, including potential bribery, whether directly or through third-party conduits. If any member of our 
+team suspects or becomes privy to possible instances of bribery involving the Company, they are obligated to 
+report their suspicions to the Company's Audit Committee, adhering to the established reporting procedure.
+	
+Furthermore, our policy explicitly forbids the making or accepting of facilitation payments or 'kickbacks'. 
+Facilitation payments refer to small, unofficial payments made to secure or expedite a routine governmental 
+action, while 'kickbacks' are payments made in exchange for a business favour or advantage. The Company’s 
+Audit Committee oversees the review of any internal investigations into suspicions of fraud, irregularities, or 
+significant failures of internal control systems and reports such matters to the Board.
+	
+For more details, please refer our anti-bribery and anti-corruption policy, which is available at https://routemobile.
+com/wp-content/uploads/2023/02/Anti-Fraud-Anti-Bribery-Anti-Corruption-Policy.pdf
+5.	
+Number of Directors/ KMPs/ employees/ workers against whom disciplinary action was taken by any 
+law enforcement agency for the charges of bribery/ corruption:  
+FY 2022-23
+FY 2021-22
+Directors
+None
+KMPs
+Employees
+Workers
+10
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+6.	
+Details of complaints with regard to conflict of interest: 
+FY 2022-23
+FY 2021-22
+Number of complaints received in relation to issues of 
+Conflict of Interest of the Directors 
+None
+Number of complaints received in relation to issues of 
+Conflict of Interest of the KMPs 
+7.	
+Provide details of any corrective action taken or underway on issues related to fines/ penalties/ action 
+taken by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and 
+conflicts of interest.
+	
+Not applicable
+Leadership Indicators
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the 
+financial year:
+Total number of awareness 
+programmes held
+Topics / principles covered under 
+the training
+Percentage of value chain partners covered (by value of 
+business done with such partners) under the awareness 
+programmes
+Our Value Chain partners include heavily regulated telecom operators and Tier 1 Messaging Service Providers, all of whom 
+follow international best practices with respect to data security and regulatory compliance. We mutually agree to abide by 
+each other’s Codes of Conduct and Information Security policies as a standard practice.
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of 
+the Board? (Yes/No) If Yes, provide details of the same.
+	
+Yes.
+	
+Our company has a robust system in place to manage and avoid conflicts of interest involving members of 
+the Board.
+	
+Firstly, we have adopted a comprehensive "Code of Conduct for Directors and Senior Management," which 
+clearly outlines the expected ethical behaviour and provides guidance on potential conflict of interest situations. 
+This Code of Conduct is readily accessible and can be reviewed at https://routemobile.com/wp-content/
+uploads/2021/11/Code-of-Business-Conduct-and-Work-Ethics-Policy.pdf
+	
+In our commitment to transparency, Board members are required to disclose any entities or arrangements 
+in which they have a vested interest. This information is then made known to the Board to ensure everyone is 
+aware of potential conflicts. Furthermore, we receive an annual declaration, which can be updated as necessary, 
+from our Board members and Key Management Personnel (KMP) outlining any entities they have interest in.
+	
+Prior to engaging in any transactions with such entities or individuals, we ensure that requisite approvals are in 
+place as per statutory requirements and the company's own policies. This ensures that any potential conflicts 
+of interest are handled appropriately and transparently.
+	
+All related party transactions were conducted under the careful scrutiny of the Audit Committee, ensuring that 
+they were carried out at arm's length and in the ordinary course of business. This serves as a testament to the 
+effectiveness of our conflict of interest management process.
+11
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and 
+safe
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made 
+by the entity, respectively.
+FY 2022-23
+FY 2021-22
+Details of improvements in environmental 
+and social impacts
+R&D
+None
+Capex
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+Yes.
+	
+	
+Our organisation is strongly committed to sustainable sourcing practices. The majority of our operational 
+inputs are locally procured, which not only reduces the time, cost and efforts associated with procurement 
+but also lessens the environmental impact of transportation. Furthermore, we insist that our suppliers 
+adhere to our comprehensive 'Supplier Code of Conduct', which covers crucial areas such as anti-bribery, 
+prohibition of child labour and anti-harassment measures.
+	
+	
+Additionally, a significant portion of our value chain partners comprise large telecommunications operators. 
+These partners adhere to stringent sustainability standards and maintain relevant certifications. This 
+partnership ensures that our sourcing practices align with sustainability principles and contribute positively 
+to our environmental and social footprint.
+	
+	
+However, it is important to note that while we prioritize sustainable sourcing, the exact percentage of 
+inputs sourced sustainably is currently not ascertainable due to the varied nature of our sourcing practices 
+and the complex metrics involved in sustainability assessments. We are continually working to enhance 
+our data collection and analysis capabilities in this area to provide more quantifiable measures of our 
+sustainability efforts.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing 
+at the end of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other 
+waste.
+	
+As an IT services company, our waste generation is not material as that of other industries. Nevertheless, we 
+remain committed to minimising our environmental impact and responsibly managing the waste generated 
+from our operations. In this context, here's how we address various types of waste:
+	
+a)	
+Plastics:
+	
+	
+We opt for minimal plastic usage, promote reusable items and properly dispose of plastic waste.
+	
+b)	
+E-waste:
+	
+	
+We established an e-waste collection system, partner with certified recycling facilities, encourage 
+refurbishment and reuse, and adhere to e-waste regulations.
+	
+c)	
+Hazardous waste:
+	
+	
+We properly dispose of hazardous waste such as batteries and printer cartridges, and train employees on 
+proper handling.
+12
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+	
+d)	
+Other waste:
+	
+	
+We implemented paperless initiatives encourage recycling, and partner with local waste management 
+companies for proper disposal.
+	
+These measures reflect Route Mobile's commitment to environmental stewardship and responsible 
+waste management
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/ No). If yes, 
+whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted 
+to Pollution Control Boards? If not, provide steps taken to address the same.
+	
+Not Applicable. RML is in the service business; it does not have manufactured products.
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+	
+Not Applicable. RML is engaged in tech-enabled omnichannel communication space which does not have any 
+potential environmental impacts of a product or process or service.
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or 
+disposal of your products/ services, as identified in the Life Cycle Perspective/ Assessments (LCA) or 
+through any other means, briefly describe the same along-with action taken to mitigate the same.
+	
+Not Applicable.
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for 
+manufacturing industry) or providing services (for service industry).
+Indicate input material
+Recycled or re-used input material to total material
+FY 2022-23 
+FY 2021-22 
+Not Applicable. RML is engaged in tech-enabled omnichannel communication space and do not have any spend on 
+recycled or reused input material.
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, 
+recycled, and safely disposed, as per the following format:  
+	
+Not Applicable. RML is in the technology enable communication service business and we don’t manufacture 
+any products.
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product 
+category.
+Indicate product category
+Reclaimed products and their packaging materials as % of total products 
+sold in respective category
+Not Applicable. RML is in the technology enable communication service business and we don’t manufacture any products.
+13
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including 
+those in their value chains
+Essential Indicators
+1.	
+a.	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total (A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care 
+facilities
+Number 
+(B)
+% (B /A) Number 
+(C)
+% (C /A) Number 
+(D)
+% (D /A) Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F /A)
+Permanent employees
+Male
+313
+313
+100
+NIL
+NIL
+NA
+NA
+313
+100
+NA
+NA
+Female
+91
+91
+100
+NIL
+NIL
+91
+100
+NA
+NA
+NIL
+NIL
+Total
+404
+404
+100
+NIL
+NIL
+91
+22.52
+313
+77.48
+NIL
+NIL
+Other than Permanent employees
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Total
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+	
+b.	
+Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total (A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care 
+facilities
+Number 
+(B)
+% (B /A) Number 
+(C)
+% (C /A) Number 
+(D)
+% (D /A) Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F /A)
+Permanent workers
+Male
+Company does not employ any Worker as defined under Sec 2(zr) of the Industrial Relations 
+Code, 2020.
+Female
+Total
+Other than Permanent workers
+Male
+Company does not employ any Worker as defined under Sec 2(zr) of the Industrial Relations 
+Code, 2020.
+Female
+Total
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year:
+Benefits
+FY 2022-23
+FY 2021-22
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted & 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted & 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+61
+NA
+Yes
+55
+NA
+Yes
+Gratuity
+100
+NA
+100
+NA
+ESI
+100
+Yes
+100
+Yes
+Others – please specify
+NA
+NA
+NA
+NA
+*Employees whose wages fall under the purview/ as per the threshold limit of ESIC are covered under the act.
+14
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+3.	
+Accessibility of workplaces: Are the premises / offices of the entity accessible to differently abled 
+employees and workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? 
+If not, whether any steps are being taken by the entity in this regard.
+	
+Our offices are accessible with ramps at applicable locations. At large office locations like Mumbai and 
+Bangalore; washrooms are enabled for wheel chair access, apart from accessible walkways and common areas.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? 
+If so, provide a web-link to the policy:
+	
+RML is an equal opportunity employer policy and the policy statement finds place in our employee Code of 
+Business Conduct and Work Ethics Policy. Our equal opportunity policy is part of the Code of Business Conduct 
+and Work Ethics Policy.
+	
+The policy can be accessed at https://routemobile.com/wp-content/uploads/2021/11/Code-of-Business-
+Conduct-and-Work-Ethics-Policy.pdf
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave:
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+8
+100%
+Company does not employ any worker 
+as defined under sec 2(zr) of the 
+Industrial Relations Code, 2020
+Female
+3
+100%
+Total
+11
+100%
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees 
+and worker? If yes, give details of the mechanism in brief:
+Yes/ No
+(If Yes, then give details of the mechanism in brief)
+Permanent Workers
+Company does not employ any workers as defined under sec 2(zr) of the 
+Industrial Relations Code, 2020
+Other than Permanent Workers
+Permanent Employees
+Yes; at Route Mobile Limited, we have established a comprehensive 
+mechanism to receive and address grievances from our employees. Our 
+grievance redressal mechanism works in accordance with the Company’s 
+Code of Business Conduct and Work Ethics Policy. Employees are encouraged 
+to communicate their concerns or issues to their immediate supervisor or 
+the Head-HR.
+In addition, to address incidents of sexual harassment, we have implemented 
+the POSH (Prevention of Sexual Harassment) Policy. Any employee who 
+experiences such an incident can reach out to the Internal Complaints 
+Committee (ICC) for redressal.
+Other than Permanent Employees
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+	
+At RML, we firmly acknowledge and respect every employee's right to freedom of association, as prescribed by 
+prevailing legal standards. Nonetheless, it is pertinent to note that there are currently no officially recognised 
+employee associations or unions within our organisation. To our knowledge, our dedicated team members have 
+yet to form any unions. We remain committed to fostering an open and inclusive work environment, wherein 
+any potential need for such associations can be addressed directly through our existing communication 
+channels and policies.
+15
+8.	
+Details of training given to employees and workers:
+Category
+FY 2022-23
+FY 2021-22
+Total 
+(A)
+On Health 
+and safety 
+measures
+On Skill
+upgradation
+Total 
+(D)
+On Health 
+and safety 
+measures
+On Skill
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+313
+313
+100
+142
+45.3
+324
+324
+100
+136
+41.9
+Female
+91
+91
+100
+61
+67
+76
+76
+100
+58
+76.3
+Total
+404
+404
+100
+203
+50
+400
+400
+100
+194
+48.5
+Workers
+Male
+Company does not employ any worker as defined under sec 2(zr) of the Industrial Relations 
+Code, 2020
+Female
+Total
+9.	
+Details of performance and career development reviews of employees and worker: 
+Category
+FY 2022-23
+FY 2021-22 
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees*
+Male
+187
+187
+100%
+212
+212
+100%
+Female
+49
+49
+100%
+62
+62
+100%
+Total
+236
+236
+100%
+274
+274
+100%
+Workers
+Male
+Company does not employ any worker as defined under sec 2(zr) of the Industrial Relations 
+Code, 2020
+Female
+Total
+*100% of eligible employees have received performance and career development reviews
+10.	 Health and safety management system:
+(a)
+Whether an occupational health and 
+safety management system has been 
+implemented by the entity? (Yes/ No). If 
+yes, the coverage of such system?
+We are a tech-enabled service company and therefore occupational 
+health and safety management concerns are not applicable to 
+us in the traditional ways as that would be applicable to a plant or 
+factory. There are no prevalent laws which are speciﬁcally applicable 
+to us with regard to occupational health and safety. As RML is a 
+telecommunication technology enabled communication service 
+provider, there are no product risks but there are those related to the 
+provision of services like ergonomics in work as well as those associated 
+with the operation of utilities and employee commute. Safety is a core 
+value at Route Mobile Limited. We operate in a manner that helps 
+protect our employees, contractors, customers and the communities 
+where we operate.
+(b)
+What are the processes used to identify 
+work-related hazards and assess risks on 
+a routine and non- routine basis by the 
+entity?
+(c)
+Whether you have processes for workers 
+to report the work-related hazards and to 
+remove themselves from such risks. (Y/N)
+(d)
+Do the employees/ worker of the entity 
+have access to non- occupational medical 
+and healthcare services? (Yes/ No)
+Yes. Health Insurance is provided by the Company.
+16
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+11.	 Details of safety related incidents, in the following format: 
+	
+There was no safety related incidents during the current and the previous financial year.
+Safety Incident/Number
+Category
+FY 2022-23
+FY2021-22
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person 
+hours worked)
+Employees
+None
+Workers
+Total recordable work-related injuries
+Employees
+Workers
+No. of fatalities
+Employees
+Workers
+High consequence work-related injury or ill-health (excluding 
+fatalities)
+Employees
+Workers
+12.	 Describe the measures taken by the entity to ensure a safe and healthy work place:
+	
+At Route Mobile, safety is an essential principle that guides our operations. We prioritize the well-being of 
+our employees, contractors, customers, and the communities we serve by identifying potential risks and 
+implementing preventive measures to avoid incidents. Furthermore, we educate our staff and contractors on 
+the importance of avoiding unsafe behaviours to maintain a safety-first mindset. Our ultimate objective is to 
+achieve a workplace with zero injuries or illnesses, which is why we regularly conduct fire evacuation drills to 
+ensure our readiness in case of emergencies.
+13.	 Number of Complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Working Conditions
+None
+Health & Safety
+14.	 Assessments for the year
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties) 
+Health and safety practices
+As a company operating primarily from leased facilities, the responsibility 
+for health and safety audits and adherence to relevant safety standards is 
+on building management, as per the applicable laws.
+Working Conditions
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) 
+and on significant risks / concerns arising from assessments of health & safety practices and working 
+conditions. 
+	
+There was no safety related incidents during the current and the previous financial year.
+Leadership Indicators 
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) 
+Employees (Y/N) (B) Workers (Y/N)?
+(A) Employees (Y/N)
+No. However, we offer retirement provisions (Provident funds, gratuity), 
+parental leave, ESOP, and industry benchmarked maternity benefits.
+(B) Workers (Y/N).
+Not applicable as RML does not have any workers.
+17
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and 
+deposited by the value chain partners. 
+	
+Given that our value chain partners are largely large-scale entities, we understand that they have established 
+systems and processes in place to comply with statutory obligations, including the deduction and deposition 
+of statutory dues. We also have a compliance clause in contracts with our partners requiring adherence to all 
+statutory requirements, including the deduction and deposit of statutory dues. 
+3.	
+Provide the number of employees / workers having suffered high consequence work-related injury / 
+ill-health / fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and 
+placed in suitable employment or whose family members have been placed in suitable employment:
+ 
+Total no. of affected employees/ workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose family 
+members have been placed in suitable employment
+FY 2022-23
+FY 2021-22
+FY 2022-23
+FY 2021-22
+Employees  
+None
+Workers  
+4.	
+Does the entity provide transition assistance programmes to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment?
+	
+No.
+	
+At the present time, we do not offer specific transition assistance programmes to facilitate continued 
+employability and the management of career endings resulting from retirement or termination of employment. 
+	
+Despite the absence of formal programmes, we strive to treat all employees with respect and dignity during 
+times of transition. All decisions related to employment, including termination, are made in accordance with 
+local labour laws and regulations, and we ensure clear communication and transparency during these processes.
+	
+We also encourage employees to take advantage of the resources and benefits available to them, such as access 
+to their retirement savings plans and any accrued vacation time. For those facing termination of employment, 
+we ensure they are aware of their rights and any severance pay they are entitled to.
+	
+We believe in supporting our employees in all stages of their career journey, and we are committed to enhancing 
+our practices in this area in the future.
+5.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were assessed
+Health and safety practices  
+NIL
+Working Conditions 
+NIL
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising 
+from assessments of health and safety practices and working conditions of value chain partners.
+	
+None
+18
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity. 
+	
+Please refer the section on “Stakeholder Engagement & Materiality Deﬁnition” of our Sustainability Report of 
+FY 2022-23.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group.
+Stakeholder Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalised 
+Group(Yes/
+No)
+Channels of 
+communication 
+[Email, SMS, 
+Newspaper, Pamphlets, 
+Advertisement, 
+Community Meetings, 
+Notice Board, Website, 
+others]
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/Quarterly 
+/ others – please 
+specify)
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during such engagement
+Customers
+No
+Email, SMS, conferences, 
+direct 
+interactions, 
+website.
+As 
+and 
+when 
+required
+Investments and capabilities in 
+digital technologies; quality of 
+work; data privacy and security; 
+ethical 
+behaviour; 
+customer 
+growth 
+and 
+transformation 
+opportunities, 
+fair 
+business 
+practices.
+Shareholders
+No
+Email, 
+Newspaper, 
+Media 
+Interviews 
+Website, stock exchange 
+websites
+Annually/ 
+Half 
+yearly/ Quarterly 
+and as and when 
+required
+Financials, 
+revenue 
+analysis; 
+corporate 
+governance; 
+transparency and disclosure.
+Suppliers & Vendors
+No
+Email, 
+SMS, 
+Website, 
+and direct interactions
+As 
+and 
+when 
+required
+Quality, credit lines, service and 
+support.
+Employees
+No
+Email, 
+town 
+hall 
+Meetings, Notice Board, 
+Website
+As 
+and 
+when 
+required
+Safe and comfortable workplace; 
+diversity; engaging assignments; 
+learning 
+opportunities; 
+career 
+development; 
+compensation 
+structure; rewards & promotions.
+Regulators 
+and 
+Government Authorities
+No
+Email, 
+Phone 
+Calls, 
+Postal Mail
+Annually 
+and 
+As 
+and 
+when 
+required
+Changes 
+in 
+regulatory 
+environment, notices and queries 
+on specific issues and incidents, 
+notification for any incidents RML 
+is obligated to report
+Leadership Indicators
+1.	 Provide the processes for consultation between 
+stakeholders 
+and 
+the 
+Board 
+on 
+economic, 
+environmental, and social topics or if consultation is 
+delegated, how is feedback from such consultations 
+provided to the Board.
+The Company is committed to the welfare of marginalised and 
+vulnerable sections of the society. The Company engages with 
+its stakeholders on an on-going basis. The Company has also 
+identified specific areas like healthcare, sanitation and education 
+which help them to improve their standard of living and the 
+same is carried out through Company’s CSR initiatives. Our Route 
+Mobile Foundation has been specifically formed by the Company 
+to dedicate its CSR primarily in the area of education, sports and 
+healthcare for the underprivileged sections of the society. Our 
+management team at personal levels are regularly connected 
+with various NGOs and other agencies to which Company makes 
+contribution for its CSR and social welfare causes, and the team 
+regularly assesses, monitors the outcomes and utilisations.
+2.	 Whether stakeholder consultation is used to support 
+the identification and management of environmental, 
+and social topics (Yes / No). If so, provide details 
+of instances as to how the inputs received from 
+stakeholders on these topics were incorporated into 
+policies and activities of the entity.
+3.	 Provide details of instances of engagement with, and 
+actions taken to, address the concerns of vulnerable/ 
+marginalised stakeholder groups.
+19
+PRINCIPLE 5: Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the 
+entity, in the following format:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. of 
+employees/
+workers 
+covered (B)
+% (B/A)
+Total (C)
+No. of 
+Employees/ 
+workers 
+covered (D)
+% (D / C)
+Employees
+Permanent
+404
+404
+100
+400
+400
+100
+Other than Permanent
+6
+6
+100
+7
+7
+100
+Total Employees
+410
+410
+100
+407
+407
+100
+Workers
+Permanent
+Company does not employ any workers as defined under sec 2(zr) of the Industrial 
+Relations Code, 2020
+Other than Permanent
+Total Workers
+2.	
+Details of minimum wages paid to employees and workers, in the following format: 
+Category
+FY 2022-23
+FY 2021-22
+Total 
+(A)
+Equal to 
+Minimum 
+Wage
+More than 
+Minimum 
+Wage
+Total 
+(D)
+Equal to 
+Minimum 
+Wage
+More than 
+Minimum 
+Wage
+No.(B)
+% 
+(B/A)
+No.(C)
+% 
+(C/A)
+No.(E)
+% 
+(E/D)
+No.(F)
+% 
+(F/D)
+Employees
+Permanent
+Male
+313
+0
+0
+313
+100
+324
+0
+0
+324
+100
+Female
+91
+0
+0
+91
+100
+76
+0
+0
+76
+100
+Other than Permanent
+Male
+5
+5
+100
+6
+6
+100
+Female
+1
+1
+100
+1
+1
+100
+Workers
+Permanent
+Company does not employ any Worker as defined under Sec 2(zr) of the Industrial Relations 
+Code, 2020
+Male
+Female
+Other than Permanent
+Male
+Female
+	
+*All employees and contractors have been paid more than minimum wage in accordance with the law
+3.	
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD) 
+6*
+Refer to Annexure 3  
+of Board’s report.
+1
+Refer to Annexure 3  
+of Board’s report.
+Key Managerial Personnel 
+2
+57,14,450
+0
+NA
+Employees other than BoD and KMP 
+310
+6,50,000
+91
+5,04,000
+Workers 
+Not Applicable
+	
+* Includes the Managing Director and Group Chief Executive Officer who are part of the Key Managerial Personnel for RML
+20
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+4.	
+Do you have a Focal Point (Individual/ Committee) responsible for addressing human rights impacts or 
+issues caused or contributed to by the business?
+	
+The Human Resources team acts as the Focal Point to address the Human rights Issues within the organisation.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+At Route Mobile Limited, we have established a comprehensive mechanism to receive and address grievances 
+from our employees. Our grievance redressal mechanism works in accordance with the Company’s Code of 
+Business Conduct and Work Ethics Policy. Employees are encouraged to communicate their concerns or issues 
+to their immediate supervisors or the Head-HR.
+	
+In addition, to address incidents of sexual harassment, we have implemented the POSH (Prevention of Sexual 
+Harassment) Policy. Any employee who experiences such an incident can reach out to the Internal Complaints 
+Committee (ICC) for redressal.
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Sexual Harassment
+None
+Discrimination at workplace
+Child Labour
+Forced Labour/ Involuntary Labour
+Wages
+Other human rights related issues
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+The Company has a comprehensive framework in place to protect individuals who come forward with 
+complaints of discrimination or harassment, as reflected in our Whistle-blower and Prevention of Sexual 
+Harassment (POSH) policies.
+	
+Our Whistle-blower Policy encourages all employees to voice concerns regarding human rights violations, 
+improper conduct, or any unethical activities within the company. We assure our employees that any such 
+reports made in good faith will be treated with utmost confidentiality and respect. Importantly, we have a strict 
+non-retaliation clause embedded in this policy, which strictly prohibits any form of retaliatory action against 
+individuals who report such incidents. We have designated a Competent Authority to handle these complaints, 
+ensuring that they are addressed professionally and appropriately.
+	
+Similarly, our POSH policy is designed to prevent and address sexual harassment in the workplace. We are 
+committed to providing a safe and inclusive working environment for all our employees. If an employee or job 
+applicant chooses to exercise their right to make a complaint under this policy, we guarantee that they will be 
+protected from any form of retaliation. This is part of our commitment to fostering a respectful and dignified 
+work environment for all.
+	
+We regularly reinforce these policies and their protections during mandatory training sessions, ensuring that 
+every member of our team understands their rights and the company's commitment to uphold them. We also 
+continually review and update our policies in accordance with evolving laws and societal standards to make 
+sure we are providing the best possible protections for our employees.
+8.	
+Do human rights requirements form part of your business agreements and contracts?
+	
+Yes. Our commitment to upholding human rights extends not just to our own operations, but also to our 
+business relationships. As such, we have incorporated human rights requirements into our business agreements 
+and contracts.
+21
+	
+Our Supplier Code of Conduct, which forms a standard clause in all our contracts, explicitly outlines our human 
+rights expectations. Our major suppliers, including those providing IT support, staffing solutions, facility 
+management, and security services, are bound by this Code. This is especially significant for those suppliers 
+that employ individuals from more vulnerable demographics with lower literacy levels.
+	
+We make every effort to ensure our partners are well-informed about our Supplier Code of Conduct and 
+the human rights requirements it entails. We emphasise the importance of these standards not only in 
+initial contract negotiations but also in our ongoing business relationships. Our partners' adherence to these 
+standards is a key component of our decision-making when selecting and retaining suppliers.
+	
+Furthermore, we monitor compliance with these standards regularly and take necessary action in the event 
+of non-compliance. This diligent approach is part of our commitment to promote human rights across our 
+business ecosystem and to contribute positively to all communities we interact with.
+9.	
+Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities 
+or third parties)
+Child labour
+All our offices were assessed by our human resources team on the topics which 
+included child labour, forced labour, harassment, discrimination, work-life 
+balance, training and education and no complaints/ concerns was raised.
+Forced/involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others – please specify
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising 
+from the assessments at Question 9 above.
+	
+There was no significant risks/ concerns arising from the human rights assessments.
+Leadership Indicators
+1.	
+Details of a business process being modified/ introduced as a result of addressing human rights grievances/ 
+complaints.
+	
+At Route Mobile, we are committed to upholding and respecting human rights across all our operations.
+	
+This commitment extends beyond our immediate organisation to our sphere of influence, including vendors, 
+consulting firms, staffing agencies, and partners who are expected to adhere to the same high standards. To 
+ensure this, we regularly conduct employee training programmes focused on fostering an environment of 
+respect and sensitivity towards human rights.
+	
+Our Supplier Code of Conduct also sets forth the principles and standards we expect from our business 
+partners in areas such as business integrity, labour practices, anti-corruption, health and safety, environmental 
+sustainability, diversity and inclusion.
+2.	
+Details of the scope and coverage of any Human rights due-diligence conducted.
+	
+Our HR department is responsible for implementing principles of United Nations guiding principles on Human 
+rights. Further various trainings are conducted on the code of conduct of the Company by the HR team to 
+familiarise the employees about their rights. An annual confirmation is procured from the employees wherein 
+they are entitled to report any incident violating their human rights.
+	
+RML’s suppliers shall confirm compliance with the company’s supplier code of conduct by continuously 
+documenting compliance, providing information to RML on request, and allowing on-site audits by RML or 
+an external auditing company representing RML whenever requested.
+22
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+3.	
+Is the premise/ office of the entity accessible to differently abled visitors, as per the requirements of 
+the Rights of Persons with Disabilities Act, 2016? 
+	
+Our offices are accessible with ramps at applicable locations. At large office locations like Mumbai and Bangalore 
+washrooms are enabled for wheel chair access, apart from accessible walkways and common areas.
+4.	
+Details on assessment of value chain partners: 
+% of value chain partners (by value of business done with such partners) that  
+were assessed
+Sexual Harassment 
+At Route Mobile, our value chain primarily consists of large telecom partners who 
+are recognised for their robust policy frameworks that uphold ethical corporate 
+behaviour in accordance with international benchmark practices. This ensures 
+that the vast majority of our value chain is governed by stringent ethical standards, 
+reflecting our own commitment to corporate responsibility and integrity.
+Our Supplier Code of Conduct is a crucial component of our contractual relationships, 
+underpinning our interactions with all our partners, suppliers, and vendors. It's not 
+just a document; it's a commitment that forms a standard clause in all our contracts, 
+reinforcing our collective responsibility to uphold ethical practices.
+While we trust in our partners' established policy architecture, we also believe in 
+proactive measures to ensure compliance. Therefore, we are taking steps towards 
+assessing the adherence of our value chain partners to our Supplier Code of Conduct, 
+thus further ensuring that our commitment to ethical practices is consistently 
+upheld across our entire value chain.
+Discrimination at workplace 
+Child Labour 
+Forced Labour/Involuntary Labour 
+Wages 
+Others – please specify 
+5.	
+Provide details of any corrective actions taken or underway to address significant risks/ concerns arising 
+from the assessments at Question 4 above.
+	
+Based on current year assessment, no gaps have been identified necessitating corrective actions except for 
+disclosure made by any supply chain entity in their respective annual reports.
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.	
+Details of total energy consumption (in joules or multiples) and energy intensity, in the following format: 
+Parameter
+FY 2022-23
+FY 2021-22
+Total electricity consumption (A) 
+ 2,88,726.4
+22,50,704
+Total fuel consumption (B) 
+Nil
+Nil
+Energy consumption through other sources (C) 
+Nil
+Nil
+Total energy consumption (A+B+C) 
+ 2,88,726.4
+22,50,704
+Energy intensity per rupee of turnover (Total energy consumption/ turnover in rupees) 
+0.4 x 10^-8 tCo2/
+FTE/annum 
+(Financial)
+1.11*10-4
+Energy intensity (optional) – the relevant metric may be selected by the entity 
+N.A.
+N.A.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency.
+	
+Yes, Independent assessment of GHG emissions has been carried out by Paul Shantanu Engineering Pvt. Ltd. 
+(Rated by Crisil and Care, Certified by BEE and an ISO 50001 accredited Company) for the F.Y. 2022–23.
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under 
+the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action 
+taken, if any. 
+	
+Not applicable since RML’s operations do not relate to the designated consumers specified under the PAT 
+scheme of the Government of India.
+23
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres) 
+(i) Surface water 
+NIL
+NIL
+(ii) Groundwater 
+4,868 KL
+4,870 KL
+(iii) Third party water 
+97 KL
+58 KL
+(iv) Seawater / desalinated water 
+NIL
+NIL
+(v) Others  
+NIL
+1,425 KL
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v) 
+4,965
+6,353 KL
+Total volume of water consumption (in kilolitres)  
+4,965
+6,353 KL
+Water intensity per rupee of turnover (Water consumed / turnover) 
+1.376 x 10^-7
+2.8*10^-3
+Water intensity (optional) – the relevant metric may be selected by the entity 
+NA
+ NA
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency.
+	
+Yes, Independent assessment has been carried out by Paul Shantanu Engineering Pvt. Ltd. (Rated by Crisil and 
+Care, Certified by BEE and an ISO 50001 accredited Company) for the F.Y. 2022–23.
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage 
+and implementation.
+	
+We operate from leased offices (with limited space or lesser operational control) and building management 
+controls and operates Liquid Discharge, and its generally discharged into municipal sewers. We do not operate 
+from any plant/ factory and hence Zero Liquid Discharge is not relevant to our operations.
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify 
+unit
+FY 2022-23
+FY 2021-22
+NOx
+Not Applicable
+NIL
+SOx
+Particulate matter(PM)
+Persistent organic pollutants (POP)
+Volatile organic compounds (VOC)
+Hazardous air pollutants (HAP)
+Others – please specify
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency.
+	
+Yes, Independent assessment has been carried out by Paul Shantanu Engineering Pvt. Ltd. (Rated by Crisil and 
+Care, Certified by BEE and an ISO 50001 accredited Company) for the F.Y. 2022–23.
+24
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format: 
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available) 
+Metric tonnes of 
+CO2 equivalent 
+Nil
+Nil
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available) 
+Metric tonnes of 
+CO2 equivalent 
+144.36 tCO2e
+2138 (Based on 
+KWHconsumed 
+electrically)
+Total Scope 1 and Scope 2 emissions per rupee of turnover 
+ 
+ 0.4 x 10^-8 tCo2/
+FTE/annum 
+(Financial)
+1.05*10^-7
+Total Scope 1 and Scope 2 emission intensity (optional) – the 
+relevant metric may be selected by the entity 
+ 
+NA
+NA
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency.
+	
+Yes, Independent assessment has been carried out by Paul Shantanu Engineering Pvt. Ltd. (Rated by Crisil and 
+Care, Certified by BEE and an ISO 50001 accredited Company) for the F.Y. 2022–23.
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide 
+details.
+	
+No
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+ 0.02425 metric tons
+0.11
+E-waste (B)
+NIL
+Bio-medical waste (C)
+Construction and demolition waste (D)
+Battery waste (E)
+Radioactive waste (F)
+Other Hazardous waste. Please specify, if any. (G)
+Other Non-hazardous waste generated (H). Please specify, if any.
+Total (A+B + C + D + E + F + G + H)
+ 0.02425 metric 
+tons
+0.11
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in metric tonnes)
+Category of waste
+(i)	 Recycled
+NIL
+(ii)	 Re-used
+(iii)	Other recovery operations
+Total
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+NIL
+(i)	 Incineration
+(ii)	 Landfilling
+(iii)	Other disposal operations
+Total
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency.
+	
+Yes, Independent assessment has been carried out by Paul Shantanu Engineering Pvt. Ltd. (Rated by Crisil and 
+Care, Certified by BEE and an ISO 50001 accredited Company) for the F.Y. 2022–23.
+25
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy 
+adopted by your company to reduce usage of hazardous and toxic chemicals in your products and 
+processes and the practices adopted to manage such wastes.
+	
+Not Applicable. We do not manufacture any products.
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) 
+where environmental approvals / clearances are required, please specify details in the following format:
+	
+We do not have office/ operations in/ around ecologically sensitive areas
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable 
+laws, in the current financial year:
+	
+We are a cloud based omni-channel communication platform provider; in terms of nature of our operations, 
+EIA Notification S.O. 1533(E)/2006 environmental impact assessment is not applicable to us.
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the 
+Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment 
+protection act and rules thereunder (Y/N). If not, provide details of all such non-compliances, in 
+the following format: 
+	
+Not Applicable
+Leadership Indicators
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-
+renewable sources, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+From renewable sources 
+NIL
+Total electricity consumption (A) 
+Total fuel consumption (B) 
+Energy consumption through other sources (C) 
+Total energy consumed from renewable sources (A+B+C) 
+From non-renewable sources 
+Total electricity consumption (D) 
+2,88,726.4
+2,25,0704
+Total fuel consumption (E) 
+NIL
+NIL
+Energy consumption through other sources (F) 
+NIL
+NIL
+Total energy consumed from non-renewable sources (D+E+F) 
+2,88,726.4
+22,50,704 
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency.
+	
+Yes, Independent assessment has been carried out by Paul Shantanu Engineering Pvt. Ltd. (Rated by Crisil and 
+Care, Certified by BEE and an ISO 50001 accredited Company) for the F.Y. 2022-23.
+26
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+2.	
+Provide the following details related to water discharged:
+Parameter
+FY 2022-23
+FY 2021-22
+Water discharge by destination and level of treatment (in kilolitres) 
+(i)	 To Surface water
+	
+-	
+No treatment
+	
+-	
+With treatment – specify level of treatment
+NIL
+NIL
+(ii)	 To Groundwater
+	
+-	
+No treatment
+	
+-	
+With treatment – specify level of treatment
+NIL
+NIL
+(iii)	To Seawater
+	
+-	
+No treatment
+	
+-	
+With treatment – specify level of treatment
+NIL
+NIL
+(iv)	Sent to third-parties
+	
+-	
+No treatment
+	
+-	
+With treatment – specify level of treatment
+NIL
+NIL
+(v)	 Others
+	
+-	
+No treatment
+4,965
+6,295
+	
+-	
+With treatment – specify level of treatment
+Total water discharged (in kilolitres)  
+4,965
+6,295
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency.
+	
+Yes, Independent assessment has been carried out by Paul Shantanu Engineering Pvt. Ltd. (Rated by Crisil and 
+Care, Certified by BEE and an ISO 50001 accredited Company) for the F.Y. 2022-23.
+	
+Note: With regards to drinking water, packaged water is provided to our employees. Our only use of water is 
+with regard to drinking and hygiene water requirements for our employees in Office, which is primarily supplied 
+by municipal authorities. There is no ground water withdrawal for any part of our operations. As our operations 
+do not involve water, there is no Effluent discharge and hence no applicability for treatment of discharge.
+3.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres): 
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area: During the reporting period, we did not have any facility/ plant operations in any water 
+stressed areas ('WSA') in terms of Atal Bhujal Yojana ('ABY'). ABY is a groundwater management scheme 
+(Central Sector Scheme, for sustainable /management of ground water resources with community 
+participation) in India under Ministry of Jal Shakti, Govt. of India.
+	
+(ii)	
+Nature of operations: Omni-Channel cloud communication, CPaaS, CxPaaS.
+	
+(iii)	 Water withdrawal, consumption and discharge in the following format: Our only use of water is with regard 
+to drinking water requirements for our employees in Office, which is primarily supplied by municipal 
+authorities. There is no ground water withdrawal for any part of our operations. As our operations do not 
+involve water, there is no Effluent discharge.
+27
+4.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 3 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+693.39 tCO2e
+2253 tCO2e
+Total Scope 3 emissions per rupee of turnover
+1.92 x 10^-8 tCo2/
+FTE/annum 
+(Financial)
+1.12*10^-7
+Total Scope 3 emission intensity (optional) – the relevant metric 
+may be selected by the entity
+NA
+NA
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency.
+	
+Yes, Independent assessment has been carried out by Paul Shantanu Engineering Pvt. Ltd. (Rated by Crisil and 
+Care, Certified by BEE and an ISO 50001 accredited Company) for the F.Y. 2022-23.
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, 
+provide details of significant direct & indirect impact of the entity on biodiversity in such areas along-with 
+prevention and remediation activities.
+	
+Not applicable as we do not have operations/offices in/around ecologically sensitive areas.
+6.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve 
+resource efficiency, or reduce impact due to emissions/ effluent discharge/ waste generated, please 
+provide details of the same as well as outcome of such initiatives, as per the following format:
+	
+At RML, major emissions arise from purchased electricity, work commute and business travels. We continuously 
+innovated and improved our data centre energy efﬁciency through initiatives like data centre/ server room 
+consolidation, rack cooling solutions, air-ﬂow management, UPS load optimisation through modular UPS 
+solutions and centralised monitoring. Our operations do not generate any waste except nominal obsolete IT 
+hardware waste, which are disposed of in a legally compliant manner, ensuring that it does not potentially 
+cause harm to humans, animals and environment. We ensure that e-waste disposal in landfills are not allowed 
+as part of our commitment to clean environment.
+7.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ 
+web link.
+	
+RML has a robust Business Continuity and Disaster Recovery Plan (BCP/DR), which is tested annually. The plan 
+ensures there is no disruption due to any external factors or failures in any of the company’s infrastructure or 
+systems. Through a combination of built-in redundancies, remote work setup and controls, and geographically 
+distributed work force, the company has maintained 100% operational efficiency throughout the pandemic. 
+Our information security management system is certified by KVQA Certification Services Private Limited as 
+ISO/IEC 27001:2013 compliant. We have also achieved the Capability Maturity Model Integration (CMMI) Level 
+5 Certification through GAAFS and QCAS Certifications Inc.
+8.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. 
+What mitigation or adaptation measures have been taken by the entity in this regard?
+	
+No incidence of any significant adverse impact to the environment, arising from the value chain of the entity 
+was reported during the year.
+9.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed 
+for environmental impacts.
+	
+None though our value chain partners are large telecom partners who have a robust disclosure practice with 
+respect to environmental impact assessments and they continue to set industry benchmarks to minimise 
+environmental impact assessments caused from emissions etc.
+28
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, should do 
+so in a manner that is responsible and transparent
+Essential Indicators
+1.	
+a.	
+Number of affiliations with trade and industry chambers/ associations.
+	
+b.	
+List the top 10 trade and industry chambers/ associations (determined based on the total members 
+of such body) the entity is a member of/ affiliated to.
+S. No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ associations 
+1
+Groupe Speciale Mobile Association
+Global
+2
+Mobile Ecosystem Forum
+Global
+3
+Internet and Mobile Association of India
+National
+MEF
+Member of MEF
+GSMA
+Associate Member RCS 
+Business Message
+IAMAI
+Internet and Mobile  
+Association of India
+2.	
+Provide details of corrective action taken or underway on any issues related to anticompetitive conduct 
+by the entity, based on adverse orders from regulatory authorities.
+	
+No adverse order was received by the Company from regulatory authorities during the financial year 2022-
+2023 hence no corrective action was required to be taken.
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity:
+	
+For the time being, Company’s public advocacy is through participation in various industry forums where we 
+express our opinions on various relevant topics. Details of our participation on various public platforms and 
+industry body discussion forums are available on https://www.linkedin.com/company/routemobilelimited/
+posts/?feedView=al
+29
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable 
+laws, in the current financial year.
+	
+Social Impact Assessments (SIA) in terms of The Right to Fair Compensation and Transparency in Land 
+Acquisition, Rehabilitation and Resettlement Act, 2013 is not applicable to us.
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity, in the following format:
+	
+Not applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+Our 24x7 helpdesk, CSR Committee, Head of Operations and our Board at various levels monitor impacts of 
+our operations on the community, receive response/feedback and take improvement measures, if any required
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2022-23
+FY 2021-22
+Directly sourced from MSMEs/ small producers  
+We are a leading CPaaS/Omni channel communication 
+service provider and apart from our major suppliers which 
+are large telecom operators, all our otherwise, procurements, 
+viz. office stationery, equipment and consumables of similar 
+nature are from MSMEs/small producers for Mumbai district.
+Sourced directly from within the district and neighbouring 
+districts 
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact 
+Assessments (Reference: Question 1 of Essential Indicators above):
+	
+Social Impact Assessments (SIA) in terms of The Right to Fair Compensation and Transparency in Land 
+Acquisition, Rehabilitation and Resettlement Act, 2013 is not applicable to us.
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational 
+districts as identified by government bodies:
+	
+Our CSR efforts during the year was spread pan India basis and did not have any specific project in designated 
+aspirational districts.
+3.	
+(a)	 Do you have a preferential procurement policy where you give preference to purchase from 
+suppliers comprising marginalised/ vulnerable groups?
+	
+	
+No. Our major suppliers, by very nature of our business are large telecom operators, though for other 
+office consumables, are generally sourced from local small vendors and entities generally belonging to 
+MSME sectors.
+	
+(b)	 From which marginalised/ vulnerable groups do you procure?
+	
+	
+Not Applicable.
+	
+(c)	 What percentage of total procurement (by value) does it constitute?
+	
+	
+Not Applicable.
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your 
+entity (in the current financial year), based on traditional knowledge:
+	
+Not Applicable
+30
+ROUTE MOBILE | ANNUAL REPORT 2022-23
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property 
+related disputes wherein usage of traditional knowledge is involved.
+	
+None there was no instances of any adverse order in intellectual property related disputes wherein usage 
+of traditional knowledge is involved hence not provided
+6.	
+Details of beneficiaries of CSR Projects:
+	
+Not Applicable
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a responsible 
+manner
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+Our 24*7*365 Customer Support Desk works on a Ticketing System that receives and logs all inbound emails 
+from customers and allocates a Ticket ID to each email. These queries or complaints are classified according to 
+priority and category and responded to within the established Service Level Agreement (SLA). All customers 
+are provided a copy of the SLA with the escalation matrix which informs them whom to contact in case they 
+are unable to get a satisfactory resolution.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry 
+information about:
+	
+Not applicable considering the nature of RML’s business. RML is not a product company.
+3.	
+Number of consumer complaints in respect of the following:
+FY 2022-23
+Remarks
+FY 2021-22
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+the end of 
+year
+Received 
+during the 
+year
+Pending 
+resolution at 
+the end of 
+year
+Data privacy
+Nil
+None
+Nil
+None
+Advertising
+Cyber-security
+Delivery of essential services
+Restrictive Trade Practices
+Unfair Trade Practices
+Other
+4.	
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+Not applicable considering the nature of RML’s business 
+Forced recalls
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) 
+If available, provide a web-link of the policy.
+	
+Yes. https://routemobile.com/investors/
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and 
+delivery of essential services; cyber security and data privacy of customers; re-occurrence of instances 
+of product recalls; penalty/ action taken by regulatory authorities on safety of products/ services.
+	
+Not applicable
+31
+Leadership Indicators
+1.	
+Channels/ platforms where information on products and services of the entity can be accessed (provide 
+web link, if available).
+LinkedIn
+https://www.linkedin.com/company/routemobilelimited/
+YouTube
+https://www.youtube.com/c/RouteMobileLimited/featured
+Web
+www.routemobile.com
+Twitter
+https://twitter.com/routemobile
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/ or services.
+	
+Our standard contractual terms of service mandate our customers to use mobile communication means in a 
+legally compliant manner.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/ discontinuation of essential services.
+	
+In the event there is a disruption in any services, the Incident Response Team will initiate a “Red Alert” procedure 
+that first sends a notification to all affected customers about the identified disruption. This initial notification is 
+followed up by further details if required and a follow up Root Cause Analysis is issued if the impact is significant.
+4.	
+Does the entity display product information on the product over and above what is mandated as per 
+local laws? (Yes/ No/ Not Applicable) If yes, provide details in brief. Did your entity carry out any survey 
+with regard to consumer satisfaction relating to the major products/ services of the entity, significant 
+locations of operation of the entity or the entity as a whole? (Yes/ No)
+	
+Not applicable as we are a CPaaS solutions company operating in B2B model. Our Company is regularly 
+featured in ROCCO Research’s surveys of mobile operators and enterprises ranked with respect to customer 
+satisfaction and technical capabilities. Additionally, our online Ticketing Tool secures continuous feedback from 
+all our customers.
+5.	
+Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches along-with impact
+	
+	
+None
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers
+	
+	
+0%
+32
+ROUTE MOBILE | ANNUAL REPORT 2022-23

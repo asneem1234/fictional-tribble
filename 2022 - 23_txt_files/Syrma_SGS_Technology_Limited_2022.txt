@@ -1,0 +1,2905 @@
+ 
+Date: August 16, 2023 
+ 
+To,  
+Listing Department 
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1, G Block, Bandra Kurla Complex, 
+Bandra (East), Mumbai - 400 051. 
+Symbol: SYRMA 
+ 
+Department of Corporate Service 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai - 400 001. 
+Scrip Code: 543573 
+ 
+Subject: Business Responsibility and Sustainability Report for the Financial Year 2022-23 
+___________________________________________________________________________________________________________________________ 
+ 
+Dear Sir/ Madam, 
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended, please find enclosed herewith the Business 
+Responsibility and Sustainability Report (BRSR) for Financial Year 2022-23. 
+ 
+Kindly note that the BRSR for the Financial Year 2022-23 also forms part of the Annual Report 2022-
+23 and has been submitted to the Stock Exchanges as part of the Annual Report. 
+ 
+You are requested to take the above information on record. 
+ 
+Thanking You. 
+ 
+Yours sincerely, 
+For Syrma SGS Technology Limited 
+ 
+ 
+ 
+ 
+Rahul Sinnarkar  
+Company Secretary & Compliance Officer  
+Membership No: A39709 
+ 
+Place: Gurgaon 
+ 
+ 
+Encl : as above 
+RAHUL 
+NITIN 
+SINNARKA
+R
+Digital Signer:RAHUL NITIN SINNARKAR
+DN:CN=RAHUL NITIN SINNARKAR, 
+E=RAHULSINNARKAR@YMAIL.COM, 
+Phone=81df714db6789cff9249b46bfaf541f74564
+64568825d6b9345ab952faa0effb2d, 
+OID.2.5.4.65=509995ef7ba4424291f5978417320
+935, 
+SERIALNUMBER=b9bcf8e135797b3768d2309c
+b346a72a6ea327e8189e800907c77f94bc27409e
+, O=Personal, L=THANE, S=MAHARASHTRA, 
+PostalCode=421202, C=IN
+Date:16-Aug-23 20:07:31 +05:30
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1
+Corporate Identity Number 
+(CIN) of the Listed Entity
+L30007MH2004PLC148165
+2
+Name of the Listed Entity
+Syrma SGS Technology Limited
+3
+Year of incorporation
+2004
+4
+Registered office address
+Unit No. 601, 6th Floor, Floral Deck Plaza, MIDC, Andheri (East), Mumbai, Maharashtra, 
+India - 400093
+5
+Corporate address
+Plot No B 27, Phase II, Zone B, MEPZ-SEZ, Tambaram, Chennai, Tamil Nadu, India - 
+600045
+6
+E-mail
+compliance@syrmasgs.com
+7
+Telephone
+(+91) 4471728600
+8
+Website
+https://syrmasgs.com/
+9
+Financial year for which reporting is being done
+Financial year for which 
+reporting is being done
+Start date
+End Date
+Current Financial Year
+1
+4
+2022
+31
+3
+2023
+Previous Financial Year
+1
+4
+2021
+31
+3
+2022
+Prior to Previous Financial year
+1
+4
+2020
+31
+3
+2021
+10
+Name of the Stock Exchange(s) 
+where shares are listed
+National Stock Exchange of India Limited (‘NSE’), BSE Limited (‘BSE’)
+11
+Paid-up Capital (In Rs)
+Rs. 176,77,78,420
+12
+Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on the 
+BRSR report
+Name
+Mr. Rahul Sinnarkar, Company Secretary and Compliance Officer (CS & CO)
+Contact
+compliance@syrmasgs.com
+E mail
+(+91) 1244628817
+13
+Reporting boundary - Are the 
+disclosures under this report 
+made on a standalone basis 
+(i.e. only for the entity) or on a 
+consolidated basis (i.e. for the 
+entity and all the entities which 
+form a part of its consolidated 
+financial statements, taken 
+together).
+Consolidated Basis
+Note
+II.	
+Products/services
+14	
+Details of business activities (accounting for 90% of the turnover) 
+S. 
+No.
+Description of Main 
+Activity
+Description of Business Activity
+% of Turnover of 
+the entity
+1
+Manufacturing
+Computer, electronic, Communication and scientific measuring & 
+control equipment
+100%
+Business Responsibility & Sustainability Reporting
+106
+Annual report 2022-23
+Syrma SGS Technology Limited
+Note 
+15	
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover)
+S. 
+No.
+Product/Service
+NIC Code
+% of total 
+Turnover 
+contributed
+1
+Manufacture of Printed Circuits Board Assembly (PCBA), loading of components 
+onto printed circuit boards; PCBA Box Builds
+26104
+75.00%
+2
+Manufacture of electronic capacitors, resistors, chokes, coils, transformers 
+(electronic) and similar components
+26101
+22.00%
+3
+Manufacture of other electronic components n.e.c
+26109
+2.36%
+Note
+III.	
+Operations
+16	 Number of locations where plants and/or operations/offices of the entity are situated
+Location
+Number of plants
+Number of offices
+Total
+National
+12
+5
+17
+International
+0
+2
+2
+Note
+National Plants - Tamil Nadu (4), Haryana (4), Himachal Pradesh (2), Karnataka (2),
+National Offices - Mumbai, Delhi, Bangalore, Chennai, Gurgaon
+International Offices - USA, Germany
+17	
+Markets served by the entity
+A	
+Number of locations
+Locations
+Number
+National (No. of States)
+28
+International (No. of Countries)
+24
+B	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+31% (*on Consolidated basis) 
+C	
+A brief on types of customers
+	
+Our company serves National and International B2B customers in the industrial, consumer electronics, healthcare, automotive, 
+computer, medical, and railways business segments.
+IV.	
+Employees
+18	
+Details as at the end of Financial Year
+A.	
+Employees and workers (including differently abled)
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+Other
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (H)
+% (H / A)
+EMPLOYEES
+1
+Permanent (D)
+895
+732
+82%
+163
+18%
+0
+0
+2
+Other than permanent (E)
+100
+86
+86%
+14
+14%
+0
+0
+3
+Total employees (D + E)
+995
+818
+82%
+177
+18%
+0
+0
+107
+Statutory Reports
+Business Responsibility & Sustainability Reporting
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+Other
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (H)
+% (H / A)
+WORKERS
+1
+Permanent (D)
+157
+90
+57%
+67
+43%
+0
+0%
+2
+Other than permanent (E)
+6964
+3317
+48%
+3647
+52%
+0
+0%
+3
+Total workers (D + E)
+7121
+3407
+48%
+3714
+52%
+0
+0%
+B.	
+Differently abled Employees and workers:
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+Other
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (H)
+% (H / A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+1
+1
+100%
+0
+0%
+0
+0%
+2
+Other than Permanent (E)
+0
+0
+0%
+0
+0%
+0
+0%
+3
+Total differently abled employees 
+(D + E)
+1
+1
+100%
+0
+0%
+0
+0%
+DIFFERENTLY ABLED WORKERS
+1
+Permanent (F)
+1
+0
+0%
+1
+100%
+0
+0%
+2
+Other than Permanent (G)
+0
+0
+0%
+0
+0%
+0
+0%
+3
+Total differently abled workers 
+(F + G)
+1
+0
+0%
+1
+100%
+0
+0%
+Note
+19	
+Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+10
+1
+10.00%
+Key Management Personnel
+3
+0
+0.00%
+20	
+Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+S. 
+No.
+Particulars
+Turnover rate in current  
+FY (2022-23)
+Turnover rate in previous  
+FY (2021-22)
+Turnover rate in previous  
+FY (2020-21)
+Male
+Female
+Other
+Total
+Male
+Female
+Other
+Total
+Male
+Female
+Other
+Total
+1
+Permanent (D)
+4.7
+2.75
+0
+1.55
+1.5
+1
+0
+1
+1.55
+1.65
+0
+1.2
+2
+Other than 
+Permanent (E)
+0.4
+0.25
+0
+0.4
+2.15
+0.5
+0
+2.9
+3.75
+0.95
+0
+3.25
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+21	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+S. 
+No.
+Name of the holding / subsidiary/associate 
+companies/joint ventures (A)
+Indicate whether 
+holding/
+Subsidiary/
+Associate/Joint 
+Venture
+% of shares held 
+by listed entity
+Does the entity 
+indicated at 
+column A, 
+participate in 
+the Business 
+Responsibility 
+initiatives of the 
+listed entity? (Yes/
+No)
+1
+SGS Tekniks Manufacturing Private Limited
+Subsidiary
+100
+Yes
+2
+Perfect ID India Private Limited
+Subsidiary
+100
+Yes
+3
+Syrma SGS Technology and Engineering Services 
+Limited
+Subsidiary
+100
+Yes
+108
+Annual report 2022-23
+Syrma SGS Technology Limited
+S. 
+No.
+Name of the holding / subsidiary/associate 
+companies/joint ventures (A)
+Indicate whether 
+holding/
+Subsidiary/
+Associate/Joint 
+Venture
+% of shares held 
+by listed entity
+Does the entity 
+indicated at 
+column A, 
+participate in 
+the Business 
+Responsibility 
+initiatives of the 
+listed entity? (Yes/
+No)
+4
+Syrma SGS Design and Manufacturing Private 
+Limited
+Subsidiary
+100
+Yes
+5
+Syrma SGS Electronics Private Limited
+Subsidiary
+100
+Yes
+6
+Syrma SGS Technology Inc. (USA)
+Foreign Subsidiary
+100
+Yes
+7
+SGS Infosystems Private Limited*
+Subsidiary
+99.68
+Yes
+8
+SGS Solutions GmBH*
+Foreign Subsidiary
+66
+Yes
+VI.	 CSR Details
+22	 CSR Details	
+(i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+Yes
+(ii)	 Turnover (in Rs.)
+10,197,200,000
+(iii)	 Net worth (in Rs.)
+5,720,500,000
+Note The above figures are on consolidated basis for FY22.
+VII.	 Transparency and Disclosures Compliances
+23	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct
+S. 
+No.
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal Mechanism in Place 
+(Yes/No)
+FY(23)
+FY(22)
+Number of 
+complaints 
+ﬁled during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Number of 
+complaints 
+ﬁled during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+1.
+Investors
+Yes
+Whistleblower Policy: https://syrmasgs.
+com/investors#corporate-governance/
+689
+0
+Company 
+got listed 
+on 26, 
+Aug, 
+2022.
+0
+0
+2.
+Employees 
+and Workers
+Yes
+Whistle Blower Policy: https://
+syrmasgs.com/investors#corporate-
+gover nance/
+0
+0
+0
+0
+3.
+Customers
+Yes
+Whistle Blower Policy: https://
+syrmasgs.com/investors#corporate-
+gover nance/
+0
+0
+0
+0
+4.
+Value Chain 
+Partners
+Yes
+Whistle Blower Policy: https://
+syrmasgs.com/investors#corporate-
+gover nance/
+0
+0
+0
+0
+109
+Statutory Reports
+Business Responsibility & Sustainability Reporting
+Note	 Nil
+24	
+Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format
+S. 
+No.
+Material issue 
+identiﬁed
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case 
+of risk, 
+approach 
+to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+1
+GHG Emissions
+Opportunity
+Carbon footprint assessment done for 
+Scope 1 & 2, initiatives for GHG reduction 
+in place.
+Initiatives such as sourcing Green 
+Energy, 
+Energy 
+Conservation 
+measures in place for reduction 
+of emission intensity.
+2
+E-Waste Management
+Opportunity
+E waste tracking and disposal to 
+authorized agencies in place.
+Waste management procedure in 
+place
+3
+Energy Management
+Opportunity
+Energy measurement & tracking in place 
+and is used for improving efficiency. 
+Energy Saving initiatives.
+4
+Civil Disturbances & 
+Social Unrest
+Risk
+Civil Disturbances & Social Unrest 
+protection in place
+HED policy in place
+5
+Raw Material Sourcing
+Risk
+Supply Chain constraints.
+Alternate Supplier Sources
+6
+Natural Disasters 
+Risk
+Emergency response procedures in 
+place.
+Emergency response & Business 
+continuity plan in place.
+110
+Annual report 2022-23
+Syrma SGS Technology Limited
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.	 a.	 Whether your entity’s policy/
+policies cover each principle and 
+its core elements of the NGRBCs. 
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+b.	 Has the policy been approved by 
+the Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+c.	 Web Link of the Policies, if available
+https://syrmasg s.com/investors #corporate-gov ernance/
+2.	 Whether the entity has translated the 
+policy into procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.	 Do the enlisted policies extend to your 
+value chain partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4.	 Name of the national and international 
+c o d e s /c e r t i f i c a t i o n s / l a b e l s / 
+standards (e.g. Forest Stewardship 
+Council, Fairtrade, Rainforest Alliance, 
+Trustea) standards (e.g. SA 8000, 
+OHSAS, ISO, BIS) adopted by your 
+entity and mapped to each principle.
+Syrma SGS conforms to the standards - i) ANSI/ESD S20.20, ii) IATF 16949, iii) ISO 
+9001, iv) ISO 14001, v) ISO 13485, vi) ISO 45001, vii) EN 9100, viii), ISMS 27000 / 
+27701, ix) ESD 20:20, x) IEC 61340-5-1
+5.	 Specific commitments, goals and 
+targets set by the entity with defined 
+timelines, if any.
+The company has recently got listed and is under process of tracking the required 
+goals and targets.
+6.	 Performance of the entity against 
+the specific commitments, goals and 
+targets along-with reasons in case the 
+same are not met.
+Governance, leadership and oversight
+7.	 Statement by director responsible 
+for the business responsibility report, 
+highlighting ESG related challenges, 
+targets and achievements (listed 
+entity has flexibility regarding the 
+placement of this disclosure)
+We place sustainability at the core of our business strategy, by employing a 
+holistic approach that integrates ESG (Environmental, Social and Governance) 
+programmes across all operational areas. Our commitment to corporate governance 
+excellence ensures regulatory compliance and fosters transparency and effective 
+communication. 
+While Syrma SGS  aim is to achieve  net zero on a long term, our short term ESG 
+Goals are as follows:
+ESG Targets
+Linked 
+to SDG
+Sign up for SBTi goal in the next 24 months, by FY 25
+12,17
+Reduce GHG emissions intensity by 25 % (5 %yoy) in the next 5 years 
+by FY28
+13
+Increase energy consumption from renewable sources to 50 % (10 % 
+yoy) by FY 28
+7
+Baselining of Scope 3 emissions by FY 24
+13
+Increase sustainable sourcing to 50 % by FY28 (10 % yoy)
+17
+Maintain diversity ratio (women employment) of > 50 %
+5,10
+Conduct product life cycle assessment for top 2 products by FY24
+12
+Conduct regular ESG training to cover 80 % of entire work force
+12
+8.	 Details of the highest authority 
+responsible 
+for 
+implementation 
+and 
+oversight 
+of 
+the 
+Business 
+Responsibility policy (ies).
+Managing Director  
+9. Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision making on 
+sustainability related issues? (Yes / No).
+Yes, headed by Managing Director
+111
+Statutory Reports
+Business Responsibility & Sustainability Reporting
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+If yes, provide details  .
+Mr Jasbir Singh Gujral, MD; Mr R. Nagaraj, President- OPS(North); Mr N.G. 
+Sreedharan, President – OPS (South); Mr P V N Rao, Chief Sustainability Officer; Mr 
+O K Mishra, GM – HED North; Mr E S Sathyanarayanan, VP- HED South; Mr Rahul 
+Sinnarkar, CS & Compliance Officer; Mr Sanjeev Kher, Head Strategic Supply Chain
+10. Details of Review of NGRBCs by the Company
+Subject for Review
+Indicate whether review was undertaken by Director/Committee of the Board/
+Any other Committee
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and 
+follow up action
+Company’s evolving framework on reporting related performances enables it to 
+take timely actions 
+Compliance with statutory requirements 
+of relevance to the principles and 
+rectification of any non-compliances
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Subject for Review
+Frequency (Annually / Half yearly /Quarterly/ Any other-please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and 
+follow up action
+Performance review and follow ups are done on routine basis or/and as per the 
+requirement on case-to-case basis. Usually, review is done every six months 
+internally. Company has been recently listed and this being fist year for BRSR 
+compliance, it aims to further strengthen the related process framework. 
+Compliance with statutory requirements 
+of relevance to the principles and 
+rectification of any non-compliances
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+11.	
+Has 
+the 
+entity 
+carried 
+out 
+independent 
+assessment/ 
+evaluation of the working of its 
+policies by an external agency?
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+	
+(Yes/No).
+No
+No
+Yes
+No
+No
+Yes
+No
+No
+No
+	
+If Yes, Provide name of the agency
+-
+-
+-
+-
+-
+-
+-
+-
+-
+12.	
+If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+The entity does not consider the 
+Principles material to its business (Yes/
+No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+The entity is not at a stage where it is in a 
+position to formulate and implement the 
+policies on specified principles (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+The entity does not have the financial or/
+human and technical resources available 
+for the task (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+It is planned to be done in the next 
+financial year (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Any other reason (please specify)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+112
+Annual report 2022-23
+Syrma SGS Technology Limited
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics/principles covered under 
+the training and its impact
+%age of persons in 
+respective category 
+covered by the awareness 
+programmes
+Board of Directors
+During the year, the Board of Directors, KPMs and 
+Management Team were actively engaged in various 
+programmes/trainings pertaining to business, regulatory, 
+ESG,  safety, etc.
+100%
+Key Managerial Personnel
+Employees other than BoD 
+and KMPs
+ 248
+ ISO 14001, 9001, 45001, IATF 
+16949, Waste Management, Road 
+Safety awareness, Quality Circles, 
+POSH, &QC Tools, APQP & PPAP, 
+Fire Fighting, First aid, Manpower 
+management, Managerial Skills, 
+Interpersonal Skills, Emerging 
+Leaders, Effective Leadership
+ 87.5%
+Workers
+ 1664
+ 88%
+Note
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the 
+following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI 
+(Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+Penalty/ Fine
+Nil
+Settlement
+Nil
+Compounding Fee
+Nil
+Non- Monetary
+Imprisonment
+Nil
+Punishment
+Nil
+Note
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-
+monetary action has been appealed: NIL
+Note
+4.	
+Does the entity have an anti-corruption or anti-bribery policy?
+	
+Yes
+	
+If yes, provide details in brief Provide a web-link to the policy, if available
+	
+https://www.syrmasgs.com/investor-relations/codes-and-policies/
+113
+Statutory Reports
+Business Responsibility & Sustainability Reporting
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+FY23
+FY22
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+6.	
+Details of complaints with regard to conflict of interest: NIL
+FY23
+FY22
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of 
+Conflict of Interest of the Directors
+0
+ None 
+0
+ None 
+Number of complaints received in relation to issues of 
+Conflict of Interest of the KMPs
+0
+ None 
+0
+ None 
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ 
+law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+None
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and 
+social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+FY23
+FY22
+Details of improvements in environmental and social impacts
+R&D
+ 1.25 cr
+0.80 cr
+EV chargers, batteries, motor controllers
+Capex
+ 1.65 cr
+0.64 cr
+Provision of STP, fire suppression system, fume exhaust system
+	
+Note : The above are prudent approximate workings in absolute numbers.
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No) Yes
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+The company is in the process of baselining scope 3 emissions.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for
+	
+(a)	
+Plastics (including packaging)
+	
+	
+Since Syrma SGS Technology Limited is services company (B2B business), we manufacture as per customer design and 
+the company has no control on the end of life of the products sold to customers.
+	
+(b) 	 E-waste
+	
+	
+We have taken adequate steps to improve waste management practices across our operations.
+	
+(c)	
+Hazardous waste
+	
+	
+Hazardous waste gets disposed of through pollution board certified vendors.
+	
+(d)	
+other waste
+	
+	
+Our endeavor is to reduce quantity of all types of waste by using sustainable methods up to the extent possible and 
+continue to manage the disposal of the waste through certified vendors.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No).   : Yes
+	
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? Yes
+	
+If not, provide steps taken to address the same.
+114
+Annual report 2022-23
+Syrma SGS Technology Limited
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their 
+value chains
+Essential Indicators
+1.	
+a.	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number 
+(B)
+% 
+(B / A)
+Number 
+(C)
+% 
+ (C / A)
+Number 
+(D)
+% 
+(D / A)
+Number 
+(E)
+% 
+(E / A)
+Number 
+(F)
+% 
+(F / A)
+Permanent employees
+Male
+732
+685
+94%
+732
+100%
+0
+0%
+309
+42%
+424
+58%
+Female
+163
+152
+93%
+163
+100%
+157
+96%
+0
+0%
+49
+30%
+Other
+0
+0
+ 
+ 
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+895
+837
+94%
+895
+100%
+157
+18%
+0
+0%
+473
+53%
+Other than permanent employees
+Male
+86
+13
+15%
+86
+100%
+0
+0%
+0
+0%
+86
+100%
+Female
+14
+1
+7%
+14
+100%
+14
+100%
+0
+0%
+14
+100%
+Other
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+100
+14
+14%
+100
+100%
+14
+14%
+0
+0%
+100
+100%
+	
+b.	
+Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total 
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number 
+(B)
+% 
+(B / A)
+Number 
+(C)
+% (C / 
+A)
+Number 
+(D)
+% (D / 
+A)
+Number 
+(E)
+% (E / 
+A)
+Number 
+(F)
+% (F / 
+A)
+Permanent workers
+Male
+90
+36
+40%
+90
+100%
+0
+0%
+24
+27%
+66
+73%
+Female
+68
+38
+56%
+68
+100%
+64
+94%
+0
+0%
+38
+56%
+Other
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+158
+74
+47%
+158
+100%
+64
+41%
+0
+0%
+104
+66%
+Other than permanent workers
+Male
+3317
+949
+29%
+3077
+93%
+0
+0%
+744
+22%
+2573
+78%
+Female
+3647
+2590
+71%
+3552
+97%
+3552
+97%
+0
+0%
+1206
+33%
+Other
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+6964
+3539
+51%
+6629
+95%
+3552
+51%
+744
+11%
+3779
+54%
+Note
+2.	
+Details of retirement benefits	
+	
+Retirement Benefits
+Sr.
+Details Of Other Retirement beneﬁts
+Name Of Beneﬁts
+FY23
+FY22
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+1
+PF
+100%
+100%
+Yes
+100%
+100%
+Yes
+2
+Gratuity
+100%
+100%
+Yes
+100%
+100%
+Yes
+3
+ESI
+17.50%
+92%
+Yes
+20%
+95%
+Yes
+4
+Others – please specify
+93%
+62%
+Yes
+92%
+38%
+Yes
+Note
+3.	
+Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of 
+the Rights of Persons with Disabilities Act, 2016?
+	
+Yes
+115
+Statutory Reports
+Business Responsibility & Sustainability Reporting
+	
+If not, whether any steps are being taken by the entity in this regard.
+	
+The company also ensures that such facilities/access is made available whenever the need arises.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016?
+	
+Yes
+	
+If so, provide a web-link to the policy.
+	
+https://www.syrmasgs.com/investor-relations/codes-and-policies/
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+ NA
+ NA
+ NA
+ NA
+Female
+10
+100%
+11
+100%
+Other
+ 0
+0
+0
+0
+Total
+10
+100%
+11
+100%
+	
+Description : Paternity leave policy is applicable from Mar 2023.
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker?
+If yes, give details of the mechanism in brief.
+Yes/No
+(If Yes, then give details of the mechanism in brief)
+Permanent Workers
+Yes
+The Company has a whistle blower and Protection policy in 
+place which provides guidance to raise a complaint in case 
+of any concerns. There is a dedicated team under the direct 
+touch initiative to address the complaints.
+Other than Permanent Workers
+Yes
+Permanent Employees
+Yes
+Other than Permanent Employees
+Yes
+Note
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY23
+FY22
+Total 
+employees/
+workers in 
+respective 
+category (A)
+No.of 
+employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or Union (B)
+% (B / A)
+Total 
+employees 
+/ workers in 
+respective 
+category ( )
+No. of 
+employees 
+/ workers in 
+respective 
+category,who 
+are part of 
+association(s) 
+or Union (D)
+% (B / A)
+Total Permanent 
+Employees
+895
+0
+0%
+661
+0
+0%
+Male
+732
+0
+0%
+551
+0
+0%
+Female
+163
+0
+0%
+110
+0
+0%
+Other
+0
+0
+0%
+0
+0
+0%
+Total Permanent 
+Workers
+157
+0
+0%
+164
+0
+0%
+Male
+90
+0
+0%
+94
+0
+0%
+Female
+67
+0
+0%
+70
+0
+0%
+Other
+0
+0
+0%
+0
+0
+0%
+116
+Annual report 2022-23
+Syrma SGS Technology Limited
+Note
+8.	
+Details of training given to employees and workers:
+Category
+FY23
+FY22
+Total 
+(A)
+On Health
+and safety 
+measures
+On Skill 
+upgradation
+Total 
+(D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. 
+(B)
+% 
+(B/ A)
+No. 
+(C)
+% 
+(C / A)
+No. 
+(E)
+% 
+(E / D)
+No. 
+w(F)
+% 
+(F / D)
+Employees
+Male
+818
+590
+72%
+540
+66%
+606
+438
+72%
+415
+Female
+177
+164
+93%
+161
+91%
+122
+102
+84%
+96
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+995
+754
+76%
+701
+70%
+728
+540
+74%
+557
+Workers
+Male
+3407
+1812
+53%
+1561
+46%
+ 1343
+581
+43%
+729
+54%
+Female
+3714
+1118
+30%
+2464
+66%
+3733
+762
+20%
+781
+21%
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+7121
+2930
+41%
+4025
+57%
+5076
+1343
+26%
+1510
+30%
+Note
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY23
+FY22
+Total (A)
+No. (B)
+% (B
+/ A)
+Total (D)
+No. (E)
+% (E / D)
+Employees
+Male
+818
+630
+77%
+606
+509
+84%
+Female
+177
+154
+87%
+122
+115
+94%
+Other
+0
+0
+ 
+0
+0
+ 
+Total
+995
+784
+79%
+728
+624
+86%
+Workers
+Male
+3407
+977
+29%
+1343
+729
+54%
+Female
+3714
+2787
+75%
+3733
+3239
+87%
+Other
+0
+0
+0 
+0
+0
+ 
+Total
+7121
+3764
+53%
+5076
+3968
+78%
+Note
+10.	 Health and safety management system:
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No).
+	
+Yes
+	
+If yes, the coverage such system?
+	
+70%
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the 
+entity?
+	
+-	
+ISO Assessment 45001:2018 (OHAS)
+c.	
+Whether you have processes for workers to report the work related hazards and to remove themselves from such risks?
+	
+Yes
+117
+Statutory Reports
+Business Responsibility & Sustainability Reporting
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services?
+	
+Yes
+11.	
+Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY23
+FY22
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person 
+hours worked)
+Employees
+0
+0
+Workers
+0
+0
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+0
+0
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work related injury or ill-health (excluding 
+fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12.	 Describe the measures taken by the entity to ensure a safe and healthy work place.	
+1.	
+The organization has conducted ISO 45001:2018 (OHAS) assessment at all the plants.
+2.	
+Regular safety walks and mock Fire Drills are conducted at the plants by Safety Officer at a regular frequency.
+3.	
+The organization has established first aid centres across plants. 
+4.	
+The organization also conducts health checkups for its employees and workers while onboarding and health camps/check 
+ups are also organized at a plant level periodically.
+13.	
+Number of Complaints on the following made by employees and workers:
+Category
+FY23
+FY22
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working Conditions
+20
+0
+Nil
+13
+0
+Nil
+Health & Safety
+3
+0
+Nil
+4
+0
+Nil
+Note
+14.	
+Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Health and safety practices
+ 100%
+Working Conditions
+ 100%
+	
+Note : Al plants are certified under ISO 450001
+15.	
+Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks / concerns arising from assessments of health & safety practices and working conditions.	  
+	
+Nil incident. Constantly updating and assessing the risk management
+118
+Annual report 2022-23
+Syrma SGS Technology Limited
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Any individual or group of individuals or institution that adds value to the business chain of the Corporation is identified as 
+a core stakeholder. We have recognized both, internal stakeholder which includes employees and workers, and external 
+stakeholder which includes Communities, Investors, Shareholders, Customers. The company reaches out to various identified 
+stakeholder groups through one on one calls with investors and supply partners, questionnaire dissemination with the 
+employees and gauges their view.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+List stakeholder groups identiﬁed as key for your entity and the frequency of engagement with each stakeholder group.
+Sr.
+Stakeholder Group
+Whether 
+identiﬁed as 
+Vulnerable & 
+Marginalized 
+Group
+Channels of 
+communication
+Frequency of 
+engagement
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+1
+Communities
+Yes
+On site community 
+meetings
+Periodic
+CSR Initiatives
+2
+Investors (other 
+than Shareholders)
+No
+Investor Calls / Investor 
+Conferences / Investor In-
+Person Meetings, Emails
+Periodic
+Performance Updates
+3
+Shareholders
+No
+Annual General Meeting, 
+Emails
+Annual
+Performance Updates
+4
+Employees and 
+Workers
+No
+Townhall Meets, 
+Workshops, Trainings, 
+Awareness Sessions
+Regular
+Employees Engagement, 
+Team Bonding, Employee 
+Health & Safety
+5
+Customers
+No
+Email, sms, 
+advertisement, website, 
+social media, participation 
+in exhibitions
+Periodic
+Offers, Intent of Business
+6
+Value Chain 
+Partners
+No
+Participation in 
+Exhibitions & Industrial 
+forums, Vendor meet, 
+Emails
+Annual, 
+Periodic
+Process refresh, engagement
+PRINCIPLE 5 Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format:
+Category
+FY 23
+FY 22
+Total (A)
+No. of 
+employees/
+workers 
+covered (B)
+% (B
+/ A)
+Total (C)
+No. of 
+employees/
+workers 
+covered (D)
+% (D / C)
+Employees
+Permanent
+ 895
+ 895
+100%
+662
+ 662
+ 100%
+Other than permanent
+100
+100
+100%
+66
+ 66
+100%
+Total Employees
+995
+ 995
+100%
+728
+ 728
+100%
+Workers
+Permanent
+157
+ 157
+100%
+165
+ 165
+100%
+Other than permanent
+6964
+ 6964
+100%
+4911
+ 4911
+100%
+Total Workers
+7121
+ 7121
+100%
+5076
+ 5076
+100%
+119
+Statutory Reports
+Business Responsibility & Sustainability Reporting
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY23
+FY22
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+No. 
+(B)
+% 
+(B /A)
+No.
+ (C)
+% 
+(C /A)
+No. 
+(E)
+% 
+(E /D)
+No. 
+(F)
+% 
+(F /D)
+Employees
+Permanent
+Male
+732
+61
+8.33%
+671
+91.67%
+552
+48
+8.70%
+504
+91.30%
+Female
+163
+6
+3.68%
+157
+96.32%
+110
+3
+2.73%
+107
+97.27%
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other than Permanent
+Male
+86
+6
+6.98%
+80
+93.02%
+54
+0
+0.00%
+54
+100.00%
+Female
+14
+1
+7.14%
+13
+92.86%
+12
+0
+0.00%
+12
+100.00%
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Workers
+Permanent
+Male
+90
+10
+11.11%
+80
+88.89%
+94
+19
+20.21%
+75
+79.79%
+Female
+67
+7
+10.45%
+60
+89.55%
+71
+10
+14.08%
+61
+85.92%
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other than Permanent
+Male
+3317
+1897
+57.19%
+1420
+42.81%
+1249
+291
+23.30%
+958
+76.70%
+Female
+3647
+742
+20.35%
+2905
+79.65%
+3662
+135
+3.69%
+3527
+96.31%
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.	
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median 
+remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median 
+remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median 
+remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors 
+(BoD)
+9
+11,22,000
+1
+11,80,000
+0
+0
+Key Managerial 
+Personnel
+3
+1,80,51,730
+0
+0
+0
+0
+Employees other 
+than BoD and KMP
+320
+6,33,525
+252
+6,20,482
+0
+0
+Workers
+24
+18754
+30
+26111
+0
+0
+	
+Note: 1. For BoD, the remuneration includes sitting fees and commission. 2. Form KMP, the remuneration considered is 
+including ESOP perks. 3. The above table is considered on average standalone figures.
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business?	
+	
+Yes, the company has a policy to deal with human rights issues.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.	
+	
+Guidance on human rights issues is covered as a part of its HRD manual and policies. The Company has a Whistle Blower 
+and Protection Policy that allows and encourages its stakeholders to raise concerns about the violations against the Code of 
+Conduct.
+120
+Annual report 2022-23
+Syrma SGS Technology Limited
+6.	
+Number of Complaints on the following made by employees and workers:
+Category
+FY23
+FY22
+Filed during 
+the year
+Pending 
+resolution at 
+the  end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Sexual Harassment
+0
+0
+0
+0
+Discrimination at 
+workplace
+0
+0
+0
+0
+Child Labour
+0
+0
+0
+0
+Forced Labour/
+Involuntary Labour
+0
+0
+0
+0
+Wages
+0
+0
+0
+0
+Other human rights 
+related issues
+0
+0
+0
+0
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.	
+	
+As part of the HED manual, both the policies - "Whistleblower Policy" and the "Policy on Sexual Harassment" state the 
+mechanisms to prevent retaliation against the complainant. This includes, but is not limited to, protection from retaliation 
+in the form of an adverse employment action such as termination, compensation decreases, or poor work assignments and 
+threats of physical harm. The right of a whistleblower for protection against retaliation does not include immunity for any 
+personal wrongdoing that is alleged and investigated.
+8.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)	
+ 
+	
+Yes
+9.	
+Assessments for the year: 
+	
+Assessment Details	NIL
+Details of other asessments of plant and office
+Sr.
+Name of other assessment
+% of your plants and offices that were assessed(by entity or statutory 
+authorities orthird parties)
+Child labour Wages 
+ 100%
+Forced/involuntary labour Sexual harassment
+ 100%
+Discrimination at workplace wages
+ 100%
+Others – please specify
+ None
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above.  Nil 
+121
+Statutory Reports
+Business Responsibility & Sustainability Reporting
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY23
+FY22
+Total electricity consumption (A)
+53,373,697
+39,553,489
+Total fuel consumption (B)
+668,303
+487,511
+Energy consumption through other sources (C)
+0
+0
+Total energy consumption (A+B+C)
+54,042,000
+40,041,000
+Energy intensity per rupee of turnover (Total energy consumption/ turnover in 
+rupees)
+27.0
+32.3
+Energy intensity (optional) – the relevant metric may be selected by the entity
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N)
+	
+If yes, name of the external agency.	
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India?	
+	
+No
+	
+If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been achieved, 
+provide the remedial action taken, if any.	
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY23
+FY22
+Water withdrawal by source (in kilolitres)
+(i) 	 Surface water
+0
+0
+(ii) 	 Groundwater
+20,647
+19,196
+(iii) 	 Third party water
+24,181
+10,972
+(iv) 	 Seawater / desalinated water
+0
+0
+(v) 	 Others
+0
+0
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+44,827
+30,168
+Total volume of water consumption (in kilolitres)
+The water is mainly used for 
+domestic consumption and the 
+same is circulated through STP.
+Water intensity per rupee of turnover (Water consumed / turnover)
+Water intensity (optional) – the relevant metric may be selected by the entity
+Note: Indicate if any independent assessment/ evaluation/assurance has been 
+carried out by an external agency? (Y/N)
+If yes, name of the external agency.
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge?	
+	
+Yes
+	
+If yes, provide details of its coverage and implementation.	
+	
+Water is treated either through captive sewage treatment plants or  common sewage treatment plant.
+122
+Annual report 2022-23
+Syrma SGS Technology Limited
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY232
+FY23
+NOx
+Syrma SGS Technology Limited has been successfully monitoring ambient air 
+quality parameters as per the State Pollution Control Board's (SPCB) / Central 
+Pollution Control Board's (CPCB) criteria at all plants. All parameters remained 
+within norms of SPCBs / CPCBs.
+SOx
+Particulate matter (PM)
+Persistent organic pollutants (POP)
+Volatile organic compounds (VOC)
+Hazardous air pollutants (HAP)
+Others – please specify
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N)
+	
+Yes
+	
+If yes, name of the external agency.	SGS Labs
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY23
+FY22
+Total Scope 1 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+1,329
+478
+Total Scope 2 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+11,713
+8,680
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+tCO2e/ INR cr.
+6.5
+7.4
+Total Scope 1 and Scope 2 emission intensity (optional) the 
+relevant metric may be selected by the entity
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N)
+	
+Yes
+	
+If yes, name of the external agency.	Core CarbonX Solutions
+7.	
+Does the entity have any project related to reducing Green House Gas emission?	
+	
+If Yes, then provide details.	
+	
+1.	
+Switchover to LED lights 
+	
+2.	
+Switching to R124A GHG Type based Air Conditioners
+	
+3.	
+Solar roof top system
+	
+4.	
+Green energy sourcing
+	
+5.	
+EV vehicle sourcing
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY23
+FY22
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+112.43
+100.53
+E-waste (B)
+34.47
+21.55
+Bio-medical waste (C)
+ 0
+Construction and demolition waste (D)
+ 0
+Battery waste (E)
+Radioactive waste (F)
+ 0
+Other Hazardous waste. Please specify, if any. (G)
+35.33
+21.78
+Other Non-hazardous waste generated (H). Please specify, if any.
+(Break-up by composition i.e. by materials relevant to the sector)
+Metal – 43.2
+General & 
+Carton – 
+352.05
+Wood – 54.88
+Metal – 24.48
+General & 
+Carton – 
+228.33
+Wood – 42.57
+Total (A+B + C + D + E + F + G + H)
+632.36
+439.24
+123
+Statutory Reports
+Business Responsibility & Sustainability Reporting
+Parameter
+FY23
+FY22
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)
+Category of waste
+(i) 	 Recycled
+NA
+(ii) 	 Re-used
+NA
+(iii) 	 Other recovery operations
+NA
+Total
+NA
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) 	 Incineration
+NA
+(ii) 	 Landfilling
+NA
+(iii) 	 Other disposal operations
+NA
+Total
+NA
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N)
+	
+If yes, name of the external agency.	
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your 
+company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to 
+manage such wastes.
+	
+Waste management practices are managed in compliance to ISO 14001 standard. The company has got valid certification of 
+ISO 14001.
+10.	
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / 
+clearances are required,please specify details in the following format:	
+	
+Not applicable as no Greenfield projects was undertaken in the reporting year
+11.	
+Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current 
+financial year:	 Not applicable as no Greenfield projects was undertaken in the reporting year
+12.	
+Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention 
+and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder 
+(Y/N).
+	
+Yes
+	
+If not, provide details of all such non-compliances, in the following format:
+124
+Annual report 2022-23
+Syrma SGS Technology Limited
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner 
+that is responsible and transparent
+Essential Indicators
+1.	
+a.	
+Number of affiliations with trade and industry chambers/ associations.	
+	
+	
+7
+	
+b.	 List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the 
+entity is a member of/ affiliated to
+S. 
+No.
+`
+Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ 
+associations (State/National/International)
+1
+Electronic Industries Association Of India (ELCINA)
+National
+2
+Confederation of Indian Industry (CII)
+National
+3
+Automotive Industry Action Group (AIAG)
+International
+4
+Indo-American Chamber of Commerce (AICC)
+International
+5
+Electronics and Computer Software Export Promotion 
+Council (ES
+National
+6
+IPC (https://www.ipc.org/)
+International
+7
+India Electronics & Semiconductor Association (IESA)
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the entity, 
+based on adverse orders from regulatory authorities.
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the entity, 
+based on adverse orders from regulatory authorities.
+Sr.
+Name of authority
+Brief of the case
+Corrective action taken
+ Nil
+Nil
+Nil
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current 
+financial year.	
+	
+As per applicable laws, SIA is not applicable for any of the projects undertaken by the Company.
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your 
+entity, in the following format:
+	
+Nil
+3.	
+Describe the mechanisms to receive and redress grievances of the community.	
+	
+The Company has a vigil mechanism policy to address the community grievances.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Parameter
+FY23
+FY22
+Directly sourced from MSMEs/ small producers
+ 6%
+ 3.5%
+Sourced directly from within the district and neighbouring districts
+ 49%
+ 42%
+125
+Statutory Reports
+Business Responsibility & Sustainability Reporting
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.	
+	
+Considering Company’s B2B business model, Company has no direct linkage to the consumers. For other stakeholders, the 
+Company has Vigil Mechansim framework and for Vendors also a Vendor Code of Conduct which enables them to reach out 
+in case of complaints/feedbacks. 
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information about
+	
+As a percentage to total turnover
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+Products of the Company contain all relevant 
+information as required under applicable laws.
+Safe and responsible usage
+Recycling and/or safe disposal
+Category
+FY23
+FY22
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remark
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Data privacy
+Nil
+Advertising
+Cyber-security
+Delivery of essential 
+services
+Restrictive Trade 
+Practices
+Unfair Trade Practices
+Other
+3.	
+Number of consumer complaints in respect of the following
+4.	
+Details of instances of product recalls on account of safety issues
+Number
+Reasons for recall
+Voluntary recalls
+Nil
+Forced recalls
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy?	
+	
+Yes, 
+	
+If available, provide a web-link of the policy
+	
+https://www.syrmasgs.com/investor-relations/codes-and-policies/
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken 
+by regulatory authorities on safety of products / services.	
+	
+NA
+126
+Annual report 2022-23
+Syrma SGS Technology Limited

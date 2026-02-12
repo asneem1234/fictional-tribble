@@ -1,0 +1,4111 @@
+ 
+ 
+  
+ 
+ 
+ 
+ 
+www.stl.tech 
+Sterlite Technologies Limited 
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.                                
+CIN - L31300PN2000PLC202408 
+July 17, 2023 
+ 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor, 
+Plot No. C-1, G Block, 
+Bandra Kurla Complex, Bandra (East)    
+Mumbai - 400 051. 
+ 
+BSE Limited 
+Phirozee Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001. 
+ 
+Sub.: Submission of Business Responsibility and Sustainability Report for FY2022-23 
+Ref.: Scrip ID - STLTECH/ Scrip Code - 532374 
+Dear Sir/Madam, 
+Pursuant to Regulation 34(2)(f) of SEBI (Listing Obligations & Disclosure Requirements) Regulations 2015, 
+we are submitting herewith the Business Responsibility and Sustainability Report ('BRSR') for the financial 
+year ended 31 March 2023, which forms part of Annual Report for FY2022-23.  
+The same is also being uploaded on the website of the Company at https://www.stl.tech/  
+Kindly take the same on record. 
+Thanking you. 
+Yours faithfully, 
+For Sterlite Technologies Limited 
+ 
+Amit Deshpande 
+General Counsel & Company Secretary (ACS 17551) 
+ 
+Encl.: As above. 
+ 
+AMIT VILAS 
+DESHPANDE
+Digitally signed by 
+AMIT VILAS 
+DESHPANDE 
+Date: 2023.07.17 
+17:09:07 +05'30'
+126
+Business Responsibility & Sustainability Report
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1
+Corporate Identity Number (CIN) of the Company
+L31300PN2000PLC202408
+2
+Name of the Company
+STERLITE TECHNOLOGIES LTD.
+3
+Year of Incorporation
+March 24, 2000
+4
+Registered office address
+4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, 
+Pune-411001, Maharashtra
+5
+Corporate office address
+Godrej Millenium 9, Koregaon Road, Pune - 411 001 
+Maharashtra, India
+6
+E-mail id
+stl.communications@sterlite.com stl.communications@stl.tech
+7
+Telephone
++91 20 30514000
+8
+Website
+https://www.stl.tech/
+9
+Financial year for which reporting is being done
+April 1, 2022 to March 31, 2023 (FY 2022-23)
+10
+Name of the Stock Exchange(s) where shares are listed
+1) National Stock Exchange of India Limited (NSE) 
+2) BSE Limited (BSE)
+11
+Paid-up capital
+79.72 crores
+12
+Name and contact details of the person who may be 
+contacted in case of any queries on the BRSR report
+Anjali Byce, Chief Human Resources Officer
++91-20-30514000; anjali.byce@sterlite.com anjali.byce@stl.tech
+13
+Reporting Boundary
+Standalone
+II.	 Products/services
+14.	 Details of business activities (accounting for 90% of the turnover):
+S. No Description of main activity
+Description of business activity % Of turnover
+1
+STL is a leading global optical company. Telecom operators, cloud 
+companies, citizen networks, and large enterprises recognize and  
+rely on STL for advanced capabilities in optical connectivity
+Optical Networking Business
+70.05%
+2
+Global services offers system integration services in ICT space by 
+integrating different technological products, networks , data centre 
+and applications.
+Global Service Business
+25.22%
+3
+The Optical Connectivity Solution, has been created to help telecom 
+operators, ISPs, citizen networks, and major corporations build 
+out networks more quickly, more effectively, and more affordably. 
+We are offering end-to-end functionality, including optical fibre 
+components, pre-connectorized kits, and post-sales support.
+Optical Interconnect
+4.73%
+15.	 Products/services sold by the entity (accounting for 90% of the entity’s turnover)
+S. No. Product/Service
+NIC Code
+% Of total turnover contributed
+1
+Optical fibre cable
+2731
+44.83%
+2
+Optical fibre
+2310
+16.24%
+3
+Copper telecom cables
+2732
+8.99%
+4
+Optical fibre cable laying services
+4321
+25.22%
+5
+Optical interconnect
+2620
+4.73%
+III.	 Operations	
+16.	 Number of locations where plants and/or operations/offices of the entity are situated
+Location
+Number of plants
+Number of offices
+Total
+National
+6
+3
+9
+International
+0
+0
+0
+Annual Report 2022-23
+127
+Statutory Reports
+Financial Statements
+Corporate Overview
+17.	 Markets served by the entity
+a.	
+Number of locations
+Locations
+Number
+National (No. of states)
+28
+International (No. of countries)
+100
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+45%
+c.	
+A brief on types of customers
+STL manufacturing facilities serve diverse customers across the entire value chain-
+•	
+Telecom companies
+•	
+Cloud companies
+•	
+Internet Service Providers
+•	
+Large enterprises
+IV.	 Employees
+18.	 Details as on March 31, 2023
+a.	
+Employees and workers (including differently abled)
+S. No. Particulars
+Total  
+(A)
+Male
+Female
+Other
+No. (B)
+% (B/A)
+No. (C)
+% (C/A) No. (D)
+%(D/A)
+EMPLOYEES
+1
+Permanent (D)
+1,591
+1,408
+88.50%
+183
+11.50%
+0
+0%
+2
+Other than permanent (E)
+923
+878
+95.12%
+44
+4.77%
+1
+0.11%
+3
+Total employees (D+E)
+2,514
+2,286
+90.93%
+227
+9.03%
+1
+0.04%
+WORKERS
+1
+Permanent (F)
+32
+26
+81.25%
+6
+18.75%
+0
+0%
+2
+Other than permanent (G)
+3,126
+2,665
+85.25%
+461
+14.75%
+0
+0%
+3
+Total workers (F+G)
+3,158
+2,691
+85.21%
+467
+14.79%
+0
+0%
+b.	
+Differently abled employees and workers
+S. No. Particulars
+Total  
+(A)
+Male
+Female
+Other
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No.(D)
+%(D/A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+4
+3
+75.00%
+1
+25.00%
+0
+0.00%
+2
+Other than permanent (E)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+3
+Total differently abled employees (D+E)
+4
+3
+75.00%
+1
+25.00%
+0
+0.00%
+DIFFERENTLY ABLED WORKERS
+1
+Permanent (F)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+2
+Other than permanent (G)
+5
+5
+100%
+0
+0.00%
+0
+0.00%
+3
+Total differently abled workers (F+G)
+5
+5
+100%
+0
+0.00%
+0
+0.00%
+19.	 Participation/inclusion/representation of women
+Total  
+(A)
+No. and percentage of females
+No. (B)
+% (B/A)
+Board of Directors
+7
+1
+14.28%
+Key Management Personnel
+3
+0
+0.00%
+128
+Business Responsibility & Sustainability Report
+20.	 Turnover rate for permanent employees and workers
+FY 2022-23
+FY 2021-22
+FY 2020-21
+Male Female Other
+Total
+Male Female Other
+Total
+Male Female other
+Total
+Permanent Employees
+20%
+32%
+0
+21%
+23%
+35%
+0
+25%
+-
+-
+-
+-
+Permanent Workers
+19%
+17%
+0
+19%
+0
+0
+0
+0
+-
+-
+-
+-
+V.	 Holding, subsidiary and associate companies (including joint ventures) 
+21.	
+a.	
+Names of holding / subsidiary / associate companies / joint ventures:
+S. No.
+Name of Holding/Subsidiary/ 
+Associate Companies/Joint  
+Venture (A)
+Indicate whether 
+Holding/ Subsidiary/ 
+Associate/Joint 
+Venture
+% Of shares 
+held by 
+listed entity
+Does the entity indicated in  
+column A, participate in the 
+Business Responsibility initiatives 
+of listed entity? (Yes/No)
+1
+Twin Star Overseas Limited, Mauritius 
+(Immediate holding company)
+Holding
+52.54%
+No
+2
+Jiangsu Sterlite Fiber Technology Co. Ltd.
+Subsidiary
+100%
+Yes
+3
+Sterlite Global Ventures (Mauritius) 
+Limited
+Subsidiary
+100%
+No
+4
+Sterlite Technologies UK Ventures 
+Limited
+Subsidiary
+100%
+No
+5
+Speedon Network Limited
+Subsidiary
+100%
+No
+6
+Sterlite Telesystems Limited
+Subsidiary
+100%
+No
+7
+Elitecore Technologies (Mauritius) 
+Limited 
+Subsidiary
+100%
+No
+8
+Elitecore Technologies SDN BHD. 
+(Malaysia) 
+Subsidiary
+100%
+No
+9
+Sterlite (Shanghai) Trading Company 
+Limited
+Subsidiary
+100%
+No
+10
+Sterlite Tech Holding Inc.
+Subsidiary
+100%
+No
+11
+Sterlite Technologies Inc. 
+Subsidiary
+100%
+Yes
+12
+Metallurgica Bresciana S.p.A
+Subsidiary
+100%
+Yes
+13
+Sterlite Innovative Solutions Limited
+Subsidiary
+100%
+No
+14
+STL Digital Limited (earlier “Sterlite 
+Tech Connectivity Solutions Limited”)
+Subsidiary
+100%
+Yes
+15
+Sterlite Tech Cables Solutions Limited
+Subsidiary
+100%
+Yes
+16
+Vulcan Data Centre Solutions Limited
+Subsidiary
+100%
+Yes
+17
+PT Sterlite Technologies Indonesia
+Subsidiary
+100%
+No
+18
+Sterlite Technologies Pty. Ltd
+Subsidiary
+100%
+No
+19
+Sterlite Technologies DMCC
+Subsidiary
+100%
+No
+20
+STL Optical Interconnect S.p.A.
+Subsidiary
+100%
+Yes
+21
+Optotec S.p.A.
+Subsidiary
+100%
+Yes
+22
+Optotec International S.A.
+Subsidiary
+100%
+No
+23
+STL Edge Networks Inc.
+Subsidiary
+100%
+No
+24
+STL Networks Limited
+Subsidiary
+100%
+No
+25
+STL Tech Solutions Limited, UK
+Subsidiary
+100%
+Yes
+26
+STL UK Holdco Limited, UK 
+Subsidiary
+100%
+No
+27
+STL Digital Inc. (USA)
+Subsidiary
+100%
+No
+28
+Clearcomm Group Limited, UK
+Subsidiary
+80%
+Yes
+29
+STL Optical Tech Limited
+Subsidiary
+100%
+No
+30
+STL Network Services Inc., US
+Subsidiary
+100%
+No
+31
+STL Solutions Germany GmbH
+Subsidiary
+100%
+No
+32
+Sterlite Conduspar Industrial Ltda
+Joint venture
+50%
+No
+33
+STL Digital UK Limited
+Subsidiary
+100%
+No
+Annual Report 2022-23
+129
+Statutory Reports
+Financial Statements
+Corporate Overview
+VI.	 CSR Details 
+22.	 (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+(ii)	 Turnover (in ₹) - 5349.68 crores 
+(iii)	 Net worth (in ₹) - 1883.08 crores
+VII.	Transparency and Disclosures Compliances 
+23.	 Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct (NGRBC)
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible  
+Business Conduct
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+redressal 
+mechanism 
+in place 
+(Yes/No)
+FY 2022-23
+FY 2021-22
+(if Yes, then 
+provide 
+web-link for 
+grievance 
+redress 
+policy)
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Communities
+Yes
+https://www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf
+0
+0
+-
+0
+0
+-
+Investors  
+(other than 
+shareholders)
+Yes
+https://www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf
+0
+0
+- 
+0
+0
+-
+Shareholders
+Yes
+https://www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf
+596
+0
+ -
+442
+0
+- 
+Customers
+Yes
+https://www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf
+0
+0
+-
+0
+0
+-
+Value Chain 
+Partners
+Yes
+https://www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf
+0
+0
+-
+0
+0
+-
+Employees 
+and workers
+Yes
+https://www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf
+0
+0
+-
+0
+0
+-
+Other  
+(Quality 
+Complaint)
+Yes
+https://www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf
+58
+7
+-
+72
+9
+-
+Other 
+(Delivery)
+Yes
+https://www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf
+10
+0
+-
+0
+0
+-
+130
+Business Responsibility & Sustainability Report
+24.	 Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk, as per the following format:
+S.No. Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach  
+to adapt or mitigate.
+Financial implications 
+of the risk or 
+opportunity (Indicate 
+positive or negative 
+implications)
+1
+Carbon pricing
+ R
+Carbon pricing mechanisms 
+are being implemented to 
+encourage companies to 
+reduce their carbon footprint
+STL has taken a goal to be 
+Net zero and is working 
+towards reducing its carbon 
+footprint
+Negative 
+Implications 
+2
+Sustainable 
+supply chain
+O
+Customers and investors 
+are increasingly demanding 
+that companies adopt 
+sustainable practices 
+throughout their supply 
+chains 
+STL is identifying and 
+assessing the sustainability 
+of its suppliers and taking 
+steps to ensure that they 
+meet our sustainability 
+standards
+Positive  
+Implications
+3
+Climate-related 
+regulations
+R
+Worldwide regulations 
+are being implemented to 
+promote energy efficiency 
+and reduce greenhouse gas 
+emissions
+STL is investing energy 
+efficiency measures and 
+exploring possibilities of 
+renewable energy
+Positive  
+Implications 
+4
+Raw material 
+availability
+R
+Disruptions in supply chain 
+are being observed leading 
+to uncertain raw material 
+availability and volatility in 
+prices.
+STL is working towards 
+increasing its local 
+procurement to minimise 
+these disruptions
+Negative 
+Implications
+5
+Health and 
+safety risks
+R
+Companies must ensure the 
+health and safety of their 
+employees, particularly 
+those working in hazardous 
+or high-risk environments.
+STL is consistently assessing 
+the health and safety 
+risks associated with its 
+operations and implement 
+appropriate measures to 
+protect its employees
+Negative 
+Implications
+6
+Innovation 
+O
+Companies that fail to 
+innovate and adopt new 
+technologies and business 
+models risk falling behind 
+and losing market share
+STL is investing in research 
+and development to 
+develop new sustainable 
+technologies and business 
+models
+Positive  
+Implications
+7
+Resource 
+efficiency 
+O
+With global increase in 
+prices of raw materials, 
+there is an increased focus 
+on achieving the resource 
+efficiency.
+STL is taking active 
+measures to achieve the 
+resource efficiency for raw 
+materials, energy, water 
+and materials management
+Positive  
+Implications
+8
+Cyber security 
+R
+As companies become 
+more reliant on technology, 
+they face increasing 
+cybersecurity risks
+STL strives to implement 
+robust cybersecurity 
+measures to protect 
+its data, systems, and 
+operations from cyber-
+attacks and data breaches
+Negative 
+Implications
+Annual Report 2022-23
+131
+Statutory Reports
+Financial Statements
+Corporate Overview
+S.No. Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach  
+to adapt or mitigate.
+Financial implications 
+of the risk or 
+opportunity (Indicate 
+positive or negative 
+implications)
+9
+Data privacy
+R
+Companies must also 
+comply with data privacy 
+regulations to protect 
+the personal data of their 
+customers and employees
+STL ensures that it 
+complies with data 
+privacy regulations in 
+India and take steps to 
+protect personal data from 
+unauthorised access
+Negative 
+Implications
+10
+Labour and 
+human rights
+R
+Companies face risks 
+associated with labour and 
+human rights violations in their 
+supply chains, such as forced 
+labour, child labour, and 
+unsafe working conditions.
+STL assesses its suppliers’ 
+labour and human rights 
+practices and works with 
+them to improve conditions 
+and eliminate any violations
+Negative 
+Implications
+11
+Diversity and 
+inclusion
+R
+Companies that lack 
+diversity and inclusivity risk 
+reputational damage and 
+loss of talent
+STL continually assesses 
+its diversity and inclusion 
+policies and practices and 
+work to promote diversity 
+and inclusivity within our 
+workforce
+Positive  
+Implications
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURE
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+132
+Business Responsibility & Sustainability Report
+Disclosure Question
+P 1
+P 2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+POLICY AND MANAGEMENT PROCESSES
+1. a. Whether your entity’s policy/ policies 
+cover each principle and its core elements 
+of the NGRBCs (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b. Has the policy been approved by the 
+Board? (Yes/No)
+Y
+Y
+N
+Y
+N
+Y
+Y
+Y
+Y
+c. Web link of the policies, if available
+Code of Conduct
+https://www.stl.
+tech/pdf/coc/
+Sterlite_Code_of_
+Conduct_Final.pdf
+Sustainable 
+sourcing policy 
+https://www.stl.
+tech/pdf/coc/
+Sustainable%20
+Sourcing%20
+policy.pdf
+Conflict free 
+sourcing policy
+https://www.stl.
+tech/pdf/coc/
+Conflict%20
+Free%20
+Sourcing%20
+Policy.pdf
+Employee well-
+being policy
+https://www.
+stl.tech/pdf/
+Employee-well-
+being-policy.pdf
+Sterlite Business 
+partner code of 
+conduct 
+https://www.stl.
+tech/pdf/coc/
+Sterlite%20
+Business%20
+Partner%20
+Code%20of%20
+Conduct.pdf
+Human Rights 
+Policy
+https://www.stl.
+tech/pdf/coc/
+Human-Rights-
+Policy-V_2_0.pdf
+Waste Management 
+Policy
+https://www.stl.tech/
+pdf/coc/Waste-
+Management-Policy.
+pdf
+Water Management 
+Policy
+https://www.stl.
+tech/pdf/coc/Water-
+Management-Policy.
+pdf
+Code of Conduct
+https://www.stl.tech/
+pdf/coc/Sterlite_
+Code_of_Conduct_
+Final.pdf
+CSR Policy
+https://www.
+stl.tech/pdf/
+corporate-social-
+responsibility-
+policy-2021.pdf
+Privacy Policy
+https://stl.tech/
+privacy-policy/
+2. Whether the entity has translated the 
+policy into procedures (Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+ Y
+Y
+Y
+3. Do the enlisted policies extend to your 
+value chain partners? (Yes/ No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4.Name the national and international 
+codes/ certifications/ labels/ standards
+-
+ISO 14001 certified 
+all Indian plants
+ISO 45001 certified 
+all Indian plants
+-
+-
+SA8000
+Certified OFC- 
+Rakholi and SCB-
+Dadra plants
+ISO 14001 Certified all 
+Indian plants
+ISO 14021 (Zero Liquid 
+Discharge) Certified all 
+Indian plants
+-
+-
+ISO 27001 
+Certified all 
+Indian plants
+5. Specific commitments, goals and targets 
+set by the entity with defined timelines, if 
+any
+Principle 6
+1.	
+Net-zero emissions by 2030 
+2.	
+Ensuring water positivity across STL locations globally by 2030
+3.	
+Zero waste to landfill at manufacturing plants by 2030 
+4.	
+100% of Lifecycle assessment of products by 2030 
+Principle 8
+1.	
+Transforming 5 million lives by 2025
+2.	
+Replenishing 5 million cubic meters of water in communities by 2025
+3.	
+Undertaking 5 million plantations by 2025
+6. Performance of the entity against 
+specific commitments, goals and targets
+Principle 6
+1.	
+Goal:  Net-zero emissions by 2030. Performance: we have committed to Science Based Target Initiatives in FY23
+2.	
+Goal:  Ensuring water positivity across STL locations globally by 2030. Performance: All plants are Zero liquid discharge certified
+3.	
+Goal: Zero waste to landfill at manufacturing plants by 2030. Performance: All plants are Zero waste to landfill certified
+4.	
+Goal:100% of Lifecycle assessment of products by 2030. Performance: LCA model and reports have been prepared for 11 products
+Principle 8
+1.	
+Goal: Transforming 5 million lives by 2025. Performance: Transforming 3 million lives
+2.	
+Goal: Replenishing 5 million cubic meters of water in communities by 2025. Performance:1.69 million cubic meters of water replenished 
+3.	
+Goal: Undertaking 5 million plantations by 2025. Performance: 2.8 L plantation done and being maintained 
+Annual Report 2022-23
+133
+Statutory Reports
+Financial Statements
+Corporate Overview
+GOVERNANCE, LEADERSHIP AND OVERSIGHT
+7.	
+Statement by director responsible for the business 
+responsibility report, highlighting ESG related 
+challenges, targets and achievements (listed entity has 
+flexibility regarding the placement of this disclosure) 
+Owing to massive paradigm shift over the last couple of 
+years due to the pandemic and economic downturn, the 
+way societies and businesses strategise and operate 
+has changed. As these changes in socioeconomic 
+archetypes continue to get stronger across the globe, 
+the role of Environmental, Social and Governance (ESG) 
+adherence in amplifying the interests of the Triple 
+Bottom Line is intensifying. Climate change concerns, 
+sustainable development and other environmental, 
+social and governance (ESG) concerns have become a 
+key agenda of every discussion across government and 
+corporate boardrooms, globally.
+Our ESG goals include sustainable sourcing and 
+manufacturing practices, net-zero emissions, 
+ensuring water positivity across STL locations 
+globally, zero waste to landfill at manufacturing 
+plants, lifecycle assessment of products and green 
+product development. To ensure transformation that is 
+sustainable, action on ESG must be taken across the 
+value chain as well as in communities. We are doing 
+so by working with partners - up and down stream to 
+minimise packaging, waste and furthermore, mitigating 
+global issues like gender inequality, lack of quality 
+healthcare and digital education for marginalised 
+communities and conserving the environment. Above 
+all, we are focused on bridging the digital divide in 
+communities we serve and operate, worldwide.
+We have made steady progress in our net zero 
+emissions goal by 2030. Likewise, our other ESG 
+goals such as Zero Waste to Landfill (ZWL), Zero 
+Liquid Discharge (ZLD) and becoming water positive 
+by 2030, 100% sustainable sourcing by 2030 are well 
+on track. Further, we have designed and implemented 
+digital-driven social impact programmes, strengthened 
+through partnerships across education, healthcare 
+and the environment. Through products like STL Garv 
+and projects like Bharatnet, Mahanet and others, 
+we have facilitated universal and affordable internet 
+access across rural regions. Moreover, we have made 
+significant progress on the ambitious 5-5-5 million goals 
+we set out to accomplish by the year 2025. These 
+involve transforming five million lives from marginalised 
+communities, undertaking five million plantations, 
+and replenishing a similar amount of water in water 
+stressed communities.
+All of the above-mentioned initiatives and actions 
+are founded on the belief that ESG is imperative in 
+today’s dynamic world. We have the expertise to make 
+a lasting difference and stay committed to leveraging 
+it to create a greener, safer and more inclusive world 
+beyond tomorrow.
+8.	
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility & Sustainability (BRSR) Policy
+Name - Ankit Agarwal
+Designation-Managing Director
+9.	
+Does the entity have a specified committee of the 
+board/ director responsible for decision making 
+on sustainability related issues? (Yes/ No). If yes, 
+provide details
+Yes, our company has a Sustainability and Corporate 
+Social Responsibility committee. It is accountable to 
+the Board of Directors. The committee’s primary role 
+is to assist the company in meeting its environmental, 
+social and governance obligations and monitor the 
+implementation of the CSR and ESG policies.
+10.	 Details of Review of the National Guidelines on Responsible Business Conduct (NGRBC) by the company:
+Subject for Review
+Indicate whether review was undertaken 
+by Director / Committee of the Board/ 
+Any other Committee
+Frequency: Annually (A) /  
+Half yearly (H) / Quarterly (Q) /  
+Any other – please specify
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5 P6
+P7
+P8 P9
+Performance against above policies & 
+follow up action
+Director
+Annually
+Compliance with statutory requirements 
+of relevance to the principles, and 
+rectification of any non-compliances
+Committee of the Board
+Quarterly
+11.	 Has the entity carried out independent assessment/ evaluation of the working of its policies by an external agency?  
+(Yes/No). If yes, provide name of the agency.
+134
+Business Responsibility & Sustainability Report
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+Yes, the working of the above policies except CSR policy was verified by Intertek during SA 8000 audit for STL’s Dadra and 
+Rakholi plant. 
+12.	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: 
+Not applicable. All principles are covered by polices.
+SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with 
+key processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential 
+indicators are expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be 
+voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be socially, environmentally and 
+ethically responsible.
+PRINCIPLE 1- BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY AND IN A MANNER THAT 
+IS ETHICAL, TRANSPARENT AND ACCOUNTABLE
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number of 
+training and awareness 
+programmes held*
+Topics/ principles covered under the training 
+audits impact
+% of persons in respective 
+category covered by the 
+awareness programmes*
+Board of Directors
+0
+0
+0
+Key Managerial 
+Personnel (KMP)
+6
+1. Senior Leadership Development
+2. Competency Capability building
+3. Compliance (POSH, CoC+ BCP & IP +Infosec)
+100%
+Employees other 
+than BoD and KMPs
+486
+1. Capability Building
+2. Hi-Po development programmes
+3. Sales development programmes
+97%
+Workers
+63
+Discrimination, Remuneration, Health & Safety, 
+Working Hours, Disciplinary practices etc 
+(covering 9 elements of SA8000) 
+100%
+2.	 Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings 
+(by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the 
+financial year, in the following format (Note: the entity shall make disclosures on the basis of materiality as 
+specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as 
+disclosed on the entity’s website):
+Monetary
+ 
+NGRBC 
+Principle
+Name of the regulatory/
+enforcement agencies/ 
+judicial institutions
+Amount  
+(In ₹)
+Brief of the 
+Case 
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/ Fine
+0
+0
+0
+0
+- 
+Settlement
+0
+0
+0
+0
+- 
+Compounding fee
+0
+0
+0
+0
+- 
+Non-Monetary
+ 
+NGRBC 
+Principle
+Name of the regulatory/enforcement 
+agencies/ judicial institutions
+Brief of the  
+Case 
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+0
+0
+0
+- 
+Punishment
+0
+0
+0
+- 
+Annual Report 2022-23
+135
+Statutory Reports
+Financial Statements
+Corporate Overview
+3.	 Of the instances disclosed in Question 2 above, details of the appeal/revision preferred in cases where 
+monetary or non-monetary action has been appealed.
+Case Details 
+Name of the regulatory/ enforcement agencies/ judicial institutions
+NA
+NA
+NA
+NA
+NA
+NA
+4.	 Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy.
+STL’s Code of Conduct and Ethics cover its anti-corruption or anti-bribery policy. STL prohibits indulging into illicit practices 
+like, offer to pay, make payments, promise to pay, or issue authorisation to pay any money, gift, or anything of value to a 
+government officer, customers, vendors, consultants, and other stakeholders. that is perceived as intended, directly or 
+indirectly, to improperly influence any business decision, any act or failure to act, any commitment of fraud, or opportunity 
+for the commission of any fraud. 
+https://www.stl.tech/pdf/coc/Sterlite_Code_of_Conduct_Final.pdf
+5.	 Number of Directors/KMPs/employees against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+ 
+FY 22-23
+FY 21-22
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+6.	 Details of complaints about conflict of interest
+ 
+FY 22-23
+FY 21-22
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of Conflict of 
+Interest of the Directors
+0
+-
+0
+-
+Number of complaints received in relation to issues of Conflict of 
+Interest of the KMPs
+0
+-
+0
+-
+7.	
+Provide details of any corrective action taken or underway on issues related to fines/penalties/action taken by 
+regulators/law enforcement agencies/judicial institutions, on cases of corruption and conflicts of interest.
+None
+Leadership Indicators 
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year
+Total number 
+of awareness 
+programmes held
+Topics / principles covered under  
+the training
+%age of value chain partners covered (by 
+value of business done with such partners) 
+under the awareness programmes
+170
+Child Labour, Forced Labour, Health & Safety, Freedom 
+of association & right to collective Bargaining, 
+Discrimination, Disciplinary Practices, Working Hours, 
+Remuneration & Management Systems
+6.41%
+2.	
+Does the entity have processes in place to avoid / manage conflicts of interest involving members of the Board? 
+(Yes / No) If Yes, provide details of the same.
+Yes, the Board members disclose their interest in other entities (directorship/ownership, etc.) at the beginning of the 
+year. Further, Board members also inform the company about any change in interests during the year. In case there is 
+any proposal in which any of the Board member is interested, he/she did not participate in voting on the same.
+136
+Business Responsibility & Sustainability Report
+PRINCIPLE 2 -BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS SUSTAINABLE AND SAFE
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively.
+FY 2022-23
+FY 2021-22
+Details of improvements in environmental and social impact
+R&D
+54.69%
+0
+1.	
+Process improvement and scrap reduction for optical fibre and optical fibre 
+cable manufacturing
+2.	
+Development of ‘green’ cabling solutions that have less embedded carbon 
+and reduce operational carbon for our customers.
+3.	
+Development of multi-core fibre technology that is novel and 4x less material 
+intensive than traditional fibre
+Capex
+1.94%
+0.01%
+1.	
+ESG data management software
+2.	
+Installation of latest IGBT technology Riello UPS 
+3.	
+Kaeser air compressor units
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+Yes.
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+6.41%
+3.	 Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end 
+of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste
+Type of Waste
+Name of Policy/ Process
+Policy/ Process Description
+Plastics (including packaging)
+Waste Management Policy
+Fibre spools containing fresh fibre manufactured at the 
+optical fibre (OF) plants are dispatched to captive plants for 
+consumption. These new spools are received at the optical fibre 
+cable plants. Post consumption of fibre, the spools are cleaned 
+and sent back to OF plants for re-use.
+E-waste
+Waste Management Policy
+-
+Hazardous waste
+Waste Management Policy
+-
+Other waste
+Waste Management Policy
+-
+4.	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, 
+whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to 
+Pollution Control Boards? If not, provide steps taken to address the same
+Yes, EPR is applicable. No, the Extended Producer Responsibility (EPR) certification is in progress.
+Leadership Indicators 
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+NIC 
+Code
+Name of Product/Service
+% of total 
+Turnover 
+contributed 
+(FY 22-23)
+Boundary for which the 
+Life Cycle Perspective 
+/ Assessment was 
+conducted
+Whether conducted 
+by independent 
+external agency  
+(Yes/No)
+Results communicated 
+in public domain  
+(Yes/No) If yes, provide 
+the web-link.
+27310
+Yogalite 144F Optical Fiber Cable
+0.11%
+Cradle to gate
+Yes
+No
+27310
+Celesta 432F 
+0.89%
+Cradle to gate
+Yes
+No
+27310
+48F NLD
+0.00%
+Cradle to gate
+Yes
+No
+27310
+36F COF215
+0.44%
+Cradle to gate
+Yes
+No
+27310
+48F Micro Cable
+0.24%
+Cradle to gate
+Yes 
+No
+27310
+24F ADSS
+0.04%
+Cradle to gate
+Yes 
+No
+Annual Report 2022-23
+137
+Statutory Reports
+Financial Statements
+Corporate Overview
+2.	 If there are any significant social or environmental concerns and/or risks arising from production or disposal of 
+your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other 
+means, briefly describe the same along-with action taken to mitigate the same.
+Name of Product / Service
+Description of the risk / concern
+Action Taken
+None
+-
+-
+3.	 Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, 
+and safely disposed, as per the following format:
+Type of Waste
+FY 2022-23
+FY 2021-22
+Re-Used
+Recycled
+Safely Disposed 
+(Metric Tonnes)
+Re-Used
+Recycled
+Safely Disposed 
+(Metric Tonnes)
+Plastics (including packaging)
+700
+-
+-
+662
+-
+-
+E-waste
+-
+-
+-
+-
+-
+-
+Hazardous waste
+-
+-
+-
+-
+-
+-
+Other waste
+-
+-
+-
+-
+-
+-
+PRINCIPLE 3- BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EMPLOYEES, INCLUDING 
+THOSE IN THEIR VALUE CHAINS
+Essential Indicators
+1.	
+a. Details of measures for the well-being of employees:
+% of employees covered by
+Category 
+Total (A)
+Health insurance Accident insurance Maternity benefits
+Paternity benefits Day care facilities
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (D)
+% (D/A)
+No. (E)
+% (E/A)
+No. (F)
+% (F/A)
+PERMANENT EMPLOYEES
+Male
+1408
+1408
+100.00%
+1408
+100.00%
+-
+-
+1408
+100.00%
+791
+56.17%
+Female
+183
+183
+100.00%
+183
+100.00%
+183
+100.00%
+-
+-
+92
+50.27%
+Other
+0
+0
+0.00%
+0
+0.00%
+-
+-
+-
+-
+0
+0.00%
+Total
+1591
+1591
+100%
+1591
+100%
+183
+11.50%
+1408
+88.50%
+883
+55.49%
+OTHER THAN PERMANENT EMPLOYEES
+Male
+878
+878
+100.00%
+878
+100.00%
+-
+-
+721
+82.00%
+120
+14.00%
+Female
+44
+44
+100.00%
+44
+100.00%
+44
+100.00%
+-
+-
+4
+9.00%
+Other
+1
+1
+100.00%
+1
+100.00%
+-
+-
+-
+-
+-
+-
+Total
+923
+923 100.00%
+923
+100.00%
+44
+4.78%
+721
+78.12%
+124
+13.43%
+b. Details of measures for the well-being of workers:
+% of workers covered by
+Category
+Total (A)
+Health insurance Accident insurance Maternity benefits
+Paternity benefits Day care facilities
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (D)
+% (D/A)
+No. (E)
+% (E/A)
+No. (F)
+% (F/A)
+PERMANENT WORKERS
+Male
+26
+26
+100.00%
+26
+100.00%
+-
+-
+26
+100.00%
+0
+0.00%
+Female
+6
+6
+100.00%
+6
+100.00%
+6
+100.00%
+-
+-
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+-
+-
+-
+-
+0
+0.00%
+Total
+32
+32 100.00%
+32
+100.00%
+6
+18.75%
+26
+81.25%
+0
+0.00%
+OTHER THAN PERMANENT WORKERS
+Male
+2665
+2665
+100.00%
+2665
+100.00%
+-
+-
+32
+1.20%
+2622
+98.39%
+Female
+461
+461
+100.00%
+461
+100.00%
+461
+100.00%
+-
+-
+449
+97.40%
+Other
+0
+0
+0.00%
+0
+0.00%
+-
+-
+-
+-
+0
+0.00%
+Total
+3126
+3126 100.00%
+3126
+100.00%
+461
+14.75%
+32
+1.02%
+3071
+98.24%
+138
+Business Responsibility & Sustainability Report
+2.	
+Details of retirement benefits for the current and previous financial year
+FY 2022-23
+FY 2021-22
+Benefits
+No. of employees 
+covered (as a % of 
+total employee)
+No. of workers 
+covered (as 
+a % of total 
+workers)
+Deducted & 
+deposited with 
+the authority 
+(Yes/No/N.A)
+No. of employees 
+covered (as 
+a % of total 
+employees)
+No. of workers 
+covered (as 
+a % of total 
+workers)
+Deducted and 
+deposited with 
+the authority 
+(Yes/No/N.A.)
+PF
+100%
+100%
+Yes
+100%
+100%
+Yes
+Gratuity
+100%
+100%
+Yes
+100%
+100%
+Yes
+ESI
+1.5%
+100%
+Yes
+2.7% 
+100%
+Yes
+Others- Please Specify
+-
+-
+-
+-
+-
+-
+3.	
+Accessibility of workplaces
+Are the premises/offices accessible to differently abled employees as per the requirements of the Rights of Persons with 
+Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+Yes, the premises/offices are accessible to differently abled employees
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a 
+web-link to the policy.
+Yes; https://www.stl.tech/pdf/coc/Human-Rights-Policy-V_2_0.pdf
+5.	
+Return to work and retention rates of permanent employees that took parental leave.
+Permanent employees
+Permanent Workers*
+Gender
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+94%
+-
+-
+Female
+100%
+95%
+-
+-
+Other
+0%
+0%
+-
+-
+Total
+100%
+94%
+-
+-
+* There are none in permanent workers who have availed parental leave, hence not applicable.
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and workers? If 
+yes, give details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent employees
+Yes, we are committed to implement and adhere to the best ethical and business 
+practices across our operations globally. This, however, is not achievable without 
+the assistance of their stakeholders and employees.
+All the employees are expected to uphold the code of business conduct and ethics.
+Our company’s whistle-blower policy is designed to allow employees, off-roll 
+employees and workers as well as business partners to voice concerns about any 
+malpractice, impropriety, abuse, or misconduct at an early and appropriate stage, 
+without fear of persecution, discrimination, or disadvantage. The policy has also 
+been extended to external stakeholders such as vendors, customers, and others.
+We have a prevention of sexual harassment committee (PSHC) that oversees all 
+complaints. Annual trainings are also provided to employees to ensure they are 
+aware of various aspects that are covered under POSH and can raise concerns 
+through the right channels.
+To enable a healthy work environment, our company launched STL Care in February 
+2021 to cater to wellness, primarily mental, and emotional well-being of our employees.
+Other than permanent employees
+Permanent workers
+Other than permanent workers
+Annual Report 2022-23
+139
+Statutory Reports
+Financial Statements
+Corporate Overview
+7.	
+Membership of employees in association(s) or unions recognised by the listed entity:
+Category
+FY 2022-23
+FY 2021-22
+Total employees / 
+workers in  
+respective  
+category (A)
+No. of employees 
+/ workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (B)
+%  
+(B / A)
+Total employees / 
+workers in  
+respective  
+category (C)
+No. of employees / 
+workers in respective 
+category, who are 
+part of association(s) 
+or Union (D)
+%  
+(D / C)
+Total Permanent 
+Employees
+0
+0
+0
+0
+0
+0
+- Male
+0
+0
+0
+0
+0
+0
+- Female
+0
+0
+0
+0
+0
+0
+Total Permanent 
+Workers
+0
+0
+0
+0
+0
+0
+- Male
+0
+0
+0
+0
+0
+0
+- Female
+0
+0
+0
+0
+0
+0
+8.	
+Details of training given to employees and workers
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+On health & safety/
+wellness measures
+On skill 
+upgradation
+Total (D) On health and safety 
+measures/ wellness
+On skill 
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. F
+% (F/D)
+EMPLOYEES
+Male
+2286
+2148
+93.96%
+1857
+81.23%
+3059
+2065
+67.51%
+2899
+94.77%
+Female
+227
+172
+75.77%
+167
+73.57%
+434
+172
+39.63%
+370
+85.25%
+Other
+1
+1
+100.00%
+0
+0.00%
+1
+1
+100.00%
+0
+0.00%
+Total
+2514
+2321
+92.32%
+2024
+80.51%
+3494
+2238
+64.05%
+3269
+93.56%
+WORKERS
+Male
+2691
+2689
+99.93%
+2678
+99.52%
+2925
+2925
+100.00%
+2916
+99.69%
+Female
+467
+467
+100.00%
+459
+98.29%
+277
+277
+100.00%
+276
+99.64%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Total
+3158
+3156
+99.94%
+3137
+99.34%
+3202
+3202
+100.00%
+3192
+99.69%
+9.	
+Details of performance and career development reviews of employees and workers
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+EMPLOYEES
+Male
+2286
+2059
+90.07%
+3059
+2477
+81.97%
+Female
+227
+213
+93.84%
+434
+309
+71.20%
+Other
+1
+1
+100.00%
+1
+1
+100.00%
+Total
+2514
+2273
+90.41%
+3494
+2787
+79.77%
+WORKERS
+Male
+2691
+64
+2.38%
+2925
+15
+0.51%
+Female
+467
+17
+3.64%
+277
+4
+1.44%
+Other
+0
+0
+0.00%
+0
+0
+0.00%
+Total
+3158
+81
+2.56%
+3202
+19
+0.59%
+140
+Business Responsibility & Sustainability Report
+10.	
+a.	
+Whether an occupational health and safety 
+management system has been implemented by the 
+entity? (Yes/ No). If yes, the coverage of such system? 
+Yes, our company has well-organised occupational 
+Health & Safety management system implemented 
+and maintained as per the company’s procedures and 
+legal requirements. The roles and responsibilities of the 
+team are defined, and regular monitoring is carried out 
+through management reviews. All the manufacturing 
+facilities are ISO 45001 and 14001 certified. 
+b.	
+What are the processes used to identify work-
+related hazards and assess risks on a routine and 
+non-routine basis by the entity?
+We are an ISO 45001 certified organisation. We 
+have an internal tool to assess risks associated 
+with the processes and risk assessment is done 
+on a project basis (routine & non-routine basis). All 
+manufacturing processes are governed by a Quality, 
+Environment, Health and Safety policy (QEHS) and 
+each area is also monitored through an ISO 14001 
+certified Environment Management System and ISO 
+45001 Occupational Health and Safety management 
+system. This helps the company to maintain a 
+high environmental and safety standard across its 
+facilities as well as identify gaps and proactively 
+mitigate them through appropriate action.
+Policies such as Quality, Environment, Health 
+and Safety policy, Hazard Identification and 
+Risk Assessment (HIRA) and standard operating 
+processes are available to workers for awareness 
+concerning hazards, risks and injury or ill health while 
+working. Work-related incidents are investigated 
+via accident and investigation procedures. It was 
+also noted that the plant implementation committee 
+for each manufacturing units is responsible for 
+implementing initiatives such as Programme Abhay 
+for bringing about cultural transformation in current 
+EHS practices and further optimise it.
+Key processes/ Standard Operating Procedures 
+(SOPs) used to identify work-related hazards and 
+assess risks on a routine and non-routine basis by 
+the entity are as follows:
+•	
+Occupational safety hazards and risks are 
+identified for all activities and control measures 
+as per procedure. It is mandatory for any 
+process to undergo a risk assessment, and 
+in case of non-routine or dangerous work, a 
+Permit to Work (PTW) is required for initiation.
+•	
+Hazard identification and risk assessment are 
+implemented regularly for all routine and non-
+routine activities.
+•	
+Work-related incidents are investigated via 
+accident and investigation procedures.
+c.	
+Whether you have processes for workers to 
+report the work-related hazards and to remove 
+themselves from such risks. (Yes/No)
+Yes
+d.	
+Do the employees/ worker of the entity have 
+access to non-occupational medical and healthcare 
+services? (Yes/No)
+Yes
+11.	 Details of safety related incidents
+Safety Incident/Number
+Category
+FY 2022-23
+FY 2021-22
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person 
+hours worked)
+Employees
+0.21
+0
+Workers
+0.10
+0.40
+Total recordable work-related injuries
+Employees
+1
+0
+Workers
+1
+4
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health (excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12.	 Describe the measures taken by the entity to ensure a 
+safe and healthy workplace.
+Our company has launched STL Care programme, in 
+February 2021 to cater to wellness, primarily mental, 
+and emotional well-being for their employees. The 
+programme comprises policies and efforts that 
+encourage people to adopt healthy lifestyles and 
+achieve professional success. Our company has an 
+employee-wellbeing policy as well.  
+https://www.stl.tech/pdf/Employee-well-being-policy.pdf
+We have put in place several systems and processes 
+that provide our employees with a safe work 
+environment without any fear of injury or adverse effects 
+on their health. To ensure complete readiness for the 
+unlikely event of an emergency, we work on three fronts:
+•	
+First, our technological foundation and compliance 
+guarantee that the systems have a solid base 
+by enforcing strict standards that oversee every 
+procedure.
+•	
+Second, leadership and management systems 
+supervise the implementation of these policies.
+•	
+Last, but not the least, consistent awareness is 
+ensured through the transmission of information, and 
+behavior.
+Policies such as Quality, Environment, Health and Safety 
+policy, HIRA and standard operating processes are 
+available to workers for awareness concerning hazards, 
+risks and injury or ill health while working. Work-related 
+incidents are investigated via accident and investigation 
+procedures.
+Annual Report 2022-23
+141
+Statutory Reports
+Financial Statements
+Corporate Overview
+13.	 Number of complaints on working conditions and health and safety made by employees and workers
+Category
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Working Conditions
+0
+0
+-
+0
+0
+-
+Health & Safety
+0
+0
+-
+0
+0
+-
+14.	 Assessments for the year
+% Of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Health & Safety practices
+100%
+Working conditions
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks / concerns arising from assessments of health and safety practices and working conditions. 
+All manufacturing processes at STL are governed by a QEHS policy and every process is also monitored through an ISO 
+14001 certified Environment Management System and ISO 45001 Occupational Health and Safety management system. 
+This helps the company maintain high environmental and safety standards across its facilities, proactively identify gaps and 
+mitigate them through appropriate action.
+A Hazard Identification and Risk Assessment (HIRA), Hazard and Operability Study (HAZOP) and standard operating 
+processes are available to workers for awareness concerning hazards, risks and injury or ill health while working. Work-
+related incidents are investigated via accident and investigation procedures.
+Further, the plant implementation committee for each manufacturing units is responsible for implementing initiatives such 
+as Programme Abhay for bringing about cultural transformation is current EHS practices and further optimising it.
+Leadership Indicators 
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) 
+Workers (Y/N)?
+Employees
+Yes
+Workers
+Yes
+2.	
+Provide the number of employees / workers having suffered high consequence work related injury / ill-health / fatalities (as 
+reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment or whose 
+family members have been placed in suitable employment
+Total no. of affected  
+employees/ workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose family 
+members have been placed in suitable employment
+FY 2022-23
+FY 2021-22
+FY 2022-23
+FY 2021-22
+Employees
+0
+0
+0
+0
+Workers
+0
+0
+0
+0
+3.	
+Does the entity provide transition assistance Programmes to facilitate continued employability and the management of 
+career endings resulting from retirement or termination of employment? (Yes/ No)
+No 
+4.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with 
+such partners) that were assessed
+Health & Safety practices
+6.41%
+Working Conditions
+6.41%
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments 
+of health and safety practices and working conditions of value chain partners.
+Periodic audits are conducted. Corrective and preventive actions tracked to its closure on regular basis.
+We also conduct audits at vendors’ premises with regard to environmental, health and safety expectations, and track  
+its compliance.
+142
+Business Responsibility & Sustainability Report
+PRINCIPLE 4- BUSINESSES SHOULD RESPECT THE 
+INTERESTS OF AND BE RESPONSIVE TO ALL ITS STAKE-
+HOLDERS
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder 
+groups of the entity.
+The stakeholder identification and engagement process 
+are well documented and implemented through the STL 
+Sustainability programme. Stakeholder perspectives are 
+essential for the company, and we regularly engage with 
+stakeholders to understand and actively respond to their 
+concerns. We therefore ensure ongoing and effective 
+communication with our stakeholders. Stakeholders 
+include organisations and individuals impacted by or 
+capable of influencing the operations. Our company has 
+identified - employees, customers, suppliers and vendors, 
+investors, leadership and non-governmental organisations 
+(NGOs) as our stakeholders. The identification of 
+stakeholders helps us in categorising material issues 
+based on our ESG priorities. The company uses well-
+established direct and indirect mechanisms, to source 
+continuous and unbiased feedback from stakeholders.
+2.	
+Each stakeholder groups.
+Key  
+Stakeholders
+Whether identified  
+as Vulnerable &  
+Marginalised Group  
+(Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Others
+Frequency of  
+engagement
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Employees
+No
+Email
+Quarterly
+Feedback, grievances, talent 
+management
+Customers
+No
+Email
+Quarterly
+ Feedback, grievances, new 
+product development
+Suppliers and 
+vendors
+No
+Others
+Quarterly
+Supplier satisfaction, material 
+compliance, joint development, 
+mutual value creation
+NGOs
+No
+Email
+Quarterly
+Development projects according 
+to the identified needs, support to 
+social causes
+Leadership
+No
+Email
+Quarterly
+Economic value creation, 
+ESG disclosures, sector and 
+programme related
+Investors
+No
+Others
+Quarterly
+Economic value creation, 
+ESG disclosures, sector and 
+programme related
+Leadership Indicators 
+1.	
+Provide the processes for consultation between 
+stakeholders and the Board on economic, 
+environmental, and social topics or if consultation is 
+delegated, how is feedback from such consultations 
+provided to the Board.
+We respond to issues identified as material and 
+demonstrates these actions through our policies, 
+objectives, indicators and performance targets. The 
+organisation and its stakeholders can use the reported 
+information as a reasonable basis for their opinions 
+and decision-making. Our company has taken various 
+initiatives towards delivering environmentally friendly 
+services along with occupational health and safety, 
+appropriate measures for emergency handling, control 
+and risk management in its operations. The responses 
+to material aspects are fairly articulated in the report, 
+i.e. disclosures on STL´s policies and management 
+systems including governance. In our view, the level at 
+which the report adheres to this principle is very good.
+2.	
+Whether stakeholder consultation is used to support 
+the identification and management of environmental, 
+and social topics (Yes / No). If so, provide details 
+of instances as to how the inputs received from 
+stakeholders on these topics were incorporated into 
+policies and activities of the entity.
+Yes, stakeholder consultation is used to support the 
+identification and management of environmental, and 
+social topics. Materiality assessment is done annually to 
+incorporate the inputs from stakeholders. 
+3.	
+Provide details of instances of engagement with, and 
+actions taken to, address the concerns of vulnerable/ 
+marginalised stakeholder groups. 
+The following are some of the examples of our 
+engagement and actions: 
+The Jeewan Jyoti women empowerment programme- 
+the Jeewan Jyoti women empowerment programme 
+has grown into a compelling platform for women to 
+achieve their aspirations. This programme has allowed 
+these women, who were once shrouded in patriarchal 
+societies, to lead economic growth in their villages 
+through entrepreneurship, management skills and 
+facilitating micro-financing linkages. 
+Digital equalizer and improved learning (DEIL) 
+programme -We have a long-standing commitment 
+to providing marginalised communities with quality 
+education has helped increase basic digital literacy 
+through continuous skill-building assistance and 
+technical support not just for students, but also their 
+families and school faculty. Our company launched 
+DEIL programme. The programme aims to benefit over 
+1,00,000 beneficiaries annually across 300 educational 
+institutions in Aurangabad, Nandurbar (Maharashtra, 
+India) and Silvassa (Union Territory of Dadra and 
+Nagar Haveli)
+Annual Report 2022-23
+143
+Statutory Reports
+Financial Statements
+Corporate Overview
+PRINCIPLE 5 - BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+Essential Indicator 
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format: *
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. of employees/ 
+workers covered (B)
+% (B/A)
+Total (C)
+No. of employees/ 
+workers covered (D)
+% (D/C)
+EMPLOYEES
+Permanent
+1591
+1541
+96.86%
+2627
+2340
+89.07%
+Other than permanent 
+923
+839
+90.90%
+867
+636
+73.36%
+Total employees 
+2514
+2380
+94.67%
+3494
+2976
+85.17%
+WORKERS
+Permanent 
+32
+32
+100.00%
+18
+15
+83.33%
+Other than Permanent 
+3126
+3108
+99.42%
+3184
+2
+0.06%
+Total workers 
+3158
+3140
+99.43%
+3202
+17
+0.53%
+2.	
+Details of minimum wages paid to employees and workers:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+Equal to  
+minimum wage
+More than  
+minimum wage
+Total (D)
+Equal to  
+minimum wage
+More than 
+minimum wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+EMPLOYEES
+Permanent
+1591
+0
+0.00%
+1591
+100.00%
+2627
+0
+0.00%
+2627
+100.00%
+Male
+1408
+0
+0.00%
+1408
+100.00%
+2256
+0
+0.00%
+2256
+100.00%
+Female
+183
+0
+0.00%
+183
+100.00%
+371
+0
+0.00%
+371
+100.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Non-permanent 
+923
+0
+0.00%
+923
+100.00%
+867
+0
+0.00%
+867
+100.00%
+Male
+878
+0
+0.00%
+878
+100.00%
+803
+0
+0.00%
+803
+100.00%
+Female 
+44
+0
+0.00%
+44
+100.00%
+63
+0
+0.00%
+63
+100.00%
+Other
+1
+0
+0.00%
+1
+100.00%
+1
+0
+0.00%
+1
+100.00%
+WORKERS
+Permanent
+ 32
+ 0
+ 0.00%
+32
+100.00% 
+ 18
+ 0
+0.00%
+18
+100.00% 
+Male
+26
+0
+0.00%
+26
+100.00%
+15
+0
+0.00%
+15
+100.00%
+Female
+6
+0
+0.00%
+6
+100.00%
+3
+0
+0.00%
+3
+100.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Non-permanent 
+3126 
+214
+6.86% 
+ 2912
+93.15% 
+3184
+6 
+ 0.19%
+3178
+ 99.8%
+Male
+2665
+81
+3.04%
+2584
+96.96%
+2910
+6
+0.21%
+2904
+99.79%
+Female
+461
+133
+28.85%
+328
+71.14%
+274
+0
+0.00%
+274
+100.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+3.	
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Other
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors 
+(BoD) 
+6
+₹45.85 Lakh
+1
+₹46.65 Lakh
+0
+0
+KMP (other than BoD)
+3^
+₹97.11 Lakh
+0
+0
+0
+0
+Employees other  
+than BoD & KMP*
+1402#
+₹8.68 Lakh
+182#
+₹7.02 Lakh
+0
+0
+Workers
+26*
+₹2.09 Lakh
+6*
+₹1.25 Lakh
+0
+0
+*This number only include salary of permanent workers.
+# This number only include salary of permanent employees
+^ 1 of the board member is included in KMP
+144
+Business Responsibility & Sustainability Report
+4.	
+Do you have a focal point (Individual/ Committee) 
+responsible for addressing human rights impacts or 
+issues caused or contributed to by the business? (Yes/No)
+Yes, HR department headed by the Chief HR Officer: 
+oversees the policies on human rights and fair labour 
+practices. This ensure implementation of Human Rights 
+or issues caused or contributed to by the business as 
+per applicable guidelines. 
+5.	
+Describe the internal mechanisms in place to redress 
+grievances related to human rights issues?
+All the employees are expected to uphold the code of 
+business conduct and ethics. Our company’s whistle-
+blower policy is designed to allow employees, off-roll 
+employees and workers as well as business partners 
+to voice concerns about any malpractice, impropriety, 
+abuse, or misconduct at an early and appropriate 
+stage, without fear of persecution, discrimination, or 
+disadvantage. The policy has also been extended to 
+external stakeholders such as vendors, customers, 
+and others. 
+To enable a healthy work environment, our company 
+launched STL Care in February 2021 to cater to 
+wellness, primarily mental, and emotional well-being of 
+our employees.
+6.	
+Number of complaints on the following made by employees and workers:
+Category
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Sexual harassment
+1*
+0
+-
+1
+0
+The complaint filed 
+has been resolved
+Discrimination at 
+workplace
+0
+0
+-
+0
+0
+-
+Child labour
+0
+0
+-
+0
+0
+-
+Forced/Involuntary 
+Labour
+0
+0
+-
+0
+0
+-
+Wages
+0
+0
+-
+0
+0
+-
+Other issues
+0
+0
+-
+0
+0
+-
+* This complaint was closed in April 2023.
+7.	
+Mechanisms to prevent adverse consequences to the 
+complainant in discrimination and harassment cases
+Our company is committed to maintaining a fair and 
+productive environment for all its employees at various 
+levels in the organisation, free of sexual harassment 
+and discrimination on the basis of gender. Our policy on 
+Prevention of Sexual Harassment is framed in line with 
+the requirements of the Sexual Harassment of Women 
+at Workplace (Prevention, Prohibition & Redressal) Act, 
+2013 (‘POSH Act’). We have also set up Prevention of 
+Sexual Harassment Committee, which is in compliance 
+with the requirement of the POSH Act, to redress the 
+complaints received regarding sexual harassment which 
+has formalised a free and fair enquiry process with clear 
+timeline. During the financial year, the company received 
+one complaint under the POSH Act
+If an employee raises a genuine concern under this 
+policy, they will not be at risk of losing their job nor 
+will they suffer from any form of retribution as a result. 
+Further, we also ensure protection of confidentiality 
+and anonymity of the complainant to the fullest 
+extent possible with an objective to conduct an 
+adequate review.
+8.	
+Do human rights requirements form part of your 
+business agreements and contracts? (Yes/No)
+Yes
+9.	
+Assessments for the year:
+% of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Child labour
+66.66%
+Forced/ involuntary labour
+66.66%
+Sexual harassment
+66.66%
+Discrimination at workplace
+66.66%
+Wages
+66.66%
+Others – please specify
+-
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above.
+Not applicable.
+Annual Report 2022-23
+145
+Statutory Reports
+Financial Statements
+Corporate Overview
+Leadership Indicators
+1.	
+Details of a business process being modified / 
+introduced as a result of addressing human rights 
+grievances/complaints. 
+Our company is committed to providing a safe and 
+positive work environment. In keeping with this 
+philosophy, the organisation envisages an open-door 
+policy. Employees also have access to several forums 
+where they can highlight matters or concerns faced 
+at the workplace. This is achieved through a well-
+established and robust grievance resolution mechanism 
+comprising Stakeholders’ Relationship Committee and 
+resolution hubs.
+While working with partners, we also ensure that no 
+human rights are violated. We undertake supplier 
+assessments and audits regularly to ensure our 
+suppliers adhere to our values and policies regarding 
+environmental issues including waste disposal, human 
+rights, fair labour and anti-corruption. We also uphold 
+the highest standards when it comes to the sourcing 
+of raw materials and do supplier due diligence for 
+the same.
+2.	
+Details of the scope and coverage of any Human rights 
+due-diligence conducted.
+Human rights and fair labour practices, do not only 
+feature on our list of top material topics, but are also 
+driven by partners across our value chain. We have 
+policies and ensure adherence to the standards we 
+follow as well as audit our facilities and partners on 
+these parameters periodically. 
+We ensure a secure working environment at our 
+plants. Our Rakholi and Dadra facilities have been 
+SA8000:2014 certified. Remaining Indian plants have 
+completed phase 1 audit under SA8000. 
+3.	
+Is the premise/office of the entity accessible to 
+differently abled visitors, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016?
+Yes
+4.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Sexual harassment
+6.41%
+Discrimination at workplace
+6.41%
+Child labour
+6.41%
+Forces labour/ Involuntary labour
+6.41%
+Wages
+6.41%
+Others – please specify
+-
+5.	
+Provide details of any corrective actions taken or underway to address significant risks/ concerns arising from the 
+assessment at Question 4 above. 
+No such corrective action has been taken.
+PRINCIPLE 6- BUSINESS SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE THE ENVIRONMENT
+Essential Indicators
+1.	
+Details of total energy consumption (in joules or multiples) and energy intensity, in the following format:
+Parameter
+FY2022-23
+FY 2021-22
+(in KJ)
+(in KJ)
+Total electricity consumption (A)
+9,47,27,60,45,467
+9,37,13,54,63,940
+Total fuel consumption (B)
+1,50,03,50,03,265
+1,46,84,44,76,704
+Energy consumption through other sources (C)
+-
+-
+Total energy consumption (A+B+C)
+10,97,31,10,48,732
+10,83,97,99,40,644
+Energy intensity per rupee of turnover (total energy consumption/  
+turnover in rupees)
+20.51 KJ/INR
+21.59 KJ/INR
+Energy intensity(Optional) the relevant metric may be selected by the entity 
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.
+No
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been 
+achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+No
+146
+Business Responsibility & Sustainability Report
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres)
+(i)	
+Surface water
+-
+-
+(ii)	 Ground water
+1,17,967
+1,20,740
+(iii)	 Third party water
+5,12,116
+5,04,079
+(iv)	 Seawater/Desalinated water
+-
+-
+(v)	 Others
+-
+-
+Total volume of water withdrawal (in kilolitres)
+6,30,083
+6,24,819
+Total volume of water consumption (in kilolitres)
+6,29,514
+6,17,144
+Water intensity per rupee of turnover (water consumed / turnover in rupees)
+0.000012 KL/INR
+0.000012 KL/INR
+Water intensity (optional) the relevant metric may be selected by the entity
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.
+No
+4.	
+Has the entity implemented a mechanism for Zero 
+Liquid Discharge? If yes, provide details of its coverage 
+and implementation.
+Yes, 100% of our Indian manufacturing units are zero-
+liquid discharge certified. Effluent treatment (ETP) and 
+multi-effective evaporator (MEE) plants are installed, 
+in addition to several in-plant modifications to our 
+processes help we ensure this. A detailed study of 
+parameters has been done on the wastewater before 
+its treatment in the ETP which has in turn helped reduce 
+the load on the plant. The process includes wastewater 
+from the scrubber process, silicon tetrachloride (SiCl4), 
+and softener plants collected at the ETP. Through 
+chemical treatments, solid particles and chlorine in the 
+water are removed and then fed with steam in the MEE 
+plant through a three-stage centrifuging process to 
+remove salt in the water. This recycled water is again 
+used in the boiler and scrubber processes. Effluent and 
+sewage treatment plants have helped us ensure zero 
+liquid discharge at all our plants in Aurangabad, which 
+is traditionally a drought-prone region.
+Zero liquid discharge (ZLD) Certified plants includes.
+Shendra draw plant, Shendra glass plant, Waluj plant, 
+Rakholi plant and Dadra plant.
+The Zero Liquid Discharge certification has been done 
+by DQS with reference to Circular Water Management, 
+Compliances, and ISO 14021:2016 Environmental labels 
+and declarations (Type II environmental labelling – 
+verifying implementation and overseeing certification). 
+The certification was preceded by a detailed audit and 
+documentation exercise that found STL’s ZLD performance 
+in consonance with globally accepted standards. 
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY2022-23
+FY2021-22
+NOx
+MT
+1.29
+-
+SOx
+MT
+0.51
+-
+Particulate matter (PM)
+MT
+60.33
+-
+Persistent organic pollutants (POP)
+NA
+-
+-
+Volatile organic compounds (VOC)
+NA
+-
+-
+Hazardous air pollutants (HAP)
+NA
+-
+-
+Others- please specify
+NA
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.
+No
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY2022-23
+FY2021-22
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+gCO2e
+8,91,31,81,510
+9,10,61,49,809
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+gCO2e
+2,13,05,22,99,990
+2,05,55,93,78,278
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+gCO2/R
+4.15
+4.28
+Total Scope 1 and Scope 2 emission intensity (optional) – 
+the relevant metric may be selected by the entity
+-
+-
+-
+Annual Report 2022-23
+147
+Statutory Reports
+Financial Statements
+Corporate Overview
+Note: Indicate if any independent assessment/ 
+evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency. - No
+7.	
+Does the entity have any project related to reducing 
+Green House Gas emission? If yes, then provide details.
+Initiatives undertaken by our company for optimisation 
+and efficiency are as follows:
+•	
+Installation of latest IGBT technology UPS, which 
+provides 95% efficiency compared to old rectifier 
+technology with below 90% efficiency).
+•	
+Replacement of overhead pumps of chilled water 
+circulation with submersible single pump, having 
+almost half of the power rating.
+•	
+Roof top green solar energy of 625kwp installed.
+•	
+Aluminum air pipelines installed have low friction 
+during flow of air thereby resulting in high efficiency 
+of compressor and low air losses.
+•	
+Centralised utilities building going live, expected 
+energy saving by 10 to 15%
+•	
+Latest technology & highly efficient equipment 
+selection with 100% redundancy (Dry transformer/
+UPS/RMU/Type Tested panels/HVAC/Cooling 
+Towers/Pumps)
+•	
+New PEB shed with roof sky light design to reduce 
+daytime plant lighting load
+•	
+Revamp the chilled water circulation pumping 
+system with submersible improving reliability 
+of system. 
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY2022-23
+FY2021-22
+Total waste generated (in metric tonnes)
+Plastic waste (A)
+4,412
+4,840
+E-waste (B)
+9
+11
+Bio-medical waste (C)
+0.03
+0.034
+Construction and demolition waste (D)
+0
+0
+Battery for (E)
+65
+8
+Radioactive waste (F)
+0
+0
+Other hazardous waste. Please specify, if any. (G)
+8,934
+7,532
+Other non-hazardous waste generated (H). Please specify, if any.
+32,803
+28,835
+Total (A+B+C+D+E+F+G+H)
+46,223
+41,226
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)
+Category of waste
+(i)	
+Recycled
+40,478
+38,347
+(ii)	 Re-used
+4,663
+1,831
+(iii)	 Other recovery operations (safely disposed)
+-
+-
+Total
+45,141
+40,177
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i)	
+Incineration
+85
+97
+(ii)	 Landfilling
+997
+952
+(iii)	 Other disposal operations
+-
+-
+Total
+1,082
+1,049
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency. 
+Yes, Zero waste to landfill certificate was issued by TUV SUD to all plants.
+148
+Business Responsibility & Sustainability Report
+9.	
+Briefly describe the waste management practices 
+adopted in your establishments. Describe the strategy 
+adopted by your company to reduce usage of hazardous 
+and toxic chemicals in your products and processes and 
+the practices adopted to manage such wastes.
+Waste management is one of the most fundamental ways 
+we drive our sustainability agenda. Our approach to 
+waste management is to eliminate waste and optimally 
+use available resources. We ensure that the vendors 
+we choose to do business with are also environmentally 
+conscious and are approved by the Pollution Control 
+Board. We ensure all our employees and workers are 
+well-informed about the importance of recycling and waste 
+segregation at the corporate office and the manufacturing 
+facility. We aim to have all our plants across the globe 
+certified with Zero Waste to Landfills (ZWL) over the next 
+few years. 
+We also monitor our hazardous and non-hazardous 
+waste, monthly. While we ensure our processes comply 
+with stringent waste management rules in the countries 
+we operate, we also verify the approaches our 
+recyclers adopt. This assures us that they are operating 
+according to the prescribed laws and our byproducts or 
+waste are further reused, promoting a circular economy, 
+especially for optic fibre, cables and LSZH.
+Our company has started using co-processing in 
+partnership with cement companies as one of the 
+disposal and management solutions, which helps 
+convert waste to energy. Further, we have prioritised 
+opportunities for reusing waste by enhancing the 
+usage of what was generated from our operations as 
+a resource for our industry or others. Reusing waste 
+helps save natural resources while manufacturing new 
+products, as well as generating revenue in due course of 
+operations. This entire initiative also involves monitoring 
+each type of waste generated, its source, and so on. 
+This is essential to increase process efficiency and 
+identify preventive mechanisms to reduce generation. 
+This entire effort has helped our company become 
+the world’s first integrated optic fibre and cables 
+manufacturer to be Zero Waste to Landfill (ZWL) certified 
+for 100% of its manufacturing units that are operational 
+for over a year. It has helped us optimize resource 
+utilisation and operate in a more efficient and eco-
+friendly manner by treating waste as a resource; which is 
+at the crux of our waste management approach. 
+10.	 If the entity has operations/offices in/around 
+ecologically sensitive areas (such as national parks, 
+wildlife sanctuaries, biosphere reserves, wetlands, 
+biodiversity hotspots, forests, coastal regulation zones 
+etc.) where environmental approvals / clearances are 
+required, please specify details.
+Not applicable. 
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in FY 2022 
+Name and brief 
+details of project
+EIA Notification 
+Number
+Date Whether conducted by independent 
+external agency (Yes / No)
+Results communicated in 
+public domain (Yes/No)
+Relevant  
+Web Links
+NA
+NA
+NA
+NA
+NA
+NA
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water (Prevention 
+and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder 
+(Y/N). If not, provide details of all such non-compliances.
+Yes, STL is compliant with the applicable environmental law/ regulations/ guidelines in India. 
+Leadership Indicators
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, in the 
+following format:
+Parameter
+FY 2022-23
+FY 2021-22
+From renewable sources (KJ)
+Total electricity consumption (A)
+1,0,207,22,400
+40,91,91,840
+Total fuel consumption (B)
+-
+-
+Energy consumption through other sources (C)
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+1,02,07,22,400
+40,91,91,840
+From non-renewable sources (KJ)
+Total electricity consumption (D)
+9,47,27,60,45,467
+9,37,13,54,63,940
+Total fuel consumption (E)
+1,50,03,50,03,265
+1,46,844476704
+Energy consumption through other sources (F)
+-
+-
+Total energy consumed from non-renewable sources (D+E+F)
+10,97,31,10,48,732
+10,83,97,99,40,644
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency. 
+No
+Annual Report 2022-23
+149
+Statutory Reports
+Financial Statements
+Corporate Overview
+2.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details 
+of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation 
+activities.
+NA
+3.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as 
+well as outcome of such initiatives, as per the following format:
+S.No.
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be 
+provided along-with summary)
+Outcome of the initiative
+1
+Solar panel installation at 
+Rakholi plant
+The company has installed a 625 KWP capacity 
+rooftop solar power system at Rakholi
+It will generate roughly 7,76,000 
+units of electricity annually
+2
+Ensuring zero liquid/effluent 
+discharge into communities
+Water audits were conducted for all Indian plants. 
+Water conservation and harvesting measure were 
+identified for each plant as part of the audit.
+ To ensure zero discharge, a detailed study of 
+parameters has been done on the wastewater 
+before its treatment in the ETP which has in turn 
+helped reduce the load on the plant.
+https://www.stl.tech/esg/
+Each of our manufacturing units 
+in Aurangabad and Silvassa 
+are all zero-liquid discharge 
+certified. Effluent treatment 
+(ETP) and multi-effective 
+evaporator (MEE) plants 
+installed, in addition to several 
+in-plant modifications to our 
+processes help us ensure this.
+3
+Ensuring 100% manufacturing 
+facilities to be Zero Waste to 
+Landfill certified
+We ensure our processes comply with stringent  
+waste management rules in the countries we operate. 
+We also verify the approaches our recyclers adopt. 
+This assures us that they are operating according to 
+the prescribed laws and our by-products or waste  
+are further reused, promoting a circular economy.
+https://www.stl.tech/esg/
+100% of STL manufacturing 
+units, which are operational for 
+over a year, are Zero Waste to 
+Landfill certified for diverting 
+between 97% to 100% of waste 
+from landfills.
+4.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+Acute and chronic climate-related risk to our company’s assets is evaluated as part of our business continuity and disaster 
+management plan. Types of climate-related risks include local incidents like water shortage, temperature rise, building fires, 
+natural calamities, catastrophic events, or national incidents like pandemic illnesses, in additional to others. We have a robust 
+business continuity programme to monitor those risks and have in place measures to help ensure continued reliability. 
+5.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or 
+adaptation measures have been taken by the entity in this regard.
+As we aim to evolve and advance in our ESG journey, we continuously strive to build partnerships across our value chain 
+with vendors who we identify and are aware of their environmental, social and regulatory risks. Currently, there is no 
+significant adverse impact to the environment arising from the value chain. Further, we aim to have 100% sustainable 
+sourcing by 2030.
+150
+Business Responsibility & Sustainability Report
+PRINCIPLE 7- BUSINESS, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, SHOULD DO 
+SO IN A MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+Essential Indicator
+1.	
+a. Number of affiliations with trade and industry chambers/ associations. 
+Thirteen
+b. List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the 
+entity is a member of/ affiliated to.
+S. No.
+Name of the trade and industry chambers / 
+associations
+Reach of trade and industry chambers/ associations  
+(State/National)
+1
+CII
+National
+2
+FICCI
+National
+3
+ASSOCHAM
+National
+4
+TEPC
+National
+5
+TEMA
+National
+6
+BIF
+National
+7
+DIPA
+National
+8
+ITU-APT
+National
+9
+SIDM
+National
+10
+PAFI
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, based 
+on adverse orders from regulatory authorities.
+None
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity:
+S. No. Public policy  
+advocated
+Method resorted for such 
+advocacy
+Whether 
+information 
+available in public 
+domain? (Yes/No)
+Frequency of Review by 
+Board (Annually/ Half 
+yearly/ Quarterly / Others 
+– please specify)
+Web Link, 
+if available
+1
+Advocacy on BharatNet 
+for more government 
+investment, Robust 
+Standards, Make in India 
+and EoDB
+Engagement with 
+government stakeholders 
+and media advocacy through 
+independent credible 
+platform and independently.
+Yes
+Quarterly*
+-
+2
+Amendment to  
+ROW policy
+Engagement with 
+government stakeholders 
+through independent credible 
+platform and independently
+Yes
+Quarterly*
+-
+3
+Enterprise Network
+Engagement with 
+government stakeholders 
+through independent 
+credible platform and 
+independently
+Yes
+Quarterly*
+-
+4
+GST reform to avail  
+cross utilisation of  
+GST input Tax Credit
+Engagement with 
+government stakeholders 
+through independent 
+credible platform and 
+independently
+Yes
+Quarterly*
+-
+5
+Extension of end-use 
+benefits of raw  
+material of OF
+Engagement with 
+government stakeholders 
+through independent credible 
+platform and independently
+Yes
+Quarterly*
+-
+Annual Report 2022-23
+151
+Statutory Reports
+Financial Statements
+Corporate Overview
+S. No. Public policy  
+advocated
+Method resorted for such 
+advocacy
+Whether 
+information 
+available in public 
+domain? (Yes/No)
+Frequency of Review by 
+Board (Annually/ Half 
+yearly/ Quarterly / Others 
+– please specify)
+Web Link, 
+if available
+6
+Mandatory testing for OF 
+and OFC
+Engagement with 
+government stakeholders 
+through independent 
+credible platform and 
+independently
+Yes
+Quarterly*
+-
+7
+Anti Dumping Duty on 
+SMOF
+Engagement with 
+government stakeholders 
+through independent 
+credible platform and 
+independently
+No
+Quarterly*
+-
+8
+Availing SPECS incentives 
+on CAPEX of SiCl4 
+manufacturing
+Direct engagement with 
+government stakeholders
+No
+Quarterly*
+-
+9
+Extension of Fail-safe and 
+High-speed Fixed Optical 
+and 4/ 5G Mobile Defence 
+Networks Connectivity to 
+forward areas
+Engagement with 
+government stakeholders 
+and advocacy through 
+independent credible 
+platform & independently
+Yes
+Quarterly*
+-
+10
+Development of Dual Use 
+Digital ICT infrastructure 
+along land and sea 
+frontiers
+Engagement with 
+government stakeholders 
+and advocacy through 
+independent credible 
+platform & independently
+Yes
+Quarterly*
+-
+11
+Security, surveillance and 
+management of defence 
+stations through smart 
+systems
+Engagement with 
+government stakeholders 
+and advocacy through 
+independent credible 
+platform & independently
+Yes
+Quarterly*
+-
+* Reviewed quarterly by MD and senior management. 
+PRINCIPLE 8-BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVELOPMENT
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current 
+financial year. 
+Name and brief 
+details of project
+SIA  
+Notification  
+No.
+Date of 
+notification
+Whether conducted by 
+independent external  
+agency (Yes/No)
+Results communicated  
+in public domain  
+(Yes/No)
+Relevant 
+Web link
+NA
+NA
+NA
+NA
+NA
+NA
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your 
+entity
+S. No.
+Name of Project for which  
+R&R is ongoing
+State
+District No. of Project Affected 
+Families (PAFs)
+% of PAFs 
+covered by R&R
+Amounts paid to PAFs 
+in the FY (In ₹)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+GRIEVANCE REDRESSAL SYSTEM
+•	
+We have a dedicated email toll-free number to receive community complaints and maintain a copy of the physical 
+register at the programme site where possible.
+•	
+Once the complaint is received from the community members, within 24 hours it is directed to the respective 
+programme manager. These complaints shall be resolved within 5 working days and the team should report back on 
+the central team along with a detailed report on the complaint resolution.
+•	
+Central team shall prepare a monthly report on the complaints received during the month by 10th of following month.
+152
+Business Responsibility & Sustainability Report
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers
+FY 2022-23
+FY 2021-22
+Directly sourced from MSMEs/ small producers
+43.14%
+-
+Sourced directly from within the district and neighbouring districts
+8.33%
+-
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential indicators above)
+NA
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies
+S No.
+State
+Aspirational district
+Amount spent (in ₹)
+1
+Maharashtra
+Gadchiroli
+69,93,357
+2
+Maharashtra
+Nadurbar
+1,28,46,730
+3.	
+Details of beneficiaries of CSR projects
+S. No. CSR Projects (in FY 2022-23)
+No. of persons benefitted 
+from CSR Projects
+% Of beneficiaries from vulnerable 
+and marginalised groups
+1
+Jeewan Jyoti Women Empowerment Programme
+1,735
+100%
+2
+Digital Equalizer and Inclusive Learning Programme
+1,10,996
+100%
+3
+Mobile Medical Unit
+9,06,797
+100%
+4
+Holistic Water Programme
+80,000
+100%
+5
+Liver Transplant
+32
+100%
+6
+Employee Volunteering
+4,191
+100%
+PRINCIPLE 9- BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS IN  
+A RESPONSIBLE MANNER
+Essential Indicators 
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+The mechanism to receive and respond to consumer complaints has been provided below.
+⊲	
+Customer raises concern on mail/ phone to account 
+manager.
+⊲	
+Account manager raises case in salesforce. The 
+case comes to QA team. 
+⊲	
+QA Team give acknowledgement of receipt of 
+complaint within 24 working hrs. 
+⊲	
+QA teams ask for details like batch ID, images, 
+video of the problem for analysis. 
+⊲	
+Account manager shares the details, QA team 
+shares the containment action within 48Hrs. 
+⊲	
+Account Manager plans the sample/ site visit if required.
+⊲	
+QA Team analyzes the case with CFT team (based 
+on images, videos, samples, site visit)
+⊲	
+QA Team validates the complaint as valid and 
+invalid.
+⊲	
+QA team shares the analysis report with the 
+account manager. 
+⊲	
+For invalid cases, if the customer is convinced, 
+the case is closed in system. If the customer is not 
+convinced, then respond to the queries till they are 
+convinced and then the case is closed. 
+⊲	
+For valid cases, share the CAPA and have 
+agreement on the RCA 
+⊲	
+Raise request for claim settlement. 
+⊲	
+Once approved, send the credit note/ replacement.
+Annual Report 2022-23
+153
+Statutory Reports
+Financial Statements
+Corporate Overview
+2.	
+Turnover of products and/services as a percentage of turnover from all products/service that carry information about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+0
+Safe and responsible usage
+0
+Recycling and/or safe disposal
+0
+3.	
+Number of consumer complaints:
+FY 2022-23
+Remarks
+FY 2021-22
+Remarks
+Received 
+during the year
+Pending resolution 
+at end of year
+Received 
+during the year
+Pending resolution 
+at end of year
+Data privacy
+0
+0
+-
+0
+0
+-
+Advertising
+0
+0
+-
+0
+0
+-
+Cyber-security
+0
+0
+-
+0
+0
+-
+Delivery of essential services
+0
+0
+-
+0
+0
+-
+Restrictive Trade Practices
+0
+0
+-
+0
+0
+-
+Unfair Trade Practices
+0
+0
+-
+0
+0
+-
+Other (Quality Complaints)
+58
+7
+-
+72
+9
+-
+Other (Delivery)
+10
+0
+-
+0
+0
+-
+4.	
+Details of instances of product recalls on accounts of safety issues
+Number
+Reasons for recall
+Voluntary recalls
+0
+0
+Forced recalls
+0
+0
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a 
+web-link of the policy.
+Yes, STL has a documented Information Security and Cyber Security policy which has cyber security framework as well. Risk 
+Assessment is carried out periodic basis - at least annually and with major changes. Privacy policy is available on corporate 
+website URL:https://www.stl.tech/privacy.php 
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken 
+by regulatory authorities on safety of products / services.
+All the complaints were satisfactorily addressed, and no corrective actions were undertaken.
+Leadership Indicators 
+1.	
+Channels / platforms where information on products and services of the company can be accessed
+STL Corporate Website: www.stl.tech
+2.	
+Provide the following information relating to data breaches:
+a.	
+Number of instances of data breaches along-with impact: ZERO
+b.	
+Percentage of data breaches involving personally identifiable information of customer: ZERO

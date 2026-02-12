@@ -1,0 +1,2924 @@
+ 
+ 
+Tata Communications Limited 
+Regd. Office: VSB Mahatma Gandhi Road Fort Mumbai – 400 001 
+Tel: 91 22 6659 1968  email: zubin.patel@tatacommunications.com 
+CIN: L64200MH1986PLC039266 website: www.tatacommunications.com 
+HQ/CS/CL.24B/17532 
+June 23, 2023 
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Mumbai – 400 051  
+SYMBOL: TATACOMM 
+BSE Limited  
+P.J. Towers, Dalal Street,  
+Mumbai – 400 001  
+Scrip Code: 500483 
+ 
+Dear Sir / Madam, 
+ 
+Sub: Business Responsibility and Sustainability Report - Integrated Annual Report                        
+FY 2022-23 of Tata Communications Limited  
+   
+Pursuant to Regulations 34(2)(f) of the Securities and Exchange Board of India (Listing 
+Obligations & Disclosure Requirements) Regulations 2015 (“Listing Regulations”), we are 
+submitting herewith the Business Responsibility and Sustainability Report for FY 2022-23, which 
+forms part of the Integrated Annual Report of Tata Communications Limited for FY 2022-23.  
+  
+This is for your information and records. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For Tata Communications Limited 
+ 
+ 
+ 
+Zubin Adil Patel 
+Company Secretary and Compliance Officer 
+ 
+ 
+ 
+ 
+ZUBIN 
+ADIL 
+PATEL
+Digitally signed 
+by ZUBIN ADIL 
+PATEL 
+Date: 2023.06.23 
+21:00:48 +05'30'
+1
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+Business Responsibility and Sustainability Report (‘BRSR’)
+This report provides a holistic view and insights into Tata Communications’ impact and value addition to the economy, 
+environment, and society while ensuring transparency with its stakeholders. Our Environmental, Social and Governance 
+(‘ESG’) performances and metrics have been disclosed as per the requirements of the prescribed framework. This 
+report provides details of Tata Communications’ existing policies and processes in place to fulfill the expectations 
+of investors and stakeholders as well as strategic approaches to create value while managing risks in the external 
+environment.
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of listed entity
+1.
+Corporate Identification Number (CIN) of the listed entity L64200MH1986PLC039266
+2.
+Name of the listed entity 
+Tata Communications Limited
+3.
+Year of incorporation
+1986
+4.
+Registered office address
+VSB, Mahatma Gandhi Road, Fort,  
+Mumbai - 400001
+5.
+Corporate address
+Tata Communications Limited, Tower C, Plot No. 
+C-21 & C-36, G Block, Bandra Kurla Complex, 
+Mumbai – 400 098
+6.
+E-mail id
+investor.relations@tatacommunications.com
+7.
+Telephone
++91 22 6659 1968 
+8.
+Website
+www.tatacommunications.com
+9.
+Financial year reported
+FY 2022-23
+10.
+Name of the Stock Exchanges where shares are listed
+BSE Limited (‘BSE’) and National Stock Exchange 
+of India Limited (‘NSE’)
+11.
+Paid-up Capital
+H2,85,00,00,000 
+12.
+Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report 
+Mr. Mukul Kumar
+Vice President
+Email Id: mukul.kumar@tatacommunications.com
+13.
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e. only for the 
+entity) or on a consolidated basis (i.e. for the entity and 
+all the entities which form a part of its consolidated 
+financial statements, taken together). 
+Consolidated Basis (unless otherwise mentioned)
+S. 
+No. 
+Description of Main Activity
+Description of Business 
+Activity
+% of Turnover of the entity 
+1
+Telecommunications services
+Telecommunications 
+services
+97.3%
+II.	 Products / services
+	
+14.	 Details of business activities (accounting for 90% of the turnover)
+2
+S. 
+No. 
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1
+Telecommunications
+a.	 Activities of providing internet access by the 
+operator of the wired infrastructure. 
+NIC Code - 61104
+b.	Other satellite telecommunications activities. 
+NIC Code - 61309
+c.	 Other telecommunications activities. 
+NIC Code - 61900
+97.3%
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+Others
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. 
+EMPLOYEES
+1.
+Permanent (D)
+13,426
+10,503
+78%
+2,922
+22%
+1
+2.
+Other than Permanent (E)
+5,482
+4,642
+85%
+840
+15%
+-
+3.
+Total employees (D+E)
+18,908
+15,144
+80%
+3,762
+20%
+1
+Location
+Number of plants
+Number of offices
+Total
+National 
+NA
+70
+70
+International
+17
+17
+Location
+Total
+National (No. of States)
+All states and union territories  in India
+International (No. of Countries)
+Tata Communications has presence in 190+ countries and  
+territories around the world. 
+	
+15.	 Products / Services sold by the entity (accounting for 90% of the turnover)
+III.	 Operations
+	
+16.	 Number of locations where plants and / or operations / offices of the entity are situated:
+	
+17.	 Markets served by the entity 
+	
+	
+a.	
+Number of locations
+	
+	
+b.	 What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+	
+	
+The contribution of exports as a percentage of Tata Communications’ Standalone turnover is 8.5%.
+	
+	
+c.	
+Types of customers: Tata Communications works with Service Providers and Mid-Large Enterprises around 
+the world, including several leading Fortune 500 companies.
+IV.	 Employees
+	
+18.	 Details as at the end of Financial Year, i.e., March 31, 2023:
+	
+	
+a.	
+Employees and workers (including differently abled):
+3
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B/A)
+Board of Directors
+6
+1
+17%
+Key Management Personnel
+3
+0
+0%
+	
+20.	Turnover rate for permanent employees and workers (disclose trends for the past 3 years)
+FY 2022-23 (%)
+FY 2021-22 (%)
+FY 2020-21 (%)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+20.3
+28.6
+22.1
+21.9
+31.8
+24.1
+10
+11.9
+10.4
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+1.
+Permanent (D)
+NA
+2.
+Other than Permanent (E)
+3.
+Total differently abled 
+employees (D+E)
+	
+	
+b.	 Differently abled employees and workers:
+	
+	
+	
+Notes:
+	
+	
+	
+a)	 Tata Communications' global headcount includes employees of its wholly-owned subsidiaries.
+	
+	
+	
+b)	 Tata Communications categorises its entire workforce as ‘Employees’. Employees consist of Permanent 
+Employees (i.e., those who are on the  Company’s or its subsidiaries’ payroll) and Other than Permanent 
+Employees (i.e., contractual employees who are on an external party’s payroll). Hence, no details 
+relating to sub-categorisation for workers is provided in this report.  
+	
+	
+	
+c)	 Tata Communications is an equal opportunity employer. We do not unfairly discriminate on any 
+grounds, including race, caste, religion, colour, ancestry, marital status, gender, sexual orientation, 
+age, nationality, ethnic origin, disability or any other category protected by applicable law. Hence, we 
+do not track statistics with respect to differently abled employees.
+	
+19.	 Participation / Inclusion / Representation of women
+V.	 Holding, Subsidiary and Associate Companies (including joint ventures)
+	
+21.	 Name of holding / subsidiary / associate companies / joint ventures
+S. 
+No. 
+Name of the holding / subsidiary / associate 
+companies / joint ventures (A)
+Indicate whether 
+Holding /
+Subsidiary /
+Associate / Joint 
+Venture
+% of shares 
+held by the 
+entity 
+Does the entity indicated 
+at column A, participate 
+in the Business 
+Responsibility initiatives 
+of the entity (Yes / No)
+1
+Tata Sons Private Limited
+Promoter and 
+Holding
+14.07
+Yes, need-based
+2
+Panatone Finvest Limited
+Promoter
+44.80
+Yes, need-based
+3
+Tata Communications (Australia) Pty Limited
+Indirect subsidiary
+100
+The initiatives are driven 
+by Tata Communications 
+Limited  and all the 
+subsidiaries contribute 
+towards such initiatives 
+as and when required.
+4
+S. 
+No. 
+Name of the holding / subsidiary / associate 
+companies / joint ventures (A)
+Indicate whether 
+Holding /
+Subsidiary /
+Associate / Joint 
+Venture
+% of shares 
+held by the 
+entity 
+Does the entity indicated 
+at column A, participate 
+in the Business 
+Responsibility initiatives 
+of the entity (Yes / No)
+4
+Tata Communications (America) Inc.
+Indirect subsidiary
+100
+The initiatives are driven 
+by Tata Communications 
+Limited  and all the 
+subsidiaries contribute 
+towards such initiatives 
+as and when required.
+5
+TCPOP Communication GmbH
+Indirect subsidiary
+100
+6
+Tata Communications (Belgium) S.R.L
+Indirect subsidiary
+100
+7
+Tata Communications (Bermuda) Limited
+Indirect subsidiary
+100
+8
+Tata Communications SVCS Pte. Ltd. 
+Indirect subsidiary
+100
+9
+Tata Communications (Beijing) Technology 
+Limited
+Indirect subsidiary
+100
+10
+Tata Communications (Canada) Ltd.
+Indirect subsidiary
+100
+11
+Tata Communications (France) SAS
+Indirect subsidiary
+100
+12
+Tata Communications Deutschland GmbH
+Indirect subsidiary
+100
+13
+Tata Communications (Guam) L.L.C.
+Indirect subsidiary
+100
+14
+Tata Communications (Hong Kong) Limited
+Indirect subsidiary
+100
+15
+Tata Communications (Hungary) KFT
+Indirect subsidiary
+100
+16
+Tata Communications (Ireland) DAC
+Indirect subsidiary
+100
+17
+Tata Communications (Italy) S.R.L
+Indirect subsidiary
+100
+18
+Tata Communications (Japan) K.K.
+Indirect subsidiary
+100
+19
+ITXC IP Holdings S.A.R.L.
+Indirect subsidiary
+100
+20
+Tata Communications (Malaysia) SDN. BHD.
+Indirect subsidiary
+100
+21
+Tata Communications (Netherlands) B.V.
+Indirect subsidiary
+100
+22
+Tata Communications (New Zealand) Limited
+Indirect subsidiary
+100
+23
+Tata Communications (Nordic) AS
+Indirect subsidiary
+100
+24
+Tata Communications (Poland) SP. Z O. O.
+Indirect subsidiary
+100
+25
+Tata Communications (Portugal) Instalação E 
+Manutenção De Redes, Lda
+Indirect subsidiary
+100
+26
+Tata Communications (Portugal), Unipessoal 
+Lda
+Indirect subsidiary
+100
+27
+Tata Communications (Russia) L.L.C.
+Indirect subsidiary
+99.90
+28
+Tata Communications International Pte. Ltd.
+Direct subsidiary
+100
+29
+VSNL SNOSPV Pte. Ltd.
+Indirect subsidiary
+100
+30
+Tata Communications Services (International) 
+Pte. Ltd.
+Indirect subsidiary
+100
+31
+Tata Communications (Spain), S.L.
+Indirect subsidiary
+100
+32
+Tata Communications (Sweden) AB
+Indirect subsidiary
+100
+33
+Tata Communications (Switzerland) GmbH
+Indirect subsidiary
+100
+34
+Tata Communications (Taiwan) Ltd.
+Indirect subsidiary
+100
+35
+Tata Communications (Thailand) Limited
+Indirect subsidiary
+100
+36
+Tata Communications (Middle East) FZ-LLC
+Indirect subsidiary
+100
+37
+Tata Communications (UK) Limited
+Indirect subsidiary
+100
+38
+Tata Communications Transformation Services 
+Limited
+Direct subsidiary
+100
+39
+Tata Communications Payment Solutions 
+Limited
+Direct subsidiary
+100
+40
+Tata Communications Collaboration Services 
+Private Limited
+Direct subsidiary
+100
+41
+SEPCO Communications (Pty) Limited
+Indirect subsidiary
+73.17
+42
+Tata Communications Lanka Limited
+Direct subsidiary
+90
+43
+Tata Communications South Korea Limited
+Indirect subsidiary
+100
+44
+Tata Communications Transformation Services 
+Pte. Limited
+Indirect subsidiary
+100
+45
+Tata Communications Transformation Services 
+(Hungary) KFT. 
+Indirect subsidiary
+100
+5
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in place 
+(Yes / No)
+(If yes, then provide 
+weblink for grievance 
+redressal policy)
+FY 2022-23
+FY 2021-22
+No. of 
+complaints 
+filed 
+during the 
+year
+No. of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+No. of 
+complaints 
+filed 
+during the 
+year
+No. of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Tata Communications’ stakeholders comprise of investors, customers, employees, vendors / partners, governments, and 
+the community. A Whistleblower Policy with a non-retaliation clause is available to all our stakeholders. The Whistleblower 
+Policy is available at https://www.tatacommunications.com/resource/corporate-resources/policies/whistleblowers-policy-
+english/. The Company has received 33 complaints through the Whistleblower mechanism during FY 2022-23, of which 18 
+were resolved / disposed off, while 15 complaints were pending resolution at the end of the financial year.  
+For details on investor complaints received and resolved, please refer to the Corporate Governance Report of this Integrated 
+Annual Report. For details on employee grievances and resolution, refer to Question 6 of Principle 5.
+S. 
+No. 
+Name of the holding / subsidiary / associate 
+companies / joint ventures (A)
+Indicate whether 
+Holding /
+Subsidiary /
+Associate / Joint 
+Venture
+% of shares 
+held by the 
+entity 
+Does the entity indicated 
+at column A, participate 
+in the Business 
+Responsibility initiatives 
+of the entity (Yes / No)
+46
+Tata Communications (Brazil) Participacoes 
+Limitada
+Indirect subsidiary
+100
+The initiatives are driven 
+by Tata Communications 
+Limited  and all the 
+subsidiaries contribute 
+towards such initiatives 
+as and when required.
+47
+Nexus Connexion (SA) Pty Limited
+Indirect subsidiary
+100
+48
+Tata Communications Transformation Services 
+(US) Inc. 
+Indirect subsidiary
+100
+49
+Tata Communications Transformation Services 
+South Africa (Pty) Ltd.
+Indirect subsidiary
+100
+50
+Tata Communications Comunicações E 
+Multimídia (Brazil) Limitada
+Indirect subsidiary
+100
+51
+Tata Communications Move B.V. 
+Indirect subsidiary
+100
+52
+Tata Communications Move Nederland B.V. 
+Indirect subsidiary
+100
+53
+MuCoso B.V. 
+Indirect subsidiary
+100
+54
+NetFoundry Inc.
+Indirect subsidiary
+100
+55
+TCTS Senegal Limited
+Indirect subsidiary
+100
+56
+Oasis Smart Sim Europe SAS
+Indirect subsidiary
+58.1
+57
+Oasis Smart E-Sim Pte. Ltd.
+Indirect subsidiary
+58.1
+58
+STT Global Data Centres India Private Limited
+Associate
+26
+No
+59
+United Telecom Limited
+Associate
+26.66
+No
+60
+Smart ICT Services Private Limited
+Associate
+24
+No
+VI.	 CSR Details*
+	
+22.	 (i)	 Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes / No) 
+	
+	
+	
+Yes 
+     	 	
+(ii)	 Turnover (in H)
+	
+	
+	
+7,236.28 crores
+    	 	
+(iii)	Net worth (in H)
+	
+	
+	
+9,861.33 crores
+	
+	
+*Information under this section is provided on the basis of standalone financial statements.
+VII.	Transparency and Disclosure Compliances
+	
+23.	 Complaints / Grievances on any of the principles (Principle 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+6
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R / O)
+Rationale for identifying the risk /
+opportunity
+In case of risk, 
+approach to adapt 
+or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+1
+Data Privacy 
+and IP 
+infringement
+Risk
+With the growing use of 
+Information and Communications 
+Technology (‘ICT’) across the 
+globe, Tata Communications 
+depends on networks to carry data 
+and information for its solutions 
+such as cloud, IoT, mobility, 
+collaboration, security and network 
+services. Thus, maintaining data 
+integrity and preventing breaches 
+will not only protect from potential 
+financial implications but also 
+improve our brand value and 
+reputation among our stakeholders.
+Kindly refer to the 
+Risk Management 
+section of this 
+Integrated Annual 
+Report.
+Negative
+2
+Customer 
+Experience, 
+Loyalty and 
+Privacy
+Risk and 
+Opportunity 
+Tata Communications helps its 
+customers stay ahead of their 
+competition by embracing digital 
+transformation and adopting 
+cutting-edge technology. It is 
+essential to safeguard customers’ 
+information and personal data in 
+today’s internet-driven world.  For 
+Tata Communications, customer 
+satisfaction is an indicator of 
+customer loyalty and retention, 
+thereby contributing to increasing 
+revenues. Responsible management 
+of data leads  to building of 
+customer trust.
+Kindly refer to the 
+Integrated Annual 
+Report.
+Negative and 
+Positive
+3
+Corporate 
+Governance, 
+Ethics and 
+Transparency
+Risk
+Strong corporate governance is at 
+the core of achieving our mission 
+and any such risk can undermine 
+stakeholder trust, damage 
+reputation and disrupt business.
+Kindly refer to the 
+Risk Management 
+section and 
+Governance section 
+of this Integrated 
+Annual Report
+Negative
+	
+24.	 Overview of the entity’s material responsible business conduct issues. Please indicate material responsible 
+business conduct and sustainability issues pertaining to environmental and social  matters that present a risk 
+or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk 
+along with its financial implications, as per the following format:
+7
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R / O)
+Rationale for identifying the risk /
+opportunity
+In case of risk, 
+approach to adapt 
+or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+4
+Human Capital 
+Development
+Risk and 
+Opportunity
+Strengthening human capital 
+is a key priority for Tata 
+Communications. Our investment 
+in our workforce in the form 
+of robust recruitment strategy, 
+trainings, incentives and benefits 
+etc., plays a key role in retention 
+of talented employees and is 
+vital to the organisation’s growth 
+and productivity.  Risk of failure 
+in any of the elements of talent 
+management can impact our 
+ability to fulfil demand and grow 
+revenues. 
+Kindly refer to the 
+Risk Management 
+section and Human 
+Capital section 
+of this Integrated 
+Annual Report
+Positive and 
+Negative
+5
+Climate 
+Change
+Risk and 
+Opportunity
+Extreme weather events due to 
+climate change pose a physical 
+risk of disruption to Tata 
+Communications’ operations, as 
+well as to the safety and well-being 
+of our employees. Additionally,  the 
+transitional risks due to climate 
+change can cause disruptions to 
+our operations which can impact 
+our growth and profitability.
+Climate change also presents  
+opportunities to Tata 
+Communications to become 
+a  more conscious and resource 
+efficient organisation. Tata 
+Communications  implements 
+several initiatives and projects 
+to ensure resource optimisation 
+which enables  reduction of carbon 
+emissions through 
+cutting-edge technologies and 
+innovations.
+Kindly refer to the 
+Risk Management 
+section and Natural 
+Capital section 
+of this Integrated 
+Annual Report; 
+the Sustainability 
+Development Report 
+and the Carbon 
+Disclosure Project 
+Report separately 
+published by Tata 
+Communications.
+Positive and 
+Negative
+6
+Economic 
+Performance
+Opportunity Achieving financial targets will 
+result in increased revenue 
+and profit margins for Tata 
+Communications. It will help in 
+enhancing the business while 
+adding value for our customers and 
+stakeholders.
+-
+Positive
+8
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R / O)
+Rationale for identifying the risk /
+opportunity
+In case of risk, 
+approach to adapt 
+or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+7
+Resource 
+Management 
+and
+Environmental 
+Conservation
+Risk and 
+Opportunity 
+Sustainable management of 
+resources is vital for continuing 
+smooth operations at Tata 
+Communications and to add 
+value to our stakeholders and 
+communities. We are working 
+towards minimising the use of 
+energy and other resources, and 
+practising recycling and reuse of 
+resources. Further, we also strive 
+to enhance our ESG performance 
+as per the expectations of our 
+investors and stakeholders. 
+Kindly refer to the 
+Risk Management 
+section and Natural 
+Capital section 
+of this Integrated 
+Annual Report; 
+the Sustainability 
+Development Report 
+and the Carbon 
+Disclosure Project 
+Report separately 
+published by Tata 
+Communications.
+Positive and 
+Negative
+8
+Health, Safety, 
+and Well-being
+Risk 
+Employees are of prime importance 
+at Tata Communications. The 
+well-being of employees and 
+good working conditions plays an 
+integral role in our value creation 
+process as any kind of health and 
+safety issue can cause harm to 
+the employees. We aim to foster a 
+safety culture and ensure safe and 
+secure working conditions for all.
+Kindly refer to the 
+Risk Management 
+section and Human 
+Capital section 
+of this Integrated 
+Annual Report.
+Negative
+9
+Community 
+Development
+Opportunity Tata Communications believes 
+in bringing a positive change in 
+the society and communities, in 
+which it operates. Community 
+development presents an 
+opportunity to build stronger 
+relationships to foster equitable 
+growth and sustainable 
+development.
+-
+Positive
+10
+Human Rights 
+and Labour 
+Compliance
+Risk 
+With the increasing thrust on 
+stakeholder capitalism, stakeholders 
+are concerned about how Tata 
+Communications is integrating 
+the ethos of human rights into 
+its operations. As a responsible 
+corporate, it is vital to respect 
+the rights of all stakeholders and 
+ensure that there are no instances 
+of human rights violations, in any 
+form.  Through its operations 
+and value chain partners, Tata 
+Communications ensures that no 
+instances of misconduct occur at 
+workplaces and that human rights 
+principles are held intact.
+Kindly refer to the 
+Risk Management 
+section and 
+Governance section 
+of this Integrated 
+Annual Report.
+ Positive
+9
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards 
+adopting the NGRBC Principles and Core Elements.
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Policy and management processes
+1.
+a.	 Whether the entity’s policy / 
+policies cover each principle and 
+its core elements of the NGRBCs. 
+(Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b.	 Has the policy been approved by 
+the Board? (Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+c.	 Weblink of the policies, if 
+available
+https://www.tatacommunications.com/investors/governance/
+2.
+Whether the entity has translated the 
+policy into procedures. (Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.
+Do the enlisted policies extend to 
+the entity’s value chain partners? 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4.
+Name of the national and 
+international codes / certifications 
+/ labels / standards (e.g., Forest 
+Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trustea) 
+standards (e.g., SA 8000, OHSAS, 
+ISO, BIS) adopted by the entity and 
+mapped to each principle.
+https://www.tatacommunications.com/
+investors/results/
+NA
+NA
+NA
+5.
+Specific commitments, goals and 
+targets set by the entity with 
+defined timelines, if any.
+https://www.tatacommunications.com/investors/results/
+6.
+Performance of the entity against 
+the specific commitments, goals and 
+targets along with reasons, in case 
+the same are not met.
+Kindly refer to the Human Capital and Natural Capital sections of this 
+Integrated Annual Report.
+Governance, leadership and oversight 
+7.
+Statement by Director, responsible for the Business Responsibility & Sustainability Report, highlighting ESG 
+related challenges, targets and achievements.
+Kindly refer to  the ‘Message from the Managing Director & CEO’ which forms part of this Integrated Annual 
+Report.
+8.
+Details of the highest authority 
+responsible for implementation 
+and oversight of the Business 
+Responsibility policy(ies). 
+Mr. Aadesh Goyal
+Chief Human Resource Officer
+Tata Communications Limited   
+Email: EOHS@tatacommunications.com
+9.
+Does the entity have a specified 
+Committee of the Board / Director 
+responsible for decision making on 
+sustainability related issues? (Yes / 
+No). If yes, provide details. 
+Yes
+The Corporate Social Responsibility, Safety and Sustainability Committee 
+(‘CSRSSC’) of the Board of Directors is responsible for decision making 
+on sustainability related issues.	
+	
+	
+	
+For more details on the CSRSSC, kindly refer to the Corporate 
+Governance Report which forms  part of this Integrated Annual Report.
+10
+Questions
+P 
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+The entity does not consider the Principle 
+material to its business (Yes / No)
+Not Applicable
+The entity is not at a stage where it is in a 
+position to formulate and implement the 
+policies on specified principles (Yes / No) 
+The entity does not have the financial or /
+human and technical resources available for 
+the task (Yes / No) 
+It is planned to be done in the next financial 
+year (Yes / No) 
+Any other reason (please specify) 
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+10.
+Details of review of NGRBCs by the Company:
+Subject for review
+Indicate whether review 
+provided below taken by 
+Director / Committee of the 
+Board / any other Committee
+Frequency (Annually / Half 
+yearly / Quarterly / Any other – 
+please specify)
+P1 P2 P3 P4 P5 P6 P7 P8 P9
+P1 P2 P3 P4 P5 P6 P7 P8 P9
+Performance against above policies and 
+follow up action
+Yes
+Half-Yearly
+Compliance with statutory requirements 
+of relevance to the principles, and, 
+rectification of any non-compliances
+A Compliance Certificate on applicable laws is provided by the 
+Managing Director & CEO to the Board of Directors.
+11.
+Has the entity carried out 
+independent assessment / 
+evaluation of the working of its 
+policies by an external agency?  
+(Yes / No). If yes, provide the name 
+of the agency.
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Yes, Tata Communications implements these principles as part of its 
+Sustainable Development Report assurance which is conducted on annual 
+basis by an external agency. For FY 2022-23, independent assurance is 
+conducted externally by DNV Business Assurance India Private Limited 
+(‘DNV’).
+12. If answer to question (1) above is ‘No’ i.e., not all Principles are covered by a Policy, reasons to be stated: 
+11
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+Principle 1: Businesses should conduct and govern themselves with integrity, and in a manner 
+that is Ethical, Transparent and Accountable
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics / principles 
+covered under the 
+training and its impact
+% age of persons in respective 
+category covered by the 
+awareness programmes
+Board of Directors
+6
+Refer Note (a) below
+100%
+Key Managerial Personnel 
+(‘KMPs’)
+3
+Refer Note (b) below
+100%
+Employees other than Board 
+of Directors and KMPs
+Refer note (c) below
+Monetary
+NGRBC
+Principle
+Name of the 
+regulatory / 
+enforcement agencies 
+/ judicial institutions
+Amount (in J)
+Brief of 
+the Case
+Has an 
+appeal been 
+preferred? 
+(Yes / No)
+Penalty / Fine
+Nil
+Settlement
+Compounding fee
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+	
+Notes: 
+	
+(a)	 Sessions for the Board of Directors were on topics including organisation strategy, governance, risk, litigation, 
+sustainability etc.
+	
+(b)	 Sessions for the Key Managerial Personnel were on topics including organisation strategy, governance, risk, 
+Tata Business Excellence Model, litigation, sexual harassment at workplace, Tata Code of Conduct, cyber 
+security, CSR, sustainability etc.
+	
+(c)	 All employees are required to undergo training and awareness sessions on domain related subjects. Every 
+employee is required to undergo mandatory training on Tata Code of Conduct, Delegation of Powers, sexual 
+harassment at workplace, cyber security and data privacy.
+2.	
+Details of fines / penalties / punishment / award / compounding fees / settlement amount paid in proceedings 
+(by the entity or by Directors / KMPs) with regulators / law enforcement agencies / judicial institutions, in the 
+financial year:
+	
+(Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 and as disclosed on the entity’s website)
+Section C: PRINCPLE WISE PERFORMANCE DISCLOSURE
+This section aims at demonstrating the Company's performance in integrating the Principles and Core Elements with 
+key processes and decisions. The information sought is categorised as “Essential” and “Leadership”. The essential 
+indicators are disclosed in this report pursuant to the mandatory requirement whereas the leadership indicators have 
+not been disclosed since they are voluntary in nature.
+12
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory / enforcement 
+agencies / judicial institutions
+Brief of 
+the Case
+Has an appeal been 
+preferred? (Yes / 
+No)
+Imprisonment
+Nil
+Punishment
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal / Revision preferred in cases where monetary 
+or non-monetary action has been appealed.
+Case Details
+Name of the regulatory / enforcement agencies / 
+judicial institutions
+Not Applicable
+4.	 Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy.
+	
+Tata Communications maintains a zero-tolerance approach towards corruption. Tata Communications is committed 
+to upholding the highest moral and ethical standards as a responsible corporate citizen. This commitment is 
+evident in our comprehensive anti-corruption framework, which includes an Anti-corruption policy, Third Party 
+Intermediary Due Diligence policy, Corporate Hospitality and Gifts policy, and Global Conflict of Interest policy, 
+among others. 
+	
+The Anti-Corruption Policy is available on our website at https://www.tatacommunications.com/wp-content/
+uploads/2020/02/Anti-corruption.pdf 
+5.	
+Number of Directors / KMPs / employees / workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery / corruption:
+FY 2022-23
+FY 2021-22
+Directors
+Nil
+KMPs
+Employees
+FY 2022-23
+FY 2021-22
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+Nil
+Number of complaints received in relation to 
+issues of Conflict of Interest of the KMPs
+6.	 Details of complaints with regard to conflict of interest
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflict of interest.
+	
+Not Applicable
+Leadership Indicators: 
+The Company is not reporting on leadership indicators this year. 
+13
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+Segment
+FY 2022-23
+FY 2021-22
+Details of improvements in 
+environmental and social impacts
+R&D
+Nil
+Capex
+Essential Indicators  
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of products and processes to total R&D and capex investments made by the 
+entity, respectively:
+Principle 2: Business should provide goods and services in a manner that is sustainable and 
+safe
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes / No) 
+	
+	
+Yes. Tata Communications has implemented a Sustainable Supply Chain Framework (‘SSCF’) that integrates 
+sustainability into our procurement decisions, vendor selection, supplier engagement and vendor performance 
+management. This holistic framework helps us in identifying, assessing, and reporting potential sustainability 
+risks in the supply chain. As part of the SSCF, Tata Communications has developed a Sustainable Supply Chain 
+Policy & Supplier Code of Conduct.
+	
+b.	 If yes, what percentage of inputs were sourced sustainably? 
+	
+	
+Tata Communications is in the process of implementing a tracking mechanism for this metric. All  suppliers are 
+covered under the Sustainable Supply Chain Framework.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of 
+life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste: 
+	
+Not Applicable. Tata Communications is a telecom service provider and does not manufacture any tangible 
+products which require reusing, recycling and disposing at the end of life. While providing services to customers, 
+we follow a precautionary approach and consume natural resources like energy and water in a judicial manner, and 
+dispose off waste generated (i.e., e-waste, battery waste and plastic waste) to approved recyclers. 
+4.	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same.
+	
+Yes. Extended Producer Responsibility (‘EPR’) is applicable to Tata Communications and we are working to 
+develop a framework for it. Tata Communications has also declared its waste collection plan and mechanism, as 
+per EPR guidelines, to the Central Pollution Control Board (‘CPCB’).
+Leadership Indicators: 
+The Company is not reporting on leadership indicators this year.
+14
+Essential indicators:   
+1.	
+a.	
+Details of measures for the well-being of employees:
+Principle 3: Business should respect and promote the well-being of all employees, including 
+those in their value chains
+Category
+% of employees covered by
+Total 
+(A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day Care 
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Permanent employees
+Male
+9,576
+9,576
+100%
+9,576
+100%
+NA
+NA
+9,392
+98%
+9,576
+100%
+Female
+2,714
+2,714
+100%
+2,714
+100%
+2,714
+100%
+NA
+NA
+2,714
+100%
+Others
+1
+1
+100%
+1
+100%
+NA
+NA
+NA
+NA
+1
+100%
+Total
+12,291
+12,291
+100%
+12,291
+100%
+2,714
+22%
+9,392
+76%
+12,291
+100%
+Other than Permanent employees
+Male
+NA
+Female
+Total
+2.	
+Details of retirement benefits, for Current and Previous Financial Year:
+Benefits
+FY 2022-23
+FY 2021-22
+No. of employees / 
+workers covered as a 
+% of total employees
+No. of employees / 
+workers covered as a 
+% of total employees
+Deducted and 
+deposited with the 
+authority (Y/N/N.A.)
+PF
+100%
+100%
+Y
+Gratuity
+100%
+100%
+Y
+ESI
+As applicable
+As applicable
+Y
+3.	
+Accessibility of workplaces: 
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by 
+the entity in this regard. 
+	
+Tata Communications’ premises and offices have easy accessibility for differently-abled employees.
+4.	 Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy: 
+	
+Yes, Tata Communications is an equal opportunity employer and abides by the Tata Code of Conduct (‘TCoC’). 
+A copy of the TCoC is available at https://www.tatacommunications.com/wp-content/uploads/2017/07/CORP-
+TataCodeofConduct-20170516.pdf 
+15
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+Yes / No (If yes, then give details of the mechanism in brief)
+Permanent employees
+Yes, Tata Communications’ grievance and redressal mechanism for all employees is 
+included as part of the Whistleblower Policy and Global Dignity in the Workplace 
+Policy. Any employee can report their grievance directly to their Manager, Business 
+HOD or BU HR or to any higher authority in accordance with the procedures set out 
+under the Whistleblower Policy and the Global Dignity in the Workplace Policy.
+Other than permanent 
+employees
+Gender
+Permanent Employees
+Permanent Workers
+Return to work rate
+Retention Rate
+Return to work rate
+Retention Rate
+Male
+98%
+68%
+Not Applicable
+Female
+87%
+90%
+Others
+NA
+NA
+Total
+96%
+72%
+6.	 Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief: 
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave:
+Category
+FY 2022-23
+FY 2021-22
+Total 
+employee / 
+workers in 
+respective 
+category (A)
+No. of employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (B)
+%
+(B/A)
+Total 
+employee / 
+workers in 
+respective 
+category 
+(C)
+No. of 
+employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (D) 
+%
+(D/C)
+Total Permanent 
+Employees 
+12,353
+183
+1.48
+11,536
+203
+1.76
+Male 
+9,622
+133
+1.38
+8,999
+149
+1.66
+Female
+2,731
+50
+1.83
+2,537
+54
+2.13
+Others
+NA
+NA
+NA
+NA
+NA
+NA
+7.	
+Membership of employees and worker in association(s) or unions recognised by the listed entity:
+     Note: The numbers mentioned above are for India region.
+Category
+FY2022-23
+FY2021-22
+Total (A)
+On skill upgradation
+Total (D)
+On skill upgradation
+No. (C)
+% (C/A)
+No. (F)
+% (F/D)
+Employees
+Male
+10,503 
+10,503
+100%
+14,801
+9,493
+64%
+Female
+2,922 
+2,922 
+100%
+3,583
+2,690
+75%
+Others
+1
+1
+100%
+-
+-
+-
+Total
+13,426
+13,426
+100%
+18,384
+12,183
+66.2%
+8.	
+Details of training given to employees and workers:
+Note: Data covers permanent employees only.
+16
+9.	 Details of performance and career development reviews of employees and workers: 
+Category
+FY2022-23
+FY2021-22
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+10,503
+10,503
+100%
+14,801
+14,801
+100%
+Female
+2,922
+2,922
+100%
+3,583
+3,583
+100%
+Others
+1
+1
+100%
+-
+-
+-
+Total
+13,426
+13,426
+100%
+18,384
+18,384
+100%
+10.	 Health and safety management system: 
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes / 
+No). If yes, the coverage such system? 
+	
+	
+Yes, Tata Communications has implemented a Health and Safety (‘H&S’) Management System aligned with ISO 
+45001 requirement for all its major operations, which covers all activities, employees and relevant stakeholders 
+who have an impact on health and safety. 
+	
+b.	 What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity? 
+	
+	
+Through safety audits, inspections and assessments of both, offices and field operation sites, as well as by 
+engaging with business managers and vendor partners of field operations, Tata Communications has identified 
+key safety hazards, risks, and workers categorised as high-risk. Our safety management approach is multi-
+faceted, ensuring sound governance of all non-routine and routine high-risk activities. For non-routine high-risk 
+activities such as façade cleaning, project work, lift maintenance, hot work, and confined space work, we have 
+implemented a Work Permit (WP) programme. Additionally, for routine high-risk activities such as working at 
+height for wireless work on tower / mast, maintenance work, and fiber restoration, we have established a set 
+of internal safety standards called Mandatory Safety Standards.
+	
+c.	
+Whether you have processes for workers to report work related hazards and to remove themselves from such 
+risks. (Yes / No) 
+	
+	
+Yes. Tata Communications has implemented and rolled out an automated tool to report incidents / work 
+relating to hazards and safety.	
+	
+	
+	
+	
+	
+	
+	
+	
+d.	 Do the employees / worker of the entity have access to non-occupational medical and healthcare services? 
+(Yes / No) 
+	
+	
+Yes, the offices of Tata Communications have medical rooms which provide first aid services in case of any 
+non-occupational and first aid medical issues.
+11.	 Details of safety related incidents, in the following format: 
+Safety Incident /Number
+Category
+FY 2022-23
+FY 2021-22
+Lost Time Injury Frequency Rate (‘LTIFR’) 
+(per one million-person hours worked)
+Employees / Workers
+0.4
+0.31
+Total recordable work-related injuries
+Employees / Workers
+20
+16
+No. of fatalities
+Employees / Workers
+0
+0
+High consequence work-related injury or  
+ill-health (excluding fatalities)*
+Employees / Workers
+0
+0
+	
+*High-consequence work-related injuries include other injuries (excluding fatalities) from which the worker cannot recover (such as 
+amputation of a limb), or does not or is not expected to recover fully to pre-injury health status within 6 months (such as fracture).
+Note: Data covers permanent employees only.
+17
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+14.	 Assessments for the year:
+% of plants and offices that were assessed (by 
+entity or statutory authorities or third parties)
+Health and safety practices
+100%
+Working conditions
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace: 
+	
+Kindly refer to the Human Capital section of this Integrated Annual Report.
+13.	 Number of complaints on the following made by employees and workers:
+Category
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending 
+resolution at the 
+end of the year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution at the 
+end of the year
+Remarks
+Working conditions
+Nil
+Health and safety
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions:
+	
+Kindly refer to the Human Capital section of this Integrated Annual Report. 
+	
+Leadership Indicators 
+	
+The Company is not reporting on leadership indicators this year.
+Principle 4: Business should respect the interests of and be responsive to all its stakeholders
+1.	
+Describe the processes for identifying key stakeholder groups of the entity. 
+	
+Tata Communications has identified stakeholders as those persons, groups, or organisations that are directly 
+impacted by its activities. A consultation workshop was conducted with internal management and proxy 
+stakeholders to identify and prioritise the key stakeholders. The key internal and external stakeholders include 
+regulatory bodies, communities local to the operations, investors and shareholders, present and future employees, 
+vendors, partners, customers etc.
+	
+A planned system of engagement exists to ensure timely communication of accurate and relevant information to, 
+and interaction with, each stakeholder group, in a consistent manner.
+18
+Stakeholder 
+Group
+Whether 
+identified as 
+vulnerable & 
+marginalised 
+group (Yes/No)
+Channels of communication 
+(Emails, SMS, Newspapers, 
+Pamphlets, Advertisements, 
+Community Meetings, Notice 
+Board, Website, Others)
+Frequency of 
+engagement 
+(Annually, 
+Half yearly, 
+quarterly /
+others- please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement 
+Customers
+No
+Targeted customer 
+interaction, feedback sessions, 
+CXO connect, the bid review 
+process, sales and account 
+manager feedback, Gartner 
+peer insights, mailers website, 
+social media platforms etc.
+Continuous: 
+Website, Social 
+Media
+Annual: 
+Customer 
+Satisfaction 
+Survey, 
+Customer 
+Connect
+•	 Understanding 
+customers’ data 
+privacy and security 
+requirements
+•	 Deciding on investments 
+and capabilities in digital 
+technologies to meet 
+customers’ requirements
+•	 Ethical behaviour 
+•	 Customer growth 
+and transformation 
+opportunities
+•	 Fair business practices 
+and ethical behaviour
+•	 ESG practice
+Employees
+No
+Town halls, webcasts 
+/ webinars, project or 
+operations reviews, video 
+conferences, audio conference 
+calls, ethics week, newsletters, 
+events and quarterly coaching 
+reviews
+Weekly: Internal 
+News Digest
+Quarterly: 
+Coaching 
+reviews
+Annual: 
+Employee 
+Satisfaction 
+Survey
+Continuous: 
+Website, 
+intranet, internal 
+communication 
+platforms etc.
+•	 Training and skill 
+development
+•	 Capacity building
+•	 Building a safe work 
+culture and environment
+•	 Improving Diversity and 
+Inclusion
+•	 Employee-friendly 
+practices
+Investors and 
+shareholders 
+No
+Press releases and press 
+conferences, e-mail advisories, 
+in-person meetings, investor 
+conferences, non-deal 
+roadshows, conference calls, 
+notices, advertisements, 
+exchange notifications
+Quarterly: 
+Financial 
+statements, 
+earnings call, 
+exchange 
+notifications
+Annual: Annual 
+General Meeting 
+and Annual 
+Report
+Continuous: 
+Website
+•	 Educating investors 
+about Tata 
+Communications’ 
+business operations, 
+governance practices, 
+strategy, growth plans 
+and environmental and 
+social risk
+•	 Addressing investor 
+concerns on various 
+matters 
+2.	 List stakeholder groups identified as key for the entity and the frequency of engagement with each stakeholder 
+group. 
+19
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+Stakeholder 
+Group
+Whether 
+identified as 
+vulnerable & 
+marginalised 
+group (Yes/No)
+Channels of communication 
+(Emails, SMS, Newspapers, 
+Pamphlets, Advertisements, 
+Community Meetings, Notice 
+Board, Website, Others)
+Frequency of 
+engagement 
+(Annually, 
+Half yearly, 
+quarterly /
+others- please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement 
+Regulators
+No
+Statutory compliances, 
+filings and meetings, new 
+engagements, conferences, 
+seminars, consultations, 
+surveys, representations on 
+statutory provisions and 
+amendments, participation in 
+public consultation process. 
+As needed
+•	 Compliance with 
+corporate law
+•	 Good governance
+•	 Ethical practices
+•	 Society / CSR 
+expenditure
+•	 Transparent reporting
+•	 National and 
+international agenda
+Communities 
+No
+CSR team and partner meets, 
+volunteering, engagement 
+exercises like DRIVE Week, 
+baseline and benchmark 
+studies
+Continuous / As 
+needed
+•	 Job creation
+•	 Skill development
+•	 Volunteering
+•	 SDG implementation – 
+health, school, poverty
+Media and 
+Analysts
+No
+Press releases and press 
+conferences, media 
+interviews, e-mail advisories, 
+exchange notifications, media 
+or analyst events, analyst 
+briefings, relationship building 
+meetings, website and social 
+media posts and updates
+Quarterly / 
+Annual / As 
+needed
+•	 Company news and 
+updates
+•	 Business strategy, 
+milestones, industry 
+recognition
+•	 Regulatory and 
+governance issues
+•	 Public disclosures and 
+transparent reporting
+•	 Future strategy, growth 
+and new products / 
+service launches
+Suppliers
+No
+RFIs / RFPs, empanelment 
+process, Transactional 
+meetings, periodic reviews, 
+surveys
+Continuous: 
+Transactional 
+meetings, 
+periodic 
+reviews, surveys
+•	 Job creation
+•	 Ethical practices
+•	 Payments
+•	 Human rights
+•	 Competitive pricing
+Leadership Indicators
+The Company is not reporting on leadership indicators this year.
+20
+Principle 5: Business should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in 
+the following format:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. of 
+employees 
+/workers 
+covered (B)
+% (B/A)
+Total (C)
+No. of 
+employees 
+/workers 
+covered (D)
+% (D/C)
+Employees
+Permanent
+13,426
+12,929
+96%
+12,452
+11,953
+96%
+Other than Permanent
+5,482
+0
+0
+5,932
+0
+0
+Total Employees
+18,908
+ 12,929
+ 68%
+18,384
+ 11,953
+ 65%
+2.	
+Details of minimum wages paid to employees and workers, in the following format: 
+Category
+FY 2022-23
+FY 2021-22
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+No. (B)
+% 
+(B/A)
+No. (C)
+% 
+(C/A)
+No. (E) % (E/D)
+No. (F) % (F/D)
+Employees
+Permanent
+13,426
+All employees are paid salary above statutory minimum wages
+Male
+ 10,503 
+Female
+2,922 
+Others 
+1
+Other than 
+Permanent
+5,482
+Male
+4,642
+Female
+840
+3.	
+Details of remuneration / salary / wages, in the following format: 
+Male
+Female
+Number
+Median remuneration 
+/ salary / wages of 
+respective category (J)
+Number
+Median remuneration 
+/ salary / wages of 
+respective category (J)
+Board of Directors (BoD)*
+5
+-
+1
+-
+Key Managerial Personnel 
+(KMP)
+3
+ 2,90,13,000 
+0
+0
+Employees other than 
+BoD and KMP 
+5,418
+ 14,87,500 
+1,446
+ 10,24,399 
+Workers
+1,086
+ 2,89,032 
+472
+ 2,56,386 
+	
+*For details of remuneration of the Board Members, kindly refer to the Corporate Governance Report which forms a part of this Integrated 
+Annual Report
+	
+Notes:
+	
+a.	
+The median remuneration of Non-Executive, Non-Independent Directors is Nil
+	
+b.	
+Key Managerial Personnel includes CEO, CFO and Company Secretary 
+	
+c.	
+The information pertains to India region only
+21
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+Category
+FY 2022-23
+FY 2021-22
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Sexual Harassment
+3
+1
+Investigation is 
+under progress for 
+1 complaint which 
+was pending at 
+the end of 
+FY 2022-23.
+4
+0
+-
+Discrimination at 
+workplace
+29
+4
+Includes 
+complaints made 
+under the Dignity 
+in the Workplace 
+Policy. 
+21
+0
+Includes 
+complaints made 
+under the Dignity 
+in the Workplace 
+Policy.
+Child Labour 
+Nil
+Forced Labour / 
+Involuntary Labour
+Wages
+Other Human rights 
+related issues
+4.	 Do you have a focal point (Individual / Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business? (Yes / No) 
+	
+Yes.  Issues and aspects with respect to Human Rights can be addressed to EOHS@tatacommunications.com.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues:
+	
+Tata Communications does not tolerate any malpractice, impropriety, non-compliance, or wrongdoing with 
+respect to Human Rights and its salient elements. To that end, Tata Communications has adopted an exhaustive 
+grievance redressal and remedial framework consisting of its Whistleblower Policy. 
+	
+The Whistleblower Policy provides and addresses concerns or complaints regarding any reportable matters 
+defined in the policy, including but not limited to infringement of human rights including privacy rights and 
+freedom of expression, disclosure matters, anti–corruption, or any other company matters involving fraud, 
+employee misconduct, illegality or health and safety and environmental issues which cannot be resolved through 
+normal management channels. The Whistleblower Policy intends to encourage and enable employees and any 
+person other than employees to proactively raise concerns regarding any such instances without fear of reprisal, 
+discrimination or adverse employment consequences. This can be done through Tata Communications’ “Ethics 
+Helpline”, managed by an independent third party which enables a whistleblower to report a potential wrongdoing 
+through various channels such as phone, email, web portal, fax, post box.
+6.	 Number of Complaints on the following made by employees and workers: 
+22
+% of the entity’s plants and offices that were 
+assessed (by the entity or statutory authorities 
+or third parties)
+Child Labour
+All offices of Tata Communications are included 
+for review as part of Human Rights Gap 
+Assessment conducted by an external party
+Forced Labour / Involuntary Labour
+Sexual Harassment
+Discrimination at workplace
+Wages
+Other- please specify
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases: 
+	
+Tata Communications does not tolerate any malpractice, impropriety, non-compliance, or wrongdoing with 
+reference to discrimination and harassment. All such complaints and concerns are dealt with / resolved in 
+accordance with applicable internal policies and charters, in a confidential manner. Tata Communications does 
+not tolerate any form of retaliation against anyone reporting concerns in good faith. Anyone involved in targeting 
+a person raising such complaints would be subject to disciplinary action, if found guilty.
+8.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No) 
+	
+Yes, Human rights requirements forms part of business agreements and contracts.
+9.	 Assessments for the year:
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+the assessments at Question 9 above: 
+	
+As part of corrective action identified under the Human Rights Gap Assessment exercise, Tata Communications 
+has formulated a comprehensive Business & Human Rights Policy which shows our commitment to operating our 
+businesses while conforming to the highest moral and ethical standards. 
+	
+This policy is aligned and follows various National and International Frameworks on Human Rights such as United 
+Nations Universal Declaration of Human Rights, ILO Declaration on Fundamental Principles and Rights at Work, 
+Modern Slavery Act 2015, Tata Code of Conduct, Tata Affirmative Action Policy, Tata Group Business and Human 
+Rights Guidelines and UN Sustainable Development Goals 2030. This policy is relevant and applicable to all the 
+stakeholders (employees, contract workforce, communities, consumers / customers, value chain partners, etc.) 
+as identified by Tata Communications and encompasses various salient elements of Business Human Rights like 
+Anti-bribery and Anti-corruption, Acceptable Use, Equal Opportunity, Fair Competition, Community, Dignity & 
+Respect, Fair wages, Freedom of Association and Collective Bargaining, Right to Privacy, Integrity of Information 
+and Assets, Freedom of Expression, Health and Safety, Product & Services, Trafficking, Modern Slavery and Child 
+Labour, Data Privacy & Security etc.  
+Leadership Indicators
+The Company is not reporting on leadership indicators this year.
+23
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+Parameter* 
+FY 2022-23
+FY 2021-22
+Total electricity consumption (A) 
+5,99,587
+6,00,693
+Total fuel consumption (B) 
+22,038
+21,887
+Energy consumption through other sources (C) 
+0
+0
+Total energy consumption (A+B+C) 
+6,21,625
+6,22,580
+Energy intensity per rupee of turnover 
+(Total energy consumption / turnover in H crores) 
+37.92
+40.69
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres) 
+(i)
+Surface water 
+1,67,605
+1,72,222
+(ii) Groundwater
+1,289
+2,479
+(iii) Third party water
+40,466
+21,367
+(iv) Seawater / desalinated water 
+0
+0
+(v) Others  
+203
+55
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v) 
+2,09,563
+1,96,123
+Total volume of water consumption (in kilolitres) 
+2,09,563
+1,96,123
+Water intensity per rupee of turnover (Water consumed / turnover in H crores) 
+12.78 
+12.81 
+Principle 6: Business should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format: 
+	
+*Energy consumption is given in GJ.
+	
+Note: Indicate if any independent assessment / evaluation / assurance has been carried out by an external agency? 
+(Yes / No) If yes, name of the external agency.
+	
+Yes, independent assurance is conducted externally by DNV.
+2.	
+Does the entity have any sites / facilities identified as designated consumers (‘DCs’) under the Performance, 
+Achieve and Trade (‘PAT’) Scheme of the Government of India? (Yes / No) If yes, disclose whether targets set 
+under the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action 
+taken, if any. 
+	
+No, Tata Communications Limited does not have any such sites.
+3.	
+Provide details of the following disclosures related to water, in the following format: 
+	
+Intensity is given in kL / H crores of revenue
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Yes / No) If yes, name of the external agency. 
+	
+Yes, independent assurance is conducted externally by DNV.
+24
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+NOx 
+mg/Nm3
+38
+Tata 
+Communications 
+has started 
+monitoring its SOx 
+and NOx emissions 
+from FY 2022-23 
+onwards.
+SOx 
+mg/Nm3
+30
+Particulate matter (‘PM’) 
+mg/Nm3
+65
+Persistent organic pollutants (‘POP’) 
+NA
+Volatile organic compounds (‘VOC’) 
+Hazardous air pollutants (‘HAP’) 
+Others – please specify 
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 1 emissions (Break-up of the GHG 
+into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if 
+available) 
+Metric tonnes of 
+CO2 equivalent
+5,341
+4,744
+Total Scope 2 emissions (Break-up of the GHG 
+into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if 
+available) 
+Metric tonnes of 
+CO2 equivalent
+77,735
+88,308
+Total Scope 1 and Scope 2 emissions per rupee 
+of turnover
+tCO2eq / turnover 
+in H crores
+5.06
+6.08
+4.	 Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation:
+	
+Zero Liquid Discharge has been implemented in major facilities of Tata Communications. Currently, five major 
+facilities namely, GK-1 New Delhi, KIADB Bengaluru, Ambattur, BKC Mumbai and Dighi Pune, have in-house Sewage 
+Treatment Plants for recycling the wastewater generated within facilities. The treated water from these facilities 
+is reused for domestic utilities such as flushing, landscaping and cooling tower water. In other facilities, due to 
+space constraints, the wastewater is sent to municipal drains after appropriate approvals. We are also planning to 
+explore alternate recycling technology for such facilities. 
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format: 
+	
+Note: The above-mentioned data is reported only for one major facility at Dighi, Pune, where Tata Communications 
+has complete ownership of DG sets. 
+	
+Note: Indicate if any independent assessment / evaluation / assurance has been carried out by an external agency? 
+(Yes / No) If yes, name of the external agency.
+	
+Yes, assurance is conducted externally by DNV.
+6.	 Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format:
+	
+Note: Indicate if any independent assessment / evaluation / assurance has been carried out by an external agency? 
+(Yes / No) If yes, name of the external agency.
+	
+Yes, assurance is conducted externally by DNV.
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details: 
+	
+Yes, this year we saved 6.7 million KWh of energy which resulted in GHG reduction of 4,737 tonnes in Scope 2 
+emissions. 
+25
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+(in metric tonnes)
+Parameter
+FY 2022-23
+FY 2021-22
+Plastic waste (A) 
+2
+1.5
+E-waste (B) 
+97
+32
+Bio-medical waste (C) 
+Not applicable
+Not applicable
+Construction and demolition waste (D) 
+Not applicable
+Not applicable
+Battery waste (E)  
+108
+129
+Radioactive waste (F) 
+Not applicable
+Not applicable
+Other Hazardous Waste. Please specify, if any. (G) 
+14
+5.8
+Other Non-hazardous waste generated (H). Please specify, if any. 
+(Break-up by composition i.e. by materials relevant to the sector)
+147
+153.6
+Total (A+B + C + D + E + F + G + H)
+368
+322
+For each category of waste generated, total waste recovered through recycling, reusing or other recovery 
+operations (in metric tonnes)
+Category of waste
+(i)	 Recycled
+319
+210
+(ii)	 Re-used 
+0
+0
+(iii)	Other recovery operations
+0
+0
+Total 
+319
+210
+For each category of waste generated, total waste disposed of through disposal method (in metric tonnes)
+Category of waste
+(i)	 Incineration 
+0
+0
+(ii)	 Landfilling
+49
+112
+(iii)	Other disposal operations
+0
+0
+Total
+49
+112
+8.	
+Provide details related to waste management by the entity, in the following format:
+	
+Note: Indicate if any independent assessment / evaluation / assurance has been carried out by an external agency? 
+(Yes / No) If yes, name of the external agency.
+	
+Yes, assurance is conducted externally by DNV.
+9.	 Briefly describe the waste management practices adopted in your establishment. Describe the strategy adopted 
+by your entity to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes: 
+	
+Being a service-oriented organisation, Tata Communications does not typically generate waste as a by-product 
+of its processes. The waste generated can be divided into two categories: non-hazardous waste generated by 
+domestic activities such as housekeeping and cafeteria operations, and hazardous waste generated by equipment 
+which provide services to customers. Such equipment is purchased based on business requirements, and Tata 
+Communications relies on its suppliers for delivery of such products and services.
+	
+Tata Communications aims to reduce the environmental impact of waste by focusing on the efficient and 
+sustainable disposal of all types of waste. Non-hazardous garbage is collected by municipalities and authorised 
+third party agencies to ensure safe disposal. Hazardous waste is appropriately disposed off through authorised 
+recyclers. Tata Communications ensures adequate storage with secondary containments during collection and 
+handling of such hazardous waste and ensures proper training of the waste handlers. The scrap waste is recycled 
+and disposed through external agencies while ensuring that all regulatory criteria of waste management rules of 
+relevant regions or nations are complied with.
+26
+S. 
+No.
+Location of operations / 
+offices 
+Type of operations 
+Whether the conditions of environmental 
+approval / clearance are being complied 
+with? (Y/N) If no, the reasons thereof and 
+corrective action taken, if any. 
+Not Applicable
+S. 
+No. 
+Specify the law / regulation 
+/ guidelines which was not 
+complied with 
+Provide details 
+of the non-
+compliance 
+Any fines / penalties / action 
+taken by regulatory agencies 
+such as pollution control 
+boards or by courts 
+Corrective 
+action taken, 
+if any 
+Not Applicable
+Name and brief 
+details of project 
+EIA 
+notification 
+no.
+Date
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes / No)
+Results 
+communicated 
+in public domain  
+(Yes / No) 
+Relevant Web link
+Expansion in 
+Environmental 
+Clearance 
+for Tata 
+Communications 
+at Dighi, Pune
+S.O.1533 (E)
+December 
+7, 2022
+Yes
+Yes
+Please click 
+here to refer to 
+Environmental 
+Clearance 
+granted to Tata 
+Communications 
+Limited
+10.	 If the entity has operations / offices in / around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details in the following format: 
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in 
+the current financial year:
+12.	 Is the entity compliant with the applicable environmental law / regulations / guidelines in India; such as the 
+Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment 
+protection Act and rules thereunder (Yes / No).
+	
+If not, provide details of all such non-compliances, in the following format:
+	
+Tata Communications is compliant with the relevant and applicable environmental laws and regulations in India. 
+We adhere to the regulatory compliances / requirements in a timely manner.
+Leadership Indicators
+The Company is not reporting on leadership indicators this year
+27
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+Principle 7: Businesses, when engaging in influencing public and regulatory policy, should do 
+so in a manner that is responsible and transparent
+Essential indicators
+1.	
+a.	
+Number of affiliations with trade and industry chambers/associations. 
+	
+	
+11 trade and industry chambers / associations.
+	
+b.	 List the top 10 trade and industry chambers / associations (determined based on the total members of such 
+body) the entity is a member of / affiliated to.
+S. 
+No.
+Name of the trade and industry chambers / 
+associations
+Reach of trade and industry chambers / 
+associations (State / National)
+1
+Internet Service Providers Association of India (ISPAI)
+National
+2
+ITU-APT Foundation of India
+National 
+(Tata Communications Limited is a member of 
+the Executive Council)
+3
+CII
+National 
+(Principal partner for CII Tata Communications 
+Centre for Digital Transformation)
+4
+FICCI
+National 
+(Tata Communications Limited is a member of 
+the AI and Digital Transformation Committee)
+5
+TSDSI (Telecommunications Standards Development 
+Society, India)
+National 
+(Tata Communications Limited is a member of 
+the Governing Council of TSDSI)
+6
+Bombay Chamber of Commerce and Industry
+State
+7
+Cloud Security Alliance (CSA)
+Global Membership
+8
+GSMA
+Global Membership
+9
+International Telecommunication Union (ITU)
+Global Membership
+10
+LoRA alliance
+Global Membership
+11
+Mobile ecosystem forum
+Global Membership
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the 
+entity, based on adverse orders from regulatory authorities.
+Name of the authority
+Brief of the case
+Corrective action taken
+Nil
+Leadership Indicators
+The Company is not reporting on leadership indicators this year.
+28
+Principle 8: Businesses should promote inclusive growth and equitable development
+Name and brief 
+details of project
+SIA 
+Notification 
+No.
+Date of 
+notification
+Whether conducted 
+by independent 
+external agency  
+(Yes / No)
+Results 
+communicated 
+in public domain
+(Yes / No)
+Relevant 
+Web link
+Not Applicable
+S. No.
+Name of 
+Project for 
+which R&R is 
+ongoing
+State
+District
+No. of Project 
+Affected 
+Families (PAFs)
+% of PAFs 
+covered by 
+R&R
+Amount 
+paid to 
+PAFs in the 
+FY (In J)
+Not Applicable
+Essential Indicators
+1.	
+Details of Social Impact Assessments (‘SIA’) of projects undertaken by the entity, based on applicable laws, in the 
+current financial year:
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (‘R&R’) is being undertaken 
+by the entity, in the following format:
+3.	
+Describe the mechanisms to receive and redress grievances of the community:
+	
+As an organisation, Tata Communications has identified relevant BU functions to periodically interact and 
+correspond with their relevant stakeholder groups. We have also established a formal grievance redressal and 
+reporting mechanism in the form of a Whistleblower Policy, EOHS mailbox, Ethics Helpline, Customer Service 
+Helpline and Investor Relations mailbox, through which internal and external stakeholders can report their 
+grievances.
+4.	 Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Parameter
+FY 2022-23
+FY 2021-22
+Directly sourced from MSMEs / small producers
+13.7%
+2.5%
+Sourced directly from within the district and neighbouring districts
+Nil
+	
+Leadership Indicators
+	
+The Company is not reporting on leadership indicators this year.
+29
+Standalone Financial Statements
+Consolidated Financial Statements
+Integrated Report
+Statutory Reports
+Principle 9: Businesses should engage with and provide value to their consumers in a 
+responsible manner
+Essential indicators:
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback:
+	
+Tata Communications has a dedicated customer service team which engages with customers for addressing their 
+queries through various channels including over calls, emails etc.
+2.	
+Turnover of products and / services as a percentage of turnover from all products/service that carry information about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+Not Applicable
+Safe and responsible usage
+Recycling and/or safe disposal
+Number
+Reasons for recall
+Voluntary recalls
+Not Applicable
+Forced recalls
+3.	
+Number of consumer complaints in respect of the following:
+FY 2022-23
+Remarks
+FY 2021-22
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data privacy
+Nil
+Advertising
+Cyber security
+Delivery of essential services
+Delivery of essential services
+Restrictive Trade Practices
+Unfair Trade Practices
+Other (product related)
+4.	 Details of instances of product recalls on account of safety issues:
+5.	
+Does the entity have a framework / policy on cyber security and risks related to data privacy? (Yes/No) If 
+available, provide a web-link of the policy: 
+	
+Tata Communications has a comprehensive privacy policy which outlines our commitment to ensure compliance 
+with applicable privacy laws and describes how we collect, use, disclose and protect personal data. The privacy 
+policy is available at https://www.tatacommunications.com/policies/privacy/ 
+6.	 Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty/action taken by regulatory authorities on safety of products/services: 
+	
+Not applicable 	 	
+	
+	
+	
+Leadership Indicators
+The Company is not reporting on leadership indicators this year.

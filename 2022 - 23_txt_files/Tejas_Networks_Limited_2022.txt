@@ -1,0 +1,2766 @@
+                              
+        
+ 
+ May 29, 2023 
+The Secretary 
+National Stock Exchange of India Ltd 
+Exchange Plaza, C/1, Block G, 
+Bandra Kurla Complex, Bandra (East) 
+Mumbai – 400 051 
+NSE Symbol: TEJASNET 
+The Secretary 
+BSE Limited 
+P J Towers,  
+Dalal Street,  
+Mumbai – 400 001 
+BSE Scrip Code: 540595 
+ Dear Sir/Madam, 
+Re: Business Responsibility and Sustainability Report 
+ 
+Pursuant to Regulations 34(2)(f) of the Securities and Exchange Board of India (Listing 
+Obligations & Disclosure Requirements) Regulations 2015, we are submitting herewith the 
+Business Responsibility and Sustainability Report for FY 2022-23, which forms an integral part 
+of the Annual Report FY 2022-23, submitted to the Exchanges vide letter dated May 29, 2023. 
+ 
+Kindly take the above information on record. 
+ 
+ Yours sincerely  
+ For Tejas Networks Limited 
+ 
+ 
+ N R Ravikrishnan 
+ General Counsel, Chief Compliance Officer  
+ & Company Secretary 
+RANGACHARI 
+RAVIKRISHNAN
+Digitally signed by 
+RANGACHARI RAVIKRISHNAN 
+Date: 2023.05.29 18:34:23 
++05'30'
+ BUSINESS
+ RESPONSIBILITY 
+ &
+ 
+ SUSTAINABILITY
+REPORT
+Business Responsibility & Sustainability Reporting Format
+135
+ANNUAL REPORT 2022 - 23
+Annexure I 
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+SECTION A: GENERAL DISCLOSURES 
+I. Details of the listed entity 
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L72900KA2000PLC026980
+ 2
+Name of the Listed Entity
+Tejas Networks Limited
+3
+Year of incorporation
+2000
+4
+Registered office address 
+J P Software Park, Plot No 25, Sy. No 13, 14,17,18 Konnapana 
+Agrahara Village, Begur Hobli Bengaluru- 560100, Karnataka
+5
+Corporate address
+J P Software Park, Plot No 25, Sy. No 13, 14,17,18 Konnapana 
+Agrahara Village, Begur Hobli Bengaluru- 560100, Karnataka
+6
+E-mail
+corporate@tejasnetworks.com
+7
+Telephone
+080-41796400
+8
+Website
+ www.tejasnetworks.com
+9
+Financial year for which reporting is being done
+FY 2022-2023 (April 1, 2022 – March 31, 2023)
+10
+Name of the Stock Exchange(s) where shares are listed
+BSE Limited and National Stock Exchange of India Limited
+11
+Paid-up Capital
+` 171.64 crore (includes ` 3.27 crore of forfeited shares)
+12
+Name and contact details (telephone, email address) of the 
+person who may be contacted in case of any queries on the 
+BRSR report
+N R Ravikrishnan,  
+General Counsel, Chief Compliance Officer & Company Secretary
++91 80 41794608
+ravikrishnanr@tejasnetworks.com
+13
+Reporting boundary - Are the disclosures under this report 
+made on a standalone basis (i.e. only for the entity) or on a 
+consolidated basis (i.e. for the entity and all the entities which 
+form a part of its consolidated financial statements, taken 
+together).
+The disclosures under this report are made on a standalone basis, 
+unless otherwise specified.
+Note: In certain cases, data for FY 2021- 22 is not applicable and hence not mentioned. However, the Company started collating the data from 
+FY 2022 - 23. 
+II. Products/services
+14. Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of Main 
+Activity
+Description of 
+Business Activity
+% of Turnover of 
+the entity
+ 1
+Communication 
+Equipment
+The company designs, develops and manufactures leading-edge wireless and wireline 
+equipment used predominantly by telecom service providers, utilities, defence and 
+government agencies worldwide. The company has commercialized a wide range of 
+technologies and products for building end-to-end telecom networks that includes 
+4G/5G mobile broadband, multi-gigabit fiber broadband, terabit-scale optical 
+transmission and high-capacity packet switches.
+92.14
+ 2
+Communication 
+Software
+The company designs and develops software products that enable remote 
+configuration, monitoring, provisioning and management of its products from a 
+central, web-enabled platform. The company’s software products can be either hosted 
+on dedicated servers or on the public cloud.
+ 0.54
+3
+Support 
+Services towards 
+Communication 
+equipment and 
+Services
+The company offers a comprehensive portfolio of network services to its customers 
+that includes installation and commissioning of its products, post-sale support, 
+maintenance, upgrades and repair, product training, and network design advisory, 
+audit and optimization services.
+7.32
+Business Responsibility & Sustainability Reporting Format
+136
+ANNUAL REPORT 2022 - 23
+15. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No.
+Product/Service
+NIC Code
+% of total
+contributed
+Turnover 
+(amount in crore)
+1
+Manufacture of Communication Equipment
+263
+92.14
+800.76
+2
+Communication Software
+263
+0.54
+4.70
+3
+Support Services towards Communication equipment and Services
+263
+7.32
+63.62
+III. Operations
+16. Number of locations where plants and/or operations/offices of the entity are situated: 
+Location
+Number of plants
+Number of offices
+Total
+National
+1
+9
+10
+International
+Nil
+9
+9
+17. Markets served by the entity: 
+a. Number of locations
+Locations
+Number
+National (No. of States)
+28
+International (No. of Countries)
+75+
+b. What is the contribution of exports as a percentage of the total turnover of the entity? 
+20%
+c. A brief on types of customers 
+The company’s customers include leading telecom operators, Internet Service Providers (ISP), Wholesale Bandwidth Providers, Utilities 
+(Power, Railway, Oil &Gas, Smart Cities) and Government & Defence agencies across the globe
+IV. Employees
+18. Details as at the end of Financial Year: 2022-2023
+a. Employees and workers (including differently abled): 
+S. 
+No. 
+Particulars 
+Total 
+(A) 
+Male 
+Female 
+No. (B) 
+% (B / A) 
+No. (C) 
+% (C / A) 
+EMPLOYEES 
+1.
+Permanent (D)*
+1,417
+1,214
+85.67%
+203
+14.33%
+2.
+Other than Permanent (E) 
+357
+320
+89.64%
+37
+10.36%
+3.
+Total employees (D + E) 
+1,774
+1,534
+86.47%
+240
+13.53%
+WORKERS 
+4.
+Permanent (F) 
+Not Applicable
+5.
+Other than Permanent (G) 
+6.
+Total workers (F + G) 
+* includes permanent employees of Saankhya Labs
+Business Responsibility & Sustainability Reporting Format
+137
+ANNUAL REPORT 2022 - 23
+b. Differently abled Employees and workers:
+S. 
+No 
+Particulars 
+Total 
+(A) 
+Male 
+Female 
+No. (B) 
+% (B / A) 
+No. (C) 
+% (C / A) 
+DIFFERENTLY ABLED EMPLOYEES 
+1. 
+Permanent (D) 
+4
+4
+100%
+0
+0
+2. 
+Other than Permanent (E) 
+0
+0
+0%
+0
+0
+3. 
+Total differently abled 
+employees (D + E)
+4
+4
+100%
+0
+0
+DIFFERENTLY ABLED WORKERS 
+4. 
+Permanent (F) 
+Not Applicable
+5. 
+Other than permanent (G) 
+6. 
+Total differently abled workers 
+(F + G) 
+19. Participation/Inclusion/Representation of women 
+ 
+Total (A) 
+No. and percentage of Females 
+No. (B) 
+% (B / A) 
+Board of Directors 
+8
+1
+13%
+Key Management Personnel 
+4
+0
+0
+20. Turnover rate for permanent employees and workers
+(Disclose trends for the past 3 years)
+ 
+FY 2022-2023 
+FY 2021-2022 
+FY 2020-2021 
+Male 
+Female 
+Total 
+Male 
+Female 
+Total 
+Male 
+Female 
+Total 
+Permanent Employees 
+13.5%
+14.6%
+13.6%
+Not Applicable
+Permanent Workers 
+Not Applicable
+ 
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+Yes. The Company has five subsidiaries (including three step-down subsidiary) as on March 31, 2023. Refer to Form AOC-1 provided in this 
+Annual Report for information on holding/subsidiary/ associate companies/ joint ventures.
+21. (a) Names of holding / subsidiary / associate companies / joint ventures
+S. No. 
+ 
+Name of he holding 	
+/ subsidiary / associate 
+companies / joint 
+ventures (A) 
+Indicate whether holding/ 
+Subsidiary/ Associate/ Joint 
+Venture 
+% of shares held by 
+listed entity 
+Does the entity indicated at column 
+A, participate in the Business 
+Responsibility initiatives of the listed 
+entity? (Yes/No) 
+1
+Saankhya Labs Private 
+Limited 
+Majority Owned Subsidiary 
+64.40
+Yes
+2
+Saankhya Inc
+Step – down subsidiary 
+64.40
+Yes
+3
+Saankhya Strategic 
+Electronics Private Limited Step – down subsidiary
+64.40
+Yes
+4
+Tejas Communication Pte. 
+Limited
+Wholly Owned Subsidiary 
+100
+Yes
+5
+Tejas Communications 
+(Nigeria) Limited
+Step-down subsidiary
+100
+Yes
+Business Responsibility & Sustainability Reporting Format
+138
+ANNUAL REPORT 2022 - 23
+VI. CSR Details
+22. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No): Yes*
+As of March 
+31, 2023
+As of March 
+31, 2022
+(ii)
+Turnover (in ` crore)
+869.08
+549.14
+(iii)
+Net worth# (in ` crore)
+3,007.27
+1,589.60
+* The Company is not required nor obligated to make any contribution in respect of the Corporate Social Responsibility for the year ending 
+March 31, 2023, in view of the average net loss before tax for the last 3 years being ` 36.09 crore based on the computation as per Section 
+135 of the Companies Act, 2013.
+# Exculdes ` 337.50 crore for FY 2022 pertaining to money received against share warrants. 
+VII. Transparency and Disclosures Compliances
+23. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct: 
+Stakeholder group 
+from whom 
+complaint is 
+received 
+Grievance 
+Redressal Mechanism in 	
+Place 
+(Yes/No) (If Yes, then provide 
+web-link for grievance 
+redress policy)  
+FY 2022-2023
+FY 2021-2022 
+ Number of 
+complaints 
+filed 
+during the 
+year 
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year 
+Remarks 
+ Number of 
+complaints 
+filed 
+during the 
+year 
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year 
+Remarks 
+Communities 
+A mechanism is in place to 
+interact with community 
+leaders to understand and 
+address their concerns, if any. 
+https://www.tejasnetworks.
+com/main-control/download/
+Whistle-blower-Policy.pdf
+Nil
+Shareholders
+https://scores.gov.in/scores/
+Nil
+Investors (other 
+than shareholders)
+Not Applicable
+Employees and 
+workers 
+https://www.tejasnetworks.
+com/main-control/download/
+Whistle-blower-Policy.pdf
+Nil
+Customers 
+Details including contact 
+no., address and email id for 
+lodging complaints have been 
+specified on products. These 
+complaints are addressed as per 
+the process laid down.
+Nil
+Value Chain 
+Partners 
+https://www.tejasnetworks.
+com/main-control/download/
+Whistle-blower-Policy.pdf
+Nil
+Business Responsibility & Sustainability Reporting Format
+139
+ANNUAL REPORT 2022 - 23
+24. Overview of the entity’s material responsible business conduct issues 
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format
+S. 
+No. 
+Material 
+identified issue 
+Indicate 
+whether 
+risk or 
+opportunity
+(R/O) 
+Rationale for identifying
+the risk / opportunity 
+In case 	of risk, approach to 
+adapt or mitigate 
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or negative 
+implications) 
+ 1
+ Recycled water
+ O
+Recycled water is been used 
+for Flushing, gardening 
+and road cleaning, thereby 
+reducing the water purchase 
+cost and wastage
+ 
+Recycled water is been used 
+for Flushing, gardening 
+and road cleaning, thereby 
+reducing the water purchase 
+cost and wastage 
+ 2
+Renewable 
+energy
+ O
+ Using renewable energy for 
+office operation
+ 
+ Solar panel installation – 
+project in pipe line
+3
+Power 
+management – 
+LED Lamps, Lift 
+O
+Power data has been 
+maintained to track the 
+consumption. Energy efficient 
+LED lighting are being used 
+in the facility. Lift operation is 
+scheduled to ensure minimum 
+power consumption
+4
+Air & Water 
+quality & Noise 
+pollution 
+R
+Air & water quality and 
+Noise level test is been done 
+to ensure the parameters are 
+within the limit
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards 
+adopting the NGRBC Principles and Core Elements.
+The National Guidelines on Responsible Business Conduct (NGRBC) released by the Ministry of Corporate Affairs has 
+updated and adopted nine areas of Business Responsibility. These are briefly as under:
+P1
+Businesses should conduct and govern themselves with integrity and in a manner that is ethical, transparent and accountable
+P2
+Businesses should provide goods and services in a manner that is sustainable and safe
+P3
+Businesses should respect and promote the well-being of all employees, including those in their value chains
+P4
+Businesses should respect the interests of and be responsive to all its stakeholders
+P5
+Businesses should respect and promote human rights
+P6
+Businesses should respect and make efforts to protect and restore the environment
+P7
+Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible and transparent
+P8
+Businesses should promote inclusive growth and equitable development
+P9
+Businesses should engage with and provide value to their consumers in a responsible manner
+Disclosure Questions 
+P1 
+P2 
+P3 
+P4 
+P5 
+ P6 
+P7 
+P8 
+ P9 
+Policy and management processes 
+1. a. Whether your entity’s 
+policy/policies cover each 
+principle and its core elements 
+of the NGRBCs. (Yes/No) 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b. Has the policy been approved 
+by the Board? (Yes /No) 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Business Responsibility & Sustainability Reporting Format
+140
+ANNUAL REPORT 2022 - 23
+c. Web Link of the Policies, if 
+available 
+Code of Conduct Whistle blower policy
+www.tejasnetworks.com/policies-codes.php
+Supplier Code of conduct
+www.tejasnetworks.com/policies-codes.php
+CSR Policy, Whistle Blower Policy
+www.tejasnetworks.com/policies-codes.php
+2. Whether the entity has 
+translated the policy into 
+procedures. (Yes / No) 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3. Do the enlisted policies 
+extend to your value chain 
+partners? (Yes/No) 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4. Name of the national 
+and international codes/
+certifications/labels/ standards 
+(e.g. Forest Stewardship 
+Council, Fairtrade, Rainforest 
+Alliance, Trustea) standards 
+(e.g. SA 8000, OHSAS, ISO, 
+BIS) adopted by your entity and 
+mapped to each principle. 
+ GRI 
+Standards
+GRI 
+Standards
+ISO 14001 
+ GRI 
+Standards
+ GRI 
+Standards
+GRI 
+Standards 
+GRI 
+Standards, 
+ISO 14001
+ GRI 
+Standards
+GRI 
+Standards 
+GRI 
+Standards, 
+ISO 27001 
+5. Specific commitments, goals 
+and targets set by the entity 
+with defined timelines, if any. 
+Goal: To achieve Net-Zero by year 2035 across Scope 1, 2 & Scope 3 Emissions
+6. Performance of the 
+entity against the specific 
+commitments, goals and targets 
+along-with reasons in case the 
+same are not met. 
+Performance of each of the principles is reviewed periodically by various Committees led by the Management 
+and Board of Directors
+Governance, leadership and oversight 
+7. Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and 
+achievements (listed entity has flexibility regarding the placement of this disclosure) 
+The Company is committed to integrating environmental, social and governance (ESG) principles into its businesses which is central to 
+improving the quality of life of the communities it serves. The Company is committed to conducting beneficial and fair business practices to 
+the labour, human capital and to the community. It provides employees and business associates with working conditions that are clean, safe, 
+healthy and fair.
+8. Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy (ies). 
+Mr. Sanjay Nayak, Managing Director and CEO, DIN 01049871 under the guidance of the Board of Directors and its Committees is
+responsible for implementation and oversight of the Business Responsibility policies.
+9. Does the entity have a specified Committee of the Board/ Director responsible for decision making on sustainability related issues? 
+(Yes / No). If yes, provide details. 
+Yes, the Company has a Board level Stakeholders’ Relationship Committee. This Committee provides valuable direction and guidance to the 
+Management to ensure that Safety and Sustainability implications are duly addressed in all new strategic initiatives, budgets, audit actions and 
+improvement plans.
+Member of the Stakeholders’ Relationship Committee
+Designation
+DIN
+Prof. Bhaskar Ramamurthi – Chairman
+Non-Executive, Independent Director
+01914155
+Mrs. Alice G Vaidyan - Member
+Non-Executive, Independent Director
+07394437
+Mr. Arnob Roy - Member
+Executive, Non-Independent Director
+03176672
+Business Responsibility & Sustainability Reporting Format
+141
+ANNUAL REPORT 2022 - 23
+10. Details of Review of NGRBCs by the Company:
+Subject for Review 
+Indicate whether review was undertaken by  
+Director/Committee of the Board/Any other Committee 
+Frequency (Annually/ Half yearly/Quarterly/ Any other 
+– please specify) 
+ 
+P1 
+P2 
+P3 
+P4 
+P5 
+P6
+P7 
+P8 
+P9 
+P1 
+P2 
+P3 
+P4 
+P 
+P6 
+P7 
+P8 
+P9 
+Performance against above 
+policies and 
+follow up action 
+As a practice, policies on Business Responsibility of the Company are reviewed periodically or on a need basis by 
+the Senior Leadership Team including the MD & CEO. During the review, the efficacy of the policies is reviewed 
+and necessary changes to policies & procedures are implemented
+Compliance with statutory 
+requirements of relevance 
+to the principles, and, 
+rectification of any non-
+compliances 
+The Company is in compliance with the existing regulations as applicable and a Statutory Compliance Certificate 
+on applicable laws is provided by the MD & CEO/CFO to the Board of Directors
+11. Has the entity carried out independent assessment/ evaluation of the working of its policies by an external agency? (Yes/No). If 
+yes, provide name of the agency.
+P1 
+P2 
+P3 
+P4 
+P5 
+P6 
+P7 
+P8 
+P9 
+The Company has various policies in place which are reviewed from time to time by the Board, its Committees and Senior Management.
+Further, the above policies and processes may be subject to regulatory compliances and changes, as applicable.
+12. If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: 
+Questions 
+P1 
+P2 
+P3 
+P4 
+P5 
+P6 
+P7 
+P8 
+P9 
+The entity does not consider the Principles material to its 
+business (Yes/No) 
+All Principles are covered by the Policies
+The entity is not at a stage where it is in a position to formulate 
+and implement the policies on specified principles (Yes/No) 
+The entity does not have the financial or/human and technical 
+resources available for the task (Yes/No) 
+It is planned to be done in the next financial year (Yes/No) 
+Any other reason (please specify) 
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1 BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY, AND IN A 
+MANNER THAT IS ETHICAL, TRANSPARENT AND ACCOUNTABLE. 
+The Company structure specifies the distribution of rights and responsibilities among different participants of the corporation such as the 
+board, managers, shareholders and other stakeholders, and spells out the systems, procedures and practices which ensure that the company 
+is managed in the best interest of all corporate stakeholders and in a manner that is accountable and responsible to the shareholders. In a wider 
+interpretation, corporate governance includes company’s accountability to shareholders and other stakeholders such as employees, suppliers, 
+customers and local community. Our corporate philosophy seeks to ensure truth, transparency, accountability and responsibility and is 
+committed to meet the aspirations of all our stake holders. Our code of business principles reflects our continued commitment to ethical 
+business practices, values and compliance to all laws of the land. Corporate governance is not merely compliance but also a philosophy to be 
+professed and its objective is to create and adhere to a corporate culture of transparency and openness and to develop capabilities and 
+identified opportunities that best serves the goal of value creation, thereby creating an outperforming organization.
+Business Responsibility & Sustainability Reporting Format
+142
+ANNUAL REPORT 2022 - 23
+Essential Indicators
+1. Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment 
+Total number of 
+training and awareness 
+programmes held 
+Topics / principles covered under the training and its impact 
+%age of persons in 
+respective category 
+covered by awareness 
+the programmes 
+Board of Directors 
+During the year, the Board of Directors of the Company invested their time on various 
+updates pertaining to the business, regulations, environmental, social, governance etc.  
+These topics comprise insights on the said Principles
+100
+Key Managerial 
+Personnel 
+ 1
+1. Code of Conduct
+2. Whistleblower Policy
+3. Prevention of Sexual Harassment at the Workplace
+100
+Employees other 
+than BoD and KMPs 
+ 2
+1. Code of Conduct
+2. Whistleblower Policy
+3. Prevention of Sexual Harassment at the Workplace
+62
+Workers 
+Not Applicable
+Note: All the principles laid down in this Report are covered in the Company’s Code of Conduct which is mandatorily adhered to by all 
+employees of the Company.
+2. Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by 
+directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the following format 
+(Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+None. There are no fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings by the entity or by 
+directors / KMPs with regulators/ law enforcement agencies/ judicial institutions for the financial year ended March 31, 2023.
+Monetary
+NGRBC 
+Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount (In 
+INR)
+Brief of the Case
+Has an appeal been
+preferred? 
+(Yes/No)
+Penalty/ Fine
+Nil
+Settlement
+Compounding fee
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No) 
+Imprisonment
+Nil
+Punishment
+3. Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-monetary action 
+has been appealed.
+Case Details 
+Name of the regulatory/ enforcement agencies/ judicial institutions 
+Not Applicable
+4. Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link to 
+the policy. 
+Yes, the Company does have the Code of Conduct which contans the Anti Bribery & Anti- Corruption (‘ABAC’) policy. The Company has also 
+adopted a Whistleblower Policy and Vigil Mechanism to provide a formal mechanism to the Directors, employees and other external 
+stakeholders to report their concerns about unethical behaviour, actual or suspected fraud or violation of the Company’s Code of Conduct. 
+The Policy provides for adequate safeguards against victimisation of employees who avail of the mechanism. No personnel of the Company 
+have been denied access to the Chairperson of the Audit Committee.
+Business Responsibility & Sustainability Reporting Format
+143
+ANNUAL REPORT 2022 - 23
+The Gift and Hospitality Policy aims to provide guidance to Directors, Officers and Employees or persons who perform services for or on 
+behalf of the Company on what is appropriate and acceptable, and what is not acceptable, for offering, giving and accepting gifts and 
+hospitality. The above Policies require the Company to appoint a senior official as the Compliance Officer who shall be responsible for 
+implementation of the Policies. Under the above Policies, Compliance Officers have a functional reporting about any violation of the Policies 
+to the Chairperson of the Audit Committee. Aggravated cases of breach of the said Policies shall be escalated to the Board of Directors of the 
+Company.
+The Whistleblower Policy and Vigil Mechanism ensures that strict confidentiality is maintained in such cases and no unfair treatment is meted 
+out to a Whistleblower. The Company, as a Policy, condemns any kind of discrimination, harassment, victimisation or any other unfair 
+employment practice being adopted against Whistleblowers.
+With an aim to create awareness, during the year under review, the Company also undertook a series of communication and training 
+programmes on the values, The company’s Code of Conduct and other ethical practices of the Company for internal stakeholders, vendors and 
+distributors, partners, etc. 
+The Whistleblower Policy as adopted by the Company is available on the Company’s website at https://www.tejasnetworks.com/main-control/
+download/Whistle-blower-Policy.pdf.
+5. Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the 
+charges of bribery/ corruption:
+There have been no cases involving disciplinary action taken by any law enforcement agency for the charges of bribery / corruption against 
+directors / KMP / employees / workers that have been brought to our attention.
+ 
+FY 2022-2023
+(Current Financial Year) 
+FY 2021-2022 
+(Previous Financial Year) 
+Directors 
+Nil
+Nil
+KMPs 
+Employees 
+Workers 
+6. Details of complaints with regard to conflict of interest:
+ 
+ 
+FY 2022-2023 
+(Current Financial Year) 
+FY 2021-2022  
+(Previous Financial Year)
+Number 
+Remarks 
+Number 
+Remarks 
+Number of complaints received in relation to issues 
+of Conflict of Interest of the Directors
+Nil
+Not Applicable
+Nil
+Not Applicable
+Number of complaints received in relation to issues 
+of Conflict of Interest of the KMPs
+7. Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law 
+enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.:
+Not Applicable
+Leadership Indicators
+1. Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total number of awareness programmes 
+held 
+Topics / principles covered under the 
+training 
+Percentage of value chain partners covered (by 
+value of business done with such partners) 
+under the awareness programmes 
+Nil
+Note: The Company proposes to conduct awareness program for value chain partners in the current financial year. 
+2. Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No) If Yes, provide details 
+of the same.
+Yes, every Director of the Company discloses his/her concern or interest in the Company or companies or bodies corporate, firms or other 
+association of individuals and any change therein, annually or upon any change, which includes the shareholding. Further, a declaration is 
+also taken annually from the Directors under the Code of Conduct confirming that they will always act in the interest of the Company and 
+ensure that any other business or personal association which they may have, does not involve any conflict of interest with the operations of 
+the Company and the role therein. The Senior Management also affirms annually that they have not entered into any material, financial and 
+commercial transactions, which may have a potential conflict with the interest of the Company at large. In the Meetings of the Board, the 
+Directors abstain from participating in the items in which they are concerned or interested. For identifying and tracking conflict of interests 
+involving the Directors / KMPs of the Company, the Corporate Secretarial team maintains a database of the Directors and the entities in which 
+they are interested. This list is shared with the Finance department which flags off the parties in their system for monitoring and tracking 
+transaction(s) entered by the Company with such parties.
+Business Responsibility & Sustainability Reporting Format
+144
+ANNUAL REPORT 2022 - 23
+PRINCIPLE 2 BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS SUSTAINABLE 
+AND SAFE
+Essential Indicators
+The Company designs and develops high-performance and cost-effective wireline and wireless equipment that are primarily used to build 
+fixed and mobile broadband networks. Our products have a huge positive impact on society by enabling telecom service providers to bridge 
+the rapidly growing “digital divide” by servicing billions of poor, bottom-of-pyramid consumers in rural and remote areas who would otherwise 
+have been bereft of broadband connectivity for access to modern education, employment, healthcare and financial services. Moreover, the 
+availability of high-speed broadband also has a positive environmental impact by allowing users to cut carbon emissions by teleworking, video 
+conferencing, remote healthcare consultations,  e-commerce, online banking, smart metering and other applications that reduce both road and 
+air travel. 
+As a responsible product company, we give due consideration to environmental issues like global warming, climate change etc. and our 
+products are designed accordingly. As a global supplier of telecom equipment; our products are qualified in various countries including US & 
+Europe to meet strict environmental, emission norms. While selecting components we attempt to choose energy efficient chip sets which 
+consume less power and design our products to minimize the total carbon footprint. In addition, we have designed some of our customer 
+premise devices, especially those which can potentially be deployed in remote areas with power constraints, to support solar powering.  Hence, 
+nearly 100% of our R&D and capex investments help improve environmental and social impacts.
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social 
+impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+ 
+Current Financial Year 2022-23
+Previous Financial Year 2021-22
+Details of improvements in 
+environmental and social impacts 
+R&D 
+Nil
+Capex 
+2. a. Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+Yes 
+b. If yes, what percentage of inputs were sourced sustainably?
+Yes, the Company has developed a supplier sustainability code and has established process for vendor selection. This includes various 
+principles and guidelines such as Safety, Health and Environment Policy, Legal Compliance, adherence to Tejas Code of Conduct, ISO 
+Certification, etc. The Company has started carrying out a Sustainability assessment of its key suppliers and communicates areas of further 
+improvements to reinforce sustainability principles. We have a comprehensive engagement model, to meaningfully engage with our suppliers 
+on material aspects. Regular capacity building and assessments are conducted for key suppliers. 
+3. Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) Plastics 
+(including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+Our integration & testing facility does not produce any hazardous waste. The waste generated is only from packaging etc. Further in line with 
+the requirements of ISO14001 environmental standards we re-use most of the packaging boxes for intermediate packing & movement. We 
+re-use the packaging received from cable vendors & Sheet metal vendors for our Kit packaging. Most of our packaging use carton boxes instead 
+of ply wood/ Hardwood packaging
+4. Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste 
+collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, provide 
+steps taken to address the same.
+Yes, We have filed the plan of EPR to the pollution control board and are expected to receive the EPR in this financial year
+Business Responsibility & Sustainability Reporting Format
+145
+ANNUAL REPORT 2022 - 23
+Leadership Indicators
+1. Has the entity conducted Life Cycle Perspective / Assessment (LCA) for any of its products (for manufacturing industry) or for its 
+services (for service industry)? If yes, provide details in the following format?
+NIC Code 
+Has the entity 
+conducted Life 
+Cycle products 
+(for manufacturing 
+industry) provide 
+details in the 
+following format?
+Name of Product /
+Service 
+% of total Turnover 
+contributed 
+Perspective / or 
+for its services 
+Boundary for 
+which the Life 
+Cycle Perspective 
+/ Assessment was 
+conducted 
+(Whether conducted 
+by independent 
+external agency (Yes/
+No) 
+Assessments (LCA) 
+for any of its for 
+service industry)? 
+If yes,Results 
+communicated in 
+public domain (Yes/
+No) If yes, provide 
+the web-link. 
+263
+Manufacture of 
+Communication 
+equipment 
+ 92.14
+Not Applicable
+No
+263
+Communication 
+Software 
+0.54
+263
+Support Services 
+towards communication 
+equipment and services 
+7.32
+2. If there are any significant social or environmental concerns and/or risks arising from production or disposal of your products / 
+services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same along-
+with action taken to mitigate the same.
+There are no significant social / environmental concerns and / or risks arising from production. The Company recycles all its plastic waste 
+through authorised vendors.
+ Name of Product / Service 
+Description of the risk / concern 
+Action Taken 
+Not Applicable
+3. Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or 
+providing services (for service industry).
+Indicate input material 
+Recycled or re-used input material to total material 
+FY 2022-2023 
+FY 2021-2022 
+ Nil
+4. Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely 
+disposed, as per the following format:
+ 
+FY 2022-2023
+FY 2021-2022
+Re-Used 
+Recycled 
+Safely Disposed 
+Re-Used 
+Recycled 
+Safely Disposed 
+Plastics (including 
+packaging) 
+Nil
+E-waste 
+Hazardous waste 
+Other waste 
+5. Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Indicate product category
+Reclaimed products and their packaging materials as % of total 
+products sold in respective category
+Nil
+Business Responsibility & Sustainability Reporting Format
+146
+ANNUAL REPORT 2022 - 23
+PRINCIPLE 3 BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EMPLOYEES, 
+INCLUDING THOSE IN THEIR VALUE CHAINS
+Essential Indicators
+1. a. Details of measures for the well-being of employees:
+Category 
+% of employees covered by 
+Total 
+(A) 
+ 
+Health insurance 
+Accident insurance 
+Maternity benefits 
+Paternity 
+Benefits 
+Day Care facilities 
+Number 
+(B) 
+% (B / 
+A) 
+Number 
+(C) 
+% (C / 
+A) 
+Number 
+(D) 
+% (D / 
+A) 
+Number 
+(E) 
+% (E / 
+A) 
+Number 
+(F) 
+% (F / 
+A) 
+Permanent employees 
+Male 
+1,214
+1,214
+100%
+1,214
+100%
+0
+0%
+1,214
+100%
+951
+78%
+Female 
+203
+203
+100%
+203
+100%
+203
+100%
+0
+0%
+186
+92%
+Total*
+1,417
+1,417
+100%
+1,417
+100%
+203
+14%
+1,214
+86%
+1,137
+80%
+Other than Permanent employees 
+Male 
+320
+320
+100%
+320
+100%
+0
+0%
+320
+100%
+320
+100%
+Female 
+37
+37
+100%
+37
+100%
+37
+100%
+0
+0%
+37
+100%
+Total 
+357
+357
+100%
+375
+100%
+37
+10%
+320
+90%
+357
+100%
+* includes employees of Saankhya Labs
+b. Details of measures for the well-being of workers: 
+Category 
+% of workers covered by 
+Total 
+(A) 
+ 
+Health insurance 
+Accident insurance 
+Maternity benefits 
+Paternity 
+Benefits 
+Day Care facilities 
+Number 
+(B)  
+% (B / A) Number 
+(C) 
+% (C / 
+A) 
+Number 
+(D) 
+% (D / 
+A) 
+Number 
+(E) 
+% (E / A) Number 
+(F) 
+% (F / A) 
+Permanent workers 
+Male 
+Not Applicable
+Female 
+Total 
+Other than Permanent workers 
+Male 
+Nil
+Female 
+Total 
+2. Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY 2022-2023
+FY 2021-2022
+No. of 
+employees 
+covered as a 	
+% of total 
+employees
+No. of workers 
+covered as a % 
+of total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as a % 
+of total 
+employees
+No. of workers 
+covered as a % 
+of total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+100%
+Not Applicable
+Yes
+100%
+Not Applicable
+Yes
+Gratuity
+100%
+Not Applicable
+Yes
+100%
+Not Applicable
+Yes
+ESI
+Not Applicable
+Others – please 
+specify
+3. Accessibility of workplaces - Are the premises / offices of the entity accessible to differently abled employees and workers, as per 
+the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this 
+regard. 
+Most of our working locations are accessible to differently abled persons
+Business Responsibility & Sustainability Reporting Format
+147
+ANNUAL REPORT 2022 - 23
+4. Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link 
+to the policy. 
+The Company is governed by the Code of Conduct whereby all the employees and those eligible are provided with equal opportunities. The 
+Company is committed by an inclusive work culture without any discrimination on the grounds of race, caste, religion, colour, marital status, 
+gender, sex, age, nationality, ethnic origin, disability and such other grounds as precribed and protected by the applicable laws.
+5. Return to work and Retention rates of permanent employees and workers that took parental leave.
+ 
+Permanent employees 
+Permanent workers 
+Gender 
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male 
+58
+100%
+Not Applicable
+Female 
+14
+100%
+Total 
+72
+100%
+6. Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? If yes, give 
+details of the mechanism in brief.
+ 
+Yes/No 
+(If Yes, then give details of the mechanism in brief)  
+Permanent Workers 
+Not Applicable
+Other than Permanent Workers 
+Permanent Employees 
+Yes
+Other than Permanent Employees 
+Employees are encouraged to share their concerns with their reporting managers, the HR department and members of the Senior Leadership 
+Team. Apart from this, an Ethics and POSH escalation mechanism is also available including a third party helpline. The Company, on a regular 
+basis, sensitises its employees on the same as well. It is mandatory for new employees to read, understand and affirm to the Company’s Code 
+of Conduct document as part of the induction program. Employees can raise their concerns to POSH Committee Members, the Whistleblower 
+channel, and Grievance Redressal channel.
+The concern received, if any, is investigated by the authorised persons by gathering, validating and analysing the data. The observations and 
+findings / recommendations are shared with the committee members. The documentation of the action taken is filed for records. Periodically, 
+these concerns are reviewed by the Audit Committee Members. The lessons learnt are also shared during the quarterly Employee Communication 
+meetings.
+7. Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2022-2023
+FY 2021-2022
+Total employees / 
+workers in 
+respective 
+category (A)
+No. of employees 
+/ workers in 
+respective 
+category, who are 
+part of 
+association(s) or 
+Union (B)
+% (B / A)
+Total 
+employees / 
+workers 
+in respective 
+category (C)
+No. of employees 
+/ workers in 
+respective 
+category, who are 
+part of 
+association(s) or 
+Union (D)
+% (D / C)
+Total Permanent 
+Employees
+Not Applicable
+Male
+Female
+Total Permanent 
+Workers
+Male
+Female
+Business Responsibility & Sustainability Reporting Format
+148
+ANNUAL REPORT 2022 - 23
+8. Details of training given to employees and workers:
+Category 
+FY 2022-2023
+FY 2021-2022
+Total 
+(A) 
+ 
+On Health and 
+safety measures  
+	
+On Skill 
+upgradation 
+Total 
+(D) 
+On Health and 
+safety measures On Skill upgradation 
+No. 
+(B) 
+% (B 
+/ A) 
+No. 
+(C) 
+% (C / 
+A) 
+No. 
+(E) % (E / D) 
+No. (F) % (F / D) 
+Employees
+Male 
+1,214
+NA
+NA
+606
+50%
+Not Applicable
+Female 
+203
+NA
+NA
+89
+44%
+Total*
+1,417
+875
+62%
+695
+49%
+Workers
+Male 
+Not Applicable
+Female 
+Total 
+* includes employees of Saankhya Labs
+9. Details of performance and career development reviews of employees and worker:
+Category 
+FY 2022-2023
+ FY 2021-2022
+Total (A) 
+No. (B) 
+% (B / A) 
+Total (C) 
+No. (D) 
+% (D / C) 
+Employees
+Male 
+1,214
+1,214
+100%
+801
+739
+92%
+Female 
+203
+203
+100%
+119
+106
+89%
+Total* 
+1,417
+1,417
+100%
+920
+845
+92%
+Workers
+Male 
+Not Applicable
+Female 
+Total 
+* includes employees of Saankhya Labs
+10. Health and safety management system:
+a. Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, the coverage 
+such system? 
+No, The Company do not have a formal management system on Occupational health & safety, However, the Company is conducting Safety 
+training, Evacuation drills, periodical Employee health check-up, monitoring safety incidents and review of the same.
+b. What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity?
+The Company has a process for Risk Management which is essential for preventing incidents, injuries, occupational disease, emergency control 
+& prevention and business continuity. Considering the hazards associated with operations used, sites have deployed structured Hazard 
+Assessment, Risk Assessment and Management Process - both qualitative and quantitative which is regularly reviewed and mitigation plans are 
+put in place for high-risk areas. The process also considers roles and responsibilities, monitoring control measures, competency training and 
+awareness of individuals associated with such activities. Formal risk assessment training has been provided as appropriate.
+c. Whether you have processes for workers to report the work related hazards and to remove themselves from such risks. (Yes/ No) 
+Yes. Incident management process has been established. Any kind of incidents are recorded. Root cause and appropriate action are taken 
+immediately in such cases. Process and procedures have been established and complied.
+d. Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No) 
+Yes, all employees are covered under health insurance scheme.
+Business Responsibility & Sustainability Reporting Format
+149
+ANNUAL REPORT 2022 - 23
+11. Details of safety related incidents, in the following format:
+Safety Incident/Number 
+Category
+FY 2022-2023
+Current Financial Year 
+FY 2021-2022 
+Previous Financial Year 
+Lost Time Injury Frequency Rate (LTIFR) (per one 
+million-person hours worked) 
+Employees 
+ Nil
+Workers 
+Not Applicable
+Total recordable work-related injuries 
+Employees 
+Nil
+Workers 
+No. of fatalities 
+Employees 
+Workers 
+High consequence work-related injury or ill-health 
+(excluding fatalities) 
+Employees 
+Workers 
+12. Describe the measures taken by the entity to ensure a safe and healthy work place.
+The Company is committed to continuously employing Safety, Health and Environment (‘SHE’) practices through benchmarking with the 
+companies that are best in the business. The Company has a Board level Stakeholders Relationship Committee, chaired by an Independent 
+Director. The Committee reviews and monitors the sustainability, safety, health and environmental policies and activities of the of the company 
+on behalf of the Board to ensure that the Company is in compliance with appropriate laws and legislation. This Committee also provides 
+valuable direction and guidance to the Management to ensure that Safety and Sustainability implications are duly addressed in all-new strategic 
+initiatives, budgets, audit actions and improvement plans.
+13. Number of Complaints on the following made by employees and workers:
+FY 2022-2023
+FY 2021-2022
+ 
+Filed during the 
+year 
+ 
+ Pending 
+resolution at the 
+end of year 
+Remarks 
+ 
+Filed during the 
+year 
+Pending 
+resolution at the 
+end of year 
+Remarks 
+Working Conditions 
+Nil
+	Health & Safety 
+14. Assessments for the year: 2022-2023
+ 
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties) 
+Health and safety practices 
+100%
+Working Conditions 
+100%
+15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / 
+concerns arising from assessments of health & safety practices and working conditions. 
+There was no safety related incidents or significant risk concerns highlighted during this submission period. The Company follows Safety 
+Incident Investigation guidelines. The Incident Investigation process describes a structured approach to identify, assess and control various 
+hazards and risks and support the system to achieve the goal of ‘Zero Harm’ along with other business goals of zero defects, zero legal non-
+compliance etc. in a systematic and auditable manner. The investigation process outlines a structured approach to list and investigate the 
+process of safety incidents and near misses, work out the root cause(s), with possible corrective or preventive action and to follow up closure 
+of these actions identified. All incidents are investigated by a cross-functional team and all critical factors involved in the incident are determined 
+through root cause analysis with proper corrective and preventive actions to prevent a recurrence. The learnings are shared and training is 
+conducted for better understanding & better implementation of processes across all locations. A Report prepared by a process of collating all 
+the safety incidents (critical near miss, safety parameters, process safety, fire incidents, etc.) through a safety cross functional team forms the 
+basis for the monthly report which is sent to the senior leadership team.
+Business Responsibility & Sustainability Reporting Format
+150
+ANNUAL REPORT 2022 - 23
+Leadership Indicators
+1. Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) Workers 
+(Y/N). 
+Yes. The Company has systems in place to provide financial assistance to the legal dependents of the employees in case of death while in 
+service.
+ 
+2. Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value chain 
+partners. 
+The Company monitors and tracks the compliance related to statutory dues by contractors supplying third party resources as a part of regular 
+checks while processing the invoices. Periodic audits are also conducted to ensure compliance
+3. Provide the number of employees / workers having suffered high consequence work related injury / ill-health / fatalities (as 
+reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment or whose family 
+members have been placed in suitable employment:
+ 
+Total no. of affected employees/ workers 
+No. of employees/workers that are rehabilitated and 
+placed in suitable employment or whose family members 
+have been placed in suitable employment 
+ 
+FY 2022-23
+FY 2021-2022
+FY 2022-2023 
+FY 2021-2022
+Employees 
+Nil
+Workers 
+4. Does the entity provide transition assistance programs to facilitate continued employability and the management of career endings 
+resulting from retirement or termination of employment? (Yes/ No) 
+No
+ 
+5. Details on assessment of value chain partners:
+ 
+% of value chain partners (by value of business done with such 
+partners) that were assessed 
+Health and safety practices 
+100
+Working Conditions 
+100
+6. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments of 
+health and safety practices and working conditions of value chain partners. 
+Not Applicable.No audit was conducted during FY 2022-23.
+Business Responsibility & Sustainability Reporting Format
+151
+ANNUAL REPORT 2022 - 23
+PRINCIPLE 4: BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO ALL ITS 
+STAKEHOLDERS
+Essential Indicators
+1. Describe the processes for identifying key stakeholder groups of the entity. 
+Internal and external group of stakeholders have been identified. Presently, the given stakeholder groups have the immediate impact on the 
+operations and working of the Company. This includes Employees, Shareholders, Customers, Communities, Suppliers, Partners and Vendors.
+2. List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Tejas has identified key stakeholders based on certain parameters, and the engagements with each of them are provided in the Summary of 
+Stakeholder Engagement in the Corporate Governance Section of the Annual Report. Tejas has annual engagements with its employees.
+Stakeholder 
+Group 
+ 
+Whether identified 
+as Vulnerable & 
+Marginalized 
+Group 
+(Yes/No) 
+Channels of 
+communication (Email, 
+SMS, Newspaper, 
+Pamphlets,
+Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other 
+Frequency of engagement 
+(Annually/ Half yearly/ 
+Quarterly / others – please 
+specify) 
+ 
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such 
+engagement 
+ Shareholders
+ No
+Annual General Meeting, 
+Shareholder meets, 
+email, Stock Exchange 
+intimations, investor/
+analysts meet/ conference 
+calls, annual report, 
+quarterly results, media 
+releases and
+Company/SE website
+ Ongoing
+Share price appreciation, 
+dividends, profitability and 
+financial stability, growth 
+prospects
+Employees 
+ No
+Senior leaders’ 
+communication/talk 
+/ forum, Employee 
+Communication, goal 
+setting and performance 
+appraisal meetings/
+review, wellness initiatives, 
+engagement survey, email, 
+intranet, websites, poster 
+campaigns, circulars, 
+quarterly publication and 
+newsletters
+ Ongoing 
+Responsible Care, innovation, 
+operational efficiencies, 
+improvement areas, long-
+term strategy plans, training 
+and awareness, brand 
+communication, health, safety 
+and engagement initiatives 
+Customers
+ No
+Website, distributor / 
+direct customer, senior 
+leader-customer meets 
+/ visits, customer plant 
+visits, Dealer’s meet, 
+trade body membership, 
+complaints management, 
+helpdesk, conferences, 
+customer surveys.
+ Ongoing
+Product quality and availability, 
+responsiveness to needs, after 
+sales service, responsible 
+guidelines / manufacturing, 
+climate change disclosures, 
+Safety awareness. 
+Suppliers / Partners
+ No
+Prequalification/	
+vetting, communication 
+and partnership meets, 
+plant visits, MoU and 
+framework agreements, 
+professional networks, 
+contract management/
+review, on site 
+presentations, satisfaction 
+surveys
+ Ongoing
+Quality, timely delivery and 
+payments, ESG consideration 
+(sustainability, safety checks, 
+compliances, ethical behaviour), 
+collaboration and digitalisation 
+opportunities
+Business Responsibility & Sustainability Reporting Format
+152
+ANNUAL REPORT 2022 - 23
+Communities
+ No
+Meets of community / 
+local authorities
+/ location heads, 
+community projects, 
+partnership with local 
+charities, volunteerism, 
+seminars/ conferences, 
+CSR Partner’s meet
+ Ongoing
+Community development,  
+disaster relief, Education, Skill 
+development, etc.
+Leadership Indicators
+1. Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or if 
+consultation is delegated, how is feedback from such consultations provided to the Board.
+The Company’s Policy on Human Rights covers not only the Company but extends to its subsidiaries. The Company encourages its suppliers, 
+contractors and others to follow the principles laid down in the five principles of its values and beliefs. Respecting human rights is fundamental 
+to the Company’s policies and business dealings and the Company is equally focussed on building awareness around promotion of human 
+rights with every associate and supply chain partners. All employees and contractors are required to respect the human rights of fellow workers 
+and communities where we operate. The Company does not employ child labours and does not permit any occurrence of forced or compulsory 
+labour, conducts proper checks and audits to ensure that our contractors follow the same. The Company’s business relationship with its 
+Vendors/ contractors encourages its vendors/contractors to comply with the relevant laws safeguarding labour rights and human rights
+ 
+2. Whether stakeholder consultation is used to support the identification and management of environmental, and social topics (Yes / 
+No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into policies 
+and activities of the entity. 
+Yes, the Stakeholders in this case is the  customer, vendor, neighbour, regulators and the Company considers inputs from its employees, 
+business associates, customers, shareholders/investors and communities surrounding its operations and regulatory authorities as its key 
+stakeholders to arrive at the policies and activities. The Company complies with the requirements of ISO14001 environmental standards and 
+meets all the statutory & regulatory requirements on environmental aspects. Necessary reports are generated & maintained. We do the study 
+on aspect & impact analysis on activity we do in Tejas. Risks are adequately mitigated. All components selected based on ROHS compliancy 
+and regulatory requirement. We have provided employee safety gears at the rework stations & provided suction units for fumes. Tejas has 
+initiated various initiatives towards energy efficiency. The few to mention are atrium in factory premises to use natural light, save water and 
+save electricity campaign with various teasers and visuals, Tejas also recommends compliance to ISO 14001 standard to its suppliers. Many of 
+the Tejas suppliers are ISO 14001 certified. In addition, we have designed some of our customer premise equipment, especially those which 
+can potentially be deployed in remote areas with power constraints, to support solar powering.
+3. Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized stakeholder 
+groups. 
+The Company is responsive to the requirements of all its Stakeholders and this is enshrined in our Corporate Values & Beliefs of Integrity, 
+Passion, Quality, Respect and Responsibility. These values require that the Company acts as a responsible corporate citizen and change lives 
+for the better and this is to be done in a manner that reflects humility. These values require us to provide everyone equal opportunities to 
+progress and grow. The Company considers its employees, business associates, customers, shareholders/investors and communities surrounding 
+its operations and regulatory authorities as its key stakeholders. The Company continues its engagement with them through various mechanisms 
+such as consultations with local communities, supplier/vendor meets, customer/employee satisfaction surveys, investor forums, etc.. The 
+Company has mapped its internal and external stakeholders. It uses both formal and informal mechanisms. engage with various stakeholders 
+to understand their concerns and expectations 
+4. Out of the above, has the company identified the disadvantaged, vulnerable & marginalized stakeholders? 
+The Company identifies underprivileged communities around its business locations as disadvantaged, vulnerable and marginalised stakeholders 
+and continuously engages with all such stakeholders identifying their needs and priorities so as to serve these needs accordingly
+Business Responsibility & Sustainability Reporting Format
+153
+ANNUAL REPORT 2022 - 23
+PRINCIPLE 5 BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+Essential Indicators
+1. Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following 
+format:
+Category 
+FY 2022-2023
+ Current Financial Year 
+FY 2021-2022
+Previous Financial Year 
+Total (A) 
+ 
+No. of employees 
+/ workers covered 
+(B) 
+% (B / A) 
+Total (C) 
+No. of/ 
+employees 
+workers 
+covered (D) 
+% (D / C) 
+Employees 
+Permanent* 
+1,417
+875
+62
+Not Applicable
+Other than permanent 
+NA
+NA
+NA
+Total Employees 
+1,417
+875
+62
+Workers 
+Permanent 
+Not Applicable
+Other than permanent 
+Total Workers 
+* includes permanent employees of Saankhya Labs
+2. Details of minimum wages paid to employees and workers, in the following format:
+Category 
+Total 
+(A) 
+ 
+FY 2022-2023
+ Current Financial Year 
+ 
+  FY 2021-2022
+Previous Financial Year 
+Equal to Minimum 
+Wage 
+More than inimum 
+Wage 
+Total 
+(D) 
+Equal to Minimum 
+Wage 
+More than Minimum 
+Wage 
+No. (B) 
+% (B / 
+A) 
+No. (C) 
+% (C / 
+A) 
+No. (E) % (E / D) 
+No. (F) 
+% (F / D) 
+Employees 
+Permanent*
+1,417
+0
+0%
+1,417
+100%
+801
+0
+0%
+801
+100%
+Male 
+1,214
+0
+0%
+1,214
+100%
+119
+0
+0%
+119
+100%
+Female 
+203
+0
+0%
+203
+100%
+920
+0
+0%
+920
+100%
+Other than Permanent 
+357
+0
+0%
+357
+100%
+0
+0
+0%
+0
+Not 
+Applicable
+Male 
+320
+0
+0%
+320
+100%
+0
+0
+0%
+0
+Female 
+37
+0
+0%
+37
+100%
+0
+0
+0%
+0
+Workers 
+Permanent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Male 
+Not Applicable
+Female 
+Other than Permanent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Male 
+Not Applicable
+Female 
+* includes permanent employees of Saankhya Labs
+3. Details of remuneration/salary/wages, in the following format: 
+in ` crore
+Number 
+Male 
+Female 
+Median remuneration/ salary/ wages of 
+respective category 
+Number 
+Median remuneration/ salary/ 
+wages of respective category 
+Board of Directors (BoD)*
+7
+2.27
+1
+-
+Key Managerial Personnel 
+2
+1.46
+-
+-
+Employees other than BoD 
+and KMP 
+1,116
+0.11
+185
+0.08
+Workers 
+-
+-
+-
+-
+* Only Executive Directors are considered for medien calculation. 
+Business Responsibility & Sustainability Reporting Format
+154
+ANNUAL REPORT 2022 - 23
+4. Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed 
+to by the business? (Yes/No) 
+Yes, The Company’s Policy on Human Rights covers not only the Company but extends to its subsidiaries. The Company encourages its 
+suppliers, contractors and others to follow the principles laid down in the five principles of its values and beliefs. Respecting human rights is 
+fundamental to the Company’s policies and business dealings and the Company is equally focussed on building awareness around promotion 
+of human rights with every associate and supply chain partners. All employees and contractors are required to respect the human rights of 
+fellow workers and communities where we operate. The Company does not employ child labours and does not permit any occurrence of 
+forced or compulsory labour, conducts proper checks and audits to ensure that our contractors follow the same. The Company’s business 
+relationship with its Vendors/ contractors encourages its vendors to comply with the relevant laws safeguarding labour rights and human rights
+ 
+5. Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+The Company has a policy in place for Business & Human Rights. The Company is committed to maintain a safe and harmonious business 
+environment and workplace for everyone and believes that every workplace shall be free from harassment and / or any other unsafe or 
+disruptive conditions. Accordingly, the Company has in place an ethics framework comprising a team of ethics counsellors for redressal of 
+grievances related to ethics / human rights as well as a team of POSH committee members for redressal of such related issues. Additionally, a 
+third party helpline is also in place.
+6. Number of Complaints on the following made by employees and workers:
+FY 2022-2023
+Current Financial Year 
+FY 2021-2022
+Previous Financial Year 
+ 
+ 
+Filed during 
+the year 
+ 
+ Pending 
+resolution at 
+the 
+end of year 
+Remarks 
+ Filed during 
+the year 
+Pending 
+resolution at 
+the 
+end of year 
+Remarks 
+Sexual Harassment
+Nil
+Discrimination at workplace
+Child Labour
+Forced Labour / Involuntary Labour
+Wages
+Other human rights related issues
+7. Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases. 
+1. As part of Whistleblower Policy and POSH Policy, the Company has a section mentioned on the protection of identity of the complainant. 
+All such matters are dealt in strict confidence.
+2. Also, as part of its Code of Conduct, the Company does not tolerate any form of retaliation against anyone reporting legitimate concerns. 
+Anyone involved in targeting such a person will be subject to disciplinary action.
+ 
+8. Do human rights requirements form part of your business agreements and contracts? (Yes/No) 
+Yes
+•	
+The Company has specific clauses as part of the Code of Conduct included in the business agreements and contracts / purchase orders. 
+Human rights form a part of the Code of Conduct. The Company does not employ children at its workplaces and does not use forced 
+labour in any form.
+•	
+The Code of Conduct can be accessed at https://www.tejasnetworks.com/policies-codes.php
+9. Assessments for the year: 2022-2023
+ 
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties) 
+Child labour 
+Not Applicable
+Forced/involuntary labour 
+Sexual harassment 
+Discrimination at workplace 
+Wages 
+Others – please specify 
+10. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at 
+Question 9 above. 
+Not Applicable
+Business Responsibility & Sustainability Reporting Format
+155
+ANNUAL REPORT 2022 - 23
+Leadership Indicators
+1. Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints. 
+Not Applicable. The Company has Grievence Redressal Channel. No such grievance has been raised
+2. Details of the scope and coverage of any Human rights due-diligence conducted. 
+None. 
+3. Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with 
+Disabilities Act, 2016? 
+Yes, most of our locations are accessible to differently-abled visitors.
+ 
+4. Details on assessment of value chain partners:
+ 
+% of value chain partners (by value of business done with such partners) that were assessed 
+Sexual Harassment 
+Nil
+Discrimination at workplace 
+Child Labour 
+Forced Labour/Involuntary Labour 
+Wages 
+Others – please specify 
+Note: Declaration of adherence to the Supplier Code of Conduct on the above is obtained from the value chain partners as part of their contract 
+/ purchase orders. The contracts are not renewed or they are terminated in case of non-adherence to the Code of Conduct agreed upon.
+https://www.tejasnetworks.com/policies-codes.php
+5. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at 
+Question 4 above. 
+Not Applicable. However, the declaration of adherence to the Supplier Code of Conduct on the above is obtained from the value chain partners 
+as part of their contract / purchase orders. The contracts are not renewed or they are terminated in case of non-adherence to the Code of 
+Conduct agreed upon. https://www.tejasnetworks.com/policies-codes.php
+PRINCIPLE 6: BUSINESSES SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE THE 
+ENVIRONMENT
+Essential Indicators
+1. Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format: T Co2 e (Ton)
+Parameter 
+FY 2022-23
+(Current Financial Year) 
+FY 2021-22
+(Previous Financial Year) 
+Total electricity consumption (A) 
+ 5,936,706 Kwh
+4,283,101 Kwh
+Total fuel consumption (B) 
+163,634 Kwh
+194,510 Kwh 
+Energy consumption 	through other sources (C) 
+Nil
+Total energy 	consumption (A+B+C) 
+61,00,340 Kwh
+ 44,77,611 Kwh
+Energy intensity per rupee of turnover (Total energy consumption/ turnover in `) 
+0.000701931
+0.000815386
+Energy intensity (optional) – the relevant metric may be selected by the entity 
+Not Applicable
+The Company has not made independent assessment/ evaluation/assurance has been carried out by an external agency 
+Note: Total electricity consumption for all excluding International locations and Total fuel consumption considered for two Bangalore locations 
+(Corp office and Plant).
+ 
+2. Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade 
+(PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. In 
+case targets have not been achieved, provide the remedial action taken, if any. 
+No
+Business Responsibility & Sustainability Reporting Format
+156
+ANNUAL REPORT 2022 - 23
+ 3. Provide details of the following disclosures related to water, in the following format:
+Parameter 
+FY 2022-2023
+(Current Financial Year) 
+FY 2021-2022 
+(Previous Financial Year) 
+Water withdrawal by source (in kilolitres) 
+(i) Surface water 
+Nil
+(ii) Groundwater 
+(iii) Third party water 
+5,596 KL
+5,020 KL
+(iv) Seawater / desalinated water 
+Nil
+(v) Others 
+Total volume of water withdrawal (in kilolitres) (i + ii + 
+iii + iv + v) 
+ 5,596 KL
+5,020 KL
+Total volume of water consumption (in kilolitres) 
+5,596 KL
+5,020 KL
+Water intensity per rupee of turnover (Water consumed 
+/ turnover) 
+ 0.00000064393
+0.0000009143
+Water intensity (optional) – the relevant metric may be 
+selected by the entity 
+Not Applicable 
+The Company has not made independent assessment/ evaluation/assurance has been carried out by an external agency 
+ 
+Note: Drinking water for all excluding International locations and Domestic water for two Bangalore locations (Corp office and Plant) are 
+considered here.
+4. Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation. 
+Yes – for Bangalore location (Corp office), the sewage treated water is been re-used for flushing, Gardening and basement & periphery area 
+cleaning purpose. At the plant sewage treated water is been re-used for gardening and periphery cleaning purposes
+5. Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter 
+Please specify unit 
+FY 2022-2023 
+(Current Financial Year) 
+FY 2021-2022
+(Previous Financial Year) 
+NOx 
+ mg / Nm^3
+ 1.8
+ 15
+SOx 
+ mg / Nm^3
+ 16
+ 4.1
+Particulate matter (PM)
+ mg / Nm^3
+ 32
+ 32
+Persistent organic pollutants (POP) 
+Not Applicable
+Volatile organic compounds (VOC) 
+Hazardous air pollutants (HAP) 
+Others – please specify 
+The Company has not made independent assessment/ evaluation/assurance has been carried out by an external agency 
+6. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter 
+Unit 
+FY 2022-2023
+(Current Financial Year) 
+FY 2021-2022
+(Previous Financial Year) 
+Total Scope 1 emissions (Break-up of the 
+GHG into CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available) 
+Metric tonnes of CO2 
+equivalent 
+718.81
+470.80 
+Total Scope 2 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available) 
+Metric tonnes of CO2 
+equivalent 
+4,281.73
+3,760.47 
+Total Scope 1 and Scope 2 emissions per 
+rupee of turnover 
+ 
+0.00000071751 
+Total Scope 1 and Scope 2 emission intensity 
+(optional) – the relevant metric may be 
+selected by the entity 
+ 
+ 
+ 
+The Company has not made independent assessment/ evaluation/assurance has been carried out by an external agency 
+Business Responsibility & Sustainability Reporting Format
+157
+ANNUAL REPORT 2022 - 23
+7. Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details. 
+ Yes. Installation of Solar panel at Bangalore offices is in pipeline
+8. Provide details related to waste management by the entity, in the following format:
+Parameter 
+FY 2022-2023
+FY 2021-2022 
+Total Waste generated (in metric tonnes) 
+Plastic waste (A) 
+Nil
+E-waste (B) 
+Bio-medical waste (C) 
+Construction and demolition waste (D) 
+Battery waste (E) 
+Radioactive waste (F) 
+Other Hazardous waste. Please specify, if any. (G) 
+Nil
+150 Kg (Used oil)
+Other Non-hazardous waste generated (H). Please specify, 
+if any. 
+(Break-up by composition i.e. by materials relevant to the 
+sector) 
+29,532 Kg
+4225 Kg
+Total (A+B + C + D + E + F + G + H) 
+ 29,532 Kg
+ 4375 Kg
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in metric 
+tonnes) 
+Category of waste 
+(i) Recycled 
+Nil
+(ii) Re-used 
+(iii) Other recovery operations 
+Not Applicable
+Total 
+ 
+ 
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes) 
+Category of waste 
+18629 
+2971
+(i) Incineration 
+Nil
+(ii) Landfilling 
+(iii) Other disposal operations 
+22431 Kg
+2971 
+Total 
+22431 Kg
+2971
+The Company has not made independent assessment/ evaluation/assurance has been carried out by an external agency 
+Note: Non Hazard Waste data considered for two Bangalore locations (Corp office and Plant). The other excluding International locations 
+(covering 23 % of total office area)
+9. Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your company 
+to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to manage such wastes. 
+The Company has an established process to cater to handle General, Plastic, e-waste, Hazardous, etc. All wastes have been segregated at its 
+source and send it to the authorized recyclers as and when required / its desired quantity achieved
+10. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere 
+reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are 
+required, please specify details in the following format: 
+S. 
+No. 
+Location of operations/
+offices 
+Type of operations
+Whether the conditions of environmental approval / clearance are 
+being complied with? (Y/N) If no, the reasons thereof and corrective 
+action taken, if any. 
+Not Applicable
+Business Responsibility & Sustainability Reporting Format
+158
+ANNUAL REPORT 2022 - 23
+11. Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current 
+financial year: 
+Name and brief details of 
+project 
+EIA 
+Notification 
+No. 
+Date 
+Whether conducted 	
+by independent 
+external agency 
+(Yes / No) 
+Results 
+communicated in 
+ublic domain (Yes 
+/ No) 
+Relevant Web link 
+Not Applicable
+12. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention and 
+Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). If 
+not, provide details of all such non-compliances, in the following format: 
+Yes
+S. No. 
+Specify the law / regulation 
+/ guidelines which was not 
+complied with 
+Provide details of the non-
+compliance 
+Any fines / penalties / 
+action taken by regulatory 
+agencies such as pollution 
+control boards or by courts 
+Corrective action taken, if 
+any
+Not Applicable
+Leadership Indicators
+1. Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, in the following 
+format:
+Parameter 
+FY 2022-2023
+(Current Financial Year)
+FY 2021-2022
+(Previous Financial Year)` 
+From renewable sources 
+Total electricity consumption (A) 
+Nil
+Total fuel consumption (B) 
+Energy consumption through other sources (C) 
+Total energy consumed from renewable 
+sources (A+B+C) 
+From non-renewable sources 
+Total electricity consumption (D) 
+59,36,706 Kwh
+42,83,101 Kwh
+Total fuel consumption (E) 
+163,634 Kwh
+194,510 Kwh -
+Energy consumption through other sources (F) 
+Nil
+Total energy consumed from non-renewable 
+sources (D+E+F) 
+61,00,340 Kwh
+44,77,611 Kwh
+The Company has not made independent assessment/ evaluation/assurance has been carried out by an external agency
+Note: Total electricity consumption for all excluding International locations and Total fuel consumption considered for two Bangalore locations 
+(Corp office and Plant). The other locations (covering 23 % of total office areas)
+2. Provide the following details related to water discharged:
+Parameter 
+FY 2022-2023 
+(Current Financial Year) 
+FY 2021-2022
+(Previous Financial Year) 
+Water discharge by destination and level of treatment (in kilolitres) 
+(i) To Surface water 
+Nil
+	- No treatment 
+- With treatment – please specify level of treatment 
+(ii) To Groundwater 
+	- No treatment 
+- With treatment – please specify level of treatment 
+Business Responsibility & Sustainability Reporting Format
+159
+ANNUAL REPORT 2022 - 23
+(iii) To Seawater 
+Not Applicable
+	- No treatment 
+- With treatment – please specify level of treatment 
+(iv) Sent to third-parties 
+Nil
+	- No treatment 
+- With treatment – please specify level of treatment 
+(v) Others 
+	- No treatment 
+- With treatment – please specify level of treatment 
+ 8,143 KL
+15,537 KL
+Total water discharged (in kilolitres) 
+ 8,143 KL
+ 15,537 KL
+The Company has not made independent assessment/ evaluation/assurance has been carried out by an external agency
+Note: Water discharge data considered for two Bangalore locations (Corp office and Plant). The other excluding International locations 
+(covering 23 % of total office area)
+3. Water withdrawal, consumption and discharge in areas of water stress (in kilolitres): 
+For each facility / plant located in areas of water stress, provide the following information: 
+(i) Name of the area : Not Applicable
+(ii) Nature of operations : Not Applicable
+(iii) Water withdrawal, consumption and discharge in the following format:
+Parameter 
+FY 2022-2023 
+(Current Financial Year)
+FY 2021-2022
+(Previous Financial Year) 
+Water withdrawal by source (in kilolitres)
+(i) Surface water 
+Nil
+(ii) Groundwater 
+(iii) Third party water 
+ 5,596 KL
+ 5,020 KL
+(iv) Seawater / desalinated water 
+Nil
+(v) Others 
+Total volume of water withdrawal 
+(in kilolitres) 
+ 5,596 KL
+ 5,020 KL
+Total volume of water consumption 
+(in kilolitres) 
+ 5,596 KL
+ 5,020 KL
+Water intensity per rupee of turnover (Water consumed / turnover) 
+ 0.00000064393
+ 0.0000009143
+Water intensity (optional) – the relevant metric may be selected by the entity 
+ NA
+NA
+Water discharge by destination and level of treatment (in kilolitres) 
+(i) Into Surface water 
+Nil
+	- No treatment 
+- With treatment – please specify level of treatment 
+(ii) Into Groundwater 
+	- No treatment 
+- With treatment – please specify level of treatment 
+(iii) Into Seawater 
+	- No treatment 
+- With treatment – please specify level of treatment 
+(iv) Sent to third-parties 
+	- No treatment 
+- With treatment – please specify level of treatment 
+(v) Others 
+ 
+ 
+	- No treatment 
+Nil
+- With treatment – please specify level of treatment 
+ 8,143 KL
+15,537 KL
+Total water discharged (in kilolitres) 
+ 8,143 KL
+ 15,537 KL
+The Company has not made independent assessment/ evaluation/assurance has been carried out by an external agency
+Business Responsibility & Sustainability Reporting Format
+160
+ANNUAL REPORT 2022 - 23
+4. Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter 
+Unit 
+FY 2022-2023
+(Current Financial Year)
+FY 2021-2022
+(Previous Financial Year)
+Total Scope 3 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available) 
+Metric tonnes of CO2 
+equivalent 
+ Excluded
+Total Scope 3 emissions per rupee of turnover 
+ Excluded
+Total Scope 3 emission intensity (optional) – the relevant 
+metric may be selected by the entity 
+The Company has not made independent assessment/ evaluation/assurance has been carried out by an external agency
+ 
+6. With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details of significant 
+direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities. 
+Not Applicable
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or 
+reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as outcome of such 
+initiatives, as per the following format: 
+Sr. No 
+Initiative undertaken 
+Details of the initiative (Web-link, if any, may 
+be provided along-with summary) 
+Outcome of the initiative 
+Not Applicable
+7. Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link. 
+Tejas Networks recognizes that a significant threat exists to its ability to continue normal business operations following a serious unexpected 
+disruptive incident. The organization has a high level of dependency upon its automated systems and processes and this creates risks, which 
+need to be mitigated. The organization further recognizes that it needs to recover from disruptive incidents in the minimum possible time and 
+that this necessity to ensure a speedy restoration of services requires a significant level of advance planning and preparation. This Business 
+Continuity Plan has been prepared to assist the organization to manage a serious disruptive crisis in a controlled and structured manner. It 
+contains information on emergency contact details, strategies to mitigate impact, procedures to be implemented and communication processes 
+to be followed in response to a serious disruptive event.
+Tejas as a Company positioned to operate in the global markets believes that its operations should have processes and systems in place to 
+address any kind of exigencies within and outside of Tejas that affects its operations, including employees, property of the Company, 
+manufacturing processes and customer support. This Business Continuity Plan seeks to address 
+•	 A need for establishing systems and processes in the Company to address emergencies 
+•	 To establish guidelines for the Company to ensure quicker turnaround from a break in operations 
+•	 To ensure that managers/employees are geared to meet an exigency in the absence of senior management guidance
+8. Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or adaptation 
+measures have been taken by the entity in this regard. 
+No such incidents has happened which affected the business.
+9. Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental impacts. 
+100%
+Business Responsibility & Sustainability Reporting Format
+161
+ANNUAL REPORT 2022 - 23
+PRINCIPLE 7 BUSINESSES, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, SHOULD 
+DO SO IN A MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+Essential Indicators
+1. a. Number of affiliations with trade and industry chambers/ associations
+Seven (7)
+b. List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the entity is a 
+member of/ affiliated to. 
+S. No. 
+Name of the trade and industry chambers/ associations 
+Reach of trade and industry chambers/ 
+associations (State/National) 
+1 
+ TEPC (Telecom Export Promotion Council)
+ National
+2 
+ VOICE (Voice of Indian Communication Technology Enterprises)
+3 
+ TEMA (Telecom Equipment Manufacturer Association)
+4 
+ CII
+5 
+ FICCI
+6 
+ SITARA
+7 
+ ICEA
+2. Provide details of corrective action taken or underway on any issues related to anticompetitive conduct by the entity, based on 
+adverse orders from regulatory authorities.
+Name of authority 
+Brief of the case 
+Corrective action taken 
+Not Applicable
+Leadership Indicators
+1. Details of public policy positions advocated by the entity: 
+The Company is not involved in influencing directly any Government schemes or its policy. Whenever a policy is made or Government wants 
+to come up with some scheme to support the domestic OEM, the inputs are asked from the associations generally. The Company as a part of 
+this associations and actively give its inputs. Further the Company attends meetings at various forums, Committee or Taskforce where the 
+Company express its views.
+S. No. 
+Public policy 
+advocated 
+Method resorted for 
+such advocacy 
+Whether 
+information 
+available in public 
+domain? (Yes/No) 
+Frequency of Review by 
+Board (Annually/ Half 
+yearly/ Quarterly /Others – 
+please specify) 
+Web Link, if available 
+Not Applicable
+PRINCIPLE 8 BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVELOPMENT
+Essential Indicators
+1.Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial 
+year. 
+The Company shall make CSR contributions to projects or programs of Healthcare, Education, Disaster Management including COVID relief 
+measures and other areas in accordance with the CSR Policy of the Company. The projects shall be implemented or executed through 
+implementing agencies that are duly registered under Companies Act, 2013 and other applicable regulations
+Name and brief 
+details of project 
+SIA Notification No. 
+Date of notification 
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes / No) 
+Results 
+communicated in 
+public domain (Yes 
+/ No) 
+Relevant Web link 
+Not Applicable
+2.Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity, in 
+the following format:
+S. No. Name of Project for which 
+R&R is ongoing 
+State 
+District 
+No. of Project Affected 
+Families (PAFs) 
+% of PAFs covered 
+by R&R 
+Amounts paid to PAFs 
+in the FY (In INR) 
+Not Applicable
+Business Responsibility & Sustainability Reporting Format
+162
+ANNUAL REPORT 2022 - 23
+3. Describe the mechanisms to receive and redress grievances of the community.  
+The Company has a focussed group comprising the Senior Leadership who interacts with the community leaders to understand and address 
+their concerns. Further, the Company also has a Whistleblower Policy in place for all its stakeholders to file their grievances. Same can be 
+accessed at https://www.tejasnetworks.com/main-control/download/Whistle-blower-Policy.pdf
+ 
+4. Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Amount in INR
+2022-23
+2021-22
+2020-21
+Material
+Service
+Material
+Service
+Material
+Service
+Total Purchases
+9,16,96,61,801
+52,28,42,116
+4,15,91,65,122
+39,25,20,431
+2,33,33,27,709
+23,01,46,145
+MSME Purchases
+65,13,23,920
+11,50,08,619
+41,81,33,596
+11,07,34,623
+26,04,19,610
+9,67,84,390
+% of MSME Purchases
+7.10%
+22.00%
+10.05%
+28.21%
+11.16%
+42.05%
+Purchase from Local Vendors*
+1,68,51,81,274
+14,00,39,898
+57,68,67,715
+8,94,38,173
+60,49,32,597
+7,56,47,417
+% of Purchase from Local 
+Vendors
+18.38%
+26.78%
+13.87%
+22.79%
+25.93%
+32.87%
+*Within Bangalore District
+Note: These amounts do not include Capex Purchases as requested.
+Note: This includes purchases from Contract Manufacturers
+Leadership Indicators
+1. Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments (Reference: 
+Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+Not Applicable
+2. Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by 
+government bodies: 
+S. No.State
+Aspirational District
+Amount spent (In INR)
+Not Applicable
+3. (a) Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising marginalized 
+/vulnerable groups? (Yes/No)
+No (Procurement is done based on competitiveness). However we encourage marginalised and vulnerable groups.
+(b) From which marginalized /vulnerable groups do you procure?
+If such a vendor is available, the Company prefers the vendor, if competitive.
+(c) What percentage of total procurement (by value) does it constitute?
+Not Applicable
+4. Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current financial 
+year), based on traditional knowledge:
+S. No.
+Intellectual Property based 
+on traditional knowledge
+Owned/ Acquired (Yes / No)
+Benefits Shared (Yes / No)
+Basis of calculating benefit 
+share
+Not Applicable
+5. Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein usage 
+of traditional knowledge is involved.: 
+Name of authority
+Brief of the Case
+Corrective action taken
+Not Applicable
+6. Details of beneficiaries of CSR Projects: 
+S. No
+CSR Project
+No. of persons benefitted 
+from CSR Projects
+% of beneficiaries from vulnerable and marginalized groups
+Not Applicable
+Business Responsibility & Sustainability Reporting Format
+163
+ANNUAL REPORT 2022 - 23
+PRINCIPLE 9 BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS IN A 
+RESPONSIBLE MANNER
+Essential Indicators
+1. Describe the mechanisms in place to receive and respond to consumer complaints and feedback. 
+The Company has Trouble Ticket process for customer to raise complaints and respond to customer complaints. the Company provides the 
+Technical Support Centre numbers (24x7) and email id for customers to raise complaints/feedback. the Company has Problem Report process 
+(Bugzilla) to track the customer complaints and work on resolution in line with contractual SLA. Further, the Company also has a customer 
+survey process to capture and analyze customer feedback proactively
+2. Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:
+As a percentage of total turnover
+Environmental and social parameters relevant to the product
+Not Applicable 
+Safe and responsible usage
+Not Applicable  
+Recycling and/or safe disposal
+Not Applicable
+3. Number of consumer complaints in respect of the following:
+FY 2022-2023
+Remarks
+FY 2021-2022
+Remarks
+Received during 
+the year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data privacy
+Nil
+Nil
+Advertising
+Cyber-security
+Delivery of essential services
+Restrictive Trade Practices
+Unfair Trade Practices
+Others (Product Issues)
+4. Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+Nil
+Not Applicable
+Forced recalls
+5. Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a web-
+link of the policy. 
+Yes, Tejas is committed to protecting the privacy of individuals whose personal data it holds, and processing such personal data in a way that 
+is consistent with applicable laws and ensures safety and security of data including where it has presence in several overseas jurisdictions 
+including Singapore, the United States of America, Mexico and UAE, and is committed in ensuring compliance with applicable laws across 
+these jurisdictions. Tejas has an integrated and centralized strategy for achieving data privacy compliance across all jurisdictions
+6. Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; 
+cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory 
+authorities on safety of products / services.
+No issue were reported as on March 31,  2023.
+Leadership Indicators
+1. Channels / platforms where information on products and services of the entity can be accessed (provide web link, if available).  
+Information relating to all products of the Company are available on the website at www.tejasnetworks.com
+2. Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+The Company conducts meetings to educate its customers on responsible usage of our products as well as safe disposal of the products as well 
+provide various user manuals along with the company products.
+Business Responsibility & Sustainability Reporting Format
+164
+ANNUAL REPORT 2022 - 23
+3. Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services. 
+The Company has a End of Life/End of Sales process and customer communication process to inform customer on End of Life/End of Service 
+for its products. Besides, the Company maintain key contacts in customer operations team /Network Operating Centre team and communicate 
+to them of any risk of disruption/discontinuation of essential services due to maintenance activities (usually scheduled in maintenance window 
+with customer approved downtime). 
+ 
+4. Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/Not 
+Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer satisfaction relating to the 
+major products / services of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No) 
+No, the Company publishes information as per the regulatory norms, and also the Company conducts customer satisfaction survey every year 
+on the major products of Tejas
+5. Provide the following information relating to data breaches: 
+a. Number of instances of data breaches along-with impact 
+There were no data breaches as on March 31, 2023.
+b. Percentage of data breaches involving personally identifiable information of customers 
+Not Applicable

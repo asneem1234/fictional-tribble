@@ -1,0 +1,3334 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Date: 11th August 2023 
+ 
+ 
+National Stock Exchange of India Limited, 
+Exchange Plaza" 5th Floor, Plot No. C-1, 
+Block, 
+Bandra Kurla Complex, Bandra 
+(East),Mumbai – 400051
+BSE Limited, 
+Phiroze Jeejeebhoy 
+Towers, Dalal Street, 
+Mumbai - 400001 
+NSE Scrip Code – SKFINDIA  
+BSE Scrip Code -500472  
+ 
+Dear Sirs/Madam,  
+ 
+Sub: Business Responsibility & Sustainability Report for the year ended 31st March 2023 
+ 
+Pursuant to Regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, read with SEBI Circular SEBI/HO/CFD/CMD-2/P/CIR/2021/562 dated 10th May 
+2021, we are enclosing herewith Business Responsibility and Sustainability Report (BRSR) for the 
+Financial Year 2022-23. The said report also forms part of Annual Report 2022-23 of the company. 
+ 
+Annual Report is available on website of the company at https://www.skf.com/in/investors/financial-
+results 
+ 
+The above is for your information and record, you are requested to disseminate the above information 
+on your respective websites. 
+ 
+Thanking you, 
+Yours faithfully, 
+SKF India Limited 
+ 
+ 
+______________ 
+Ranjan Kumar 
+Company Secretary & Compliance Officer 
+Digitally signed by RANJAN 
+KUMAR
+DN: cn=RANJAN KUMAR, c=IN, o
+=PERSONAL, email=ranjan.
+kumar@skf.com
+Date: 2023.08.11 19:18:52 +05'30'
+RANJAN 
+KUMAR
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+155
+ANNEXURE – M
+Business Responsibility and Sustainability Reporting
+Introduction
+Pursuant to Regulations 34 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+SKF is dedicated to delivering sustainable results via its business and business conduct. SKF Care is Company’s 
+sustainability framework covering the business, environment, employee and community. We have embarked on the journey 
+of developing this Business Responsibility and Sustainability Report (BRSR) based on the suggested framework of SEBI. This 
+is our first year of publishing the Business Responsibility and Sustainability Report and we consider this as an opportunity 
+to showcase our performance and progress across Environmental, Social and Governance aspects. 
+Section A: General Disclosures
+I
+Details of the listed entity
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L29130PN1961PLC213113
+2
+Name of the Listed Entity
+SKF INDIA LIMITED 
+3
+Year of incorporation
+1961
+4
+Registered office address
+Chinchwad, Pune 411 033, Maharashtra. 
+5
+Corporate address
+Chinchwad, Pune 411 033, Maharashtra
+6
+E-mail
+investors@skf.com 
+7
+Telephone
+020 66112500
+8
+Website
+https://www.skf.com/in  
+9
+The financial year for which reporting is being done
+FY 2022-2023
+10
+Name of the Stock Exchange(s) where shares are listed
+BSE Limited (BSE) and the National Stock Exchange of 
+India Limited (NSE)  
+11
+Paid-up Capital (In INR)
+494,379,630
+12
+Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on 
+the BRSR report
+ 
+Name
+Ranjan Kumar
+ 
+Contact
+(+91) 20 66112231
+ 
+Email
+investors@skf.com
+13
+Reporting boundary - Are the disclosures under this report 
+made on a standalone basis (i.e., only for the entity) or on 
+a consolidated basis (i.e., for the entity and all the entities 
+which form a part of its consolidated financial statements, 
+taken together).
+Standalone basis 
+II
+Product / Services
+14.	 Details of business activities (accounting for 90% of the turnover)
+S. 
+No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of 
+the entity
+1
+Manufacturing 
+and 
+dealers 
+of 
+Bearings
+Manufacturing Bearing products and dealers of its 
+components, condition monitoring and maintenance 
+services.
+100%
+15. 	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover)
+S. 
+No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1
+Bearings and its components
+2814
+100%
+Annual Report 2022-23
+SKF India Limited
+156
+Business Responsibility and Sustainability Reporting (contd.)
+III
+Operations
+16 	 Number of locations where plants and/or operations/offices of the entity are situated
+Location
+Number of plants
+Number of offices
+Total
+National
+3
+7
+10
+International
+0
+0
+0
+17	
+Markets served by the entity
+A 	
+Number of locations
+Locations
+Number
+National (No. of States)
+ 28
+International (No. of Countries)
+30
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+8%
+c.	
+Brief on types of customers
+	
+SKF India Limited, is India’s leading technology and solutions provider of bearings and units, seals, lubrication, condition 
+monitoring and services. SKF’s solutions provide sustainable ways for companies across the automotive and industrial 
+sectors to achieve breakthroughs in friction reduction, energy efficiency, and equipment longevity and reliability.
+	
+In automotive segment, our customers include two-wheeler, four-wheeler, heavy vehicle manufacturers and aftermarket. 
+In industrials, our market covers segments from Metal industry, Railways, Wind Energy, General Machinery and Food 
+and Beverage Industry.
+IV
+Employees
+18	
+Details as at the end of Financial Year 2022-23
+A.	
+Employees and workers (including differently abled)
+S. 
+No.
+Particulars
+Total  
+(A)
+Male
+Female
+Other
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (H)
+% (H / A)
+EMPLOYEES
+1
+Permanent (D)
+ 743
+626 
+84 % 
+ 117
+ 16%
+ 0
+0 
+2
+Other than permanent (E)
+ 919
+ 152
+ 75%
+ 50
+ 25%
+ 0
+ 0
+3
+Total employees (D + E)
+ 1,662
+778 
+82% 
+167
+18%
+0 
+ 0
+WORKERS
+4
+Permanent (F)
+ 919
+918
+99.1%
+1
+0.1%
+0
+0
+5
+Other than permanent (G)
+ 2,350
+2265
+96% 
+85
+ 4%
+ 0
+0
+6
+Total workers (F + G)
+3,269
+3183
+97%
+86
+3%
+0
+0
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+157
+Business Responsibility and Sustainability Reporting (contd.)
+B.	
+Differently abled employees and workers:
+S. 
+No.
+Particulars
+Total  
+(A)
+Male
+Female
+Other
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (H)
+% (H / A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+ 0
+0
+100%
+0
+0 %
+0
+ 0%
+2
+Other than Permanent (E)
+ 1
+1
+100%
+0
+0%
+0
+ 0%
+3
+Total differently abled employees (D 
++ E)
+ 1
+ 1
+ 100%
+ 0
+ 0%
+ 0
+ 0%
+DIFFERENTLY ABLED WORKERS
+4
+Permanent (F)
+ 1
+1 
+ 100%
+ 0
+ 0%
+ 0
+ 0%
+5
+Other than Permanent (G)
+ 0
+ 0
+ 0%
+ 0
+ 0%
+ 0
+ 0%
+6
+Total differently abled workers (F + G)
+ 1
+ 1
+ 100%
+ 0
+ 0%
+ 0
+ 0%
+19 	 Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+ 6
+1
+ 16% 
+Key Management Personnel
+ 4
+0 
+ 0
+20 	 Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+ 
+Turnover rate in current  
+FY (2022-23)
+Turnover rate in previous  
+FY (2022-21)
+Turnover rate in the year prior to 
+the previous FY (2020-21)
+Male
+Female
+Other
+Total
+Male
+Female
+Other
+Total
+Male
+Female
+Other
+Total
+Permanent 
+Employees
+15.8%
+18.8%
+NA
+16.3 %
+13.4%
+22.1%
+NA
+14.5%
+22.3%
+33%
+NA
+23%
+Permanent 
+Workers
+5.9%
+0.0%
+NA
+5.9%
+5%
+0.0%
+NA
+5%
+5.0%
+0%
+NA
+5.1%
+V
+Holding, Subsidiary and Associate Companies (including joint ventures)
+21. (a) Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No.
+Name of the holding / subsidiary/
+associate companies/joint ventures (A)
+Indicate whether 
+holding/Subsidiary/ 
+Associate/Joint 
+Venture
+% of shares held 
+by listed entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1
+Sunstrength Renewables Private Limited
+Associate
+26.73%
+No
+2
+Cleanmax Taiyo Private Limited
+Associate
+26%
+No
+VI
+CSR (Corporate Social Responsibility) Details
+(i) 
+Whether CSR is applicable as per section 135 of Companies Act, 
+2013: (Yes/No)
+YES
+(ii)
+Turnover (in INR)
+43,049,156,150
+(iii)
+Net worth (in INR)
+23,415,028,703
+Annual Report 2022-23
+SKF India Limited
+158
+VII Transparency and Disclosures Compliances
+23	 Complaints/Grievances on any of the principles 1 to 9 under the National Guidelines on Responsible Business 
+Conduct
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism 
+in Place  
+(Yes/No)
+(If yes, then provide web-
+link for grievance redress 
+policy)
+FY (2022-23)
+FY (2021-22)
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+No
+NA
+0
+0
+We periodically engage with 
+community representatives 
+for understanding their 
+concerns. 
+0
+0
+During the year, we actively 
+sought the feedback from 
+the community members 
+through third party audits, 
+impact assessments, 
+workshops and counselling 
+sessions. 
+CSR 
+Beneficiaries 
+and 
+community 
+development 
+partners
+Yes
+Community partners are 
+expected to adhere to code 
+of coduct (CoC) and any 
+breaches/deviations from 
+the code are expected to be 
+reported as outlined in the 
+code of coduct https://www.
+skf.com/in/organisation/for-
+supplier
+0
+0
+We directly engage with our 
+CSR partners who abide by 
+SKF’s CoC for implementation 
+of CSR programmes and 
+we have a mechanism 
+where CSR Beneficiaries 
+can raise their concerns 
+through our CSR programme 
+implementation partners.
+0
+0
+We have conducted 
+impact studies for our CSR 
+programmes through third 
+party. In association with 
+CSR partners, we take up 
+counselling and workshop 
+sessions for beneficiaries. 
+Investors 
+(other than 
+shareholders)
+Yes
+https://www.skf.com/in/
+investors
+ 0
+0
+-
+0
+0
+-
+Shareholders
+Yes
+https://www.skf.com/in/
+investors
+  1468
+91
+In FY 2022-2023, the 
+Company received 1468 
+complaints of various 
+natures. Of which  1377 were 
+successfully resolved to the 
+satisfaction of stakeholders 
+and remaining 91 were carried 
+forward and resolved by 29th 
+April 2023.
+ 1155
+ 49
+In FY 2021-2022, SKF India 
+received 1155 complaints 
+from shareholders. Of which 
+1106 were resolved to the 
+satisfaction of stakeholders 
+and remaining 49 were 
+resolved by 26th April 2022.
+Employees 
+and workers
+Yes
+https://www.skf.com/
+binaries/pub12/
+Images/0901d196809a699a-
+Vigil-Mechanism-Policy-
+April-2019_1115_tcm_12-
+526427.pdf
+ 2
+1
+Employees and workers 
+concerns were duly 
+addressed by the Company. 
+Standard formal mechanisms 
+were effective in timely 
+resolution of the complaints.
+0
+ 0
+Nil
+Customers
+Yes
+https://www.emarketplace.
+in.skf.com/privacy-policy
+ NIL
+NIL
+To address our customers’ 
+grievances, we have 
+different channels such 
+as Complaint Handling 
+system (administrative and 
+technical), Customer care and 
+website. During the reporting 
+year, we received 687 admin 
+complaints, 95 technical 
+complaints. Out of these, 1 
+(0%) admin complaints, (36%) 
+technical complaints are 
+pending to be resolved as of 
+31st March 2023..
+NIL
+NIL
+To address our customers’ 
+grievances, we have 
+different channels such 
+as Complaint Handling 
+system (administrative and 
+technical), Customer care 
+and website. During the 
+reporting year, we received 
+352 admin complaints, 
+197 technical complaints 
+and 2641 customer care 
+calls. Out of these, 0 (0%) 
+admin complaints, 90 (45%) 
+technical complaints and 0 
+(0%) customer care calls are 
+pending to be resolved as of 
+31st March 2022.
+Business Responsibility and Sustainability Reporting (contd.)
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+159
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism 
+in Place  
+(Yes/No)
+(If yes, then provide web-
+link for grievance redress 
+policy)
+FY (2022-23)
+FY (2021-22)
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Suppliers and 
+Distributors
+Yes
+Suppliers and other value 
+chain partners are expected 
+to adhere to to code of 
+coduct (CoC) and any 
+breaches/deviations from 
+the code are expected to be 
+reported as outlined in the 
+code. https://www.skf.com/
+in/organisation/for-supplier
+NIL
+NIL
+Suppliers can register their 
+grievances through dedicated 
+E-Mail Id.
+NIL
+NIL
+Suppliers can register 
+their grievances through 
+dedicated E-Mail Id.
+24	 Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+The rationale for 
+identifying risk/
+opportunities
+In case of risk, approach to 
+adapt or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1
+Customer 
+performance
+Opportunity
+SKF India strives to meet 
+the needs of its customers 
+through innovative 
+products and solutions. 
+-
+Positive Implications
+2
+Economic 
+Performance
+Opportunity
+SKF is a profit-driven 
+organization. The financial 
+performance is the overall 
+indicator of the economic 
+impact SKF has on society, 
+as an employer, a member 
+of the stock market and a 
+customer and supplier to 
+other companies.
+-
+Positive Implications
+3
+Occupational 
+health and 
+safety
+Risk and 
+opportunity
+SKF gives top priority to 
+the health and safety of 
+employees, contractors, 
+agency workers and visitors 
+and is committed to 
+providing safe and healthy 
+working conditions to 
+prevent work-related injury 
+and ill health as well as to 
+assure well-being in the 
+work environment.
+Workplace Safety at SKF India is 
+guided by “SKF Care” principles 
+for employees and “Business 
+Care” and our operations are 
+compliant with ISO 45001 
+standards.
+Negative Implications
+4
+Energy 
+and energy 
+management
+Opportunity 
+and risk
+We work towards positively 
+impacting environment 
+by focusing on reducing 
+energy consumption and 
+carbon footprint.
+SKF India is adopting various 
+strategies for reducing its own 
+operational carbon footprint as 
+detailed in Principle 6.
+Positive and Negative 
+Implications
+5
+Supplier ESG 
+(Environmental, 
+Social & 
+Governance) 
+performance
+Opportunity 
+and risk
+Supply chain sustainability 
+is very significant for 
+resilient businesses. It 
+is imperative to align 
+the suppliers with the 
+organisation’s sustainability 
+vision for creating long-
+term value. 
+SKF India works closely with 
+its suppliers for meeting the 
+Sustainability targets. We also 
+run a supplier ESG improvement 
+programme wherein the ESG 
+performance of the suppliers is 
+mapped and measures are taken 
+for implementing key actions. 
+Positive and Negative 
+Implications
+Business Responsibility and Sustainability Reporting (contd.)
+Annual Report 2022-23
+SKF India Limited
+160
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+The rationale for 
+identifying risk/
+opportunities
+In case of risk, approach to 
+adapt or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+6
+Anti-corruption
+Opportunity 
+and risk
+Businesses care about 
+meeting the customer 
+expectations along 
+with profitability and 
+shareholder returns while 
+adhering to the highest 
+standards of ethical 
+behaviour. 
+The Company has a strong code 
+of conduct (CoC) in place outlining 
+the strategies for transparent and 
+accountable operations including 
+Fair Competition Directive and 
+Anti-Bribery and Anti-Corruption 
+Directive to prevent, reduce and 
+mitigate risk related to anti-
+corruption. All stakeholders are 
+sensitised on our CoC and the 
+Company has zero tolerance 
+towards the non-compliance of 
+CoC.
+Positive and Negative 
+Implications
+7
+Water
+Opportunity 
+and risk
+Water stewardship in 
+operations is essential for 
+managing water related 
+impacts and ensuring 
+operational eco-efficiency.
+SKF India focuses on 
+environmental aspects like 
+energy, water, soil, and air. The 
+risks are identiﬁed through our 
+Sustainability, EHS and plant 
+teams for taking necessary steps 
+to mitigate the probable risks.
+Positive and Negative 
+Implications
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies, and processes put in place towards 
+adopting the NGRBC Principles and Core Elements.
+Disclosure Question
+No
+Particulars
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+1
+a.	
+Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs. 
+(Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b	
+Has the policy been approved by the Board? 
+(Yes/No)*
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+C.	
+Web Link of the Policies, if available
+The links for the policy to be viewed online are provided below: 
+P1, P9 – The links for the policy to be viewed online are 
+provided below: 
+•  
+P1 to P9 common for all  https://www.skf.com/binaries/
+pub12/Images/0901d19680bccd5f-The-Code-of-
+Conduct-Handbook-SKF-in-India_tcm_12-567931.pdf
+•  
+P1- https://www.skf.com/binaries/pub12/
+Images/0901d196809a699a-Vigil-Mechanism-Policy-
+April-2019_1115_tcm_12-526427.pdf
+•  
+P2, P3 & P6 https://www.skf.com/binaries/pub12/
+Images/094e1bb46354cddc-Group-EHS-Policy_SKF_
+tcm_12-595022.pdf
+•  
+P2https://www.skf.com/binaries/pub12/Images/SKF%20
+Code%20of%20Conduct%20for%20suppliers%20
+and%20sub-contractors_English%20version%201_
+tcm_12-45396.pdf#cid-45396
+•  
+P8 – https://www.skf.com/binaries/pub12/
+Images/0901d19680cb2f37-SKF-India-CSR-Policy-2021_
+tcm_12-583398.pdf
+•  
+P9 - https://www.skf.com/binaries/pub12/
+Images/094fc3b8be9b69dd-20-0102---Quality-
+poster_210702_tcm_12-595156.pdf
+Business Responsibility and Sustainability Reporting (contd.)
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+161
+Business Responsibility and Sustainability Reporting (contd.)
+No
+Particulars
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+2
+Whether the entity has translated the policy into 
+procedures. (Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3
+Do the enlisted policies extend to your value chain 
+partners? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4
+Name of the national and international codes/
+certifications/labels/ 
+standards 
+(e.g. 
+Forest 
+Stewardship Council, Fairtrade, Rainforest Alliance, 
+Trustea) standards (e.g. SA 8000, OHSAS, ISO, BIS) 
+adopted by your entity and mapped to each principle
+ISO 9001:2015, ISO 14001:2001:2015 / ISO450001:2018 , 
+OECD guidelines for multinational enterprises, UN Global 
+Compact Ten principle, Sustainable development Goals, 
+SteelZero, RE100 and SBTi, Responsible Steel Initiatives 
+LEED certification
+5
+Specific commitments, goals and targets set by the 
+entity with defined timelines, if any.
+• 
+By 2030, facilities of SKF India  would be operating with 
+decarbonisation strategy.
+• 
+By 2050, SKF India will achieve Net-Zero emissions 
+across the value chain 
+• 
+5% reduction in water consumption YoY 
+6
+Performance of the entity against the specific 
+commitments, goals and targets along-with reasons 
+in case the same are not met.
+Refer to Principle 6 for performance against the targets
+* A common consensus is taken into consideration while finalising the policies and one signatory (MD/ Business Functional 
+heads) signs the policies on everyone’s behalf.
+	
+Governance, leadership and oversight
+7. 	
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets 
+and achievements (listed entity has flexibility regarding the placement of this disclosure)
+	
+Message from Managing Director is included in the section of ‘Corporate overview’, in the article ‘Driving intelligent and 
+Clean growth’ on page number 12.
+8.	
+Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy 
+(ies).
+	
+The oversight and implementation of Business Responsibility Policies at SKF India is delegated by heads of Ethics, 
+legal, Compliance, CSR and sustainability function. The board is periodically apprised about the observations and for 
+taking appropriate actions wherever needed.
+9.	
+Does the entity have a specified Committee of the Board/ Director responsible for decision making on sustainability 
+related issues? (Yes / No).	
+	
+	
+	
+	
+	
+	
+	
+	
+If yes, provide details.
+	
+The delegation of material topics lies with Individual directors of Ethics, Legal, Sustainability and Corporate Affairs and 
+overlooked by MD and Executive Director. Board is regularly apprised on the performance and management approach 
+of the material topics by executive leaders. 	
+10.	 Details of Review of NGRBCs by the Company
+No
+Subject for Review
+Indicate whether review was undertaken by Director/
+Committee of the Board/Any other Committee
+Particulars
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and follow up 
+action
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Compliance with statutory requirements of relevance 
+to the principles and rectification of any non-
+compliances
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Annual Report 2022-23
+SKF India Limited
+162
+No
+Subject for Review
+Frequency
+(Annually / Half yearly /Quarterly/ Any other-please specify)
+Particulars
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and follow up 
+action
+Need-based, Regular
+Compliance with statutory requirements of relevance 
+to the principles and rectification of any non-
+compliances
+11.	
+Has the entity carried out independent assessment/ evaluation of the working of its policies by an external agency? 
+(Yes/No). If yes, provide name of the agency.
+No
+Particulars
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+9
+Has the Company carried out independent audit / 
+evaluation of the working of this policy by an internal 
+or external agency?  
+N
+N
+N
+N
+N
+N
+N
+N
+N
+10
+If yes, provide name of the agency
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+•  
+These policies have been approved by the Board or, by the Managing Director or, by other person(s) under the authority 
+of the Board and the Company reviews these policies periodically either on its own review or, on the inputs from 
+Compliance team / Internal Controls / Internal Audits. 
+12. 	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: 
+No
+Particulars
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+1
+The entity does not consider the principles material 
+to its business (Yes/No)
+Not Applicable
+2
+The entity is not at a stage where it is in a position 
+to formulate and implement the policies on specified 
+principles (Yes/No)
+3
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No)
+4
+It is planned to be done in the next financial year 
+(Yes/No)
+5
+Any other reason (please specify)
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+Essential Indicators
+1. 	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics/principles covered under the 
+training and its impact
+%age of persons in 
+respective category 
+covered by the 
+awareness programmes
+Board of Directors
+Ongoing
+On time to time basis.
+100%
+Key Managerial Personnel
+Ongoing
+100%
+Business Responsibility and Sustainability Reporting (contd.)
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+163
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics/principles covered under the 
+training and its impact
+%age of persons in 
+respective category 
+covered by the 
+awareness programmes
+Employees other than BoD 
+and KMPs
+15
+Employees were imparted training on 
+various aspects like Code of Conduct, 
+Antitrust, Anti-corruption, Anti-Bribery, 
+Mindfulness, Safety trainings, Energy 
+Management, EHS Management 
+System and other job-related training 
+for skill enhancement
+100%
+Workers
+36
+POSH Awareness workshop for 
+employees
+100% 
+2.	
+Details of fines / penalties  /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in 
+the following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of 
+SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+	
+In FY 2023, there were no substantial fines/penalties/punishment/awards/compounding fees/settlement amount paid 
+by the Company with regulators/law enforcement agencies/judicial institutions.
+3. 	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or 
+non-monetary action has been appealed
+	
+Not Applicable
+4. 	
+Does the entity have an anti-corruption or anti-bribery policy – 
+	
+Yes. The Company has in place an anti-corruption and anti-bribery policy. 
+	
+For more details, refer to the link. 
+	
+https://www.skf.com/binaries/pub12/Images/0901d19680bccd5f-The-Code-of-Conduct-Handbook-SKF-in-India_
+tcm_12-567931.pdf
+	
+The Company expects the employees and workers to adhere to highest ethical standards during the discharge of 
+official duties.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+ 
+FY 2022-23
+FY 2021-22
+Directors
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil
+Workers
+Nil
+Nil
+6.	
+Details of complaints with regard to conflict of interest:
+ 
+FY 2022-23
+FY 2021-22
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+NIL
+-
+NIL
+-
+Number of complaints received in relation to 
+issues of Conflict of Interest of the KMPs
+NIL
+-
+NIL
+-
+Business Responsibility and Sustainability Reporting (contd.)
+Annual Report 2022-23
+SKF India Limited
+164
+Business Responsibility and Sustainability Reporting (contd.)
+7. 	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+We believe that ethical behaviour and good governance help an organisation in building stakeholder confidence. Our 
+business ethics require us to drive high ethical standards in our business, increase our accountability by performing 
+our duties with honesty and integrity and acting in a responsible and professional manner to follow the practice of fair 
+competition and treat everyone with respect.
+	
+We have a well-defined Code of Conduct that requires full compliance with all applicable laws and regulations 
+and exhibits our approach towards implementation of our core values - High ethics, Empowerment, Openness and 
+Teamwork. We have constant communication with employees, including training on various topics of COC. We have 
+also dedicated one week to create awareness about compliance, anti-corruption, conflict of interest and code of 
+conduct implementation. 
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and safe 
+Essential Indicator
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+ 
+FY 2022-23
+FY 2021-22 Details of improvements in 
+environmental and social impacts
+R&D
+ Nil
+Nil -
+Capex
+10% 
+2% Various capital investments targeting 
+the 
+improvement 
+in 
+social 
+and 
+environmental performance have been 
+taken up in FY 2023 which includes Solar 
+Captive Energy, Oil recycling, Safety, 
+Sprinkler system, fire suppression, water 
+management
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+	
+Yes. Our EHS (Environment Health & Safety) policy outlines guidelines for energy and other natural resources 
+conservation and this is extended to our value chain partners to promote green procurement. The Company is also 
+conducting annual supplier sustainability assessment for Direct Material suppliers covering various ESG aspects. 
+The Company also supports the outliers for the improvement and disengages with the defaulters. 
+	
+b. 	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+All critical suppliers have been sourced sustainably
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, 
+for 
+	
+(a) 	 Plastics (including packaging) - SKF India abides by EPR (Extended Producer Responsibility) regulations for 
+management of packaging plastic materials.
+	
+	
+The Company collects and recycles equivalent quality and quantity of plastics and in FY 2023, 318 tons were 
+recycled as a part of EPR regulations.
+	
+(b) 	 E-waste - Nil.
+	
+(c) 	 Hazardous waste - Nil.
+	
+(d) 	 other waste - Nil
+4. 	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the 
+waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same.
+	
+Yes, SKF India is registered as brand owner under EPR regulations for recycling of plastic wastes. The Company has 
+recycled 318 tons of plastics wates in FY 2023.
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+165
+Business Responsibility and Sustainability Reporting (contd.)
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their value 
+chains.
+1.	
+a. 	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total (A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number 
+(B)
+% (B / A)
+Number 
+(C)
+% (C / A)
+Number 
+(D)
+% (D / A)
+Number 
+(E)
+% (E / A)
+Number 
+(F)
+% (F / A)
+Permanent Employees
+Male
+ 626
+626
+100% 
+ 626
+100%
+ 0
+0%
+ 626
+100%
+0
+Nil
+Female
+ 117
+117
+ 100%
+ 117
+ 100%
+ 117
+100%
+0
+0
+117
+100%
+Total
+743
+743 
+100% 
+ 743
+ 100%
+117 
+100% 
+626 
+100% 
+ 117
+ 100%
+Other than permanent employees
+Male
+ 152
+ 152
+100%
+ 152
+100%
+0
+ 0%
+0
+0%
+0
+Nil
+Female
+ 50
+ 50 
+100% 
+ 50
+ 100%
+50
+100%
+0
+0 %
+ 0
+Nil
+Total
+ 202
+202
+100% 
+202
+ 100%
+50 
+100%
+0
+0%
+0
+Nil
+b. 	
+Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total (A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number 
+(B)
+% (B / A)
+Number 
+(C)
+% (C / A)
+Number 
+(D)
+% (D / A)
+Number 
+(E)
+% (E / A)
+Number 
+(F)
+% (F / A)
+Permanent workers
+Male
+ 918
+918
+ 100%
+  918
+ 100%
+ 0
+ 0%
+ 918
+ 100%
+ 0
+Nil
+Female
+ 1
+ 1
+ 100%
+ 1
+ 100%
+ 1
+100% 
+ 0
+ 0%
+ 1
+ 100%
+Total
+ 919
+919
+100% 
+ 919
+ 100%
+ 1
+100% 
+918
+ 100%
+ 1
+ 100%
+Other than permanent workers
+Male
+ 2265
+2265
+ 100%
+ 2265
+ 100%
+ 0
+ 0
+ 0
+ 0%
+ 0
+ 0%
+Female
+ 85
+ 85
+ 100%
+ 85
+ 100%
+ 85
+100% 
+ 0
+ 0%
+ 0
+ 0%
+Total
+ 2350
+2350 
+ 100%
+ 2350
+ 100%
+ 85
+ 100%
+ 0
+ 0%
+ 0
+0% 
+2. 	
+Details of retirement benefits
+Benefits
+FY 2022-23
+FY 2021-22
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+ 100 %
+100 %
+YES 
+100% 
+100% 
+YES 
+Gratuity
+ 100 %
+100 % 
+YES 
+ 100%
+ 100%
+ YES
+ESI
+ 0 %
+27 %
+ YES
+ 0 %
+24 % 
+ YES
+Others – please 
+specify
+NA
+NA
+NA
+NA
+NA
+NA
+Annual Report 2022-23
+SKF India Limited
+166
+Details Of Other Retirement benefits
+Sr.
+Name Of Benefits
+FY 2022-23
+FY 2021-22
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+NA
+3. 	
+Accessibility of workplace
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements 
+of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard. 
+	
+Company is actively implementing and adding features across premises to make it more friendly for differently-abled. 
+We have disabled friendly toilets at our Corporate office 
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy.
+	
+Upholding and protecting human rights and labour standards, within our organisation and across our value chain are 
+of utmost importance to SKF. We ensure inclusive development through safe and fair employment practices and forbid 
+discrimination against, or harassment of others based on race, caste, religion, nationality, gender, physical capability, 
+marital status, sexual orientation, age, ancestry, or other reasons. For more details refer to Code of Conduct
+	
+https://www.skf.com/binaries/pub12/Images/0901d19680bccd5f-The-Code-of-Conduct-Handbook-SKF-in-India_
+tcm_12-567931.pdf
+5. 	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+ 100%
+100% 
+ 100%
+100% 
+Female
+ 100%
+100% 
+ 100%
+100% 
+Other
+ NA
+NA 
+NA
+NA 
+Total
+ 100%
+ 100%
+ 100%
+100% 
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker?
+If yes, give details of the 
+mechanism in brief.
+Yes/No
+(If yes, then give details of the mechanism in brief)
+Permanent Workers
+YES
+At SKF, we strongly believe in our core values and nurture a culture of 
+free and transparent communication at all levels. We believe in gender 
+neutrality and a policy has been framed accordingly. Every factory/
+business unit has an Internal Complaint Committee constituted 
+under the Prevention of Sexual Harassment Act. Further details 
+on mechanisms for prevention of child labour and discriminatory 
+employment are provided under Principle 5 of this report.
+Other than Permanent Workers
+YES
+Permanent Employees
+YES
+Other than Permanent Employees
+YES
+Business Responsibility and Sustainability Reporting (contd.)
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+167
+Business Responsibility and Sustainability Reporting (contd.)
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2022-23
+FY 2021-22
+Total 
+employees 
+/ workers in 
+respective  
+category (A)
+No. of employees 
+workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (B)
+% (B / A)
+Total 
+employees 
+/ workers in 
+respective 
+category (C)
+No. of employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (D)
+% (D / C)
+Total Permanent Employees
+ 743
+0 
+0 
+769 
+0 
+Male
+626 
+ 0
+ 0
+651 
+0 
+Nil
+Female
+ 117
+0 
+ 0
+ 118
+ 0
+Nil 
+Total Permanent Workers
+919
+910
+98.8%
+911
+901
+98.9%
+Male
+918
+ 908
+ 98.9%
+911 
+900 
+98.9%
+Female
+ 1
+1 
+ 100%
+ 1
+ 1
+ 100%
+8. 	
+Details of training given to employees and workers:
+Category
+FY (2022-23)
+PY (2021-22)
+Total (A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total (D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (E)
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+Male
+626
+626
+100%
+626
+100%
+651
+505
+78%
+651
+100%
+Female
+117
+89
+76%
+90
+77%
+118
+4
+3%
+49
+42%
+Total
+743
+715
+96%
+716
+96%
+769
+509
+66%
+700
+91%
+Workers
+Male
+918
+870
+95%
+918
+100%
+911
+654
+72%
+911
+ 100%
+Female
+1
+1
+100%
+1
+100%
+1
+1
+100%
+1
+ 100%
+Total
+919
+871
+95%
+919
+100%
+912
+655
+72%
+912
+100 %
+Apart from above trainings, Company has conducted online training of 900 hours on Work and Personal Life Balance, Cancer 
+Awareness, Immunity Based Nutrition, De-stress your Finances, Emotional Regulation.
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. (B)
+% (B / A)
+Total (D)
+No. (E)
+% (E / D)
+Employees
+Male
+ 626
+ 626
+ 100%
+651 
+ 651
+100% 
+Female
+ 117
+ 117
+ 100%
+ 118
+ 118
+ 100%
+Other
+-
+-
+-
+-
+-
+-
+Total
+ 743
+ 743
+100%
+ 769
+769
+100%
+Workers
+Male
+ 918
+ 0
+Nil
+911 
+0 
+ Nil
+Female
+ 1
+ 0
+Nil
+ 1
+0
+Nil
+Other
+ -
+-
+-
+-
+-
+-
+Total
+ 919
+0
+Nil
+912
+0
+Nil
+Annual Report 2022-23
+SKF India Limited
+168
+Business Responsibility and Sustainability Reporting (contd.)
+10. 	 Health and safety management system:
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ 
+No).	
+	
+	
+If yes, the coverage such system?
+	
+	
+The overall health and safety ambition for SKF is to reach zero accidents. Safety comes ﬁrst and we believe that 
+all work-related accidents can be prevented. Our primary goals include preventing injuries as well as safeguarding 
+the health of all employees at the workplace. Our internal systems and controls are very well aligned with strategic 
+goals aiming to reduce waste, safety risks, environmental impacts and operational costs.
+	
+	
+SKF India Limited is an ISO 14001:2015/ ISO 45001:2018 certified company and we strictly follow EnMS & EHS 
+system for management of occupational health hazards. We conduct Management Review meetings once in a 
+year where Safety & Environment Management related issues like Legal compliance, Internal & External audits, 
+and observations including safety are discussed. For identification of hazards, we conduct Internal and external 
+audits i.e., Group EHS audit and observations are used for improving the effectiveness of existing controls.
+	
+	
+All occupants of the premises are given adequate training through third-party seminars, training programmes, 
+and workshops in addition to in-house sensitisation programmes. We also circulate various learning modules, 
+publications, and newsletters for regular appraisal of safety-related news. We celebrate National Safety Month and 
+World Environment Day to increase awareness on safety and environment. During the year, we had ﬁve recordable 
+accidents and actions were taken to prevent such incidents in future. We have intensiﬁed our focus to reach our 
+zero accident vision by conducting various engagement and awareness programmes.
+	
+b. 	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis 
+by the entity?
+	
+	
+As per the EMS, SKF India uses HIRA (Hazard Identification and Risk Assessment), a qualitative risk assessment 
+to understand and identify the potential safety related risks and strategize mitigation plans for the management 
+of risks. We have identified Emergencies like Fire, Spills / leakages, Accident, Food Poisoning, Vehicular Accidents, 
+Electric Shock, Natural Disaster etc. ERP is available for management of precautionary controls of the above 
+risks. Mock drills are conducted regularly. Details plan of ERP (Emergency Response Plan) & Mock drill reports 
+are available at plant facilities. In addition, various third-part audits and compliance audits are taken up for 
+management of potential health and safety risks.
+	
+c. 	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such 
+risks? 	
+	
+	
+We have a clearly defined, communicated, well-known, established and maintained procedure for managing unsafe 
+conditions throughout the operational boundary. Employee participation is our culture for identification of work-
+related unsafe conditions. We encourage the involvement of employees / supervisors / managers in structured 
+HIRA (Hazard identification and risk assessment) preparation / Safety walk / and sharing valuable feedback. SKF 
+health and safety committees operate at factory or unit management level with the objective of bringing together 
+worker and management representatives to discuss and agree on essential measures to improve the health and 
+safety performance of SKF India. Employees and workers are trained to take up precautionary measures and 
+remove themselves in event of any hazard.
+	
+d. 	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services?
+	
+	
+SKF India has established dispensary support at all locations with tie-ups with doctors for  employee health 
+consultations. We have 24 hours ambulance service for emergency medical requirements. We have also tied up 
+with hospitals to provide emergency services including healthcare services and treatment of workplace-related 
+injuries. 
+	
+	
+Periodic health check-ups of employees and their families are done at renowned hospitals to ensure health and 
+well-being of our workforce. We have an internal medical scheme for workers and an external scheme for staff 
+employees, providing non-occupational health services to cater to their needs. Additionally, we organise need-
+based vaccination camps. Periodic health care/ awareness programmes are conducted in tie-ups with hospitals for 
+employees on First Aid & Emergency, Women’s Health, Hypertension & Diabetes management, Dental screening, 
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+169
+Business Responsibility and Sustainability Reporting (contd.)
+eye check Audiometry etc. We have organised online or in-person training sessions on Work and Personal Life 
+Balance, Health Hacks for Working Women, Importance of Sleep for a healthier lifestyle, Cancer Awareness, Yoga, 
+Immunity Based Nutrition, Office Ergonomics and Desk Yoga for employee health and emotional wellbeing of our 
+employees. 
+11. 	 Details of safety-related incidents, in the following format:
+Safety Incident / Number
+Category
+FY 2022-23
+FY 2021-22
+Lost Time Injury Frequency Rate (c) (per one mn 
+-  person-hours worked)
+Employees
+ 0
+0
+Workers
+ 0.6
+0.68
+Total recordable work-related injuries
+Employees
+ 0
+0 
+Workers
+ 5
+5 
+No. of fatalities
+Employees
+ 0
+0 
+Workers
+ 0
+0
+High-consequence work-related injury or ill 
+health (excluding fatalities)
+Employees
+ 0
+0
+Workers
+ 0
+0 
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+Our people and their experience and skills form our Company’s most important asset. We are committed to maintaining 
+a culture in which the health, safety, and well-being of all our employees is an integral part of our business. Through 
+regular trainings programmes and awareness sessions, we continued to advance employee health, safety, wellness and 
+responsible business practices across our business and operations during FY23. We worked together as an organisation 
+to enact additional safeguards and policies to protect our dedicated workforce, while meeting our customers’ critical 
+needs as detailed in Principle 3 and Principle 5.
+13.	 Number of Complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed 
+during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working Conditions
+ 0
+ 0
+Nil
+ 0
+ 0
+Nil
+Health & Safety
+ 0
+ 0
+Nil
+ 0
+ 0
+Nil
+14.	 Assessments for the year:
+ 
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Health and safety practices
+100% 
+Working Conditions
+ 100%
+15. 	 Provide details of any corrective action taken or underway to address safety- related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions.
+	
+None
+Annual Report 2022-23
+SKF India Limited
+170
+Business Responsibility and Sustainability Reporting (contd.)
+PRINCIPLE  4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicator
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Engaging and building trust with all stakeholder groups is vital to support the progress towards our business goals 
+which is aligned with sustainable development for all. 
+	
+At SKF India, we have consciously embraced corporate sustainability as our business approach for creating long-term 
+stakeholder value by mitigating risks and harnessing opportunities. 
+	
+We have identiﬁed 10 internal and external stakeholders and laid down a systematic process for engaging with them for 
+mutual trust and growth. Our stakeholder engagement plan comprises the following steps:
+ 
+•  
+Aligning business practices with the needs and expectations of stakeholders
+ 
+•  
+Identifying individuals for engaging and establishing ongoing dialogue
+ 
+•  
+Staying engaged with stakeholders through corresponding counterparts at SKF India
+ 
+•  
+Using the engagements to receive feedback and inputs beneﬁcial to the stakeholders and to SKF India
+ 
+•  
+Addressing speciﬁc stakeholder concerns within the rubric of sustainability which might  have implications for 
+SKF business and stakeholder groups.
+2. 	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group.
+Sr. Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalised 
+Group
+Channels of 
+communication
+Frequency of 
+engagement
+Purpose and scope of engagement including key topics 
+and concerns raised during such engagement
+1
+Local 
+Community 
+around plant. 
+No
+ Social media
+Regular, 
+Need-Based 
+(i)   Environmental and social impacts of SKF India 
+operations
+2
+ CSR 
+Beneficiaries
+Yes
+Emails, Feedback 
+Forms, Phone Calls, 
+Physical Visits & 
+Meetings
+Monthly
+(i)   To enhance employability and entrepreneurship skills 
+among youths (skilling)
+(ii)  To support completion of higher education by girl 
+students (scholarships)
+(iii) To develop analytical skills among school children 
+(STEM education) 
+(iv) To reduce the environmental and health hazards from 
+indiscriminate dumping of domestic waste to pollute 
+natural resources like land, air, ground water etc
+3
+Associate 
+Partners/ 
+NGO’s
+No
+Emails, 
+Telecommunication, 
+Team Meetings and 
+Physical Meetings
+Monthly
+(i)   CSR 
+Programme 
+Need 
+Assessment, 
+Budgeting, 
+Implementation
+(ii)  Monitoring, Evaluations, Impact Assessment, Reporting 
+and Compliances
+4
+Union/ State 
+Government
+No
+Email, 
+telecommunication
+Yearly
+(i)   Collaboration for project execution
+(ii)  Policy advocacy and sectoral developments
+5
+Employee and 
+unions
+No
+Meetings, Email and
+Newsletters
+Quarterly
+(i)   Aligning with business priorities, Employee health and 
+safety, grievances
+(ii)  Employee engagement and training programmes, 
+Employee well-being 
+6
+Shareholders, 
+investors, and 
+analysts
+No
+Investor Meetings, 
+AGM, Annual 
+report, Quarterly 
+reports, Newspaper 
+Publications, 
+Regular Updation of 
+Websites
+Regular intimation to 
+Stock Exchanges
+Quarterly
+(i)   Appraise about Company’s periodic results and 
+disclosures
+(ii)  Improve their understanding of SKF’s ESG commitments 
+and performance
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+171
+Business Responsibility and Sustainability Reporting (contd.)
+Sr. Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalised 
+Group
+Channels of 
+communication
+Frequency of 
+engagement
+Purpose and scope of engagement including key topics 
+and concerns raised during such engagement
+7
+Customers, 
+dealers, and 
+distributors
+No
+Emails, Mass 
+emailers and 
+Websites
+Quarterly
+(i)   Customer 
+Relationship 
+Management, 
+Enhancing 
+customer experience
+(ii)  Understanding market conditions and requirements
+8
+Suppliers and 
+vendors
+No
+Emails, Mass 
+emailers Websites
+Quarterly
+(i)   Mutual sharing of needs and expectations
+(ii)  Quality, cost, and delivery improvement
+(iii) Share knowledge and best practices, vendor recognition
+(iv) Strategic partnerships and value creation
+(v)  Responsible sourcing
+(vi) Implementing CoC (Code of Conduct) for suppliers
+PRINCIPLE 5: Businesses should respect and promote human rights 
+1. 	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in 
+the following format:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. of 
+employees/
+workers 
+covered (B)
+% (B / A)
+Total (C)
+No. of 
+employees/
+workers 
+covered (D)
+% (D / C)
+Employees
+Permanent
+ 743
+743
+100% 
+769 
+769
+100%
+Other than permanent
+ 202
+ 202
+100%
+209
+209 
+100%
+Total Employees
+ 945
+743
+100%
+769
+769
+100%
+Workers
+Permanent
+ 919
+919
+100%
+919
+919
+100%
+Other than permanent
+ 2,350
+2,350
+100%
+2231
+2231
+100%
+Total Workers
+3,269
+919 
+100%
+3165
+912
+100%
+Note: All employees of SKF India have to complete the SKF Code of Conduct commitment annually which outlines the 
+Company standards on working ethics, Safe workplace, and key human rights issues applicable to SKF and its value chain.
+All the contractors have apprised about Code of conduct adharacne  
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2022-23
+FY 2021-22
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+No. (B)
+% (B /A)
+No. (C)
+% (C /A)
+No. (E)
+% (E /D)
+No. (F)
+% (F /D)
+Employees
+Permanent
+743
+0
+0%
+739
+100%
+769
+0
+0%
+769
+100%
+Male
+ 626
+ 0
+ 0%
+ 626
+100%
+ 651
+ 0
+0% 
+ 651
+ 100%
+Female
+ 117
+ 0
+ 0%
+ 117
+100%
+118
+ 0
+0%
+118
+ 100%
+Other than Permanent
+ 202
+9 
+ 4%
+ 193
+96%
+209
+6 
+4%
+203 
+96%
+Male
+ 152
+8 
+ 5%
+144 
+95%
+172 
+5
+3% 
+167 
+97%
+Female
+ 50
+ 1
+ 2%
+ 49
+98%
+37
+1
+ 3%
+ 36
+ 97%
+Workers
+Annual Report 2022-23
+SKF India Limited
+172
+Business Responsibility and Sustainability Reporting (contd.)
+Category
+FY 2022-23
+FY 2021-22
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+No. (B)
+% (B /A)
+No. (C)
+% (C /A)
+No. (E)
+% (E /D)
+No. (F)
+% (F /D)
+Permanent
+ 919
+0
+0%
+919
+100% 
+944 
+0
+0% 
+944 
+100% 
+Male
+918 
+ 0
+0% 
+918
+100% 
+943
+ 0
+0% 
+943 
+100% 
+Female
+ 1
+ 0
+ 0%
+ 1
+ 100%
+ 1
+ 0
+ 0%
+ 1
+ 100%
+Other than Permanent
+2350
+1392 
+62%
+839 
+38% 
+2221 
+2015 
+58% 
+ 206
+42% 
+Male
+265
+2062
+ 90%
+204
+ 10%
+2154
+1948
+  90%
+206
+  10%
+Female
+ 85
+ 85
+ 100%
+ 0
+ 0%
+67
+ 67
+  100%
+ 0
+ 0%
+3. 	
+Details of remuneration/salary/wages, in the following format:
+ 
+Male
+Female
+Other
+Number
+Median 
+remuneration/ 
+salary/ wages 
+of respective 
+category in INR
+Number
+Median 
+remuneration/ 
+salary/ wages 
+of respective 
+category in INR
+Number
+Median 
+remuneration/ 
+salary/ wages 
+of respective 
+category in INR
+Board of Directors (BoD)
+ 3
+ 11244166
+ 1
+ 2780940
+0 
+NA
+Key Managerial Personnel
+ 4
+ 9544252
+ 0
+ 0
+ 0
+NA
+Employees other than BoD and 
+KMP
+ 626
+ 1457601.5
+ 117
+1122836
+ 0
+NA
+Workers
+ 919
+876668 
+ 1
+305745 
+ 0
+NA 
+Non Executive Board of directors are not part of remuneration.
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business?
+	
+The Sustainability team overseas the disclosures of due diligence with respect to human rights related issues. The 
+team conducts supplier meets to create awareness among the suppliers on human rights related issues. Employees 
+can raise their concerns relating to human rights through various channels as detailed in Section A, Principle 3.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+In case of any grievance related to discrimination, employees are free to approach either individually or through the 
+union to the HR Manager, Factory Manager or Director HR. Our responsible sourcing team visits and audits suppliers 
+for identifying potential social risks such as missing employment contracts, wage disparity for women, non-payment 
+of overtime wages and other benefits of employment like leave payment. We ensure that our value chain respects the 
+human rights of all employees (direct/indirect/pay roll and/or contractual worker). Further, Suppliers should maintain 
+ethical standards as laid out in Code of Conduct for suppliers with respect to aspects such as child labour, forced 
+labour, discrimination, disciplinary practices, working hours, legal compensation, health, and safety practices.
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+173
+Business Responsibility and Sustainability Reporting (contd.)
+6. 	
+Number of Complaints on the following made by employees and workers:
+ 
+FY 2022-23
+FY 2021-22
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Sexual Harassment
+ 3
+2 
+The Company 
+has taken 
+necessary 
+action to 
+resolve the 
+pending 
+actions
+0
+0 
+-
+Discrimination at workplace
+0
+0
+-
+0
+0
+-
+Child Labour
+0
+0 
+-
+0 
+0
+-
+Forced Labour/ Involuntary Labour
+0
+0 
+-
+0
+0
+-
+Wages
+0
+0 
+-
+0
+0 
+-
+Other human rights related issues
+0
+0
+-
+0
+0
+-
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+SKF India is a fair and equal opportunity employer and believes in gender parity. The Company encourages employees 
+and workers to report on any grievances or potential social risks and ensures the protection of the whistle-blower.  Any 
+victimisation, discrimination or harassment of the complainant by any of the parties is intolerant and the Company 
+takes necessary actions. Employees and workers can report any concerns of breach of code of conduct and unethical 
+behaviour through various channels like emails etc., The escalation is directed to senior executives including audit 
+committee for preliminary investigations. Actions are taken up as per the directives laid down during the grievance 
+resolution.
+8. 	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No) - Please share 
+answer
+	
+Yes, we believe that it is our obligation to respect human rights. Our commitment to human and labour rights enables 
+us to provide a safe and healthy workplace, offering a non-discriminatory environment, and enhance diversity across 
+the organisation. In addition, human rights related clauses form a part of our business agreements and contracts 
+enabling a collaborative environment to work actively against the employment of child and forced labour and any form 
+of harassment.
+9. 	
+Human rights Assessments for the year:
+ 
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labour 
+100% 
+Forced/involuntary labour 
+100%
+Sexual harassment
+100% 
+Discrimination at workplace
+100%
+Wages
+100%
+10. 	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+the assessments at Question 9 above.
+	
+There were no significant risks/concerns identified during the assessments.
+Annual Report 2022-23
+SKF India Limited
+174
+Business Responsibility and Sustainability Reporting (contd.)
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total electricity consumption (A)
+GJ
+ 241812
+237848
+Total fuel consumption (B)
+GJ
+ 8939
+13097
+Energy consumption through other sources (C)
+GJ
+ 0
+ 0
+Total energy consumption (A+B+C)
+GJ
+ 250751
+ 250945
+Energy intensity per rupee of turnover 
+(Total energy consumption/turnover in rupees)
+GJ/mn Rupees of 
+Turnover
+ 5.82
+6.85 
+Energy intensity (optional) – the relevant metric may be 
+selected by the entity
+NA
+NA
+NA
+“Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? – No
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India?	
+	
+If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been 
+achieved, provide the remedial action taken, if any.
+	
+Not Applicable
+3. 	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres)
+ 
+ 
+(i)    Surface water
+ 0
+0
+(ii)   Groundwater
+ 7585
+6820 
+(iii)  Third party water
+ 291414
+298306 
+(iv)   Seawater / desalinated water
+(v)    Others
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+ 298999
+305126 
+Total volume of water consumption (in kilolitres)
+ 298999
+305126 
+Water intensity per rupee of turnover (Water consumed in kilolitre/ turnover)
+ 6.95
+8.33 
+Water intensity (optional) – the relevant metric may be selected by the entity
+ -
+- 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency?
+No	
+1.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.	
+	
+SKF assures that environmental matters are prioritised by integrating environmental performance delivery into the 
+responsibilities of the factory manager or EHS team. Zero Liquid Discharge (ZLD) is a water treatment process designed 
+to remove all the liquid waste from a system. The focus of ZLD is to reduce wastewater economically and produce clean 
+water that is suitable for reuse. Effluent treatment plant and Sewage treatment plants are installed at all units. The 
+treated water is used for gardening purposes.
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+175
+Business Responsibility and Sustainability Reporting (contd.)
+5. 	
+Please provide details of air emissions (other than GHG (Greenhouse Gas) emissions) by the entity, in the following 
+format: 
+Parameter
+Please specify unit
+FY 2022-23
+FY 2021-22
+NOx
+Metric Tonnes
+1310
+1501
+SOx
+Metric Tonnes
+720
+826
+Particulate matter (PM)
+Metric Tonnes
+14.3
+13.5
+Persistent organic pollutants (POP)
+ 
+NIL
+NIL
+Volatile organic compounds (VOC)
+ 
+NIL
+NIL
+Hazardous air pollutants (HAP)
+NIL
+NIL
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) - No
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format:
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 1 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric Tons of CO2
+1783
+2612
+Total Scope 2 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+ Metric Tons of CO2
+48228
+47437
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover
+ 
+ 1.12
+ 1.37
+Total Scope 1 and Scope 2 emission intensity (optional)
+– the relevant metric may be selected by the entity
+ NA
+NA
+NA
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N)
+If yes, name of the external agency.
+No
+7. 	
+Does the entity have any project related to reducing Green House Gas emission? 	
+	
+If yes, then provide details.
+	
+SKF India is committed to maximizing the deployment of renewable sources in operations such as Solar, Hydro and 
+Wind which are listed below.
+	
+	
+SKF Pune uses solar power through Captive Solar power purchase agreement from an offsite solar project of 8.4 
+MW capacity catering to 30% of its total yearly energy requirement. In the FY 2022-23, SKF Pune received 12.3 
+GWh of solar energy leading to savings of 9963 tCO2 emissions
+	
+	
+In FY 2022-23, SKF Bangalore received 14.7 GWH of farm and roof top solar power which is 76% of total power 
+requirement resulting in savings of 11907 tCO2 emissions.
+8.	
+Provide details related to waste management by the entity, in the following format:
+	
+“For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)”
+FY 2022-23
+FY 2021-22
+Category of waste
+ 
+ 
+(i)    Recycled
+3435.6
+2459.7
+(ii)   Re-used
+0
+0
+(iii)  Other recovery operations
+232.0
+219.9
+Total
+3667.6
+ 2679.7
+Annual Report 2022-23
+SKF India Limited
+176
+Business Responsibility and Sustainability Reporting (contd.)
+FY 2022-23
+FY 2021-22
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+ 
+ 
+(i)    Incineration
+1666.7
+1759.7
+(ii)   Landfilling
+417.2
+85.7
+(iii)  Other disposal operations
+0
+0
+Total
+2082.9
+1845.4
+“Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N)” –
+No, we have not conducted independent assessment
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Total Waste generated (in metric tonnes)
+ 
+ 
+Plastic waste (A)
+76.4
+78
+E-waste (B)
+13.3
+5.6
+Bio-medical waste (C)
+0.007
+0.006
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+0
+0
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. (Grinding dust, ETP sludge, Filter paper, Oily waste and 
+used oil) if any. (G)
+3122
+2772
+Other Non-hazardous waste generated (H). All waste which is not listed above
+2538.5
+1669
+Total (A+B + C + D + E + F + G + H)
+5750
+ 4525
+9. 	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted 
+by your Company to reduce usage of hazardous and toxic chemicals in your products and processes and the 
+practices adopted to manage such wastes.
+	
+Our robust waste management processes details the strategies for the safe handling of hazardous and toxic chemicals.. 
+Plastic wastes which are generated from the operations are recycled and diverted from landfill. E-Wastes generated are 
+handed over to authorised recyclers for safe disposal. SKF India ensures resource-efficiency throughout the operations 
+resulting in reduced waste generations. Various product sustainability requirements such as REACH, ROSH, and Conflict 
+minerals are adhered to by SKF and material suppliers. We provide information to our customers for specific customer-
+driven system like CDX (Component Data Exchange) IMDS standards. (The International Material Data System) for the 
+effective and safe handling of hazardous substances.
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals/clearances are required, please specify details in the following format:
+	
+We do not have any operations in ecologically sensitive areas.
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in 
+the current financial year:
+	
+Not Applicable
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+177
+Business Responsibility and Sustainability Reporting (contd.)
+12. 	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection 
+act and rules thereunder (Y/N).
+	
+If not, provide details of all such non-compliances, in the following format: 
+￼	
+	
+Yes, Company is compliant with Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) 
+Act, Environment protection act and rules
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent
+1.	
+a. 	
+Number of affiliations with trade and industry chambers/ associations.
+	
+	
+-	
+13 
+	
+b.	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such 
+body) the entity is a member of/ affiliated to
+SR 
+No 
+Name of the trade and industry 
+chambers/ associations 
+Reach of trade and industry chambers/ associations (State/National/
+International)
+1 
+Confederation of Indian industry 
+TPM, Quality, Sustainability, CSR, Sales, Industrial relations, Supplier TPM 
+deployment and other admin issues related to the local industries
+2 
+Indian Wind Turbine Association  
+Wind Industry and Policy updates and influence
+3 
+Textile Machinery Manufacturer 
+Association 
+Textile industry updates and connect
+4 
+Indian Machine Tools 
+Manufacturers Association 
+Machine tool industry updates and connect 
+5 
+Swedish Chambers of Commerce 
+Association of Swedish Companies in India 
+6 
+Condition Monitoring Society of 
+India 
+To promote more Reliability of equipment. Paid lifetime subscription. 
+7 
+Bangalore Chamber of Industry 
+and Commerce 
+Employee training and development 
+8 
+Institute of Internal Auditors
+Connect with the Internal Auditors community and sharing of knowledge and 
+best practices
+9 
+National Safety Council
+Providing guidance and services to make workplaces safer, healthier and 
+environmentally friendly.
+10 
+Quality Circle Forum of India 
+Propagation of quality concepts and philosophy with a special focus on Quality 
+Circles for promoting material, human and spiritual level of people. 
+2.	
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the 
+entity, based on adverse orders from regulatory authorities.
+Sr.
+Name of authority
+Brief of the case
+Corrective action taken
+1
+Nil
+Nil
+Nil
+PRINCIPLE  8:  Businesses should promote inclusive growth and equitable development 
+1. 	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+	
+Not applicable.
+2. 	
+Provide information on project (s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken 
+by your entity, in the following format:
+	
+Not applicable.
+Annual Report 2022-23
+SKF India Limited
+178
+Business Responsibility and Sustainability Reporting (contd.)
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+The Company’s CSR team receives feedback from beneficiaries during the implementation of CSR programs. Annual 
+feedback is collected from all  beneficiaries. Across all our operating locations, community members can reach us 
+through the HR (Human Resources) department or the union representatives. Local Plant HR managers are responsible 
+for resolving issues in the community. Impact studies are conducted to help SKF India understand the effectiveness 
+and reach of implementation and plan for increasing the beneficiaries of CSR programmes. 
+4. 	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Parameter
+FY 2022-23
+FY 2021-22
+Directly sourced from MSMEs/ small producers
+50%
+50%
+Sourced directly from within the district and neighbouring districts
+20%
+20%
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a responsible manner
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+We receive the ratings from customers as feedback towards our products and services. Average customer rating in the 
+reporting year was observed to be around 97%. We have established dedicated channels such as a Complaint Handling 
+system (administrative and technical), Customer care and website for customers to raise their concerns. The Company 
+ensures the timely resolution of the complaints/concerns.
+2.	
+Turnover of products and/or services as a percentage of turnover from all products/services that carry information 
+about.
+	
+The Company displays product information on the product label, as per mandatory declaration in compliance 
+under the legal metrology laws i.e., the Legal Metrology (Packaged Commodities Rules) 2011. We also declare 
+significant information about the product such as traceability, and special anti-counterfeit marking to make the entire 
+process genuine.
+	
+We share the information given below about our  products and services  
+	
+i. 	
+The sourcing of components of the product or service (Conflict Minerals)   
+	
+ii. 	
+Content, particularly with regard to substances that might produce an environmental impact as per REACH, ROSH, 
+	
+iii. 	 Safe use of the product or service  
+	
+iv. 	 Disposal of the product & environmental impact. 
+As a percentage to 
+total turnover
+Environmental and social parameters relevant to the product
+100
+Safe and responsible usage
+ 100
+Recycling and/or safe disposal
+ 100
+3.	
+Number of consumer complaints in respect of the following
+ 
+FY 2022-23
+FY 2021-22
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remark
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remark
+Data privacy
+0
+0
+NIL
+0
+0
+Nil
+Advertising
+0
+0
+0
+0
+Cyber-security
+0
+0
+0
+0
+Delivery of essential services
+0
+0
+0
+0
+Restrictive Trade Practices
+0
+0
+0
+0
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+179
+Business Responsibility and Sustainability Reporting (contd.)
+ 
+FY 2022-23
+FY 2021-22
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remark
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remark
+Unfair Trade Practices
+0
+0
+Nil
+0
+0
+Nil
+Other
+ 0
+0
+0
+0
+4.	
+Details of instances of product recalls on account of safety issues
+Number
+Reasons for recall
+Voluntary recalls
+0
+0
+Forced recalls
+0
+0
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? If available, provide 
+a web-link of the policy
+	
+Increasing information security threats, increasing customer scrutiny and regulatory requirements to adhere to 
+information security standards have placed responsibility on the Company to establish suitable due diligence for 
+preventing the loss of customer data.
+	
+We have Risk management policy to assess and identify risks arising out of internal and external operating environments 
+including financial, operational, sectoral, sustainability, information, cyber security risk or other risks. In addition, Risk 
+management Committee also identifies other probable risks from time to time. To mitigate information security risk, 
+cyber security risk and data privacy risks, we will continue the implementation of the information security program, 
+including the controls in SKF’s Information Security Management System (ISMS).
+	
+Kindly Refer to following policies for more details
+	
+https://cdn.skfmediahub.skf.com/api/public/094128b54400ccfb/pdf_preview_medium/094128b54400ccfb_pdf_
+preview_medium.pdf
+	
+https://investors.skf.com/en/risk-management
+6. 	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty / action taken by regulatory authorities on safety of products / services.
+	
+There were no such instances during the reporting year.

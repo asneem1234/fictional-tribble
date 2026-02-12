@@ -1,0 +1,3853 @@
+ 
+Sandhar Technologies Limited 
+ 
+Corporate Office: 13, Sector-44, Gurugram-122 002, Haryana, India. Ph: + 91 12-4518900 
+Registered Office: B-6/20, L.S.C., Safdarjung Enclave, New Delhi-110 029, India, Ph: +91-11-40511800 
+E-mail: enquiries@sandhar.in, website: www.sandhargroup.com; CIN-L74999DL1987PLC029553  
+ 
+ 
+ 
+Ref: STL/SE/2023-2024/ BRSR/31 
+ 
+Dated:  28th August, 2023 
+ 
+To,  
+ 
+ 
+ 
+ 
+ 
+ 
+To, 
+Department of Corporate Services,  
+ 
+ 
+Listing Department,  
+BSE Limited  
+ 
+ 
+ 
+ 
+ 
+National Stock Exchange of India Limited 
+Phiroze Jeejeebhoy Towers, Dalal Street, 
+ 
+ 
+C-1, G-Block, Bandra-Kurla Complex, 
+Mumbai – 400 001                                                                           Bandra, (E), Mumbai – 400 0051 
+ 
+ 
+ 
+BSE Code: 541163; NSE: SANDHAR 
+ 
+Dear Sir/Ma’am, 
+ 
+Sub: Business Responsibility and Sustainability Report for the Financial Year 2022-23. 
+ 
+Pursuant to Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, please find enclosed the Business Responsibility and Sustainability Report (“BRSR”) for the financial year 
+2022-23 which forms an integral part of the Annual Report of the Company for the financial year 2022-23. 
+ 
+We request you to take the same on record. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+ 
+For Sandhar Technologies Limited 
+ 
+ 
+ 
+ 
+Komal Malik 
+Company Secretary & 
+Compliance Officer 
+ 
+ 
+Encl: As Above 
+ 
+ 
+ 
+ 
+ 
+Komal 
+Malik
+Digitally signed by 
+Komal Malik 
+Date: 2023.08.28 
+20:09:07 +05'30'
+71 | Sandhar Technologies Limited
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1.
+Corporate Identity Number (CIN) of the Listed Entity
+L74999DL1987PLC029553
+2.
+Name of the Listed Entity
+Sandhar Technologies Limited (“the Company” or STL)
+3.
+Year of incorporation
+1987
+4
+Registered office address
+B-6/20, L.S.C. Safdarjung Enclave, New Delhi - 110029
+5.
+Corporate address
+Plot-13, Sector-44, Gurugram – 122002 
+6.
+E-mail
+brsr@sandhar.in
+7.
+Telephone
+0124-4518900
+8.
+Website
+www.sandhargroup.com
+9.
+Fnancial Year for which reporting is being done
+2022-2023
+10.
+Name of the Stock Exchange(s) where shares are listed
+BSE & NSE
+11.
+Paid-up Capital
+601907080
+12.
+Name and contact details (telephone, email address) of the person 
+who may be contacted in case of any queries on the BRSR report
+Ms. Komal Malik, 
+Email: brsr@sandhar.in
+Telephone: 0124 4518900
+13.
+Reporting boundary - Are the disclosures under this report made 
+on a standalone basis (i.e. only for the entity) or on a consolidated 
+basis (i.e. for the entity and all the entities which form a part of its 
+consolidated financial statements, taken together).
+Standalone
+II.	
+Products/services
+14.	 Details of business activities (accounting for 90% of the turnover):
+S. No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1.
+ Manufacturing
+ Metal & Metal Products
+100 %
+15.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No.
+Product/Service
+NIC Code
+% of total Turnover contributed
+1.
+Sheet Metal Components
+282, 293, 309, 453 and 454
+23.5%
+2.
+Locks
+259, 282, 293, 309, 453 and 454
+22.8%
+3.
+Other Products
+282, 293, 309, 453 and 454
+19.9%
+4.
+Cabins
+282
+8.9%
+5.
+Wheel Assembly
+293, 309, 453 and 454
+9.9%
+6.
+Mirror Assembly
+282, 293, 309, 453 and 454
+9.2%
+7.
+Cabins
+282
+8.9%
+8.
+Handlebar Assembly
+293, 309, 453 and 454
+4.2%
+9.
+Plastic Parts
+292, 293, 309, 453 and 454
+1.6%
+III.	 Operations
+16.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+27
+2
+29
+International
+0
+0
+0
+17.	 Markets served by the entity:
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+8
+International (No. of Countries)
+0
+72 | Sandhar Technologies Limited
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+2.54 %
+c.	
+A brief on types of customers:
+	
+The Company is a market leader in the automotive components and system segment delivering a wide variety of innovative, superior 
+quality and cost-effective products to customers all over the world. The sales are mainly through Business to Business (B2B) model 
+to Original Equipment Manufacturers (OEMs).
+IV.	 Employees
+18.	 Details as at the end of Fnancial Year:
+a.	
+Employees and workers (including differently abled):
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+1064
+1001
+94.08%
+63
+5.92%
+2.
+Other than Permanent (E)
+74
+65
+87.84%
+9
+12.16%
+3.
+Total employees (D + E)
+1138
+1066
+93.67%
+72
+6.33%
+WORKERS
+4.
+Permanent (F)
+507
+484
+95.46%
+23
+4.54%
+5.
+Other than Permanent (G)
+55
+45
+81.82%
+10
+18.18%
+Total workers (F + G)
+562
+529
+94.13%
+33
+5.87%
+b.	
+Differently abled Employees and workers:
+S. 
+No. 
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+ DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+0
+0
+0%
+0
+0%
+2.
+Other than Permanent (E)
+0
+0
+0%
+0
+0%
+3.
+Total differently  abled employees (D + E)
+0
+0
+0%
+0
+0%
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+0
+0
+0%
+0
+0%
+5.
+Other than permanent (G)
+0
+0
+0%
+0
+0%
+6.
+Total differently abled workers (F + G)
+0
+0
+0%
+0
+0%
+19.	 Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors*
+10
+2
+20%
+Key Management Personnel*
+3
+1
+33%
+* Includes MD as the BOD and KMP
+20.	 Turnover rate for permanent employees and workers
+	
+(Disclose trends for the past 3 years)
+FY 2022-23
+(Turnover rate in current  FY)
+FY 2021-22
+(Turnover rate in previous FY)
+FY 2020-21
+(Turnover rate in the  year prior 
+to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+30.52%
+28.57%
+30.41%
+26.93%
+34.67%
+27.32%
+25.39%
+37.29%
+25.95%
+Permanent Workers
+3.10%
+4.35%
+3.16%
+1.03%
+8.70%
+1.38%
+2.69%
+0.00%
+2.57%
+73 | Sandhar Technologies Limited
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+21.	 (a) Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No.
+Name of the holding/ subsidiary/ associate companies/ 
+joint ventures  (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares  
+held by 
+listed 
+entity
+Does the entity 
+indicated at column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1
+Sandhar Automotive Systems Private Limited (Formerly 
+known as Sandhar Daewha Automotive Systems Private 
+Limited)
+Subsidiary
+100%
+No
+2
+Sandhar Tooling Private Limited
+Subsidiary
+79.92%
+No
+3
+Sandhar Auto Castings Private Limited (Formerly known as 
+Sandhar Daeshin Technologies Private Limited) 
+Subsidiary
+100%
+No
+4
+Sandhar Engineering Private Limited
+Subsidiary
+100%
+No
+5
+Sandhar Technologies Barcelona S.L
+Subsidiary
+100%
+No
+6
+Sandhar Auto Electric Solutions Private Limited 
+Subsidiary
+100%
+No
+7
+Winnercom Sandhar Technologies Private Limited
+Joint Venture
+50%
+No
+8
+Sandhar Han Shin Auto Technologies Private Limited
+Joint Venture
+50%
+No
+9
+Sandhar Whetron Electronics Private Limited
+Joint Venture
+50%
+No
+10
+Sandhar Amkin Industries Private Limited
+Joint Venture
+69.12%
+No
+11
+Sandhar Han Sung Technologies Private Limited
+Joint Venture
+50%
+No
+12
+Kwangsung Sandhar Technologies Private Limited
+Joint Venture
+50%
+No
+13
+Jinyoung Sandhar Mechatronics Private Limited 
+Joint Venture
+50%
+No
+14
+Sandhar Han Shin Automotive Private Limited*
+Joint Venture
+99.99%
+No
+*Under the process of Striking off. 
+VI.	 CSR Details
+22.	 Whether CSR is applicable as per section 135 of the Companies Act, 2013: (Yes/No) -Yes
+(i)	
+Turnover (in Rs.) = 1,94,101.58 Lacs
+(ii)	 Net worth (in Rs.) =  85,994.38 Lacs
+VII.	 Transparency and Disclosures Compliances
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct:
+Stakeholder group from 
+whom complaint is 
+received
+Grievance 
+Redressal 
+Mechanism in 
+Place 
+(Yes/No)
+FY 2022-23
+Current Fnancial Year
+FY 2021-22
+Previous Fnancial Year
+(If Yes,   then 
+provide 
+web-link for 
+grievance 
+redress 
+policy)*
+Number of 
+complaints  
+filed during the 
+year
+Number of 
+complaints 
+pending reso­
+lution at close 
+of the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year 
+Remarks
+Communities
+Yes
+Nil
+Nil
+-
+Nil
+Nil
+-
+Investors 
+(other than shareholders)
+Yes
+Nil
+Nil
+-
+Nil
+Nil
+-
+Shareholders
+Yes
+1
+Nil
+-
+Nil
+Nil
+-
+Employees and workers
+Yes
+Nil
+Nil
+-
+Nil
+Nil
+-
+Customers
+Yes
+Nil
+Nil
+-
+Nil
+Nil
+-
+Value Chain Partners
+Yes
+Nil
+Nil
+-
+Nil
+Nil
+-
+Other (please specify)
+Yes
+Nil
+Nil
+-
+Nil
+Nil
+-
+	
+*The Vigil Mechanism/Whistle-Blower Policy of the Company provides a robust framework for dealing with concerns and grievances 
+for employees and directors and the same is available at https://sandhargroup.com/investors/disclosures-under-regulation-46-of-
+the-lodr.
+74 | Sandhar Technologies Limited
+	
+There is a specific email ID investors@sandhar.in for addressing queries by any Investors and Shareholders .The Legal and Secretarial 
+Department is responsible to monitor and resolve the queries and concerns raised through this email ID, taking inputs and resolutions 
+from the relevant departments within the Company.
+24.  Overview of the entity’s material responsible business conduct issues 
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that 
+present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk along-with 
+its financial implications, as per the following format;
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk  or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/ 
+opportunity
+In case of risk, approach 
+to  adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+1
+Pollution free
+environment
+Risk
+Failure 
+to 
+offer 
+a 
+safe 
+working 
+environment may expose the Company 
+to compensation liabilities, decreased 
+productivity, 
+brand 
+loss, 
+and 
+other 
+consequences.
+All relevant pollution 
+control standards for 
+air, water, and soil are 
+followed.
+The disposal of 
+hazardous waste is 
+regulated to ensure that 
+it stays below permitted 
+levels.
+Negative
+2
+Stakeholder 
+engagement
+Opportunity
+Opportunity to communicate with and 
+gather suggestions from stakeholders in 
+order to include non-business practices 
+when needed.
+The Company has a well-defined continual 
+stakeholder engagement process
+Not Applicable
+Positive
+3
+Waste
+Management
+Opportunity
+Environment and economy benefit.
+Not Applicable
+Positive 
+4
+Health and
+Safety
+Risk and 
+Opportunity
+Managing 
+safety 
+and 
+health 
+is 
+an 
+essential 
+component 
+of 
+running 
+a 
+business. Businesses must conduct a 
+risk assessment to identify hazards and 
+risks in their workplace(s) and implement 
+actions to successfully control them.
+The 
+Company’s 
+commitment 
+for 
+continuous improvement in the areas of 
+health and safety best practices around 
+the world in accordance with our global 
+SHE policy for all of its employee and 
+workers.
+Several initiatives and 
+programmes have been 
+implemented to cover 
+all aspects of health and 
+safety 
+management 
+and are being actively 
+monitored for continuous 
+improvement.
+Negative and 
+Positive
+5
+Training and 
+education
+Opportunity
+Skilled staff and workforce are essential 
+for any business. The skilled workforce 
+completes their tasks efficiently and 
+effortlessly.
+Further, Company provides need-based 
+and innovative range of trainings.
+Furthermore, the Company is recruiting 
+and developing suitable talent, as well as 
+assuring professional development and 
+personal well-being throughout their 
+employment with the Company.
+ Not Applicable
+Positive 
+6
+Disaster 
+recovery 
+Risk 
+Natural disasters including earthquakes, 
+cyclones, 
+floods, 
+epidemics 
+ 
+etc. 
+can 
+cause 
+business 
+intervention.
+
+Adequate disaster 
+preparedness, including 
+proper insurance as 
+covered under the 
+Business Continuity 
+Policy.
+Negative 
+75 | Sandhar Technologies Limited
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk  or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/ 
+opportunity
+In case of risk, approach 
+to  adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+7
+Climate 
+change 
+Risk and 
+Opportunity
+Global warming and industry operation 
+and transition risk.
+New opportunities in emerging EV 
+markets
+Climate change and 
+industry transition 
+are now embedded 
+in the Company’s risk 
+management process.
+Emphasis on alternate 
+fuel (Solar Panels).
+Massive Plantation 
+drives.
+Negative and 
+Positive
+8
+Intellectual 
+Property
+Risk
+Leakage of private information.
+In cooperative research collaborations, IP 
+rights disputes might occur.
+IP infringement actions from third party.
+Filing of Patents.
+Information Audits/
+Searches on a Regular 
+Basis.
+Data exchange 
+withvendors/customer 
+in a secure manner  with 
+proper documentation.
+Entering into a Non-
+Disclosure Agreement 
+(NDA) with parties 
+for the purpose of 
+exchanging information.
+Negative
+9
+Operations
+environment
+Opportunity
+Opportunity to minimise costs and 
+conserve resources while limiting the 
+negative effects of non – compliance.
+Further, all environmental regulations are 
+met, and operational improvements are 
+implemented.
+Not Applicable
+Positive
+10
+Women
+Empower­
+ment
+and employ­
+ee
+engagement
+Opportunity
+Workforce that is motivated, devoted, 
+and engaged; a significant number of 
+female employees are employed
+Not Applicable
+Positive 
+11
+Innovation
+Risk
+Risk of better solutions failing to address 
+current market trends, new requirements, 
+or technology improvements.
+Structured technology 
+development projects.
+New focus areas are 
+developed in order to 
+generate future capacity 
+requirements.
+Negative 
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the NGRBC 
+Principles and Core Elements.
+Disclosure Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Policy and management processes
+1. a. Whether your entity’s policy/policies cover each principle and 
+its core elements of the NGRBCs. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+76 | Sandhar Technologies Limited
+Disclosure Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+b. Has the policy been approved by the Board? (Yes/No)
+The policies as per the SEBI Regulations are approved by 
+the Board and rest of the policies are approved by the CSR 
+Committee as designated by the Board. 
+c. Web Link of the Policies, if available
+The Policies of the Company are placed on the Company’s 
+website, which can be accessed at:
+https://sandhargroup.com/investors/corporate-governance.
+Additionally, the Company’s intranet hosts a number of internal 
+policies that are available to internal stakeholders only.
+2.	  Whether the entity has translated the policy into procedures.
+(Yes / No)
+Yes
+3. 	 Do the enlisted policies extend to your value chain partners?
+(Yes/No)
+Yes
+4. 	 Name of the national and international codes/certifications/
+labels/ standards (e.g. Forest Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trustee) standards (e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity and mapped to each principle.
+IATF:16949: 2016, 
+ISO 14001:2015
+ISO 45001:2018
+ISO 9001:2015
+5.	 Specific commitments, goals and targets set by the entity with 
+defined timelines, if any.
+The Company has set a goal to become Carbon Neutral by 2050.
+6. 	 Performance of the entity against the specific commitments, 
+goals and targets along-with reasons in case the same are not 
+met.
+Since, the Company has established specific commitments, 
+goals and targets in FY 2022-23, therefore, currently specific 
+performance against the target cannot precisely be determined 
+in the current Fnancial Year.
+Governance, leadership and oversight
+7.	 Statement by director responsible for the business responsibility 
+report, highlighting ESG  related challenges, targets and 
+achievements (listed entity has flexibility regarding the 
+placement of this disclosure)
+At STL, priority revolves around the adoption of highest level of 
+environmental, social and governance integrity enabling long-
+term sustainability.
+The Co. is a market leader in the automotive components 
+and systems segment, delivering a wide variety of innovative, 
+superior quality and cost-effective products to customers all 
+over the world. The Company prioritizes the highest standards 
+of health, safety and environmental integrity, enabling long-
+term stability. The Company focuses on innovations and 
+moving forward enthusiastically to the upcoming new era of 
+Electric Vehicles (EVs) and New Technologies overcoming the 
+environmental targets
+The Company is committed towards its Goal of Carbon Net Zero 
+and has been accepting, adopting and moving forward in this 
+direction.  With this goal the Company is venturing into new 
+sustainability technologies. There would be gradual shift from 
+grid-based energy to renewable source of energy i.e. reducing 
+the thermal energy & introducing renewable energy. Reduction 
+in Consumption of fossil fuels and usage of Biomass, PNG, LPG 
+Gas operated DG sets. The Company is exploring modes of 
+transportation for employees and for supply of goods through 
+EV, PNG vehicles. 
+STL is also making efforts towards building economic, social and 
+environmental capital and enhancing social sustainability. The 
+Company has consciously put in efforts to develop sustainable 
+products through its in-house R&D team.
+Further, the STL Team oversees the ESG / Sustainability initiatives 
+of the Company. Roadmap with specific goals and targets are 
+under development. Once they are in place, implementation 
+of actions would be monitored for their progress and updates 
+shared with all the stakeholders on a periodical basis. The 
+business responsibility and sustainability report demonstrate 
+the Company’s efforts to responsibly create and sustain value 
+for all the stakeholders.
+77 | Sandhar Technologies Limited
+Disclosure Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+8. 	 Details of the highest authority responsible for implementation 
+and oversight of the Business Responsibility policy (ies).
+Sandhar Leadership Team (SLT) is responsible for 
+implementation of Business Responsibility policy (ies).
+Shri. Jayant Davar (DIN 00100801), Co-Chairman and 
+Managing Director, is responsible for oversight of the Business 
+Responsibility policy(ies),
+ 9. 	 Does the entity have a specified Committee of the Board/ 
+Director responsible for decision making on sustainability 
+related issues? (Yes / No). If yes, provide details.
+Yes, the Sandhar Leadership Team (SLT) is responsible for 
+decision making on sustainability related issues, which 
+comprises of the following members:
+Name
+Designation
+Shri. Yashpal Jain
+Chief Financial Officer
+Shri. Niraj Hans
+Chief Operating Officer –Automotive 
+Business
+Shri. Y.S. Chauhan
+Whole-time Director of Sandhar 
+Engineering Private Limited and Business 
+Head for Sheet Metal & Allied Business
+Shri. G.J. Singh
+Chief Operating Officer - Cabins and 
+Fabrication Business
+Shri. Ajay Raghav
+Deputy Chief Operating Officer – 
+Casting Moulding and Tooling Business
+Shri. Ashok Kumar 
+Sharma
+Chief Technology Officer
+Shri. Venkataraman 
+Srinivasan
+Group Head HR
+10. 	Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by 
+Director / Committee of the Board/ Any other 
+Committee
+Frequency
+(Annually/ Half yearly/ Quarterly/ Any other – 
+please specify)
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Performance against 
+above policies and  follow 
+up action
+Yes by the Sandhar Leadership Team (SLT) as 
+designated by the Board of Directors.
+Annual basis.
+Compliance with 
+statutory requirements 
+of relevance to the 
+principles, and, 
+rectification of any non-
+compliances
+ The Company complies with all the currently 
+applicable Regulations.
+11. 	Has the entity carried out independent assessment/ evaluation of the 
+working of its policies by an external agency? (Yes/No). If yes, provide name 
+of the agency.
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P 
+8
+P
+9
+Currently, 
+the 
+Company 
+is 
+conducting 
+the 
+assessment/evaluation of the workings of its 
+policies internally. However, in due course, the 
+Company might also get these reviewed in terms of 
+efficient working of these by an external agency.
+12. If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+The entity does not consider the Principles  material to its business (Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a position to formulate and implement 
+the policies on specified principles (Yes/No)
+The entity does not have the financial or/human and technical resources av 
+ailable for the task (Yes/No)
+It is planned to be done in the next Fnancial Year (Yes/No)
+Any other reason (please specify)
+78 | Sandhar Technologies Limited
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key processes 
+and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential indicators are expected to be 
+disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed by entities which 
+aspire to progress to a higher level in their quest to be socially, environmentally and ethically responsible.
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent and 
+Accountable. 
+Essential Indicator
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the Fnancial Year:
+Segment
+Total number 
+of training and 
+awareness
+programmes held
+Topics/ principles covered under the training and its 
+impact
+%age of persons in 
+respective category cov­
+ered by the awareness 
+programmes
+Board of Directors
+3
+Brief technical capacity building session on Business 
+Responsibility and Sustainability Reporting (“BRSR”) 
+and its reporting framework.
+80%
+Key Managerial 
+Personnel
+4
+60%
+Employees other 
+than BoDs and 
+KMPs
+24
+Session on Employees Code of Conduct, POSH at 
+Workplace, Prohibition of Insider Trading,  Anti Bribery 
+and Whistle Blower.
+65%
+Workers
+30
+70%
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by 
+directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the Fnancial Year, in the following format (Note: 
+the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC Prin­
+ciple
+Name of the regula­
+tory/ enforcement 
+agencies/judicial 
+institutions
+Amount (in INR)
+Brief of the Case
+Has an appeal 
+been preferred?
+(Yes/No)
+Penalty/Fine
+No material fines / penalties /punishment/ award/ compounding fees/ settlement amount were paid in 
+proceedings by the Company or by directors / KMPs during the current Fnancial Year.
+Settlement
+Compounding fee
+Non-Monetary
+NGRBC Prin­
+ciple
+Name of the regula­
+tory / enforcement 
+agencies/judicial 
+institutions
+Brief of the Case
+Has an appeal 
+been preferred?
+(Yes/No)
+Imprisonment
+Not Applicable
+Punishment
+Not Applicable
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-monetary 
+action has been appealed. 
+Case Details
+Name of the regulatory/enforcement agencies/judicial institu­
+tions
+Not Applicable
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link to the 
+policy.
+	
+Yes, the Company has an Anti-Bribery Policy, which is available on the Company’s Intranet. We at STL are committed to conduct 
+business with the greatest levels of morality and integrity. Bribery in any form is not tolerated by STL, its employees, or anyone 
+79 | Sandhar Technologies Limited
+else working on or on its behalf. All of our employees and any business partners operating on the Company’s behalf worldwide are 
+required to abide by the Policy. The Policy outlines what every one of us must do to support the fight against bribery in all of its 
+manifestations.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the 
+charges of bribery/ corruption:
+FY 2022-23
+ (Current Fnancial Year)
+FY 2021-22
+(Previous Fnancial Year)
+Director’s
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil
+Workers
+Nil
+Nil
+6.	
+Details of complaints with regard to conflict of interest:
+FY 2022-23
+(Current Fnancial Year)
+FY 2021-22
+ (Previous Fnancial Year)
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of 
+Conflict of Interest of the Directors
+Nil
+-
+Nil
+-
+Number of complaints received in relation to issues of 
+Conflict of Interest of the KMPs
+Nil
+-
+Nil
+-
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law 
+enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+Not Applicable, as there were no cases of corruption and conflicts of interest which were reported during the year.
+Leadership Indicator
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the Fnancial Year:
+Total number of awareness 
+programmes held
+Topics / principles covered 
+under the training
+%age of value chain partners covered (by value 
+of business done with such partners) under the 
+awareness programmes
+4
+Awareness sessions on BRSR 
+40% of buying value of top 100 suppliers.
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No) If Yes, 
+provide details of the same.
+	
+Yes, the Company have processes in place to avoid/manage conflict of interests involving members of the Board. The Company has a 
+detailed ‘Code of Conduct for its Directors and Senior Management’, which includes extensive instructions and a reporting process 
+for instances that can lead to a potential conflict of interest.  
+	
+The Policy is available on the website: 
+	
+https://sandhargroup.com/uploads/Investor/policy-on-code-of-conduct-for-bod-senior-mgt_new.pdf
+80 | Sandhar Technologies Limited
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social 
+impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Current
+ Fnancial Year
+Previous
+Fnancial Year
+Details of improvements in environmental and  social impacts
+R&D
+NA
+NA
+NA
+Capex
+1.45%
+1.46%
+1.	 Saved 1107736 KWH over the year, which reduces 941.57 ton 
+of carbon. (The Company invested Rs. 37.16 Lacs for installing 
+Variable Frequency Drives (VFD) in all the units and saved 
+1107736 KWH over the year. This reduced 941.57 ton of carbon.)
+2. Prevention of water pollution. (Prevention of water pollution-
+Company installed 2 new sewage treatment plants, 2 ETP plant 
+and 1 ZLD in units. Total cost of Rs.1.412Cr.)
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+No, the Company doesn’t have any procedures in place for sustainable sourcing. But, the Company plans to carry out a sustainability
+assessment of key Suppliers from FY 2023-24 through audits.
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+        Not Applicable.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) Plastics 
+(including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+	
+As a manufacturer of components and automobile parts, there is no scope for product reclamation for further processing. Our 
+products are  directly supplied to the  OEM’s as per their requirement, hence Company has limited scope for reclaiming it at the end 
+of its life cycle. However, the Company has processes in place to safely recycle hazardous waste, plastics (Including packaging) and 
+e-waste. We also reuse the crates (open boxes without final packaging) which are used to supply the final product manufactured by 
+the Company as per specific OEM’s requirements to be used in their final products.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste collection 
+plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, provide steps 
+taken to address the same.
+	
+EPR is not applicable on any of the units of the Company.
+Leadership Indicator
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) or for its 
+services (for service industry)? If yes, provide details in the following format?
+NIC Code
+Name of Product/Ser­
+vice
+% of total Turn­
+over contributed
+Boundary for 
+which the Life 
+Cycle Perspective/
+Assessment was 
+conducted
+Whether conducted 
+by independent exter­
+nal agency
+(Yes/No)
+Results commu­
+nicated in public 
+domain
+(Yes/No)
+If yes, provide the 
+web-link.
+The Company has not yet conducted the Life Cycle Perspective/ Assessments for any of its products. However, the Company is 
+planning to carry out such assessments in the coming years.
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your products / 
+services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same along-
+with action taken to mitigate the same.
+Name of Product/Service
+Description of the risk/concern
+Action Taken
+Not Applicable, as currently, the Company is not conducting any Life Cycle Assessment for any of its products.
+81 | Sandhar Technologies Limited
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or 
+providing services (for service industry).
+Indicate input material
+Recycled or re-used input material to total material
+FY 2022-23
+Current Fnancial Year
+FY 2021-22
+Previous Fnancial Year
+ Plastics and Woods scrap 
+0.03% 
+ 0.05% 
+Other Scrap
+ 4% 
+ 3.9% 
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely disposed, 
+as per the following format:
+FY2022-23 
+Current Fnancial Year
+FY 2021-22
+Previous Fnancial Year
+Re-Used
+Recycled
+Safely
+Disposed
+Re-Used
+Recycled
+Safely
+Disposed
+Plastics (including 
+packaging)
+Not applicable, as STL supplies its products directly to the OEMs, therefore, there is limited scope 
+for reclaiming it at the end of its life cycle. 
+E-waste
+Hazardous waste
+Other waste
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Indicate product category
+Reclaimed products and their packaging materials as % of total products sold in respec­
+tive category
+Not Applicable, as STL supplies its products directly to the OEMs, therefore, there is limited scope for reclaiming it at the end of 
+its life cycle.
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their value chains
+Essential Indicators
+1.	
+a. Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total
+(A)
+Health insurance
+Accident Insur­
+ance
+Maternity Ben­
+efits
+Paternity Benefits
+Day Care Facil­
+ities
+Number
+(B)
+% 
+(B)/ (A)
+Num­
+ber
+(C)
+%
+(C)/ (A)
+Num­
+ber
+(D)
+% 
+(D)/ (A)
+Number
+(E)
+% 
+(E)/ (A)
+Number
+(F)
+%
+(F)/ 
+(A)
+Permanent Employees
+Male
+1001
+1001
+100%
+1001
+100%
+-
+-
+-
+-
+-
+-
+Female
+63
+63
+100%
+63
+100%
+63
+100%
+-
+-
+-
+-
+Total
+1064
+1064
+100%
+1064
+100%
+ 63
+6%
+ -
+-
+-
+-
+Other than Permanent Employees
+Male
+65
+65
+100%
+65
+100%
+-
+-
+-
+-
+-
+-
+Female
+9
+9
+100%
+9
+100%
+9
+100%
+-
+-
+-
+-
+Total
+74
+74
+100%
+74
+100%
+9
+12%
+-
+-
+-
+-
+	
+For Health insurance 100% coverage. Employees are covered under either Group Medical Claim Policy or Personal Health Policy or 
+ESIC.
+82 | Sandhar Technologies Limited
+b.	
+Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total
+(A)
+Health insurance
+Accident insurance
+Maternity Benefits
+Paternity
+Benefits
+Day Care
+Facilities
+Number
+(B)
+% 
+(B)/ (A)
+Number
+(C)
+%
+(C)/ (A)
+Number
+(D)
+% 
+(D)/ (A)
+Number
+(E)
+% 
+( E)/ (A)
+Number
+(F)
+%
+(F)/ (A)
+Permanent workers
+Male
+484
+484
+100%
+484
+100%
+-
+-
+-
+- 
+-
+- 
+Female
+23
+23
+100%
+23
+100%
+23
+100%
+-
+-
+-
+-
+Total
+507
+507
+100%
+ 507
+100%
+23
+5%
+ -
+ -
+ -
+- 
+Other than Permanent workers
+Male
+45
+45
+100%
+45
+100%
+-
+-
+-
+-
+-
+- 
+Female
+10
+10
+100%
+10
+100%
+10
+100%
+-
+-
+-
+-
+Total
+55
+55
+100%
+ 55
+100%
+10
+18%
+ -
+-
+-
+-
+	
+For Health Insurance: 100% coverage. Employees are covered under either Group Medical Claim Policy or ESIC or Personal Health 
+Insurance Policy.
+2.	
+Details of retirement benefits, for Current Fnancial Year and Previous Fnancial Year.
+Benefits
+FY 2022-23
+Current Fnancial Year
+FY 2021-22
+Previous Fnancial Year
+No. of employ­
+ees covered 
+as a % of total 
+employees
+No. of workers 
+covered as a % of 
+total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of employ­
+ees covered 
+as a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and depos­
+ited with the authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Yes
+100%
+100%
+Yes
+Gratuity*
+97%
+99%
+ Yes
+95%
+97%
+Yes
+ESI#
+100%
+100%
+Yes
+100%
+100%
+Yes
+NPS
+3.30%
+0%
+Yes
+2.94%
+0%
+Yes
+* Employees who have successfully completed 5 years of tenure are entitled for Gratuity benefits.
+	
+# Applicable to employees as per the threshold limit prescribed under the Employees State Insurance Act, 1948.
+3.	
+Accessibility of workplaces 
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights 
+of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+	
+The premises / offices of the Company are largely accessible to differently abled employees and workers, barring some of the 
+locations, where it is practically not possible. However, the Company is attempting to make more improvements to the current 
+system.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link to 
+the policy.
+	
+ Yes, the Company has an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016, which is available on 
+Company’s Intranet.
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Permanent employees
+Permanent workers
+Gender
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+NA
+NA
+NA
+NA
+Female
+100%
+2%
+0%
+0%
+Total
+100%
+2%
+0%
+0%
+83 | Sandhar Technologies Limited
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? If yes, give 
+details of the mechanism in brief.
+Yes/No (If yes, then give details of the mechanism in brief)
+Permanent Workers
+Yes, there is grievance Redressal committee in place. All Employees, Union and 
+its representative may raise their concerns via several committees.
+Other than Permanent Workers
+Permanent Employees
+Other than Permanent Employees
+7.	
+Membership of employees and worker in association(s) or Unions recognized by the listed entity:
+Category
+FY 2022-23
+(Current Fnancial Year)
+FY 2021-22
+(Previous Fnancial Year)
+Total employees / 
+workers in respec­
+tive category 
+(A)
+No. of employees / 
+workers in respec­
+tive category, who 
+are part of associa­
+tion(s) or Union 
+(B)
+% (B / A)
+Total employ­
+ees / workers 
+in respective 
+category 
+(C)
+No. of employees / 
+workers in respec­
+tive category, who 
+are part of associa­
+tion(s) or Union 
+(D)
+% (D / C)
+Total 
+Permanent 
+Employees
+1064
+0
+0%
+804
+0
+0%
+Male
+1001
+0
+0%
+762
+0
+0%
+Female
+63
+0
+0%
+42
+0
+0%
+Total 
+Permanent 
+Workers
+507
+233
+46%
+507
+213
+42%
+Male
+484
+229
+47%
+484
+211
+44%
+Female
+23
+4
+17%
+23
+2
+9%
+8.	
+Details of training given to employees and workers:
+Category
+FY 2022-23
+Current Fnancial Year
+FY 2021-22
+Previous Fnancial Year
+Total
+(A)
+On Health and safe­
+ty measures
+On Skill upgradation
+Total
+(D)
+On Health and
+safety measures
+On Skill
+upgradation
+No. (B)
+% (B / 
+A)
+No. (C)
+% (C / 
+A)
+No. (E)
+% (E / 
+D)
+No. (F)
+% (F 
+/ D)
+Employees
+Male
+1066
+956
+90%
+658
+62%
+774
+671
+87%
+615
+79%
+Female
+72
+57
+79%
+45
+63%
+43
+26
+60%
+27
+63%
+Total 
+Employees
+1138
+1013
+89%
+703
+62%
+817
+697
+ 85%
+642
+ 79%
+Workers
+Male
+529
+476
+90%
+423
+80%
+526
+428
+81%
+347
+66%
+Female
+33
+30
+91%
+26
+79%
+33
+21
+64%
+19
+58%
+Total
+562
+506
+90%
+449
+80%
+559
+449
+ 80%
+366
+65%
+84 | Sandhar Technologies Limited
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2022-23
+Current Fnancial Year
+FY 2021-22
+Previous Fnancial Year
+Total (A)
+No. (B)
+% (B)/(A)
+Total (C)
+No.(D)
+%(D)/ (C)
+Employees
+Male
+1066
+1028
+96%
+774
+729
+94%
+Female
+72
+64
+89%
+43
+38
+88%
+Total
+1138
+1092
+96%
+817
+767
+94%
+Workers
+Male
+529
+503
+95%
+526
+512
+97%
+Female
+33
+31
+94%
+33
+31
+94%
+Total
+562
+534
+95%
+559
+543
+97%
+10.	 Health and safety management system:
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, the 
+coverage of such system? 
+	
+Yes, the occupational health and safety management system has been implemented by the Company. The coverage of such 
+occupational health and safety management system is as per EHS 45001 : 2018, which covers Hazard identification and risk 
+assessment, Emergency preparedness and response , Continual improvement, Performance monitoring and measurement, & 
+Legal and regulatory compliance,
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity?
+	
+A well-defined process Hazard Identification & Risk Assessment (HIRA) as per EHS ISO 45001:2018 is there for manual 
+monitoring of and to identify occupational health and safety hazard & their associated risk of the workers though Internal & 
+External Auditors.
+	
+Hazard Identification Risk Assessment (HIRA) is the process of defining and describing risks by characterising their probability, 
+frequency, and severity, as well as assessing undesirable outcomes, such as potential losses and injuries. It provides a factual 
+basis for activities included in the business safety strategy to reduce losses from identified workplace hazards.
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks. (Y/N)
+	
+Yes, we have defined processes in place for workers to report the work-related hazards and to remove themselves from such 
+risks at Plant level according to the nature of operations. 
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No)
+	
+Yes, the employees/workers of the Company have access to non-occupational medical and healthcare services.
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2022-23
+Current
+Fnancial Year
+FY 2021-22
+Previous
+Fnancial Year
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours 
+worked)
+Employees
+0
+0
+Workers
+4
+20
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+2
+3
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health (excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+85 | Sandhar Technologies Limited
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+STL emphasizes the need to provide a safe and healthy working environment for all employees and workers. The following safety 
+measures have been implemented by the Company to ensure a safe and healthy workplace:
+•	
+Regular safety trainings are being provided to employees
+•	
+Regular Fire Mock Drills are being conducted
+•	
+First-Aiders Training
+•	
+Ten minutes awareness session on health and safety are being conducted during tea-break 
+•	
+Safety Near Miss Incident capture, POKA Yoke (means it is Error Proofing solution to eliminate error in future), RCA (Root 
+Cause Analysis) for Incident, QC (Quality Circle) Kaizen  
+•	
+Safety Week is arranged.
+13.	 Number of Complaints on the following made by employees and workers:
+FY 2022-23
+Current Fnancial Year
+FY 2022-21
+Previous Fnancial Year
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Working conditions
+Nil
+ Nil
+-
+Nil
+Nil
+ -
+Health & Safety
+Nil
+Nil
+-
+Nil
+Nil 
+ -
+14.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or 
+third parties)
+Health and Safety practices
+10.71%*
+Working Conditions
+10.71%*
+*During the Fnancial Year 2022-23, out of the total plants and offices, 3 plants were assessed by the Statutory Authorities viz. Joint 
+Director of Factories.
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / 
+concerns arising from assessments of health & safety practices and working conditions.
+	
+At STL, workplace safety is one of the top considerations. We have always prioritized creating a culture of safety, while emphasizing 
+individual accountability. All safety-related incidents are examined, and the findings of the investigations are communicated 
+throughout the organization in order to implement corrective actions to prevent future mishaps. During the year, one such health 
+related incident was observed and to address the same the Company has installed machine guards along with sensor installed as a 
+corrective action to avoid similar incidents in the future.
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) Workers 
+(Y/N).
+Yes, the Company extends life insurance and compensatory package in the event of death of Employees and Workers. 
+Further, in case of Accidental Death, Group Personal Accident Policy is also there in place.
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value chain 
+partners.
+	
+The Company takes due care to ensure that the statutory dues applicable are deducted and deposited by the value chain partners. The 
+Company’s Supplier Code of Conduct outlines the specifics. To support business responsibility principles and ideals of transparency 
+and accountability, all supply chain partners are required to adhere to it in every way. Some of the measures undertaken by the 
+Company to ensure that statutory dues have been deducted and deposited by these value chain partners includes:
+•	
+Inspection of the GST portal as automated by the GST authorities to ensure GST payments
+•	
+Periodic examination of the relevant forms and returns for ensuring tax related compliances.
+•	
+Additionally, a check on compliances is maintained through monthly MIS and quarterly internal HR Audits.
+86 | Sandhar Technologies Limited
+3.	
+Provide the number of employees / workers having suffered high consequence work related injury / ill-health / fatalities (as reported 
+in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment or whose family members 
+have been placed in suitable employment:
+Total no. of affected employees/ workers
+No. of employees/workers that are rehabilitated and 
+placed in suitable employment or whose family mem­
+bers have been placed in suitable employment
+FY 2022-23
+(Current Fnancial Year)
+FY 2021-22
+(Previous Fnancial Year)
+FY 2022-23
+(Current Fnancial Year)
+FY 2021-22
+(Previous Fnancial Year)
+Employees
+0
+0
+0
+0
+Workers
+0
+0
+0
+0
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management of career endings 
+resulting from retirement or termination of employment? (Yes/ No)
+	
+Yes, the Company provide transition assistance programs to facilitate continued employability and the management of career 
+endings resulting from retirement or termination of employment on merits.
+5.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were assessed
+Health and Safety practices
+60% of buying value of top 100 Suppliers
+Working conditions
+90% buying value addressable suppliers are being assessed through system audit
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments of health 
+and safety practices and working conditions of value chain partners.
+	
+As mentioned above, the Company continues to conduct QAV audit action plans to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of assessed value chain partners. 
+	
+Major risks and concerns which were generally observed were related to following areas: 
+•	
+Washroom conditions;
+•	
+Shop floor conditions;
+•	
+Safety conditions such as loose wire, non - wearing of Personal Protective Equipment (PPE);
+• 	
+Wages – PF, ESI.
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Key Stakeholders are identified as all the individuals, organisations and institutions who are connected with the Company and have 
+material influence on the Company or how they are materially influenced by the Company’s corporate decisions and the results of 
+those decisions.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder 
+Group
+Whether 
+identified 
+as Vul­
+nerable & 
+Margin­
+alized 
+Group 
+Yes/No)
+Channels of communication  (Email, SMS, 
+Newspaper, Pamphlets, Advertisement, 
+Community Meetings, Notice Board, Website), 
+Other
+Frequency of 
+engagement 
+(Annually/ 
+Half yearly/ 
+Quarterly 
+/ others 
+– please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+BOD, KMP, 
+Investors, 
+Shareholders
+No
+Email, Board Meetings, Analyst meets and 
+conference 
+calls, 
+Annual 
+General 
+Meeting, 
+Official communication channels: Newspaper 
+publications, website and Investor meetings
+At least once 
+in a Quarter 
+To inform about Company’s 
+current performance and 
+future plans
+87 | Sandhar Technologies Limited
+Stakeholder 
+Group
+Whether 
+identified 
+as Vul­
+nerable & 
+Margin­
+alized 
+Group 
+Yes/No)
+Channels of communication  (Email, SMS, 
+Newspaper, Pamphlets, Advertisement, 
+Community Meetings, Notice Board, Website), 
+Other
+Frequency of 
+engagement 
+(Annually/ 
+Half yearly/ 
+Quarterly 
+/ others 
+– please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Various 
+Income tax 
+Authority, 
+Regulatory, 
+Auditors
+No
+Through Email or as convenient communication 
+mode with even online communication
+As & when 
+required
+To meet Tax compliance 
+(Income tax audit, Transfer 
+pricing audit, Annual Income 
+tax return, Income tax 
+assessment, Monthly and 
+Annual GST returns etc.)
+Suppliers
+No
+Vendor assessment, Review and upgradation
+Trainings, Supplier audits through
+official communication
+channels: mails, oracle & SQM Portal.
+As & when 
+required
+1. To upgrade suppliers.
+2. To get better services in 
+terms of QCD parameters.
+3. To address the grievances of 
+suppliers
+4. To have adjustment of Price 
+revision
+Govt. Bodies, 
+Consultants
+No
+Guidelines through mails, publications, plant 
+assessment review, Plant audit
+Annually
+1	 To meet environment 
+pollution norms.
+2. 	To achieve plant operation 
+norms.
+3. 	To improve working 
+condition of plant & 
+minimise impact on society
+4. 	To have required NOCs for 
+the operation of the plant 
+like Fire NOC, Building 
+Completion etc.
+Manpower, 
+Consultants, 
+Govt Bodies
+No
+Communication through
+Mails, HR Kaleidoscope 
+Annually
+1. To Communicate 
+Performance & Scope of 
+improvement so able to 
+deliver better services.
+2. To address the grievances of 
+Service Providers.
+3. To ensure the compliances as 
+per applicable laws. 
+Customers, 
+Suppliers, 
+Employees, 
+Top 
+Management, 
+Government 
+Agencies, 
+Certification 
+Agency, 
+Auditors, 
+Job Work 
+Suppliers, 
+Trainers etc 
+are key stake 
+holders
+No
+E- Mails, meetings, Phone calls, Audit reports, 
+Feedback reports, Survey, etc.
+As per the 
+requirements 
+on regular 
+basis
+Business discussion related to 
+QCDD (Quality, Cost, Delivery 
+and Development activities)
+Communities
+Yes
+Community meetings, personal visits by project 
+representatives.
+As & when 
+required
+Promote activities to raise 
+awarenesson green, safe and 
+sustainable living , education, 
+empowering communities 
+for economic progress and 
+inclusive prosperity.
+88 | Sandhar Technologies Limited
+Leadership Indicators
+1. 	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or if 
+consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+Appropriate reference to SEBI’s Circular on Business Responsibility and Sustainability Reporting (BRSR) has been made and the 
+specific requirements w.r.t. the Consultation between Stakeholders and Board Members on ESG related matter for the Company 
+have been recognised.
+	
+Process initiation commences with a comprehensive listing of all the possible stakeholders and ESG related matters applicable to the 
+Company and mapping of these to relevant business divisions. 
+	
+Process of consultation is delegated through the Senior Leadership Team (SLT) comprising of business heads and the Managing 
+Director who meet at regular frequency. They in-turn keep the board informed.
+	
+The Company’s management regularly interacts with key stakeholders i.e investors, customers, suppliers, employees etc. The 
+Company has Risk Management Committee, Stakeholder Relationship Committee and CSR Commitee that updates the progress of 
+actions in respect to economic, environmental, and social topics to the Board and takes inputs on a regular basis.
+2.  	 Whether stakeholder consultation is used to support the identification and management of environmental, and social topics (Yes / 
+No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into policies 
+and activities of the entity.
+	
+Yes, the Company has always maintained a consistent and proactive contact with its key stakeholders, enabling it to effectively 
+identify and handle environmental and social topics. Engagement with stakeholders, in our opinion, promotes more accountability, 
+compliance, organizational learning, quality management, and sustainability. Based on the feedback received from the stakeholders, 
+the Company has adopted major policy and procedural improvements and identified key environmental and social topics, which 
+includes undertaking of the following programs:
+A. 	 Details of Instances of Stakeholders feedbacks being incorporated into policies & activities
+•	
+ Human Capital Development 
+-	
+Based on the feedback from all employees and workers for a need for training and development, group devised a T&D 
+calendar to provide a minimum of 40 hours of T&D per year to all Company employees, contractual and Company 
+Associates.
+•	
+ Access to Healthcare
+-	
+Employees: Apart from Group accidental insurance policy that covers all employees, we initiated doctor visits and 
+annual health check-ups at all locations as per the requirements stated by the business locations.
+B. 	 Details of Instances from Environmental Domain
+•	
+Carbon Emissions
+	
+Stakeholders: In line with consciousness reverberated by the Board of Directors, our OEMs and civil society, we have 
+installed Solar Power Plants of the capacity of 2833 KW which can mitgate upto 2294.73 MT of CO2 through green energy 
+uses till March, 2023.
+•	
+Hazardous waste
+	
+The limited hazardous waste which is generated through our processes are hydraulic oil ETP sludge and paint sludge. Being 
+responsible business users, we dispense paint sludge for input consumption by cement industry. Hydraulic Oil is disposed 
+through authorised vendors only.
+	
+Multiple departments within the organisation are responsible for engaging with stakeholders on Continuous basis. The 
+domains of E, S & G are the most important issues and are reviewed on an annual basis for management process, risk 
+assessment and strategic objectives.                
+3.  	 Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized 
+stakeholder groups.
+	
+Details of Instances to act on concerns of Vulnerable/Marginalized groups.
+	
+ Human Capital Development
+*-	
+ Communities: Based on feedback from community parents, our CSR team undertook to set up Sandhar Centres of Learning 
+89 | Sandhar Technologies Limited
+implementing Remedial Education Programs in government schools to augment the learning levels of less privileged girl 
+students by supporting them with pedagogy, improved infrastructure and sanitation (WASH), mental health counselling and 
+capacity building for enhanced employability.
+	
+Access to Healthcare
+-	
+Stakeholders - Communities: Recognising the needs from the village communities around village Begumpur Khatola (Haryana) 
+and recommendation from the Village Panchayat, we set up Sandhar Healthcare Centre to provide preventive health care which 
+has benefitted more than one lac OPD since inception. Centre also organises free health check-up camps and active referral 
+facilitations to Primary health centres, ESI & Government hospitals in case of tertiary treatment. 
+PRINCIPLE 5 Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following format:
+Category
+FY 2022-23
+Current Fnancial Year
+FY 2021-22
+Previous Fnancial Year
+Total (A)
+No. of 
+employees 
+/ workers 
+covered 
+(B)
+% (B / A)
+Total (C)
+No. of 
+employees 
+/ workers 
+covered 
+(D)
+% (D / C)
+Employees
+Permanent
+1064
+827
+78%
+804
+580
+72%
+Other than permanent
+74
+69
+93%
+13
+10
+77%
+Total Employees
+1138
+896
+79%
+817
+590
+72%
+Workers
+Permanent
+507
+461
+91%
+507
+435
+86%
+Other than permanent
+55
+47
+85%
+52
+34
+65%
+Total Workers
+562
+508
+90%
+559
+469
+84%
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2022-23
+Current Fnancial Year
+FY 2021-22
+Previous Fnancial Year
+Total
+(A)
+Equal to Mini­
+mum Wage
+More than Mini­
+mum Wage
+Total
+(D)
+No. (E)
+Equal to Minimum 
+Wage
+More than Mini­
+mum Wage
+No. (B)
+% (B /A)
+No. (C)
+% (C / A)
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+Permanent
+1064
+0
+0%
+1064
+100%
+804
+0
+0%
+804
+100%
+Male
+1001
+0
+0%
+1001
+100%
+762
+0
+0%
+762
+100%
+Female
+63
+0
+0%
+63
+100%
+42
+0
+0%
+42
+100%
+Other than 
+permanent
+74
+0
+0%
+74
+100%
+13
+0
+0%
+13
+100%
+Male
+65
+0
+0%
+65
+100%
+12
+0
+0%
+12
+100%
+Female
+9
+0
+0%
+9
+100%
+1
+0
+0%
+1
+100%
+Workers
+Permanent
+507
+20
+4%
+487
+96%
+507
+24
+5%
+473
+93%
+Male
+484
+20
+4%
+464
+96%
+484
+24
+5%
+450
+93%
+Female
+23
+0
+0%
+23
+100%
+23
+0
+0%
+23
+100%
+Other than 
+permanent
+55
+0
+0%
+55
+100%
+52
+0
+0%
+52
+100%
+Male
+45
+0
+0%
+45
+100%
+42
+0
+0%
+42
+100%
+Female
+10
+0
+0%
+10
+100%
+10
+0
+0%
+10
+100%
+90 | Sandhar Technologies Limited
+3.	
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of respec­
+tive category (in Rs.)
+Number
+Median remuneration/ 
+salary/ wages of respec­
+tive category (in Rs.)
+Board of Directors (BoD)
+ 7*
+400000
+2
+512500
+Key Managerial Personnel
+2*
+30886941
+1
+2654028
+Employees other than BoD and KMP
+1064
+529806
+71
+506074
+Workers
+529
+363486
+33
+213768
+	
+*Managing Director’s remuneration considered in calculation of median remuneration of KMPs and not in Board of Directors.
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed 
+to by the business? (Yes/No)
+	
+Yes, the Company has a team of senior leaders who meet periodically and discuss all the human rights impacts or issues related to 
+business and it is not just limited to legal, HR etc.	
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+In order to ensure that honest and ethical business and employment practices are followed, the Company views respect for human 
+rights as one of its essential and core values. Regardless of one’s ethnicity, gender, race, caste, religion etc., the Company is dedicated 
+to creating a secure work environment. To maintain this environment, the Company has following internal mechanisms in place to 
+redress grievances related to human rights issues: 
+•	
+Code of Conduct for Employees
+•	
+POSH Policy
+•	
+Grievance Redressal Policy 
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2022-23
+ Current Fnancial Year
+FY 2021-22
+Previous Fnancial Year
+Filed 
+during 
+the year
+Pending resolu­
+tion at the end 
+of year
+Remarks
+Filed 
+during the 
+year
+Pending res­
+olution at the 
+end of year
+Remarks
+Sexual Harassment
+Nil
+Nil
+-
+Nil
+Nil
+-
+Discrimination at workplace
+Nil
+Nil
+-
+Nil
+Nil
+-
+Child Labour
+Nil
+Nil
+-
+Nil
+Nil
+-
+Forced Labour/Involuntary Labour
+Nil
+Nil
+-
+Nil
+Nil
+-
+Wages
+Nil
+Nil
+-
+Nil
+Nil
+-
+Other human rights related issues
+Nil
+Nil
+-
+Nil
+Nil
+-
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+The Company has a detailed Grievance Redressal Policy and Policy on Prevention of Sexual Harassment of Women at Workplace, to 
+prevent adverse consequences to the complainant in discrimination and harassment cases, which contains specific clauses as to how 
+such concerns would be handled in a confidential manner.
+8.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes, the Company’s Code of Conduct for Suppliers and Contractors contains facets for human rights requirement.
+91 | Sandhar Technologies Limited
+9.	
+Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labour
+All the plants and offices were assessed during the internal safety and 
+compliance audits conducted by the Company / statutory authorities, 
+ensuring compliance with all the Statutory Laws / Regulatory Requirements 
+including applicable Labour Laws.
+Forced/ Involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others- please specify
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at 
+Question 9 above.
+	
+Not Applicable.
+Leadership Indicators
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints.
+	
+There being no human right issues in the Fnancial Year 2022-23, no business process were modified/introduced.
+2.	
+Details of the scope and coverage of any Human rights due diligence conducted.
+	
+During the current Fnancial Year, no such Human Rights Due-Diligence was conducted.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with 
+Disabilities Act, 2016?
+	
+The premises / offices of the Company are largely accessible to differently abled visitors, barring some of the locations, where it is 
+practically not possible. However, the Company is attempting to make more improvements to the current system.
+4.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that 
+were assessed
+Sexual harassment
+Acknowledgment from supplier for “Supplier Code of Conduct” from 40% of 
+buying value of top 100 assessed value chain partners at the time of on boarding of 
+suppliers.
+Discrimination at workplace
+Child labour
+Forced/ Involuntary labour
+Wages
+Others- please specify
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at 
+Question 4 above.
+	
+No significant risks / concerns were observed arising from such assessments.
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment.
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2022-23
+(Current Fnancial Year)
+FY 2021-22
+(Previous Fnancial Year)
+Total electricity consumption (A) (in Giga Joule) (From Non-
+Renewable Sources)
+129224.71
+165485
+Total fuel consumption (B) (in Giga Joule)
+10325.87
+3271.97
+Energy consumption through other sources (C) (in Giga Joule) 
+(From Renewable Sources)
+6809.23
+7984.90
+Total energy consumption (A+B+C) (in Giga Joule)
+146359.81
+176741.87
+Energy intensity per rupee of turnover 
+(Total energy consumption/ turnover in rupees)
+0.00001
+0.00001
+92 | Sandhar Technologies Limited
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade (PAT) 
+Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. In case 
+targets have not been achieved, provide the remedial action taken, if any.
+	
+Not Applicable, as the Company does not have any sites / facilities identified as DCs under the PAT Scheme of the Government of 
+India.
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-23
+(Current Fnancial 
+Year)
+FY 2021-22
+(Previous 
+Fnancial Year)
+Water withdrawal by source (in kilolitres)
+ 
+ 
+(i) Surface water
+0
+0
+(ii) Groundwater
+158187.20
+129153.10
+(iii) Third party water
+68031
+104613.55
+(iv) Seawater/Desalinated water
+0
+0
+(v) Others
+0
+0
+Total volume of water withdrawal
+(in kilolitres) (i + ii + iii + iv + v)
+226218.20
+233766.65
+Total volume of water consumption 
+(in kilolitres)
+226218.20
+218415.20
+Water intensity per rupee of turnover 
+(Water consumed / turnover)
+0.00001
+0.00001
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.
+	
+Yes. The proper management of water resources both inside and outside of its functioning areas is recognised as being necessary by 
+the Company. All stakeholders’ access to water is ensured while efforts are made to increase its efficiency. 
+	
+STL has Zero Liquid Discharge  system in the 6 major units, with Rotary Evaporator & Solar Evaporator. In other units Effluent 
+Treatment Plants (ETPs) and Sewage Treatment Plants (STP) are installed. The treated water is re-used for gardening and other non-
+potable uses.
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please 
+specify unit
+FY 2022-23
+(Current Fnancial Year)
+FY 2021-22
+(Previous Fnancial Year)
+NOx
+MT
+0.0599912
+0.003749
+SOx
+MT
+0.0328984
+0.00031
+Particulate Matter (PM)
+MT
+0.00034836
+0.000839
+Persistent Organic Pollutants (POP)
+NA
+NA
+Volatile Organic Compounds (VOC)
+NA
+NA
+Hazardous Air Pollutants (HAP)
+NA
+NA
+Others-please specify
+NA
+NA
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+93 | Sandhar Technologies Limited
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY 2022-23
+(Current Fnancial Year)
+FY 2021-22
+(Previous Fnancial Year)
+Total Scope 1 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+Metric 
+tonnes 
+of CO2 
+equivalent
+6592.02
+The Company has initiated 
+its carbon calculation in 
+the year 2022-23 and shall 
+continue the same in the 
+upcoming years to attain 
+the target of net zero.
+Total Scope 2 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+Metric 
+tonnes 
+of CO2 
+equivalent
+41480.59
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover
+Metric 
+tonnes of 
+CO2 per 
+Rupees
+0.000001
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+	
+Yes, as a responsible business owner, STL strives to improve resource efficiency, wherein the Company has undertaken the following 
+projects related to reduction of Green House Gas emission:
+•	
+Installed solar systems at various units, from which 20% of the electricity comes in.
+•	
+Adopted Variable Frequency Drives (VFD) for air compressor for energy saving.
+•	
+Installed ETP recycling units for conservation of water.
+•	
+LED lights are being used at all the units, thereby resulting in energy saving.
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-23
+(Current Fnancial Year)
+FY 2021-22
+(Previous Fnancial Year)
+Total waste generated (in metric tonnes)
+Plastic waste (A)
+500.86
+445.27
+E-waste (B)
+0.68
+0
+Bio-medical waste (C)
+0
+0
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+0
+0
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any. (G) (ETP sludge &Hydraulic 
+waste oil)
+450.58
+190.95
+Other Non-hazardous waste generated (H). Please specify, if only
+(Break-up by composition i.e. by materials relevant to the sector) (Waste 
+Paper, Board, Furniture)
+89.68
+106.96
+Total (A+B + C + D + E + F + G + H)
+1041.80
+743.18
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in 
+metric tonnes)
+Category of waste
+(i) Recycled
+500.56
+445.27
+(ii) Re-used
+0
+0
+(iii) Other recovery operations
+0
+0
+Total
+500.56
+445.27
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) Incineration
+0
+0
+(ii) Landfilling
+0
+0
+(iii) Other disposal operations
+541.24
+297.27
+Total
+541.24
+297.27
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+94 | Sandhar Technologies Limited
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your Company 
+to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to manage such wastes.
+	
+The Company has implemented a waste management policy that supports the Company’s operations by segregating waste at the 
+source and carrying out the following practices: 
+•	
+Waste prevention
+•	
+Reusing waste 
+•	
+Recycling waste 
+•	
+Responsible disposal of waste
+	
+Furthermore at Company level, we use a hierarchy of waste reduction to implement the concepts of the circular economy, covering 
+the aspects of Recover, Reduce, Reuse & Recycle including the following areas: 
+•	
+Recovering resources as much as possible 
+•	
+Reducing usage of natural resources and materials
+•	
+Reusing waste wherever practicable
+•	
+Recycling materials whenever possible 
+	
+With respect to hazardous wastes, these are managed in accordance with the applicable Regulations (State Pollution Control Board 
+(SPCB)/Central Pollution Control Board (CPCB) Rules and Guidelines). As per these Regulations, all of these items are handled, 
+delivered, recycled, stored and disposed of through licenced agencies. Further, proper records are being maintained for all types of 
+hazardous waste and its movement. 
+	
+With respect to non-hazardous wastes, over the period, the Company has devised specific solutions to handle and dispose of non-
+hazardous waste in the most efficient available mechanism. These solutions require either no or very low investment, to achieve 
+advancement both commercially and environmentally. For example, to eliminate the need for wood pallets for delivering the 
+products, we have started using the recycled cardboard boxes as a filler for packaging material. Use of reusable pallets and recycling 
+programmes for paper and plastic are some of the other initiatives. 
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere 
+reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are 
+required, please specify details in the following format:
+S. No.
+Location of 
+operations/
+offices
+Type of 
+operations
+Whether the conditions of envi­
+ronmental approval / clearance are 
+being complied with? (Y/N) 
+If no, the reasons thereof and correc­
+tive action taken, if any
+Not Applicable, as the Company does not have any operations/offices in/around ecologically sensitive areas.
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current Fnancial 
+Year:
+Name and brief 
+details of project
+EIA Notification 
+No.
+Date
+Whether conducted by 
+independent external 
+agency (Yes/No)
+Results communicated in 
+public domain (Yes / No)
+Relevant 
+web link
+Not Applicable
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention and 
+Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment Protection Act and rules thereunder (Y/N). If 
+not, provide details of all such non-compliances, in the following format:
+	
+Yes, the Company is compliant with all the applicable environmental laws/ regulations/ guidelines in India.
+95 | Sandhar Technologies Limited
+S. No.
+Specify the law 
+/ regulation / 
+guidelines which 
+was not complied 
+with
+Provide details 
+of the non-
+compliance
+Any fines / penalties / 
+action taken by regulatory 
+agencies such as pollution 
+control boards or by courts
+Corrective 
+action 
+taken, if 
+any
+Not Applicable, since there is no non-compliance with the applicable environmental laws/ regulations/ guidelines in India.
+Leadership Indicators
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, in the following 
+format:
+Parameter
+FY 2022-23
+(Current Fnancial Year)
+FY 2021-22
+(Previous Fnancial Year)
+From renewable resources
+Total electricity consumption (A) (Giga Joule)
+0
+0
+Total fuel consumption (B)
+0
+0
+Energy consumption through other sources (C)
+6809.13
+7984.94
+Total energy consumed from renewable sources (A+B+C) (Giga Joule)
+6809.13
+7984.94
+From non-renewable resources
+Total electricity consumption (D) (Giga Joule)
+129224.71
+165485.02
+Total fuel consumption (E)
+10325.87
+3272
+Energy consumption through other sources (F)
+0
+0
+Total energy consumed from non-renewable sources (D+E+F) (Giga 
+Joule)
+139550.58
+168757.02
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+2.	
+Provide the following details related to water discharged:
+Parameter
+FY 2022-23
+(Current Fnancial Year)
+FY 2021-22
+(Previous Fnancial Year)
+Water discharge by destination and level of treatment (in kilolitres)
+(i) To Surface water
+3556.80
+0
+- No treatment
+ 
+ 
+- With treatment – please specify level of treatment
+As 
+per 
+State 
+Pollution 
+Control 
+Board 
+(SPCB)/
+Central Pollution Control 
+Board (CPCB) Guidelines, 
+wastewater 
+generated 
+is 
+treated 
+in 
+Sewage 
+Treatment Plant. 
+As per State Pollution 
+Control 
+Board 
+(SPCB)/
+Central Pollution Control 
+Board (CPCB) Guidelines, 
+wastewater 
+generated 
+is 
+treated 
+in 
+Sewage 
+Treatment Plant.
+(ii) To Groundwater
+0
+0
+- No treatment
+- With treatment – please specify level of treatment
+(iii) To Seawater
+0
+0
+- No treatment
+- With treatment – please specify level of treatment
+(iv) Sent to third-parties
+0
+0
+- No treatment
+- With treatment – please specify level of treatment
+(v) Others
+0
+0
+- No treatment
+ 
+ 
+- With treatment – please specify level of treatment
+ 
+ 
+Total water discharged (in kilolitres)
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+96 | Sandhar Technologies Limited
+3.   	 Water withdrawal, consumption and discharge in areas of water stress (in kilolitres): 
+	
+For each facility / plant located in areas of water stress, provide the following information:
+(i)	
+Name of the area: Bawal, Gurugram, Bengaluru, Tijara, Jaipur
+(ii)	 Nature of operations: Manufacturing of Auto Components.
+(iii)	 Water withdrawal, consumption and discharge in the following format:
+Parameter
+FY 2022-23
+(Current Fnancial Year)
+FY 2021-22
+(Previous Fnancial Year)
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+0
+0
+(ii) Groundwater
+0
+0
+(iii) Third party water
+68031
+89262
+(iv) Seawater / desalinated water
+0
+0
+(v) Others
+0
+0
+Total volume of water withdrawal (in kilolitres)
+68031
+89262
+Total volume of water consumption (in kilolitres)
+68031
+89262
+Water intensity per rupee of turnover (Water consumed / turnover)
+0.000003
+0.000003
+Water intensity (optional) – the relevant metric may be selected by the 
+entity
+ 
+ 
+Water discharge by destination and level of treatment (in kilolitres)
+(i) Into Surface water
+3556.80
+NA
+- No treatment
+ 
+ 
+- With treatment – please specify level of treatment
+As per State Pollution 
+Control Board (SPCB)/
+Central Pollution Control 
+Board (CPCB) Guidelines, 
+waste water generated 
+is 
+treated 
+in 
+Sewage 
+Treatment Plant.
+As per State Pollution 
+Control Board (SPCB)/
+Central Pollution Control 
+Board (CPCB) Guidelines, 
+waste water generated 
+is 
+treated 
+in 
+Sewage 
+Treatment Plant.
+(ii) Into Groundwater
+0
+0
+- No treatment
+ 
+ 
+- With treatment – please specify level of treatment
+ 
+ 
+(iii) Into Seawater
+0
+0
+- No treatment
+ 
+ 
+- With treatment – please specify level of treatment
+ 
+ 
+(iv) Sent to third parties
+0
+0
+- No treatment
+ 
+ 
+- With treatment – please specify level of treatment
+ 
+ 
+(v) Others
+0
+0
+- No treatment
+ 
+ 
+- With treatment – please specify level of treatment
+ 
+ 
+Total water discharged (in kilolitres)
+3556.80
+NA
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency- No
+4.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY 2022-23
+(Current Fnancial Year)
+FY 2021-22
+(Previous Fnancial Year)
+Total Scope 3 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+Scope-3 emissions are not considered by the Company 
+presently. The Company is in the process of laying 
+down the roadmap in the near future.
+Total Scope 3 emissions per rupee of turnover
+Total Scope 3 emission intensity (optional) – the 
+relevant metric may be selected by the entity
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+97 | Sandhar Technologies Limited
+5. 	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details of significant 
+direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities.
+	
+Not Applicable, as the Company does not have any operations/offices in/around ecologically sensitive areas.
+6. 	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or 
+reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as outcome of such 
+initiatives, as per the following format:
+Initiative undertaken
+Details of the initiative (Web-link, if any, 
+may be provided along-with summary)
+Outcome of the initiative
+1.	
+Installed VFD’s all over the Units
+2.	
+Solar Panels installed at the various 
+units for electricity generation.
+3.	
+Waste water treatment Plant 
+installation
+4.	
+Installed LED lights
+	
+“As a responsible business owner, 
+Sandhar Group strives to improve 
+resource efficiency.
+1.	
+Adopted VFD for air compressor for 
+energy saving.
+2.	
+20% of the electricity comes from 
+solar systems installed in various 
+units.
+3.	
+We installed ETP recycling units for 
+conservation of water.
+4.	
+LED lights has been used for all the 
+units.
+1.	 Installation of VFD’s has resulted in 
+saving of energy consumption equal 
+to1107736 KWH over the year, which 
+has further resulted in reduction of 
+941.57 ton of CO2.
+2.	 CO2 emission reduction of approx. 
+1607.7 Ton by the Solar panel.
+3.	 Reduction in usage of freshwater 
+consumption.
+4.	 Reduction in energy consumption.
+7. 	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+    	
+We at STL have a Business Continuity Policy, which is available on the Company’s Intranet. The purpose of having such Policy is to 
+make sure that, in the event of an occurrence that might disrupt or endanger the Company, all business operations can be maintained 
+at normal or nearly-normal performance levels.
+8. 	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or adaptation 
+measures have been taken by the entity in this regard. 
+	
+There is no major environmental impact resulting from the Company’s value chain (sourcing suppliers assessed for this purpose). 
+Since we are mindful of the environmental consequences across the value chain, every supplier of ours is required to sign and abide 
+by the Supplier’s Code of Conduct. The Suppliers of the Company are expected to adhere to the compulsory Code of Conduct and 
+further make attempt to inculcate the principles of the said Code of Conduct further in its supply chain.
+9. 	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental impacts.
+STL has assessed 40% of its top 100 suppliers for environmental impacts.
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible and 
+transparent
+Essential Indicators
+1.	
+a	
+ Number of affiliations with trade and industry chambers/ associations: 9
+b.	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the entity is a 
+member of/ affiliated to.
+S. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ associations 
+(State/National)
+1
+Automotive Component Manufacturers Association
+National
+2
+Confederation of Indian Industry MSME National Council
+National
+3
+Confederation of Indian Industry (CII) 
+National
+4
+Innovation Council, Govt. of Haryana
+State
+5
+Quality Circle Forum of India (QCFI)
+National
+6
+Employers Federation of India
+National
+7
+National Safety Council
+National
+8
+Gurgaon Industrial Association (GIA)
+State
+9
+Indian Construction Equipment Manufacturers’ Association
+National
+98 | Sandhar Technologies Limited
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, based on 
+adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+Not Applicable, since the Company has not received any adverse order from any regulatory authorities on any issues relating to 
+anti-competitive conduct.
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity:
+S.No.
+Public policy 
+advocated
+Method resorted 
+for such advocacy
+Whether information 
+available in public 
+domain? (Yes/No)
+Frequency of Review by 
+Board 
+(Annually/ Half yearly/ 
+Quarterly / Others – 
+please specify)
+Web Link, if 
+available
+The Company does not engage in influencing regulatory policy. However, the Company practices proactive advocacy not for securing 
+certain benefits for industry, but for advocating certain best practices for the benefit of society at large.
+We believe in adopting best practices and using the common platforms like ACMA, CII and other business forums for the purpose.
+We continuously engage with all our stakeholders including customers and investors. Our endeavour is always to seek their opinion and 
+share our views as a means of two-way communication, including accepting the best of the industry practices to make our Company 
+better place to work.
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current Fnancial Year.
+Name and brief 
+details of project
+SIA Notification 
+No.
+Date of 
+notification
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes / No)
+Results 
+communicated in 
+public domain 
+(Yes / No)
+Relevant Web link
+Not applicable, as there were no projects that required SIA as per the law in the current year.
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity, in the 
+following format:
+S.No.
+Name of Project for 
+which R&R is ongoing
+State
+District
+No. of Project Affected 
+Families (PAFs)
+% of PAFs 
+covered by R&R
+Amounts paid to PAFs in 
+the FY (In INR)
+Not applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+The Company has designated representatives who visit the communities at stated intervals/ as needed and their feedback/
+suggestions are timely acknowleged & addressed.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2022-23
+Current Fnancial Year
+FY 2021-22
+Previous Fnancial Year
+Directly sourced from MSMEs/ small producers
+56.36%
+31.52%
+Sourced directly from within the district and neighbouring 
+districts
+North Zone: 87%
+North Zone: 81%
+South Zone: 78%
+South Zone: 80%
+West Zone: 72%
+West Zone: 71%
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments (Reference: 
+Question 1 of Essential Indicators above):
+99 | Sandhar Technologies Limited
+Details of negative social impact identified
+Corrective action taken
+Not Applicable
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by 
+government bodies:
+S. No.
+State
+Aspirational District
+Amount spent (In INR)
+The Company has not undertaken any CSR projects in designated aspirational districts as identified by government bodies during 
+the current Fnancial Year.
+3. 	
+(a)	 Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising marginalized 
+/vulnerable groups? (Yes/No)
+	
+No, the Company does not have a preferential procurement policy where it give preference from suppliers comprising 
+marginalised/vulnerable groups .
+(b)	 From which marginalized /vulnerable groups do you procure?
+         Not Applicable.
+(c)	 What percentage of total procurement (by value) does it constitute?
+         Not Applicable.
+4. 	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current Fnancial 
+Year), based on traditional knowledge:
+S. No.
+Intellectual property based on 
+traditional knowledge
+Owned/ Acquired (Yes/
+No)
+Benefit shared 
+(Yes / No)
+Basis of calculating benefit 
+share
+Not Applicable
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein usage 
+of traditional knowledge is involved.
+Name of authority
+Brief of the case
+Corrective action taken
+Not Applicable
+6.	
+Details of beneficiaries of CSR Projects:
+S. 
+No.
+CSR Project
+No. of persons benefitted 
+from CSR Projects
+% of beneficiaries from vulnerable 
+and marginalized groups
+1
+Education
+4,024
+100%
+2
+Health Centre
+14,000
+100%
+3
+Eradicating Hunger & Malnutrition
+250
+100%
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+       The Company obtains customer assessment and feedback through specified platforms as per the Company’s Policy on a regular 
+basis to identify the areas of concern reported. In order to improve customer satisfaction, remedial measures are devised and put 
+into action. To access the overall business objectives, top management compiles, monitors and reviews the success of the actions at 
+predetermined intervals . 
+2.	
+Turnover of products and / or services as a percentage of turnover from all products/service that carry information about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the 
+product
+The Company is in the B2B business, and the products do not reach 
+the customers directly. Hence, the clause is not applicable.
+Safe and responsible usage
+Recycling and/or safe disposal
+100 | Sandhar Technologies Limited
+3.	
+Number of consumer complaints in respect of the following:
+ 
+FY 2022-23
+(Current Fnancial Year)
+Remarks
+FY 2021-22
+(Previous Fnancial Year)
+Remarks
+Received during the 
+year
+Pending resolution 
+at end of year
+Received during 
+the year
+Pending 
+resolution at 
+end of year
+Data privacy
+The Company has not received any 
+consumer complaints with respect to 
+data privacy, advertising, cyber-security, 
+delivery of essential services, restrictive 
+trade practices, unfair trade practices. The 
+complaint in relation to defects relating to 
+the quality of manufactured components/
+parts are insignificant as compared with the 
+total annual volume.
+-
+ 
+ 
+ 
+The Company has not received 
+any 
+consumer 
+complaints 
+with 
+respect to data privacy, advertising, 
+cyber-security, delivery of essential 
+services, restrictive trade practices, 
+unfair trade practices. The complaint 
+in 
+relation 
+to 
+defects 
+relating 
+to the quality of manufactured 
+components/parts are insignificant 
+as compared with the total annual 
+volume.
+-
+Advertising
+Cyber-security
+Delivery of essential 
+services
+Restrictive Trade 
+Practices
+Unfair Trade 
+Practices
+Other
+4.	
+Details of instances of product recalls on account of safety issues
+Number
+Reasons for recall
+Voluntary recalls
+Nil
+Not Applicable
+Forced recalls
+Nil
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a web-link 
+of the policy.
+	
+Yes, the Company has a Policy on Cyber Security and risks related to data privacy, which can be accessed at Company’s Intranet
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; cyber 
+security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory authorities 
+on safety of products / services.
+	
+Not Applicable
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, if available).
+	
+Information on products and services of the Company can be accessed at the Company’s website https://sandhargroup.com/products
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+The Company is supplying child parts/components on B2B basis to OEMs hence, the Company has limited scope for informing and 
+educating the consumers (end-users) about safe and responsible usage of products and/or services.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+Not Applicable, since the Company is not providing any essential services.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/Not 
+Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer satisfaction relating to the 
+major products / services of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No)
+	
+Not applicable, as the Company sells its products to OEMs who in turn use them as parts and components for their finished products.
+	
+Further, as such the Company did not carry out any survey with regard to consumer satisfaction relating to the major products of the 
+Company, significant locations of operation of the Company or the Company as a whole. However, the Company receives feedback 
+from its customers on regular intervals and implements the suggestions for further improvements.
+5.	
+Provide the following information relating to data breaches: 
+a.	
+Number of instances of data breaches along-with impact
+	
+Not Applicable, as no instances of data breaches were identified during the year.
+b.	
+Percentage of data breaches involving personally identifiable information of customers.
+	
+Not Applicable. 
