@@ -1,0 +1,1368 @@
+ 
+ 
+ 
+ 
+August 16, 2022 
+ 
+The Manager- Listing 
+BSE Limited 
+(BSE: 507685) 
+ 
+ 
+The Manager- Listing 
+National Stock Exchange of India Limited, 
+(NSE: WIPRO) 
+ 
+ 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Business Responsibility and Sustainability Report (BRSR) for FY 2021-22 
+ 
+Please find enclosed herewith the Business Responsibility and Sustainability Report 
+(BRSR), which was submitted earlier as a part of our Integrated Annual Report for FY 
+2021-22. 
+ 
+Thanking you, 
+ 
+For Wipro Limited              
+ 
+                                                                                                                         
+G Kothandaraman 
+General Manager- Finance 
+ 
+370
+Wipro Limited | Ambitions Realized
+Business Responsibility and Sustainability Report 2021-22
+Section A: General Disclosures
+	 I.	 Details of the Listed Entity
+1.
+Corporate Identity Number (CIN) of the Listed Entity
+L32102KA1945PLC020800
+2.
+Name of the Listed Entity
+Wipro Limited
+3.
+Year of incorporation
+1945
+4.
+Registered office address
+Doddakannelli, Sarjapur Road, Bengaluru-560035, 
+Karnataka, India
+5.
+Corporate address
+Doddakannelli, Sarjapur Road, Bengaluru-560035, 
+Karnataka, India
+6.
+E-mail
+eco.eye@wipro.com
+7.
+Telephone
++91-80-28440011
+8.
+Website
+https://www.wipro.com
+9.
+Financial year for which reporting is being done
+April 1, 2021 to March 31, 2022 (FY 2021-22)
+10.
+Name of the Stock Exchange(s) where shares are listed
+India- National Stock Exchange of India Limited 
+(NSE) and BSE Limited (BSE)
+USA- New York Stock Exchange (NYSE)
+11.
+Paid-up Capital
+The paid-up equity share capital of the 
+Company as of March 31, 2022, stood at 
+` 10,964 million consisting of 5,482,070,115 
+equity shares of ` 2/- each
+12.
+Name and contact details (telephone, email address) of the person who 
+may be  contacted in case of any queries on the Business Responsibility 
+and Sustainability Report (“BRSR”) report
+Narayan PS
+Global Head - Sustainability and Social Initiatives
+narayan.pan@wipro.com 
+Telephone: +91-80-46827999 
+13.
+Reporting boundary - Are the disclosures under this report made on a 
+standalone basis  (i.e., only for the entity) or on a consolidated basis (i.e., 
+for the entity and all the entities which form a part of its consolidated 
+financial statements, taken together).
+The disclosures under this report are made 
+on a consolidated basis, excluding Capco and 
+its subsidiaries that were acquired during the 
+year.
+	 II.	 Products/Services
+14.	 Details of business activities (accounting for 90% of the turnover): 
+	
+Refer to page no. 48 of the Annual Report.
+15.	 Products/Services sold by the entity (accounting for 90% of the entity’s turnover):
+	
+The Company’s IT and IT-enabled services including, technology consulting, IT consulting, business process services, 
+among others, are the predominant services which accounts for more than 90% of the entity’s turnover. The NIC Code is 
+62013 and 62020. 
+	III.	 Operations
+16.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of Offices + 
+Data Centre
+Total
+National
+NA
+Offices – 36
+Data Centre - 3
+39
+International
+NA
+Offices – 211
+Data Centers – 5
+Warehouses – 2
+Storage – 2
+220
+371
+Integrated Annual Report 2021-22
+Statutory Reports and Financial Statements
+17.	Markets served by the entity: 
+a.	Number of locations
+Locations
+Number
+National (No. of States)
+ 14
+International (No. of Countries)
+ 66
+b.	What is the contribution of exports as a percentage of the total turnover of the entity? 
+	
+97% contribution of exports.
+c.	 A brief on types of customers. 
+	
+Our customers are from a range of diversified industry sectors from across the globe; we also work with the 
+government sector in select markets. 
+IV.	 Employees
+18.	 Details as at the end of Financial Year:
+a.	
+Employees and workers (including differently abled): 
+	
+Refer to details provided in section 2.1 and 2.2 of the ESG Dashboard available on the Company’s website at https://
+www.wipro.com/investors/annual-reports/.
+b.	
+Differently abled Employees and workers: 
+	
+Refer to details provided in section 2.2 of the ESG Dashboard available on the Company’s website at https://www.
+wipro.com/investors/annual-reports/.
+19.	 Participation/Inclusion/Representation of Women 
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+9
+2
+22.22%
+Key Management Personnel*#
+4
+0
+0
+	* Includes Executive Chairman, Chief Executive Officer and Managing Director, Chief Financial Officer and Company Secretary.
+	
+# Our overall gender diversity stands at 36.1% and we heave nearly 20% women in our 200 senior-most leadership ranks.
+20.	 Turnover rate for permanent employees and workers:
+	
+Refer to details provided in section 2.4 of the ESG Dashboard available on the Company’s website at https://www.wipro.
+com/investors/annual-reports/.
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+21.	 (a)	Names of holding / subsidiary / associate companies / joint ventures:
+	
+	 	
+	 Refer to Form AOC-1 provided at page nos. 293 to 298 of this Annual Report for information on holding/subsidiary/
+associate companies/ joint ventures. 
+VI.	 CSR Details
+	
+	 22.	 (i)	 Whether CSR is applicable as per Section 135 of Companies Act, 2013 : Yes
+	
+	 	
+(ii)	Turnover (` In Mn) :  ` 595,744
+	
+	 	
+(iii)	 Net worth (` In Mn) :  ` 543,506
+	VII.	 Transparency and Disclosures Compliances
+	
+	 23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National  Guidelines on Responsible 
+Business Conduct (NGRBC):
+i)	 Employees may register their concerns through the dedicated e-mail address available (ombuds.person@wipro.com) 
+or through the Company’s intranet portal. The Company encourages its employees to register their concerns/grievances 
+through the Ombuds process and ensures that there is no discrimination, retaliation or harassment of any kind against 
+any employee who reports under the vigil mechanism or participates in the investigation.
+372
+Wipro Limited | Ambitions Realized
+ii)	 Investors and shareholders may register their complaints/grievances through the grievance redressal mechanism 
+implemented by the Company in coordination with KFin Technologies Limited, the Company’s Registrar and Transfer 
+Agent. Details on Investor complaints received and resolved during the year are provided at page no. 125 of the Annual 
+Report.
+iii)	Suppliers may provide their feedback either through the Ombuds process, Helpline/Helpdesk or other forums like the 
+Annual Supplier Meet. 
+iv)	Customers may raise grievances through the respective account managers/client engagement managers, Customer 
+Advocacy Group or through independently administered satisfaction surveys. We obtain ongoing, project based and 
+annual feedbacks from our customers. 
+We monitor and track the complaints/grievances received from different stakeholder groups on an ongoing basis. Refer 
+to details provided in section 3.2 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/.
+	
+	 24.	 Overview of the entity’s material responsible business conduct issues. 
+	
+	 	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications.
+	
+	 	
+We have a detailed materiality determination process basis which we regularly review the most significant issues to our 
+business. What is material to business is a function of which stakeholders we serve, what is the shared value proposition 
+for each of the stakeholders, what risks and opportunities does this present for Wipro and the time-horizon (short, 
+medium and long term). We also apply the concept of double materiality in arriving at the priority issues i.e. “The impacts 
+on us” and the “The impacts due to us”. Further details of our materiality determination, risk and opportunity management 
+can be found in the following sections 
+	
+	 	
+Materiality Determination ( Refer to page no. 40 of the Annual Report)
+	
+	 	
+Human Capital (Refer to page no. 59 of the Annual Report)
+	
+	 	
+Social & Relationship Capital- Customers & Suppliers (Refer to page no. 65 for customers and page no. 69 for suppliers of 
+the Annual Report)
+	
+	 	
+Natural Capital (Refer to page no. 79 of the Annual Report)
+	SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the 
+NGRBC Principles and Core Elements.
+Policy & Management Processes
+1.	 a.	 Whether your entity’s policy/policies cover each principle and its core elements of the NGRBCs. 
+	
+	
+Yes
+	
+b.	 Has the policy been approved by the Board? 
+	
+	
+Yes
+	
+c.	 Web Link of the Policies:
+P1 to P9: Code of Business Conduct, Ombuds Policy, Supplier Code of Conduct.
+P2: Policy on ecological sustainability
+P3 & P5: Human Rights Policy, Global Policy for Equal Employment Opportunity for Persons with Disabilities, Anti-slavery 
+&\Human Trafficking
+P4 & P8: CSR Policy
+P6: Health & Safety Policy
+2.	 Whether the entity has translated the policy into procedures. 
+	
+Yes
+3.	 Do the enlisted policies extend to your value chain partners? 
+	
+Yes
+Business Responsibility and Sustainability Report (BRSR)
+373
+Integrated Annual Report 2021-22
+Statutory Reports and Financial Statements
+4.	 Name of the national and international codes/certifications/labels/ standards (e.g., Forest Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trustea) standards (e.g., SA 8000, OHSAS, ISO, BIS) adopted by your entity and mapped to each principle.
+	
+P2: ISO 9001:2015, ISO 20000:2018, ISO 27001:2013, ISO 22301:2019*, ISO 45001:2018 
+	
+P5: International Labour Organization (“ILO”) Declaration, Universal Declaration of Human Rights (“UNDHR”), UN Guiding 
+Principles on Business & Human Rights, United Nations Global Compact (“UNGC”)
+	
+P6: ISO 14001:2015, ISO 14064,  Leadership in Energy & Environmental Design (“LEED”)              	
+	
+*Partial compliance (Few locations in India and 1 Centre in Germany)
+5.	 Specific commitments, goals and targets set by the entity with defined timelines, if any & 6. Performance of the entity against 
+the specific commitments, goals, and targets along-with reasons in case the same are not met.
+	
+As part of the ESG strategy, we have articulated 15 ESG goals. The performance against each goal and targets have been 
+provided in the ESG Dashboard available on the Company’s website at https://www.wipro.com/investors/annual-reports/.
+Governance, leadership, and oversight
+7.	 Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets, and 
+achievements (listed entity has flexibility regarding the placement of this disclosure)  
+	
+Refer to page no. 19 and 23 of the Annual Report.
+8.	 Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy (ies) and 
+specified Committee of the Board/ Director responsible for decision making on sustainability related issues?
+	
+• Mr. Narayan PS, Global Head - Sustainability and Social Initiatives
+	
+• Board Governance, Nomination and Compensation Committee (which also acts as Corporate Social Responsibility Committee)
+9.		Details of Review of NGRBCs by the Company:
+	
+a.	 Performance against the above policies and follow up action. 
+	
+	
+The respective Committee of the Board reviews the performance, as needed from time to time. This is supplemented by 
+leadership reviews e.g. Human capital and people related issues are reviewed regularly by our Chief Executive Officer 
+(“CEO”), the Global Executive Council and the Human Resource (“HR”) leadership. Ecological sustainability related matters 
+are reviewed by the Board Governance, Nomination and Compensation Committee (“BGNC”), the CEO, the Heads of 
+Sustainability, Finance, HR and Operations.
+	
+b.	 Compliance with statutory requirements of relevance to the principles, and rectification of any non-compliances.
+	
+	
+The Board has approved a Global Statutory Compliance Policy providing guidance on broad categories of applicable 
+laws and process for monitoring compliance. In furtherance to this, the Company has instituted an online compliance 
+management system within the organization to monitor compliances and provide updates to the senior management and 
+Board on a periodic basis. The Audit, Risk and Compliance Committee and the Board periodically monitor the status of 
+compliances with applicable laws.
+	
+c.	 Has the entity carried out independent assessment/ evaluation of the working of its policies by an external agency?  
+	
+	
+Yes, we carry out assessments against P2 & P6, and our sustainability audit (by DNV GL) covering all the principles.
+10.	 If the answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated.
+	
+Not Applicable
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent and 
+Accountable.
+At Wipro, we hold a strong commitment towards integrity outlined through our values of the “Spirit of Wipro”. Through effective 
+sustainability risk monitoring, strong data privacy protection for stakeholders, a rigorous and fair Ombuds procedure and 
+transparent disclosures, Wipro intends to establish and maintain the highest standards of ESG governance at the Board and 
+Executive levels. The Corporate Governance at Wipro is implemented through four functional levels, namely- Governance by 
+Shareholders, Governance by Board of Directors, Governance by Committees of Board of Directors and Governance by Management 
+Process. Apart from this, Wipro also has an enterprise-wide Code of Business Conduct (applicable to our customers, suppliers, 
+partners, competitors, employees, and other stakeholders) that outlines all ethical considerations that need to be adhered to for 
+responsible and professional conduct. It also includes general principles aimed at guiding employees in making ethical decisions. 
+Apart from this, Corporate Governance is articulated in the Corporate Governance Guidelines, Charters of various Committees 
+374
+Wipro Limited | Ambitions Realized
+and the Disclosure policy. Wipro has a compliance framework, with the goal of establishing suitable procedures and processes 
+to ensure global compliance with all applicable laws and regulations, as well as identifying and mitigating compliance risks. One 
+of our tenets of transparency is the great emphasis we place on comprehensive ESG disclosures in the public domain i.e., apart 
+from our Annual Report based on the principles of integrated reporting and BRSR, we also publish a detailed Sustainability Report. 
+Further, our Chairman introduced the Five Habits essential to drive a Growth Mindset in early 2020, which are our values in action.
+ESSENTIAL INDICATORS
+1.	 Percentage coverage by training and awareness programs on any of the principles during the financial year:
+	
+The Company conducts various programs for all employees (100%) covering various BRSR aspects which are as follows:
+	
+a.	 Code of Business Conduct (COBC): E-learning module for all employees along with an annual assessment. 
+	
+b.	 Prevention of Sexual Harassment (PSH): E-learning module for all employees along with annual assessment to maintain a 
+workplace free from discrimination or harassment of any kind and to create awareness among employees.
+	
+c.	 Prohibition of Insider Trading (“PIT”) Program: E-learning module with a combination of quarterly sessions are conducted to 
+create awareness among employees.
+	
+d.	 Anti-Bribery & Anti-Corruption Training Program: E-learning module for employees to create awareness about Wipro’s 
+policy and values on Anti-Bribery and Anti-Corruption.
+	
+e.	 Five Habits Session: Sessions are conducted by the leadership team of the Company, focusing on core values of the 
+organization as specified in the Corporate Governance Report.
+	
+ f.	 Health and Safety Program: Awareness sessions on healthy lifestyle and employee assistance or counselling programs 
+are conducted by the Company to prevent workplace injuries and ill health and provide employees with a safe and healthy 
+working environment by continuously evolving industry practices and societal standards of care.
+	
+	
+Training programs listed in Sl. No a and b are mandatory training programs and remaining training programs are conducted 
+for employees based upon applicability.
+	
+	
+All Directors and Senior Management Personnel of the Company have affirmed compliance with Wipro’s Code of Business 
+Conduct for the financial year ended March 31, 2022.
+2.	 Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by 
+directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the following format 
+(Note: the entity shall make disclosures based on materiality as specified in Regulation 30 of SEBI (Listing Obligations and 
+Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website): 
+	
+Not Applicable
+3.  Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-monetary 
+action has been appealed.
+	
+Not Applicable
+4.	 Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in  brief and if available, provide a web-link to 
+the policy.
+	
+Yes. The Company has a Code of Business Conduct (“COBC”) which covers anti-corruption and anti-bribery. The COBC provides 
+the ethical guidelines and expectations for conducting business on behalf of Wipro Limited, its subsidiaries and affiliate 
+companies. 
+	
+It applies to all employees and members of the Board of Directors of the Company. It also applies to individuals who serve the 
+Company on contract, subcontract, retainer, consultant or any other such basis.
+	
+This Code has been displayed on the Company’s website at Code of Business Conduct and Ethics. 
+5.	 Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for 
+the charges of bribery/ corruption:
+FY 2022
+FY 2021
+Directors
+Nil
+KMPs
+Employees
+6.	 Details of complaints with regard to conflict of interest: 
+	
+NIL
+Business Responsibility and Sustainability Report (BRSR)
+375
+Integrated Annual Report 2021-22
+Statutory Reports and Financial Statements
+7.	 Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law 
+enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest: 
+	
+Not Applicable
+LEADERSHIP INDICATORS
+1.	 Awareness programmes conducted for value chain partners on any of the principles during the financial year:
+ Total number of 
+awareness programmes 
+held
+Topics/principles covered 
+under the training
+%age of value chain partners covered  
+(by value of business done with such partners)  
+under the awareness programmes
+106*
+Environment Health and Safety (EHS), Pandemic, 
+Health related sessions, Ergonomic lifestyle, 
+Supplier diversity, Anti-Bribery & Corruption and 
+Modern Slavery
+More than 80% of the value chain partners, who are 
+manpower services related, are covered under the 
+awareness programmes.
+*Includes EHS and related-78, Supplier Diversity-21 & Anti-Bribery & Corruption and Modern Slavery-7
+2.	 Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No) If yes, 
+provide details of the same.
+	
+Yes. The Company receives from the members of the Board, a list of entities in which they are interested, at the beginning of 
+every financial year and as and when there is any change in such interest. 
+		
+Additionally, a self-declaration portal is designed for employees to identify and disclose any situation which may be 
+perceived to be an actual or potential conflict with the interests of the Company.
+PRINCIPLE 2: Businesses should provide goods & services in a manner that is sustainable and safe
+With more than 30 sustainability-aligned services and offerings, our capabilities are comprehensive and customizable to our clients 
+across several industries. These offerings draw from Wipro’s expertise in Cloud, Sustainable IT, Sustainable Design, Innovation and 
+Experience (Designit), Sustainable Finance (CAPCO), Engineering, Cyber Security, and other lines of business to offer the type of 
+unified transformation that clients need to achieve their sustainability and Net Zero goals.
+Since 2017, Wipro’s IT hardware purchase standards have been in line with the Electronic Product Environmental Assessment Tool 
+(“EPEAT”) standard from the Green Electronic Council. As a result, we are the only IT services and consulting firm in the world to obtain 
+the EPEAT purchaser award across four product categories. Engineering/design services, materials, and equipment procurement 
+that comply with stringent environmental criteria, forms the basis for Wipro’s Green Building Program. During commissioning, 24 
+of our current buildings across campuses were certified to the International LEED standard (Silver, Gold, and Platinum), making 
+us one of the early adopters of green building design. Environmental Management System (“EMS”) (ISO 14001:2015 standard) has 
+been in place for two decades and forms the core of the implemented EMS. 
+ESSENTIAL INDICATORS
+1.	 Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and 
+social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+FY 2022
+FY 2021
+Details of improvements on environmental and social impacts
+R&D
+We at present do not separately track R&D spend on ESG. However, 
+our IP and new solution offerings encompass a range of sustainability 
+offerings across sectors.
+Capex (In INR Million)
+2,713
+9,977
+Investments in green buildings across locations.
+2.	 a.	 Does the entity have procedures in place for sustainable sourcing? 
+	
+	
+	
+Yes
+	
+b.	 If yes, what percentage of inputs were sourced sustainably? 
+		
+	
+We have green procurement guidelines across core areas of procurement, like the Facilities Management Group (FMG) 
+where we ensure use of safe cleaning supplies and gardening materials, Civil & Infrastructure where we adhere to 
+procurement of green building materials & IT Products where procurement of equipment is as per stringent environmental 
+criteria validated by EPEAT.
+3.	 Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the end of life, for (a) 
+Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+		
+Given that Wipro does not manufacture any products, this question is not applicable. However, Wipro has waste management 
+strategies in place for its own operations, as mentioned in detail in page no. 84 of the Annual Report. 
+376
+Wipro Limited | Ambitions Realized
+4.	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste 
+collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, 
+provide steps taken to address the same. 
+		
+Not Applicable.
+LEADERSHIP INDICATORS
+1.	 Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) or for 
+its services (for service industry)? If yes, provide details in the following format?
+		
+Yes, we perform natural capital valuation for Wipro’s direct operations and upstream indirect impacts through an external 
+agency. Natural Capital impact is 2.66% as a share of revenue of Wipro operations and 14.93% as a share of Earnings before 
+Interest & Tax (“EBIT”) in FY 2021-22. We report the results in the Natural Capital section of the Annual Report. For more 
+details, refer to section 1.6 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/investors/
+annual-reports/.
+2.	 If there are any significant social or environmental concerns and/or risks arising from production or disposal of your products/ 
+services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same 
+along-with action taken to mitigate the same.
+		
+LCA is not applicable to Wipro since we are not in the product manufacturing segment. However, we conduct a Natural Capital 
+Valuation Program, which is a rigorous framework that assesses and quantifies positive and negative impacts on nature or 
+natural capital on account of a company’s operations and value chain. Natural Capital Impacts are calculated across six key 
+performance indicators (KPIs) namely, GHG emissions, air pollution, water consumption, water and land pollution, waste 
+generation and land use change. Please refer to Natural capital section of the Annual Report at page no. 86 for more details. 
+3.	 Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) 
+or providing services (for service industry). 
+		
+Not Applicable.
+4.	 The products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely 
+disposed: 
+		
+The sanitary, bio-medical, hazardous, and inorganic tissue paper are incinerated. Other categories of waste are recycled and/
+or managed appropriately. Please refer to details provided in section 1.4 of the ESG Dashboard available on the Company’s 
+website at https://www.wipro.com/investors/annual-reports/.
+5.	 Reclaimed products and their packaging materials (as percentage of products sold) for each product category. 
+		
+Not Applicable.
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their value chains
+Wipro is an inclusive organization in spirit and in practice. Our people strategies are focused on providing an exceptional employee 
+experience through a variety of learning opportunities, rewarding careers, and a safe and healthy workplace. These include 
+workplace health and safety programs, occupational medical and healthcare services programs on lifestyle diseases and mental 
+well-being, in addition to comprehensive medical benefits programs. Wipro endeavours to follow the principles of diversity and 
+fairness with all our value chain partners, in terms of human rights, employee welfare, health and safety, standards of minimum 
+wages and maximum working hours. We also provide volunteering opportunities to employees in community work.
+ESSENTIAL INDICATORS
+1.	 a.	 Details of measures for the well-being of employees: 
+	
+	
+With the ongoing pandemic, employee well-being has become an area of strategic focus for Wipro. Our employee wellness 
+programs encompass the three areas of employee well-being, namely- physical, emotional, and financial. Please refer to 
+the Human Capital section at page no. 57, for more details. 
+	
+b.	 Details of measures for the well-being of workers: 
+	
+	
+Refer the response to 1.a. above. 
+2.	 Details of retirement benefits, for Current FY and Previous Financial Year. 
+	
+Refer to details provided in section 2.11 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/. 
+Business Responsibility and Sustainability Report (BRSR)
+377
+Integrated Annual Report 2021-22
+Statutory Reports and Financial Statements
+3.	 Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard. 
+	
+Wipro complies with the Rights of Persons with Disabilities Act, 2016, and the premises are largely accessible as per the 
+requirements. In 2021, we have conducted a detailed assessment of each of the premises and have developed a plan with 
+the recommendations. We are in the process of implementing the identified gaps. This is incorporated within the Facilities 
+Management for continued focus.
+4.	 Does the entity have an equal opportunity policy as per the Rights of Persons with  Disabilities Act, 2016? If so, provide a 
+web-link to the policy.
+	
+Yes, we have a Global policy for Equal Employment Opportunity as per the Rights of Persons with Disabilities Act, 2016.
+5.	 Return to work and retention rates of permanent employees and workers that took parental leave. 
+	
+Refer to details provided in section 2.9 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/. 
+6.	 Is there a mechanism available to receive and redress grievances for the following categories of employees and workers? If 
+yes, give details of the mechanism in brief.
+	
+Yes, we have an Ombuds Policy to redress the grievances. Refer to details provided in section 3.2 of the ESG Dashboard available 
+on the Company’s website at https://www.wipro.com/investors/annual-reports/.
+7.	 Membership of employees and worker in association(s) or Unions recognized by the listed entity:
+	
+Refer to details provided in section 2.10 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/.
+8.	 Details of training given to employees and workers: 
+	
+Refer to details provided in section 2.8 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/.
+9.	 Details of performance and career development reviews of employees and workers: 
+	      100% coverage for employees. 
+10.	 Health and safety management system: 
+	
+	 a.	 Whether an occupational health and safety management system has been  implemented by the entity? (Yes/ No). If yes, 
+the coverage of such a system?
+	
+	 	
+Yes, all our campuses conform to ISO 45001:2018 (Occupational Health & Safety management system) with 100% coverage 
+and are certified by accredited third party agencies. Besides internal and third-party audits, EHS experts periodically 
+assess every unit (at least once in six months), to ensure compliance to statutory norms and requirements.
+	
+	 b.	 What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the 
+entity? 
+	
+	 	
+We conduct a Hazard Analysis and Risk Assessment annually or anytime there is a change in process, new equipment, or 
+service, and build risk mitigation plans. 
+	
+	 	
+The following steps are taken to assess risks and hazards: 
+-	Break down the job into successive steps or tasks
+-	Identify the hazards associated with each step and task
+-	Identify controls in place for each hazard
+-	Identify applicable legal obligations relating to risk assessment and implementation of necessary controls
+-	Estimate the potential severity of an incident associated with each hazard from both safety and health aspects
+-	Estimate the probability of an incident occurring for each hazard (given existing controls)
+-	Calculate the risk 
+-	Identify possible additional controls needed to eliminate these hazards
+378
+Wipro Limited | Ambitions Realized
+	
+	 c.	 Whether you have processes for workers to report the work-related hazards and to  remove themselves from such risks. 
+(Y/N)
+	
+	 	
+Yes 
+	
+	 d.	 Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No)
+	
+	 	
+Yes 
+	11.	 Details of safety related incidents, in the following format:
+Refer to details provided in section 2.12 of the ESG Dashboard available on the Company’s website at https://www.wipro.
+com/investors/annual-reports/.
+	12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+Refer to page no. 57 of the Annual Report.
+	13.	 Number of complaints about the following made by employees and workers: 
+	
+	 On working conditions and Health & Safety we reported 427 and 496 cases respectively.
+	14.	 Assessments for the year:  
+% Of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Health and Safety Practices
+100% coverage – For India As per 45001, 
+For larger operations overseas, we follow similar guidelines.
+Working Conditions
+	15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks/ 
+concerns arising from assessments of health & safety practices and working conditions. 
+	
+	 An online tool is available on the employee intranet where employees can log an EHS incident. These recorded incidents 
+are tracked up to closure. Employees can log work-related injuries or ill health and other EHS incidents, post which the 
+functional lead performs an on-site incident investigation for all reported incidents. If required, the following people are a 
+part of the on-site investigation: Incident Reporter, Witness and EHS Manager. The incident investigation team establishes 
+the facts of circumstances leading up to the incident to determine EHS deficiencies and other factors that might be causing 
+or contributing to the occurrence of incidents. Key personnel from the operations team are empowered to ensure that the 
+resolution of these incidents is achieved at the earliest and recurrence is avoided. Review meetings are then conducted to 
+gather key learning and establish processes to prevent occurrence of such nature in the future. All individual locations have a 
+dedicated safety committee. The committee meets every quarter to discuss and review any EHS concerns existing, accident/
+incident trends, status reports of previous meeting minutes, inspections, training, suggestions and recommendation from 
+members. 
+LEADERSHIP INDICATORS
+1.	 Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) Workers 
+(Y/N)? 
+	
+Yes, our benefits program follows an integrated approach and provides a range of options for better financial and social 
+security, including efficient tax-management options, life and accident insurance, and medical packages. In India, we ensured 
+insurance coverage for contract employees supporting short-term assignments during the COVID-19 pandemic.
+2.	 Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value 
+chain partners. 
+	
+Currently, our program covers 402 (manpower service providers) value chain partners in India, out of which 302 have been 
+audited. The scope of audits also cover Labor Compliance asks such as:
+Prohibition of Employment of Child Labor Statutory Compliance- Provident Fund (“PF”), Employee State Insurance Corporation 
+(“ESIC”), Professional Tax (“PT”), Labor Welfare Fund (“LWF”) 
+Availability of Labor License with vendor under Contract Labor (Regulation & Abolition) Act, 1970
+Payment of minimum wages
+Salary disbursement
+Vendor to hold WC (“Workmen compensation”) policy/ GPA (“Group personal accident”) policy for employees not covered 
+under ESIC Scheme.
+Business Responsibility and Sustainability Report (BRSR)
+379
+Integrated Annual Report 2021-22
+Statutory Reports and Financial Statements
+3.	 Provide the number of employees / workers having suffered high consequence work- related injury / ill-health / fatalities (as 
+reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable employment or whose family 
+members have been placed in suitable employment: 
+	
+We do have a program that supports such needs. As an example in the year, the spouses of 12 employees who lost their lives 
+due to COVID-19 (across both core and non-core) were provided suitable employment in Wipro.
+4.	 Does the entity provide transition assistance programs to facilitate continued employability and the management of career 
+endings resulting from retirement or termination of employment? (Yes/ No) 
+	
+Yes, for more details refer to page no. 56 of the Annual Report
+5.	 Details on assessment of value chain partners: 
+% Of value chain partners (by value of business 
+done  with such partners) that were assessed
+Health and Safety Practices
+100% coverage
+Working Conditions
+6.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments of 
+health and safety practices and working conditions  of value chain partners.
+	
+Vendors who are associated with Wipro are internally trained for health & safety practices by in house EHS (Environmental, 
+Health & Safety) team with 100% coverage. Wipro provides a workplace that is physically and emotionally safe for contractual 
+staff, where they can focus on their job responsibilities and obtain fulfillment. Wipro provides a safe workplace, compensating 
+workers fairly, and treating them with a sense of dignity and equality while respecting their privacy. Vendors partners undergo 
+training on sexual harassment with 100% coverage.
+	
+Internal risk review mechanism is in place with all relevant functions to understand the requirements through fortnightly and 
+monthly reviews with all the functions. Location Facility Management Group (“FMG”) leads are designated as single point 
+of contacts to conduct and coordinate cross-functional efforts and third-party verification is being carried out on all the 
+documents submitted by the vendor partner.
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders.
+Stakeholder involvement is essential for Wipro to promote responsible and sustainable business practises that benefit both the 
+Company and its stakeholders. Engaging with stakeholders serves the larger goal of better understanding the risks and possibilities 
+connected with the social, environmental, and economic framework within which the company operates. These characteristics 
+aid in identifying stakeholders across the value chain who are important to the business, society and necessitate meaningful 
+engagement. We have identified eight stakeholder groups based on these attributes: Employees, Customers, Investors, Suppliers, 
+Education System, Communities & Civil Societies, Government and Policy Networks, and The Young Citizen and Future Generation. 
+ESSENTIAL INDICATORS
+1.	 Describe the processes for identifying key stakeholder groups of the entity. 
+	
+Identification of stakeholders is based on characteristics such as Impact, Influence, Interest, Legitimacy, Urgency, and Diversity 
+Perspective. Please refer section on Stakeholder Identification provided in page no. 42 of the Sustainability Report FY 2020-21.
+2.	 List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+	
+Wipro has identified 8 key stakeholders based on certain parameters, and the engagements with each of them are provided 
+in the Summary of Stakeholder Engagement in page no. 40 of the Annual Report. Wipro has quarterly engagements with its 
+investors, and annual engagements with its employees and customers.
+LEADERSHIP INDICATORS
+1.	 Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or if 
+consultation is delegated, how feedback from such consultations is provided to the Board. 
+	
+The consultation with the Board on key stakeholder concerns is largely mediated by different organizational functions which 
+are responsible for the respective stakeholders. The setting for this are the periodic Board reviews held at least once a quarter, 
+during which the Board holds extensive discussions with the CEO and other senior leaders representing these functions. For 
+example, feedback on customer trends and issues is provided by the Heads of Businesses and Market Units, that on investors 
+by the Chief Financial Officer (“CFO”) and his team, on employees by the Chief Human Resources Officer (“CHRO”) and his team, 
+on sustainability issues by the Chief Sustainability Officer, etc. Please refer the table below for further information in this 
+regard. 
+380
+Wipro Limited | Ambitions Realized
+Stakeholder
+Responsible Function and Person
+Employees
+Human Resources, Chief Human Resources Officer
+Investors
+Finance, Chief Financial Officer
+Customers
+4 Strategic Market Units - CEOs
+2 Global Business Lines - Managing Partners
+Suppliers
+Central Procurement Organization, Chief Procurement Officer
+Communities and Civil Society
+The Education System
+The Young citizen and Future Generation
+Sustainability and Community Programs, Chief Sustainability Officer
+Government and Policy Networks
+Government Affairs, General Counsel  
+Sustainability and Community Programs, Chief Sustainability Officer
+2.	 Whether stakeholder consultation is used to support the identification and management of environmental, and social topics 
+(Yes/No). If so, provide details of instances as to how the input received from stakeholders on these topics were incorporated 
+into policies and activities of the entity.
+	
+Yes, stakeholder engagement covers key material issues driven by strategic objectives through various modes of engagements. 
+There is a primary internal custodian for each stakeholder group. For example, feedback from employees involves certain 
+informed steps which are taken leading to enhanced communications and collaboration forums. Similarly, for suppliers, this 
+has informed the ease of doing business across the order to payment cycle and ability to address environmental and social 
+aspects. For additional details, please refer the Summary of Stakeholder Engagement in page no. 47 of the Sustainability 
+Report FY 2020-21.
+3.	 Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized 
+stakeholder groups. 
+	
+Wipro engages with communities and civil society networks to work on systemic issues that can act as force multipliers for 
+social transformation and sustainable development. Within this ambit, we deliberatively focus on disadvantaged groups 
+in a significant majority of our social initiatives e.g. Children with Disability, the Urban Poor, Women from disadvantaged 
+communities,  Suppliers from under-represented groups (e.g. Women owned enterprises) ,  Employees with disability or from 
+LGBTQ+ groups. For additional details, please refer page no. 70 of this Annual Report and page no. 47 of the Sustainability Report 
+FY 2020-21.
+PRINCIPLE 5: Businesses should respect and promote human rights.
+Wipro is committed to protecting and respecting human rights and remedying rights violations, in the instances they are identified, 
+such as issues related to human trafficking, forced labour, child labour, freedom of association, the right to collective bargaining, 
+equal remuneration and discrimination. Providing equal employment opportunity, ensuring distributive, procedural, and interactional 
+fairness in all what we do, creating a harassment-free, safe environment and respecting one’s fundamental rights are some of the 
+ways in which we ensure the same. To monitor progress and formulate strategies to address human rights related issues, we have 
+established committees and processes such as the Ombuds, Prevention of Sexual Harassment Committee, Employee Experience 
+Survey, EHS, an Inclusion & Diversity Council and Culture Council, which are reviewed by the top management on a regular basis. 
+Wipro has also put forth its commitment statement for human rights, which is available in the public domain. 
+ESSENTIAL INDICATORS
+	 1.	 Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following 
+format: 
+	
+	 Refer to details provided in section 2.8 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/.
+	 2.	 Details of minimum wages paid to employees and workers, in the following format: 
+	
+	 The compensation and benefits offered for both full-time and part-time employees is well above the statutory minimum 
+wage. The minimum wage criteria are met for workers as well. Please refer to section on Human capital (Financial Well-being) 
+for more details. 
+	 3.	 Details of remuneration/salary/wages, in the following format: 
+	
+	 Please refer to page no. 98 to 99 of this Annual Report.
+	 4.	 Do you have a focal point (Individual/Committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business? 
+	
+	 Yes. Mr. Saurabh Govil, Chief Human Resource Officer, is responsible for addressing human rights issues.
+Business Responsibility and Sustainability Report (BRSR)
+381
+Integrated Annual Report 2021-22
+Statutory Reports and Financial Statements
+	 5.	 Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+	
+	 Wipro’s Ombuds Policy has been established to allow workers and other individuals associated with the Company to voice 
+their concerns pertaining to malpractice, impropriety, abuse, and deviant behaviour at an early stage through an appropriate 
+channel, freely without fear of retaliation, victimization, or eventual discrimination or disadvantage at workplace. Please 
+refer the section on Human Capital for more details on this. 
+	 6.	 Number of Complaints on the following made by employees and workers: 
+	
+	 We have an Ombuds process for receiving complaints from different stakeholders and the number of complaints categorized 
+based on allegation types are provided in section 3.2 of the ESG Dashboard, which is available at https://www.wipro.com/
+investors/annual-reports/.
+	 7.	 Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+	 Ombuds Policy assures all complainants protection and safeguards against perceived or actual victimization or retaliation 
+for reporting a complaint. Moreover, if any complainant still feels or raises such concern of retaliation, they may approach the 
+Chief Ombudsperson for a suitable remedy.
+	 8.	 Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+	 Yes. Human Rights aspects are covered as part of the Wipro Supplier Code of Conduct, which is required for all contracts.
+	 9.	 Assessments for the year 
+% of your plants and offices that were assessed  
+ (by entity or statutory authorities or third parties)
+Child labor
+100
+Forced/involuntary Labor
+Sexual Harassment
+Discrimination at Workplace
+Wages
+Others – please specify
+	10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments 
+at Question 9 above. 
+	
+	 We conduct monthly audits to address risks and escalate in case of any issues. We ensure all statutory compliances regarding 
+minimum wages and strictly prohibit employment of child labor. 
+LEADERSHIP INDICATORS
+1.	 Details of a business process being modified/introduced as a result of addressing human rights grievances/complaints. 
+	
+Please refer page no. 59 & 60 of this Annual Report.
+2.	 Details of the scope and coverage of any Human rights due diligence conducted. 
+	
+Please refer page no. 59 of this Annual Report.
+3.	 Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons 
+with Disabilities Act, 2016? 
+	
+Wipro complies with the Rights of Persons with Disabilities Act, 2016, and the premises are largely accessible as per the 
+requirements. In 2021, we have conducted a detailed assessment of each of the premises and have developed a plan with 
+the recommendations. We are in the process of implementing the identified gaps. This is incorporated within the Facilities 
+Management for continued focus.
+382
+Wipro Limited | Ambitions Realized
+4.	 Details on assessment of value chain partners: 
+% of value chain partners (by value of business 
+done with such partners) that were assessed*
+Sexual Harassment
+100
+Discrimination at Workplace
+Child Labour
+Forced Labour/Involuntary Labour
+Wages
+Others – please specify
+	
+*All the vendors operating from Wipro campuses have been assessed on above risks & concerns
+5.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments 
+at Question 4 above.
+	
+Monthly audits are conducted to address risks and escalate in case of any issues. All statutory compliance regarding minimum 
+wages and other benefits are ensured. Employment of child labor is strictly prohibited. 
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment 
+Wipro has been working on these areas for over 15 years. The latest Global Risk Report by the World Economic Forum calls out 
+several environmental risks such as climate action, biodiversity loss, and natural resource crises. Wipro is focused on managing 
+these risks efficiently by identifying energy efficiency and Greenhouse Gas (“GHG”) mitigation, water efficiency and responsible 
+water management, pollution and waste management and campus biodiversity as the most material issues. Wipro has developed 
+a portfolio of multiple initiatives to address these issues. These include our commitments to Net Zero GHG emissions by 2040, 
+halving our water footprint by 2030, near 100% waste reuse & recycling and supporting larger community initiatives in these areas.
+ESSENTIAL INDICATORS
+	 1.	 Details of total energy consumption (in Joules or multiples) and energy intensity: 
+	
+	 Refer to details provided in section 1.2 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/.
+	 2.	 Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade 
+(PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. 
+In case targets have not been achieved, provide the remedial action taken, if any. 
+	
+	 No.
+	 3.	 Provide details of the following disclosures related to water: 
+	
+	 Refer to details provided in section 1.3 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/.
+	 4.	 Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation. 
+	
+	 Wipro follows Zero Liquid Discharge across all locations except one location which was converted to a hospital during 
+COVID-19. The latter exception was on instructions from the local municipal authority. For more details, please refer use of 
+recycled water provided in the section on Natural Capital on page no. 83 in this Annual Report.
+	 5.	 Please provide details of air emissions (other than GHG emissions) by the entity: 
+	
+	 We monitor SOx, NOx and Particulate matter data which can be referred to in section 1.5 of the ESG Dashboard available on 
+the Company’s website at https://www.wipro.com/investors/annual-reports/. However, since we are a service industry, we do 
+not monitor Hazardous Air Pollutants (HAP), Volatile Organic compounds (VOC) and Persistent Organic Pollutants (POP) data. 
+	 6.	 Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & their intensity: 
+	
+	 Refer to details provided in section 1.1 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/.	
+7.	 	 Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details. 
+	
+	 Yes, we have a detailed roadmap to become Net Zero on our value-chain GHG emissions by 2040 with firm interim goals till 
+2030. Our plans envisage a multi pronged approach around energy efficiency, renewable energy, green buildings, and Scope 
+3 emission reduction. For more details, please refer the details provided under the section on Natural capital in this Annual 
+Report.
+Business Responsibility and Sustainability Report (BRSR)
+383
+Integrated Annual Report 2021-22
+Statutory Reports and Financial Statements
+	 8.	 Provide details related to waste management by the entity: 
+	
+	 Refer to details provided in section 1.4 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/.	
+	 9.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your 
+company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to 
+manage such wastes. 
+	
+	 Waste management is one of the material topics to Wipro and we have a comprehensive program covering all streams of 
+waste. For a more detailed strategy, please refer the section on Natural capital provided on page no. 84 of this Annual Report.
+	
+	 Since we are a service industry, Hazardous Air Pollutants (“HAP”), Volatile Organic compounds (“VOC”) and Persistent Organic 
+Pollutants (“POP”) data are not material for our sector. However, we monitor SOx, NOx and Particulate matter data from diesel 
+generators used for backup power, which can be referred to in the ESG Dashboard. In addition, we also measure VOC’s in office 
+spaces as part of our Indoor Air Quality Program.
+	10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / 
+clearances are required, please specify details in the following format: 
+	
+	 Not Applicable.
+	11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current 
+financial year: 
+	
+	 Not Applicable.
+	12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water (Prevention 
+and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder 
+(Y/N). If not, provide details of all such non-compliances: 
+	
+	 Yes.
+LEADERSHIP INDICATORS
+1.	 Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, in the 
+following format: 
+	
+Refer to details provided in section 1.2 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/.
+2.	 Provide the following details related to water discharge: - 
+	
+Refer to details provided in section 1.3 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/.
+3.	 Water withdrawal, consumption, and discharge in areas of water stress (in kiloliters): 
+Refer to details provided in section 1.3 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/.
+4.	 Please provide details of total Scope 3 emissions & its intensity: 
+	
+Refer to details provided in section 1.1 of the ESG Dashboard available on the Company’s website at https://www.wipro.com/
+investors/annual-reports/.
+5.	 With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details of 
+significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities. 
+	
+Not Applicable.
+384
+Wipro Limited | Ambitions Realized
+6.	 If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or 
+reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as outcome 
+of such initiatives, as per the following format:  
+Sr. 
+No.
+Initiative undertaken
+Details of the initiative (Web-link, if
+any, may be provided along with summary)
+Outcome of the initiative
+1.
+Global Energy command 
+center 
+Aggregates Building Management System (BMS) 
+inputs on a common platform
+Optimize operational control and improve 
+energy efficiency
+2.
+Indoor Air Quality                       
+Continuous Air Quality monitoring system (PM 2.5. 
+PM 10, TVOC, Co2, Temperature, RH) using certified 
+sensors. Old campuses will also have improved air 
+filtration and IAQ (Improved Air Quality) monitoring 
+in place (phase wise execution plan based on RTW). 
+Air quality audit & Implemented 2nd stage filter 
+with > 99% Viral load reduction efficiency
+Improved air quality monitoring and 
+management for occupants
+3.
+UPS Capacitor 
+replacement
+Conversion of VRLA (Valve Regulated Lead Acid) 
+batteries to Lithium Batteries (LIB) with monitoring 
+system.
+LIB’s have a longer life of more than 2 to 3 
+times of VRLA (Valve Regulated Lead Acid) 
+batteries. It helps in the reduction of UPS 
+capacity requirement & backup related 
+capacity optimization.
+4.
+Ultrafiltration and  
+nano-filtration
+6 of the Wipro owned locations have installed 
+ultra-filtration where water from these locations 
+is being treated completely. Membrane Bio reactor 
+(MBR) is used in 2 of the campuses. And further 
+installation in 2 more locations is being carried 
+out. 
+Nano filtration is used in 4 locations for treatment 
+of fresh water 
+Improved water recycling efficiency
+7.	 Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link. 
+	
+Wipro is aligned to ISO 22301 Business Continuity Management System (BCMS) framework which is applicable across global 
+locations, accounts, and service functions. Wipro’s VirtuaDeskTM Business Continuity Solution is designed to introduce desktop 
+and application virtualization to the workplace in a quick and cost-effective manner. We also have a well developed Business 
+Continuity Management Plan which helped us recover from COVID-19 pandemic. The details regarding Company’s Business 
+Continuity Management Plan is available on the website. 
+	
+Our business continuity policy is used to plan for climate related disruptions which could impact business objectives. For more 
+details, please refer the section on Natural capital provided on page no. 78 of this Annual Report.
+8.	 Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or 
+adaptation measures have been taken by the entity in this regard? 
+	
+Please refer to GHG mitigation projects in section on Natural Capital in page no. 79 of this Annual Report.
+9.	 Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts. 
+	
+The natural capital valuation program assesses the environmental impact of our value chain activities, including purchased 
+goods and services. This is based on our spend data for each supplier and categories they belong to. Details of the same are 
+provided in in ESG Dashboard.
+	
+Based on the above, this year, we are engaging with 57 suppliers, who contribute to 80% of carbon emissions impact through 
+Carbon Disclosure Project (“CDP”) Supply chain program.
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible 
+and transparent.
+We are members of the industry and business forums in countries where we have significant presence. These associations are 
+aimed at improving local competitiveness and worker rights advocacy in those countries. Additionally, our engagements with Indian 
+forums like CII focus on a wide range of ecological sustainability issues and ESG. We chair the CII Greenco Bangalore chapter that 
+seeks to catalyze companies across sectors to reduce their environmental footprint and develop sustainable products and services.
+Business Responsibility and Sustainability Report (BRSR)
+385
+Integrated Annual Report 2021-22
+Statutory Reports and Financial Statements
+Business Responsibility and Sustainability Report (BRSR)
+ESSENTIAL INDICATORS
+1.	 a.	 Number of affiliations with trade and industry chambers/associations.
+	
+	
+We are members of Industry and Business Forums in countries where we have significant operations. National Association 
+of Software and Service Companies (“NASSCOM”), U.S. Chambers of Commerce (“USCC”) and BITKOM are the top three by 
+financial contribution. The total contribution made to NASSCOM, USCC and BITKOM is $170,000 during FY 2021-22.
+	
+b.	 List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the entity 
+is a member of/ affiliated to:
+SL.
+No.
+Name of the trade and industry 
+chambers/ associations
+Reach of trade and industry chambers/
+associations (State/National)
+1.
+U.S. Chamber of Commerce
+International
+2.
+CII
+International
+3.
+FICCI
+National
+4.
+digitalswitzerland
+International
+5.
+NASSCOM
+International
+6.
+BiTKOM
+International
+7.
+techUK
+International
+8.
+IFCCI
+National
+2.	 Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, based 
+on adverse orders from regulatory authorities. 
+	
+None.
+LEADERSHIP INDICATORS
+1.	 Details of public policy positions advocated by the entity
+	
+The following public policies are available in public domain and are reviewed by the Board. The public policy positions advocated 
+by the entity ranges from talent availability, human capital mobility, ESG, to future of work. Wipro’s top 8 trade & industry 
+associations include U.S. Chamber of Commerce, FICCI, CII, NASSCOM, techUK, BITKOM, and digitalSwitzerland. Their public 
+position on ESG broadly addresses the need for market-based solutions, capacity building and training, proactive participation 
+by businesses, and digital technology to support aspects of sustainability and emission reduction. They have emphasized 
+on the importance of hybrid work model as their position on future of work, and equipping people and businesses with the 
+skills needed to take advantage of the modern working space of emerging technologies such as AI (Artificial Intelligence), and 
+robotics. In terms of their policy position on human capital mobility, the associations have included advocacy for responsive 
+immigration policy, partnerships with various organizations to build strong coalitions, and the need for skilled labour in the 
+tech sector. 
+PRINCIPLE 8: Business should promote inclusive growth and equitable development.
+Wipro’s corporate citizenship and CSR efforts are implemented through various modes such as: ​
+(i)	 Wipro Foundation, a public charitable trust 
+(ii)	 Wipro Cares, a charitable trust that matches employee contributions and 
+(iii)	Directly through Wipro Limited’s functions. 
+Wipro’s key impact areas include education, children with disability, primary healthcare disaster response, and community ecology. 
+We strive for inclusive growth and equitable development through initiatives such as the Digital skills program for students, and 
+STEM education in the US. ​Additionally, Wipro also provides opportunities to its employees to engage in volunteering activities and 
+community work. 
+ESSENTIAL INDICATORS
+1.	 Details of Social Impact Assessments (“SIA”) of projects undertaken by the entity based on applicable laws, in the current 
+financial year. 
+	
+As per provisions governing CSR activities, none of our projects were SIA candidates in financial year 2021-22. However, we will 
+conduct SIA’s during financial year 2022-23, wherever applicable.
+2.	 Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity, 
+in the following format 
+	
+Not Applicable.
+386
+Wipro Limited | Ambitions Realized
+3.	 Describe the mechanisms to receive and redress grievances of the community.
+	
+In addition to Grievance Redressal, the community stakeholders also have the option of sharing their concerns with us via 
+e-mail mentioned on our website. We have registers at all our locations which can be used by any stakeholder group to express 
+their concerns. 
+4.	 Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2022
+FY 2021
+Directly sourced from MSMEs/ small producers
+5%
+3%
+Sourced directly from within the district and  
+neighboring districts
+At present, we do not track this. Also this 
+metric is not material for our sector
+LEADERSHIP INDICATORS 
+1.	 Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments (Reference: 
+Question 1 of Essential Indicators above): 
+	
+Not Applicable.
+2.	 Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by 
+government bodies and provide details of beneficiaries of CSR Projects.
+	
+Please find below the details of the CSR projects undertaken by the Company in designated aspirational districts:
+Sl. 
+No.
+CSR Project
+State 
+Aspirational 
+District
+No. of persons 
+benefitted 
+From  CSR Projects
+% Of beneficiaries 
+From vulnerable
+ and marginalized groups
+Amount Spent  
+(In INR)
+1
+Education
+Chhattisgarh
+Sukma
+5300
+100 %
+1,080,000
+2
+Education
+Bihar
+Jamui
+415
+360,000
+3
+Education
+Bihar
+Gaya
+30
+720,000
+4
+Education
+Chhattisgarh
+Korba
+340
+1,607,500
+5
+Education
+Himachal 
+Pradesh
+Chamba
+300
+360,000
+6
+Education
+Bihar
+Gaya
+2600
+360,000
+7
+Education
+Odisha
+Rayagada
+244
+663,500
+8
+Education
+Maharashtra
+Jalgaon
+330
+1,080,000
+9
+Education
+Jharkhand
+Khunti
+650
+750,000
+10
+Community 
+Healthcare- Project 
+started in Jan 2022
+Andhra Pradesh
+Vizag
+ 1480
+Around 40%
+39,00,000
+	
+ 
+3.	 (a) Do you have a preferential procurement policy where you give preference to      purchase from suppliers comprising 
+marginalized /vulnerable groups? (Yes/No) 
+	
+	
+Yes
+	
+(b)	 From which marginalized /vulnerable groups do you procure? 
+	
+Please refer page no. 69 of this Annual Report.
+	
+(c)	 What percentage of total procurement (by value) does it constitute?
+	
+Please refer page no. 69 of this Annual Report.
+4.	 Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current 
+financial year), based on traditional knowledge: 
+	
+Not Applicable. 
+5.	 Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein 
+usage of traditional knowledge is involved. 
+	
+Not Applicable. 
+Business Responsibility and Sustainability Report (BRSR)
+387
+Integrated Annual Report 2021-22
+Statutory Reports and Financial Statements
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a responsible manner.
+Wipro has a wide variety of clients ranging from multiple sectors including manufacturing and heavy Industry, banking financial 
+services & insurance, electricity oil & gas, transportation & logistics, health care and life sciences, and consumer goods. ESG 
+being one of the core areas looked at by customers, Wipro has focused on emerging issues which is a mix of sustainability, data 
+privacy, open source, and gig workforce, while also exploring metaverse tools and frameworks. Wipro’s partnerships with many of 
+the world’s largest enterprise software providers, cloud computing businesses, and technology organizations enable us to offer 
+unique and holistic solutions for our clients.
+ESSENTIAL INDICATORS
+1.	 Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+Customers have multiple channels for raising grievances– account managers, client engagement managers, the customer 
+advocacy group and through independently administered satisfaction surveys. There is ongoing, project-based, and annual 
+feedback from our customers.
+2.	 Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:
+	
+Since we are not in B2C or product business, this is not applicable.
+3.	 Number of consumer complaints in respect of the following:
+FY 2022 
+Remarks
+FY 2021
+Remarks
+Received
+ during the
+year
+Pending 
+resolution
+ at end of 
+year
+Received 
+during the
+ year
+Pending 
+resolution at
+ end of year
+Data privacy
+0
+0
+0
+0
+Advertising
+NA
+NA
+NA
+NA
+Cyber-security
+0
+0
+0
+0
+Delivery of essential
+services
+0
+0
+3
+1
+The 1 pending 
+resolution has been 
+closed in FY 2021-22
+Restrictive Trade Practices
+Nil
+Unfair Trade Practices
+4.	 Details of instances of product recalls on account of safety issues: 
+	
+Not Applicable. 
+5.	 Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a 
+web-link of the policy.
+	
+Yes. Wipro is committed towards protecting the data of customers and all its employees. The principles regarding data privacy 
+are available on our website at https://www.wipro.com/privacy-statement/. We also have a business contingency plan for 
+mitigation in case of cyber security issues or data breaches. For more details refer to the section covering Risk in this Annual 
+Report. 
+6.	 Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; 
+cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory 
+authorities on safety of products / services.
+	
+In case of Ransomware attack, we support the customers with our robust Ransomware recovery processes. Wipro also 
+highlights potential vulnerabilities to customers and supports them with measures to protect themselves including mitigation 
+advisory and strategies.
+LEADERSHIP INDICATORS
+1.	 Channels / platforms where information on products and services of the entity can be accessed (provide web link, if available).
+	
+https://www.wipro.com/ 
+2.	 Steps taken to inform and educate consumers about safe and responsible usage of products and/or services. 
+	
+Not Applicable. 
+388
+Wipro Limited | Ambitions Realized
+3.	 Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services. 
+	
+We have a dedicated team who work on major incidents or disruption of services. We have ISO 22301:2019 aligned Business 
+Continuity Management System (BCMS) framework implemented across all global delivery locations covering customer 
+accounts and service functions.
+4.	 Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/Not 
+Applicable) If yes, provide details in brief. Did your entity carry out any survey regarding consumer satisfaction relating to the 
+major products / services of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No) 
+	
+Not Applicable. 
+5.	 Provide the following information relating to data breaches: 
+	
+a.	 Number of instances of data breaches along-with impact 
+	
+	
+None
+	
+b.	 Percentage of data breaches involving personally identifiable information of customers 
+	
+None
+DNV GL, a global provider of certification, verification, assessment and training services, helping customers to build sustainable 
+business performance, has carried out an independent assessment of all the above indicators. The assurance statement from 
+DNV GL is available on the Company’s website.
+Business Responsibility and Sustainability Report (BRSR)

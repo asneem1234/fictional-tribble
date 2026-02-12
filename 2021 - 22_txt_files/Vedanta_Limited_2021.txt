@@ -1,0 +1,1204 @@
+ 
+ 
+VEDL/Sec./SE/22‐23/91 
+           August 16, 2022 
+ 
+BSE Limited  
+ 
+ 
+ 
+  
+National Stock Exchange of India Limited 
+Phiroze Jeejeebhoy Towers 
+ 
+ 
+“Exchange Plaza” 
+Dalal Street, Fort 
+ 
+ 
+ 
+Bandra‐Kurla Complex, Bandra (East), 
+Mumbai ‐ 400 001 
+ 
+ 
+ 
+Mumbai – 400 051 
+ 
+Scrip Code: 500295 
+ 
+Scrip Code: VEDL 
+ 
+Sub: Clarification with respect to XBRL Filing of Business Responsibility and Sustainability 
+Report for the Financial Year 2021‐22  
+ 
+Dear Sir/ Madam, 
+ 
+In furtherance to the Company letter no. VEDL/Sec./SE/22‐23/71 dated July 16, 2022 wherein 
+the Business Responsibility & Sustainability Report (BRSR) published for the financial year 
+2021‐22 had been filed in PDF format, we hereby submit the XBRL format duly filled in line 
+with the PDF file enclosed herewith. 
+ 
+The Securities and Exchange Board of India (SEBI), vide its Circular dated May 10, 2022, has 
+allowed  companies  which  are  preparing  and  disclosing  Sustainability  Reports  based  on 
+internationally  accepted  reporting  frameworks  (such  as  GRI,  SASB,  TCFD  or  Integrated 
+Reporting) to cross‐reference the disclosures made under such framework to the disclosures 
+sought under the BRSR. We, henceforth, wish to inform that our primary disclosure document 
+on Sustainability & ESG practices, performance is our Annual Sustainability Report which is 
+written  in  accordance  with  “GRI  Standards:  Core  option”  and  the  Company  continues  to 
+publish TCFD Report also on an annual basis. These reports may be referred to for detailed 
+information on our sustainability and ESG performance and can be accessed on Company 
+website at www.vedantalimited.com. 
+ 
+With respect to XBRL utility made available by the stock exchanges, we wish to submit that: 
+ 
+BRSR for the financial year 2021‐22 has been submitted by the Company on a voluntary 
+basis (excluding non‐mandatory information and leadership indicators) in pursuance to 
+SEBI provisions. Hence, the complete format has not been reported in the PDF version.  
+ 
+Because of limiting nature of XBRL utility, certain mandatory fields have been filled with 
+‘Not Available’ or ‘Not Reported’ or ‘0.00’ figures as per acceptance of respective fields. 
+ 
+The format is not accepting decimal values and accordingly, adjustments have been made 
+to validate the file with resolution of errors. 
+ 
+The format also suffers from inconsistency in terms of the information asked. Hence, the 
+submission from the Company’s end would have some alignment different from the PDF 
+version or other sustainability disclosures. 
+ 
+Request you to kindly take the above on record.  
+ 
+Thanking you. 
+Yours faithfully,  
+For Vedanta Limited 
+ 
+ 
+Prerna Halwasiya 
+Company Secretary & Compliance Officer 
+Enclosed: As above. 
+PRERNA 
+HALWASIYA
+Digitally signed by PRERNA 
+HALWASIYA 
+Date: 2022.08.16 17:48:37 +05'30'
+
+
+VEDL/Sec./SE/22Ͳ23/71
+
+July16,2022
+
+BSELimited
+
+
+
+
+NationalStockExchangeofIndiaLimited
+PhirozeJeejeebhoyTowers
+
+
+“ExchangePlaza”
+DalalStreet,Fort
+
+
+
+BandraͲKurlaComplex,Bandra(East),
+MumbaiͲ400001
+
+
+
+Mumbai–400051
+
+
+ScripCode:500295
+
+ScripCode:VEDL
+
+Sub:BusinessResponsibilityandSustainabilityReportfortheFinancialYear2021Ͳ22
+
+DearSir/Madam,
+
+WithreferencetothecirculardatedMay10,2021issuedbytheSecuritiesandExchange
+BoardofIndia(SEBI),pleasefindtheenclosedBusinessResponsibility&SustainabilityReport
+(BRSR)publishedforthefinancialyear2021Ͳ22.
+
+WefurtherwishtoinformthatourprimarydisclosuredocumentonSustainability&ESG
+practices,performanceisourAnnualSustainabilityReportwhichiswritteninaccordancewith
+GRIstandards.TheCompanywillbeproducingits14thSustainabilityReportforthefinancial
+year2021Ͳ22andthesamemaybereferredtofordetailedinformationonoursustainability
+andESGperformance.
+
+Kindlytaketheaboveonrecord.
+
+Thankingyou.
+
+Yoursfaithfully,
+ForVedantaLimited
+
+
+
+PrernaHalwasiya
+CompanySecretary&ComplianceOfficer
+
+Enclosed:Asabove.
+PRERNA 
+HALWASIYA
+Digitally signed by PRERNA 
+HALWASIYA 
+Date: 2022.07.16 18:52:50 
++05'30'
+Business Responsibility & Sustainability Report
+3TYJ;JIFSYF1NRNYJIѣXUWNRFW^INXHQTXZWJITHZRJSYTSNYXXZXYFNSFGNQNY^*8,UWFHYNHJXUJWKTWRFSHJNXNYX&SSZFQ
+Sustainability Report, which is written in accordance with GRI standards. The company will be producing its 14th 
+Sustainability Report in FY2022. Kindly refer to this report for detailed information on our sustainability and ESG 
+performance. The report can be found at www.vedantalimited.com
+Section B 
+MANAGEMENT AND PROCESS DISCLOSURES
+Sr. 
+No. Disclosure Question
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1
+a. Whether your entity’s 
+policy/policies cover 
+each principle and its 
+core elements of the 
+NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+NA
+Yes
+NA
+b. Has the policy been 
+approved by the Board? 
+(Yes/No)
+Yes
+NO
+NO
+No
+No
+No
+No
+c. Web Link of the 
+Policies, if available
+https://
+vedantalimited.com/
+CorporateGovernance/
+Code%20of%20
+Business%20
+Conduct%20and%20
+Ethics.pdf
+https://www.vedantaresources.
+com/InvestorRelationDoc/
+supplier_code_of_
+conduct_-_december_2016.
+pdf#:~:text=Vedanta%20
+Supplier%20Code%20
+of%20Conduct%20
+%EF%82%A7HEALTH%2C%20
+SAFETY%20%26,all%20
+applicable%20laws%20and%20
+regulations%20regarding%-
+20working%20conditions.
+https://www.
+vedantalimited.
+com/Media/
+VSFDocuments/
+Vedanta%20
+Sustainability%20
+Policies%20
+2020/05-Social-
+2020-Published.
+pdf
+https://www.
+vedantalimited.
+com/Media/
+VSFDocuments/
+Vedanta%20
+Sustainability%20
+Policies%20
+2020/06-Human-
+Rights-2020-
+Published.pdf
+https://www.
+vedantalimited.
+com/Media/
+VSFDocuments/
+Vedanta%20
+Sustainability%20
+Policies%20
+2020/01-HSES-
+2020-Published.
+pdf
+https://www.
+vedantalimited.
+com/Media/
+VSFDocuments/
+Vedanta%20
+Sustainability%20
+Policies%20
+2020/05-Social-
+2020-Published.
+pdf
+2
+Whether the entity has 
+translated the policy into 
+procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+NA
+Yes
+NA
+3
+Do the enlisted policies 
+extend to your value 
+chain partners? (Yes/
+No)
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+NA
+NA
+NA
+4
+Name of the national 
+and international codes/
+FHUWLͤFDWLRQVODEHOV
+standards (e.g. Forest 
+Stewardship Council, 
+Fairtrade, Rainforest 
+Alliance, Trustee) 
+standards (e.g. SA 
+8000, OHSAS, ISO, BIS) 
+adopted by your entity 
+and mapped to each 
+principle.
+ISO 45001
+NA
+No
+ISO 14001, ISO 
+50001
+NA
+NA
+5
+6SHFLͤFFRPPLWPHQWV
+goals and targets set by 
+WKHHQWLW\ZLWKGHͤQHG
+timelines, if any.
+NA
+NA
+NA
+NA
+NA
+SDR
+NA
+NA
+NA
+6
+Performance of the 
+entity against the 
+VSHFLͤFFRPPLWPHQWV
+goals and targets along-
+with reasons in case the 
+same are not met.
+NA
+Na
+Na
+Na
+NA
+SDR
+NA
+Na
+NA
+7
+Statement by 
+Director responsible 
+for the business 
+responsibility report, 
+highlighting ESG related 
+challenges, targets and 
+achievements (listed 
+HQWLW\KDVͥH[LELOLW\
+regarding the placement 
+of this disclosure)
+SDRs
+Sr. 
+No. Disclosure Question
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+8
+Details of the highest 
+authority responsible 
+for implementation 
+and oversight of the 
+Business Responsibility 
+policy (ies).
+In line with upholding our core commitment to Environmental, Social and Governance (ESG) priorities and business responsibility 
+policies, the Board of Directors of the Company has approved the enhancement of the scope of the existing Board Sustainability 
+Committee and upgraded it to Board ESG Committee with effect from July 26, 2021, to strengthen Board level rigor and advice into all 
+aspects of ESG. The board of ESG committee like the erstwhile sustainability committee will report to highest governance body. 
+As per updated Terms of Reference of the Board level ESG Committee, the Group HSE Head and ESG Director are permanent invitees 
+to the Committee meetings.
+The Committee comprises of Mr. Upendra Kumar Sinha as the Chairperson; Members of ESG Committee are Mr. Akhilesh Joshi, 
+Mr. Sunil Duggal and Ms. Priya Agarwal.
+9
+Does the entity have a 
+VSHFLͤHG&RPPLWWHH
+of the Board/ Director 
+responsible for decision 
+making on sustainability 
+related issues? (Yes 
+/ No). If yes, provide 
+details
+As per updated Terms of Reference of the Board level ESG Committee, the Group HSE Head and ESG Director are permanent invitees 
+to the Committee meetings. 
+The Committee comprises of Mr. Upendra Kumar Sinha as the Chairperson; Members of ESG Committee are Mr. Akhilesh Joshi, Mr. 
+Sunil Duggal and Ms. Priya Agarwal.
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+12 If answer to 
+question (1) above 
+is “No” i.e. not 
+all Principles are 
+covered by a policy, 
+reasons to be 
+stated:
+The entity does not consider the Principles material to 
+its business (Yes/No)
+NA
+NA
+NA
+NA
+NA
+??
+NA
+NA
+The entity is not at a stage where it is in a position to 
+IRUPXODWHDQGLPSOHPHQWWKHSROLFLHVRQVSHFLͤHG
+principles (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+7KHHQWLW\GRHVQRWKDYHWKHͤQDQFLDORUKXPDQDQG
+technical resources available for the task (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+,WLVSODQQHGWREHGRQHLQWKHQH[WͤQDQFLDO\HDU<HV
+No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Any other reason (please specify)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Sewage Treatment Plant 
+at Udaipur
+Vedanta Limited
+99
+98
+Principle 2
+BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT 
+IS SUSTAINABLE AND SAFE
+Sr. 
+No.
+Indicators
+Response
+2
+a. Does the entity have 
+procedures in place for 
+sustainable sourcing? (Yes/No)
+Yes, the Company includes sustainable sourcing practices by intrinsically building the clauses 
+UHODWHGWR+6(SUDFWLFHVDQGSRVLWLYHDͦUPDWLRQRQDVSHFWVSUHYHQWLQJWKHXVHRIFKLOGDQG
+forced labour in the contract
+b. If yes, what percentage 
+of inputs were sourced 
+sustainably?
+Kindly refer to Vedanta Limited’s FY2022 Sustainability Report for more information on this 
+topic.
+3
+Describe the processes in place 
+to safely reclaim your products 
+for reusing, recycling, and 
+disposing at the end of life, for
+(a)   Plastics 
+(including 
+packaging)
+Not Material to Vedanta’s operation. All the plastic waste is disposed 
+WKURXJKFHUWLͤHGWKLUGSDUWLHV
+(b)  E-waste
+Not Material to Vedanta’s operation. All the plastic waste is disposed 
+WKURXJKFHUWLͤHGWKLUGSDUW\DJHQFLHVDVSHUHZDVWHPDQDJHPHQWDQG
+handling rules.
+(c)   Hazardous 
+waste
+Waste management in a safe and responsible manner is a crucial priority 
+for our businesses. Vedanta’s waste management system is built to handle 
+ZDVWHLQDQHͦFLHQWDQGUHVSRQVLEOHPDQQHU7KHFRPSDQ\LVJXLGHG
+by ‘The resource use and waste management’ Technical Standard and 
+supporting guidance notes, which are part of the Vedanta Sustainability 
+Framework. The hazardous wastes comprise used/spent oil, waste 
+refractories, spent pot lining and residual sludge from smelters. All the 
+hazardous wastes are sent to government authorised handlers or recyclers.
+(d)  Other waste. Waste management in a safe and responsible manner is a crucial priority 
+for our businesses. Vedanta’s waste management system is built to handle 
+ZDVWHLQDQHͦFLHQWDQGUHVSRQVLEOHPDQQHU7KHFRPSDQ\LVJXLGHG
+by ‘The resource use and waste management’ Technical Standard and 
+supporting guidance notes, which are part of the Vedanta Sustainability 
+Framework.
+ 
+High volume- low-toxicity wastes are stored in tailings dams/ash-dykes or 
+RWKHUVHFXUHODQGͤOOVWUXFWXUHVEHIRUHEHLQJVHQWWRRWKHULQGXVWULHVDVUDZ
+materials – thereby recycling the waste stream.
+Other non-hazardous wastes are sent for recycling, disposed, or incinerated.
+4
+Whether Extended Producer 
+Responsibility (EPR) is 
+applicable to the entity’s 
+activities (Yes / No). If yes, 
+whether the waste collection 
+plan is in line with the Extended 
+Producer Responsibility (EPR) 
+plan submitted to Pollution 
+Control Boards? If not, provide 
+steps taken to address the 
+same.
+No
+PRINCIPLE 3 
+BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL 
+EMPLOYEES, INCLUDING THOSE IN THEIR VALUE CHAINS
+Sr. 
+No.
+Indicators
+Response
+3
+Accessibility of workplaces 
+$UHWKHSUHPLVHVRͦFHVRIWKHHQWLW\
+accessible to differently abled employees 
+and workers, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016? 
+If not, whether any steps are being taken by 
+the entity in this regard
+7KHSUHPLVHVRͦFHVZKHUHZHKDYHSHRSOHZLWKGLVDELOLWLHVDUHHTXLSSHGZLWK
+enabling infrastructure such as ramp, walkways, braille enabled elevators, text 
+to speech software for visually impaired, washrooms for people with disabilities, 
+which are as per requirements of Rights of Persons with Disabilities Act 2016.
+As next step, we are working on a roadmap in accordance with the guidelines 
+and Space Standards for Barrier Free environment for disabled persons, which 
+will ensure standardised inclusive infrastructure
+4
+Does the entity have an equal opportunity 
+policy as per the Rights of Persons with 
+Disabilities Act, 2016? If so, provide a web-
+link to the policy.
+https://www.vgcb.co.in/public/
+testimonial/879b539cc9cc9d6bfcfe8d0e61143c36.pdf
+6
+Is there a mechanism available to receive 
+and redress grievances for the following 
+categories of employees and worker? If yes, 
+give details of the mechanism in brief
+Yes/No 
+(If Yes, then give details of the mechanism in brief)
+Permanent Workers
+Yes. In Business Units like HZL, there are online Portal available where the 
+employees can log their complaints and seek for resolution. There are dedicated 
++563R&VDVZHOOIRUUHVROYLQJWKHJULHYDQFHV$GGLWLRQDOO\WKHXQLͤHG+506
+system Darwinbox is on the way and it has a dedicated employee helpdesk 
+portal, which will serve the purpose for the entire group, including business 
+partners, when it is deployed in its entirety.
+Other than Permanent Worker
+Yes, it is mandatory for our business partner to have a grievance redressal 
+mechanism as part of the contract for its employees
+Permanent Employees
+Yes. In Business Units like HZL, there are online Portal available where the 
+employees can log their complaints and seek for resolution. There are dedicated 
++563R&VDVZHOOIRUUHVROYLQJWKHJULHYDQFHV$GGLWLRQDOO\WKHXQLͤHG+506
+system Darwinbox is on the way and it has a dedicated employee helpdesk 
+portal, which will serve the purpose for the entire group, including business 
+partners, when it is deployed in its entirety.
+Other than Permanent Employees
+Yes, it is mandatory for our business partner to have a grievance redressal 
+mechanism as part of the contract for its employees.
+10
+Health and safety management system
+a.  Whether an occupational health and 
+safety management system has been 
+implemented by the entity? (Yes/ No). If 
+yes, the coverage such system?
+Yes, we have implemented a robust health and safety management system 
+across our business. It is guided by Vedanta Sustainability Framework and is 
+implemented as per the Vedanta Safety Standards (VSS) and other relevant 
+standards and guidance documents. VSS is applicable to all the Vedanta 
+operations including subsidiaries and acquisitions. All our operational facilities 
+DUHFHUWLͤHGZLWK,62
+b.  What are the processes used to identify 
+work-related hazards and assess risks 
+on a routine and non-routine basis by the 
+entity?
+9HGDQWDIROORZVWKH+D]DUG,GHQWLͤFDWLRQDQG5LVN$VVHVVPHQW+,5$SURFHVV
+DORQJZLWK-RE6DIHW\$QDO\VLV-6$IRULGHQWLͤFDWLRQRIULVNVDQGGHYHORSPHQW
+of mitigation plan. These mitigation plans are periodically updated to ensure 
+safety at workplace.
+Whether you have processes for workers to 
+report work-related hazards and to remove 
+themselves from such risks. (Y/N)
+All our sites have incident and hazard reporting procedures laid down to assist 
+the workforce to highlight unsafe working conditions and remove themselves 
+from such situations. A responsibility matrix is in place with site leadership 
+driving the closure of such unsafe observations and risks.
+Captive Power Plant 
+at HZL
+Vedanta Limited
+101
+100
+Sr. 
+No.
+Indicators
+Response
+12
+Describe the measures taken by the entity to 
+ensure a safe and healthy work place.
+Our safety culture is guided by a robust health and safety framework 
+HQFRPSDVVLQJDOODFWLYLWLHVDFURVVWKHRUJDQLVDWLRQ$GHͤQLWHVWUXFWXUH
+helps in implementing the framework. Vedanta Sustainability Framework 
+96)SXWVVLJQLͤFDQWHPSKDVLVRQ6DIHW\	2FFXSDWLRQDO+HDOWK:HKDYH
+17 safety performance standards and over 20 health and safety technical and 
+management standards. We are proud that all our operational facilities are 
+FHUWLͤHGZLWK,62DQGDOLJQWR,&00JXLGHOLQHVDQGRWKHUDSSOLFDEOH
+international occupational health and safety management systems. The robust 
+framework, guided by our commitment to ensuring a reliable workplace, equips 
+us to deal with setbacks that we face.
+In order to improve safety at workplace, in FY2022 we have initiated the 
+implementation of Critical Risk Management. Under this initiative, 13 critical risks 
+KDYHEHHQLGHQWLͤHGDFURVVWKHEXVLQHVVEDVHGRQKLVWRULFDOVDIHW\LQFLGHQWV
+and fatality learnings. A detailed mitigation plan is developed to minimise or 
+eliminate each risk across the group. This program is led by the business CEOs 
+from across the Group companies.
+15
+Provide details of any corrective action 
+taken or underway to address safety-related 
+LQFLGHQWVLIDQ\DQGRQVLJQLͤFDQWULVNV
+concerns arising from assessments of health 
+& safety practices and working conditions.
+All the fatalities including high potential incidents undergo a detailed 
+investigation using ICAM (Incident Cause Analysis Method) under the oversight 
+of the Group CEO. A corrective action and preventive action (CAPA) plan 
+LVGHYHORSHGEDVHGRQWKHͤQGLQJVRIWKHLQYHVWLJDWLRQ7KHOHDUQLQJVDUH
+implemented across the group to avoid repeat incidents. The corrective actions 
+are driven by site leadership of each location.
+PRINCIPLE 4
+BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE 
+TO ALL ITS STAKEHOLDERS
+Sr. 
+No.
+Indicators
+Response
+1
+Describe the processes 
+for identifying key 
+stakeholder groups of the 
+entity
+Our stakeholders are those individuals or organisations who have an interest in, and/or whose 
+actions impact our ability to execute our strategy. We periodically engage with different stakeholder 
+groups and actively respond to their concerns and issues. We refer to international standards like 
+*5,DQG6$6%WRFDUU\RXWVWDNHKROGHULGHQWLͤFDWLRQDQGPDWHULDOLW\DVVHVVPHQWDWJURXSOHYHO
+Our facilities are guided by internal standards on stakeholder management (part of the Vedanta 
+Sustainability Framework) to identify and engage with the local stakeholders. These standards are 
+in line in line with IFC, UNCG and other global standards.
+2
+List stakeholder groups 
+LGHQWLͤHGDVNH\IRU\RXU
+entity and the frequency 
+of engagement with each 
+stakeholder group
+Stakeholder 
+Group
+Whether 
+LGHQWLͤHGDV
+Vulnerable & 
+Marginalised 
+Group (Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement 
+(Annually/ 
+Half yearly/ 
+Quarterly 
+/ others 
+– please 
+specify)
+Purpose and scope 
+of engagement 
+including key 
+topics and 
+concerns raised 
+during such 
+engagement
+Local 
+Community
+Mixed
+ 
+Community group meetings
+ 
+Village council meetings,
+ 
+Community needs/social 
+impact assessments
+ 
+Public hearings
+ 
+Grievance mechanisms
+ 
+Cultural events
+ 
+Engaging with communities 
+via various community 
+initiatives of Vedanta 
+Foundation
+Continuous 
+Connect
+ 
+Developing and 
+undertaking 
+need-based 
+community 
+projects
+ 
+Increasing 
+community 
+outreach 
+through our 
+programs
+ 
+Improving 
+grievance 
+mechanism for 
+community
+Sr. 
+No.
+Indicators
+Response
+Employees
+No
+ 
+Chairman’s workshops
+ 
+Chairman’s/CEO’s town hall 
+meetings
+ 
+Feedback sessions
+ 
+Performance management 
+systems
+ 
+Various meetings at plant 
+level
+ 
+V-Connect mentor program,
+ 
+Event management 
+committee and welfare 
+committee
+ 
+Women’s club
+Continuous 
+Connect
+ 
+Improving 
+training on 
+HSES and 
+other pertinent 
+material 
+issues for the 
+organisation
+ 
+Providing 
+increased 
+opportunities 
+for career 
+growth through 
+internal talent 
+recognition
+ 
+Promote culture 
+of care
+Shareholders, 
+Investors, 
+& Lenders
+No
+ 
+Regular updates
+ 
+Investor meetings
+ 
+Site visits (put on hold in 
+the last year due to COVID),
+ 
+AGM and conference
+ 
+Quarterly result calls
+ 
+Dedicated contact channel 
+– Vedantaltd.ir@vedanta.
+co.in and sustainability@
+vedanta.co.in
+Quarterly and 
+on case to 
+case basis
+Consistent 
+disclosure on 
+economic, social, 
+and environmental 
+performance.
+Spread awareness 
+of the development 
+in business 
+with respect to 
+business and ESG 
+initiatives
+Civil Society
+No
+ 
+Partnerships with, 
+and membership of 
+international organisations
+ 
+Working relationships with 
+RUJDQLVDWLRQVRQVSHFLͤF
+projects
+ 
+Engagement with 
+international, national, and 
+local NGOs
+ 
+Conferences and 
+workshops
+ 
+Dedicated contact channel 
+– sustainability@vedanta.
+co.in
+As needed 
+basis
+ 
+Expectation of 
+being aligned 
+with the global 
+sustainability 
+agenda
+ 
+Commitment 
+to ensuring 
+human rights 
+for all
+Industry 
+(Suppliers, 
+Customers, 
+Peers, Media)
+No
+ 
+Customer satisfaction 
+surveys
+ 
+Vendor scorecards
+ 
+In-person visits to 
+customers, suppliers, and 
+vendor meetings (put on 
+hold during COVID)
+Continuous 
+basis
+ 
+Consistent 
+implementation 
+of the Code 
+of Business 
+Conduct and 
+Ethics
+ 
+Ensuring 
+contractual 
+integrity
+Governments No
+ 
+Participation in government 
+consultation programs,
+ 
+Engagement with national, 
+state, and regional 
+government bodies at 
+business and operational 
+level
+ 
+Meet all the regulatory 
+requirement laid down
+Continuous 
+basis
+ 
+Compliance 
+with laws
+ 
+Contributing 
+towards the 
+economic 
+development of 
+the nation
+Vedanta Limited
+103
+102
+PRINCIPLE 5 
+BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+Sr. 
+No.
+Indicators
+Response
+4
+Do you have a focal point (Individual/ 
+Committee) responsible for addressing 
+human rights impacts or issues caused 
+or contributed to by the business? (Yes/
+No)
+Yes, we have Social Performance Steering committee (SPSC) at all out sites, which is 
+responsible to drive local stakeholder engagement, grievance mechanism and human 
+rights impacts associated to our business operations.
+5
+Describe the internal mechanisms in 
+place to redress grievances related to 
+human rights issues.
+All our sites have a Social Performance Steering Committee (SPSC), which is 
+responsible to drive all the social performance related standards including grievance 
+mechanism at site to local stakeholder and human rights related issues.
+Grievance system at Vedanta sites are guided by Technical Standard and Guidance 
+note on Grievance Mechanism which are part of Vedanta Sustainability Framework 
+(VSF). These standards are in line with IFC Performance Standards and other global 
+best practices.
+7
+Mechanisms to prevent adverse 
+consequences to the complainant in 
+discrimination and harassment cases
+ICC or internal complaints committee is in place to handle sexual and non-sexual 
+harassment (bullying, discrimination) – which has a mixture of internal and external 
+members from relevant mix of backgrounds. For sexual harassment there were 
+already a set criterion in place for handling those (https://www.vedantalimited.com/
+CorporateGovernance/policy_on_prevention_and_prohibition_of_sexual_harassment_
+ͤQDOSGI).
+The additional provision of non-sexual harassment redressal has been added this year. 
+Sensitisation and training will be provided to all the employees in coordination with HR 
+and other functions.
+8
+Do human rights requirements form 
+part of your business agreements and 
+contracts? (Yes/No)
+Yes
+PRINCIPLE 6
+BUSINESSES SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE 
+THE ENVIRONMENT
+Sr. 
+No.
+Indicators
+Response
+2
+Does the entity have any sites / 
+IDFLOLWLHVLGHQWLͤHGDVGHVLJQDWHG
+consumers (DCs) under the 
+Performance, Achieve and Trade (PAT) 
+Scheme of the Government of India? 
+(Y/N) If yes, disclose whether targets 
+set under the PAT scheme have been 
+achieved. In case targets have not been 
+achieved, provide the remedial action 
+taken, if any
+Our Aluminium Business (Balco, Vedanta Ltd Jharsuguda) and our IPP’s (TSPL, 
+Vedanta Ltd Jharsuguda IPP and Balco IPP’s) are designated consumers.
+The targets set under PAT scheme have been achieved by all these sites.
+4
+Has the entity implemented a 
+mechanism for Zero Liquid Discharge? 
+If yes, provide details of its coverage 
+and implementation.
+We have a long standing zero waste and zero discharge vision. We understand the role 
+we play as an organisation in ensuring that we do not have any negative impact on the 
+environment.
+7
+Does the entity have any project related 
+to reducing Green House Gas emission? 
+If Yes, then provide details
+Yes. Vedanta has committed to become a “Net Zero Carbon organisation by 2050 or 
+sooner” and we have several projects to decarbonise our operations. Some of the 
+major GHG emissions reduction projects are undertaken in FY2022 are: 
+ %LRPDVVͤULQJLQRXUSRZHUSODQWV 
+2.  Pot graphitisation project at Vedanta Jharsuguda and BALCO 
+3.  Turbine revamping in HZL (5 turbines) 
+4.  Vedanta Jharsuguda has purchased ~ 2 Billion units of green power in FY2022 
+5.  Planned turbine revamping to improve SHR at BALCO and VAL Jharsuguda
+9
+%ULHͥ\GHVFULEHWKHZDVWH
+management practices adopted in 
+your establishments. Describe the 
+strategy adopted by your company 
+to reduce usage of hazardous and 
+toxic chemicals in your products and 
+processes and the practices adopted to 
+manage such wastes.
+Waste management in a safe and responsible manner is a crucial priority for our 
+businesses. Vedanta’s waste management system is built to handle waste in an 
+HͦFLHQWDQGUHVSRQVLEOHPDQQHU7KHFRPSDQ\LVJXLGHGE\̴7KHUHVRXUFHXVHDQG
+waste management’ Technical Standard and supporting guidance notes, which are 
+part of the Vedanta Sustainability Framework. These standards are in alignment with 
+the national Hazardous Waste Management Rules, 2016. The hazardous wastes 
+comprise used/spent oil, waste refractories, spent pot lining and residual sludge from 
+smelters. All the hazardous wastes are sent to government authorised handlers or 
+recyclers.
+S.  
+No
+0SGEXMSRSJSTIVEXMSRWSJƤGIW
+Type of 
+operations
+Whether the conditions of 
+environmental approval / 
+clearance are being complied 
+with? (Y/N) If no, the reasons 
+thereof and corrective action 
+taken, if any
+10
+,IWKHHQWLW\KDVRSHUDWLRQVRͦFHVLQ
+around ecologically sensitive areas (such 
+as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity 
+hotspots, forests, coastal regulation zones 
+etc.) where environmental approvals / 
+clearances are required, please specify 
+details in the following format
+1
+Vedanta Lanjigarh (Lanjigarh, 
+India)
+Alumina 
+5HͤQHU\
+Yes
+2
+Skorpan Zinc (Rosh Pinah, 
+Namibia)
+Mining
+Yes
+3
+Black Mountain Mines 
+(Gamsberg, South Africa)
+Mining
+Yes
+S. 
+No.
+Specify the law 
+/ regulation / 
+guidelines which 
+was not complied 
+with
+Provide 
+details of 
+the non-
+compliance
+%R]ƤRIWTIREPXMIW
+/ action taken by 
+regulatory agencies 
+such as pollution 
+control boards or by 
+courts
+Corrective action taken, 
+if any
+12
+Is the entity compliant with the applicable 
+environmental law/ regulations/ guidelines 
+in India, such as the Water (Prevention and 
+Control of Pollution) Act, Air (Prevention 
+and Control of Pollution) Act, Environment 
+protection act and rules thereunder (Y/N). 
+If not, provide details of all such non-
+compliances, in the following format:
+1
+Nil
+Nil
+At Hindustan Zinc 
+Limited (HZL), the 
+National Green 
+Tribunal (NGT) 
+directed the 
+company under 
+the Precautionary 
+Principle to 
+spend INR 25 
+crores towards 
+community welfare 
+programmes.
+NGT has accepted 
+HZL review petition for 
+allowing to spend the 
+funds under the CSR 
+program and directed 
+to joint committee to 
+submit the action taken 
+report.
+PRINCIPLE 7
+BUSINESSES, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY 
+POLICY, SHOULD DO SO IN A MANNER THAT IS RESPONSIBLE AND 
+TRANSPARENT
+S. 
+No.
+Name of the trade and industry chambers/ 
+associations
+Reach of trade and industry 
+chambers/ associations 
+(State/National)
+2
+b.   List the top 10 trade and industry 
+chambers/ associations (determined 
+based on the total members of such 
+body) the entity is a member of/ 
+DͦOLDWHGWR
+1
+Federation of Indian Mining Industries
+National
+2
+ Confederation of Indian Industry
+National
+3
+ Indian Institute of Metal
+National
+4
+Federation of Indian Chambers of Commerce 
+& Industry
+National
+5
+Mining Engineers Association of India
+National
+6
+Federation of Indian Petroleum Industry
+National
+7
+Association of Oil and Gas Operators
+National
+8
+Indian Steel Association
+National
+9
+ASOCHAM India
+National
+10
+Aluminum Association of India
+National
+Our Board and Management
+Vedanta Limited
+105
+104
+PRINCIPLE 8 
+BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE 
+DEVELOPMENT
+2
+Provide information on project(s) for which 
+ongoing Rehabilitation and Resettlement 
+(R&R) is being undertaken by your entity, in 
+the following format:
+Name of 
+Project for 
+which R&R 
+is ongoing
+State
+District
+No. of Project 
+Affected 
+Families (PAFs)
+% of PAFs 
+covered by 
+R&R
+Amounts 
+paid to 
+PAFs in the 
+FY (In INR)
+Vedanta 
+Lanjigarh
+Odisha
+Kalahandi
+Under process
+3
+Describe the mechanisms to receive and 
+redress grievances of the community.
+All our sites have a Social Performance Steering Committee (SPSC) which is 
+responsible to drive all the social performance related standards including 
+grievance mechanism at site to local stakeholder and human rights related issues. 
+Grievance system at Vedanta sites is guided by Technical Standard and Guidance 
+note on Grievance Mechanism, which are part of Vedanta Sustainability Framework 
+(VSF). These standards are in line with IFC Performance Standards and other 
+global best practices.
+PRINCIPLE 9
+BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR 
+CONSUMERS IN A RESPONSIBLE MANNER
+5
+Does the entity have a framework/ policy 
+on cyber security and risks related to data 
+privacy? (Yes/No) If available, provide a 
+web-link of the policy.
+Yes
+6
+Provide details of any corrective actions 
+taken or underway on issues relating 
+to advertising, and delivery of essential 
+services; cyber security and data privacy of 
+customers; re-occurrence of instances of 
+product recalls; penalty / action taken by 
+regulatory authorities on safety of products 
+/ services.
+NA
+Nuturing the body and 
+the mind
+Vedanta Limited
+106
