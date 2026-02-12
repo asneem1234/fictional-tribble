@@ -1,0 +1,4212 @@
+ 
+July 30, 2024  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai - 400001 
+National Stock Exchange of India Limited  
+Exchange Plaza, C/1, Block G,  
+Bandra-Kurla Complex, Bandra (E), Mumbai - 400051 
+Scrip Code: 500135 
+Trading Symbol: EPL 
+ 
+Sub. :  Business Responsibility and Sustainability Report for the Financial Year 2023-24 of 
+EPL Limited (“Company”)    
+   
+Ref. :  1.  Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 (as amended) 
+(“SEBI LODR Regulations”) 
+ 
+ 
+2.  ISIN: INE255A01020   
+  
+Sir/ Madam,     
+ 
+In terms of the above referred provisions of the SEBI LODR Regulations, the Business 
+Responsibility and Sustainability Report of the Company, for the Financial Year 2023-24 
+(“BRSR”), is enclosed herewith. 
+ 
+ 
+The BRSR forms an integral part of the Annual Report for the Financial Year 2023-24, which is 
+available on the website of the Company at https://www.eplglobal.com/investors, and on the 
+website of National Securities Depository Limited (“NSDL”), who have been appointed to 
+provide the e-Voting facility to the Members of the Company with respect to the ensuing 41st 
+Annual General Meeting of the Company, at https://evoting.nsdl.com.  
+  
+This is for your information and records.      
+ 
+Thanking you. 
+ 
+Yours faithfully,  
+For EPL Limited 
+ 
+ 
+ 
+Onkar Ghangurde 
+Head - Legal, Company Secretary & Compliance Officer 
+Encl.: As above 
+ONKAR DEEPAK 
+GHANGURDE
+Digitally signed by ONKAR 
+DEEPAK GHANGURDE 
+Date: 2024.07.30 21:43:29 +05'30'
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+103
+Business Responsibility & Sustainability Report
+Business Responsibility & Sustainability Reporting (“BRSR”) is the practice of companies disclosing information about their 
+environmental, social, and governance (ESG) performance. It goes beyond financial reporting to provide stakeholders with a 
+comprehensive view of a company’s non-financial impacts and contributions to sustainable development. BRSR covers topics such as 
+environmental impact, social responsibility, and governance practices, aiming to promote transparency and accountability.
+SECTION A: GENERAL DISCLOSURES
+I. Details of EPL Limited (“Company”/”EPL”)
+Sr. No
+Particulars
+Financial Year 2023-24 (“FY 2023-24”)
+1
+Corporate Identity Number (CIN) of the Company
+L74950MH1982PLC028947
+2
+Name of the Company
+EPL Limited
+3
+Year of incorporation
+December 22, 1982
+4
+Registered office address
+P.O. Vasind, Taluka: Shahapur, District: Thane, 
+Maharashtra – 421604
+5
+Corporate address
+Top Floor, Times Tower, Kamala City,  Senapati Bapat 
+Marg, Lower Parel,  Mumbai, Maharashtra - 400013
+6
+E-mail
+complianceofficer@eplglobal.com
+7
+Telephone
+022 24819000 / 9200
+8
+Website
+www.eplglobal.com
+9
+Financial year for which reporting is being done
+April 1, 2023 to March 31, 2024
+10
+Name of the Stock Exchange(s) where shares are listed
+BSE Limited
+(Scrip Code : 500135), and
+National Stock Exchange of India Limited
+(Scrip Code : EPL)
+11
+Paid-up Capital
+₹ 63,67,57,764/- 
+12
+Name and contact details (telephone, email address) of the 
+person who may be contacted in case of any queries on the 
+BRSR report
+Mr. Onkar Ghangurde, Head- Legal, Company 
+Secretary 
+& Compliance officer
+Tel: 022 24819000 / 9200, 
+complianceofficer@eplglobal.com
+13
+Reporting boundary - Are the disclosures under this report 
+made on a standalone basis (i.e. only for the entity) or on a 
+consolidated basis (i.e. for the entity and all the entities which 
+form a part of its consolidated financial statements, taken 
+together).
+Standalone basis
+14
+Name of assurance provider
+Not Assured
+15
+Type of assurance obtained
+Not Assured
+II. Products/services
+16. Details of business activities (accounting for 90% of the turnover)
+Sr. No
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1
+Manufacturing
+Manufacturing of plastic packaging material in the form of 
+multilayer collapsible tubes and laminates used primarily for 
+packaging of consumer products in the Beauty & Cosmetics, 
+Health & Pharmaceuticals, Food, Home and Oral care 
+categories
+93.48%
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+EPL Limited
+104
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover)
+Sr. No
+Product/Service
+NIC Code
+% of total Turnover 
+Contributed
+1
+Manufacturing of collapsible laminated, plastic 
+tubes and laminates
+22203
+93.48%
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+7
+3
+10
+International#
+14
+5
+19
+#Note: Excludes National locations for this purpose
+19. Markets served by the entity:
+a. Number of locations
+Location
+Number
+National (No. of States)
+5
+International (No. of Countries)
+29
+b. What is the contribution of exports as a percentage of the total turnover of the Company?
+22%
+c. A brief on types of customers
+EPL Limited, as the world’s leading speciality packaging company, serves a diverse array of customers across various industries. 
+Our customer base includes global, regional, and local niche brands in Oral Care, Beauty & Cosmetics, Pharma & Health, Food & 
+Nutrition, and Home Care sectors worldwide.
+IV. Employees
+20. Details as at the end of Financial Year:
+a.  Employees and workers (including differently abled):
+Sr. No
+Particulars
+Total
+Male
+Female
+(A)
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1
+Permanent (D)
+457
+419
+91.68%
+38
+8.32%
+2
+Other than Permanent (E) 
+44
+32
+72.73%
+12
+27.27%
+3
+Total employees (D + E)
+501
+451
+90.02%
+50
+9.98%
+WORKERS
+4
+Permanent (F)
+970
+912
+94.02%
+58
+5.98%
+5
+Other than Permanent (G)
+1932
+1496
+77.43%
+436
+22.57%
+6
+Total workers (F + G)
+2902
+2408
+82.98%
+494
+17.02%
+b. Differently abled Employees and workers:
+Sr. No
+Particulars
+Total
+Male
+ Female
+(A)
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+1
+1
+100%
+0
+0%
+2
+Other than Permanent (E) 
+0
+0
+0%
+0
+0%
+3
+Total differently abled 
+employees (D + E)
+1
+1
+100%
+0
+0%
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+105
+Business Responsibility & Sustainability Report
+b. Differently abled Employees and workers (Contd):
+Sr. No
+Particulars
+Total
+Male
+ Female
+(A)
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED WORKERS
+4
+Permanent (F)
+58
+43
+74.14%
+15
+25.86%
+5
+Other than Permanent (G) 
+0
+0
+0%
+0
+0%
+6
+Total differently abled workers 
+(F + G)
+58
+43
+74.14%
+15
+25.86%
+21. Participation/Inclusion/Representation of women
+Particulars
+Total
+No. and percentage of Females
+(A)
+No. (B)
+% (B / A)
+Board of Directors
+8
+1
+12.50%
+Key Management Personnel*
+3
+-
+-
+Note: *Comprising Managing Director & Global CEO who is also a member of the Board, Chief Financial Officer and Company Secretary.
+22.  Turnover rate for permanent employees and workers
+Particulars
+FY 2023-24
+FY 2022-23
+FY 2021-22
+(Turnover rate in current FY)
+(Turnover rate in previous FY)
+(Turnover rate in the year prior to 
+the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+8%
+1%
+10%
+9%
+2%
+11%
+9%
+2%
+12%
+Permanent Workers
+23%
+1%
+24%
+28%
+1%
+28%
+23%
+0%
+24%
+V.	 Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a) Names of holding / subsidiary / associate companies / joint ventures
+Sr. No
+Name of the holding / subsidiary / 
+associate companies / joint 
+ventures (A)(1) (2)
+Indicate whether 
+holding/subsidiary/ 
+Associate/ Joint Venture
+% of shares held 
+by listed entity
+Does the entity indicated 
+at column A, participate in 
+the Business responsibility 
+initiatives of the listed entity? 
+(Yes/No)
+1
+Epsilon Bidco Pte. Limited
+Holding 
+-
+No
+2
+Lamitube Technologies Limited
+Subsidiary
+100
+No
+3
+Lamitube Technologies (Cyprus) Limited
+Subsidiary
+100
+No
+4
+Arista Tubes, Inc. (3)
+Subsidiary
+92.65
+No
+5
+EPL Brasil LTDA
+Subsidiary
+100
+No
+6
+P.T. Lamipak Primula
+Associate
+30
+No
+Notes : 
+1. 	 All our Subsidiaries & Associate participate in Business responsibility initiatives on consolidated basis. Disclosures made in this report are 
+on a Standalone basis. 
+2. 	 Following are our step down Subsidiaries: 
+1. 	 EPL Packaging (Guangzhou) Limited
+2. 	 EPL Packaging (Jiangsu) Limited
+3. 	 EPL Propack Philippines, Inc.
+4. 	 EPL MISR for Advanced Packaging S.A.E.
+5. 	 EPL Propack UK Limited
+6. 	 EPL Poland sp. z.o.o.
+7. 	 EPL Deutschland GmbH & Co. KG
+8. 	 EPL Deutschland Management GmbH 
+9. 	 EPL Propack LLC
+10. 	EPL America, LLC
+11. 	Laminate Packaging Colombia S.A.S.
+12. 	EPL Propack de Mexico, S.A. de C.V.
+13. 	MTL De Panama, S.A.
+3. 	 7.35% is held through Lamitube Technologies (Cyprus) Limited.
+EPL Limited
+106
+VI. CSR Details
+24. (i)    Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+Yes
+(ii)   Turnover (in ₹)
+12,80,53,17,027/-
+(iii) Net worth (in ₹)
+9,47,33,70,525/-
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct:
+Stakeholder group 
+from whom complaint 
+is received
+Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No) * 
+FY 2023-24
+FY 2022-23
+Current Financial Year
+Previous Financial Year
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Communities
+Yes
+0
+0
+-
+0
+0
+-
+Investors (other than 
+shareholders)
+Yes
+0
+0
+-
+0
+0
+-
+Shareholders
+Yes
+10
+0
+-
+2
+0
+-
+Employees and workers
+Yes
+0
+0
+-
+0
+0
+-
+Customers
+Yes
+320
+0
+All the 
+complaints 
+of India 
+region,
+ closed with 
+customer 
+and in SAP 
+system till 
+FY24
+256
+0
+All the 
+complaints 
+of India 
+region, 
+closed with 
+customer
+ and in SAP 
+system till 
+FY23
+Value Chain Partners
+Yes
+0
+0
+-
+0
+0
+-
+Other (please specify)
+-
+-
+-
+-
+-
+-
+-
+* Grievance Redressal Mechanism in Place (Yes/No) (If Yes, then provide web-link for grievance redress policy)
+Stakeholder group from whom complaint is received
+Web Link for Grievance Policy
+Communities
+General grievance can be raised on info@eplglobal.com
+Investors (other than shareholders)
+https://www.eplglobal.com/investors/shareholder-information/ 
+Shareholders
+https://www.eplglobal.com/investors/shareholder-information/ 
+Employees and workers
+https://www.eplglobal.com/sustainability/
+Customers
+SAP and DMS portal. [Customer has the access of these portals]
+Value Chain Partners
+https://www.eplglobal.com/sustainability/
+Other (please specify)
+-
+Note: 
+Investors and Shareholders: 
+Bigshare Services Private Limited is a SEBI registered Category 1 Registrar with over 30 years of expertise in managing Investor Services and 
+has been appointed as the Company’s Registrar and Share Transfer Agent (RTA). Bigshare Services Private Limited has a robust complaint/ 
+grievance handling structure in place to ensure accountability and a timely response to each query/complaint that is received through email 
+as well as courier / post. Complaints received through the SEBI Smart ODR / SCORES portal or through the Stock Exchange are addressed and 
+Action Taken Reports [ATR] for such complaints are filed with concerned authorities.
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+107
+Business Responsibility & Sustainability Report
+26.  Overview of the entity’s material responsible business conduct issues
+Details of material responsible business conduct and sustainability issues pertaining to environmental and social matters that present 
+a risk or an opportunity to the Company’s business, rationale for identifying the same, approach to adapt or mitigate the risk along-
+with its financial implications, are as follows:
+Sr. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+1
+Materials
+Risk
+Limited resources for Recycled 
+Material, Innovation at supplier 
+side. Slow pace of Sustainable 
+material (Product) transition by 
+customer.
+Systematic approach to reusing 
+materials 
+more 
+productively 
+over their entire life cycles with 
+focus on recycled input materials. 
+Partnering with customer to develop 
+sustainable products.
+High cost of recycled material.
+Negative
+2
+Energy 
+Opportunity
+Energy 
+management 
+within 
+EPL, including steps taken to 
+reduce the energy intensity and 
+increase the share of renewable 
+sources.
+Renewable energy transition.
+Positive
+3
+Water and 
+Effluents
+Opportunity
+Water 
+management 
+within 
+operations, 
+including 
+steps 
+taken to recycle water and 
+reduce the water intensity.
+Reuse of water through STP. Process 
+water recycling using closed loop 
+system.
+Positive
+4
+Climate Change
+Opportunity
+Efforts of EPL to reduce or 
+mitigate 
+greenhouse 
+gas 
+emissions 
+are 
+contributing 
+towards national and global 
+action on addressing climate 
+change crisis.
+EPL ensures due diligence and 
+environment related compliances. 
+EPL is signatory to Science based 
+targets (SBTi) with well-defined 
+strategy to reduce our GHG emission.
+Positive
+5
+Waste
+Opportunity
+Our Operations may result in 
+hazardous and non hazardous 
+waste which can negatively 
+affect the environment.
+Recycling and Disposal of waste as 
+per the regulatory requirements.
+Positive
+6
+Human Capital 
+Development
+Opportunity
+Policies 
+and 
+practices 
+with 
+respect to human resource 
+development, including hiring 
+and retention of employees and 
+opportunities provided for skill 
+upgradation and continuous 
+learning that help them in 
+professional growth.
+EPL’s success is supported by some 
+of the brightest executives and most 
+productive workers in the sector, 
+in part because of a worldwide 
+community of learning fostered 
+through our Individual Development 
+Plans (IDPs) our online learning 
+platform.
+Positive
+7
+Labor Relations
+Opportunity
+Policies 
+and 
+practices 
+with 
+respect to working conditions, 
+wellness and discussion on 
+matters pertaining to significant
+operational changes.
+We at EPL believe that Human 
+Resources are an important asset 
+and key stakeholders in the growth 
+and prosperity of the Company. 
+People with the right competencies, 
+skill sets and attitude and whose 
+aspirations match the opportunities 
+in each role are the best resource for 
+the Company.
+Positive
+EPL Limited
+108
+Sr. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+8
+Diversity, Equal 
+Opportunity 
+and Non-
+discrimination
+Opportunity
+Ensuring fairness and equal 
+opportunity 
+for 
+everyone, 
+irrespective of race, religion, 
+gender, 
+orientation, 
+age, 
+education etc.
+EPL has operations in 5 states in India 
+and we have a strong workforce 
+of  employees on our rolls  of 1427 
+and 1976 workers through third 
+party contract and apprenticeship 
+program. Our workforce is quite 
+diverse in terms of the languages 
+spoken, age group, ethnicity, gender, 
+differently- abled employees etc. We 
+are an equal opportunity employer 
+and have well defined policies and 
+programs in place, for promoting 
+diversity and inclusion.
+Positive
+9
+Local Communities
+Opportunity
+Relationship 
+with 
+the 
+local 
+community, 
+including 
+the 
+community engagement and 
+development 
+programmes 
+and thereby creating positive 
+impacts.
+-
+Positive
+10
+Customer 
+Satisfaction
+Risk
+Shelf life of material Transport
+damage can hamper quality of
+product.
+To deliver customer satisfaction, 
+we focus on understanding our 
+customers’ needs and preferences. 
+This 
+is 
+done 
+through 
+regular 
+interaction and feedback sessions, 
+which helps the company, gain 
+a better understanding of what 
+our customers are looking for. The 
+company then uses this information 
+to 
+design 
+and 
+manufacture 
+packaging solutions that meet our 
+customers’ specific requirements.
+In 
+addition, 
+we 
+place 
+strong 
+emphasis 
+on 
+delivering 
+high-
+quality products and services. This 
+is achieved using state-of-the-art 
+technology, stringent quality control 
+measures, and a commitment to 
+continuous improvement.
+We also focus on delivering products 
+in a timely and efficient manner, as 
+we understand the importance of 
+meeting customer deadlines. Our 
+plants are certified with Quality 
+Management System, Food and 
+Safety packaging certification.
+Negative
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+109
+Business Responsibility & Sustainability Report
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section demonstrates the structures, policies and processes put in place by the Company towards adopting the NGRBC Principles and Core 
+Elements.
+Sr. 
+No.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1. a
+Whether your Company’s 
+policy/policies cover each 
+principle and its core 
+elements of the NGRBCs. 
+(Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+1. b
+Has the policy been 
+approved by the Board? 
+(Yes/No/NA)
+Yes, The Board has approved and signed all mandatory policies required by Indian laws and 
+regulations. All operational internal policies are approved and signed by the management as 
+appropriate.
+1. c
+Web Link of the Policies, if 
+available
+The weblink(s) for policies are given below: 
+https://www.eplglobal.com/investors/corporate-governance/;
+https://www.eplglobal.com/sustainability/ 
+and Policies meant for internal use are available on our internal web portal.
+2
+Whether the entity has 
+translated the policy 
+into procedures. (Yes / 
+No/ NA)
+Yes, The Company has translated the policies as applicable and implemented into procedures and 
+practices in it’s working.
+3
+Do the enlisted policies 
+extend to your value 
+chain partners? (Yes/No/
+NA)
+Yes, EPL has Supplier code of Conduct in place. The Company expects its value chain partners to 
+implement these enlisted policies in their operations.
+4
+Name of the national 
+and international codes/
+certifications/labels/ 
+standards (e.g. Forest 
+Stewardship Council, 
+Fairtrade, Rainforest 
+Alliance, Trustee) 
+standards (e.g. SA 
+8000, OHSAS, ISO, BIS) 
+adopted by your entity 
+and mapped to each 
+principle.
+-
+BIS Certification, SMETA/SEDEX 
+audits
+ISO 45001:2018
+-
+ISO 45001:2018
+ISO 14001:2015, ISO 50001:2018,
+ISO 20400:2017
+-
+-
+ISO 27001:2013
+5
+Specific commitments, 
+goals and targets set by 
+the entity with defined 
+timelines, if any.
+EPL has committed for following goals/targets to be achieved by FY 2025. 
+EPL has committed to convert 100% of its tube range to sustainable format. 
+•	
+Reuse 30% of secondary packaging.
+•	
+Reduce consumption of polymers by 25% in product range. 
+•	
+To train 100% of our workforce on Business ethic through classroom /e-learning Program. 
+•	
+To target zero fatality each year
+•	
+30% women employees across the globe by 2025. 
+EPL has set a target to reduce emission (Scope 1 + Scope 2) by 55% till 2030 against the baseline 
+2017. 
+•	
+Net Zero Emissions by 2050 across the value chain
+6
+Performance of the 
+entity against the specific 
+commitments, goals 
+and targets along-with 
+reasons in case the same 
+are not met.
+Progress for FY 2024: 
+•	
+6% of secondary packaging re-used 
+•	
+43% recyclable packaging used
+•	
+PCR consumption increased by 6 times 
+•	
+87% employees covered through classroom / e-learning modules in and 100% awareness 
+communication through various modes.
+•	
+Zero fatalities reported 
+•	
+28% women employees hired 
+•	
+17% reduction in emissions (Scope 1 and Scope2) against the baseline 2017
+EPL Limited
+110
+Governance, leadership and oversight
+7
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and 
+achievements (listed entity has flexibility regarding the placement of this disclosure)
+A detailed statement of our Managing Director on sustainability goals, commitments and developments is available in our Annual 
+Report in the MD and CEO’s Desk section.
+8
+Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy(ies).
+Mr. Anand Kripalu, Managing Director & Global CEO, under the guidance of the Board of Directors and its Committees is responsible 
+for implementation and oversight of the Business Responsibility policies.
+9
+Does the Company have a specified Committee of the Board/ Director responsible for decision making on sustainability 
+related issues? (Yes / No/ NA).
+Yes. We have a Sustainability Steering Committee (SSC) consisting of Managing Director and Senior Management of the Company.
+Role of the Sustainability Steering Committee:
+•	
+To ensure deeper integration of sustainability into all aspects of EPL
+•	
+To formulate EPL’s sustainability and climate strategy aligned with UN Paris Agreement
+•	
+To provide guidance on the setting of long, medium and short term goals in line with EPL business strategy
+•	
+To facilitate company-wide, cross-functional collaboration to address ESG (Environment, Social and Governance) and 
+Sustainability related activities.
+•	
+To give oversight on associated principle risks, risk exposure, potential impact, and risk mitigation measures.
+In addition, the Risk Management Committee also assess risks associated with ESG and Sustainability.
+10
+Details of Review of NGRBCs by the Company
+Subject for Review
+Indicate whether review was undertaken by
+Director/Committee of the Board/Any other Committee
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+a.
+Performance against above 
+policies and follow up action
+Committee of the Board*
+b.
+Compliance with statutory 
+requirements of relevance to the 
+principles and rectification of 
+any non-compliances
+Committee of the Board**
+Note:
+*At EPL, we follow a regular practice of periodical and need based review of our business responsibility policies by our departmental heads to 
+ensure validity & effectiveness. Based on the review, we make necessary changes to policies and procedures to ensure that we are 
+upholding our commitment for responsible business practices.
+**EPL Sustainability Steering Committee quarterly reviews all statutory compliance as per SEBI Regulations.
+Subject for Review
+Frequency
+(Annually / Half yearly / Quarterly / Any other-please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+a.
+Performance against above 
+policies and follow up action
+Annually
+b.
+Compliance with statutory 
+requirements of relevance to the 
+principles and rectification of 
+any non-compliances
+Quarterly
+11
+Has the entity carried out 
+independent assessment/ 
+evaluation of the working of its 
+policies by an external agency? 
+(Yes/No). 
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+If yes, provide name of the 
+agency.
+Yes,  EPL  has  obtained  independent  3rd party  assurance  from  SGS  India  for  FY 2023.
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+111
+Business Responsibility & Sustainability Report
+12
+If answer to question (1) above 
+is “No” i.e. not all Principles are 
+covered by a policy, reasons to 
+be stated:
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the 
+Principles material to its business 
+(Yes/No)
+NA
+The entity is not at a stage where 
+it is in a position to formulate 
+and implement the policies on 
+specified principles (Yes/No)
+NA
+The entity does not have the 
+financial or/human and technical 
+resources available for the task 
+(Yes/No)
+NA
+It is planned to be done in the 
+next financial year (Yes/No)
+NA
+Any other reason (please specify)
+NA
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1 Businesses should conduct and govern themselves with  integrity, and in a manner that is Ethical, Transparent 
+and Accountable
+This principle focuses on the importance of ethical conduct and transparency in business operations. Companies should follow ethical busi-
+ness practices and adhere to high standards of integrity. They should also be transparent about their activities, operations, and financial 
+reporting, as well as be accountable for their actions
+Essential Indicators
+1.     Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number 
+of training 
+and awareness 
+programmes held
+Topics/principles covered under the training and its 
+impact
+%age of persons in 
+respective category 
+covered by the awareness 
+programmes
+Board of Directors
+1
+Code of conduct (Anti Bribery and Anti-Corruption)
+100%
+Key Managerial 
+Personnel
+3
+•	
+Environment 
+(Energy, Water, Waste, 
+Life 
+Cycle 
+Assessment, Emission), Sustainable Procurement and 
+Local Sourcing 
+•	
+Code of Conduct, Anti-Bribery and Anti-Corruption, 
+Prevention of Sexual Harassment at Workplace
+•	
+Cyber Security, Work Place Safety, Mental Wellbeing
+100%
+Employees other than 
+BOD and KMPs
+7
+•	
+Environment 
+(Energy, Water, Waste, 
+Life 
+Cycle 
+Assessment, Emission), Sustainable Procurement and 
+Local Sourcing
+•	
+Code of Conduct, Anti-Bribery and Anti-Corruption, 
+Prevention of Sexual Harassment at Workplace
+•	
+Cyber Security, Work Place Safety, Mental Wellbeing
+100%
+Workers
+21
+•	
+Environment 
+(Energy, Water, Waste, 
+Life 
+Cycle 
+Assessment, Emission), Sustainable Procurement and 
+Local Sourcing
+•	
+Code of Conduct, Anti-Bribery and Anti-Corruption, 
+Prevention of Sexual Harassment at Workplace
+•	
+Cyber Security, Work Place Safety, Mental Wellbeing
+100%
+EPL Limited
+112
+2.  	 Details of fines / penalties / punishment/ award / compounding fees/ settlement amount paid in proceedings (by the 
+Company or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year:
+Monetary
+Particular
+NGRBC Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount (In ₹)
+(For Monetary Cases 
+only)
+Brief of the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/ Fine
+0
+0
+0
+0
+0
+Settlement
+0
+0
+0
+0
+0
+Compounding fee
+0
+0
+0
+0
+0
+Non Monetary
+Particular
+NGRBC Principle
+Name of the regulatory/ 
+enforcement agencies/ judicial 
+institutions
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+0
+0
+0
+0
+Punishment
+0
+0
+0
+0
+3.    Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-
+monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+NA
+NA
+4.     Does the entity have Anti-Corruption or Anti-Bribery policy? (Yes/ No)
+Yes
+Details in brief: 
+The Company has an Anti-Bribery and Anti-Corruption policy. The policy has been developed in alignment with EPL’s code of conduct, various 
+existing policies including whistle blower policy, policy on management of conflict of interest, amongst others) and rules and regulations on 
+Anti-Bribery and Anti-Corruption in India. This policy applies to all stakeholders or persons associated with EPL.
+A web-link to the policy of Anti-Bribery and/or Anti-Corruption.
+The said policy is uploaded on the website of the Company at : https://www.eplglobal.com/investors/corporate-governance/ 
+and at : https://www.eplglobal.com/wp-content/uploads/2021/04/2-WBP-EPL-2021-web.pdf
+5.    Number of Directors/ KMPs/ employees/ workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+Particular
+FY 2023-24
+FY 2022-23
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+113
+Business Responsibility & Sustainability Report
+6.    Details of complaints with regard to conflict of interest:
+Case Details
+FY 2023-24
+FY 2022-23
+Number
+Remark
+Number
+Remark
+Number of complaints received 
+in relation to issues of Conflict of 
+Interest of the Directors
+0
+-
+0
+-
+Number of complaints received 
+in relation to issues of Conflict of 
+Interest of the KMPs
+0
+-
+0
+-
+7.    Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+NA
+8.     Number of days of accounts payables:
+Particulars
+FY 2023-24
+FY 2022-23
+Number of days of accounts payables
+80
+75
+9.     Open-ness of business
+Details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and advances & 
+investments, with related parties:
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of Purchases
+a. Purchases from trading houses as % of total purchases
+4%
+3%
+b.  Number of trading houses where purchases are made from
+13
+11
+c.  Purchases from top 10 trading houses as % of total purchases 
+from trading houses
+97%
+97%
+Concentration of Sales
+a. Sales to dealers / distributors as % of total sales
+0
+0
+b. Number of dealers / distributors to whom sales are made
+0
+0
+c. Sales to top 10 dealers / distributors as % of total sales to dealers 
+/  distributors
+0
+0
+Share of RPTs in
+a. Purchases (Purchases with related parties / Total Purchases)
+0.18%
+0.35%
+b. Sales (Sales to related parties / Total Sales)
+17%
+13%
+c. Loans & advances (Loans & advances given to related parties / 
+Total loans & advances)
+0
+0
+d. Investments*
+100%
+100%
+Note: 
+* Investment includes the following items listed below. 
+A) Non-current investments.
+B) Value of stock options granted to employees of subsidiaries.
+C) Investments in preference shares.
+EPL Limited
+114
+Leadership Indicators
+1.    Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total number 
+of awareness 
+programmes held
+Topics / principles covered under the training
+Percentage of value chain partners covered (by value of 
+business done with such partners) under the awareness 
+programmes
+4
+•	 Supplier Sustainability Code of Conduct,
+•	 Awareness on Sustainable Procurement Management 
+(ISO 20400:2017 Standard);
+•	 Environmental stewardship;
+•	 Social and ethical responsibility Labor practices;
+•	 Human Rights;
+•	 Health and safety;
+•	 Sustainable value chain
+100 % EPL Strategic supplier covered through these 
+programmes.
+2.    Does the entity have processes in place to avoid/ manage conflict of interests involving members of   the 
+Board? (Yes/No) 
+Yes
+        Details of the same in brief:
+For identifying and tracking conflict of interests involving the Directors / KMPs of the Company, the Secretarial Team maintains a 
+database of the Directors and the entities in which they have substantial interest. This list is shared with the Finance Team, which flags 
+off the parties in their system for monitoring and tracking transaction(s) entered by the Company with such parties. 
+Further, the Company regularly requests and receives from each member of the Board, a list of entities in which they have a substantial 
+interest, at the beginning of every financial year and as and when there is any change in such interest. 
+In addition, a declaration is also taken annually from the Directors under the Code of Conduct confirming that they will always act in 
+the interest of the Company and ensure that any other business or personal association which they may have, does not involve any 
+conflict of interest with the operations of the Company and the role therein. The Senior Management also affirms annually that they 
+have not entered into any material, financial and commercial transactions, which may have a potential conflict with the interest of the 
+Company at large. In the Meetings of the Board, the Directors abstain from participating in the items in which they have a potential 
+conflict of interest. There is also a guidance mechanism in place for directors/senior management to address potential conflict of 
+interests that may arise in recommending/approving proposals for investments/ granting loans.
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+This principle highlights the importance of sustainable and safe production practices. Companies should strive to minimize the 
+environmental impact of their activities and ensure that their products and services are safe for consumers and the environment.
+Essential Indicators
+1.   Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Sr. No.
+Particular
+FY 2023-24
+FY 2022-23
+Details of improvements in environmental and social impacts
+1
+R&D
+53%
+75%
+Investment in Analytical Capability helped to Innovate New 
+Products and helped the business to offer more sustainable 
+(Platina) options so as to replace non-sustainable (ABL) products 
+for all the segments like beauty & cosmetics, oral etc.
+2
+Capex
+59%
+25%
+2  a.  Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+Yes
+     b. If yes, what percentage of inputs were sourced sustainably?
+60%
+Note:
+EPL is committed to making its supply chain sustainable. To achieve this goal, we have integrated Social Responsibility principles on 
+environment & social responsibility & ethics in our procurement process. As part of our sustainability approach, we have developed a 
+"Supplier Sustainability Code of Conduct" to ensure that all our suppliers comply with legal requirements, ethical practices, human rights, 
+and environmental management. 
+The code of conduct is based on globally recognized and accepted international standards, including those set forth by the International Labour 
+Organization, UN Global Compact principles, United Nations' Business and Human Rights principles, and industry best practices. Adherence to 
+the code of conduct is an expectation for doing business with EPL. It defines the minimum standards that EPL expects its suppliers, including their 
+sub-tier suppliers or sub-contractors, to respect and adhere to. By adopting this approach, we aim to work collaboratively with our suppliers 
+towards a sustainable future. Our supplier code of conduct is also available at our website at : https://www.eplglobal.com/wp-content/
+themes/epl-website/pdf/EPL-Supplier-Sustainability-Code-of-Conduct.pdf 
+In FY 24 sustainably sourced inputs were approx. 60% of our total procurement.
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+115
+Business Responsibility & Sustainability Report
+3.     Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for 
+(a)
+Plastics (including packaging)
+EPL is registered as per EPR norms and submits an annual declaration. EPL also ensures that its 
+customers are registered as Brand owners under EPR norms
+(b)
+E-waste
+N.A
+(c)
+Hazardous waste
+(d)
+Other waste
+4. Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes /No)
+Yes
+a
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to 
+Pollution Control Boards?
+Yes, EPR is applicable to our activities and we are compliant with the Plastic Waste Management Rules regarding the same. 
+Registration for units with Central Pollution Control Boards for EPR is under progress.
+b
+If not, provide steps taken to address the same
+NA
+Leadership Indicators
+1.  Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products 
+(for manufacturing industry) or for its services (for service industry)? (Yes/No)
+Yes
+Details:
+NIC Code
+Name of Product /
+Service
+% of total 
+Turnover 
+contributed
+Boundary for which the 
+Life Cycle Perspective 
+/ Assessment was 
+conducted
+Whether conducted 
+by independent 
+external agency 
+(Yes/No)
+Results 
+communicated 
+in public domain 
+(Yes/No)
+If yes, provide 
+the web-link.
+22203
+Plastic Flexible Tube 
+Manufacturing
+(Recyclable Ready 
+Polymeric Barrier 
+Layer Tubes)
+13.4%
+Cradle to gate
+Yes
+No
+NA
+2.   If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly 
+describe the same along-with action taken to mitigate the same
+Sr. No
+Name of Product/Service
+Description of the risk/concern
+Action Taken
+1
+Aluminium barrier laminated 
+(ABL) tubes*
+Non-Recyclable and Landfill
+(plastic pollution)
+Converting from Non-Recyclable ABL format to Recyclable 
+PBL (polymeric barrier laminate) format
+•	 Innovating & Introducing Sustainable (Recyclable Ready 
+Products - Platina, GML, 
+•	 Incorporating Post Consumer Recycled (PCR) in PBL 
+Products - Etain, etc.,
+Innovated and Demonstrated the ABL Recyclability using 
+advanced machinery imported from Germany (Project 
+Liberty)
+Note:
+*Life Cycle Assessment (LCA) is conducted for  Plastic Flexible Tube Manufacturing, Aluminium Barrier Laminated (ABL) tubes are a subset of 
+same process.
+3.  Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry)
+Sr. No
+Indicate input material
+Recycled or re-used input material to total material 
+(In % to Total Material considering the Value)
+FY 2023-24
+FY 2022-23
+1
+Post-Consumer Recycled (PCR)
+0.47%
+0.43%
+EPL Limited
+116
+4.    Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely 
+disposed:
+FY 2023-24
+FY 2022-23
+Sr. No.
+Particular
+Re-Used (In 
+MT)
+Recycled (In 
+MT)
+Safely
+Disposed (In 
+MT)
+Re-Used (In 
+MT
+Recycled (In 
+MT)
+Safely
+Disposed 
+(InMT)
+1
+Plastics (including packaging)
+-
+-
+-
+-
+-
+-
+2
+E waste
+-
+-
+-
+-
+-
+-
+3
+Hazardous waste
+-
+-
+-
+-
+-
+-
+4
+Other waste
+-
+-
+-
+-
+-
+-
+5.     Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Sr. No.
+Indicate product category
+Reclaimed products and their packaging materials 
+(as % of total products sold in respective category)
+Not applicable, as EPL is in B2B.
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their value chains.
+This principle emphasizes the importance of employee well-being. Companies should provide safe and healthy working conditions, 
+fair wages, and opportunities for career development to all employees in their value chains, including suppliers, contractors, and 
+temporary workers.
+Essential Indicators
+1. a.  Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total (A)
+Health insurance
+Accident insurance
+Maternity 
+benefits
+Paternity Benefits
+Day Care facilities
+Number 
+(B)
+% (B / A)
+Number 
+(C)
+% (C / A)
+Number 
+(D)
+% (D 
+/ A)
+Number 
+(E)
+% (E / A)
+Number 
+(F)
+% (F / A)
+Permanent employees
+Male
+419
+419
+100%
+419
+100%
+NA
+NA
+419
+100%
+NA
+NA
+Female
+38
+38
+100%
+38
+100%
+38
+100%
+NA
+NA
+38
+100%
+Total
+457
+457
+100%
+457
+100%
+38
+100%
+419
+100%
+38
+8.31%
+Other than permanent employees
+Male
+32
+32
+100%
+32
+100%
+NA
+NA
+0
+0%
+NA
+NA
+Female
+12
+12
+100%
+12
+100%
+12
+100%
+NA
+NA
+12
+100%
+Total
+44
+44
+100%
+44
+100%
+12
+100%
+0
+0%
+12
+27%
+1. b.  Details of measures for the well-being of workers:
+Category
+% of employees covered by
+Total (A)
+Health insurance
+Accident 
+insurance
+Maternity benefits Paternity Benefits
+Day Care facilities
+Number 
+(B)
+% (B / A)
+Number 
+(C)
+% (C / A) Number 
+(D)
+% (D / A) Number 
+(E)
+% (E / A) Number 
+(F)
+% (F / A)
+Permanent workers
+Male
+912
+912
+100%
+912
+100%
+NA
+NA
+912
+100%
+NA
+NA
+Female
+58
+58
+100%
+58
+100%
+58
+100%
+NA
+NA
+58
+100%
+Total
+970
+970
+100%
+970
+100%
+58
+100%
+912
+100%
+58
+5.98%
+Other than permanent workers
+Male
+1496
+1496
+100%
+1496
+100%
+NA
+NA
+0
+0%
+NA
+NA
+Female
+436
+436
+100%
+436
+100%
+436
+100%
+NA
+NA
+436
+100%
+Total
+1932
+1932
+100%
+1932
+100%
+436
+100%
+0
+0%
+436
+22.56%
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+117
+Business Responsibility & Sustainability Report
+1. c. Spending on measures towards well-being of employees and workers (including  
+          permanent and other than permanent)
+FY 2023-24
+FY 2022-23
+         Cost incurred on well- being measures as a % of total revenue of the company
+0.93%
+0.88%
+2.     Details of retirement benefits, for Current FY and Previous Financial Year
+FY 2023-24
+FY 2022-23
+Benefits
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Y
+100%
+100%
+Y
+Gratuity
+100%
+100%
+Y
+100%
+100%
+Y
+ESI
+0
+84%
+Y
+0
+79%
+Y
+Others – NPS
+3%
+0
+Y
+3%
+0
+Y
+3.     Accessibility of workplaces
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? 
+Yes
+If not, whether any steps are being taken by the entity in this regard.
+Our premises have been audited by V-Shesh, an award-winning India based impact enterprise working on disability inclusion. 
+They have certified that hearing and speech impaired individuals can work in the premises. Persons with disability are undergoing 
+apprenticeship at our factories.
+4.     Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016?
+Yes
+If so, provide a web-link to the policy.
+The company has a Diversity & Inclusion, Non-Discrimination and Non Harassment 
+Policy which aligns with the Convention on the Rights of Persons with Disabilities 
+and Rights of Persons with Disabilities Act, 2016 and Rules. The policy is available 
+on company’s intranet portal.
+5.     Return to work and Retention rates of permanent employees and workers that took parental leave
+Gender
+Permanent Employees
+Permanent Workers
+Return to work rate
+Retention Rate
+Return to work rate
+Retention Rate
+Male
+100%
+100%
+100%
+100%
+Female
+100%
+100%
+100%
+100%
+Total 
+100%
+100%
+100%
+100%
+6.    Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? 
+If yes, give details of the mechanism in brief.
+Category
+Yes/No
+If Yes, then give details of the mechanism in brief
+Permanent Workers
+Yes
+•	 Speak Up Platform (“Speak Up Platform” is a healthy, supportive environment, 
+where employees feel free to share their ideas, opinions and concerns 
+without fear of retaliation or penalty. At EPL, this translates to the following 
+3 approaches Culture of Trust, Uphold Code of Conduct and Commitment to 
+Timely Action )
+•	 Online Helpdesk Available Grievance Redressal Committee formed across the 
+Unit
+•	 Grievance Box available across the Unit and Head Office
+Other than Permanent Workers
+Yes
+Permanent Employees
+Yes
+Other than Permanent Employees
+Yes
+EPL Limited
+118
+7.   Membership of employees and worker in association(s) or Unions recognised by the Company:
+Category
+FY 2023-24
+FY 2022-23
+Total employees 
+/ workers in 
+respective 
+category
+(A)
+No. of 
+employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or Union (B)
+% (B/A)
+Total 
+employees 
+/ workers in 
+respective 
+category (C)
+No. of 
+employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or Union (D)
+% (D/C)
+Total Permanent employees
+Male
+419
+0
+0
+417
+0
+0
+Female
+38
+0
+0
+30
+0
+0
+Total Permanent Workers
+Male
+912
+0
+0
+871
+0
+0
+Female
+58
+0
+0
+40
+0
+0
+Note: 
+The Company, however, recognises the right to freedom of association and does not discourage collective bargaining. The Company does 
+not have any employee associations or Trade unions.	
+8.   Details of training given to employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+On Health and Safety 
+Measures
+On Skill Upgradation
+Total (D)
+On Health and 
+Safety Measures
+On Skill 
+Upgradation
+Number 
+(B)
+% (B / A)
+Number 
+(C)
+% (C / A)
+Number 
+(E)
+% (E / D)
+Number 
+(F)
+% (C / D)
+Employees
+Male
+451
+451
+100%
+308
+68%
+451
+451
+100%
+329
+73%
+Female
+50
+50
+100%
+30
+60%
+38
+38
+100%
+26
+68%
+Total
+501
+501
+100%
+338
+67%
+489
+489
+100%
+355
+73%
+Workers
+Male
+2408
+2408
+100%
+912
+38%
+1914
+1914
+100%
+871
+46%
+Female
+494
+494
+100%
+58
+12%
+496
+496
+100%
+40
+8%
+Total
+2902
+2902
+100%
+970
+33%
+2410
+2410
+100%
+911
+38%
+9.   Details of performance and career development reviews of employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. (B)
+% (B / A)
+Total (D)
+No. (E)
+% (E / D)
+Employees
+Male
+419
+410
+97.85%
+417
+414
+99.28%
+Female
+38
+35
+92.11%
+30
+30
+100%
+Total
+457
+445
+97.37%
+447
+444
+99.33%
+Workers
+Male
+912
+851
+93.31%
+871
+871
+100%
+Female
+58
+47
+81.03%
+40
+35
+87.50%
+Total
+970
+898
+92.58%
+911
+906
+99.45%
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+119
+Business Responsibility & Sustainability Report
+10. Health and safety management system
+a. Whether an occupational health and safety management system has been implemented by the 
+entity? (Yes/ No)
+Yes
+If Yes, the Coverage of such systems?
+EPL has implemented occupational health and safety management systems. EPL’s Harmonized Manufacturing Policy (HMP) is an 
+integrated management system policy that comprises elements from ISO 45001:2018
+Occupational Health and Safety Management Systems (points 4, 5, and 8). The last line of the HMP policy describes the ISO standards 
+that are integrated into this policy. 
+Our plants worldwide have received certification for ISO 45001:2018 Occupational Health and Safety Management Systems from 
+TUV Nord.
+The Company has a comprehensive SHE policy for its employees. The company regularly communicates with employees about 
+health and safety issues & encourages safe behaviour & practices. Our employees and workers at the plant receive periodic training 
+on basic and advanced fire safety, besides regularly conducted mock evacuation drills.
+To further enhance safety measures, the company has partnered with vendors to provide education and hands-on training on the 
+proper use of fire-fighting equipment.
+There were no workplace accidents involving any employees during the reporting period.
+You can find this policy on our website at https://www.eplglobal.com/wp-content/themes/epl-website/pdf/HMP-Policy-new.pdf The 
+Company places a high priority on the physical and mental well-being of its employees and has organized several workshops and 
+discussions with experts and medical practitioners to promote overall wellness
+b. What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the 
+entity?
+In the context of risk assessment, EPL follows a hierarchy of controls that includes elimination, reduction, enclosure/substitute, 
+work permit, and PPE approaches to eliminate or mitigate risks and hazards. EPL Globally conducts Hazard Identification and Risk 
+Assessment (HIRA).
+All steps, actions for operations are covered through HIRA. Each task is analysed using risk assessment criteria.
+HIRA process flow at EPL:
+c. Whether you have processes for workers to report the work related hazards and to remove themselves from such 
+risks? (Yes/ No)
+Yes
+d. Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No)
+Yes
+Identify Hazards
+Identify persons at risk
+Identify existing controls
+Accept the level of risk
+Record assessment
+Reject the level of risk
+Identify further controls
+Review
+Monitor
+Evaluate risk
+✓ 
+======;;:::=======' 
+~===========;==] 
+EPL Limited
+120
+11.   Details of safety related incidents: 
+Safety Incident/Number
+Category*
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency 
+Rate (LTIFR) (per one 
+million-person hours 
+worked)
+Employees
+0
+0.2
+Workers
+0
+0
+Total recordable work-
+related injuries
+Employees
+0
+2
+Workers
+0
+0
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High-consequence work-
+related injury or ill health 
+(excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+*Including the contract workforce
+12.   Describe the measures taken by the entity to ensure a safe and healthy work place
+EPL has developed a global SHE manual that provides guidelines on safety, health, and environmental (SHE) matters. The manual 
+covers a wide range of topics, including risk assessment, hazard identification, accident reporting and investigation, personal 
+protective equipment, fire safety, firefighting equipment, safety in operation and maintenance, safety in materials handling, safety 
+in plant equipment and testing, permit to work systems and procedures, emergency management plans, safety responsibilities and 
+awareness, safety training and communication, and safety audits.
+The manual is translated into the local languages of all the countries where EPL operates. It is available in English, Hindi, Chinese, 
+Arabic, Polish, German, and Spanish. 
+EPL conducts regular training for employees on a variety of topics, including firefighting, first aid, work permits, safety audits, and 
+incident reporting.
+13.   Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Particulars
+Filed during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working Conditions
+0
+0
+Nil
+0
+0
+Nil
+Health & Safety
+617
+10
+Safety points 
+raised by 
+workers in the 
+Safety meeting
+329
+34
+Safety points 
+raised by 
+workers in the 
+Safety meeting
+14.   Assessment for the year:
+Particulars
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15.  Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks/ concerns arising from assessments of health & safety practices and working conditions.
+There were no safety related incidents during the FY 24. However, EPL has deployed various practices according OSHAS standards
+•	 Use Equipment, Machines, and Tools Properly
+•	 Wear Safety Equipment (PPE)
+•	 Prevent Slips and Trips
+•	 Keep Work Areas and Emergency Exits Clear
+•	 Eliminate Fire Hazards
+•	 Avoid Tracking Hazardous Materials
+•	 Prevent Objects from Falling
+•	 Emergency Preparedness plan
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+121
+Business Responsibility & Sustainability Report
+Leadership Indicators
+1.    Does the entity extend any life insurance or any compensatory package in the event of death of 
+(A) Employees (Y/N)
+ Yes
+(B) Workers (Y/N)
+ Yes
+2.   Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by 
+ the value chain partners.
+The Company ensures that all statutory dues are deducted and deposited in accordance with applicable laws and regulations. 
+This activity is also reviewed as part of the company’s internal and statutory audits.  Through our Supply Chain function, we also 
+ensure that our value chain partners share this commitment and comply with all applicable laws and regulations.
+Here are some specific examples of the Company’s requirements from its value chain partners:
+•	 Pay all taxes and duties in a timely and accurate manner.
+•	 Comply with all environmental regulations.
+•	 Ensure that all employees are treated fairly and in accordance with the law.
+•	 Do not engage in any illegal or unethical activities.
+These minimum compliance requirements are executed, monitored and audited on a regular basis.
+3.     Provide the number of employees/workers having suffered high consequence work- related injury / ill-health / fatalities 
+(as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment 
+or whose family members have been placed in suitable employment:
+Particular
+Total no. of affected employees/ workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose 
+family members have been placed in suitable 
+employment
+FY 2023-24
+FY 2022-23
+FY 2023-24
+FY 2022-23
+Employees
+0
+0
+0
+0
+Workers
+0
+0
+0
+0
+4.    Does the entity provide transition assistance programs to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment? (Yes/ No/ NA)
+No
+Note : EPL continually invests in Human capital development which includes developing skills and capabilities that are contemporary 
+in addition to providing employees with a diversity of experiences across the organisation. While EPL does not have a formal transition 
+assistance program relating to retirement or termination of employment at present, we may consider rolling out the same in the future.
+5.     Details on assessment of value chain partners:
+Particular
+% of value chain partners (by value of business done with such partners) that were assessed
+Health and safety practices
+100%
+Working Conditions
+100%
+6.     Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments 
+of health and safety practices and working conditions of value chain partners
+No corrective action plan has been necessitated on the above-mentioned parameters. We have trained our 100% strategic suppliers 
+on responsible & safe business practices in FY23 & FY24.
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+This principle highlights the importance of stakeholder engagement. Companies should consider the interests and perspectives of all 
+stakeholders, including shareholders, employees, customers, suppliers, and the communities in which they operate. They should also 
+be responsive to stakeholder concerns and feedback.
+Essential Indicators
+1.     Describe the processes for identifying key stakeholder groups of the entity.
+EPL conducts materiality assessment every three years. We conducted a detailed materiality assessment in FY 2019-20. We evaluated 
+our list of material topics, ensuring their pertinence and applicability across three consecutive reporting cycles. Our process entailed 
+a comprehensive stakeholder engagement initiative to pinpoint crucial material issues that hold significance for our organization and 
+stakeholders and bear potential impact on our operation.
+EPL Limited
+122
+Refer EPL sustainability report for FY2023 (Page 33) : https://www.eplglobal.com/wp-content/uploads/2024/04/sustainability-
+report-2022-23.pdf
+EPL materiality assessment approach:
+Reporting: Report the progress on the key material issues identified through the materiality exercise.
+Categorization: The list of potential material issues was refined by clustering them into categories of Governance, Environmental and 
+Social.
+Identification: Secondary research and a review of relevant global and sectoral report on broader sustainability trends, risks, and 
+possibilities resulted in the list of probable material issues.
+Prioritization: Material issues were prioritized based through extensive consultations with our Corporate Leadership Team and the 
+Sustainability Steering Committee.
+Integration: Prioritized material issues were further validated with key stakeholders to arrive at issues which are most material to us. 
+These issues are integrated in our business processes, operations and monitoring and mechanisms.
+2.     List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group
+Channels of communication  
+(Email, SMS, Newspaper, Pamphlets, 
+Advertisement, Community Meetings, 
+Notice Board, Website, Other- Please 
+Specify)
+Frequency of 
+engagement 
+(Annually, 
+Half-yearly, 
+Quarterly, 
+others- Please 
+specify)
+Purpose and scope of engagement including 
+key topics and concerns raised during such 
+engagement
+Investors/ 
+Shareholders
+No
+No Annual and quarterly financial
+No Annual 
+and quarterly 
+financial
+•	 Understand concerns and exceptions
+•	 Provide better value
+•	 Provide 
+an 
+update 
+on 
+the 
+business 
+Performance
+Employees
+No
+Ongoing 
+employee 
+engagement/ 
+satisfaction 
+surveys, 
+structured 
+appraisals, rewards and recognition, 
+engagement activities, training and 
+awareness programs
+Throughout 
+year
+•	 Attract best talent
+•	 Provide a fulfilling career path
+•	 Align their actions to the EPL vision and 
+mission
+Suppliers/
+Vendors
+No
+Periodic engagement meets with 
+suppliers, supplemented by one-on-
+one interactions with key suppliers
+Throughout 
+year
+•	 Ensure 
+clarity 
+of 
+mutual 
+expectations 
+regarding quality, timeliness, and costs
+•	 Align their processes and policies with our 
+sustainability roadmap
+•	 Share industry best practices
+Customers
+No
+Structured 
+customer 
+engagement 
+programs (CEP) for the larger customer 
+group, and individual interactions with
+major customers
+Throughout 
+year
+•	 Anticipate and fulfil their expectations
+•	 Provide product and service quality that can 
+ensure a long term relationship
+Communities
+No
+Periodic interactions on ground to 
+understand community needs and 
+gaps in earlier CSR effort
+Throughout 
+year
+•	 Enrich lifestyle by providing a better livelihood
+•	 Spread awareness of the benefits of our 
+sustainability strategy
+Industry Peers
+No
+Participation of executive leadership at 
+industry forums
+Throughout 
+year
+•	 Exchange best practices that can elevate the 
+industry
+•	 Provide thought leadership that can ensure 
+sustainable practices are implemented
+Government
+No
+Timely and complete, adherence to 
+various 
+compliance 
+requirements, 
+engaging appropriate government 
+agencies 
+in 
+industry-specific 
+discussions when needed
+Throughout 
+year
+•	 Keep abreast of latest compliance and 
+regulatory requirements
+•	 Provide industry inputs that can make policies 
+more effective
+Leadership Indicators
+1. 	 Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social 
+topics or if consultation is delegated, how is feedback from such consultations provided to the Board
+EPL has constituted a Sustainability Steering Committee (SSC). The MD & COO are an integral part of the SSC along with other KMP.  The 
+SSC is the chief vehicle for enabling consultation and feedback between our stakeholders and our BOD. The role of the SSC is:
+•	 Ensuring integration of ESG aspects in the organization
+•	 To evaluate the ESG performance
+•	 Develop long, medium, and short-term sustainability goals aligned with EPL’s business strategy.
+•	 Enhance transparency, governance, and disclosure on sustainability topics to facilitate ESG ratings by EcoVadis, CDP, and other 
+such organizations.
+•	 Encourage company-wide, cross-functional collaboration to address ESG material topics, risks, and opportunities.
+•	 Evaluate sustainability/ESG performance and recommend corrective actions as needed.
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+123
+Business Responsibility & Sustainability Report
+The committee meets quarterly to review progress and ensure alignment with EPL’s sustainability objectives.
+We believe that a strong governance framework is built on trust and enforced through robust structures, responsible leadership, and 
+responsive employees.
+We are committed to promoting a culture of integrity, accountability, and transparency throughout the organization. Our governance 
+practices are regularly reviewed and enhanced to ensure they remain effective in achieving our objectives and meeting the 
+expectations of our stakeholders.
+2. 	 Whether stakeholder consultation is used to support the identification and management of environmental,	
+Yes
+	
+and social topics (Yes/No).	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into 
+policies and activities of the entity.
+At EPL, we recognize that collaboration is essential, to the success of managing material topics & we have the support and active 
+participation of all our stakeholders, which has been instrumental in helping us achieve and exceed our sustainability goals. We involve 
+our stakeholders in the entire cycle of activities, starting with planning, followed by execution and feedback for further improvement. 
+We utilize various engagement modes to interact with diverse stakeholder groups, including our investors, employees, customers, 
+vendors and the community.
+EPL leads or participates in industry bodies that drive change towards more sustainable business practices. We diligently engage with 
+each of our stakeholder groups at regular frequencies based on their requirements.
+Some examples of actions taken based on stakeholder input:
+a) We became signatories to the United Nations Global Compact’s ten principles.
+b) We have committed to the Ellen MacArthur Foundation’s principles, including global tangible targets on the plastic circular economy.
+c) We have also obtained certification on ISO 20400:2017 (sustainable procurement) practices.
+3. 	 Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized 
+stakeholder groups.
+Our organization has engaged with vulnerable/marginalized stakeholder groups in various ways. We provide easy access to cleanwater 
+through our water access program in remote areas. We have conducted medical health camps for villagers and improved educational 
+infrastructure in schools located in rural and remote areas. We have constructed additional classrooms, equipped schools with math 
+and science labs, and provided educational resources. We also worked with a village to provided street lights.
+PRINCIPLE 5 Businesses should respect and promote human rights.
+This principle focuses on the importance of human rights. Companies should respect and promote human rights, including the rights 
+to freedom of expression, association, and privacy. They should also prevent and address human rights violations in their operations 
+and value chains.
+Essential Indicators
+1.     Employees and workers who have been provided training on human rights issues and policy(ies) of the entity:
+FY 2023-24
+FY 2022-23
+Category
+Total (A)
+No. of 
+employees/ 
+workers 
+covered (B)
+% (B / A)
+Total (C)
+No. of 
+employees/ 
+workers 
+covered (D)
+% (D / C)
+Employees
+Permanent
+457
+457
+100%
+447
+447
+100%
+Other than permanent
+44
+44
+100%
+42
+42
+100%
+Total Employees
+501
+501
+100%
+489
+489
+100%
+Workers
+Permanent
+970
+970
+100%
+911
+911
+100%
+Other than permanent
+1932
+1932
+100%
+1499
+1499
+100%
+Total Workers
+2902
+2902
+100%
+2410
+2410
+100%
+EPL Limited
+124
+2.     Details of minimum wages paid to employees and workers
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+Equal to Minimum 
+Wage
+More than Minimum Wage
+Total (D)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+No.(B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (E)
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+Permanent
+Male
+419
+0
+0
+419
+100%
+417
+0
+0
+417
+100%
+Female
+38
+0
+0
+38
+100%
+30
+0
+0
+30
+100%
+Total
+457
+0
+0
+457
+100%
+447
+0
+0
+447
+100%
+Other than Permanent
+Male
+32
+0
+0
+32
+100%
+34
+0
+0
+34
+100%
+Female
+12
+0
+0
+12
+100%
+8
+0
+0
+8
+100%
+Total
+44
+0
+0
+44
+100%
+42
+0
+0
+42
+100%
+Workers
+Permanent
+Male
+912
+0
+0
+912
+100%
+871
+0
+0
+871
+100%
+Female
+58
+0
+0
+58
+100%
+40
+0
+0
+40
+100%
+Total
+970
+0
+0
+970
+100%
+911
+0
+0
+911
+100%
+Other than Permanent
+Male
+1496
+1496
+100%
+0
+0
+1043
+1043
+100%
+0
+0
+Female
+436
+436
+100%
+0
+0
+456
+456
+100%
+0
+0
+Total
+1932
+1932
+100%
+0
+0
+1499
+1499
+100%
+0
+0
+3.     Details of remuneration/salary/wages
+a.    Median remuneration / wages:
+Particulars
+Male
+Female
+Number
+Median remuneration/ salary/ wages 
+of respective category (Amount in `)
+Number
+Median remuneration/ salary/ wages 
+of
+respective category (Amount in `)
+Board of Directors (BoD)*
+8
+7,36,55,887.88
+1
+-
+Key Managerial Personnel
+3
+1,00,12,611
+0
+-
+Employees other than BoD 
+and KMP
+413
+11,09,198
+35
+9,68,495
+Workers
+940
+2,98,083
+58
+2,37,669
+Note: *For Calculation of Median only Executive Directors are considered
+b. Gross wages paid to females as % of total wages paid by the entity:
+Particulars
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of total wages
+6.72%
+6.99%
+4.    Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or 
+issues caused or contributed to by the business?
+Yes
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+125
+Business Responsibility & Sustainability Report
+5.    Describe the internal mechanisms in place to redress grievances related to human rights issues
+EPL has a Human Rights policy which gives the mechanism for redressal of any grievance related to Human Rights issues.
+EPL Ltd. has a clear, transparent, quick, robust and confidential grievance redressal system which effectively helps to manage 
+workplace conflicts and potentially go a long way in bringing harmony at all EPL Ltd locations.
+Agenda and discussion during Works Committee Meetings and Focused Group Discussion (FGD) which are conducted monthly and/
+or quarterly A formal report should be forwarded to the Human Rights Committee on a six-monthly basis All employees, supervisors 
+and staff are extended adequate information and training on the subject. Anyone who has doubt about a potential likelihood of 
+human rights violation incidence in spite of all precautions is expected and should report the same immediately through the Speak 
+Up Portal Communication about the policy is covered through different channels of internal communication such as – induction, 
+awareness sessions, emailers, internal magazine etc. to ensure 100% employee awareness.
+6.    Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Particulars
+Filed during the 
+year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Sexual Harassment
+0
+0
+0
+0
+-
+Discrimination at workplace
+0
+0
+0
+0
+-
+Child Labour
+0
+0
+0
+0
+-
+Forced Labour/Involuntary 
+Labour
+0
+0
+0
+0
+-
+Wages
+0
+0
+0
+0
+-
+Other human rights related 
+issues
+0
+0
+0
+0
+-
+7.    Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 
+2013:
+Particulars
+FY 2023-24
+FY 2022-23
+Total Complaints reported under Sexual Harassment on of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+Nil
+Nil
+Complaints on POSH as a % of female employees / workers
+0%
+0%
+Complaints on POSH upheld
+Nil
+Nil
+8.    Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases
+EPL is committed to being a workplace which is free of harassment and discrimination, including sexual harassment at the workplace, 
+and has zero tolerance for such unacceptable conduct.
+Through our trainings on Code of Conduct and Whistle-blower Policy, we encourage and educate our employees to report any 
+harassment concerns and is responsive to complaints about harassment or other unwelcome or offensive conduct. We also stress 
+on importance of No Retaliation principle in case of any complaints relating to human rights raised by our employees or any other 
+stakeholders.
+9.    Do human rights requirements form part of your business agreements and contracts? (Yes/No/NA)
+Yes
+10. Assessments for the year:
+Name of the Assessment
+% of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Child labour 
+100%
+Forced/involuntary labour 
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others - Please specify
+-
+Note:
+100% of our plants and offices are assessed by third party.
+EPL Limited
+126
+11. Provide details of any corrective actions taken or underway to address significant risks /  
+concerns arising from the assessments at Question 10 above
+Not applicable
+Leadership Indicators
+1.    Details of a business process being modified / introduced as a result of addressing human rights grievances/    
+complaints.
+       Not Applicable, as there were no Human Rights grievances and Complaints during the financial year.
+2.    Details of the scope and coverage of any Human rights due-diligence conducted.
+        Majority of factory locations are covered under SEDEX audits. These audits cover human rights elements.
+3.    Is the premise/office of the entity accessible to differently abled 
+visitors, as per the requirements of the Rights of Persons with 
+Disabilities Act, 2016? (Yes/No)
+Yes. We are continuously working towards 
+improving infrastructure for eliminating barriers to 
+accessibility.
+4.    Details on assessment of value chain partners:
+Name of the Assessment
+% of value chain partners (by value of business 
+done with such partners) that were assessed
+Sexual harassment 
+100%
+Discrimination at workplace 
+100%
+Child Labour 
+100%
+Forced Labour/Involuntary Labour 
+100%
+Wages 
+100%
+EPL’s strategic supplier's training on sustainable  procurement practices
+100%
+EPL Buyers covered through training on social & environmental issues
+100%
+EPL’s strategic suppliers have signed sustainability code of conduct
+100%
+Suppliers’ contracts have Integration of social, environmental, responsible 
+procurement clauses
+100%
+5.    Provide details of any corrective actions taken or underway to address significant risks / 
+concerns arising from the assessments at Question 4 above.
+Not applicable
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment.
+This principle emphasizes the importance of environmental stewardship. Companies should minimize their impact on the environ-
+ment, conserve natural resources, and promote environmental sustainability. They should also take steps to restore and rehabilitate 
+degraded ecosystems.
+Essential Indicators
+1.     Details of total energy consumption (in Joules or multiples) and energy intensity:
+Parameter
+FY 2023-24
+FY 2022-23
+From renewable sources, Gigajoules (GJ)
+Total electricity consumption (A)
+55144 
+36245
+Total fuel consumption (B)
+0
+0
+Energy consumption through other sources (C)
+0
+0
+Total energy consumed from renewable sources (A+B+C) GJ
+55144 
+36245
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+127
+Business Responsibility & Sustainability Report
+1.     Details of total energy consumption (in Joules or multiples) and energy intensity (contd.):
+Parameter
+FY 2023-24
+FY 2022-23
+From non-renewable sources (GJ)
+Total electricity consumption (D)
+ 159509 
+148453
+Total fuel consumption (E )
+ 17706 
+15016
+Energy consumption through other sources (F)
+0 
+0
+Total energy consumed from non-renewable sources (D+E+F) GJ
+ 177214 
+163469
+Total energy consumed (A+B+C+D+E+F)
+232358
+199714
+Energy intensity per rupee of turnover (Total energy consumed / Revenue from operations 
+in millions)
+ 18.14 
+16.52
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total 
+energy consumed / Revenue from operations in millions adjusted for PPP)
+366.91 
+378.08
+Energy intensity in terms of physical output (Quantity given in per million of tubes.)
+0.017
+0.019
+Energy intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency?
+Yes
+If yes, name of the external agency.
+EPL has obtained independent third party assurance from SGS India 
+(for FY 23) & FY 24 is expected to be completed by Q3 of FY25.
+2.    Does the entity have any sites / facilities identified as designated consumers (DCs) under the 
+Performance, Achieve and Trade (PAT) Scheme of the Government of India? (Yes/No)
+ Not Applicable
+        If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been achieved, 
+provide the remedial action taken, if any.
+3.     Provide details of the following disclosures related to water:
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+-
+-
+(ii) Groundwater
+ -
+-
+(iii) Third party water
+ 1,17,944
+ 1,00,842
+(iv) Seawater / desalinated water
+-
+-
+(v) Others
+-
+-
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+1,17,944
+1,00,842
+Total volume of water consumption (in kilolitres)
+1,17,944
+1,00,842
+Water intensity per rupee of turnover 
+(Total water consumption / Revenue from operations in millions)
+9.21
+8.34
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total water consumption / Revenue from operations in millions adjusted for PPP)
+186.24 
+168.70
+Water intensity in terms of physical output per million of tubes
+0.033
+0.037
+Water intensity
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Yes/No)
+Yes
+If yes, name of the external agency.
+EPL has obtained independent third party assurance from SGS India 
+(for FY 23) & FY 24 is expected to be completed by Q3 of FY25.
+Note:
+From the total water demand 25.72% of the water demand is managed through recycled water.
+EPL Limited
+128
+4.     Provide the following details related to water discharged:
+Parameter
+FY 2023-24
+FY 2022-23
+Water discharge by destination and level of treatment (in kilolitres)
+(i) To Surface water
+No treatment
+-
+-
+With treatment 
+-
+-
+(ii) To Groundwater
+No treatment
+-
+-
+With treatment
+-
+-
+(iii) To Seawater
+No treatment
+-
+-
+With treatment
+-
+-
+(iv) Sent to third-parties
+No treatment
+-
+-
+With treatment 
+-
+-
+(v) Others
+No treatment
+-
+-
+With treatment
+-
+-
+Total water discharged (in kilolitres)
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been 
+carried out by an external agency? (Y/N)
+Yes 
+If yes, name of the external agency
+EPL has obtained independent third party assurance from SGS India 
+(for FY 23) & FY 24 is expected to be completed by Q3 of FY25.
+5.     Has the entity implemented a mechanism for Zero Liquid Discharge?
+No
+         If yes, provide details of its coverage and implementation.
+In our operations the only liquid discharge is process water, which is primarily used in our operations for machine and mould cooling 
+purposes. We value this key resource, hence we have initiatives in place to reduce our water consumption & have implemented a 
+closed-loop system that recirculates water for cooling through our chillers and reuse the water. This has minimized our water usage 
+and ensures efficient management of this key resource Further in adherence to our Good Manufacturing Practices (GMP), we have 
+installed Sewage Treatment Plants (STPs) in our manufacturing plants to recycle wastewater. This enables us to treat wastewater 
+and is then recycled back into our operations, thereby minimising discharge of water as well as enabling less fresh water draw, 
+thereby reducing the impact on the environment. Our commitment to sustainable water management is an ongoing effort, and we 
+continually assess our operations to identify areas where we can improve our water efficiency and reduce our water footprint, across 
+all our plants
+6.     Please provide details of air emissions (other than GHG emissions) by the entity:
+Parameter
+Please specify unit
+FY 2023-24
+FY 2022-23
+NOx
+Metric tonnes of CO₂ equivalents
+0.075
+0.068
+SOx
+Metric tonnes of CO₂ equivalents
+0.011
+0.010
+Particulate matter (PM)
+Metric tonnes of CO₂ equivalents
+0.040
+0.036
+Persistent organic pollutants (POP)
+-
+NA
+NA
+Volatile organic compounds (VOC)
+-
+NA
+NA
+Hazardous air pollutants (HAP)
+-
+NA
+NA
+Others
+-
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N)
+Yes
+If yes, name of the external agency
+EPL has obtained independent third party 
+assurance from SGS India (for FY 23) & FY 24 
+is expected to be completed by Q3 of FY25.
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+129
+Business Responsibility & Sustainability Report
+7.     Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 1 emissions (Break-up of the GHG into CO₂,
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO₂ 
+equivalent
+Total 925
+CO2 : 912
+CH4 : 0.14
+N2O :12.15
+Total 761
+CO2 : 751
+CH4 : 0.12
+N2O :10
+Total Scope 2 emissions (Break-up of the GHG into CO₂,
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO₂ 
+equivalent
+Total 24293
+CO2 : 24093
+CH4 : 20
+N2O : 180
+Total 21869
+CO2 : 21742
+CH4 : 13
+N2O : 114
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from 
+operations in millions)
+1.97
+1.87
+Total Scope 1 and Scope 2 emission intensity per rupee of 
+turnover adjusted for Purchasing Power Parity (PPP)
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from 
+operations in millions adjusted for PPP)
+-
+39.82
+37.86
+Total Scope 1 and Scope 2 emission intensity in terms of 
+physical - output per million of tubes
+-
+0.157
+0.172
+Total Scope 1 and Scope 2 emission intensity (optional) – the 
+relevant metric may be selected by the Company
+-
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N)
+Yes
+If yes, name of the external agency
+EPL has obtained independent third party 
+assurance  from SGS India (for FY 23) & FY 24 is 
+expected to be completed by Q3 of FY25.
+8.    Does the entity have any project related to reducing Green House Gas emission?  (Yes/ No)
+Yes
+        If Yes, then provide details.
+At EPL, sustainability is a core value that guides our operations. We are committed to minimizing our environmental impact and 
+reducing our carbon footprint through various initiatives. Our focus is not only on reducing our own emissions but also on helping our 
+customers reduce their carbon footprint by implementing sustainable practices throughout the supply chain, including optimizing 
+transport and using sustainable products. We are committed to complying with all regulatory emission standards and continuously 
+improving our eco-friendliness. For more information on our overall sustainability plan please refer page no. 73 and 74 of  FY23 
+sustainability report available at https://www.eplglobal.com/wp-content/uploads/2024/04/sustainability-report-2022-23.pdf
+9.    Provide details related to waste management by the entity:
+Parameter
+FY 2023-24
+FY 2022-23
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+6,831
+5,795
+E-waste (B)
+0.69
+0.29
+Bio-medical waste (C)
+0
+0.17
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+9.62
+0
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any. (G)
+66.87
+99.10
+Other Non-hazardous waste generated (H). 
+Please specify, if any. (Break-up by composition i.e. by materials relevant to the sector)
+29.17
+35.55
+Total (A+B + C + D + E + F + G + H)
+6,937
+5,930
+Waste intensity per rupee of turnover (Total waste generated / Revenue from operations in 
+millions)
+0.54
+0.49 
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total 
+waste generated / Revenue from operations adjusted for PPP)
+10.91
+9.90
+Waste intensity in terms of physical output per million of tubes
+0.57
+0.64
+Waste intensity (optional)
+-
+-
+EPL Limited
+130
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in metric 
+tonnes)
+Category of waste
+FY 2023-24
+FY 2022-23
+(i) Recycled
+6831
+5795
+(ii) Re-used
+90
+35
+(iii) Other recovery operations
+-
+-
+Total
+6921
+5830
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+FY 2023-24
+FY 2022-23
+(i) Incineration
+-
+-
+(ii) Landfilling
+-
+-
+(iii) Other disposal operations
+-
+-
+Total
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N)
+Yes
+If yes, name of the external agency
+EPL has obtained independent third party 
+assurance from SGS India (for FY 23) & FY 24 is 
+expected to be completed by Q3 of FY25.
+10.  Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your 
+company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to 
+manage such wastes
+Regarding waste management, we strictly adhere to the guidelines and regulations set forth by the respective pollution control 
+boards. This ensures that our waste disposal practices are in compliance with the necessary licenses and permits. We maintain a 
+systematic approach to handle waste, taking into account its type, quantity, and potential environmental impacts
+11. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details:
+Sr. No.
+Location of operations/
+office
+Type of operations
+Whether the conditions of 
+environmental approval/
+clearance are being 
+complied with? (Y/N)
+If no, the reasons thereof 
+and corrective action 
+taken, if any.
+1
+EPL Goa
+Manufacturing
+Yes
+-
+2
+EPL Nalagarh
+Manufacturing
+Yes
+-
+3
+EPL Vapi
+Manufacturing
+Yes
+-
+4
+EPL Wada
+Manufacturing
+Yes
+-
+5
+EPL  Vasind
+Manufacturing
+Yes
+-
+6
+EPL Assam
+Manufacturing
+Yes
+-
+7
+EPL Manpura
+Manufacturing
+Yes
+8
+EPL HO
+ Head Office
+Yes
+-
+12. Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year:
+Name and brief details 
+of project
+EIA 
+Notification 
+No.
+Date
+Whether conducted by 
+independent external agency 
+(Yes / No)
+Results communicated 
+in public domain (Yes 
+/ No
+Relevant Web 
+link
+NIL
+13.  Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such 
+as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, 
+Environment protection act and rules thereunder (Y/N/NA).
+Yes
+The Entity is compliant with applicable environmental laws such as Water Prevention and Control of Pollution, Air Prevention and Control 
+of Pollution Act, Environmental Protection act. We conduct Air, water and Noise monitoring for all our plants every three months.
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+131
+Business Responsibility & Sustainability Report
+If not, provide details of all such non-compliances: 
+Specify the law/regulation/ 
+guidelines which was not 
+complied with
+Provide details of the non- 
+compliance
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution 
+control boards or by courts
+Corrective action 
+taken, if any
+NA
+NA
+NA
+NA
+Leadership Indicators
+1.     Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+For each facility / plant located in areas of water stress, provide the following information: 
+(i) Name of the Area
+ NA
+(ii) Nature of Operations
+ NA
+*EPL does not have any operation in the areas of water stress.
+(iii) Water withdrawal, consumption and discharge: 
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kilolitres)
+NA
+NA
+(i) Surface water
+-
+-
+(ii) Groundwater
+-
+-
+(iii) Third party water
+-
+-
+(iv) Seawater / desalinated water
+-
+-
+(v) Others
+-
+-
+Total volume of water withdrawal (in kilolitres)
+NA
+NA
+Total volume of consumption (in kilolitres)
+NA
+NA
+Water intensity per rupee of turnover (Water consumed / turnover)
+-
+-
+Water intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+Water discharge by destination and level of treatment (in kilolitres) 
+NA
+NA
+(i) To Surface water
+-
+-
+No treatment
+-
+-
+With treatment
+-
+-
+(ii) To Groundwater
+-
+-
+No treatment
+-
+-
+With treatment
+-
+-
+(iii) To Seawater
+-
+-
+No treatment
+-
+-
+With treatment
+-
+-
+(iv) Sent to third-parties
+-
+-
+No treatment
+-
+-
+With treatment
+-
+-
+(v) Others
+-
+-
+No treatment
+-
+-
+With treatment
+-
+-
+Total water discharged (in kilolitres)
+NA
+NA
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N)
+Yes
+If yes, name of the external agency
+EPL has obtained independent third party 
+assurance from SGS India (for FY 23) & FY 24 is 
+expected to be completed by Q3 of FY25.
+EPL Limited
+132
+2.     Please provide details of total Scope 3 emissions & its intensity:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 3 emissions (Break-up of the GHG into CO₂, CH₄, N₂O, 
+HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO₂ 
+equivalent
+163694
+148545
+Total Scope 3 emissions per rupee of turnover in Millions
+12.78
+12.30
+Total Scope 3 emission intensity
+Note: Quantity given in per million of tubes.
+0.024
+0.025
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N)
+Yes
+If yes, name of the external agency
+EPL has obtained independent third party 
+assurance from SGS India (for FY 23) & FY 24 is 
+expected to be completed by Q3 of FY25.
+3.    With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, provide details of 
+significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation 
+activities
+Vasind factory falls under the forest area. There is no direct or indirect impact of the entity on biodiversity in this area as the factory 
+falls under ‘green’ category as per pollution control board license.
+4.  If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as 
+well as outcome of such initiatives:
+Initiative 
+Details of the initiative (Web-
+link, if any, may be provided 
+along-with summary)
+Outcome of the initiative
+Corrective 
+action taken, 
+if any
+Energy reduction 
+initiatives at Vasind
+Optimizing Energy Efficiency in 
+Chiller Systems  at Vasind Plant
+By replacing five pumps with a single pump running at 30 kW, 
+energy consumption has been significantly reduced from 46.5 kW 
+to just 30 kW, resulting in substantial energy savings. This efficient 
+pump replacement demonstrates the importance of optimizing 
+equipment usage to conserve energy.
+NA
+Energy Conservation 
+at vasind
+Find out a Sustainable Solution 
+for Slitting trim waste in terms 
+of Energy Conservation, Space 
+Optimization, and Enhanced 
+Handling at Vasind Plant
+Previously, a 7.5 kW trim exhaust blower was used to expel trim 
+outside, causing space constraints and contamination from dust 
+and water in open areas. However, with the introduction of trim 
+rewinders, power consumption has reduced to 1.5 kW. The trim is 
+now stored in coil form on pallets, occupying less space, and can be 
+easily moved using a hydraulic pallet truck (HPT). Moreover, the trim 
+is much cleaner and can be recycled if desired. 
+NA
+Technology 
+upgradation at Goa
+MINI 300 Machines installtions
+Old technology  Low  Speed machines ( LSL, 9 nos ) which were 
+consuming high power were replaced with latest technology High 
+Speed Machine (MINI 300 2 nos). This 2 nos machines are contributing 
+to output of 9 nos of LSL machines. This has helped us to reduce 
+power unit by approx 2200 KWH/day. This Was implemented in April 
+22.
+NA
+Technology 
+upgradation at EPL 
+Wada
+Upgradation of Fans and 
+conventional lighting
+Installation SuperFan (27fans consumed) And LED Lights (364 
+Tubelights replaced with 141 LED)
+NA
+Energy reduction at 
+EPL Assam
+Implementation of energy 
+reduction in printing section
+Energy reduction in printing HVAC unit
+NA
+Process 
+improvement at EPL 
+Nalagarh.
+Use of new machines for 
+improving efficiency
+HSL auto packer blower interlock and UHSL auto packer blower 
+interlock
+NA
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+133
+Business Responsibility & Sustainability Report
+Initiative 
+Details of the initiative (Web-
+link, if any, may be provided 
+along-with summary)
+Outcome of the initiative
+Corrective 
+action taken, 
+if any
+Technology 
+upgradation  at EPL 
+Nalagarh
+MTH hydraulic motor interlock
+Hydraulic motor run command interlocked with main machine 
+(Saving calculated at machine efficiency)
+NA
+Technology 
+upgradation at EPL 
+Nalagarh
+Implementation of LED lights 
+for energy conservation.
+Convert ceiling lights from CFL to LED
+NA
+5.     Does the entity have a business continuity and disaster management plan? (Yes/No)
+ Yes
+Give details in 100 words/ web link.
+Each unit has a Disaster Management Plan and mock drills are conducted on a periodic basis. We have also empowered our leadership 
+teams, at the Corporate office as well as the Regional offices, to take necessary steps as they deem fit in such an event. For all the 
+critical Business Applications, we have a Disaster Recovery System in place which takes between 1 and 6 hours to go live in case of a 
+system break-down. Further, our servers are kept in two different locations so that issue at a particular location does not impact the 
+entire company.
+6.    Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation 
+or adaptation measures have been taken by the entity in this regard
+EPL has identified the risks in lines of the ESG compliance which covers the environment factor as a part of the ISO 20400 (Sustainable 
+Procurement) accreditation & has provided the parallel control measures to mitigate the risks. This is applicable to entire Value chain 
+in the EPL Supply chain. EPL plants globally achieved ISO 14001:2015 (Environment Management system certification). For this EPL 
+globally carryout out Environment aspect Impact study. This aspect impact study shows environment related aspect in each stage of 
+EPL operation, its impact on environment & control measures that EPL adopted. Our Sustainable Procurement policy is developed by 
+EPL to ensure sustainable practices are adhered to by the Supply Chain team. The policy incorporates the responsibility of the supply 
+chain team to minimize negative environmental and social effects associated with the products and services they provide covering all 
+the environmental issues in our supply chain. This policy is also available on EPL website at https://www.eplglobal.com/wp-content/
+themes/epl-website/pdf/csr-report/sustainable-procurement-policy.pdf
+We have developed ‘Supplier Sustainability Code of Conduct’ to ensure that all our suppliers meet basic expectations of doing business 
+while complying with legal requirements, ethical practices, human rights and environmental management. The Code of Conduct is 
+based on globally recognized and accepted international standards, including International Labour Organisation, UN Global Compact 
+principles, United Nation’s Business and Human Rights principles and industry best practices. Compliance with the code of conduct is 
+an expectation of doing business with EPL; it defines minimum standards that EPL expects the suppliers and their sub tier suppliers or 
+sub-contractors to respect and adhere to. Our supplier code of conduct is also available at our website : https://www.eplglobal.com/
+wp-content/themes/epl-website/pdf/Supplier-Sustainability-Code-of-Conduct.pdf
+7.    Percentage of value chain partners (by value of business done with such partners) that were assessed 
+for environmental impacts.
+ 83%
+Note: 
+Our Strategic suppliers constitutes 83% of global procurement spends. In reporting year 100 % of our strategic suppliers have signed 
+sustainable procurement code of conduct & assessed for environmental impacts. EPL conducts Supplier Assessments, an integral process 
+within our Supply Chain operations. These assessments involve periodic audits of our strategic suppliers. Our procurement team visits 
+supplier facilities to perform physical audits, utilizing a comprehensive 15-element checklist. This checklist covers critical aspects such as 
+capability, quality parameters, continuous improvement efforts, documentation, and process adherence, among others. 
+EPL achieved ISO 20400:2017 certification on sustainable Procurement globally. By implementing ISO 20400, EPL will contribute positively 
+to society and the economy through making sustainable purchasing decisions and encouraging suppliers and other stakeholders to do the 
+same. Further it will help reduce impact on the environment, tackle human rights issues and manage supplier relations, while harmonizing 
+long-term global costs and improving your purchasing performance, hence giving EPL a competitive  edge.
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent
+This principle highlights the importance of responsible advocacy. Companies should engage in policy advocacy in a responsible and 
+transparent manner, and avoid engaging in activities that could undermine the public interest or the democratic process.
+EPL Limited
+134
+Essential Indicators
+1.    a.     Number of affiliations with trade and industry chambers/ associations.
+ 12
+b.    List the top 10 trade and industry chambers/ associations (determined based on the total members of such body)  
+the entity is a member of/ affiliated to.
+Sr. No
+Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ associations (State/
+National/ International)
+1
+Sustainable Packaging Coalition (SPC)
+International
+2
+Bureau of Indian Standard(BIS)
+National
+3
+Organization of Plastic processors of India (OPPI)
+National
+4
+United Nations Global Compact (UNGC)
+International
+5
+Confederation of Indian Industries (CII)
+National
+6
+Bombay Chamber of Commerce and Industry
+National 
+7
+International Market Assessment India Private Limited (IMA)
+National
+8
+Ellen Macarthur Foundation
+International
+9
+Science based target initiative (SBTi)
+International
+10
+Association of Plastic recycler (APR)
+International
+11
+India Plastic Pact
+National
+12
+RecyClass
+International
+2.    Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the entity, 
+based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+NA
+NA
+NA
+Leadership Indicators
+1.     Details of public policy positions advocated by the entity:
+Sr. No.
+Public policy advocated
+Method resorted for 
+such advocacy
+Whether information 
+available in public 
+domain? (Yes/No)
+Frequency of Review 
+by Board
+(Annually/ Half 
+Yearly/ Quarterly/ 
+Others- Please 
+specify)
+Web Link,if available
+The Board of Company comprises of Industry/Domain expertise in their respective fields. Some of the Members of Board and senior 
+officials of the Company are associated with government, industrial bodies, association from time to time. 
+As and where required Company makes various recommendations/representations before regulators and associations regarding 
+the company Products and other related areas.
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development.
+This principle emphasizes the importance of promoting inclusive and equitable economic development. Companies should create 
+economic opportunities for all, including disadvantaged and marginalized groups. They should also contribute to the development of 
+local communities and support social and economic empowerment.
+Essential Indicators
+1.    Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current 
+financial year
+Name 
+and brief 
+details of 
+project
+SIA Notification No.
+Date of notification
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results 
+communicated in 
+public domain
+(Yes / No)
+Relevant Web link
+NA
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+135
+Business Responsibility & Sustainability Report
+2.    Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your Company:
+Sr. No.
+Name of Project for 
+which R&R is ongoing
+State
+District
+No. of Project 
+Affected 
+Families (PAFs)
+% of PAFs 
+covered by R&R
+Amounts paid to PAFs 
+in the FY (In ₹)
+NA
+3.    Describe the mechanisms to receive and redress grievances of the community.
+Our Sustainability champions in our organisation at plants review and discuss any such issue. Till date we have had no incidents.
+4.    Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Particular
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/ small producers
+4
+3
+Directly from within India
+41
+22
+5.    Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed on 
+a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost
+Particulars
+FY 2023-24
+FY 2022-23
+Rural
+17.6%
+18.4%
+Semi-urban
+7.6%
+6.9%
+Urban
+31.6%
+32%
+Metropolitan
+43.2%
+42.7%
+(Place to be categorized as per RBI Classification System - rural / semi-urban / urban/metropolitan)
+Leadership Indicators
+1.     Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+NA
+NA
+2.     Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+Sr. No. 
+State
+Aspirational District
+Amount spent (In ₹)
+Refer Annual CSR Report
+3.    a) Do you have a preferential procurement policy where you give preference to purchase from suppliers 
+comprising marginalized /vulnerable groups? (Yes/No/NA)
+Yes
+b) From which marginalized /vulnerable groups do you procure?
+Below list of marginalized/vulnerable group of suppliers fall under procurement spend of EPL;
+- Woman Owned
+- Minority Community owned
+- SC/ST/OBC/EBC Owned
+c) What percentage of total procurement (by value) does it constitute?
+0.59%
+Note: 0.59% of the Total Spend is part of vulnerable/marginalized groups as per the responses received from the suppliers.
+4.    Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge:
+Sr. No. 
+Intellectual Property based on traditional 
+knowledge
+Owned/ 
+Acquired (Yes/
+No)
+Benefit shared 
+(Yes / No)
+Basis of 
+calculating 
+benefit share
+NA
+EPL Limited
+136
+5.    Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved.
+Name of authority
+Brief of the Case
+Corrective action taken
+NA
+6.    Details of beneficiaries of CSR Projects:
+Sr. No
+CSR Project
+No. of persons 
+benefitted from 
+CSR Projects
+% of beneficiaries 
+from vulnerable 
+and marginalized 
+groups
+1
+ Skill Development Project
+286
+80
+2
+Construction of Govt. School Buildings – ZP Urdu School & ZP Marathi School at 
+Vadavali, Wada
+500
+100
+3
+Providing 4 Computers to the Computer Lab, Shantiniketan School, Assam
+350
+100
+4
+Upgrading of the Library at Shantiniketan School, Assam
+350
+100
+5
+Street Light on Vadavali Villages Panchayat Roads, Wada
+2190
+100
+6
+Painting of Smt. Anandibai Mahanandu Naik Primary School, Madkaim Goa
+350
+80
+7
+Provision of 5 Nos Hot and Cold Water Dispensers for Schools in Veling 
+Panchayat,Ponda, Goa
+500
+80
+8
+Water Projects in Dahagaon Chafyacha Pada,Vasind
+400
+100
+9
+Water Projects in Shere Village, Gondhali Pada
+500
+100
+10
+Construction of common Hall at Shree Gadge Maharaj Primary and Secondary 
+School (FY 23 Project completed in FY24)
+200
+100
+11
+Improving Safety and Washroom Facilities of Girls’ Hostel at Gadge Maharaj 
+Primary & Secondary School
+200
+100
+12
+Plastic Waste Management – NGO partner Project Mumbai*
+6984
+-
+13
+Plastic Waste Management – NGO Partner CACR*
+16508
+-
+14
+Donation of 1190 school benches made out of recycled plastic scrap from EPL 
+factories to schools and goverment intitutes around Vasind, Goa and Nalagarh 
+2380
+100
+* The % of beneficiaries from vulnerable and marginalized groups is not traceable.
+PRINCIPLE 9 Businesses should engage with and provide value to  their consumers in a responsible manner.
+This principle highlights the importance of responsible consumer engagement. Companies should provide safe, high-quality products 
+and services, and ensure that they are marketed and sold ethically and responsibly. They should also be transparent about their prod-
+ucts and services, and provide consumers with the information they need to make informed choices.
+Essential Indicators
+1.     Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+The Complaints are received from customer through different means such as, in-person meetings, phone, email, etc, which are then 
+formally lodged in our SAP system. 
+a. As a part of investigation, retained samples are checked, production records gets analysed, cross functional team finds the root 
+cause and likewise corrective and preventive action prepared for further improvement to avoid re occurrence of complaint. 
+b. Then, formal Investigation report (in the form of 8D) submitted to customer towards technical resolution. 
+c. Respective quality / sales team takes feedback from customer about closure.
+2.     Turnover of products and/ services as a percentage of turnover from all products/service that carry information about
+Particular
+As a percentage to total 
+turnover
+Environmental and social parameters relevant to the product
+-
+Safe and responsible usage
+-
+Recycling and/or safe disposal
+-
+Annual Report 2023-24
+Corporate Overview
+Financial Statements
+Notice of AGM
+Statutory Reports
+137
+Business Responsibility & Sustainability Report
+3.     Number of consumer complaints in respect of the following:
+Particulars
+Particulars
+FY 2023-24
+FY 2023-24
+FY 2022-23
+FY 2022-23
+Received 
+Received 
+during the 
+during the 
+year
+year
+Pending 
+Pending 
+resolution at 
+resolution at 
+end of year
+end of year
+Remark
+Remark
+Received 
+Received 
+during the 
+during the 
+year
+year
+Pending 
+Pending 
+resolution at 
+resolution at 
+end of year
+end of year
+Remark
+Remark
+Data privacy
+0
+0
+-
+0
+0
+-
+Advertising
+0
+0
+-
+0
+0
+-
+Cyber-security
+0
+0
+-
+0
+0
+-
+Delivery of essential services
+0
+0
+-
+0
+0
+-
+Restrictive Trade Practices
+0
+0
+-
+0
+0
+-
+Unfair Trade Practices
+0
+0
+-
+0
+0
+-
+Other
+0
+0
+-
+0
+0
+-
+4.    Details of instances of product recalls on account of safety issues:
+Particular
+Number
+Reason for recall
+Voluntary recalls
+0
+-
+Forced recalls
+0
+-
+5.    Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No)
+Yes
+If available, provide a web 
+link of the policy
+https://www.eplglobal.com/wp-content/uploads/2023/01/Information-Security-Management-System-
+Policy.pdf
+The Company has the following policies already in place
+1. PO-001 Information Security Management System Framework
+2. PO-002 Information Security Policy
+3. PO-003 Acceptable Usage Policy
+4. PO-004 Risk Management Framework
+All the policy has been updated in the Document Management System so that all our employees can 
+access the same easily. Further, Risk Management Committee reviews the various information security 
+risks on regular basis. This policy is available to internal stakeholders and is placed on the intranet of the 
+Company. 
+All EPL Plants are certified with ISO 27001:2013 (Information Security Management System) which 
+demonstrates EPL’s compliance with global best practices regarding information security and evinces trust 
+in its customers’ ecosystem regarding your data security practices.
+6.   Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+No penalties/regulatory action has been levied or taken on the above-mentioned parameters
+7.     Provide the following information relating to data breaches
+a.     Number of instances of data breaches along-with impact
+0
+b.     Percentage of data breaches involving personally identifiable information of customers
+-
+c.     Impact, if any, of the data breaches
+-
+EPL Limited
+138
+Leadership Indicator
+1.  Channels / platforms where information on products and services of the entity can be accessed (provide web link, if 
+available).
+Information relating to the Company products are available to the website of Company i.e. www.eplglobal.com. In addition, Company 
+also publishes news products on social media website such as LinkedIn, X etc.
+2.   Steps taken to inform and educate consumers about safe and responsible
+       usage of products and/or services
+Not applicable
+3.  Mechanisms in place to inform consumers of any risk of disruption/discontinuation of      
+essential services.
+Not applicable
+4.  Does the entity display product information on the product over and above what is mandated 
+as per local laws? (Yes/No/NA)
+Not applicable
+a. If yes, provide details in brief.
+Not applicable
+b. Did your entity carry out any survey with regard to consumer satisfaction relating to the major 
+products/ services of the entity, significant locations of operation of the entity or the entity as a 
+whole? (Yes/No)
+Not applicable

@@ -1,0 +1,3990 @@
+ 
+ 
+GMM/SEC/2024-25/28  
+ 
+          
+ 
+ 
+ 
+ 
+July 15, 2024 
+ 
+To, 
+BSE Limited 
+ 
+ 
+ 
+ 
+ 
+National Stock Exchange of India Limited 
+Scrip Code: 505255 
+ 
+ 
+ 
+ 
+Symbol: GMMPFAUDLR 
+ 
+Sub.:  Business Responsibility and Sustainability Report for FY2024 
+ 
+Ref.:  Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
+(“SEBI Listing Regulations”) 
+ 
+Dear Sir/ Ma’am, 
+ 
+Enclosed please find the Business Responsibility and Sustainability Report (BRSR) of GMM Pfaudler Ltd. for 
+financial year ended March 31, 2024. 
+ 
+This is for your information and record. 
+ 
+Thanking you. 
+ 
+Yours faithfully, 
+ 
+For GMM Pfaudler Ltd. 
+ 
+ 
+ 
+Mittal Mehta 
+Company Secretary & Compliance Officer 
+FCS No.: 7848 
+Encl.: As above 
+MITTAL 
+KARTIK 
+MEHTA
+Digitally signed by 
+MITTAL KARTIK 
+MEHTA 
+Date: 2024.07.15 
+12:12:25 +05'30'
+1
+Business Responsibility & Sustainability Reporting
+Business Responsibility  
+& Sustainability Reporting
+GMM Pfaudler Limited (“GMM Pfaudler” or "the Company") delivers corrosion-resistant technologies, systems, 
+and services worldwide and remains the preferred choice by consistently providing its customers in the chemical 
+and pharmaceutical industries with innovative and cost-effective solutions. We are committed to delivering 
+quality products led by our purpose of creating value for our people, our communities and our planet. Our 
+operational and future growth strategies put responsible Environmental, Social and Governance (ESG) principles 
+at their core to positively impact our stakeholders. As a responsible corporate citizen, the Company is committed 
+to ensuring sustainable development and inclusive growth and believes in the philosophy of giving back to 
+the society, that played an instrumental role in GMM Pfaudler’s growth and success by offering uninterrupted 
+support in the organization’s endeavors. In keeping with the Company’s commitment to responsibility and 
+accountability towards all its stakeholders and its efforts to conduct business with responsibility, the Company 
+is pleased to present its Business Responsibility and Sustainability Report for the FY24 prepared in accordance 
+with SEBI Circular no. CIR/2021/562 dated May 10, 2021. Certain data points of our previous year’s report have 
+been revised in view of updated calculation methodology as per BRSR guidance note. The Company endorses 
+the guiding principles as outlined in the National Guidelines on Responsible Business Conduct (NGBRC) as 
+formulated by the Ministry of Corporate Affairs and is committed towards their adherence.
+SECTION A: GENERAL DISCLOSURES
+I.   Details of the Listed Entity
+1. Corporate Identity Number (CIN) of the 
+Listed Entity
+L29199GJ1962PLC001171
+2. Name of the Listed Entity
+GMM Pfaudler Limited
+3. Year of incorporation
+1962
+4. Registered office address
+Vithal Udyognagar, Anand – Sojitra Road, Karamsad, 
+Gujarat, 388325 India
+5. Corporate address
+902, VIOS Tower, New Cuffe Parade, Sewri-Chembur Road, 
+Mumbai, Maharashtra, 400037 India
+6. E-mail
+investorservices@gmmpfaudler.com
+7. Telephone
++91 22 6650 3900
+8. Website
+www.gmmpfaudler.com
+9. Financial year for which reporting is being 
+done
+April 1, 2023 to March 31, 2024
+10. Name of the Stock Exchange(s) where 
+shares are listed
+National Stock Exchange of India Limited (NSE) and  
+BSE Limited (BSE)
+11. Paid-up Capital
+INR 8.99 Crores
+12. Name and contact details (telephone, email 
+address) of the person who may be contacted 
+in case of any queries on the BRSR report
+Name: Ms. Mittal Mehta
+Designation: Company Secretary
+Telephone: +91 22 6650 3900
+Email: mittal.mehta@gmmpfaudler.com
+13. Reporting boundary - Are the disclosures 
+under this report made on a standalone basis 
+(i.e. only for the entity) or on a consolidated 
+basis (i.e. for the entity and all the entities 
+which form a part of its consolidated 
+financial statements, taken together).
+The disclosures under this report are made on a Standalone 
+basis
+14. Name of assurance provider
+Not Applicable as per the SEBI Circular No. SEBI/HO/CFD/
+CFD-SEC-2/P/CIR/2023/122 dated July 12, 2023
+15. Type of assurance obtained
+Not Applicable as per the SEBI Circular No. SEBI/HO/CFD/
+CFD-SEC-2/P/CIR/2023/122 dated July 12, 2023
+GMM Pfaudler
+2
+II.   Products/services
+16.  Details of business activities (accounting for 90% of the turnover):
+Sr. 
+No.
+Description of Main 
+Activity
+Description of Business Activity
+% of Turnover of 
+the entity
+1
+Manufacturing
+Chemical and chemical products, pharmaceuticals 
+medicinal chemical and botanical products
+100%
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+Sr. 
+No.
+Product/Service
+NIC Code
+% of total Turnover
+contributed
+1
+Manufacturing of other Special Purpose 
+Machinery
+28299
+ 98.20%
+III.  Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated: 
+Location
+Number of plants
+Number of offices
+Total
+National
+3
+9
+12
+International*
+-
+-
+-
+* The international operations are carried out by the Company through its subsidiary companies and are outside the 
+reporting boundary of this report.
+19. Markets served by the entity:
+a. Number of locations:
+Locations
+Number
+National (No. of States)
+36*
+International (No. of Countries)
+100+
+* This includes 28 States and 8 Union Territories.
+b. What is the contribution of exports as a percentage of the total turnover of the entity?
+The contribution of exports as a percentage of the total turnover of the Company is 17.44%.
+c. A brief on types of customers:
+GMM Pfaudler is the leading technologies, systems, and services provider for the chemical and 
+pharmaceutical industries, as well as many others. GMM Pfaudler caters to over 90% of the world’s Top 20 
+ICIS Chemical Companies.
+IV.  Employees
+20. Details as at the end of Financial Year:
+ 
+a. Employees and workers (including differently abled):
+Sr. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1
+Permanent (D)
+583
+555
+95.20%
+28
+4.80%
+2
+Other than Permanent (E)
+15
+13
+86.67%
+2
+13.33%
+3
+Total employees (D + E)
+598
+568
+94.98%
+30
+5.02%
+WORKERS
+4
+Permanent (F)
+201
+200
+99.50%
+1
+0.50%
+5
+Other than Permanent (G)
+2033
+2017
+99.21%
+16
+0.79%
+6
+Total Workers (F + G)
+2234
+2217
+99.24%
+17
+0.76%
+3
+Business Responsibility & Sustainability Reporting
+b. Differently abled Employees and workers:
+Sr. 
+No.
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+2 
+2
+100%
+-
+-
+2
+Other than Permanent (E)
+-
+-
+-
+-
+-
+3
+Total differently abled employees 
+(D + E)
+2
+2
+100%
+-
+-
+DIFFERENTLY ABLED WORKERS
+4
+Permanent (F)
+-
+-
+-
+-
+-
+5
+Other than Permanent (G)
+3
+3
+100%
+-
+-
+6
+Total differently able workers (F + 
+G)
+3
+3
+100%
+-
+-
+21. Participation/Inclusion/Representation of women:
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+6
+1
+16.67%
+Key Management Personnel*
+4
+1
+25%
+*This includes MD, CEO, CFO & CS 
+22. Turnover rate for permanent employees and workers (Disclose trends for the past 3 years):
+FY24 (Turnover rate in  
+current FY)
+FY23 (Turnover rate in 
+previous FY)
+FY22 (Turnover rate in  
+the year prior to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+21.01
+17.54
+20.84
+20.51
+30.30
+21.07
+13.9
+16.67
+14.08
+Permanent 
+Workers
+4.42
+-
+4.40
+3.05
+-
+3.05
+4.76
+-
+4.76
+GMM Pfaudler
+4
+V.  Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a) Names of Holding / Subsidiary / Associate Companies / Joint Ventures
+Sr. 
+No.
+Names of the Holding/ Subsidiary/ Associate Companies/ 
+Joint Ventures (A)*
+Indicate whether Holding/ 
+Subsidiary/ Associate/ 
+Joint Venture
+% of shares 
+held by 
+Listed entity
+1
+Mavag AG (Switzerland) 
+Subsidiary
+100
+2
+Pfaudler GmbH (Germany) 
+Subsidiary
+100
+3
+Pfaudler Normag Systems GmbH (Germany) 
+Subsidiary
+100
+4
+Pfaudler interseal GmbH (Germany)
+Subsidiary
+100
+5
+Pfaudler Service BeNeLux B.V. (Netherlands) 
+Subsidiary
+100
+6
+Pfaudler S.r.l. (Italy) 
+Subsidiary
+100
+7
+Pfaudler France S.à r.l. (France) 
+Subsidiary
+100
+8
+GMM International S.à.r.l. (Luxembourg) 
+Subsidiary
+100
+9
+Pfaudler Limited (UK) 
+Subsidiary
+100
+10
+GMM Pfaudler US Inc. (USA) 
+Subsidiary
+100
+11
+Edlon Inc. (USA) 
+Subsidiary
+100
+12
+Glasteel Parts and Services, Inc. (USA) 
+Subsidiary
+100
+13
+Pfaudler S.A. de C.V. (Mexico) 
+Subsidiary
+100
+14
+Pfaudler Ltda. (Brazil) 
+Subsidiary
+100
+15
+Pfaudler Private Limited (Singapore) 
+Subsidiary
+100
+16
+Pfaudler (Chang Zhou) Process Equip. Co. Ltd. (China) 
+Subsidiary
+100
+17
+GMM Pfaudler Foundation (India) 
+Subsidiary
+100
+18
+Hydro Air Research Italia S.r.l (Italy) 
+Subsidiary
+100
+19
+Mixel France SAS (France)
+Subsidiary
+100
+20
+Mixel Agitator Co.Ltd. (China) 
+Subsidiary
+100
+21
+Professional Mixing Equipment Inc. (Canada)
+Subsidiary
+100
+22
+GMM Pfaudler JDS LLC (USA)
+Subsidiary
+51
+*Business responsibility initiative disclosed are pertaining to GMM Pfaudler Limited on a standalone basis and does not 
+include the information/initiative undertaken, if any by the Companies indicated in column A.
+VI.  CSR Details
+24.
+(i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+Yes
+(ii) Turnover (in Rs.)
+1030.61 Crores
+(iii) Net worth (in Rs.)
+751.19 Crores
+5
+Business Responsibility & Sustainability Reporting
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct:
+Stakeholder
+group from
+whom
+complaint is
+received
+Grievance
+Redressal
+Mecha-
+nism
+in Place 
+(Yes/No)
+(If Yes, then
+Provide web-link for grievance redress 
+policy)
+FY24
+Current Financial Year
+FY23
+Previous Financial Year
+Number of
+Complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending  
+resolution at 
+close of the 
+year
+Remarks
+Number of
+Complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending  
+resolution at 
+close of the 
+year
+Remarks
+Communities
+Yes
+https://www.gmmpfaudler.com/file/
+CorporateSocialResponsibilityPolicy.
+pdf 
+-
+-
+-
+-
+-
+-
+Investors/ 
+Shareholders
+Yes
+The Grievance Redressal Mechanism 
+is as per SEBI Listing Regulations.
+The Company has a designated email 
+ID exclusively for investor services i.e. 
+investorservices@gmmpfaudler.com
+1
+-
+-
+12
+-
+-
+Employees  
+and workers
+Yes
+https://www.gmmpfaudler.com/file/
+GMMCOC.pdf
+4
+-
+-
+-
+-
+-
+Customers
+Yes
+The Company has a designated 
+email ID exclusively for customers i.e. 
+service@gmmpfaudler.com
+467
+7
+Resolution 
+of pending 
+points are 
+ongoing 
+and will be 
+closed in 
+due time
+344
+5
+All the 
+pending 
+complaints 
+for FY 23 are 
+resolved
+Value Chain
+Yes
+https://www.gmmpfaudler.com/file/
+WhistleBlowerPolicy.pdf
+-
+-
+-
+1
+-
+-
+GMM Pfaudler
+6
+26.  Overview of the entity’s material responsible business conduct issues.
+ 
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that present a risk or an 
+opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk along-with its financial implications, as per the 
+following format
+Sr. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+1
+Corporate 
+Governance
+Opportunity
+A robust governance framework stands as the 
+cornerstone of organizational excellence. By 
+fostering a governance structure that is both 
+responsive and inclusive, an organization fortifies 
+its ability to weather unforeseen challenges 
+and adapt with resilience. The vigilant oversight 
+provided by governance committees, particularly 
+in areas concerning environmental, social, and 
+governance (ESG) factors, ensures alignment and 
+propels the organization toward sustainability 
+goals.
+Within GMM Pfaudler, adherence to governance 
+principles 
+and 
+the 
+delineated 
+charters 
+of 
+the Board's standing committees serve as a 
+scaffolding for effective governance and diligent 
+oversight of company affairs. Each committee 
+fulfills a pivotal role in upholding our steadfast 
+commitment to conducting business with the 
+utmost adherence to corporate standards.
+-
+Positive
+2
+Product 
+Quality and 
+Customer 
+Satisfaction
+Opportunity
+ A value for money and high quality product which 
+is supported by seamless pre & post sales service 
+provides an organization with an opportunity 
+to retain satisfied customers who in turn are a 
+source of recurring revenues.
+We strive to align our business objectives with 
+our vision of becoming the most sought-after 
+provider of top-quality engineered products 
+and services to our clients. Our pursuit of ethical 
+and transparent business practices is aimed 
+at building trust among our stakeholders, 
+strengthening our brand image, and boosting 
+customer satisfaction.
+-
+Positive
+7
+Business Responsibility & Sustainability Reporting
+Sr. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+3
+Product
+Stewardship
+Opportunity
+By prioritizing eco-consciousness and social 
+responsibility in every stage of production, GMM 
+Pfaudler is not only refining product quality but 
+also significantly diminishing its environmental 
+and social footprint. This commitment not only 
+aligns with sustainability goals but also enhances 
+market appeal, driving higher sales and fostering 
+a culture of innovation and reliability.
+-
+Positive
+4
+Responsible
+Supply Chain
+Risk
+A sustainable supply chain embodies socially 
+responsible 
+business 
+practices, 
+crucial 
+for 
+mitigating various risks such as contractual, 
+legal, and business continuity issues. Failing 
+to strategically identify and collaborate with 
+suppliers and partners offering essential products 
+and services could expose the organization 
+to these risks, highlighting the imperative of 
+fostering strong partnerships and ethical sourcing 
+practices.
+GMM Pfaudler diligently employs a range of 
+screening tools and checklists to meticulously 
+evaluate suppliers and assess potential social 
+risks. Our supplier Code of Conduct sets forth 
+clear expectations, requiring all partners within 
+the supply chain to fully adhere to relevant laws 
+and standards governing corporate governance, 
+social 
+responsibility, 
+and 
+environmental 
+stewardship. This commitment ensures that 
+ethical practices permeate every aspect of our 
+operations, fostering trust and accountability 
+throughout our supply network.
+Negative
+5
+Occupational
+health and
+safety
+Risk
+Our people’s capabilities, competence and 
+commitment are the force behind our continued 
+business success and the stakeholder trust we 
+enjoy.
+Providing 
+a 
+safe 
+and 
+healthy 
+workplace 
+environment for our workers is critical to the 
+success of our operations.
+At GMM Pfaudler, our focus is on ensuring a safe 
+workplace environment through technology, 
+training, and strict safety protocols. All our 
+facilities comply with ISO 45001 standards, 
+maintain Emergency Response Plans, and 
+monitor progress through behavior-based safety 
+programs.
+Negative
+GMM Pfaudler
+8
+Sr. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+6
+Climate
+Change
+Risk
+The increasing frequency of extreme weather 
+events linked to climate change presents a 
+tangible 
+threat, 
+potentially 
+disrupting 
+our 
+operations and jeopardizing the safety and 
+welfare of our employees.
+We embrace environmental sustainability by 
+implementing green policies, frameworks, and 
+infrastructure. This includes prioritizing energy 
+conservation and renewable energy to minimize 
+our 
+carbon 
+footprint, 
+adopting 
+innovative 
+technologies to manage waste in accordance 
+with circular economy principles. We also employ 
+operational and engineering controls to reduce 
+freshwater consumption and manage water 
+resources through sewage treatment, recycling 
+treated 
+water, 
+and 
+rainwater 
+harvesting. 
+Additionally, we implement waste management 
+practices such as recycling, reusing, and 
+minimizing waste generation, while ensuring 
+supply chain sustainability through responsible 
+sourcing.
+Negative
+7
+Community
+Development
+Opportunity
+Establishing a strong connection with the 
+community is crucial for the Company's sustained 
+success and value creation. GMM Pfaudler adopts 
+a tripartite approach to community outreach:
+Healthcare: We contribute to local communities 
+by initiating preventive healthcare programs and 
+offering support to hospitals.
+Education: We enhance vocational skills and 
+elevate education quality by partnering with and 
+providing essential resources to Industrial Training 
+Institutes (ITIs).
+Environment: We 
+actively 
+support 
+projects 
+dedicated 
+to 
+preserving 
+flora 
+and 
+fauna, 
+conserving natural resources, and mitigating 
+ecological imbalances.
+-
+Positive
+9
+Business Responsibility & Sustainability Reporting
+Sr. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+8
+Energy and 
+Emissions 
+Management
+Opportunity
+Energy is crucial for economic growth and life 
+prosperity. Availability and reliability of energy 
+has always been a concern not only for an 
+organization but also for the world at large. 
+All production facilities adhere to ISO 50001 
+standards. The Company has a renewable energy 
+portfolio of 1 MW Solar energy. The renewable 
+energy generated contributes to 6% of total 
+electricity needs and helped the organization 
+in avoiding 862.62 tCO₂e in FY24. Additionally, 
+our Company regularly implements a variety of 
+energy-saving strategies to cut down on energy 
+use and emissions footprints.
+-
+Positive
+9
+Water and 
+Wastewater 
+Management
+Risk & 
+Opportunity
+Water, being a finite resource, requires careful 
+planning, distribution, and management to 
+optimize its usage. Its availability and utilization 
+significantly impact both the environment and 
+society.
+GMM Pfaudler's operational regions strictly 
+adhere to pollution control board guidelines. Our 
+manufacturing plants implement wastewater 
+treatment and recycling measures, effectively 
+reducing 
+our 
+freshwater 
+consumption 
+and 
+minimizing the impact on water resources used 
+for domestic and agricultural purposes.
+Both
+10
+Waste 
+Management
+Risk & 
+Opportunity
+Efficient resource utilization entails minimizing and 
+reusing waste, along with incorporating recycled 
+materials whenever feasible. Effective waste 
+management procedures, including separation, 
+collection, 
+and 
+disposal, 
+are 
+imperative. 
+Regulations governing waste management are 
+essential to ensure proper reuse, recycling, and 
+disposal, particularly as expanding landfills and 
+dumpsites pose risks to air, soil, and water quality.
+GMM Pfaudler has implemented comprehensive 
+strategies 
+to 
+minimize 
+waste 
+production 
+throughout the manufacturing cycle. We prioritize 
+waste reduction at every level to align with legal 
+requirements and safeguard the environment. 
+Waste is responsibly disposed of at Transport, 
+Storage, and Disposal Facilities (TSDF) to ensure 
+compliance and prevent adverse environmental 
+impacts. Moreover, we strictly prohibit the use of 
+single-use, non-biodegradable plastics on our 
+premises.
+Both
+GMM Pfaudler
+10
+Sr. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+11
+Ethics and 
+Compliance
+Risk
+Operating 
+with 
+the 
+utmost 
+integrity 
+and 
+ethics is a fundamental responsibility of any 
+organization. Non-compliance with regulations 
+and subsequent penalties can directly impact 
+company operations and lead to financial strain.
+GMM Pfaudler is dedicated to upholding ethical 
+standards and achieving compliance excellence. 
+Through a robust Code of Conduct, we instill values 
+of integrity, transparency, and respect across 
+all levels of the organization. This framework 
+emphasizes adherence to laws, prevention of 
+conflicts of interest, and safeguarding Company 
+assets, fostering a safe and inclusive workplace. 
+Supported by strong governance, our compliance 
+structure 
+remains 
+adaptable 
+to 
+evolving 
+regulations and risks. Regular training and open 
+communication channels empower employees 
+to maintain high ethical standards and report 
+concerns confidentially, ensuring our continued 
+commitment to integrity and compliance.
+Negative
+12
+R&D and 
+Innovation
+Opportunity
+R&D and innovation play crucial roles in developing 
+better products with enhanced efficiencies 
+and reduced environmental impact. At GMM 
+Pfaudler, our dedicated Innovation team focuses 
+on achieving these goals, striving to create 
+products that optimize efficiency and minimize 
+environmental 
+footprint 
+through 
+sustainable 
+practices. By prioritizing these efforts, we aim 
+to uphold our commitments to the environment 
+and strengthen our partnerships for long-term 
+positive impact.
+-
+Positive
+11
+Business Responsibility & Sustainability Reporting
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place 
+towards adopting the NGRBC Principles and Core Elements.
+Sr. 
+No
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1
+a.  Whether your entity’s policy/
+policies cover each principle and 
+its core elements of the NGRBCs. 
+(Yes/No)
+Yes
+b.  Has the policy been approved by 
+the Board? (Yes/No)
+Yes
+c.  Web Link of the Policies, if 
+available
+https://www.gmmpfaudler.com/investors/policies-programmes 
+2
+Whether the entity has translated 
+the policy into procedures. (Yes / 
+No)
+Yes
+3
+Do the enlisted policies extend to 
+your value chain partners? (Yes/No)
+Yes, Whistle Blower Policy and Supplier Code of Conduct extends to 
+value chain partners.
+4
+Name of the national and 
+international codes/certifications/
+labels/ standards (e.g. Forest 
+Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trustea) 
+standards (e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity and 
+mapped to each principle.
+Board approved policies and codes of conduct cover the NVGs. All 
+applicable national and international regulations are captured in the 
+policies articulated by GMM Pfaudler.
+In addition, they reflect the purpose and intent of the international 
+standards such as GRI, UNSDG, ISO 50001 ISO 9001, ISO 14001 and 
+ISO 45001.
+5
+Specific commitments, goals 
+and targets set by the entity with 
+defined timelines, if any.
+The Board of Directors in their meeting held on May 25, 2022 have 
+approved the 3 Year ESG Strategy and Roadmap for the Company 
+as stated in the ESG section of this Annual Report.
+6
+Performance of the entity against 
+the specific commitments, goals 
+and targets along-with reasons in 
+case the same are not met
+The performance against the set targets undertaken for ESG has 
+been published in the ESG Report forming part of this Annual Report.
+Governance, leadership, and oversight
+7
+Statement by director responsible 
+for the business responsibility report, 
+highlighting ESG related challenges, 
+targets and achievements (listed 
+entity has flexibility regarding the 
+placement of this disclosure)
+GMM Pfaudler's long-term strategy is built upon ESG principles, which 
+prioritize the creation of value for our stakeholders, including our 
+people, communities, and planet. Making a difference is what ESG 
+means to us, not simply checking the criteria. We are committed to 
+our people, communities, and planet, and as the preeminent global 
+provider of corrosion-resistant technologies, our mission and core 
+values direct our actions and assist us in concentrating on what is 
+essential. Our Board of Directors has approved the Company's 3 year 
+ESG road map and strategy. Achievements and objectives pertaining 
+to ESG are detailed in the ESG Section of this Annual Report. 
+8
+Details of the highest authority 
+responsible 
+for 
+implementation 
+and 
+oversight 
+of 
+the 
+Business 
+Responsibility policy (ies).
+Name: Mr. Aseem Joshi
+Designation: Chief Executive Officer
+Telephone number: +91 22 6650 3900
+E-mail id: aseem.joshi@gmmpfaudler.com
+9
+Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision making on 
+sustainability related issues? (Yes / 
+No). If yes, provide details.
+Name: Mr. Tarak Patel
+Designation: Managing Director
+DIN: 00166183
+Telephone number: +91 22 6650 3900
+E-mail id: tarak.patel@gmmpfaudler.com
+GMM Pfaudler
+12
+10.  Details of Review of NGRBCs by the Company:
+Subject for 
+Review
+Indicate whether review was undertaken 
+by Director / Committee of the Board/ Any 
+other Committee
+Frequency (Annually/ Half yearly/ 
+Quarterly/ Any other – please
+specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance 
+against above 
+policies and 
+follow up action
+Yes
+Annual/Need Basis
+Compliance 
+with statutory 
+requirements of 
+relevance to the 
+principles, and, 
+rectification 
+of any non-
+compliances
+Yes
+Quarterly/Need Basis
+11.
+Has the entity carried out independent 
+assessment/ evaluation of the work-
+ing of its policies by an external agen-
+cy? (Yes/No). If yes, provide name of the 
+agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Yes, on a regular basis, the Board of Directors and 
+management reviews the adherence to the stated policies in 
+the entity.
+12. If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be 
+stated:
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles 
+material to its business (Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a 
+position to formulate and implement the 
+policies on specified principles (Yes/No)
+The entity does not have the financial or/
+human and technical resources available 
+for the task (Yes/No)
+It is planned to be done in the next 
+financial year (Yes/No)
+Any other reason (please specify)
+Note 1:
+Principle(s)
+Applicable Policies
+Link for policies
+Principle 1: Businesses should 
+conduct and govern themselves 
+with Integrity, and in a manner 
+that is Ethical, Transparent and 
+Accountable
+• Code of Conduct & Ethics Policy
+• Board Diversity Policy
+• Anti-Corruption Policy
+• Policy on Related Party Transactions
+• Antitrust Guidelines
+• Whistle Blower Policy
+• Policy on Determination of Material Events
+• Code of practices and Procedures for Fair 
+Disclosure of UPSI
+https://www.gmmpfaudler.
+com/investors/policies-
+programmes
+13
+Business Responsibility & Sustainability Reporting
+Principle(s)
+Applicable Policies
+Link for policies
+Principle 2: Businesses should 
+provide goods and services in a 
+manner that is sustainable and safe
+• Export Compliance Guideline
+• Environment, Social and Governance Policy
+• Suppliers Code of Conduct
+https://www.gmmpfaudler.com/investors/policies-programmes
+Principle 3: Businesses should 
+respect and promote the well-being 
+of all employees, including those in 
+their value chains
+•  Anti-Sexual Harassment Policy
+•  Code of Conduct & Ethics Policy
+•  Internal HR Policies for Employees
+•  Nomination, Remuneration & Evaluation 
+Policy
+Principle 4: Businesses should 
+respect the interests of and be 
+responsive to all its stakeholders
+•  Corporate Social Responsibility Policy
+•  Code of practices and Procedures for Fair 
+Disclosure of UPSI
+•  Anti-Corruption Policy
+Principle 5: Businesses should 
+respect and promote human rights
+•  Code of Conduct & Ethics Policy
+•  Anti-Sexual Harassment Policy
+•  Whistle Blower Policy 
+Principle 6: Businesses should 
+respect and make efforts to protect 
+and restore the environment
+• Environment, Social and Governance Policy
+• Suppliers Code of Conduct
+Principle 7: Businesses, when 
+engaging in influencing public and 
+regulatory policy, should do so in 
+a manner that is responsible and 
+transparent
+• Code of Conduct & Ethics Policy
+•  Communication Policy
+Principle 8: Businesses should 
+promote inclusive growth and 
+equitable development
+• Corporate Social Responsibility Policy
+•  Environment, Social and Governance Policy
+Principle 9: Businesses should 
+engage with and provide value to 
+their consumers in a responsible 
+manner
+• Code of Conduct & Ethics Policy
+•  Export Compliance Guideline
+•  Information Security Policy
+GMM Pfaudler
+14
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+ESSENTIAL INDICATORS
+1. 
+Percentage coverage by training and awareness programmes on any of the Principles during the financial 
+year:
+Segment
+Total number of 
+training and
+Awareness 
+programmes 
+held
+Topics / principles covered under
+the training and its impact
+%age of persons in 
+respective category 
+covered by the 
+awareness programmes
+Board of Directors
+7  
+Outlook on industry practices, 
+governance and compliance, 
+sustainability initiatives, risk 
+management  
+ 100% 
+Key Managerial 
+Personnel
+ 6 
+Outlook on industry practices, 
+governance and compliance, 
+sustainability initiatives, risk 
+management  
+  100%
+Employees other than 
+BoD and KMPs
+  8
+Governance and compliance, 
+sustainability initiatives, risk 
+management, Technical 
+masterclasses, Communication, 
+Advanced Excel  
+ 85.42%
+Workers
+Regular basis  
+Health & Safety and skill 
+upgradation  
+100%  
+2. Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in 
+proceedings (by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial 
+institutions, in the financial year, in the following format.
+ 
+(Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of 
+SEBI (Listing Obligations and Disclosure obligations) Regulations, 2015 and as disclosed on the entity’s 
+website):
+ 
+During FY24, there were no instances of any material (monetary and non-monetary) fines/penalties/
+punishment/award/ compounding fees/settlement amount paid in proceedings (by the entity or by 
+Directors/ KMPs) levied by the regulators/law enforcement agencies/ judicial institutions. 
+ 
+Note: Materiality threshold as specified in Regulation 30 of the Securities and Exchange Board of India 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 has been applied for the purpose of 
+this disclosure.
+3. Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where 
+monetary or non-monetary action has been appealed.
+ 
+There were no instances of any monetary or non-monetary offenses at GMM Pfaudler. Consequently, no 
+appeals or revisions have been filed.
+4. Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if 
+available, provide a web-link to the policy.
+ 
+Yes, the entity has an Anti-Corruption Policy. GMM Pfaudler’s Anti-Corruption policy emphasizes on the 
+Company’s zero tolerance approach to bribery and corruption. GMM Pfaudler is committed to conduct all 
+its business activities with honestly, integrity and the highest possible ethical standards and vigorously 
+enforces its ethical business practices wherever it operates throughout the world, of discouraging and not 
+engaging in any kind of bribery, corruption, or unethical practice.
+ 
+Web-link: https://www.gmmpfaudler.com/index.php/file/Anti-Corruption-Policy.pdf
+15
+Business Responsibility & Sustainability Reporting
+5. Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption:
+ 
+There were no instances of any disciplinary action taken by any law enforcement agency for the charges 
+of bribery/ corruption against Directors/ KMPs/employees/workers in FY24 and FY23.
+6. Details of complaints with regard to conflict of interest:
+ 
+There were no complaints with regards to conflict of interest.
+7. 
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action 
+taken by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts 
+of interest.
+ 
+No Corrective actions were taken as there were no instances of fines / penalties / action taken by regulators/ 
+law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+8. Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the 
+following format:
+FY24 (Current Financial Year)
+FY23 (Previous Financial Year)
+Number of days of accounts payables
+82.64
+106.30
+9. 
+Open-ness of business: 
+ 
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties 
+along-with loans and advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY24 (Current 
+Financial Year)
+FY23 (Previous 
+Financial Year)
+Concentration 
+of Purchases*
+a) Purchases from trading houses as % of 
+total purchases 
+27.42% 
+29.21%
+b) Number of trading houses where 
+purchases are made from
+  466
+490
+c) Purchases from top 10 trading houses 
+as % of total purchases from trading 
+houses
+*Total Purchase only considers the cost of 
+inventorised materials.
+  40.85%
+39.90%
+Concentration 
+of sales
+a) Sales to dealers / distributors as % of 
+total sales
+-
+-
+b) Number of dealers / distributors to 
+whom sales are made
+-
+-
+c) Sales to top 10 dealers / distributors as 
+% of total sales to dealers / distributors
+-
+-
+Share of RPTs 
+in 
+a) Purchases (Purchases with related 
+parties / Total Purchases)
+  5.47%
+ 2.94%
+b) Sales (Sales to related parties / Total 
+Sales)
+ 15.49%
+12.54% 
+c) Loans & advances (Loans & advances 
+given to related parties / Total loans & 
+advances)
+11.79%
+5.39%
+d) Investments
+  
+(Investments in related parties / Total 
+Investments made)
+99.99%
+99.99%
+GMM Pfaudler
+16
+LEADERSHIP INDICATORS
+1. 
+Awareness programmes conducted for value chain partners on any of the Principles during the financial 
+year:
+Total number 
+of awareness 
+programmes 
+held
+Topics / principles covered under the training
+%age of value chain partners covered 
+(by value of business done with 
+such partners) under the awareness 
+programmes
+1
+• 
+Sustainability
+• 
+Supplier Code of Conduct
+• 
+CSR Assessment
+• 
+CSR Audits
+• 
+Integrating ESG Compliance in supplier 
+contracts
+0.72%
+2. Does the entity have processes in place to avoid/ manage conflict of interests involving members of the 
+Board? (Yes/No) If Yes, provide details of the same
+ 
+Yes, the Company has Code of Conduct for Board of Directors which provides clear guidelines for avoiding 
+and disclosing actual or potential conflict of interest with the Company. The Company receives an annual 
+declaration from its Board of Directors on the entities they are interested in, and ensures requisite approvals 
+as required under the applicable laws are taken prior to entering into transactions with such entities. The 
+policy is available on the Company’s website at: 
+ 
+https://www.gmmpfaudler.com/index.php/file/GMMCOC.pdf
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and safe
+ESSENTIAL INDICATORS
+1. 
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made 
+by the entity, respectively.
+Current Financial 
+Year
+Previous 
+Financial Year
+Details 
+of 
+improvements 
+in 
+environmental 
+and 
+social impacts
+R&D
+100% (1.09 Crores)
+100% (2.44 
+Crores)
+The Company invests in R&D and Capex which prioritizes 
+primarily towards product enhancement, operationalizing 
+test centers, and fostering in-house Product Innovation to 
+develop energy efficient products.
+Capex
+100% (3.15 Crores)
+100% (2.26 
+Crores)
+2.   a.  Does 
+the 
+entity have 
+procedures 
+in place for 
+sustainable 
+s o u rc i n g ? 
+(Yes/No)
+Yes, the Company has a Supplier’s Code of Conduct in place that mandates suppliers to 
+utilize natural resources, in a sustainable manner. Suppliers must minimize or eliminate 
+negative environmental and climate impacts that arise from their operations. Suppliers are 
+also encouraged to participate in creation and adoption of eco-friendly products, processes, 
+and technologies.
+The Company also gets confirmation and acceptance on the Code from all its major 
+suppliers. In order to ensure compliance with sustainable procurement principles, GMM 
+Pfaudler performs a Supplier Sustainability Risk Rating and Supplier Self-Assessment for 
+environmental and social criteria. This process ensures that suppliers are assessed on their 
+ability to adhere to sustainable practices and that their environmental and social impacts 
+are evaluated. By doing so, GMM Pfaudler can work with its suppliers to mitigate any 
+potential risks and enhance the sustainability of its supply chain.
+The policy also supports the creation of local vendors and encourages local sourcing. The 
+Company focuses on procurement of materials from local suppliers and MSME players. It has 
+implemented various sustainable supply chain practices and initiatives and at the same time 
+ensures timely and cost-effective deliveries for necessary resources.
+Company has also received a Bronze Medal (Top 35%) in the EcoVadis Sustainability Rating - 
+May 2024
+17
+Business Responsibility & Sustainability Reporting
+b.  If yes, what 
+percentage 
+of inputs 
+were sourced 
+sustainably?
+GMM Pfaudler conducts regular assessments of key suppliers, evaluating them through 
+Sustainability Risk Rating and Supplier Self-Assessment processes. Basis these assessments, 
+91.83% of the raw material procurement by value are sourced sustainability.
+3.
+Describe 
+the 
+processes 
+in 
+place 
+to 
+safely 
+reclaim your products for reusing, recycling and disposing 
+at the end of life, for
+Given the nature of our business, the 
+products we manufacture has a life of 10-
+15 years. Once this period is over, customers 
+can choose to hand over any metal and glass 
+scraps to authorized recyclers. From a larger 
+standpoint, any end-of-life waste that is 
+generated from our products can be recycled 
+and repurposed as raw materials for other 
+processes or products.
+(a) Plastics (including packaging)
+(b) E-waste
+(c) Hazardous waste
+(d) other waste.
+4.
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities
+(Yes / No)
+No
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility 
+(EPR) plan submitted to Pollution Control Boards? If not, provide steps taken to address the 
+same
+Not Applicable
+LEADERSHIP INDICATORS
+3.  Percentage of recycled or reused input material to total material (by value) used in production (for 
+manufacturing industry) or providing services (for service industry).
+Indicate input material
+Recycled or re-used input material to total material
+FY24
+ (Current Financial Year)
+FY23 
+(Previous Financial Year)
+Wooden Box
+0.57%
+0.59%
+Plastic (Stretch film, Plastic bags, Sink film etc)
+0.06%
+0.06%
+Casting
+1.03%
+1.07%
+4. Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, 
+recycled, and safely disposed, as per the following format:
+ 
+Given the nature of the product we do not reclaim product or packaging at end of life. From a larger 
+standpoint, any end-of-life waste that is generated from our products can be recycled and repurposed as 
+raw materials for other processes or products.
+5.  Reclaimed products and their packaging materials (as percentage of products sold) for each product 
+category.
+ 
+Given the nature of the product we do not reclaim product or packaging at end of life.
+GMM Pfaudler
+18
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their 
+value chains
+ESSENTIAL INDICATORS
+1. 
+a. Details of measures for the well-being of employees:
+Category
+Total
+(A)
+% of employees covered by
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care 
+facilities
+Number 
+(B)
+% 
+(B /A)
+Number 
+(C)
+% 
+(C /A)
+Number
+(D)
+%
+ (D /A)
+Number
+(E)
+% 
+(E /A)
+Number
+(F)
+% 
+(F /A)
+Permanent employees
+Male
+555
+555
+100%
+555
+100%
+-
+-
+555
+100%
+555
+100%
+Female
+28
+28
+100%
+28
+100%
+28
+100%
+-
+-
+28
+100%
+Total
+583
+583
+100%
+583
+100%
+28
+4.80%
+555
+95.20%
+583
+100%
+Other than Permanent employees
+Male
+13
+13
+100%
+-
+-
+-
+-
+-
+-
+13
+100%
+Female
+2
+-
+-
+-
+-
+2
+100%
+-
+-
+2
+100%
+Total
+15
+13
+86.67%
+-
+-
+2
+13.33%
+-
+-
+15
+100%
+ 
+b. Details of measures for the well-being of workers:
+Category
+% of Worker Covered by
+Total
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care 
+facilities
+Number 
+(B)
+%  
+(B /A)
+Number 
+(C)
+%  
+(C /A)
+Number
+(D)
+%  
+(D /A)
+Number
+(E)
+%  
+(E /A)
+Number
+(F)
+%  
+(F /A)
+Permanent workers
+Male
+200
+200
+100%
+200
+100%
+-
+-
+-
+-
+-
+-
+Female
+1
+1
+100%
+1
+100%
+1
+100%
+-
+-
+1
+100%
+Total
+201
+201
+100%
+201
+100%
+1
+0.50%
+-
+-
+1
+0.50%
+Other than Permanent workers
+Male
+2017
+-
+-
+2017
+100%
+-
+-
+-
+-
+-
+-
+Female
+16
+-
+-
+16
+100%
+16
+100%
+-
+-
+16
+100%
+Total
+2033
+-
+-
+2033
+100%
+16
+0.79%
+-
+-
+16
+0.79%
+ 
+c. Spending on measures towards well-being of employees and workers (including permanent and other 
+than permanent) in the following format:
+FY24 (Current Financial 
+Year)
+FY23 (Previous Financial 
+Year)
+Cost incurred on well-being measures as a % of total 
+revenue of the Company
+0.25%
+0.20%
+19
+Business Responsibility & Sustainability Reporting
+2. Details of retirement benefits, for Current FY and Previous Financial Year:
+Benefits
+FY24 (Current Financial Year)
+FY23 (Previous Financial Year)
+No. of employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+Covered as a % 
+of total workers
+Deducted and 
+Deposited with 
+the authority
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+Covered as 
+a % of total 
+workers
+Deducted 
+and 
+Deposited 
+with the 
+authority
+(Y/N/N.A.)
+PF
+100%
+100%
+Y
+100%
+100%
+Y
+Gratuity
+100%
+100%
+Y
+100%
+100%
+Y
+ESI
+-
+-
+N.A.
+2.0%
+-
+Y
+3. Accessibility of workplaces.
+ 
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per 
+the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being 
+taken by the entity in this regard.
+ 
+Yes, majority of GMM Pfaudler’s workplace premises are designed to be accessible to differently abled 
+employees and workers. The infrastructure at the gates and office entrances are equipped with even 
+surfaces, such as ramps, to ensure easy accessibility for disabled employees.
+4. Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? 
+If so, provide a web-link to the policy.
+ 
+Yes, GMM Pfaudler’s Code of Conduct & Ethics Policy mandates all Directors and employees to cultivate 
+a work environment that is free from any sort of discrimination based on factors such as color, race, 
+creed, national or ethnic origin, gender, sexual orientation, religion, marital status, veteran status, 
+citizenship status, physical or mental disability, age, or any other status protected by relevant laws. 
+https://www.gmmpfaudler.com/index.php/file/GMMCOC.pdf
+5. Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers*
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+-
+-
+Female
+100%
+66.67%
+-
+-
+Total
+100%
+95.45%
+-
+-
+*Parental Leaves were not taken by Permanent Workers in the last two Financial Year
+6. Is there a mechanism available to receive and redress grievances for the following categories of employees 
+and worker? If yes, give details of the mechanism in brief.
+Yes/No
+(If Yes, then give details of the mechanism in brief)
+Permanent 
+Workers
+Yes, the working group's grievance redressal mechanism adheres to the guidelines outlined in 
+the Factories Act. In this process, workers can raise their concerns to the welfare officer who is 
+responsible for directing the grievances to the relevant management teams for resolution. Once 
+a solution is determined, the concerned parties are informed accordingly.
+Other than 
+Permanent 
+Workers
+Permanent 
+Employees
+Yes, at GMM Pfaudler, employees are encouraged to seek guidance and report any concerns 
+they may have with their direct manager or supervisor, the Human Resources Manager or 
+the Compliance Officer. The Company has a “Whistle Blower Policy” for employees to report 
+instances of unethical behaviour, actual or suspected fraud or violation of the Company’s 
+Code of Conduct. The Company has “zero tolerance” to any form of Sexual Harassment at 
+the Workplace. The Company responds promptly to any complaints of Sexual Harassment and 
+take appropriate steps to discipline behaviour that violates its “Anti-Sexual Harassment Policy”. 
+The Company has set up an Internal Committee to redress any such complaints received. The 
+Company periodically conducts sessions and workshops for employees across the organization 
+to build awareness about this Policy.
+Other than 
+Permanent 
+Employees
+GMM Pfaudler
+20
+7.  Membership of employees and worker in association(s) or Unions recognized by the listed entity: 
+Category
+FY24 (Current Financial Year)
+FY23 (Previous Financial Year)
+Total 
+employees 
+/ workers in 
+respective 
+category (A)
+No. of employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or
+Union (B)
+%  
+(B / A)
+Total 
+employees 
+/ workers 
+in 
+respective 
+category 
+(C)
+No. of employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or
+Union (D)
+%  
+(D / C)
+Total 
+Permanent 
+Employees
+583
+109
+18.70%
+604
+99
+16.39%
+Male
+555
+107
+19.28%
+574
+97
+16.90%
+Female
+28
+2
+7.14%
+30
+2
+6.67%
+Total 
+Permanent 
+Workers
+201
+158
+78.61%
+205
+159
+77.56%
+Male
+200
+158
+79.00%
+205
+159
+77.56%
+Female
+1
+-
+-
+-
+-
+-
+8.  Details of training given to employees and workers: 
+Category
+FY24 (Current Financial Year)
+FY23 (Previous Financial Year)
+Total
+(A)
+On Health and 
+safety
+measures
+On Skill 
+upgradation
+Total
+(D)
+On Health and 
+safety
+measures
+On Skill 
+upgradation
+No. 
+(B)
+% 
+ (B/ A)
+No.  
+(C)
+%  
+(C / A)
+No.  
+(E)
+% 
+ (E/ D)
+No.  
+(F)
+%  
+(F / D)
+Employees (Permanent + Other than Permanent)
+Male
+568
+332
+58.45%
+555
+97.71%
+662
+509
+76.89%
+574
+86.71%
+Female
+30
+6
+20.00%
+30
+100%
+37
+22
+59.46%
+21
+56.76%
+Total
+598
+338
+56.52%
+585
+97.83%
+699
+531
+75.97%
+595
+85.12%
+Workers* (Permanent + Other than Permanent)
+Male
+2217
+2217
+100%
+165
+7.44%
+2125
+2125
+100%
+-
+-
+Female
+17
+17
+100%
+-
+-
+7
+7
+100%
+-
+-
+Total
+2234
+2234
+100%
+165
+7.39%
+2132
+2132
+100%
+-
+-
+* Trainings on skill upgradation includes both soft skill and functional skills. Such trainings are imparted by individual 
+functions basis the need for their own department and are not specifically tracked.
+9.  Details of performance and career development reviews of employees and worker:
+Category
+FY24 (Current Financial Year)
+FY23 (Previous Financial Year)
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees
+Male
+555
+434
+78.20%
+574
+422
+73.52%
+Female
+28
+27
+96.43%
+30
+25
+83.33%
+Total
+583
+461
+79.07%
+604
+447
+74.01%
+Workers
+Male
+200
+197
+98.50%
+205
+49
+23.90%
+Female
+1
+-
+-
+-
+-
+-
+Total
+201
+197
+98.01%
+205
+49
+23.90%
+21
+Business Responsibility & Sustainability Reporting
+10. Health and safety management system:
+a.  Whether an occupational health 
+and safety management system 
+has been implemented by the 
+entity? (Yes/ No). If yes, the 
+coverage of such system?
+Yes, GMM Pfaudler places significant importance on the safety and 
+well-being of its employees and other relevant stakeholders. As 
+evidence of this commitment, our HSEMS in all three plants have 
+been certified to meet the ISO 45001:2018 standard.
+b.  What are the processes used to 
+identify work-related hazards and 
+assess risks on a routine and non-
+routine basis by the entity?
+At GMM Pfaudler, the methods employed to detect occupational 
+hazards and evaluate risks regularly and irregularly include:
+1. Hazard Identification and Risk Assessment (HIRA): This requires 
+a thorough assessment of the work environment and operational 
+tasks to identify any possible hazards that could harm employees, 
+visitors, or the surrounding ecosystem. The risk associated with each 
+identified hazard is carefully assessed to determine the likelihood 
+and potential consequences of an incident occurring. After analyzing 
+the situation, appropriate actions are developed and implemented.
+2. Health and Safety Inspections: This involves a comprehensive 
+review of the organization's policies, procedures, and practices 
+related to environmental management, health, and safety. An HSE 
+inspection and audit helps identify areas for improvement to reduce 
+the risk of incidents or accidents. Furthermore, it fulfills the role of 
+confirming the organization's compliance with relevant regulatory 
+obligations and industry standards. Based on the results of an HSE 
+audit and inspection, we have developed corrective action plans to 
+address any areas that need improvement.
+c.  Whether you have processes for 
+workers to report the work related 
+hazards and to remove themselves 
+from such risks. (Y/N)
+Yes, GMM Pfaudler has implemented an online App & Web Portal 
+that allows employees at all levels to easily report any work-related 
+hazards. The Factory Heads and HSE Managers diligently monitor 
+and address all reported work hazards.
+d.  Do the employees/ worker of 
+the entity have access to non-
+occupational medical and 
+healthcare services? (Yes/ No)
+Yes, all our employees are covered under Health & Accidental 
+Insurance which can be used for any non-occupational medical & 
+healthcare service.
+11. Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category*
+FY24 (Current 
+Financial Year)
+FY23 (Previous 
+Financial Year)
+Lost Time Injury Frequency Rate (LTIFR) (per one 
+million-person hours worked)
+Employees
+-
+-
+Workers
+-
+-
+Total recordable work-related injuries
+Employees
+2
+-
+Workers
+10
+8
+No. of fatalities
+Employees
+-
+-
+Workers
+-
+-
+High consequence work-related injury or ill-
+health (excluding fatalities)
+Employees
+-
+-
+Workers
+-
+-
+*Including in the contract workforce
+12. Describe the measures taken by the entity to ensure a safe and healthy work place.
+ 
+GMM Pfaudler has established a robust framework to ensure a safe and healthy workplace through a 
+combination of rigorous compliance measures, training, and emergency preparedness. Regular work permit 
+issuances, safety inductions, and safety committee meetings enforce adherence to established safety 
+protocols, supported by behavior-based safety initiatives and comprehensive shop floor inspections. We 
+enhance contractor safety through a dedicated Safety Induction program and an EHS training card system. 
+GMM Pfaudler
+22
+Our commitment to continuous improvement is demonstrated through regular internal and external HSE 
+audits, including third-party safety audits and ISO 45001 & 14001 certifications, with risk assessments and 
+controls validated by TUV SUD. Emergency preparedness is prioritized with detailed site-specific plans and 
+regular mock drills covering potential emergencies such as fire, electric shock, and snake bites, alongside 
+extensive training in hazard awareness and safe material handling. Health monitoring is conducted via 
+pre-employment check-ups and annual medical tests. Additionally, an online platform facilitates prompt 
+reporting and management of work-related hazards. The maintenance of workplace safety is further 
+supported by "5S" practices, and the organization's safety culture is reinforced through the celebration 
+of National Safety Week and the recognition of safety achievements. Notably, these comprehensive 
+safety measures have led to zero reportable injuries or accidents in FY24, highlighting the effectiveness of 
+our approach.
+13. Number of Complaints on the following made by employees and workers:
+FY24 (Current Financial Year)
+FY23 (Previous Financial Year)
+Filed during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Working Conditions
+212
+37
+Proactively 
+Identified 
+by safety 
+committee & 
+plant team, 
+resolution 
+of pending 
+points are 
+ongoing 
+and will be 
+closed in 
+due time.
+94
+25
+-
+Health & Safety
+164
+08
+20
+3
+14. Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Health and safety practices
+100% 
+(3 plants were audited by third parties & offices were assessed internally.)
+Working Conditions
+15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) 
+and on significant risks / concerns arising from assessments of health & safety practices and working 
+conditions.
+ 
+GMM Pfaudler have implemented several corrective actions to enhance health and safety practices across 
+our operations. This includes Behavior-Based and Safety Induction Training for all employees, particularly 
+new hires and contractors, to ensure comprehensive familiarity with safety protocols. We have improved 
+safety equipment and facilities on the shop floor by adding first aid boxes, fire extinguishers, and clear 
+safety visuals. Trolleys for safer cylinder transportation, guards on grinding machines, and specialized 
+equipment such as scaffolds, scissor lifts, and safety harnesses for high-altitude work have been introduced. 
+Additional enhancements include screens for grinding work, marked gangways and aisles, standardized 
+personal protective equipment, and advanced electrical safety features like distribution boards with RCCB 
+and top plugs. These measures reflect our ongoing commitment to maintaining a safe work environment 
+by continually identifying risks and implementing necessary improvements.
+23
+Business Responsibility & Sustainability Reporting
+LEADERSHIP INDICATORS
+1.
+Does the entity extend any life insurance or any compensatory package in the event of death of
+(A) Employees (Y/N)
+Yes
+(B) Workers (Y/N)
+2. Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and 
+deposited by the value chain partners.
+ 
+The contract agreements with our value chain partners explicitly require compliance with all relevant 
+statutory provisions, including payment and deduction of mandatory contributions. We ensure both parties 
+carefully review and uphold these clauses. Contractors are required to submit proof that the statutory dues 
+have been deducted and deposited on a quarterly basis. 
+3. Provide the number of employees / workers having suffered high consequence work- related injury / ill-
+health / fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and 
+placed in suitable employment or whose family members have been placed in suitable employment:
+ 
+Nil 
+4.  Does the entity provide transition assistance programs to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment? (Yes/ No)
+ 
+Yes 
+5.  Provide details of any corrective actions taken or underway to address significant risks / concerns arising 
+from assessments of health and safety practices and working conditions of value chain partners.
+ 
+Based on the completed assessment, no significant risks or concerns were identified, and thus no corrective 
+actions were deemed necessary at this time.
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+ESSENTIAL INDICATORS
+1. 
+Describe the processes for identifying key stakeholder groups of the entity.
+ 
+At our Company, we take pride in maintaining a strong and transparent relationship with our investors by 
+having a deep understanding of their expectations and fulfilling them consistently. Our commitment to 
+client value is an integral part of our corporate philosophy which reflects our dedication to our clients. We 
+believe that our employees are vital in creating value for our clients and the organization, and we strive to 
+provide them with fulfilling careers. Suppliers are our key stakeholders who enable us to deliver business 
+value. We respect the law of the land and abide by the GMM Pfaudler’s Code of Conduct and Ethics Policy, 
+making governments and regulators important stakeholders. Our business practices are centered around 
+inclusive growth, and we ensure that the community is at the forefront of our sustainable practices.
+ 
+Our stakeholders are our investors, employees, shareholders, customers, communities, non-governmental 
+organizations and suppliers amongst others.
+GMM Pfaudler
+24
+2. List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/
+No)
+Channels of 
+Communication 
+(Email, SMS, 
+Newspaper, Pamphlets, 
+Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of 
+engagement
+(Annually/ Half yearly/ 
+Quarterly / others – 
+please specify)
+Purpose and scope of 
+engagement including 
+key topics and concerns 
+raised during such 
+engagement
+Customers
+No
+One-to-one interactions 
+and meetings for projects, 
+relationship meetings, 
+Customer satisfaction 
+surveys, Helpline numbers 
+and grievance recording 
+mechanism; customer 
+visits, responses to 
+Request for Information 
+(RFI) / Request for 
+Proposal (RFP), sponsored 
+events, mailers, 
+newsletters, brochures, 
+website, social media, 
+events and exhibitions.
+Continuous: GMM 
+Pfaudler’s website, social 
+media, sponsored events, 
+mailers, newsletters, 
+brochures.
+Half-yearly: Relationship 
+meetings, Customer 
+satisfaction surveys, 
+customer visits.
+Annual: Events and 
+Exhibitions.
+• Product Stewardship
+• Product quality and 
+safety
+• Customer data privacy
+• New Products
+• Feedback
+Employees
+No
+Induction programs, 
+E-mails, newsletters 
+Employee portal, HR 
+helpdesk, Engagement 
+initiatives and 
+Townhalls, Rewards & 
+Recognition programs 
+and satisfactions survey, 
+Leadership development 
+meetings/ programmes.
+Continuous: Website, 
+Employee portal, HR
+helpdesk, Rewards & 
+Recognition programs 
+and satisfactions survey, 
+Webinars and awareness 
+sessions.
+Quarterly: GMM 
+Pfaudler’s Newsletter.
+Annual: Townhalls.
+• Performance appraisal 
+and rewards
+•  Learning and 
+development 
+programmes
+•  Transparency in 
+business
+•  Compliance with 
+safety norms
+•  Focus on ESG aspects
+•  Diversity & Inclusion
+•  Code of Conduct & 
+Human Rights
+•  Career Management 
+and Growth Prospects
+Investors & 
+Shareholders
+No
+Website, newspapers, 
+press releases, emails, 
+quarterly conference 
+call, analyst & investor 
+Meeting, general 
+meeting, social media, 
+manufacturing facility 
+visits.
+Continuous: Investors 
+page on the GMM 
+Pfaudler’s website, social 
+media.
+Quarterly: Financial 
+statements earnings 
+call, press conferences, 
+investor calls.
+Annual: Annual General 
+Meeting, Annual Report.
+•  Financial and non-
+financial performance
+•  Robust strategy for 
+business growth
+•  Long-term business 
+value
+•  Ethical Behavior and 
+Fair Business Practices
+•  Understanding 
+shareholders 
+expectations
+Suppliers
+No
+Site visits and inspection, 
+meetings/calls, Vendor 
+capability assessment, 
+Vendor performance 
+assessment.
+Quarterly:
+Meetings/calls.
+Half-yearly:
+Assessments, Site visits 
+and inspections.
+•  Responsible Sourcing
+•  On time performance
+•  Ethical behavior/Fair 
+business practices
+•  Sustainability
+25
+Business Responsibility & Sustainability Reporting
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/
+No)
+Channels of 
+Communication 
+(Email, SMS, 
+Newspaper, Pamphlets, 
+Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of 
+engagement
+(Annually/ Half yearly/ 
+Quarterly / others – 
+please specify)
+Purpose and scope of 
+engagement including 
+key topics and concerns 
+raised during such 
+engagement
+Community
+Yes
+CSR events and programs 
+(Through GMM Pfaudler 
+Foundation).
+Quarterly:
+Project Progress.
+Annual: Review.
+•  Progress on CSR 
+projects
+•  Need Assessments
+•  Impact Assessments
+Industry 
+Bodies, 
+Regulators
+No
+Email, one-on-one 
+meetings, Conference 
+meetings Periodic Fillings.
+Need-based.
+Discussions about 
+various regulations 
+and amendments, 
+inspections, approvals.
+LEADERSHIP INDICATORS
+1.  Provide the processes for consultation between stakeholders and the Board on economic, environmental, 
+and social topics or if consultation is delegated, how is feedback from such consultations provided to the 
+Board.
+ 
+Stakeholder engagement plays a vital role in driving growth ambitions. The Board has given its approval 
+to the Company's 3-year Strategy and Roadmap. The ESG Steering Committee implements the roadmap 
+in accordance with the Company's ESG vision. It establishes sustainability goals, offers targeted guidance 
+and operational insights to the ESG working groups, evaluates public disclosures, and engages with 
+stakeholders to address their concerns. The Chief Executive Officer leads the ESG Steering Committee. 
+Regular board reviews are conducted every quarter, providing an opportunity for the board to engage in in-
+depth discussions with the Chief Executive Officer regarding sustainability progress and concerns raised 
+by stakeholders. This Committee serves as the platform for stakeholders to engage with the Board of the 
+organization.
+ 
+The Company's commitment to transparency and providing stakeholders with a complete view of its 
+performance and progress towards ESG commitments is evident in its comprehensive reporting approach. 
+2. Whether stakeholder consultation is used to support the identification and management of environmental, 
+and social topics (Yes / No). If so, provide details of instances as to how the inputs received from 
+stakeholders on these topics were incorporated into policies and activities of the entity. 
+ 
+Yes, the Company, in collaboration with stakeholders, has identified significant environmental and 
+social issues. We shortlisted and prioritized material topics based on their impact on stakeholders and 
+the business. Information regarding this can be found in the Materiality Assessment section of the ESG 
+report. The Company's initiatives in the field of Corporate Social Responsibility are carefully planned and 
+implemented based on the needs of the communities, including vulnerable and marginalized groups, as 
+well as other community members. 
+3. Provide details of instances of engagement with, and actions taken to, address the concerns of 
+vulnerable/ marginalized stakeholder groups. 
+ 
+At GMM Pfaudler, we are committed to addressing the concerns of vulnerable and marginalized groups. 
+Recently, two schools in Karamsad and Vatva approached us for assistance with infrastructure and 
+student accessories. In response, we constructed handwash stations, separate washrooms for boys and 
+girls, water purifiers, water coolers, and protective shades for these coolers and purifiers. Additionally, we 
+distributed school bags and PT uniforms to the students. These efforts have significantly improved the 
+educational environment and basic needs for students, demonstrating our dedication to supporting and 
+uplifting marginalized communities through proactive engagement and meaningful action.
+ 
+GMM Pfaudler
+26
+PRINCIPLE 5: Businesses should respect and promote human rights
+ESSENTIAL INDICATORS
+1. 
+Employees and workers who have been provided training on human rights issues and policy(ies) of the 
+entity, in the following format:
+Category
+FY24 (Current Financial Year)
+FY23 (Previous Financial Year)
+Total 
+(A)
+No. of employees / 
+Workers covered (B)
+% (B / A)
+Total 
+(C)
+No. of employees / 
+Workers covered (D)
+% (D / C)
+Employees
+Permanent
+583
+459
+78.73%
+604
+604
+100%
+Other than 
+permanent
+15
+15
+100%
+95
+95
+100%
+Total Employees
+598
+474
+89.36%
+699
+699
+100%
+Workers*
+Permanent
+-
+-
+-
+-
+-
+-
+Other than
+permanent
+-
+-
+-
+-
+-
+-
+Total Workers
+-
+-
+-
+-
+-
+-
+ 
+*The Company's Code of Conduct & Ethics Policy (COC) includes comprehensive training on human rights 
+and other policies. Employees participate in COC training through various awareness programs. Discussions 
+are held regularly to enhance awareness about human rights and the COC among all employees and 
+workers. Besides HR-led sessions and online COC training, functional team leads also train all employees 
+and workers, including new hires, on the COC. Currently, these training sessions are not tracked, but this 
+will change starting from FY25. The COC is accessible on the Company's website and intranet portal, and 
+all employees are expected to read, understand, and adhere to these standards, as well as comply with all 
+relevant laws, regulations, and Company policies. Note that training for workers is not specifically tracked.
+2.  Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY24 (Current Financial Year)
+FY23 (Previous Financial Year)
+Total
+(A)
+Equal to Minimum 
+Wage
+More than 
+Minimum
+Wage
+Total
+(D)
+Equal to Minimum 
+Wage
+More than 
+Minimum
+Wage
+No. (B)
+% (B /A)
+No. (C)
+% (C /A)
+No. (E)
+% (E /D)
+No. (C)
+% (F /D)
+Permanent Employees
+Male
+555
+-
+-
+555
+100%
+574
+-
+-
+574
+100%
+Female
+28
+-
+-
+28
+100%
+30
+-
+-
+30
+100%
+Other than Permanent Employees
+Male
+13
+-
+-
+13
+100%
+88
+-
+-
+88
+100%
+Female
+2
+-
+-
+2
+100%
+7
+-
+-
+7
+100%
+Permanent Workers
+Male
+200
+-
+-
+200
+100%
+205
+-
+-
+205
+100%
+Female
+1
+-
+-
+1
+100%
+-
+-
+-
+-
+-
+Other than Permanent Workers
+Male
+2017
+1055
+52.31%
+962
+47.69%
+1920
+550
+28.65%
+1370
+71.35%
+Female
+16
+9
+56.25%
+7
+43.75%
+7
+-
+-
+7
+100%
+27
+Business Responsibility & Sustainability Reporting
+3. Details of remuneration/salary/wages, in the following format:
+ 
+a.  Median remuneration/wages:
+Male
+Female
+Number
+Median 
+remuneration/ 
+Salary/ wages 
+of respective 
+category
+Number
+Median 
+remuneration/ 
+Salary/ wages 
+of respective 
+category
+Board of Directors (BoD)
+5
+25,00,000
+1
+24,00,000
+Key Managerial Personnel
+3
+2,82,88,644
+1
+55,75,440
+Employees other than BoD and KMP
+552
+7,75,266
+27
+10,08,456
+Workers
+200
+5,57,232
+1
+3,72,948
+b.  Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY24  
+(Current Financial Year)
+FY23  
+(Previous Financial Year)
+Gross wages paid to females as % of total wages
+5.07%
+4.12%
+4. Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or 
+issues caused or contributed to by the business? (Yes/No)
+ 
+Yes, the Company has designated the Company Secretary and Human Resource Head as Compliance 
+Officers to enforce the principles outlined in the GMM Pfaudler’s Code of Conduct & Ethics Policy, which 
+includes the protection of human rights.
+5. Describe the internal mechanisms in place to redress grievances related to human rights issues.
+ 
+In order to ensure the protection of human rights and strive for ongoing progress, the Company has 
+implemented systems to receive and address complaints and feedback regarding any potential violations. 
+Our company has implemented various mechanisms to ensure a transparent and ethical work environment. 
+One such mechanism is a Whistle Blower Policy, which encourages our directors and employees to come 
+forward and report any instances of unethical behavior, fraud, or violations of our Code of Conduct & 
+Ethics Policy.
+6. Number of Complaints on the following made by employees and workers:
+FY24 (Current Financial Year)
+FY23 (Previous Financial Year)
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Sexual Harassment
+1
+-
+-
+-
+-
+-
+Discrimination at 
+workplace
+-
+-
+-
+-
+-
+-
+Child Labour
+-
+-
+-
+-
+-
+-
+Forced Labour/ 
+Involuntary Labour
+-
+-
+-
+-
+-
+-
+Wages
+-
+-
+-
+-
+-
+-
+Other human rights 
+related issues
+-
+-
+-
+-
+-
+-
+GMM Pfaudler
+28
+7. 
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and 
+Redressal) Act, 2013, in the following format:
+FY24 (Current 
+Financial Year)
+FY23 (Previous 
+Financial Year)
+Total Complaints reported under Sexual Harassment on of Women 
+at Workplace (Prevention, Prohibition and Redressal) Act, 2013 
+(POSH)
+1
+-
+Complaints on POSH as a % of female employees / workers
+2.13%
+-
+Complaints on POSH upheld
+-
+-
+8. Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment 
+cases.
+ 
+The core values of our organization strictly forbid any form of retaliation. Employees are not liable for 
+retaliation or reprisal when they report any suspected violation of the law, the Code of Conduct, or other 
+company policies. Threats or retaliation against individuals who report violations in good faith or assist 
+with related investigations are rigorously prohibited by the organization. The principles of natural justice, 
+confidentiality, sensitivity, non-retaliation, and impartiality are upheld throughout our resolution process. 
+We ensure that all concerns are addressed with sensitivity and strive to deliver prompt resolutions. By 
+conducting a thorough investigation, we guarantee impartiality for all parties concerned and afford them 
+the chance to present pertinent facts and evidence.
+9. 
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+ 
+Yes, GMM Pfaudler's Code of Conduct & Ethics Policy emphasizes its dedication to safeguarding human 
+rights and respecting the dignity of every individual. The Company expects all employees to adhere to 
+these principles. This obligation applies to all interactions with business partners, including the negotiation 
+and execution of agreements and contracts.
+10. Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labour
+100%
+Forced/involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others – please specify
+11. Provide details of any corrective actions taken or underway to address significant risks / concerns arising 
+from the assessments at Question 10 above.
+ 
+Based on the completed assessment, no significant risks or concerns were identified, and thus no corrective 
+actions were deemed necessary at this time.
+LEADERSHIP INDICATORS
+1. 
+Details of a business process being modified / introduced as a result of addressing human rights 
+grievances/complaints.
+ 
+While we received no grievances or complaints related to Human Rights in FY24, our ongoing Human Rights 
+Due Diligence identified areas for improvement. As a result, we're revising or creating new policies, standard 
+operating procedures (SOPs), and training programs to further strengthen our human rights commitment.
+29
+Business Responsibility & Sustainability Reporting
+2. Details of the scope and coverage of any Human rights due-diligence conducted.
+ 
+Our human rights due diligence, conducted by an independent third party in FY24, covered a comprehensive 
+range of topics to assess our human rights performance across our plants and offices. These topics included:
+• 
+Diversity and Inclusion: We evaluated our practices to ensure a workplace that fosters respect and 
+equal opportunities for all employees regardless of background.
+• 
+Equal Rights and Pay: We reviewed our policies and procedures to guarantee fair treatment and 
+compensation for all employees.
+• 
+Labor Rights: This aspect focused on child labor prevention, adherence to working hour regulations, 
+and ensuring fair wages and employee well-being as outlined in labor laws.
+• 
+Grievance Redressal Mechanism: We assessed the effectiveness of our system for employees to raise 
+and address concerns related to human rights.
+• 
+Rights of Persons with Disabilities: The due diligence examined how well we accommodate and include 
+employees with disabilities.
+• 
+Supplier Code of Conduct: We reviewed our supplier code to ensure alignment with human rights 
+principles and responsible sourcing practices.
+• 
+Other Human Rights Aspects: The assessment also considered broader human rights considerations 
+relevant to our operations.
+ 
+Outcomes and Next Steps
+ 
+The due diligence identified areas for improvement in various aspects, including certain clauses in policies, 
+specific procedures, and training programs. Based on these findings, we are committed to:
+• 
+Modifying existing policies and procedures to strengthen human rights compliance.
+• 
+Creating new policies or Standard Operating Procedures (SOPs) where necessary to address 
+identified gaps.
+ 
+Implementing or enhancing training programs to ensure employees are aware of their rights and 
+responsibilities regarding human rights
+3. Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016?
+ 
+Yes, majority of GMM Pfaudler’s workplace premises are designed to be accessible to differently abled 
+employees and workers. The infrastructure at the gates and office entrances are equipped with even 
+surfaces, such as ramps, to ensure easy accessibility for disabled employees.
+GMM Pfaudler
+30
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+ESSENTIAL INDICATORS
+1. 
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY24 
+ (Current Financial Year)
+FY23 
+ (Previous Financial Year)
+From Renewable Sources
+Total electricity consumption (A) (GJ)
+4,337.18
+6,471.66
+Total fuel consumption (B) (GJ)
+-
+719.46
+Energy consumption through other sources (C) (GJ)
+-
+-
+Total energy consumption from Renewable sources 
+(A+B+C) (GJ)
+4,337.18
+7,191.12
+From Non - Renewable Sources
+Total electricity consumption (D) (GJ)
+68,806.83
+90,933.93
+Total fuel consumption (E) (GJ)
+1,62,198.86
+1,44,588.29
+Energy consumption through other sources (F) (GJ)
+-
+-
+Total energy consumption from Non-Renewable 
+sources (D+E+F) (GJ)
+2,31,005.69
+2,35,522.22
+Total energy consumed (A+B+C+D+E+F)
+2,35,342.87
+2,42,713.34
+Energy intensity per rupee of turnover
+(Total energy consumed GJ / Revenue from 
+Operations in INR Crores )
+228.27
+225.78
+Energy intensity per rupee of turnover adjusted for 
+Purchasing Power Parity (PPP)
+(Total energy consumed GJ / Revenue from 
+operations adjusted for PPP in INR Crores)
+228.27
+225.78
+Energy intensity in terms of physical output*
+8.61
+8.13
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+No
+2. Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set 
+under the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial 
+action taken, if any.
+ 
+Our facilities are not currently designated consumers under the Government of India's PAT Scheme.
+3. Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY24  
+(Current Financial Year)
+FY23  
+(Previous Financial Year)
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+-
+-
+(ii) Groundwater
+20,595
+25,685
+(iii) Third party water
+13,562.79
+18,984.81
+(iv) Seawater / desalinated water
+-
+-
+(v) Others
+-
+-
+Total volume of water withdrawal (in kilolitres) (i + 
+ii + iii + iv + v)
+34,157.79
+44,669.81
+Total volume of water consumption (in kilolitres)
+33,737.79
+39,479.81
+Water intensity per rupee of turnover (Water 
+consumed KL / Revenue from Operations in INR 
+Crores )
+32.72
+36.73
+31
+Business Responsibility & Sustainability Reporting
+Parameter
+FY24  
+(Current Financial Year)
+FY23  
+(Previous Financial Year)
+Water intensity per rupee of turnover adjusted 
+for Purchasing Power Parity (PPP)
+(Total water consumption KL/ Revenue from
+operations adjusted for PPP in INR Crores)
+32.72
+36.73
+Water intensity in terms of physical output*
+1.23
+1.32
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+No.
+4. Provide the following details related to water discharged:
+Parameter
+FY24  
+(Current Financial Year)
+FY23  
+(Previous Financial Year)
+Water discharged by destination and level of treatment (in kilo litres)
+(i) To Surface water
+a. No treatment
+-
+-
+b. With treatment – please specify level of 
+treatment
+-
+-
+(ii) To Groundwater
+a. No treatment
+-
+-
+b. With treatment – please specify level of 
+treatment
+-
+4,840 (STP Secondary 
+Treatment)
+(iii) To Seawater
+a. No treatment
+-
+-
+b. With treatment – please specify level of 
+treatment
+-
+-
+(iv) Sent to third-parties
+a. No treatment
+420
+350
+b. With treatment – please specify level of 
+treatment
+-
+-
+(v) Others
+a. No treatment
+-
+-
+b. With treatment – please specify level of 
+treatment
+-
+-
+Total volume of water discharged (in kilolitres) (i + 
+ii + iii + iv + v)
+420
+5,190
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+No.
+5. Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage 
+and implementation.
+ 
+Yes, in our Karamsad Plant. We implement sustainable water management by reusing water from our 
+Sewage Treatment Plant (STP). After secondary treatment, this water is utilized for gardening and hydro 
+testing, exemplifying our commitment to resource efficiency and environmental conservation. These 
+practices help us reduce our ecological footprint and support a sustainable ecosystem.
+GMM Pfaudler
+32
+6. Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY24 (Current 
+Financial Year)
+FY23 (Previous  
+Financial Year)
+NOx
+Kg
+967.98
+242
+SOx
+Kg
+1640.21
+423
+Particulate matter (PM)
+Kg
+7,142.51
+2,556
+Persistent organic pollutants (POP)
+-
+-
+-
+Volatile organic compounds (VOC)
+-
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+-
+Others – please specify
+-
+-
+-
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+No.
+7. 
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the 
+following format:
+Parameter
+Unit
+FY24 (Current 
+Financial Year)
+FY23 (Previous 
+Financial Year)
+Total Scope 1 emissions (Break-up of 
+the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent/ INR Crores
+9,929.46
+8,517.98
+Total Scope 2 emissions
+(Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent/ INR Crores
+13,684.91
+20,460.34
+Total Scope 1 and Scope 2 emission 
+intensity per rupee of turnover
+(Total Scope 1 and Scope 2 GHG 
+emissions / Revenue from operations)
+Metric tonnes of CO2 
+equivalent/ INR Crores
+22.90
+26.96
+Total Scope 1 and Scope 2 emission 
+intensity per rupee of turnover adjusted 
+for Purchasing Power Parity (PPP)
+(Total Scope 1 and Scope 2 GHG 
+emissions / Revenue from operations 
+adjusted for PPP)
+Metric tonnes of CO2 
+equivalent/ INR Crores
+22.90
+26.96
+Total Scope 1 and Scope 2 emission 
+intensity in terms of physical output
+Metric tonnes of CO2 
+equivalent /Nos
+0.86
+0.97
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. –
+No.
+8. Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide 
+details.
+ 
+GMM Pfaudler strives to decrease its carbon footprint by continuously working towards reducing electricity 
+consumption and emissions through the adoption of clean technology, enhancing energy efficiency, and 
+promoting renewable energy.
+ 
+Few of the projects associated with Reducing Green House Gas Emissions are:
+1. Renewable Energy
+ 
+  1MW Roof Top Solar Plant at Karamsad Manufacturing Unit generated 12,04,771 kWh during the FY24 
+& helped avoid 862.62 tCO₂e.
+2.  Process Improvement
+ 
+ 
+a.     Reduced Glass coat application, helped save 27,10,200 kWh of electricity and avoided 1940.51 tCO₂e.
+3. Reduced Glass coat application, helped save 27,10,200 kWh of electricity and avoided 1940.51 tCO₂e.
+33
+Business Responsibility & Sustainability Reporting
+4. Energy Saving Projects through multiple projects we saved 2,72,266 kWh of energy and avoided 
+194.98 tCO₂e)
+a. Installation of solar streetlights.
+b. Use of energy efficient motors /other equipment (Welding M/Cs).
+c. Installation of AC models with eco-friendly gas & 5-star rating.
+d. Saving in office lighting/ACs by on/off scheduling.
+e. Replacement of factory shade sky light sheet with Polycarbonate sheets to improve day light.
+f. 
+Reduce energy consumption :
+i. 
+Saving in Air Compressor & transformer consumption by On/Off scheduling.
+ii. 
+Furnaces modification for efficiency optimization & control of CO2 generation in exhaust.
+iii. Installation of VFD in compressor & shot blasting blower application
+iv. Furnace control panel rooms use interlocked AC units to prevent unnecessary cooling when the 
+furnace is on.
+v. 
+Improved power factor in operations
+g. Use of Electric Vehicle :
+i. 
+Car for local travel use.
+ii. 
+Tempo / forklift (for in-house material movement).
+9. 
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY24  
+(Current Financial Year)
+FY23  
+(Previous Financial Year)
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+-
+1.10
+E-waste (B)
+-
+3.30
+Bio-medical waste (C)
+-
+0.00015
+Construction and demolition waste (D)
+33.04
+310.43
+Battery waste (E)
+1.35
+0.037143
+Radioactive waste (F)
+0.135
+-
+Other Hazardous waste. Please specify, if any. (G)
+9.38
+21.50
+Other Non-hazardous waste generated (H). 
+Please specify, if any. (Break-up by composition 
+i.e. by materials relevant to the sector)
+2,811.52
+4,450.36
+Total (A+B + C + D + E + F + G+ H)
+2,855.425
+4,786.727
+Waste intensity per rupee of turnover
+(Total waste generated MT/ Revenue from 
+operations in INR Crores)
+2.77
+4.45
+Waste intensity per rupee of turnover adjusted 
+for Purchasing Power Parity (PPP)
+(Total waste generated MT / Revenue from 
+operations adjusted for PPP in INR Crores)
+2.77
+4.45
+Waste intensity in terms of physical output
+0.10
+0.16
+GMM Pfaudler
+34
+Parameter
+FY24  
+(Current Financial Year)
+FY23  
+(Previous Financial Year)
+For each category of waste generated, total waste recovered through recycling, re-using or other  
+recovery operations (in metric tonnes)
+Category of waste
+(i) Recycled
+2,776.48
+4,455.48
+(ii) Re-used
+70.91
+310.11
+(iii) Other recovery operations
+0.36
+-
+Total
+2,847.75
+4,765.59
+For each category of waste generated, total waste disposed by nature of disposal method  
+(in metric tonnes)
+Category of waste
+(i) Incineration
+-
+0.00015
+(ii) Landfilling
+7.55
+19.63
+(iii) Other disposal operations
+-
+-
+Total
+7.55
+19.63015
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+No.
+ 
+Note: FY23 data has been corrected due to change in calculation methodology.
+10. Briefly describe the waste management practices adopted in your establishments. Describe the strategy 
+adopted by your company to reduce usage of hazardous and toxic chemicals in your products and 
+processes and the practices adopted to manage such wastes.
+ 
+GMM Pfaudler recognizes the vitality of waste management, an issue that profoundly affects our 
+organization, neighboring communities, and the environment. The primary objectives of our waste 
+management strategy are to reduce refuse disposal, maximize recycling and recovery, and minimize waste 
+generation. To ensure responsible waste management practices throughout all our facilities, we have 
+implemented several measures, including source-separated waste, waste reuse and recycling, and the 
+secure disposal of hazardous waste in collaboration with an authorized agency. Our dedication to waste 
+management is consistent with our overarching environmental, social, and governance goals, and we are 
+consistently striving to improve our waste management procedures.
+Few of the project associated with Waste Management are:
+1. By eliminating first trial revision drawings, we're saving approximately 38,100 sheets of paper, 
+significantly reducing waste and supporting our sustainability efforts.
+2. Utilization of scrap for fabrication of non-pressure parts for optimal utilization of scrap & to reduce the 
+risk of outsourcing and build inhouse capability.
+3. For our shot blasting operation we replaced Aluminum Oxide shots with Steel Shots which not only can 
+be reused but also helped us reduce our hazardous waste generation.
+4. We are Reusing Wooden Boxes for packaging which has helped us reduced wood consumption by 
+894 cubic feet.
+11. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) 
+where environmental approvals / clearances are required, please specify details in the following format:
+ 
+Not applicable as the Company does not have operation/offices in/around ecologically sensitive areas.
+12. Details of environmental impact assessments of projects undertaken by the entity based on applicable 
+laws, in the current financial year:
+ 
+Not applicable as the Company did not undertake any environmental impact assessment projects in FY24.
+35
+Business Responsibility & Sustainability Reporting
+13. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the 
+Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment 
+protection act and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the 
+following format:
+ 
+Yes, the organization follows all the Environment related laws/regulations/guidelines. During the year, 
+the Emissions/Waste generated by the Company were within the limits prescribed by the State Pollution 
+Control Board (SPCB) and certification to that effect is being obtained on a periodical basis as per 
+guidelines of SPCB.
+LEADERSHIP INDICATORS
+1. 
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+ 
+For each facility / plant located in areas of water stress, provide the following information:
+ 
+a. 
+Name of the area:  5 1/2 Vatva Railway Crossing G I D C, Vatva GIDC, Ahmedabad, Gujarat 382445
+ 
+b. 
+Nature of operations: Manufacturing of other special purpose machinery 
+ 
+c. 
+Water withdrawal, consumption and discharge in the following format:
+Parameter
+FY24 (Current 
+Financial Year)
+FY23 (Previous 
+Financial Year)
+Water withdrawal by source (in kilo litres)
+(i) Surface water
+-
+-
+(ii) Groundwater
+-
+-
+(iii) Third party water
+10,966
+16,142
+(iv) Seawater / desalinated water
+-
+-
+(v) Others
+-
+-
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+10,966
+16,142
+Total volume of water consumption (in kilolitres)
+10,966
+16,142
+Water intensity per rupee of turnover (Water consumed KL / 
+turnover in INR Crores*) *turnover taken for the site
+44.32
+68.25
+Water intensity (optional) – the relevant metric may be selected 
+by the entity
+Water discharged by destination and level of treatment (in kilo litres)
+(i) Into Surface water
+c. No treatment
+Not Applicable
+d. With treatment – please specify level of treatment
+(ii) Into Groundwater
+c. No treatment
+d. With treatment – please specify level of treatment
+(iii) Into Seawater
+c. No treatment
+d. With treatment – please specify level of treatment
+(iv) Sent to third-parties
+c. No treatment
+d. With treatment – please specify level of treatment
+(v) Others
+c. No treatment
+d. With treatment – please specify level of treatment
+Total volume of water discharged (in kilolitres) (i + ii + iii + iv + v)
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. –
+No.
+GMM Pfaudler
+36
+2.  Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY24  
+(Current Financial Year)
+FY23  
+(Previous Financial Year)
+Total Scope 3 emissions
+(Break-up of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)
+We plan to include Scope 3 emissions in our future 
+sustainability reporting
+Total Scope 3 emissions per rupee of turnover
+Total Scope 3 emission intensity (optional) – 
+the relevant metric may be selected by the entity
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency.
+No
+3. With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, 
+provide details of significant direct & indirect impact of the entity on biodiversity in such areas along-
+with prevention and remediation activities.
+ 
+Not applicable as the Company does not have operation/offices in/around ecologically sensitive areas.
+4. If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve 
+resource efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please 
+provide details of the same as well as outcome of such initiatives, as per the following format:
+Sr. 
+No
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be 
+provided along-with summary)
+Outcome of Initiative
+1
+Improvement in glass 
+coat application 
+process
+Through the improvement Glass coat application 
+reduced by 0.44 coats in Karamsad Plant & 0.91 
+coats at Hyderabad plant.
+Helped save 2,710,210 
+kWh of electricity and 
+avoided 1940.51 tCO₂e.
+2
+Energy Saving Projects
+a. Installation of solar streetlights.
+b. Use of energy efficient motors /other equipment 
+(Welding M/Cs).
+c. Installation of AC models with eco-friendly gas & 
+5-star rating.
+d. Saving in office lighting/ACs by on/off 
+scheduling.
+e. Replacement of factory shade sky light sheet 
+with Polycarbonate sheets to improve day light.
+f. Saving in Air Compressor & transformer 
+consumption by On/Off scheduling.
+g. Furnaces modification for efficiency optimization 
+& control of CO2 generation in exhaust.
+h. Installation of VFD in compressor & shot blasting 
+blower application
+i. Furnace control panel rooms use interlocked AC 
+units to prevent unnecessary cooling when the 
+furnace is on.
+j. Improved power factor in operations
+k. Use of Electric Vehicle
+Through multiple 
+projects we saved 
+2,72,266 kWh of energy 
+and avoided 194.98 
+tCO₂e
+3
+Water Saving Initiatives
+a. Revamped the water pits & shopfloor pipelines to 
+eliminate leakages & overflow – effectively using 
+recycled water used for equipment testing at 
+Hyderabad Plant.
+b. STP water being used in garden areas & Re-
+mapping of hydrotest water line for higher 
+utilisation of filtration water at Karamsad Plant.
+Overall Water Intensity 
+reduced by 11%.
+4
+Hazardous Waste 
+Reduction
+Replaced Aluminum Oxide Shots with Steel shots.
+Reduced waste 
+disposal at landfill.
+37
+Business Responsibility & Sustainability Reporting
+5. Does the entity have a business continuity and disaster management plan? Give details in 100 words/ 
+web link.
+ 
+The Company has a standardised business continuity plan (BCP) in place which provides resilient business 
+operations and ultimate safety of personnel and the Company’s assets. The business continuity plans 
+are included in our Enterprise Risk Management program and guide our response to disruptions to our 
+operations. This covers many situations as a component of risk management processes and offers for risk 
+mitigation and management in case of uncertainty. GMM Pfaudler’s BCP seeks to restore operations to 
+Business as Usual at the earliest in case of a business outage.
+Overall Emergency Preparedness at GMM Pfaudler across all sites includes:
+• Periodic Emergency Response Trainings for Emergency Response Teams (staff) & security team.
+• Periodic Evacuation & Emergency Simulation Drills.
+• Robust emergency preparedness checks to always ensure readiness.
+• Liaison with Civil authorities for quick response in case of an emergency.
+• Early assessments.
+• Annual Maintenance Contracts on Emergency PPE.
+6. Disclose any significant adverse impact to the environment, arising from the value chain of the entity. 
+What mitigation or adaptation measures have been taken by the entity in this regard.
+ 
+Our supply chain partners haven't reported any major environmental concerns. We enforce a Supplier Code 
+of Conduct that mandates sustainable resource use and minimizing environmental impact. We encourage 
+suppliers to develop eco-friendly practices, promoting positive environmental influence throughout our 
+value chain.
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner 
+that is responsible and transparent
+ESSENTIAL INDICATORS
+1. 
+a. Number of affiliations with trade and industry chambers/ associations.
+ 
+The Company is a member of 12 (twelve) trade and industry chambers/ associations.
+ 
+b. List the top 10 trade and industry chambers/ associations (determined based on the total members of 
+such body) the entity is a member of/ affiliated to
+Sr. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ associations 
+(State/National)
+1
+The Federation of Indian Chambers of Commerce and Industry (FICCI)
+National
+2
+The Confederation of Indian Industry (CII)
+National
+3
+Indian Chemical Council (ICC)
+National
+4
+Process Plant & Machinery Association of India (PPMAI)
+National
+5
+Indian American Chamber of Commerce (IACC)
+National
+6
+Indian Merchants Chamber
+National
+7
+Swiss Indian Chamber of Commerce
+National
+8
+International Market Assessment
+National
+9
+Indo German Chamber of Commerce
+National
+10
+Vithal Udyognagar Industries Association
+State
+11
+Federation of Gujarat Industries
+State
+12
+The Bombay Chamber of Commerce & Industry (BCCI)
+State
+GMM Pfaudler
+38
+2. Provide details of corrective action taken or underway on any issues related to anti-competitive conduct 
+by the entity, based on adverse orders from regulatory authorities.
+ 
+During the reporting period, the Company received no notices for anti-competitive, antitrust, conflict of 
+interest, or monopolistic practices from regulatory authorities hence no corrective action was required 
+to be taken.
+LEADERSHIP INDICATORS
+1. 
+Details of public policy positions advocated by the entity:
+ 
+The Company did not advocate for any public policy in FY24.
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development
+ESSENTIAL INDICATORS
+1. 
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable 
+laws, in the current financial year.
+Name and 
+brief details of 
+project
+SIA 
+Notification 
+No.
+Date of 
+notification
+Whether conducted 
+by independent 
+external agency
+(Yes / No)
+Results 
+communicated in 
+public domain
+(Yes / No)
+Relevant 
+Web link
+As per the law the entity is not required to conduct any Social Impact Assessments in the current financial 
+year. However, the Company has carried out social impact assessment of its CSR projects in FY23 namely 
+ReefWatch Marine Conservation for Project “Re(ef) Generate” at Andaman Islands and Reef Watch Marine 
+Conservation for Mega-fauna Rescue & Beach Restoration on the Karnataka coast on a voluntary basis. 
+Details of the Impact Assessment is provided in the ESG Section of this Annual Report.
+2. Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity, in the following format:
+ 
+Not Applicable as the Company did not undertake any projects requiring Rehabilitation and 
+Resettlement activities.
+3. Describe the mechanisms to receive and redress grievances of the community.
+ 
+The Company's close collaboration with the community in identified areas of contribution for Corporate 
+Social Responsibility initiatives demonstrates a proactive approach to social impact. The Company has 
+developed a Grievance Tracking Log to further enhance this commitment by ensuring that any grievances 
+or concerns are promptly addressed. This log not only promotes transparency and accountability but also 
+contributes to effective project management, ultimately leading to more meaningful and sustainable 
+outcomes for both the Company and the community it serves.
+4. Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY24  
+(Current Financial Year)
+FY23  
+(Previous Financial Year)
+Directly sourced from MSMEs/small producers
+18.76%
+21.44%
+Directly from within India
+92.72%
+90.80%
+ 
+Note: FY23 data has been corrected due to change in calculation methodology.
+5. Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers 
+employed on a permanent or non-permanent / on contract basis) in the following locations, as % of total 
+wage cost
+Location
+FY24  
+(Current Financial Year)
+FY23  
+(Previous Financial Year)
+Rural
+-
+-
+Semi-urban
+47.00%
+47.26%
+Urban
+-
+-
+Metropolitan
+53.00%
+52.70%
+(Place to be categorized as per RBI Classification System - rural / semi-urban / urban / metropolitan)
+39
+Business Responsibility & Sustainability Reporting
+LEADERSHIP INDICATORS
+1. 
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact 
+Assessments (Reference: Question 1 of Essential Indicators above):
+ 
+Not Applicable, as no Social Impact assessment were carried out in FY24.
+2. Provide the following information on CSR projects undertaken by your entity in designated aspirational 
+districts as identified by government bodies:
+ 
+The Company did not undertake any CSR projects in government-identified aspirational districts.
+3.
+(a) Do you have a preferential 
+procurement policy where you 
+give preference to purchase 
+from suppliers comprising 
+marginalized /vulnerable 
+groups? (Yes/No)
+No, as per our Code of Conduct & Ethics Policy, we do not discriminate 
+on any basis while selecting our suppliers and provide equal 
+opportunities for engagement to all potential suppliers. We encourage 
+working with local suppliers or suppliers that are close to our facilities. 
+However, we have not specifically considered marginalized/ vulnerable 
+groups in our supplier qualifying criteria.
+(b) From which marginalized /
+vulnerable groups do you 
+procure?
+Not Applicable
+(c) What percentage of total 
+procurement (by value) does it 
+constitute?
+Not Applicable
+6. Details of beneficiaries of CSR Projects:
+Sr. 
+No.
+CSR Project
+No. of persons benefitted from 
+CSR Projects
+% of beneficiaries from vulnerable and 
+marginalized groups
+1
+Education   
+300+
+100%
+2
+Healthcare
+30,000+
+100%
+3
+Environment*
+-
+-
+*In the Environment section the Company works on initiatives such urban afforestation, restoration of coral 
+reefs and marine megafauna rescue, where beneficiaries can not be calculated.
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a responsible manner
+ESSENTIAL INDICATORS
+1. 
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+ 
+GMM Pfaudler values customer complaints and strives to address them promptly and effectively. GMM 
+Pfaudler offers various channels for customers to submit complaints or provide feedback. Every complaint 
+we receive through different channels is carefully recorded and assigned a unique complaint number. We 
+promptly send an acknowledgement email to the customer, informing them that their complaint has been 
+duly noted. The issue is promptly addressed and resolved. Customers can easily reach out to the Company 
+through a toll-free number and a dedicated mail id to register their complaints. Complaints are allocated 
+to Service Managers based on the complaint category. The Company adheres to globally recognized 
+standards, specifically ISO 9000 for Quality Management. The team collaborates closely with management 
+and various vertical teams, consistently providing feedback on process, policies, and people-related 
+concerns. This results in enhancements and guarantees a decrease in complaints.
+2.  Turnover of products and/ services as a percentage of turnover from all products/service that carry 
+information about:
+As a percentage to total turnover
+Environmental and Social parameters relevant to the 
+product
+100%
+(All the information related to Environment and Social 
+parameters relevant to product, Safe and responsible 
+usage and Recycling and/or safe disposal are 
+mentioned in the manual sent along with the product.)
+Safe and responsible usage
+Recycling and/or safe disposal
+GMM Pfaudler
+40
+3. Number of consumer complaints in respect of the following:
+ 
+No consumer complaints were received during current and previous financial years regarding data 
+privacy, advertising, cyber security, delivery of essential services, restrictive trade practices and unfair 
+trade practices.
+4. Details of instances of product recalls on account of safety issues:
+ 
+There were no instances of product recalls on account of safety issues during FY24.
+5. Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) 
+If available, provide a web-link of the policy.
+ 
+Yes. The Company has in place Cyber Security Policy and Data Privacy Policy to ensure sufficient 
+safeguards are in place to prevent any data leakage. The Company has a well-institutionalised information 
+security management system based on internationally recognised standards and best practices and 
+is continuously improving its cyber security posture to safeguard from emerging cyber threats to its 
+business. For further details please refer to the “Internal Control Systems & their Adequacy” in the section 
+of Management Discussion & Analysis. The policy is available to internal stakeholders and is placed on the 
+intranet of the Company.
+6. Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery 
+of essential services; cyber security and data privacy of customers; re-occurrence of instances of product 
+recalls; penalty / action taken by regulatory authorities on safety of products / services.
+ 
+Not Applicable 
+7. 
+Provide the following information relating to data breaches:
+a. Number of instances of data breaches
+5
+b. Percentage of data breaches involving personally identifiable information of 
+customers
+0
+c. Impact, if any, of the data breaches
+-
+LEADERSHIP INDICATORS
+1. 
+Channels / platforms where information on products and services of the entity can be accessed (provide 
+web link, if available).
+Detailed information on products and services of the entity can be accessed from the following links:
+https://www.gmmpfaudler.com/
+https://www.gmmpfaudler.com/services/
+2. Steps taken to inform and educate consumers about safe and responsible usage of products and/or 
+services.
+ 
+Operational Manuals provided with the equipment. Multiple interactive training sessions conducted at 
+customer premises for educating customers on safe and responsible usage of products.
+3. Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+ 
+We proactively notify customers by email or phone of any service disruptions/discontinuation that may 
+impact them.
+4
+Does the entity display product information on the product over and above what is 
+mandated as per local laws? (Yes/No/Not Applicable)
+Not Applicable
+If yes, provide details in brief.
+Not Applicable
+Did your entity carry out any survey with regard to consumer satisfaction relating to the 
+major products / services of the entity, significant locations of operation of the entity or 
+the entity as a whole? (Yes/No)
+No

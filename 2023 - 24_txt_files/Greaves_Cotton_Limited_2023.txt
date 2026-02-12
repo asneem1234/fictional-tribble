@@ -1,0 +1,4948 @@
+ 
+11th July 2024 
+   
+The Manager - Listing 
+The Manager - Listing 
+BSE Limited 
+National Stock Exchange of India Limited 
+BSE Code - 501455 
+NSE Code - GREAVESCOT 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Business Responsibility and Sustainability Report 2023-24 
+ 
+Pursuant to Regulation 34 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, enclosed herewith is the Business Responsibility and Sustainability Report 
+including the Assurance Statement for the Financial Year 2023-24. 
+ 
+Kindly take the above information on record. 
+ 
+Thanking you, 
+Yours faithfully, 
+For Greaves Cotton Limited 
+ 
+ 
+ 
+Atindra Basu 
+Group General Counsel & Company Secretary 
+ 
+Encl.: a/a 
+ 
+ 
+ 
+ATINDRA 
+NATH 
+BASU
+Digitally signed by ATINDRA NATH BASU 
+DN: c=IN, o=Personal, title=7671, 
+pseudonym=1332461701742363475rNGo46TGAg5
+pc, 
+2.5.4.20=738bbb4dae14d7a19448865255914e549
+b258b83e2220e1134a8fbac70540372, 
+postalCode=400610, st=Maharashtra, 
+serialNumber=6a739644895d9b71ab90ddae772bf
+6e6c81895bc67767c20ff2ca9a68623f8a4, 
+cn=ATINDRA NATH BASU 
+Date: 2024.07.11 19:51:57 +05'30'
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+85
+With 163+ years of rich legacy & foundation built on trust, Greaves Cotton Limited continues to focus on sustainable value creation for its 
+stakeholders through innovation, leveraging technology at forefront & finding new avenues of providing affordable & reliable solutions for 
+progressive world. We are at the forefront to conduct our business in ethical and transparent manner taking into consideration the impact 
+of our operations on environment, community, employees, customers, investors and other stakeholders.
+This being second year of publishing Business Responsibility and Sustainability Report (BRSR), we have reinforced our commitment towards 
+transparency and improved disclosures. We’ve broadened our reporting boundaries by including two key subsidiaries - Greaves Electric 
+Mobility Private Limited and Excel Controlinkage Private Limited, for consolidated disclosures. While not mandated by regulations, this year, 
+we have also appointed an assurance partner for providing reasonable assurance on BRSR core indicators and limited assurance on other 
+sustainability indicators of BRSR. 
+Sustainable Development Goals (SDGs) mapped against National Guidelines on Responsible Business Conduct 
+(NGRBC) principles
+SDGs
+Goals description
+Goals mapped with NGRBC principles
+Goal 1
+No poverty
+P3, P4, P8
+Goal 2
+Zero hunger
+P2, P6, P7, P8, P9
+Goal 3
+Good health and well-being
+P3, P6, P8
+Goal 4
+Quality education
+P3, P8, P9
+Goal 5
+Gender equality
+P3, P4, P5, P8
+Goal 6
+Clean water and sanitation
+P2, P6, P8
+Goal 7
+Affordable and clean energy
+P2, P6, P7
+Goal 8
+Decent work and economic growth
+P2, P3, P5, P8
+Goal 9
+Industry, innovation and infrastructure
+P3, P4, P8
+Goal 10
+Reduced inequalities
+P2, P6, P7
+Goal 11
+Sustainable cities and communities
+P3, P4, P7, P8
+Goal 12
+Responsible consumption and production
+P2, P6, P9
+Goal 13
+Climate action
+P2, P6, P7, P8
+Goal 14
+Life below water
+P2, P6, P7, P8, P9
+Goal 15
+Life on land
+P2, P6, P7, P8, P9
+Goal 16
+Peace, justice and strong institutions
+P1, P3, P4, P5, P8
+Goal 17
+Partnership for the goals
+P1, P7, P8
+Business Responsibility & Sustainability Report
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+86
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1.	
+Corporate Identity Number (CIN) of the Listed Entity
+L99999MH1922PLC000987
+2.	
+Name of the Listed Entity
+Greaves Cotton Limited
+3.	
+Year of incorporation
+1922
+4.	
+Registered office address
+J-2, MIDC Industrial Area, Chikalthana, Aurangabad - 431210, 
+Maharashtra, India.
+5.	
+Corporate address
+Unit No. 1A, 5th Floor, Tower 3, Equinox Business Park, LBS Marg, Kurla 
+West, Mumbai - 400070, Maharashtra, India.
+6.	
+E-mail
+investorservices@greavescotton.com
+7.	
+Telephone
+022-41711700
+8.	
+Website
+https://www.greavescotton.com
+9.	
+Financial year for which reporting is being done
+1st April 2023 to 31st March 2024
+10.	
+Name of the Stock Exchange(s) where 
+shares are listed
+BSE Limited &
+National Stock Exchange of India Limited
+11.	
+Paid-up Capital
+Rs. 46.40 crore
+12.	
+Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report
+Mr. Atindra Basu
+Designation:- Group General Counsel and Company Secretary
+Telephone: 022-41711700
+Email: investorservices@greavescotton.com
+13.	
+Reporting boundary
+This report covers the period from 1st April 2023 to 31st March 2024 and 
+includes all the financial and non-financial information of Greaves Cotton 
+Limited (‘GCL’), Greaves Electric Mobility Private Limited (‘GEMPL’) and 
+Excel Controlinkage Private Limited (‘ECPL’) - the subsidiaries of GCL (GCL, 
+GEMPL and ECPL hereinafter together refer to as ‘Greaves/the Company’). 
+Appropriate notes have been added wherever there are exceptions.
+14.	
+Name of assurance provider
+Agile ESG Advisors Private Limited
+15.	
+Type of assurance obtained
+Reasonable assurance on BRSR core indicators and limited assurance on 
+other sustainability indicators in BRSR.
+The statement of assurance issued by Agile ESG Advisors Private Limited 
+forms part of this report.
+II.	
+Products/services
+16.	
+Details of business activities (accounting for 90% of the turnover):1
+S. no.
+Description of main activity
+Description of business activity
+% of turnover of the entity
+1.
+Manufacturing
+Electrical equipment, General purpose and 
+special purpose machinery & equipment and 
+transport equipment.
+92%
+Note
+1 Includes data of GCL only.
+17.	
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):2
+S. No.
+Product/Service
+NIC Code
+% of total turnover contributed
+1
+Own and multi brand spare parts
+2930
+31%
+2
+Diesel, CNG & Petrol Engines
+2910
+28%
+3
+Gensets
+2710
+23%
+4
+Non-Auto Engines
+2811
+9%
+5
+Industrial Engines
+2812
+5%
+Note
+2 Includes data of GCL only.
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+87
+III.	
+Operations
+18.	
+Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+10
+10
+20
+International
+-
+-
+-
+19.	
+Markets served by the entity:
+	
+a.	
+Number of locations3
+Locations
+Number
+National (No. of States and Union Territories)
+28 States and 8 Union Territories
+International (No. of Countries)
+34
+	
+	
+Note
+	
+	
+3 Includes data of GCL only.
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+	
+The contribution of exports as a percentage of the total turnover of GCL is 5.92%.
+	
+c.	
+A brief on types of customers
+	
+	
+Greaves has presence across Automotive, Non-Automotive, Aftermarket, Retail, Electric mobility solutions, and our customers 
+include automotive manufacturing companies, farmers and retail customers who purchase engines, generators, electric 
+scooters, electric three-wheelers, spare parts and accessories.
+IV.	
+Employees
+20.	
+Details as at the end of the Financial Year:
+	
+a.	
+Employees and workers (including differently abled)
+S. No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+1,233
+1,144
+93%
+89
+7%
+2.
+Other than Permanent (E)
+203
+184
+91%
+19
+9%
+3.
+Total employees (D + E)
+1,436
+1,328
+92%
+108
+8%
+WORKERS
+4.
+Permanent (F)
+479
+468
+98%
+11
+2%
+5.
+Other than Permanent (G)
+1,776
+1,654
+93%
+122
+7%
+6.
+Total workers (F + G)
+2,255
+2,122
+94%
+133
+6%
+	
+b.	
+Differently abled Employees and workers
+S. No
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+3
+2
+67%
+1
+33%
+2.
+Other than Permanent (E)
+1
+1
+100%
+0
+0%
+3.
+Total differently abled employees (D + E)
+4
+3
+75%
+1
+25%
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+1
+1
+100%
+0
+0%
+5.
+Other than permanent (G)
+2
+2
+100%
+0
+0%
+6.
+Total differently abled workers (F + G)
+3
+3
+100%
+0
+0%
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+88
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+21.	
+Participation/Inclusion/Representation of women:4
+Particulars
+Total 
+(A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+85
+1
+13%
+Key Management Personnel
+3
+1
+33%
+Note:
+4 Includes data of GCL only.
+5 Mr. Arvind Kumar Singhal, completed his second consecutive term as an Independent Director and thus retired as an Independent Director of the Company 
+with effect from the close of business hours on 31st March 2024.
+22.	
+Turnover rate for permanent employees and workers:
+Particulars
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+23%
+2%
+25%
+21%
+2%
+24%
+25%
+3%
+28%
+Permanent Workers
+3%
+0%
+4%
+20%
+2%
+22%
+19%
+0%
+19%
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+23.	
+Names of holding / subsidiary / associate companies / joint ventures:
+S. 
+No.
+Name of the holding / subsidiary 
+/ associate companies / 
+joint ventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint Venture
+% of shares held 
+by listed entity/ 
+Holding Company
+Does the entity indicated at column 
+A participate in the Business 
+Responsibility initiatives of the listed 
+entity? (Yes/No)
+1
+DBH Investment Capital India 
+Private Limited (Formerly known as 
+Karun Carpets Private Limited)
+Holding
+56%
+No
+2
+Greaves Finance Limited
+Subsidiary
+100%
+No
+3
+Greaves Technologies Limited
+Subsidiary
+100%
+No
+4
+Greaves Electric Mobility 
+Private Limited
+Subsidiary
+62.46%
+Yes
+5
+Excel Controlinkage Private Limited
+Subsidiary
+60%
+Yes
+6
+Bestway Agencies Private Limited
+Subsidiary
+100%
+No
+7
+Greaves Technologies Inc.
+Subsidiary
+100%
+No
+8
+MLR Auto Limited
+Subsidiary
+51%
+No
+VI.	
+CSR Details:
+24.	
+(i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+	
+	
+Yes, CSR is applicable to GCL as per Section 135 of Companies Act, 2013.
+	
+(ii)	
+Turnover of GCL (in Rs.) - Rs. 1,549.76 crore (As on 31st March 2023)
+	
+(iii)	
+Net worth of GCL (in Rs.) - Rs. 1,034.08 crore (As on 31st March 2023)
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+89
+VII.	 Transparency and Disclosures Compliances
+25.	
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct:
+Stakeholder group 
+from whom the 
+complaint is received
+Grievance Redressal 
+Mechanism 
+in Place (Yes/No)
+(If yes, then provide 
+web-link for grievance 
+redressal policy)6
+FY 2023-24
+FY 2022-237
+Number of 
+complaints filed 
+during the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Number of 
+complaints filed 
+during the year
+Number of 
+complaints 
+pending 
+resolution at close 
+of the year   
+Remarks
+Communities
+Yes
+-
+-
+-
+-
+-
+-
+Investors (other 
+than shareholders)
+Yes
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+Shareholders
+Yes
+5
+-
+-
+4
+-
+-
+Employees and workers
+Yes
+44
+-
+-
+35
+-
+-
+Customers
+Yes
+40,024
+217
+-
+26,755
+26
+-
+Value Chain Partners
+Yes
+443
+3
+-
+-
+-
+-
+Other (please specify)
+-
+-
+-
+-
+-
+-
+-
+Note
+6  We have in place different policies and mechanisms for different stakeholders which includes reaching out to Company through emails, phone calls, etc. 
+However, the vigil mechanism provides a detailed process for raising concerns or complaints by all the stakeholders. Vigil mechanism is explained in detail 
+in the Corporate Governance Report. The Stakeholders Relationship & Share Transfer Committee, Compliance Officer and Registrar and Transfer Agent of 
+Company (i.e., KFin Technologies Limited) are responsible for resolving grievances of shareholders/investors. The Whistle Blower Policy and the contact details 
+for resolving investor grievance are available on the website of the Company at https://greavescotton.com/wp-content/uploads/2023/06/Whistle-Blower-
+Policy-for-website-upload.pdf and https://greavescotton.com/investor-relations/
+7  For FY 2022-23, data of only GCL and GEMPL is included.
+26.	
+Overview of the entity’s material responsible business conduct issues:
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether risk or
+opportunity 
+(R/O)
+Rationale for 
+identifying the risk / opportunity
+In case of risk, 
+approach to adapt or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1
+Product 
+Safety and 
+Quality
+Risk
+In 
+order 
+to 
+optimize 
+customer 
+satisfaction, 
+attract 
+environmentally 
+conscious 
+consumers and ensure regulatory 
+compliance, 
+it 
+is 
+imperative 
+to 
+prioritize 
+product 
+quality, 
+sustainability 
+and 
+safety. 
+This approach not only safeguards 
+consumer well-being but also 
+enhances organizational reputation 
+and fosters long-term success.
+We have deployed stringent 
+quality 
+controls 
+across 
+our 
+manufacturing 
+facilities 
+with 
+comprehensive 
+standard 
+operating procedures meeting 
+the 
+international 
+standards 
+such as Quality management 
+system 
+ISO 
+9001: 
+2015 
+/ 
+IATF16949. 
+This 
+helps 
+us 
+build 
+strong 
+foundation 
+for 
+ensuring consistency in product 
+quality and safety.
+Negative
+2
+Sustainable 
+Supply Chain
+Risk
+Key to organisational success is 
+dependent on its strategy around 
+supply chain. Any inability to 
+manage the supply chain strategy 
+can lead to disruption in business 
+operations, create legal obligations 
+and impact the reputation of 
+an organisation.
+Greaves has rolled out various 
+initiatives, 
+processes 
+and 
+systems to avoid any disruption 
+in supply chain, which includes 
+implementation of Supplier Code 
+of Conduct, comprehensive due 
+diligence of suppliers at the time 
+of on-boarding, trainings and 
+awareness programs. For more 
+details, refer disclosures under 
+Principles 2, 3 and 5 of this report.
+Negative
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+90
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether risk or
+opportunity 
+(R/O)
+Rationale for 
+identifying the risk / opportunity
+In case of risk, 
+approach to adapt or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+3
+Environment 
+Sustainability
+Opportunity
+Investing 
+in 
+environmental 
+sustainability 
+enables 
+us 
+to 
+minimize 
+our 
+environmental 
+impact 
+while 
+enhancing 
+operational efficiency.
+Prioritising 
+environmental 
+sustainability, helps us ensure 
+long-term 
+viability, 
+strengthen 
+brand reputation and to mitigate 
+operational and environmental 
+risks. This approach not only 
+improves 
+our 
+competitiveness 
+and brand image but also ensures 
+compliance with future regulations 
+and reduction of potential risks.
+N.A.
+Positive
+4
+Protection
+of Human
+Rights
+Risk
+Inability to protect Human Rights 
+may lead to legal, operational and 
+reputational risks. Therefore, it is 
+imperative to protect Human Rights 
+in line with fundamental ethical 
+responsibilities, 
+demonstrating 
+a 
+commitment 
+to 
+fairness, 
+dignity and equality.
+As 
+a 
+commitment 
+towards 
+protection of Human Rights, 
+we have formulated a Human 
+Rights Policy and also conducted 
+assessment 
+of 
+our 
+plant 
+operations on Human Rights 
+aspects including the value chain 
+partners. For more details, please 
+refer disclosure under Principle 5 
+of this report.
+Negative
+5
+Customer
+Engagement
+and
+Satisfaction
+Opportunity
+Customer Engagement is crucial 
+to understand expectations of 
+the customers and manage risks. 
+By 
+aligning 
+with 
+customer’s 
+needs, organization can aim to 
+achieve positive outcomes and 
+long-term success.
+N.A.
+Positive
+6
+Occupational
+Health
+and Safety
+Risk
+Health and safety risks have 
+significant 
+implications 
+for 
+businesses 
+including 
+financial 
+costs, 
+productivity 
+risk, 
+reputational risk and operational 
+integrity. Therefore, it is important 
+to develop a robust process to 
+ensure health and safety.
+We have robust occupational 
+health and safety management 
+system which ensures safety 
+of our employees & workers 
+and effective monitoring of 
+occupational risks. Additionally, 
+we also conduct various training 
+and awareness programmes to 
+ensure health and safety of our 
+employees & workers. For more 
+details, please refer disclosures 
+in Principle 3 and 5 of this report.
+Negative
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+91
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether risk or
+opportunity 
+(R/O)
+Rationale for 
+identifying the risk / opportunity
+In case of risk, 
+approach to adapt or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+7
+Human 
+Resource 
+Development
+Opportunity
+Human 
+resource 
+development 
+is vital for us as it enables skill 
+acquisition, 
+boosts 
+employee 
+engagement 
+and 
+satisfaction, 
+cultivates leadership potential, 
+enhances 
+organizational 
+agility, 
+flexibility 
+and 
+competitiveness and contributes 
+to improved performance and
+long-term growth.
+ N.A.
+Positive
+8
+Diversity and 
+Inclusion
+Opportunity
+Diversity and inclusion are crucial 
+for us as it drives innovation, 
+improves decision making, boosts 
+employee engagement, promotes 
+inclusivity, enhance reputation, 
+attracts top talent and foster a 
+culture of equality and fairness.
+N.A.
+Positive
+9
+Community 
+Welfare
+Opportunity
+By actively participating in the 
+local community, we contribute 
+to the betterment of the society 
+in which our business operates, 
+allowing us to give back and create 
+a positive impact.
+N.A.
+Positive
+10
+Cyber Security
+and Data 
+Privacy
+Risk
+Cybersecurity and Data Privacy 
+are essential for safeguarding 
+sensitive information, maintaining 
+business continuity and protecting 
+reputation. Breaches can result in 
+financial losses, legal consequences 
+and damage to brand credibility.
+Greaves has developed strong 
+systems, processes and polices 
+which 
+ensures 
+data 
+privacy 
+and protects us from cyber 
+security risks. Additionally, we 
+have also prepared a business 
+continuity plan in case of any 
+cyber-security attacks.
+Negative
+11
+Innovation 
+and New 
+Technology
+Opportunity
+To stay ahead of the curve, it 
+is essential for us to embrace 
+emerging technologies and foster 
+innovation. With the automotive 
+and 
+non-automotive 
+sectors 
+undergoing rapid technological 
+and regulatory changes, being 
+proactive in our approach enables 
+us to adapt to changes, capitalize 
+on fresh opportunities and sustain 
+our competitive advantage in the 
+market.
+N.A.
+Positive
+12
+Corporate
+Governance 
+and Regulatory 
+Compliance
+Risk
+Corporate 
+governance 
+or 
+regulatory issues can negatively 
+impact the investor confidence, 
+long-term business continuity and 
+value creation.
+We have taken various measures 
+to enhance our governance 
+practices and ensuring regulatory 
+compliances. Please refer the 
+disclosures under Principle 1 of 
+this report along with Corporate 
+Governance Report.
+Negative
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+92
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+We have developed robust policies which integrates NGRBC (National Guidelines on Responsible Business Conduct) principles and their 
+underlying core elements.
+These policies act as a founding pillar and helps us develop a framework for decision-making, governance, and operations within the 
+Company. It ensures that responsible practices are embedded throughout the organization, promotes ethical behaviour, sustainable business 
+practices and stakeholder engagement.	
+These policies promote transparency and encourage all stakeholders to ensure ethical business conduct. These policies are readily available 
+on the Company’s website at https://greavescotton.com/investors/policies
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.	
+a.	
+Whether your entity’s policy/
+policies cover each principle 
+and its core elements of the 
+NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+b.	
+Has the policy been approved 
+by the Board? (Yes/No)1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+c.	
+Web Link of the 
+Policies, if available.
+Please refer the table 1 below.
+2.	
+Whether the entity has translated 
+the policy into procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.	
+Do the enlisted policies extend to 
+your value chain partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4.	
+Name of the national and international codes/certifications/labels/standards (e.g., Forest Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trust) standards (e.g., SA 8000, OHSAS, ISO, BIS) mapped to each principle.
+	
+	
+	
+	
+•	
+P2, P3 & P6: Occupational Health and Safety Management Systems (ISO 45001:2018)
+	
+	
+	
+	
+•	
+P6: Environmental Management System (14001:2015)
+	
+	
+	
+	
+•	
+P1, P2 & P9: Quality Management System (ISO 9001:2015)
+	
+	
+	
+	
+•	
+P2 & P9, International Automotive Task Force (IATF) 16949: 2016
+	
+	
+	
+	
+•	
+P1 to P9: United Nations Sustainable Development Goals (SDGs)
+	
+	
+	
+	
+•	
+P1 to P9: National Guidelines on Responsible Business Conduct
+5.	
+Specific commitments, goals and 
+targets set by the entity with defined 
+timelines, if any.
+Principle wise targets are provided in the table 2 below
+6.	
+Performance of the entity against 
+the specific commitments, goals, and 
+targets along-with reasons in case 
+the same are not met.
+The performance of Greaves on Environment, Social and Governance measures are 
+provided in the respective principles of this report.
+Note 
+1 Policies are approved by the Board, respective board committees, respective department heads, wherever applicable.
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+93
+Governance, leadership, and oversight
+7.	
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets, and 
+achievements
+	
+With focus on integrating Environmental, Social and Governance (“ESG”) practices across our business operations, we continue to take 
+various initiatives to support greener energy options and manufacturing practices, adopting environment- friendly technologies, and 
+increasing emphasis on diversity and inclusion, health and safety, well-being of employees and innovation.
+	
+We have embedded our five values, Transparency, Integrity, Responsibility, Passion for Excellence and Respect (“Pancha Tatva”) in 
+our engagement with all our stakeholders across our business operations. This value-based approach drives our business practices, 
+ensuring adoption of industry best practices and high ethical standards and ultimately drives sustainable value creation for all 
+our stakeholders.
+	
+Our people constitute a key pillar for our growth and we continue to work towards their functional capability and competency building 
+and their managerial and leadership development through various work opportunities and training and development programmes 
+and employee well-being initiatives. This year, through an independent firm, we also conducted a human rights due diligence across 
+the manufacturing facilities of the Company.
+	
+We are committed to increase the effectiveness and efficiency of our supply chain and to achieve the same we are continuously 
+working with our supply chain partners  creating awareness about the benefits of embedding good ESG practices across the extended 
+supply chain. This year, for our critical supplier base, we also conducted awareness programmes focusing on sustainability.
+	
+We are dedicated to achieve customer satisfaction and using customer feedback to refine our approach. Customer data privacy is of 
+utmost importance to us, we have implemented policies and processes to safeguard against potential data theft or misuse.
+	
+Our commitment to our “Pancha Tatva” is deeply ingrained in our organizational culture and extends to the communities where 
+we operate. We actively partner with local communities to improve their skills, education level and well-being, fostering inclusive 
+progress and prosperity.
+	
+We believe that the above-mentioned interventions will help us formulate and execute a holistic organisational strategy that will 
+create value for each stakeholder as we pursue our ambition of industry-leading sustainable, profitable growth. - Dr. Arup Basu, 
+Managing Director.
+8.	
+Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy/policies
+	
+Dr. Arup Basu
+	
+Designation: Managing Director
+	
+(DIN: 02325890)
+	
+Telephone: 022- 41711700
+	
+Email ID: investorservices@greavescotton.com
+9.	
+Does the entity have a specified Committee of the Board / Director responsible for decision-making on sustainability related 
+issues? (Yes / No). If yes, provide details.
+	
+Yes, The ESG & CSR Committee is responsible for making decisions on sustainability related issues. Following are the details of 
+ESG & CSR Committee:
+Name
+DIN
+Designation
+Category
+Ms. Sree Patel
+03554790
+Chairperson
+Independent Director
+Dr. Arup Basu
+02325890
+Member
+Managing Director
+Mr. Firdose Vandrevala
+00956609
+Member
+Independent Director
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+94
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+10.	
+Details of Review of NGRBCs by the Company: 
+Subject for Review
+Indicate whether review was undertaken by Director / Committee of the Board/ 
+Any other Committee
+Performance against above policies and 
+follow up action and frequency of review 
+for performance against above policies and 
+follow up action
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policies have been approved by the Board, Board committees and respective 
+department heads, wherever applicable, of Greaves to comply with the regulatory 
+requirements. Department heads frequently evaluate our policies or, if necessary, 
+undertake urgent evaluations. During this review, the efficacy of the policies is 
+assessed and any necessary modifications to the policies and procedures are 
+implemented by the Board, Board committees or the respective department heads.
+Frequency (Annually/ Half yearly/ Quarterly/ Any other – please specify)
+The policies are reviewed internally on a periodic basis.
+Compliance with statutory requirements of 
+relevance to the principles, and rectification of 
+any non-compliances and frequency of review
+Indicate whether review was undertaken by Director / Committee of the Board/ 
+Any other Committee
+Greaves complies all applicable laws and regulations which is reviewed by the Board.
+Frequency (Annually/ Half yearly/ Quarterly/ Any other – please specify)
+The Board of Directors reviews the status of compliance of all the applicable laws 
+on a quarterly basis.
+11.
+Has the entity carried out independent 
+assessment/ evaluation of the working of 
+its policies by an external agency?
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Y
+N
+Y
+N
+Y
+Y
+N
+N
+N
+Yes, the effectiveness of policies relating to Human Rights and few governance 
+related polices were reviewed by SGGS & Associates, Company Secretaries and the 
+effectiveness of other ESG related polices are reviewed on a periodic or need basis 
+as a part of internal audit plan through external agencies if required.
+	
+Table 1
+Name of Policy/Code
+Linkage to principle
+Web-link
+Code of Conduct for employees 
+and Code of Conduct 
+for Board Members and 
+Senior Management
+P1, P2, P3, P4, 
+P5, P6, P7, P8, P9
+https://greavescotton.com/wp-content/uploads/2023/06/Code-of-
+Conduct-_BoardSeniormanagement-website-upload.pdf
+https://greavescotton.com/wp-content/uploads/2023/06/Code-of-
+Conduct-for-employees-for-website-upload.pdf
+Code of Practices and Procedures 
+for Fair Disclosure of Unpublished 
+Price Sensitive Information
+P1
+https://greavescotton.com/wp-content/uploads/2023/04/Code_Fair_
+Disclosure_UPSI.pdf
+Health and Safety Policy
+P2, P3, P6
+https://greavescotton.com/wp-content/uploads/2023/06/Health-and-
+Safety-Policy-cleanandfinal-website-upload.pdf
+Environment Policy
+P2, P6
+https://greavescotton.com/wp-content/uploads/2023/05/
+Environment-Policy-Final-for-website-upload.pdf
+Quality Policy
+P2, P9
+https://greavescotton.com/wp-content/uploads/2023/04/QA-POLICY.pdf
+Human Rights Policy
+P3, P5, P8, P9
+https://greavescotton.com/wp-content/uploads/2023/06/
+Greaves-Cotton-Limited-Human-Rights-Policy-website-upload.pdf
+Supplier Code of Conduct
+P1, P2, P3, P4, 
+P5, P6, P7, P8, P9
+https://greavescotton.com/wp-content/uploads/2023/06/GCL-Supplier-
+Code-of-Conduct-websiteupload.docx.pdf
+CSR Policy
+P8
+https://greavescotton.com/wp-content/uploads/2023/04/GCL-CSR-
+Policy_04.05.2021.pdf
+Equal Opportunity Policy
+P3, P5
+https://greavescotton.com/wp-content/uploads/2023/06/
+Equal-Opportunity-Policy-for-website-upload.pdf
+Privacy Policy
+P9
+https://greavescotton.com/privacy-policy/
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+95
+	
+Table 2
+Principle No
+Description of principle
+Goals
+1
+Businesses 
+should 
+conduct 
+and 
+govern 
+themselves with integrity, and in a manner that 
+is Ethical, Transparent and Accountable
+1.	
+To ensure interests of all our stakeholders through our 
+empowered, diverse, and inclusive Board.
+2.	
+To ensure robust compliances and integrated practices 
+through our Panchatatva core values.
+2
+Businesses should provide goods and services in 
+a manner that is sustainable and safe
+Focus on resource-efficiency in our processes and to build a 
+sustainable and responsible supply chain.
+3
+Businesses should respect and promote the 
+well-being of all employees, including those in 
+their value chains
+Ensure a humane workplace with adequate provisions for 
+grievance redressal.
+4
+Businesses should respect the interests of and 
+be responsive to all its stakeholders
+To engage with our stakeholders through various channels 
+through a transparent communication process.
+5
+Businesses 
+should 
+respect 
+and 
+promote human rights
+Respect the human rights with adequate provisions for 
+grievance redressal.
+6
+Businesses should respect and make efforts to 
+protect and restore the environment
+Minimize the impact of our operations on the environment.
+7
+Businesses, when engaging in influencing public 
+and regulatory policy, should do so in a manner 
+that is responsible and transparent
+Fair Public Advocacy for the benefit of the industry.
+8
+Businesses should promote inclusive growth and 
+equitable development
+Empowering lives through our Panchatatva core values.
+9
+Businesses should engage with and provide value 
+to their consumers in a responsible manner
+Developing robust framework around data privacy.
+12.	
+If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated: 
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the principles material 
+to its business (Yes/No)
+N.A. as all principles are covered by respective policies
+The entity is not at a stage where it is in a position to 
+formulate and implement the policies on specified 
+principles (Yes/No)
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No)
+It 
+is 
+planned 
+to 
+be 
+done 
+in 
+the 
+next 
+financial year (Yes/No)
+Any other reason (please specify)
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+96
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+Principle 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable 
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programs on any of the principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness programs held
+Topics/principles
+covered under the training 
+and its impact1
+% of persons in respective 
+category covered by the 
+awareness programs
+Board of 
+Directors (GCL)
+5
+•	 Update on regulatory requirements
+•	 Strategy update
+•	 Safety initiatives
+•	 Industry outlook and changes
+•	 Consumer outlook
+•	 Business update
+•	 Code of Conduct
+100%
+Key Managerial 
+Personnel (GCL)
+5
+100%
+Employees other 
+than BoD and KMPs2
+117
+•	 Code of Conduct
+•	 Policy and compliance trainings
+•	 Leadership trainings
+•	 Skill development trainings
+•	 Safety Trainings
+91%
+Workers2
+167
+ 84%
+	
+Note 
+	
+1 The training programs helps the Board, KMPs, employees and workers of Greaves to stay agile and ahead of the curve.
+	
+2 In addition to above, Greaves conducts various SOPs and shop-floor trainings for employees and workers. 
+2.	
+Details of fines/penalties/punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/judicial institutions, in the financial year, 
+in the following format:
+	
+(Note: the entity shall make disclosures based on materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+ Particulars
+NGRBC
+Principle
+Name of the 
+regulatory/
+Enforcement 
+agencies/
+judicial institutions
+Amount (In Rs.)
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty / Fine 
+Settlement 
+Compounding 
+fee
+Principle 
+1
+Commissioner 
+of Customs, 
+Chennai II 
+(Import)
+The 
+order 
+inter-alia 
+imposed a differential 
+duty of Rs. 56.44 crore, 
+applicable 
+interest 
+thereon, 
+redemption 
+fine of Rs. 16 crore and 
+penalty equal to the 
+differential duty.
+Goods 
+imported 
+by 
+Greaves 
+Electric 
+Mobility Private Limited 
+(‘GEMPL’) 
+between 
+2018 to 2021 were 
+classified 
+under 
+an 
+incorrect 
+Customs 
+Tariff Heading.
+GEMPL is in the process 
+of 
+filing 
+an 
+appeal 
+before 
+the 
+appropriate 
+Appellate Authority as it 
+believes the order to be 
+arbitrary and excessive.
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+97
+Monetary
+ Particulars
+NGRBC
+Principle
+Name of the 
+regulatory/
+Enforcement 
+agencies/
+judicial institutions
+Amount (In Rs.)
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty / Fine 
+Settlement 
+Compounding 
+fee
+Principle 
+1
+Ministry of Heavy 
+Industries (‘MHI’)
+Rs. 
+124.91 
+crore 
+along 
+with 
+interest 
+of 
+Rs. 
+15.06 
+crore 
+(Refund Amount)
+MHI vide its letter dated 
+25th May 2023 (‘Notice’), 
+has 
+alleged 
+that 
+GEMPL, 
+purportedly 
+failed to adhere to 
+Phased Manufacturing 
+Programme Guidelines.
+Keeping in mind the interest 
+of 
+the 
+consumers 
+and 
+without accepting any of the 
+allegations, contentions or 
+statements in the Notice and 
+without prejudice, GEMPL on 
+27th October 2023, had offered 
+to amicably resolve and put 
+a quietus to the matter and 
+refunded the Refund Amount 
+to MHI, by reserving GEMPL 
+rights 
+and 
+contentions. 
+Consequently, GEMPL awaits 
+confirmation from MHI for 
+taking the necessary steps to 
+resolve the matter.
+Non-Monetary
+ Particulars
+NGRBC
+Principle
+Name of the 
+regulatory/
+enforcement 
+agencies/
+judicial 
+institutions
+Brief of the Case
+Has an appeal been preferred? (Yes/No)
+Imprisonment
+Punishment
+There were no instances that required disclosure based on materiality as specified in Regulation 30 of SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015.
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-
+monetary action has been appealed.
+	
+N.A.
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link 
+to the policy.
+	
+Yes, the elements of anti-corruption and anti-bribery fostering a culture of transparency, trust and accountability through ethical 
+conduct and non-tolerance towards activities involving bribery and corruption forms part of our Code of Conduct. We ensure that all 
+employees and senior management adhere to the principles and ethical standards of the Code of Conduct as a commitment towards 
+good governance.
+	
+Our Supplier Code of Conduct ensures that all suppliers and their employees adhere to all applicable laws pertaining to anti-corruption 
+and money laundering and do not engage in any misconduct. The suppliers are also required to perform all business operations 
+with transparency.
+	
+The web link of the Code of Conduct and Supplier Code of Conduct are as follows:
+	
+https://greavescotton.com/wp-content/uploads/2023/06/Code-of-Conduct-_BoardSeniormanagement-website-upload.pdf
+	
+https://greavescotton.com/wp-content/uploads/2023/06/Code-of-Conduct-for-employees-for-website-upload.pdf
+	
+https://greavescotton.com/wp-content/uploads/2023/06/GCL-Supplier-Code-of-Conduct-websiteupload.docx.pdf
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+98
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption.
+	
+NIL
+6.	
+Details of complaints about conflict of interest of the Directors & KMPs.
+	
+NIL
+7	
+Provide details of any corrective action taken or underway on issues related to fines/penalties /action taken by 
+regulators/law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+N.A.
+8.	
+Number of days of accounts payables ((Accounts payable*365) / Cost of goods/services procured) in the following 
+format:
+Particulars
+FY 2023-24
+FY 2022-23
+Number of days of accounts payables
+47
+53
+9.	
+Open-ness of business:
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with 
+loans and advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of 
+Purchases
+a.	
+Purchases from trading houses as % of 
+total purchases
+ -
+-
+b.	
+Number of trading houses where 
+purchases are made from
+ -
+ -
+c.	
+Purchases from top 10 trading houses as % of 
+total purchases from trading houses
+ -
+-
+Concentration of Sales
+a.	
+Sales to dealers/distributors as % of total sales
+ 55%
+64%
+b.	
+Number of dealers/ distributors to 
+whom sales are made
+ 1,498
+1,597
+c.	
+Sales to top 10 dealers/distributors as % of 
+total sales to dealers/ distributors
+ 20%
+15%
+Share of RPTs in
+a.	
+Purchases (Purchases with related parties/ 
+total purchases)
+ 1%
+1%
+b.	
+Sales (Sales to related parties/ total sales)
+ 1%
+~0%
+c.	
+Loans & advances (Loans & advances given to 
+related parties/ Total loans & advances)
+ 100%
+100%
+d.	
+Investments (Investments in related parties/ 
+Total Investments made)
+ 81%
+70%
+Leadership Indicators
+1.	
+Awareness programs conducted for value chain partners on any of the principles during the financial year:
+	
+Greaves provided the following training to our critical suppliers: 
+Total number of awareness 
+programmes held
+Topics / principles covered 
+under the training
+% of value chain partners covered (by value of business done 
+with such partners) under the awareness programmes
+1
+ESG & Sustainability
+34%
+	
+Apart from the above, we also conduct various awareness programs on an informal basis for our value chain partners which includes 
+update on product trainings, compliance requirements and skill-based trainings wherever required.
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+99
+2.	
+Does the entity have processes in place to avoid/manage conflict of interests involving members of the Board? 
+(Yes/No) If yes, provide details of the same.
+	
+Yes, the ‘Code of Conduct for Board of Directors and Senior Management’ (‘Code’) and Related Party Transaction Policy (‘RPT Policy’)
+provides clear guidelines to address potential conflicts of interest. The Code and RPT Policy ensures that the personal interests of 
+Board members and senior management do not conflict with the interests of the Company. It emphasizes the importance of avoiding 
+situations where personal interests could clash with the interests of the Company. The Board of Directors, Audit Committee or officer 
+designated for this purpose are required to be informed about all relevant facts and circumstances of conflict of interest or potential 
+conflict of interest to ensure transparency and allows the Board to make informed decisions regarding potential conflicts.
+Principle 2: Businesses should provide goods and services in a manner that is sustainable and safe 
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively: 
+FY 2023-24
+FY 2022-23
+Details of improvements in environmental 
+and social impacts
+R&D
+46%
+72%
+Overall R&D and capex expenditure was focused on reducing 
+energy, reducing waste including waste water and new 
+technologies for better product performance.
+Capex
+53%
+3%
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+Yes, Greaves has established a comprehensive and robust Supplier Code of Conduct, which includes provisions for assessing 
+both new and existing value chain partners based on Environmental, Social, and Governance (ESG) criteria. We take necessary 
+measures to ensure compliance with the Supplier Code of Conduct. Our suppliers are encouraged to actively reduce carbon 
+emissions, minimize water consumption and limit waste generation. Additionally, we are committed to upholding high standards 
+of human rights and fair labour practices throughout our supply chain. This approach enables us to procure goods and services 
+sustainably. While the percentage of inputs sourced sustainably may be high, we believe a total of 34% of the inputs were 
+sourced sustainably basis the affirmations received from our critical suppliers in the Financial Year 2023-24.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the end of life, 
+for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+	
+Considering the criticality of the product and the procedure followed for manufacturing, Greaves does not have process for reclaiming 
+the products at the end of their life. However, Greaves continues to reduce the waste by adopting the following process at various 
+plant locations, wherever applicable:
+	
+•	
+The Company is actively reducing its carbon footprint and green-house gas emissions by recycling and reusing aluminium scrap 
+briquettes, collaborating with suppliers to promote recycling practices and minimise energy consumption in the aluminium 
+heating and extraction processes.
+	
+•	
+The Company is actively reducing corrugated box waste by implementing returnable Polypropylene box packaging 
+with our customers.
+	
+•	
+Cold testing of industrial engines has been adopted to save electricity and diesel consumption, which would otherwise be 
+utilised during hot testing.
+	
+•	
+Various product and process re-engineering projects undertaken at the shop floor have reduced consumption of consumables, 
+increased energy savings, and minimised waste generation, showcasing the Company’s commitment to sustainable practices.
+	
+•	
+Polythene packing waste has been eliminated completely at Ranipet plant by introducing the dedicated trollies from the 
+suppliers (OEMs) for acrylonitrile, butadiene and styrene body parts with soft dividers to avoid scratches.
+	
+•	
+Polythene packing is being used with the thickness of minimum 50 micron and with 15 % recycled plastic only as per 
+government norms.
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+100
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+	
+•	
+The e-wastes such as batteries, computers, and laptops are disposed of through authorised vendors.
+	
+•	
+Hazardous and other non-hazardous wastes are disposed of as per environmental norms.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the 
+waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same.
+	
+Yes, EPR is applicable to Greaves Electric Mobility Private Limited (for import parts only) and Excel Controlinkage Private Limited. 
+The waste collection and disposal process has been developed in line with Consent to Operate and third party collection process 
+is in progress.
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for the manufacturing 
+industry) or for its services (for the service industry)?
+	
+No. While we acknowledge the need for a comprehensive Life Cycle Assessment (LCA), we have actively implemented measures 
+within our manufacturing operations to mitigate our environmental and social impact. Our commitment to sustainable practices is 
+demonstrated through initiatives aimed at reducing energy consumption, water usage, and waste generation.
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, 
+briefly describe the same along-with action taken to mitigate the same.
+	
+N.A.
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+	
+Customer safety is of utmost importance to Greaves. Considering the critical products manufactured by Greaves, we do not recycle 
+or reuse the input material in production. However, we do reuse/recycle packaging material to the extent possible. For more details, 
+please refer answer to question number 4 of leadership indicator in Principle 2.
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tons) reused, recycled, and 
+safely disposed of.
+	
+Greaves does not reclaim products at the end of their lifecycle. However, we do reuse and recycle packaging materials wherever 
+feasible. For instance,
+	
+1.	
+We reuse steel pallets for engine transfers to OEMs (Original Equipment Manufacturers), thereby minimizing waste generation. 
+This practice of utilizing reusable steel pallets instead of disposable ones not only conserves resources but also promotes 
+sustainability.
+	
+2.	
+We use reusable and recyclable Polypropylene packaging boxes multiple times which is used for supplying our products to 
+OEM’s. This helps us to minimize corrugated box waste generation and promote sustainability.
+	
+3.	
+We have employed a chip wringer to extract oil from scrap coolant, enabling us to reuse the coolant. This process efficiently 
+recovers valuable oil while separating it from the coolant, reducing waste and maximizing resource utilization. By reusing the 
+coolant, we not only minimize waste but also enhance environmental efficiency.
+	
+4.	
+We have employed oil extractor and tramp oil cleaning machine to extract the oil from machining scrap coolant, enabling us to 
+reuse this oil as machine coolant. This process efficiently recovers valuable oil while separating it from the scrap, reducing waste 
+by removing tramp from coolant and maximizing resource utilization. By reusing the coolant, we not only minimize waste but 
+also enhance environmental efficiency.
+	
+	
+For more details, please refer answer to question number 3 of essential indicators in Principle 2.
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+	
+N.A.
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+101
+Principle 3: Businesses should respect and promote the well-being of all employees, including those in their 
+value chains
+Essential Indicators
+1.	
+a.	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care 
+facilities
+Number 
+(B)
+% 
+(B/ A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/ A)
+Number 
+(F)
+% 
+(F/ A)
+Permanent employees
+Male
+1,144
+ 1,144
+100%
+1,144
+100%
+N.A.
+N.A.
+1,144
+100%
+N.A.
+N.A.
+Female
+89
+89
+100%
+89
+100%
+89
+100%
+N.A.
+N.A.
+43
+48%
+Total
+1,233
+ 1,233
+100%
+1,233
+100%
+89
+100%
+1,144
+100%
+43
+3%
+Other than Permanent employees1
+Male
+184
+184
+100%
+184
+100%
+N.A.
+N.A.
+184
+100%
+N.A.
+N.A.
+Female
+19
+19
+100%
+19
+100%
+19
+100%
+N.A.
+N.A.
+11
+58%
+Total
+203
+203
+100%
+203
+100%
+19
+100%
+184
+100%
+11
+5%
+	
+	
+Note
+	
+	
+1 The third-party employees are governed by their respective employment terms.
+	
+b.	
+Details of measures for the well-being of workers: 
+Category
+% of workers covered by
+Total 
+(A)
+Health 
+insurance
+Accident
+insurance
+Maternity
+benefits
+Paternity
+Benefits
+Day Care
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Permanent workers
+Male
+468
+468
+100%
+468
+100%
+N.A.
+N.A.
+468
+100%
+N.A.
+N.A.
+Female
+11
+11
+100%
+11
+100%
+11
+100%
+N.A.
+N.A.
+4
+36%
+Total
+479
+479
+100%
+479
+100%
+11
+100%
+468
+100%
+4
+1%
+Other than Permanent workers2
+Male
+1,654
+1,654
+100%
+1,654
+100%
+N.A.
+N.A.
+ 1,654
+100%
+N.A
+N.A.
+Female
+122
+122
+100%
+122
+100%
+122
+100%
+N.A.
+N.A.
+111
+91%
+Total
+1,776
+1,776
+100%
+1,776
+100%
+122
+100%
+1,654
+ 100%
+111
+6%
+	
+	
+Note
+	
+	
+2 The third-party workers are governed by their respective employment terms.
+	
+c.	
+Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in 
+the following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Cost incurred on well-being measures as a % of total revenue of the company
+0.09%
+0.06%
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+102
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+2.	
+Details of retirement benefits:
+Benefits
+FY 2023-24
+FY 2022-23
+No. of employees 
+covered 
+as a % of total 
+employees
+No. of workers
+covered
+as a % of total
+workers
+Deducted and
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of employees 
+covered 
+as a % of total
+employees
+No. of workers
+covered as a %
+of total 
+workers
+Deducted and
+deposited with 
+the authority 
+(Y/N/N.A.)
+Provident Fund
+97%
+95%
+Y
+100%
+100%
+Y
+Gratuity
+98%
+95%
+N.A.
+100%
+100%
+N.A.
+ESI3
+10%
+76%
+Y
+12%
+81%
+Y
+Others:
+Apart from above, leave encashment and super annuation benefits are also provided, wherever applicable.
+	
+Note
+	
+3 It includes only those employees and workers who are eligible for ESI.
+3.	
+Accessibility of workplaces: are the premises / offices of the entity accessible to differently abled employees and 
+workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are 
+being taken by the entity in this regard.
+	
+Yes, in our commercial offices, accessibility for individuals with disabilities is ensured through the provision of elevators/lifts. At our 
+manufacturing facility, ground floors are readily accessible to all individuals and efforts are made to allocate tasks for individuals with 
+disabilities on the ground floor. For other facility floors and offices where elevators/lifts are not available, arrangements are tailored 
+to the specific needs of each individual with a disability.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy.
+	
+Yes, we have an equal opportunity policy as per Rights of Persons with Disabilities Act, 2016. Greaves believes that diversity and 
+inclusion is an important tool for societal advancement and economic success. We are dedicated to provide a stimulating work 
+environment with equal employment opportunities, free from discrimination based on age, caste, gender, sex, religion, nationality, 
+colour or sexual orientation. Equal Opportunity Policy can be accessed at https://greavescotton.com/wp-content/uploads/2023/06/
+Equal-Opportunity-Policy-for-website-upload.pdf.
+5.	
+Return to work and retention rates of permanent employees and workers that took parental leave:
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+85%
+100%
+94%
+100%
+Female
+100%
+0%
+N.A.
+N.A.
+Total
+85%
+89%
+94%
+100%
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+103
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+workers? If yes, give details of the mechanism in brief: 
+Yes/ No 
+(If yes, then give details of the mechanism in brief)
+Permanent Workers
+ “Pancha Tatva” comprising of five values: Transparency, Integrity, Responsibility, Passion for Excellence and 
+Respect, towards all our stakeholders is founding pillar to ensure that the business is carried within these 
+boundaries ensuring positive workplace environment.
+We have rolled out multiple platforms for addressing grievances, accessible to all employees and workers, 
+providing them with opportunities to voice and report any complaints or concerns that they may have. 
+‘SAMVAAD’ is one such platform where employees and workers collaborate and connect with each other 
+for cooperation and better understanding.
+We also conduct periodic welfare meeting, safety committee meeting, ‘Happy to Help’ activity for effective 
+grievance redressal and ensuring a healthy workplace environment. Unit meetings are periodically held 
+for both contractual and non-contractual workers and employees to discuss any concerns or grievances.
+Additionally, ‘Whistle Blower Policy’ acts as a grievance mechanism for employees, workers and senior 
+management where they can approach the Compliance Officer or the Chairman of the Audit Committee in 
+situations of misconduct or breach of code of conduct and any other issues which hamper the functioning 
+of the organization. This policy ensures responsible whistle blowing through efficient redressal and 
+disciplinary action.
+This approach encourages candid feedback and open discussion of issues, without employees fearing of 
+repercussions or reprimands.
+We strive to ensure transparency and effective redressal through open communication and access for all 
+employees and workers to voice their concerns to the senior management.
+Besides the above we also have a Prevention of Sexual Harassment (POSH) Policy to ensure a safe and secure 
+working environment which can be accessed at https://greavescotton.com/wp-content/uploads/2023/06/
+POSH-Policy.pdf.
+Other than 
+Permanent Workers
+Permanent Employees
+Other than 
+Permanent Employees
+7.	
+Membership of employees and workers in association(s) or Unions recognized by the listed entity:
+Category
+FY 2023-24
+FY 2022-23
+Total employees/
+workers in 
+respective 
+category (A)
+No. of employees/
+workers in respective 
+category, who are 
+part of association(s) 
+of Union (B)
+%
+(B/A)
+Total employees/
+workers in
+respective 
+category
+(C)
+No. of employees/
+workers in respective 
+category, who are 
+part of association(s) 
+of Union (D)
+% (D/C)
+Total Permanent
+Employees
+1,233
+0
+0
+1,099
+0
+0
+-	
+Male
+1,144
+0
+0
+1,026
+0
+0
+-	
+Female
+89
+0
+0
+73
+0
+0
+Total Permanent 
+Workers
+479
+166
+35%
+527
+174
+33%
+-	
+Male
+468
+166
+35%
+514
+174
+34%
+-	
+Female
+11
+0
+0
+13
+0
+0%
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+104
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+8.	
+Details of training given to employees and workers: 
+Category
+FY 2023-24
+FY 2022-234
+Total 
+(A)
+On Health and 
+safety measures
+On Skill 
+upgradation5
+Total (D)
+On Health and 
+safety measures
+On Skill 
+upgradation 5
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+1,328
+1,177
+89%
+565
+43%
+948
+203
+21%
+363
+38%
+Female
+108
+91
+84%
+27
+25%
+70
+9
+13%
+22
+31%
+Total
+1,436
+1,268
+88%
+592
+41%
+1,018
+212
+21%
+385
+38%
+Workers
+Male
+2,122
+1,593
+75%
+775
+37%
+1,695
+258
+15%
+197
+12%
+Female
+133
+101
+76%
+84
+63%
+265
+185
+70%
+179
+68%
+Total
+2,255
+1,694
+75%
+859
+38%
+1,960
+443
+23%
+376
+19%
+	
+Note
+	
+4  Does not include training data for Excel Controlinkage Private Limited for Financial Year 2022-23.
+	
+5  Greaves conducts various SOPs and shop-floor trainings for employees and workers which are not tracked currently.
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2023-246
+FY 2022-236&7
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+1,144
+1,003
+88%
+889
+813
+91%
+Female
+89
+67
+75%
+66
+60
+91%
+Total
+1,233
+1,070
+87%
+955
+873
+91%
+Workers
+Male
+468
+448
+96%
+337
+313
+93%
+Female
+11
+11
+100%
+5
+5
+100%
+Total
+479
+459
+96%
+342
+318
+93%
+	
+Note
+	
+6  We have considered permanent employees and workers who are eligible for Annual review.
+	
+7  Does not include data for Excel Controlinkage Private Limited for Financial Year 2022-23.
+10.	 Health and safety management system:
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, 
+what is the coverage of such a system?
+	
+	
+Yes, we’ve developed a robust occupational health and safety management system across all our locations covering 100% 
+employees and workers, with few sites holding ISO 45001 certification. We also have in place a Health and Safety Policy which 
+demonstrates our commitment of ensuring safety of our employees and workers by conducting training programs, allowing 
+them to raise concern about health and safety, monitoring of health and safety risks and taking corrective actions.
+	
+	
+Additionally, we have implemented safe procedure for all the activities from gate to gate and continuously creating awareness 
+about it to each employee and worker.
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the 
+entity?
+	
+	
+We have developed an in-house system to identify work-related hazards. This system allows employees and workers to spot 
+any hazards and dangers while they are working and once identified, a record of these hazards and risks is maintained and 
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+105
+further discussed with respective unit heads on a weekly/fortnightly basis to explore scope of improvement to eliminate/
+mitigate the hazard.
+	
+	
+The risk management process to identify work-related hazards comprises of 5 phases: Identification, Assessment, Mitigation, 
+Monitoring, and Reporting, which ensures reduced risk of environmental health and safety in commercial operations. The risk 
+management approach involves the participation of all pertinent stakeholders.
+	
+	
+We also identify work related hazards through job safety analysis, internal and external audits viz safety audits, fire audits, safety 
+patrolling and SMAT audits.
+	
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks?
+	
+	
+Yes, we have implemented several measures to empower employees and workers in identifying and reporting work-related 
+hazards, ensuring occupational health and safety. Regular training and awareness sessions are provided to equip them with 
+the knowledge and skills to report any hazards or risks they encounter in the workplace. Management representatives conduct 
+regular inspections of manufacturing facilities to identify hazards and implement necessary corrective actions.
+	
+	
+In addition, we have also established a local safety committee dedicated for overseeing workplace hazards and safety. The list of 
+safety committee members is provided at every conspicuous place in the facility and employees are encouraged to report any 
+safety related concerns to Committee. The safety committee periodically meets and discusses on all the safety incidents along 
+with Corrective Action and Preventive Action Plan and implement measures to ensure safety of all employees and workers.
+	
+d.	
+Do the employees/ workers of the entity have access to non-occupational medical and healthcare services?
+	
+	
+Yes, as per the requirement of Factories Act, 1948, our plants are equipped with Occupational Health Centres (OHC) or alternate 
+arrangements are made with independent healthcare professionals which can be accessed by employees and workers for 
+non-occupational or occupational health problems. We also provide medical and health insurances for our employees and 
+workers which helps them to claim their medical bills as per the medical insurance policy.
+11.	 Details of safety related incidents, in the following format: 
+Safety Incident/Number
+Category
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one 
+million-person hours worked)
+Employees
+-
+-
+Workers
+-
+-
+Total recordable work-related injuries
+Employees
+-
+-
+Workers
+-
+-
+No. of fatalities
+Employees
+-
+-
+Workers
+-
+-
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+-
+-
+Workers
+-
+-
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+For us, the safety and well-being of our people are our top priorities. We are dedicated to develop our systems that adhere to the 
+International Standard for Occupational Health and Safety, ISO 45001:2018 guidelines, which serves as the foundation for our health 
+and safety management system. When designing or acquiring plants, facilities and industrial machinery, we meticulously consider 
+regulatory requirements for a safe and healthy workplace. 
+	
+We continuously invest in technology and procedures to uphold employee health and safety, ensuring the effective functioning 
+of operations. Additionally, we integrate engineering controls aimed at reducing production risks. For further details, please refer 
+question 10 of Essential Indicators of this principle.
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+106
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+13.	 Number of complaints on the following made by employees and workers: 
+ Particulars
+FY 2023-24
+FY 2022-238
+Filed during 
+the year
+Pending 
+resolution at
+the end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at
+the end of year
+Remarks
+Working Conditions
+21
+0
+5
+0
+Health & Safety
+ 0
+0
+30
+0
+	
+Note
+	
+8 Does not include data for Excel Controlinkage Private Limited for Financial Year 2022-23.
+	
+All the above complaints were non-critical and routine in nature. Appropriate corrective actions were taken to resolve the complaints.
+14.	 Assessments for the year: 
+Particulars
+% Of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties) 9
+Health and safety practices
+100%
+Working Conditions
+100%
+	
+Note
+	
+9  Covers only plant locations.
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions.
+	
+There were no significant health and safety risk identified during Financial Year 2023-24. Therefore, this is N.A.
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) 
+(B) Workers (Y/N)?
+	
+Yes, permanent employees and workers are covered under group life insurance of the Company.
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by 
+the value chain partners.
+	
+We prioritize compliance with laws and regulations regarding statutory dues across our value chain. We take our legal responsibilities 
+seriously and expect the same from our partners. Before processing payments to contract labour supply agencies, we ensure their 
+compliance with statutory obligations, like timely payments for Provident Fund, ESI/Workman Compensation Insurance, Professional 
+Tax, and Labour Welfare Fund, if applicable.
+	
+To facilitate compliance, we withhold payment on agency invoices until they’ve fulfilled their statutory obligations. This approach 
+ensures that our partners meet their legal requirements before receiving payments, showcasing our commitment to meeting statutory 
+payment requirements.
+	
+We also took affirmations on compliances with Greaves’s Supplier Code of Conduct (which also covers compliance on labour laws and 
+payment of statutory dues) from the critical vendors.
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+107
+3.	
+Provide the number of employees/ workers having suffered high consequence work related injury/ ill-health/ 
+fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment: 
+ 
+ Particulars
+Total no. of affected employees/ workers
+No. of employees/ workers that are rehabilitated 
+and placed in suitable employment or whose family 
+members have been placed in suitable employment
+FY 2023-24
+FY 2022-23
+FY 2023-24
+FY 2022-23
+Employees
+N.A. as there has been no rehabilitation
+N.A. as there has been no rehabilitation
+Workers
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management of 
+career endings resulting from retirement or termination of employment? (Yes/ No)
+	
+Yes, it is ensured that all employees have access to workshops and self-paced programs, both focusing on enhancing job-specific and 
+behavioural skills. These initiatives aim to improve performance, stay ahead of the curve and also maintain the value of employees 
+even post-retirement.
+5.	
+Details on assessment of value chain partners:
+Particulars
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Health and Safety Practice
+34%
+Working Conditions
+34%
+For further detailed response, please refer to question no. 4 of leadership indicators of Principle 5 of this report.
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+	
+There were no significant risks/concerns found based on the assessments of value chain partners.
+Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Greaves believes that stakeholders form an integral part of the business operations and considers their opinions and viewpoints for 
+effective decision making through an effective engagement system.
+	
+We strive to create an inclusive environment for all and believe in upholding strong and meaningful connections with our stakeholders 
+through the principles of transparency and trust.
+	
+We have identified and prioritized our internal and external stakeholder groups through internal discussions and by understanding 
+how they impact and influence our operations or are affected by our operations and have been identified by us through discussion 
+with Greaves leadership team. The key stakeholders identified include employees, shareholders/investors, suppliers, regulatory 
+bodies, community and customers.
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+108
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group:
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable 
+& Marginalized 
+Group (Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website, others)
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly 
+/ others – 
+please specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Employees
+No
+n	 Employee Engagement Survey
+n	 Town-halls
+n	 Awards and Recognition
+n	 Appraisals
+n	 Skip level meetings
+n	 Emails
+Event Based
+To 
+understand 
+their 
+needs, 
+communicate performance of 
+the Company and recognize 
+them for their performance.
+Communities
+Yes
+n	 Non-Governmental 
+Organizations/
+implementation partner
+ Event based
+To 
+understand 
+the 
+needs 
+of 
+community 
+around 
+business 
+eco 
+system 
+and 
+support 
+the 
+marginalized 
+and vulnerable groups as per 
+Company’s CSR Policy.
+Suppliers/Service
+ Providers
+No
+n	 E-mail
+n	 Telephone calls
+n	 SMS
+n	 Quality Audits
+n	 Supplier Meetings
+n	 Training programs
+n	 Satisfaction surveys
+Daily 
+and Event Based
+Conduct audits / assessments / 
+seeking declarations to ensure 
+they are meeting standards set 
+out by Greaves and to understand 
+their concerns.
+Government/
+Regulatory Bodies
+No
+n	 One to One or group meetings
+Event Based
+To represent Greaves directly or 
+through industry associations on 
+various matters.
+Shareholders 
+and Investors
+No
+n	 Quarterly financial results 
+through stock exchanges
+n	 Analyst meetings
+n	 General Meetings
+n	 Emails
+n	 Newspaper advertisements
+n	 Notices
+n	 Annual Report
+n	 Website
+n	 Satisfaction surveys
+n	 Quarterly
+n Annual
+n 	 Event Based
+To communicate the business 
+performance of Greaves and 
+understand their expectations 
+from the Company.
+Customers
+No
+n	 Face to Face interactions
+n	 Social media platforms
+n	 Sales representatives
+n	 Demo’s
+n	 Surveys
+Daily 
+and event based
+To receive inputs, comprehend 
+customer 
+requirements, 
+and 
+prioritize customer satisfaction.
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+109
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social 
+topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+Greaves believes in order to improve its performance and strategy, it must communicate with its key stakeholders consistently. 
+Stakeholder consultations are normally carried out by the executives and functional heads of Greaves who seek feedback frequently 
+through various platforms. The feedback and suggestions of the stakeholders are periodically presented to the Board of Directors and 
+its Committees, wherever applicable in summarized form and after deliberation, changes in the strategies or polices are carried out 
+so as to meet expectations and achieve long-term value creation for all the stakeholders in line with objectives of Greaves.
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and 
+social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these 
+topics were incorporated into policies and activities of the entity.
+	
+Yes, we believe effective engagement ensures that stakeholder needs are aligned with organizational goals, helps in strategic 
+development and enhances stakeholder value. As provided in answer to question number 1 of leadership indicators in Principle 4, 
+we actively involve stakeholders through various platforms to understand their unique needs and concerns, guiding the development 
+of tailored strategies. Additionally, we conducted a comprehensive materiality assessment this year, involving extensive stakeholder 
+engagement. Both internal and external stakeholders identified critical topics across ESG (Environmental, Social, and Governance) 
+areas that may impact our business, including product quality and safety, human resource development, corporate governance, 
+environmental sustainability and data privacy. These identified topics are integrated into our action areas and sustainability framework.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups.
+	
+Greaves continues its effort towards engaging and addressing the concerns of vulnerable/marginalised stakeholder group. As a part 
+of our CSR activity, Greaves engages with non-governmental organisations to understand the needs of the community and develops 
+its CSR strategy basis the discussions with these non-governmental organisations. 
+Principle 5: Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format: 
+Category
+FY 2023-24
+Total (A)
+No. of employees / 
+workers covered (B)
+% (B / A)
+Employees
+Permanent
+1,233
+1,123
+91%
+Other than permanent
+203
+111
+55%
+Total Employees
+1,436
+1,234
+86%
+Workers
+Permanent
+479
+267
+56%
+Other than permanent
+1,776
+495
+28%
+Total Workers
+2,255
+762
+34%
+	
+Though human rights aspect is covered under Code of Conduct, a separate Human Rights Policy was rolled out during Financial Year 
+2022-23. Accordingly, the trainings were given in the Financial Year 2023-24. Therefore, only details for Financial Year 2023-24 are 
+provided in the above table.
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+110
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+Equal 
+to minimum wage
+More 
+than minimum wage
+Total (D)
+Equal 
+to minimum wage
+More 
+than minimum wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Permanent Employees
+Male
+1,144
+0
+0%
+1,144
+100%
+1,026
+0
+0%
+1,026
+100%
+Female
+89
+0
+0%
+89
+100%
+73
+0
+0%
+73
+100%
+Other than Permanent Employees
+Male
+184
+22
+12%
+162
+88%
+102
+52
+51%
+50
+49%
+Female
+19
+2
+11%
+17
+89%
+4
+4
+100%
+0
+0%
+ Permanent Workers
+Male
+468
+0
+0%
+468
+100%
+514
+0
+0%
+514
+100%
+Female
+11
+0
+0%
+11
+100%
+13
+0
+0%
+13
+100%
+Other than Permanent Workers
+Male
+1,654
+1,062
+64%
+592
+36%
+1,731
+1,280
+74%
+451
+26%
+Female
+122
+117
+96%
+5
+4%
+262
+259
+99%
+3
+1%
+3.	
+Details of remuneration/salary/wages, in the following format:
+	
+a.	
+Median remuneration / wages:
+	
+	
+Since the remuneration/salary of Board /KMPs / employees /workers are incomparable between the entities, we have disclosed 
+details of (including the persons who have resigned) median remuneration of each entity separately.
+	
+	
+Greaves Cotton Limited
+Particulars
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category (In INR)
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category (In INR)
+Board of Directors (BoD)
+6
+38,66,000
+1
+35,87,000
+Key Managerial Personnel
+4
+2,18,96,845
+1
+82,18,501
+Employees other than BoD and KMP
+757
+8,24,217
+52
+6,94,708
+Workers
+304
+4,08,508
+4
+3,42,986
+	
+	
+Greaves Electric Mobility Private Limited
+Particulars
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category (in INR )
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category (in INR )
+Board of Directors (BoD)
+5
+1,80,000
+0
+0
+Key Managerial Personnel
+3
+2,50,36,604
+0
+0
+Employees other than BoD and KMP
+456
+14,21,048
+51
+7,50,084
+Workers
+3
+3,19,002
+1
+3,11,202
+	
+	
+Excel Controlinkage Private Limited
+Particulars
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category (in INR)
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category (in INR )
+Board of Directors (BoD)
+5
+45,69,220
+0
+0
+Key Managerial Personnel
+1
+41,04,000
+0
+0
+Employees other than BoD and KMP
+188
+3,48,718
+11
+87,501
+Workers
+177
+2,48,776
+8
+2,21,948
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+111
+	
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of total wages
+7%
+6%
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No)
+	
+Yes, Compliance Officer and the Chairman of the Audit Committee of Greaves are responsible for addressing Human Rights impact/
+issue caused or contributed by the business. Any person who has any concerns relating to Human Rights can raise the concerns as per 
+the detailed mechanism provided in the Whistle Blower Policy of the Company without fear of being retaliated or discriminated at the 
+dedicated email id provided in the policy.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+Any person who is aggrieved by or has any concerns relating to Human Rights can directly reach out to Compliance Officer or the 
+Chairman of the Audit Committee on the dedicated email ids provided in the Whistle Blower Policy. The Compliance Officer/ Chairman 
+of Audit Committee is required to investigate in the matter and provide its report to Managing Director within 30 days. If need be, 
+they are also authorised to take help from third party to investigate on the matter. The Managing Director and Compliance Officer/
+Chairman of the Audit Committee are then required to deliberate and finalise the action points based on the findings. Throughout the 
+whole process the person raising concern is protected from any retaliation or discrimination.
+6.	
+Number of Complaints on the following made by employees and workers:
+Particulars
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Sexual Harassment
+2
+-
+-
+-
+-
+-
+Discrimination at workplace
+-
+-
+-
+-
+-
+-
+Child Labour
+-
+-
+-
+-
+-
+-
+Forced Labour/Involuntary Labour
+-
+-
+-
+-
+-
+-
+Wages
+-
+-
+-
+-
+-
+-
+Other human rights related issues
+-
+-
+-
+-
+-
+-
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 
+2013, in the following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Total Complaints reported under Sexual Harassment on of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+2
+0
+Complaints on POSH as a % of female employees / workers
+0.83%
+0
+Complaints on POSH upheld
+-
+-
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+Greaves is committed towards creating a workplace which is safe and free of discrimination and harassment including sexual 
+harassment. It believes in zero tolerance towards sexual harassment and supports the reporting of any such instances. To ensure 
+effective redressal of complaints regarding sexual harassment, Greaves has formulated a POSH Policy which comprises of Internal 
+Complaints Committee which investigates the matter and takes appropriate measures to ensure prompt resolution of complaints.
+	
+The Whistle Blower Policy also encourages employees and workers to disclose any improper actions, unethical behaviour, discrimination 
+or non-compliance of the Code of Conduct, or other policies of Greaves.
+	
+Both Code of Conduct and POSH Policy includes stringent action against the person found guilty which includes disciplinary action, 
+suspension from official duties, severance from employment / services etc.
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+112
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+	
+To ensure that employees, workers and management are informed and aware about the Code of Conduct and POSH Policy, Greaves 
+ensure regular communication, through formal and informal channels, about its commitment to zero tolerance towards any unethical 
+behaviour including discrimination or sexual harassment. For Financial Year 2023-24, Greaves also conducted Human Rights due 
+diligence at its plant sites to ensure proactive steps can be taken to identify and prevent potential Human Rights related issue including 
+discrimination and harassment.
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes, Greaves commercial agreements include provisions related to compliance of labour laws which also focuses on Human Rights 
+related compliance. Our commitment to human rights is detailed in the Supplier Code of Conduct and Human Rights policy, which is 
+applicable to business partners across the value chain.
+10.	 Assessments of the year:
+Particulars
+% of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties) 1
+Child labour
+100%
+Forced/involuntary labour
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others – please specify Freedom of Association
+100%
+Others – please specify Working Condition
+100%
+	
+Note
+	
+1 Covers only plant locations.
+11.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 10 above.
+	
+N.A., as there were no significant risks or concerns arising from assessments in question 10 above.
+Leadership Indicators
+1.	
+Details of a business process being modified / introduced because of addressing human rights grievances/complaints.
+	
+N.A., as there were no Human Rights related complaints during Financial Year 2023-24.
+2.	
+Details of the scope and coverage of any Human rights due diligence conducted.
+	
+The human rights due diligence was conducted for our four plant locations located at Aurangabad, Talegaon, Nagpur and Ranipet on 
+areas such as child labour, discrimination, forced labour, sexual harassment, freedom of association, wages and working conditions.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+	
+Greaves is committed to ensure that its premises and offices are accessible to everyone including visitors as per the requirement of 
+Rights of Person with Disabilities Act, 2016. Wherever required, temporary or permanent ergonomic changes are made to ensure 
+differently abled visitors do not face any challenge while accessing the Company’s premises.
+4.	
+Details on assessment of value chain partners:
+Particulars
+% of value chain partners (by value of business done with such partners) 
+that were assessed
+Sexual Harassment
+34%
+Discrimination at workplace
+34%
+Child Labour
+34%
+Forced Labour/Involuntary Labour
+34%
+Wages
+34%
+Others – please specify
+-
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+113
+	
+Greaves has a Supplier Code of Conduct in place, which sets expectations for ethical business conduct and emphasizes the importance 
+of human rights and health and safety aspects to ensure their employee well-being. The Code mandates that value chain partners, 
+who are contractual partners of Greaves, comply with applicable laws and regulations.
+	
+In the event of any breach of these obligations, the value chain partners are required to report back to Greaves. However, during the 
+reporting period, none of the suppliers reported any non-compliance, indicating a positive adherence to the contractual obligations.
+	
+Additionally, Greaves is in the process of developing a procedure to assess the compliance of value chain partners thoroughly.
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above.
+	
+N.A.
+Principle 6: Businesses should respect and make efforts to protect and restore the environment1
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-232
+From renewable sources in (GJ)
+Total electricity consumption (A)
+-
+-
+Total fuel consumption (B)
+-
+-
+Energy consumption through other sources (C)
+17,356.24
+14,379.34
+Total energy consumed from renewable sources (A+B+C)
+17,356.24
+14,379.34
+From non-renewable sources in (GJ)
+Total electricity consumption (D)
+41,143.21
+30,291.17
+Total fuel consumption (E)
+16,579.47
+770.04
+Energy consumption through other sources (F)
+-
+-
+Total energy consumed from non-renewable sources (D+E+F)
+57,722.68
+31,061.21
+Total energy consumed (A+B+C+D+E+F)
+75,078.92
+45,440.55
+Energy intensity per rupee of turnover
+(Total energy consumed / Revenue from operations)3
+0.30
+0.17
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total energy consumed / Revenue from operations adjusted for PPP) 3
+25.28
+14.34
+Energy intensity in terms of physical output
+-
+-
+Energy intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? Yes - Agile ESG Advisors 
+Private Limited
+	
+Note:
+	
+2   Excludes data for ECPL
+	
+3   Calculated basis per lakh turnover to ensure relativity
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme 
+have been achieved. In case targets have not been achieved, provide the remedial action taken, (if any).
+	
+N.A., as we do not fall under the categories mandated in the PAT scheme.
+	
+Note: 
+	
+1  Information provided in principle 6 excludes data w.r.t. offices of GCL & GEMPL, warehouses/depots of the Company and also R&D office of GEMPL
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+114
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+3.	
+Provide details of the following disclosures related to water in the following format:
+Parameter
+FY 2023-24
+FY 2022-234
+Water withdrawal by source (in kilolitres)
+(i)	
+Surface water
+-
+-
+(ii)	
+Groundwater
+-
+-
+(iii)	
+Third party water (Municipal water supplies, bottled water and tanker water)
+1,17,016.92
+1,03,446.37
+(iv)	
+Seawater / desalinated water
+-
+-
+(v)	
+Others
+-
+-
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+1,17,016.92
+1,03,446.37
+Total volume of water consumption (in kilolitres)
+1,17,016.92
+1,03,446.37
+Water intensity per rupee of turnover
+(Water consumed / revenue from operations) 5
+0.47
+0.40
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total water consumption / Revenue from operations adjusted for PPP)5
+39.39
+32.64
+Water intensity in terms of physical output
+-
+-
+Water intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+	
+Indicate if any independent assessment / evaluation / assurance has been carried out by any external agency. Yes - Agile ESG Advisors 
+Private Limited
+	
+Note
+	
+4 Excludes data for ECPL
+	
+5 Calculated basis per lakh turnover to ensure relativity
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY 2023-24
+FY 2022-236
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	
+To Surface water
+- No treatment
+-
+-
+-With treatment – please specify level of treatment
+-
+-
+(ii)	
+To Groundwater
+- No treatment
+-
+-
+-With treatment – please specify level of treatment - Tertiary Treatment
+1,05,315.23
+93,101.73
+(iii)	
+To Seawater
+- No treatment
+-
+-
+-With treatment – please specify level of treatment
+-
+-
+(iv)	
+Sent to third-parties
+- No treatment
+-
+-
+-With treatment – please specify level of treatment
+-
+-
+(v)	
+Others
+- No treatment
+-
+-
+-With treatment – please specify level of treatment
+-
+-
+Total water discharged (in kilolitres)
+1,05,315.23
+93,101.73
+	
+Note
+	
+6 Excludes data for ECPL
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+115
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+We recognize the importance of water stewardship and has implemented a range of initiatives to optimize our water management 
+practices. Plants located at Aurangabad, Ranipet and 2 plants located in Nagpur, have adopted a Zero Liquid Discharge approach to 
+ensure the efficient use of water resources. Similarly, at the Talegaon plant located within a shared facility, wastewater is directed to a 
+centralized treatment plant onsite. Post the treatment, the reclaimed water is utilized for gardening purposes, thereby reducing water 
+consumption and promoting environmental sustainability.
+	
+In a proactive effort to further enhance water resilience, we have established a rainwater harvesting pond at the onset of the 
+monsoon season. This reservoir serves as a vital water source year-round, supporting various operational activities, including 
+production processes. By reducing reliance on freshwater sources and alleviating pressure on local water supplies, we demonstrate 
+our commitment to sustainable water management. These comprehensive initiatives underscore our dedication to environmental 
+responsibility and resource efficiency.
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2023-24
+FY 2022-237
+NOx
+KG
+965.85
+1,090.81
+SOx
+KG
+1,068.42
+1,554.99
+Particulate Matter (PM)
+KG
+1,664.35
+-
+Persistent Organic Pollutants (POP)
+-
+Volatile organic Compounds (VOC)
+-
+Hazardous air pollutants (HAP)
+-
+Others- please specify
+-
+	
+Indicate if any independent assessment / evaluation / assurance has been carried out by any external agency. Yes - Agile ESG Advisors 
+Private Limited
+	
+Note
+	
+7 Excludes data for ECPL. Also, PM is calculated for first time in Financial Year 2023-24.
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-238
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Tco2eq
+1,356.97
+126.30
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Tco2eq
+8,182.93
+6,815.51
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+Tco2eq/Lakh
+0.03
+0.03
+Total Scope 1 and Scope 2 emission intensity per rupee of 
+turnover adjusted for Purchasing Power Parity (PPP)
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from 
+operations adjusted for PPP)
+Tco2eq /Lakh USD
+2.30
+2.19
+Total Scope 1 and Scope 2 emission intensity in terms of 
+physical output
+-
+-
+-
+Total Scope 1 and Scope 2 emission intensity (optional) – the 
+relevant metric may be selected by the entity
+-
+-
+-
+	
+Indicate if any independent assessment / evaluation / assurance has been carried out by any external agency. Yes - Agile ESG Advisors 
+Private Limited
+	
+Note
+	
+8 Excludes data for ECPL.
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+116
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+8.	
+Does the entity have any project related to reducing Greenhouse Gas emissions? If yes, then provide details.
+	
+Yes, conscious of our carbon footprints, we have undertaken several initiatives to reduce Greenhouse Gas (GHG) emissions throughout 
+our operations. Embracing the Miyawaki Method, a Japanese technique of tree plantation, Greaves aims to cultivate native forests 
+and restore natural vegetation on degraded land in and around its sites. Through this approach, we have not only reduced our carbon 
+footprint but also increased green coverage while fostering biodiversity.
+	
+Continuing our commitment to sustainability, we are transitioning towards renewable energy and implementing energy-efficient 
+practices to curtail GHG emissions. This includes the installation of energy-efficient compressors, air dryers, cooling pumps, and 
+variable frequency pumps.
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-239
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+34.58
+41.84
+E-waste (B)
+4.56
+5.07
+Bio-medical waste (C)
+0.001
+-
+Construction and demolition waste (D)
+-
+-
+Battery Waste (E)
+-
+-
+Radioactive waste (F)
+-
+-
+Other Hazardous waste. Please specify, if any. (G)
+These are general hazardous waste viz used oil, residual cotton, Chemical sludge, etc.
+54.49
+29.53
+Other Non-hazardous waste generated (H). Please specify, if any.
+(Break-up by composition i.e., by materials relevant to the sector)
+These are general non- hazardous waste vis cardboard box, barrels, grinding dust etc.
+2,486.21
+1,390.16
+Total (A+B + C + D + E + F + G + H)
+2,579.84
+1,466.60
+Parameter
+FY 2023-24
+FY 2022-23
+Waste intensity per rupee of turnover
+(Total waste generated / Revenue from operations)10
+0.01
+0.01
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total waste generated / Revenue from operations adjusted for PPP)10
+0.87
+0.46
+Waste intensity in terms of physical output
+-
+-
+Waste intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)
+Category of waste
+(i)	
+Recycled
+-
+-
+(ii)	
+Re-used
+-
+140
+(iii)	
+Other recovery operations
+-
+-
+Total
+-
+140
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i)	
+Incineration
+-
+-
+(ii)	
+Landfilling
+-
+-
+(iii)	
+Other disposal operations Sent to authorised dealers
+2,579.84
+1,326.60
+Total
+2,579.84
+1,466.60
+	
+Indicate if any independent assessment / evaluation / assurance has been carried out by any external agency. Yes, Agile ESG Advisors 
+Private Limited
+	
+Note
+	
+9  Excludes data for ECPL
+	
+10  Calculated basis per lakh turnover to ensure relativity
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+117
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+your Company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes.
+	
+Greaves has rolled out various initiatives to ensure effective management of waste in compliance with various rules and regulations. 
+A few of them are listed below:
+	
+•	
+Reusing steel pallets for engine transfer to OEMs to minimize waste generation.
+	
+•	
+Repurposing coolant from scrap by extracting oil through a chip winger.
+	
+•	
+Reusing oil from testing engines through a filtration process, enhancing its end-of-life utility.
+	
+•	
+Shortening engine testing cycle times, resulting in decreased diesel consumption.
+	
+•	
+Combining Heat Treatment (HT) cells to shorten shifts and reduce energy usage.
+	
+•	
+Treated wastewater generated from Effluent Treatment Plants (ETPs) and Sewage Treatment Plants (STPs) is reused for gardening 
+purposes, minimizing water wastage and promoting environmental health.
+	
+•	
+Reusable material used as against plastic for packing crank shafts and head. Thereby reducing the use of 2 lakh plastic bags.
+11.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details in the following format:
+S. No.
+Location of 
+operations/offices
+Type of operations
+Whether the conditions of environmental approval 
+/ clearance are being complied with? (Y/N) If no, the 
+reasons thereof and corrective action taken, if any.
+The entity does not have any offices or plants in ecologically sensitive areas
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year:
+	
+N.A.
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act 
+and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format:
+S. No.
+Specify the law / regulation 
+/ guidelines which was 
+not complied with
+Provide details of 
+the non-compliance
+Any fines / penalties / action taken 
+by regulatory agencies such as 
+pollution control boards or by courts
+Corrective 
+action taken if any
+We are fully compliant with all relevant environmental legislations and there were no significant instances of non-compliance 
+reported by the regulatory authorities.
+Leadership Indicators
+1.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area
+	
+(ii)	
+Nature of operations
+	
+(iii)	
+Water withdrawal, consumption and discharge in the following format:
+	
+N.A. as none of the facilities are in water stress areas.
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+118
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+2.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 3 emissions11(Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+-
+-
+-
+Total Scope 3 emissions per rupee of turnover
+-
+-
+-
+Total Scope 3 emission intensity (optional) – the relevant metric 
+may be selected by the entity
+-
+-
+-
+	
+Note
+	
+11 The Company has not yet conducted a baseline assessment for Scope 3 emissions. However, the process is underway to identify the hotspots related 
+to GHG emissions that contributes to the Company’s overall carbon footprint.
+	
+Indicate if any independent assessment / evaluation / assurance has been carried out by any external agency – No.
+3.	
+With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities.
+	
+N.A., as our business operations are located in industrial zones earmarked by the respective state governments and are not adjacent 
+to ecologically sensitive areas.
+4.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the 
+same as well as outcome of such initiatives, as per the following format:
+S. No
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be provided 
+along-with summary)
+Outcome of the initiative
+1.
+Energy Management
+1.	
+Recycling & reusing the aluminium scrap briquettes 
+by working with the supplier to promote recycling and 
+thereby reducing the energy consumption involved in 
+the process of aluminium heating & extraction.
+2.	
+Cold testing of industrial engines saving the electricity 
+& diesel that is consumed during hot testing.
+3.	
+Installation of pumps with low energy consumption for 
+engine testing.
+4.	
+Conversion of shop floor lighting to an energy-efficient 
+lighting system, by adopting LED lights.
+5.	
+Setting up of a variable frequency drive (VFD).
+6.	
+Lower wattage blower motors were used in place of 
+higher power ones.
+7.	
+For the BSVI Diesel model, Greaves has started 
+purchasing HPDC crankcases rather than LPDC.
+8.	
+Solar Rooftop System – 950Kw installed at LEU-I, 900Kw 
+at LEU-V, 700KW Solar Power Plant installation at IEB 
+plant in Aurangabad.
+Energy efficiency and conservation.
+Reduced 
+cycle 
+time 
+and 
+machining of stocks.
+Reducing the carbon footprint & 
+emission of greenhouse gases.
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+119
+S. No
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be provided 
+along-with summary)
+Outcome of the initiative
+2
+Water conservation
+1.	
+Rainwater harvesting through development of artificial 
+ponds and farm lakes.
+2.	
+Reuse of ETP & STP treated water for gardening purpose.
+3.	
+Development of ETP plant for 100% recycling 
+of treated water.
+Responsible 
+consumption 
+and 
+conservation of water.
+3
+Waste Management
+1.	
+Use 
+of 
+recyclable 
+pallets 
+for 
+engine 
+transportation to customers.
+2.	
+Use of plastic bins for transportation instead of 
+corrugated boxes.
+3.	
+Reuse of engine oil for the purpose of engine testing.
+Efficient management of waste 
+through recycling.
+5.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+We have established an ‘On-Site Emergency Plan’ focused on leveraging internal resources to minimize reliance on external agencies. 
+The plan aims to achieve the following objectives:
+	
+•	
+Contain and mitigate the effects of emergencies on people, property, and the environment.
+	
+•	
+Safeguard the lives of personnel not directly impacted by the emergency.
+	
+•	
+Quickly contain the incident and bring it under control.
+	
+•	
+Promptly assess the number of affected individuals and arrange necessary medical care.
+	
+•	
+Ensure there are no further consequences from the incident before allowing personnel to re-enter the premises and restoring 
+normal operations.
+	
+•	
+Preserve all pertinent records and evidence for subsequent inquiries and investigations into the emergency’s cause.
+	
+•	
+Restore safety and security within the shortest possible timeframe.
+6.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation 
+or adaptation measures have been taken by the entity in this regard?
+	
+No significant adverse impact has been observed from the value chain, pertaining to environment.
+7.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts.
+	
+34 % of value chain partners were assessed for environmental impacts.
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+120
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+Principle 7: Businesses, when engaging in influencing public and regulatory policy, should do so in manner that 
+is responsible and transparent
+Essential Indicators
+1.	
+a.	
+Number of affiliations with trade and industry chambers/ associations: Seven
+	
+b.	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such a 
+body) the entity is a member of/ affiliated to:
+S. No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ associations
+(State/National)
+1
+Confederation of Indian Industry
+National
+2
+Society of Indian Automobile Manufacturers
+National
+3
+Federation of Indian Export Organisation
+National
+4
+EEPC India (Engineering Export Promotion Council)
+National
+5
+Chemicals and Allied Products Export Promotion Council (CAPEXIL)
+National
+6
+Automotive Component Manufacturers Association of India
+National
+7
+National Marine Manufacturers Association
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the 
+entity, based on adverse orders from regulatory authorities.
+	
+N.A.
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity.
+	
+Greaves participates on different platforms (viz. Industry associations and regulatory bodies) to present its views on various public 
+policies focusing on automotive and non-automotive industry.
+Principle 8: Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+	
+N.A.
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity.
+	
+N.A.
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+Greaves has implemented a robust mechanism to address grievances efficiently. Through our partnership with an NGO for CSR activities, 
+we actively gather feedback and suggestions from the communities surrounding our operations. These valuable feedbacks and 
+suggestions are evaluated to identify suitable CSR projects, which are then reviewed by the ESG & CSR Committee and recommended 
+to the Board for approval. Additionally, our Code of Conduct includes a whistle-blower mechanism, empowering community members 
+to raise concerns directly with the Compliance Officer or Chairman of the Audit Committee.
+4. 	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Particulars
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/ small producers
+22%
+31%
+Sourced directly from within the India.
+97%
+98%
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+121
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed 
+on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost:
+Location
+ FY 2023-24
+FY 2022-23
+Rural
+-
+-
+Semi-urban
+ -
+ -
+Urban
+ 8%
+12%
+Metropolitan
+92%
+88%
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above).
+	
+N.A.
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies.
+	
+In Financial Year 2023-24, we have undertaken our CSR projects in Aurangabad and Nagpur, Maharashtra and Kanha, Madhya Pradesh 
+which doesn’t fall under the list of aspirational districts identified by government bodies.
+3.	
+(a)	
+Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups? (Yes/No)
+	
+(b)	
+From which marginalized /vulnerable groups do you procure?
+	
+(c)	
+What percentage of total procurement (by value) does it constitute?
+	
+	
+Greaves specializes in the production of automotive and non-automotive goods, essential for various industries. Given the critical 
+nature of these products, our procurement process primarily involves licensed and verified suppliers, minimizing opportunities 
+for sourcing from marginalized or vulnerable groups. However, we remain dedicated to supporting these communities wherever 
+possible by actively seeking out procurement opportunities that benefit them.
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge:
+	
+NIL
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved.
+	
+N.A.
+6.	
+Details of beneficiaries of CSR Projects: 
+S. No. CSR Project
+No. of persons benefited 
+from CSR Projects
+% of beneficiaries from vulnerable 
+and marginalized groups
+1.
+DEEP Upskilling Program
+48
+100%
+2.
+Contributing to various NGOs for purpose of education
+1,436
+100%
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+122
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+Principle 9: Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+We have established a robust system for receiving and addressing consumer feedback and complaints. Our approach encompasses 
+both formal and informal channels through which consumers can share their input or lodge complaints. The formal avenues include a 
+dedicated helpline number, email and customer feedback forms, while the informal routes involve interaction with sales representatives 
+and engagement on social media platforms. Upon receiving feedback or complaints through any channel, we promptly route them 
+through internal teams, categorizing them based on their nature and setting defined timelines for resolution. Depending on the 
+severity, investigations are conducted and appropriate corrective and preventive actions are implemented. This comprehensive 
+process is geared towards ensuring customer satisfaction.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information 
+about: 
+Particulars
+As a percentage to total turnover1
+Environmental and social parameters relevant to the product
+18%
+Safe and responsible usage
+66%
+Recycling and/or safe disposal
+0%
+	
+Note
+	
+1 Many of the products are made for industrial use i.e. B2B sales. Therefore, those products being sold on B2B basis do not contain environmental and 
+social parameters. Also, considering the longevity of use of products like engines, spares and two wheelers, the details of recycling and/or safe disposal 
+is not included.
+3.	
+Number of consumer complaints in respect of the following:
+Particulars
+FY 2023-24
+FY 2022-23
+Received 
+during the year
+Pending resolution 
+at end of year
+Remarks
+Received 
+during the year
+Pending resolution 
+at end of year
+Remarks
+Data privacy
+-
+-
+-
+-
+-
+-
+Advertising
+-
+-
+-
+-
+-
+-
+Cyber-security
+-
+-
+-
+-
+-
+-
+Delivery of essential services
+-
+-
+-
+-
+-
+-
+Restrictive Trade Practices
+-
+-
+-
+-
+-
+-
+Unfair Trade Practices
+-
+-
+-
+-
+-
+-
+Others
+34
+25
+Pending 
+Litigation
+15
+14
+Pending 
+Litigation
+4.	
+Details of instances of product recalls on account of safety issues:
+Particulars
+Number
+Reasons for recall
+Voluntary recalls
+Nil
+Forced recalls
+Nil
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a web-
+link of the policy.
+	
+Yes, Greaves has implemented a robust cybersecurity and data privacy policy to effectively mitigate its risks. This policy highlights our 
+strong commitment to maintain the confidentiality, integrity, and availability of our information assets, while ensuring compliance with 
+all relevant laws, regulations and industry standards. We have established an information security management system to oversee the 
+identification, assessment, and management of cybersecurity risks comprehensively. Additionally, stringent measures have been put 
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+123
+in place to safeguard the confidentiality, integrity, and availability of data. Our procedures for the collection, storage, and utilization 
+of personal data are meticulously designed to align with applicable data protection laws and regulations. Furthermore, we have 
+established incident management protocols to promptly detect, respond to, and recover from cybersecurity incidents efficiently.
+	
+The Policy is available on our intranet which is accessible internally to our employees.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of consumers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+	
+N.A.
+7.	
+Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers
+	
+c.	
+Impact, if any, of the data breaches
+	
+	
+No such instances of data breach were reported during the year.
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, if 
+available).
+	
+https://greavescotton.com/our-businesses/
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+Greaves has rolled out various platforms to educate consumers about the safe and responsible use of its products and services. 
+Sales representatives play a pivotal role in this process by providing demonstrations to dealers and consumers/customers, covering 
+product installation, usage instructions and other important guidelines. In addition to these efforts, we utilize various social media 
+platforms and our website to disseminate information on the safe usage of our products.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+Greaves has a robust mechanism to ensure that consumers are informed of any potential risks of disruption or discontinuation of its 
+essential services. There has been no instance of discontinuation or disruption in any of the services during this year. However, we 
+will ensure that the consumers/customers/dealers are informed about potential discontinuation/disruption well in advance through 
+various channels which shall include press release, stock exchange intimation and utilising all other channel of communication. 
+To ensure that the consumers/customers/dealers are well aware of the discontinuation, we will ensure that the discontinuation of any 
+of the products/services are done strategically to ensure there is least disruption or impact.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/
+No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey about consumer satisfaction 
+relating to the major products / services of the entity, significant locations of operation of the entity or the entity as 
+a whole? (Yes/No)
+	
+Yes, Greaves ensures that it complies with requirement of law, wherever applicable, and wherever required, it does make a few 
+disclosures which it considers essential for consumers to know like a complete manual on how to use the e-scooters.
+CORPORATE
+GOVERNANCE REPORT
+Greaves Cotton Limited
+124
+TRANSFORMATION FOR  
+SUSTAINABLE GROWTH.
+EMPOWERING LIVES.
+FINANCIAL  
+HIGHLIGHTS
+AWARDS AND  
+RECOGNITION
+MANAGEMENT
+DISCUSSION & ANALYSIS
+BOARD’S 
+REPORT
+Greaves Cotton Limited
+Corporate Office at Unit No. 1A,
+5th Floor, Tower 3,
+Equinox Business Park,
+LBS Marg, Kurla (West), Mumbai – 400070
+Date: May 8, 2024
+Independent Reasonable Assurance Statement on 
+Business Responsibility & Sustainability Reporting
+Introduction
+We (‘Agile ESG Advisors Private Limited’ or ‘Agile Advisors’ or 
+‘the Firm’) have been engaged by Greaves Cotton Limited or ‘the 
+Company’ to provide an independent reasonable assurance on the 
+non-financial sustainability disclosures presented in the Business 
+Responsibility and Sustainability Report (‘BRSR’) 2023-24 (‘BRSR 
+2023-24’) of Greaves Cotton Limited, for the period covering 
+1st April 2023 to 31st March 2024 (‘the Year’ or ‘the Reporting Period’) 
+as described in the scope, and limitations below. Our assurance 
+process adhered to the requirements outlined in the ISAE 3000 
+(Revised) standard.
+Management’s Responsibilities
+The management at the Company is responsible for preparing the 
+designed BRSR 2023-24 that is free from any material misstatement 
+in accordance with the reporting criteria (BRSR format) laid down 
+by the Securities and Exchange Board of India (‘SEBI’) and for the 
+information contained therein. The Company’s responsibilities 
+include developing, implementing, and maintaining internal controls 
+relevant to preparing and presenting the BRSR 2023-24 that is free 
+from material misstatement, whether due to fraud or error. It also 
+includes conducting the materiality assessment process to identify 
+material topics relevant to the Company based on the responses 
+of the internal and external stakeholders. The Company ensures 
+that it complies with the BRSR framework and local regulations. 
+It designs, implements, and effectively operates controls to achieve 
+the stated control objectives; selects and applies policies; makes 
+judgments and estimates that are reasonable in the circumstances; 
+and maintains adequate records in relation to its BRSR 2023-24. 
+The Company is also responsible for preventing and detecting fraud 
+and for identifying and ensuring that the Company complies with 
+laws and regulations applicable to its activities. The Company is 
+responsible for ensuring that the Company’s staff involved with the 
+preparation of the BRSR 2023-24 are adequately trained, systems 
+are appropriately updated, and that any changes in reporting 
+encompass all significant operational sites.
+Our Responsibilities
+Our responsibility is to examine the BRSR 2023-24 prepared by the 
+Company and to report thereon on the non-financial sustainability 
+disclosures in the form of an independent reasonable assurance 
+conclusion based on the evidence obtained. We conducted 
+our engagement in accordance with the International Standard 
+on Assurance Engagements (ISAE) 3000 (Revised), Assurance 
+Engagements Other Than Audits or Reviews of Historical Financial 
+Information issued by the International Auditing and Assurance 
+Standards Board. The standard requires that we plan and perform 
+our procedures to obtain a level of assurance about whether the 
+non-financial sustainability disclosures in the BRSR 2023-24 comply 
+with the BRSR framework in all material respects as the basis for our 
+reasonable assurance conclusion.
+The Firm applies the international standard on quality management, 
+which requires the Firm to design, implement and operate a quality 
+management system, including policies or procedures regarding 
+compliance with ethical requirements, professional standards and 
+applicable legal and regulatory requirements. We have complied 
+with the independence and other ethical requirements of the 
+International Ethics Standards Board for Accountants’ International 
+Code of Ethics for Professional Accountants (including International 
+Independence Standards) (‘IESBA Code’), which is founded on 
+the fundamental principles of integrity, objectivity, professional 
+competence, and due care, confidentiality, and professional 
+behaviour. The assurance procedures selected depend on our 
+understanding of the BRSR 2023-24 and other engagement 
+circumstances and our consideration of the areas where material 
+misstatements are likely to arise. In obtaining an understanding 
+of the BRSR 2023-24 and other engagement circumstances, we 
+have considered the process used to prepare the BRSR 2023-24 in 
+order to design assurance procedures that are appropriate in the 
+circumstances, but not for the purpose of expressing a conclusion 
+as to the effectiveness of the Company’s process or internal controls 
+over the preparation and presentation of the BRSR 2023-24.
+Our engagement regarding the non-financial sustainability 
+disclosures also included assessing the appropriateness of the 
+BRSR 2023-24, the suitability of the criteria used by the Company 
+in preparing the BRSR 2023-24 in the circumstances of the 
+engagement, evaluating the appropriateness of the methods, 
+policies, and procedures, and models used in the preparation of 
+the BRSR 2023-24, and the reasonableness of estimates made 
+by the Company in the context of the non-financial sustainability 
+disclosures. As part of this engagement, we have not performed any 
+procedures by way of audit, review, or verification of the financial 
+disclosures nor of the underlying records or other sources from 
+which the financial statements and information were extracted.
+Assurance Procedures
+Our assurance process involves performing procedures to obtain 
+evidence about the reliability of the disclosures in the BRSR 
+2023-24. The nature, timing, and extent of the selected procedures 
+depend on our judgment, including assessing the risks of material 
+misstatement of the non-financial sustainability disclosures, 
+whether due to fraud or error. In making those risk assessments, we 
+have considered internal controls relevant to preparing the BRSR 
+2023-24 to design assurance procedures that are appropriate in 
+the circumstances.
+Assurance Statement
+BUSINESS RESPONSIBILITY 
+& SUSTAINABILITY REPORT
+CONSOLIDATED
+FINANCIAL STATEMENTS
+STANDALONE
+FINANCIAL STATEMENTS
+INFORMATION ON 
+SUBSIDIARIES COMPANIES
+Annual Report 2023-24
+125
+These procedures included; interactions with relevant officials 
+to understand their sustainability vision; interaction with the 
+Company’s management team to understand the translation of 
+the Board of Directors’ vision into action; an assessment of the 
+Company’s existing systems used for data collection and reporting 
+relevant for fair presentation of the Company’s sustainability 
+disclosures; review of the Company’s approach for stakeholder 
+engagement and materiality assessment process including existing 
+materiality scoring criteria; testing of evidence supporting the data; 
+evaluating the appropriateness of the quantification methods used 
+to arrive at the non-financial sustainability disclosures presented in 
+the BRSR 2023-24; understanding the appropriateness of various 
+assumptions, estimations and materiality thresholds used by the 
+Company for data analysis; assessment of the consistency between 
+the data for the selected sustainability performance indicators and 
+the related written comments in the narrative of the BRSR 2023-24; 
+interactions with staff responsible for data collection, collation and 
+reporting; preparation of observation letter, if any, based on review 
+and classification of findings for potential risk to sustainability 
+framework; and discussion of the observations and findings with 
+the management team.
+Scope of Assurance
+Our assurance engagement covered the BRSR disclosures made 
+by Greaves Cotton Limited for the reporting period 2023-2024. 
+The scope included assessing the organization’s adherence 
+to the BRSR framework, which comprises key performance 
+indicators (‘KPIs’).
+Level of Assurance
+Our work resulted in a reasonable assurance engagement of BRSR 
+Core indicators and Limited assurance on other sustainability 
+indicators in BRSR. We conducted our procedures in accordance 
+with ISAE 3000 (Revised) and obtained evidence to support 
+our conclusions.
+Limitations
+The assurance scope excludes the following:
+•	
+Data related to the Company’s financial performance.
+•	
+Data and information outside the defined Reporting 
+Period FY 2023-24.
+•	
+The Company’s statements that describe the expression 
+of opinion, claims, belief, aspirations, expectations, 
+aims to future intentions provided by the Company and 
+assertions related to Intellectual Property Rights and other 
+competitive issues.
+•	
+Mapping of the BRSR 2023-24 with reporting frameworks 
+other than those mentioned in the reporting criteria above.
+•	
+Performance of any management function, the Company 
+is responsible for making management decisions, including 
+accepting responsibility for the results of our services.
+•	
+Review of legal compliances.
+Our scope and associated responsibility exclude, for the avoidance 
+of doubt, any form of review of the commercial merits, technical 
+feasibility, accuracy, or compliance with applicable legislation, and 
+accordingly, we express no opinion thereon. We have also not 
+verified any of the judgments and commercial risks associated with 
+BRSR 2023-24 nor commented upon the possibility of any financial 
+projections being achieved. We have relied on the data furnished 
+by the Company and have not verified the efficacy and reliability of 
+the Company’s information technology systems, technology tools/
+platforms or data management systems.
+Conclusion
+Our conclusion has been formed based on and is subject to, the 
+matters outlined in this report. We believe the evidence we have 
+obtained is sufficient and appropriate to provide a basis for our 
+conclusion. Based on the procedures performed and evidence 
+obtained, in our opinion, the non-financial sustainability disclosures 
+are properly prepared in all material respects, based on the 
+reporting criteria of BRSR. The BRSR 2023-24 has been evaluated 
+against the BRSR framework. These criteria have been developed 
+only for sustainability-related disclosures. As a result, the BRSR 
+2023-24 may not be suitable for another purpose.
+Independence
+The assurance was conducted by a multidisciplinary team, 
+including professionals with suitable skills and experience in 
+auditing environmental, social, and governance information 
+as per the requirements of ISAE 3000 (Revised). Our work was 
+performed in compliance with the provisions of the IFAC Code 
+of Ethics for Professional Accountants, which requires, among 
+other requirements, that the members of the assurance team 
+(practitioners) be independent of the assurance client in relation 
+to the scope of this assurance engagement, including not being 
+involved in writing the BRSR 2023-24. The Code also includes 
+detailed requirements for practitioners regarding integrity, 
+objectivity, professional competence, and due care, confidentiality, 
+and professional behaviour.
+Restriction on Use of Our Report
+Our report should not be regarded as suitable to be used or relied 
+on by any party wishing to acquire rights against us other than the 
+Company for any purpose or context. Any party other than the 
+Company who obtains access to our report or a copy thereof and 
+chooses to rely on our report (or any part thereof) will do so at 
+its own risk. We accept or assume no responsibility and deny any 
+liability to any party other than the Company for our work, this 
+independent reasonable assurance report, or the conclusion we 
+have reached. Our report is released to the Company on the basis 
+that it shall not be copied, referred to, or disclosed in whole (save 
+for the Company’s internal purposes) or in part without our prior 
+written consent.
+Vishal Kumar
+Director,
+Agile ESG Advisors Private Limited,
+May 8, 2024

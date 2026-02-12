@@ -1,0 +1,4085 @@
+                                                               
+ 
+Harsha Engineers International Limited 
+(formerly known as Harsha Engineers International Private Limited and Harsha Abakus Solar Private Limited) 
+CIN : L29307GJ2010PLC063233 
+Corporate & Registered Office: Sarkhej - Bavla Road, Changodar, Ahmedabad, Sanand - 382213, Gujarat, India. 
+Tel.: +91-2717-618200   Fax: +91-2717-618259   E-mail: sec@harshaengineers.com   URL: www.harshaengineers.com 
+ 
+ 
+HEIL/SE-34/2024-25 
+ 
+August 17, 2024 
+ 
+To, 
+To, 
+The Manager (Listing), 
+The Manager (Listing), 
+The BSE Limited 
+National Stock Exchange of India Limited 
+Phiroze  Jeejeebhoy  Towers, 
+"Exchange Plaza", C-l, Block - G, 
+Dalal Street, 
+Bandra - Kurla Complex, Bandra (E) 
+Mumbai – 400 001 
+Mumbai – 400 051 
+Script Code No. : 543600 
+Symbol : HARSHA 
+ 
+ 
+Dear Sir/Madam, 
+ 
+Sub :   Business Responsibility and Sustainability Report For the Financial Year 2023-24 
+Ref  :   Regulation 34 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,2015 
+ 
+Pursuant to Regulation 34 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, we are submitting herewith the Business Responsibility and Sustainability Report of the Company 
+for the Financial Year ended on March 31, 2024. 
+The Annual Report containing the Business Responsibility and Sustainability Report also uploaded on the 
+Company’s website and can be accessed at https://www.harshaengineers.com/InvestorRelations/financial-
+information.php# . 
+You are requested to take the same on your record. 
+Thanking You,  
+Yours faithfully, 
+FOR HARSHA ENGINEERS INTERNATIONAL LIMITED  
+ 
+ 
+ 
+Kiran Mohanty 
+Company Secretary and Chief Compliance Officer 
+MEM NO. : F9907 
+ 
+Encl.: As Above 
+Kiran 
+Kumar 
+Mohanty
+Digitally signed by Kiran Kumar 
+Mohanty 
+DN: c=IN, o=Personal, title=7613, 
+2.5.4.20=b85b3e76e0dadd564619fa9
+4c1b306d1a94b319885df6fffee2134a
+3b7ff9485, postalCode=390010, 
+st=Gujarat, 
+serialNumber=033b12d75ce929aa7a
+80b3cdff91c6bc9da1bcd13756846b
+befb9bd9232e6c2c, cn=Kiran Kumar 
+Mohanty 
+Date: 2024.08.17 16:46:25 +05'30'
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+1
+Growlity/AR/2324-46
+Reporting Period - April 01, 2023 to March 31, 2024
+The Management and Board of Directors
+Harsha Engineers International Limited
+Sarkhej-Bavla Road,
+PO Changodar, Ahmedabad – 382213
+Independent Assurance Report
+Growlity, Inc. (hereinafter referred to as “The Service Provider” or “Growlity”) have been engaged by Harsha Engineers International 
+Limited (hereinafter referred to as “The Company”) to conduct a limited assurance engagement on the sustainability information 
+presented in the Company’s Annual Sustainability Report (hereinafter referred to as “ASR”) and Business Responsibility and 
+Sustainability Reporting (hereinafter referred to as “BRSR”) for the specified reporting period. This critical task involved a 
+thorough examination to verify the accuracy and reliability of the sustainability data disclosed in the report. The sustainability 
+information provided within the report adheres to the comprehensive guidelines set forth by the Global Reporting Initiative’s 
+(hereinafter referred to as “GRI”) Universal Standards 2021, ensuring that the reported data aligns with globally recognized 
+sustainability reporting frameworks. This engagement by Growlity underscores the Company’s commitment to transparency 
+and accountability in its sustainability practices, highlighting its dedication to adhering to international principles for reporting 
+on its Environmental, Social, and Governance (hereinafter referred as “ESG”) initiatives.
+Assurance Standard
+The verification engagement has been planned and performed in accordance with the verification methodology developed by 
+Growlity, which is based upon the “AA1000 Assurance Standard (AA1000AS v3)”.
+Scope of Assurance and Methodology
+The verification was conducted to provide limited assurance conclusion on select non-financial sustainability disclosures 
+whether the sustainability information the mentioned reporting period and to verify its alignment with reference to GRI Universal 
+Standards 2021. Growlity conducted, on a sample basis, review and verification of data collection / calculation methodology 
+and general review of the logic on inclusion / omission of necessary relevant information / data and this was limited to:
+•	
+Onsite and remote verification of data, on a selective test basis, for the following units / locations, through consultations 
+with the site team and ESG committee members of the company:
+	
+1.	
+Changodar (Gujarat, India)
+	
+2.	
+Moraiya (Gujarat, India)
+•	
+Execution of audit trail of claims and data streams, on a selective test basis, to determine the level of accuracy in collection, 
+transcription and aggregation processes followed;
+•	
+Review of company’s plans, policies and practices, pertaining to their Environmental, Social & Governance Strategy, so as 
+to be able to make comments on the fairness of sustainability reporting or disclosures.
+•	
+Review of company’s approach towards materiality assessment disclosed in the report to identify relevant issues.
+•	
+Review of company’s disclosures related to Business Responsibility & Sustainability Reporting (BRSR) Disclosures to 
+SEBI, India for FY 2023-24.
+Company’s Accountability
+The ESG Committee representative at the company is responsible for preparing the ASR that is free from material misstatement 
+in reference with the GRI and for the information contained therein. This entails specifically choosing and applying suitable 
+methodologies for sustainability reporting, gathering and organizing data, and making well-founded assumptions or estimates 
+as needed. Additionally, these representatives must ensure the implementation of adequate internal controls to facilitate the 
+development of a sustainability report devoid of any significant errors, whether deliberate or accidental. The ESG Committee 
+representatives at the company are also responsible for preparing the designed report using graphics and relevant and 
+responsible content.
+Our Observations
+The Company has demonstrated its commitment to sustainable development by reporting its performance on various material 
+topics for FY 2023-24. The Company has prepared report having sustainability information with reference to GRI Universal 
+Standards 2021. The ASR includes a description of the Company’s stakeholder engagement process, materiality assessment 
+INDEPENDENT ASSURANCE ON VERIFICATION 
+OF SUSTAINABILITY INFORMATION
+2
+Integrated Report 2023-24
+and relevant performance disclosures on the identified material topics. There is further scope to strengthen data/information 
+management system to ensure uniform and accurate reporting or disclosures. Areas of further improvement wherever 
+identified have been brought before the attention of the management & ESG Committee representatives of the company. These 
+observations do not affect our conclusion presented in this statement.
+Guidelines for Utilization of This Statement
+The Company is obligated to replicate the Growlity’s Independent Assurance statement along with any attachments in their 
+entirety, ensuring no alterations, deletions, or supplements are made.
+This statement is specifically designed to convey the outcomes of the commissioned evaluation to the Company, defining 
+the boundaries of the engagement. It is important to note that Growlity has not taken into account the potential interests of 
+any third parties regarding the chosen sustainability information, this assurance report, or the conclusions drawn by Growlity. 
+Consequently, nothing within the scope of this engagement or statement grants any third-party entities any form of rights or 
+entitlements.
+Limitations
+The assurance engagement outlined herein does not encompass the following areas:
+1.	
+Our assurance does not cover any data or information pertaining to the financial performance of the Company.
+2.	
+Our role is strictly limited to providing assurance services as detailed in this letter. We will not undertake any management 
+functions or make decisions on behalf of the Company. It is the responsibility of the Company’s management to make all 
+decisions, including those related to the acceptance and implementation of our services.
+3.	
+Any data or information that falls outside the specified reporting period is not covered by our assurance scope.
+4.	
+Our assurance is limited to the operations and locations explicitly mentioned within the defined Assurance Boundary. Any 
+data or information pertaining to operations outside of this boundary is excluded, unless specifically stated otherwise in 
+this report.
+5.	
+The Company’s statements expressing opinions, beliefs, aspirations, expectations, or future intentions, as well as 
+assertions related to Intellectual Property rights and competitive matters, are beyond the scope of our assurance.
+6.	
+We do not cover the Company’s strategy and any related disclosures expressed in the report.
+7.	
+Our assurance does not extend to the mapping of the report with any reporting frameworks other than those specified 
+above.
+Our Assurance Team and independence:
+Our assurance team, comprising of multidisciplinary professionals, has been drawn from our climate change and sustainability 
+network and undertakes similar engagements with a number of significant global businesses. As an assurance provider, 
+Growlity is required to comply with the independence requirements set out in “AA1000 Assurance Standard (AA1000AS v3)”. 
+Growlity’s independence policies and procedures ensure compliance with this standard.
+Conclusion
+On the basis of our procedure for this limited assurance, nothing has come to our attention that causes us not to believe that 
+the company has reported on material sustainability issues relevant to its business.
+Dr. Nitin Dumasia
+President & CEO
+Date: June 29th, 2024
+Place: USA
+INDEPENDENT ASSURANCE ON VERIFICATION OF SUSTAINABILITY INFORMATION (Contd.)
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+3
+SECTION A: GENERAL DISCLOSURE
+I.	
+Details of the Listed Entity
+1
+Corporate Identity Number (CIN) of the Listed 
+Entity
+L29307GJ2010PLC063233 (U29307GJ2010PLC063233)
+2
+Name of the Listed Entity
+HARSHA ENGINEERS INTERNATIONAL LIMITED
+3
+Year of incorporation
+2010
+4
+Registered office address
+Sarkhej - Bavla Road, Changodar, Ahmedabad, Sanand-382213, 
+Gujarat, India.
+5
+Corporate address
+Sarkhej - Bavla Road, Changodar, Ahmedabad, Sanand-382213, 
+Gujarat, India.
+6
+E-mail
+sec@harshaengineers.com
+7
+Telephone
+91-2717-618200
+8
+Website
+https://www.harshaengineers.com
+9
+Financial year for which reporting is being done
+2023-24
+10
+Name of the Stock Exchange(s) where shares 
+are listed
+BSE Limited and the National Stock Exchange of India Limited
+11
+Paid-up Capital
+` 910,441,050
+12
+Name and contact details (telephone, email address) of the person who may be contacted in case of any 
+queries on the BRSR report
+Name of the Person
+Kiran Mohanty
+Telephone
+91-2717-618200
+Email address
+sec@harshaengineers.com
+13
+Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e. only for the entity) 
+or on a consolidated basis (i.e. for the entity and all the entities which form a part of its consolidated financial 
+statements, taken together
+Standalone Basis
+There are certain restatements and re-computation of certain attributes in this report. The effects have been 
+included under the following sections and principles of the BRSR report - Section C Principle 6 (Essential Indicator: 
+question 1, 3 and 5) and (Leadership Indicator: question 1). These restatements would enable completeness and 
+comparability of information for the current year and previous year.
+II.	
+Product/Services
+14
+Details of business activities (accounting for 
+90% of the turnover):
+Sl.
+No.
+Description of 
+Main Activity
+Description of 
+Business Activity
+% Turnover of the 
+Entity
+1
+Manufacturing
+Metal and metal 
+products
+84.69%
+2
+Electricity, gas, 
+steam and air 
+condition supply
+Electric power 
+generation, 
+transmission and 
+distribution
+15.31%
+15
+Products/Services sold by the entity (accounting 
+for 90% of the entity’s Turnover):
+Sl. 
+No.
+Product/Service
+NIC Code
+% of Total 
+Turnover 
+contributed
+1
+Bearing cages, 
+Brass Casting 
+and Automotive 
+Components
+28140
+84.69%
+2
+EPC and O & M of 
+Solar Power Plant
+42201
+15.31%
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+4
+Integrated Report 2023-24
+III.	 Operations
+16
+Number of locations where plants and/or 
+operations/offices of the entity are situated
+Location
+Number of 
+plants^
+No. of 
+Offices*
+Total
+National
+2
+1
+3
+International
+-
+-
+-
+17
+Market served by the entity
+Locations
+Numbers
+a.	
+No. of Locations
+National
+(No. of States)
+ 10
+International
+(No. of Countries)
+ 30
+b.	
+What is the contribution of exports as a 
+percentage of the total turnover of the 
+entity?
+41.95%
+c.	
+A brief on types of customers
+The Company supplies products to several businesses both 
+domestic and international. The entity primarily caters to 
+international bearing manufacturers.
+	
+^The Company has Solar plants and Windmills which has not been considered as plants
+	
+*The Company has more than 15 warehouses which has not been considered
+IV.	
+Employees
+18. Details as at the end of Financial Year
+Sl.
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+a.	
+Employees and workers (including differently abled)
+Employees
+1
+Permanent Employees (D)
+607
+588
+96.86%
+19
+3.1%
+2
+Other than Permanent Employees (E)
+0
+0
+0
+0
+0
+3
+Total Employees (D+E)
+607
+588
+96.86%
+19
+3.1%
+Workers
+4
+Permanent (F)
+1124
+1106
+98.40%
+18
+1.60%
+5
+Other than Permanent (G)
+1472
+1423
+96.67%
+49
+3.33%
+6
+Total Workers (F+G)
+2596
+2529
+97.42%
+67
+2.58%
+b.	
+Differently abled employees and workers
+Employees
+1
+Permanent Employees (D)
+3
+3
+100%
+0
+0
+2
+Other than Permanent Employees (E)
+ 0
+ 0
+0
+0
+0
+3
+Total Employees (D+E)
+3
+3
+100%
+0
+0
+Workers
+4
+Permanent (F)
+14
+14
+100%
+0
+0
+5
+Other than Permanent (G)
+3
+3
+100%
+0
+0
+6
+Total Differently Abled Employees (F+G)
+17
+17
+100%
+0
+0
+	
+19.	 Participation/Inclusion/Representation of women
+Sl.
+No.
+Category
+Total (A)
+No. and % of females
+No. (B)
+% (B/A)
+1
+Board of Directors
+10
+2
+20%
+2
+Key Management Personnel
+7
+1
+14%
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+5
+	
+20.	 Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+Category
+2023-24
+(Turnover rate in current FY)
+2022-23
+(Turnover rate in previous FY)
+2021-22
+(Turnover rate in the year 
+prior to previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+13%
+12%
+13%
+11%
+27%
+11%
+16%
+34%
+16%
+Permanent Workers
+9%
+0%
+9%
+9%
+30%
+9%
+14%
+32%
+14%
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+21
+Names of holding / 
+subsidiary / associate 
+companies / joint 
+ventures
+Sl. 
+No.
+Name of the holding / 
+subsidiary / associate 
+companies / joint ventures (A)
+Indicate 
+whether it is 
+a holding / 
+subsidiary / 
+associate / 
+joint venture
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity indicated 
+at column A, participate 
+in the Business  
+Responsibility initiatives 
+of the listed entity?  
+(Yes/No)
+1.
+Harsha Precision Bearing 
+Components (China) Co., Limited
+Subsidiary
+100%
+No
+2.
+Harsha Engineers Europe SRL
+Subsidiary
+100%
+No
+3.
+Harsha Engineers Advantek 
+Limited
+Subsidiary
+100%
+No
+4.
+Cleanmax Harsha Solar LLP
+Joint Venture
+50%
+No
+	
+Note:
+	
+M/s HASPL Americas Corporation, a wholly owned subsidiary of the Company, has been officially terminated in accordance 
+with the applicable laws. This has been confirmed by the certificate issued by the State Corporation Commission of 
+Virginia on February 29, 2024.
+	
+The Company has transferred its equity investment of 3,297,050 shares, equivalent to a 25.9999% stake, in Sunstream 
+Green Energy One Private Limited, an associate of the Company. The transfer was made to Sunstream Green Energy 
+Private Limited (“Transferee”) as per the Agreement for Sale of Shares dated February 16, 2024, at a price of ` 10 per share. 
+As of March 31, 2024, the Company owns 10 equity shares in Sunstream Green Energy One Private Limited. Under the 
+provisions of Companies Act 2013, the Company no longer holds the status of being an associate with said company.
+VI.	 CSR Details
+22
+(i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013
+Yes
+(ii)	 Turnover (in lakhs)
+108,094
+(iii)	 Net worth (in lakhs)
+124,662
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+6
+Integrated Report 2023-24
+VII.	 Transparency and Disclosures Compliances
+	
+23	
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct
+Stakeholder 
+group from whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place  
+(Yes/No)
+If yes, then provide web- 
+link for grievance redress 
+policy
+2023-24
+Current Financial Year
+2022-23
+Previous Financial Year
+Number of 
+complaints filed 
+during the year
+Number of 
+complaints 
+pending resolution 
+at close of the year
+Remarks
+Number of 
+complaints filed 
+during the year
+Number of com- 
+plaints pending 
+resolution at close 
+of the year
+Remarks
+Communities
+Yes
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Investors
+(other than 
+shareholders) *
+Yes, https://www.
+harshaengineers.com/
+InvestorRelations/
+company-policies.php
+Nil
+Nil
+Nil
+ 1,574
+Nil
+Nil
+Shareholders*
+ Yes https://www.
+harshaengineers.com/
+InvestorRelations/
+company-policies.php
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Employees and 
+workers
+Yes, HR representative 
+available for every dept. HR 
+SPOCs for every function.
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Customers
+Yes
+0.13  
+(PPM** sales)
+Nil
+Nil
+0.29  
+(PPM** sales)
+Nil
+Nil
+Value Chain Partners
+Yes
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Other  
+(please specify)
+NA
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+	
+*The Company got listed on September 26, 2022. Most of the complaints mentioned as part of investor complaints are related to IPO (non-receipt of funds). Further, 
+investor complaints also include shareholder complaints.
+	
+** PPM: Part per million 
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+7
+24	
+Overview of the entity’s material responsible business conduct issues Please indicate material responsible business conduct and sustainability issues pertaining 
+to environmental and social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk 
+along-with its financial implications, as per the following format
+Material Issue 
+Identified
+Indicate 
+whether risk or 
+opportunity
+Rationale for identifying the risk/opportunity
+In case of risk, approach to adapt or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+Employee 
+Advancement 
+& Development
+Risk & 
+Opportunity
+The Company’s operations are mainly driven by 
+its employees. It is crucial to ensure employees’ 
+wellbeing to further enable the Company’s growth. 
+The Company aims to provide ample opportunities 
+to retain talent and ensure their growth.
+To mitigate the risk of losing top talent, it is 
+important to continuously analyses the best HR 
+practices in the industry and make necessary 
+enhancements. 
+This 
+can 
+be 
+achieved 
+by 
+implementing performance incentives on a timely 
+basis and evaluating performance at every stage 
+of the work process.
+Negative
+Compliance 
+and Integrity
+Risk
+At the heart of the Company’s reputation and 
+stakeholder confidence is its ability to ensure 
+regulatory compliance. Regulations to report on 
+ESG performance including climate related risks, 
+targets and progress pose compliance risks to the 
+organisation. Further, carbon tax may also materialise 
+in medium term. It is crucial for the Company to 
+maintain transparent and ethical business practices 
+and manage and disclose its ESG performance, 
+which in turn contribute to the Company’s continued 
+success.
+The Company can conduct regular reviews and 
+monitor changes in the regulatory framework and 
+accordingly ensure compliance. This will allow the 
+Company to mitigate any compliance related risks.
+Negative
+Occupational 
+Health and 
+Safety
+Risk
+Due to factors such as machinery breakdown and 
+human negligence, the labour-intensive nature of the 
+industry puts workers at risk of accidents, as well as 
+health and injury hazards.
+The risk associated with the industry can be 
+mitigated by developing and implementing critical 
+safety standards across all project locations and 
+identifying the training needs of employees at 
+every level.
+Negative
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+8
+Integrated Report 2023-24
+Material Issue 
+Identified
+Indicate 
+whether risk or 
+opportunity
+Rationale for identifying the risk/opportunity
+In case of risk, approach to adapt or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+Product Design 
+and Lifecycle 
+Management
+Opportunity
+Effective product design allows the Company to 
+create innovative and customer-centric solutions. 
+By understanding market needs and trends, the 
+Company can develop products that resonate 
+with consumers, leading to increased demand and 
+market relevance. Further, analyzing environmental 
+impact of products throughout its life will help the 
+organisation in taking steps to mitigate the negative 
+impact which in turn will help in boosting customer 
+demand as customers have also started considering 
+life cycle impact of products.
+-
+Positive
+Energy and 
+Emissions 
+Management
+Risk & 
+Opportunity
+Implementing 
+effective 
+energy 
+management 
+strategies can lead to more efficient operations. By 
+optimising energy usage, adopting energy-efficient 
+technologies, and investing in renewable energy 
+sources have cost saving potential. However, non- 
+compliance with emissions standards, pollution 
+limits, or energy efficiency requirements can result 
+in fines, penalties, and damaged relationships with 
+regulatory authorities.
+To mitigate risks of emissions management, 
+the Company is proactively investing in energy-
+efficient technologies and renewable energy 
+sources.
+Positive
+Water & 
+Wastewater 
+Management
+Risk
+Water scarcity is a growing global concern. As 
+competition for water resources increases, the 
+Company may struggle to secure a reliable and 
+affordable water supply. Moreover, improper handling 
+or discharge of wastewater can result in legal 
+penalties, fines, and reputational damage.
+The Company should adopt sustainable water 
+management practices, invest in water-efficient 
+technologies, monitor and control wastewater 
+discharges. 
+By 
+managing 
+water 
+resources 
+responsibly, the Company can reduce risks, 
+enhance their reputation, and contribute to a more 
+sustainable future.
+Negative
+Corporate 
+Governance
+Opportunity
+Effective corporate governance ensures that ethical 
+standards and values are upheld throughout 
+the organisation. Strong and effective corporate 
+governance can increase stakeholder confidence in 
+the organisation which helps in creating value.
+-
+Positive
+	
+Note: Details about the materiality procedure and all the material topics can be found in ESG section of HEIL’s annual report.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+9
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and Management Processes
+1
+a.	
+Whether your entity’s policy/policies 
+cover each principle and its core elements 
+of the NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b.	
+Has the policy been approved by the 
+Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+c.	
+Web Link of the Policies, if available
+1.	
+Code of Conduct Policy, P1, P7 (https://www.harshaengineers.
+com/InvestorRelations/company-policies.php)
+2.	
+Whistle Blower Policy, P1 (https://www.harshaengineers.com/
+InvestorRelations/company-policies.php)
+3.	
+Risk Management Policy (https://www.harshaengineers.com/ 
+InvestorRelations/company-policies.php)
+4.	
+CSR 
+Policy, 
+P8 
+(https://www.harshaengineers.com/ 
+InvestorRelations/company-policies.php)
+5.	
+Code for Fair Disclosures, P4 (https://www.harshaengineers. 
+com/InvestorRelations/company-policies.php)
+6.	
+Sexual Harassment Policy, P5 (available on intranet)
+7.	
+Forced Labour Policy, P5 (available on intranet)
+8.	
+Contract Labour Management Policy, P3 (available on intranet)
+9.	
+Anti-Bribery Policy (available on intranet)
+10.	 General purchase agreement and sustainability requirement for 
+supplier, P2, P6 (available on intranet)
+11.	 Policy for use of emails/internet/social media, P9 (available on 
+intranet)
+12.	 Supplier Business Integrity Policy, P1, P5, P6 (https://www.
+harshaengineers.com/InvestorRelations/company-policies.php)
+2
+Whether the entity has translated the policy 
+into procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3
+Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+Yes, wherever applicable
+4
+Name of the national and international codes/ 
+certifications/labels/ standards (e.g., Forest 
+Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustee) standards (e.g., SA 8000, 
+OHSAS, ISO, BIS) adopted by your entity and 
+mapped to each principle.
+ISO 9001, IATF16949, ISO 14001, ISO 45001 and NVG principles
+5
+Specific commitments, goals and targets set 
+by the entity with defined timelines, if any.
+Harsha Engineers International Limited committed to working towards 
+carbon neutral and wants to reach 100% by 2030 and net zero by 2050.
+Zero accidents, zero fire incident
+6
+Performance of the entity against the specific 
+commitments, goals and targets along-with 
+reasons in case the same are not met.
+HEIL has achieved carbon neutral by 45% are our Key goals needs to be 
+achieve during Net Zero Emission journey
+Zero accidents, renewable energy achieved 47.52% against 45%, zero 
+fire incidents
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+10
+Integrated Report 2023-24
+Governance, Leadership and Oversight
+7
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets 
+and achievements
+The effects of climate change have highlighted the urgency of implementing resilient practices, and sustainability is now 
+crucial for organisations to tackle the challenges ahead. Our primary objective is to provide our customers with top- 
+quality products in an environmentally sustainable manner. Our journey of growth is marked by our commitment to ethical 
+and fair practices, a culture of diversity and inclusivity, operations that contribute to social progress, and environmental 
+conservation through measures such as reducing energy consumption, preserving water, and recycling electronic waste. 
+Our Company fully acknowledges the importance of incorporating environmental, social, and governance practices into 
+our operations. We are dedicated to upholding high standards of quality across all these areas, and we have numerous 
+policies in place to oversee our activities. We will continue to introduce new policies and adapt to changing regulations 
+and trends to ensure we meet our objectives and overcome any obstacles. In the future, we intend to establish a clearly 
+defined ESG strategy and set targets accordingly.
+8
+Details of the highest authority responsible 
+for implementation and oversight of the 
+Business Responsibility policy (ies).
+Board of Directors
+9
+Does the entity have a specified Committee of 
+the Board/ Director responsible for decision 
+making on sustainability related issues? (Yes 
+/ No). If yes, provide details.
+The Company has constituted Environmental, Social and Governance 
+Management Committee (ESG Committee) to support the Company on-
+going commitment to environmental stewardship, stakeholder’s health 
+and safety, community development, corporate social responsibility, 
+ethical and corporate governance, and other public policy matters 
+(collectively “ESG Material issues”) relevant to the Company
+10.	 Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was 
+undertaken by Director / Committee 
+of the Board/ Any other Committee
+Frequency (Annually/ Half yearly/ 
+Quarterly/ Any other – please 
+specify)
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Performance against above policies and follow 
+up action
+Yes
+As and when needed
+Compliance with statutory requirements of 
+relevance to the principles, and rectification of 
+any non-compliances
+Yes
+As and when needed
+11.	 Has the entity carried out independent assessment/ evaluation of the working 
+of its policies by an external agency? (Yes/No). If yes, provide name of the 
+agency
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Yes*
+Primarily by legal advisor to the IPO. 
+Safety audit was performed as per 
+IS14489 
+* As part of due-diligence process following SEBI guidelines, the Company has carried out independent assessment of all 
+statutory policies as part of IPO through the IPO legal advisor.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+11
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with 
+key processes and decisions. The information sought is categorised as “Essential” and “Leadership”. While the essential 
+indicators are expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be 
+voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be socially, environmentally and 
+ethically responsible.
+PRINCIPLE 1: BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY, AND IN A MANNER THAT IS 
+ETHICAL, TRANSPARENT AND ACCOUNTABLE.
+ESSENTIAL INDICATORS
+1.	
+Percentage coverage by training and awareness programmers on any of the principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmers held
+Topics/principles covered under the training and 
+its impact
+%age of persons in 
+respective category 
+covered by the 
+awareness programmers
+Board of Directors
+5
+Refresher training Sexual Harassment, Business 
+Code of Conduct, Whistle blower policy,
+100%
+Key Management 
+Personnel
+5
+Refresher training Sexual Harassment, Business 
+Code of Conduct, Whistle blower policy, Antibribery
+100%
+Employees other 
+than BODs and 
+KMPs
+41
+Sexual Harassment, Business Code of Conduct, 
+Whistle blower policy, Antibribery, Health and 
+safety, Environment Management System, Human 
+Rights and working condition, Tisax, and other 
+training programmes
+Percentage varies with 
+type of training
+Workers
+79
+Technical Training for Skill Development
+Percentage varies with 
+type of training
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in 
+the following format:
+	
+a.	
+Monetary
+Type
+NGRBC 
+Principle
+Name of the 
+regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount  
+Brief of the case
+Has an 
+appeal been 
+preferred? 
+(Yes/No)
+Penalty/ Fine
+Principle 1 Good and Service tax
+2896
+Paid against GST Notice under 
+section 73 against Cancel dealer 
+GST Credit for the year 2017-18.
+No
+1660
+Paid against GST Notice under 
+section 73 against Cancel dealer 
+GST Credit for the year 2018-19.
+No
+Settlement
+Nil
+Nil
+Nil
+Nil
+Nil
+Compounding fee
+Nil
+Nil
+Nil
+Nil
+Nil
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+12
+Integrated Report 2023-24
+	
+b.	
+Non-Monetary
+Type
+NGRBC Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Brief of the 
+case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Imprisonment
+Nil
+Nil
+Nil
+NA
+Punishment
+Nil
+Nil
+Nil
+NA
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or 
+non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+NA
+NA
+NA
+NA
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a 
+web-link to the policy.
+	
+Yes, the entity has an Anti-Bribery Policy. Harsha Engineers has built its reputation on the basis of its values and principles. 
+The Company treats customers, employees, suppliers and other stakeholders with honesty, integrity, fairness, and trust. 
+Governing principles of this policy provides a framework to deal with cases of corruption. Moreover, the Company has zero 
+tolerance for corruption. The policy is available on the intranet.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+Category
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Directors
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil
+Workers
+Nil
+Nil
+6.	
+Details of complaints with regard to conflict of interest:
+Topic
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+Nil
+Nil
+Nil
+Nil
+Number of complaints received in relation to 
+issues of Conflict of Interest of KMPs
+Nil
+Nil
+Nil
+Nil
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+Not Applicable as there were no cases relating to corruption or conflict of interest.
+LEADERSHIP INDICATORS
+1.	
+Awareness programmes conducted for value chain partners on any of the principles during the financial year:
+Total number of training and 
+awareness programmes held
+Topics/principles covered under the 
+training and its impact
+%age of value chain partners covered  
+(by value of business done with such 
+partners) under the awareness programmes
+1
+Understanding of BRSR and its 
+requirements from Vendors
+60%
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+13
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/ 
+No) If yes, provide details of the same.
+	
+Company has a policy of “Code of Conduct for Directors & Senior Management Personnel”. This policy prohibits Directors 
+and Senior Management Personnel of the Company to enter into any transaction or engage in any practice, directly or 
+indirectly, that would tend to influence him/her to act in any manner other than in the best interests of the Company. 
+This policy also provides procedures when a conflict of interest arises between Company and its Directors & Senior 
+Management Personnel. Also, the Company receives a declaration (changes from time to time) from its Board members 
+on the entities they are interested in and ensures requisite approvals as required under the statute as well as the Company’s 
+policies are in place before transacting with such entities / individuals.
+PRINCIPLE 2: BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS SUSTAINABLE AND SAFE
+ESSENTIAL INDICATORS
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Type
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Details of improvement in social and 
+environmental aspects
+Research & Development
+(R&D)
+NA
+NA
+NA
+Capital Expenditure 
+(CAPEX)
+0.68%
+49.46%
+The CAPEX was utilised on projects 
+such as IOT implementation, adoption 
+of renewable energy (solar and windmill 
+projects), STP plant, Recharging Well, 
+Filtration Module-Existing Tube well, 
+Desilting Machine on Three Wheeler, 
+Road 
+Sweeping 
+Machine, 
+Auto 
+Scrubber Cum Drier Floor Cleaning 
+Machine, Scrubber Single Disc Floor 
+Cleaning Machine, Life Line for Roof 
+Top.
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+	
+Yes, the Company currently has a supplier code of conduct in place which was established in November 2022. The 
+policy entails sustainable practices the suppliers are expected to adhere by. The objective of the policy is to ensure 
+that suppliers are aware and in compliance with requirements in relation to hazardous chemical content of purchased 
+materials and to restrict the use of raw materials from prohibited countries (smelters). The policy mainly applies to 
+materials ranging from raw materials to sub systems (materials that would require further work by the Company). 
+The Company’s supplier policy also strives to ensure that materials are sourced from Registration, Evaluation, 
+Authorisation and Restriction of Chemicals-Regulation (REACH) and Restriction of Hazardous Substances Directive 
+(ROH) certified suppliers.
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+The Company strives to track and report the percentage in near future.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+14
+Integrated Report 2023-24
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, 
+for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+Product
+Process to safely reclaim the product
+a.	
+Plastics (including packaging) Disposed to registered recyclers as per EPR norms
+b.	
+E-Waste
+Disposed to registered recyclers as per E-waste norms
+c.	
+Hazardous Waste
+Disposed to the cement plant for co-processing. ETP sludge & other hazardous 
+waste is sent to registered recyclers as per hazardous waste norms.
+d.	
+Other Waste
+Disposed to registered recyclers
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the 
+waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same.
+	
+Yes, Applicable. CPCB registration done, Plan is submitted but portal is not working.
+LEADERSHIP INDICATORS
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+	
+No, the entity hasn’t conducted life cycle assessments for its products as on date.
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly 
+describe the same along-with action taken to mitigate the same.
+	
+Not applicable as the entity hasn’t conducted life cycle assessments for its products as on date.
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+	
+The Company strives to track the percentage and report in near future.
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and 
+safely disposed, as per the following format:
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Reused
+Recycled
+Safely 
+Disposed
+Reused
+Recycled
+Safely 
+Disposed
+Plastics (including packaging)
+0
+11.8
+0
+0
+0
+70
+E-waste
+0
+0
+0.645
+0
+0
+0
+Hazardous waste
+0
+0
+197.50
+0
+0
+0
+Other waste
+0
+0
+546.91
+0
+0
+0
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+	
+The Company strives to track the percentage and report in near future.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+15
+PRINCIPLE 3 BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EMPLOYEES, INCLUDING THOSE 
+IN THEIR VALUE CHAINS
+ESSENTIAL INDICATORS
+1.	
+a.	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health 
+Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+No. (B)
+% (B/A)
+No. (C)
+%(C/A)
+No.(D)
+%(D/A)
+No. (E)
+%(E/A)
+No. (F)
+%(F/A)
+Permanent Employees
+Male
+588
+58
+10%
+588
+100%
+0
+0%
+588
+100%
+ 0
+0%
+Female
+19
+ 0
+0%
+19
+100%
+19
+100%
+ 0
+0
+0
+0%
+Total
+607
+58
+10%
+607
+100%
+19
+3%
+588
+97%
+0
+0%
+Other than Permanent Employees
+Male
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+	
+b.	
+Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total 
+(A)
+Health 
+Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+No. (B)
+% (B/A)
+No. (C)
+%(C/A)
+No.(D)
+%(D/A)
+No. (E)
+%(E/A)
+No. (F)
+%(F/A)
+Permanent Workers
+Male
+1106
+0
+0%
+1106
+100%
+0
+0%
+1106
+100%
+0
+0%
+Female
+18
+0
+0%
+18
+100%
+18
+100%
+0
+0%
+0
+0%
+Total
+1124
+0
+0%
+1124
+100%
+18
+2%
+1106
+98%
+0
+0%
+Other than Permanent Workers
+Male
+1423
+0
+0%
+1423
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+49
+0
+0%
+49
+100%
+49
+100%
+0
+0%
+0
+0%
+Total
+1472
+0
+0%
+1472
+100%
+49
+3%
+0
+0%
+0
+0%
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year:
+Sl. 
+No.
+Benefits
+2023-24
+(Current Financial year)
+2022-23
+(Previous Financial year)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+worker
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+worker
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+1
+PF
+100%
+100%
+Yes
+100%
+100%
+Yes
+2
+Gratuity
+100%
+100%
+Yes
+100%
+100%
+Yes
+3
+ESI
+34.45
+65.55%
+Yes
+37.75%
+54%
+Yes
+4
+Others-NPS
+-
+-
+-
+-
+-
+-
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+16
+Integrated Report 2023-24
+3.	
+Accessibility of workplaces: Are the premises / offices of the entity accessible to differently abled employees and 
+workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are 
+being taken by the entity in this regard.
+	
+Yes, workplace is accessible to differently abled employees.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide 
+a web-link to the policy.
+	
+The Company’s Code of Conduct envelopes the Equal Opportunity Policy, the entity does not have a separate policy. The 
+code of conduct encourages employees to treat everyone fairly, equally and without discrimination.
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+NA
+100%
+NA
+Female
+NA
+NA
+NA
+NA
+Total
+100%
+NA
+100%
+NA
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? 
+If yes, give details of the mechanism in brief.
+Category
+Yes/No
+Details of the mechanism in brief
+Permanent Workers
+Yes
+There is an HR single point of contact for every department and 
+all functions that are responsible for addressing any grievances of 
+employees and workers.
+Additionally, employees can report their genuine concerns and 
+grievances to the Chairperson of the Audit Committee through 
+vigil mechanism.
+Other than Permanent Workers
+Yes
+Permanent Employees
+Yes
+Other than Permanent Employees
+Yes
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+2023-24
+(Current Financial year)
+2022-23
+(Previous Financial year)
+Total 
+employees/ 
+workers in 
+respective 
+category (A)
+No. of employees 
+/ workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (B)
+% (B/A)
+Total 
+employees 
+/ workers in 
+respective 
+category (C)
+No. of employees/ 
+workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (D)
+%(D/C)
+Permanent Employees
+Male
+0
+0
+0
+0
+NA
+NA
+Female
+0
+0
+0
+0
+NA
+NA
+Others
+0
+0
+0
+0
+NA
+NA
+Total
+0
+0
+0
+0
+NA
+NA
+Permanent Workers
+Male
+0
+0
+0
+0
+NA
+NA
+Female
+0
+0
+0
+0
+NA
+NA
+Others
+0
+0
+0
+0
+NA
+NA
+Total
+0
+0
+0
+0
+NA
+NA
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+17
+8.	
+Details of training given to employees and workers:
+Category
+2023-24
+(Current Financial year)
+2022-23
+(Previous Financial year)
+Total (A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total (D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (E)
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+Male
+588
+137
+23.30%
+438
+74%
+586
+66
+11%
+435
+74%%
+Female
+19
+2
+0%
+14
+74%
+16
+3
+19%
+10
+63%
+Total
+607
+139
+23.30%
+452
+74%
+602
+69
+11%
+445
+74%
+Workers
+Male
+1106
+775
+70%
+1017
+92%
+1179
+203
+20%
+848
+72%
+Female
+18
+10
+56%
+18
+100%
+18
+0
+0
+18
+100%
+Total
+1124
+785
+70%
+1035
+92%
+1197
+203
+20%
+866
+72%
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+2023-24
+(Current Financial year)
+2022-23
+(Previous Financial year)
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Permanent Employees
+Male
+588
+485
+82%
+586
+556
+95%
+Female
+19
+13
+68%
+16
+16
+100%
+Total
+607
+498
+82%
+602
+572
+95%
+Permanent Workers
+Male
+1106
+1083
+98%
+1179
+1077
+92%
+Female
+18
+18
+100%
+18
+18
+100%
+Total
+1124
+1101
+98%
+1197
+1095
+92%
+10.	 Health and safety management system:
+a.	
+Whether an occupational health and safety 
+management system has been implemented 
+by the entity? (Yes/No)
+Yes.
+a.	
+What is the coverage of such system?
+HEIL places great emphasis on maintaining and improving its 
+employees’ health and safety. Workplace safety of employees forms 
+the foundation of the Company’s strategy to attain sustainability.
+HEIL is committed to create and maintain a safe and healthy 
+workplace in the organisation and its achieved by developing and 
+implementing the occupational health, safety, and environmental 
+management system conforming to Standards and driving 
+excellence in operations and support functions. It covers both our 
+plants.
+b.	
+What are the processes used to identify 
+work- related hazards and assess risks on a 
+routine and non-routine basis by the entity?
+EHS team identifies and assesses hazard prone activities with 
+the help of workers in the plants and educates them regarding 
+health and safety. The group carries out assessments and derives 
+a risk value based on the HIRA register. Countermeasures are 
+developed for the risk values derived from the assessment based 
+on likelihood and severity of risk. Other safety processes include 
+Safety Patrolling, Near Miss reporting, Safe workstation mapping 
+and HIRA register are in place.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+18
+Integrated Report 2023-24
+c.	
+Whether you have processes for workers to 
+report the work related hazards and to remove 
+themselves from such risks. (Yes/No)
+Yes, regular safety checks are conducted during which workers 
+report unsafe working conditions and potential hazards to their 
+supervisors and action are taken accordingly.
+d.	
+Do the employees/ worker of the entity have 
+access to non-occupational medical and 
+healthcare services? (Yes/ No)
+Yes, HEIL believes in creating an environment for employees in 
+which their financial needs are met beyond their salary. Such as 
+there are ambulances available at plant sites for emergencies and 
+the entity has connections with local hospitals which are usually 
+located 10-15 mins away from the vicinity.
+ESIC is applicable to certain employees who are eligible for 
+free treatment in government hospitals. In the HEIL, internal 
+occupational health centre is available having nurse available for 
+24 hours and centre is fully equipped with medical facilities.
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+2023-24
+Current Financial Year
+2022-23
+Previous Financial Year
+Lost Time Injury Frequency Rate (LTIFR) (per one 
+million-person hours worked)
+Employees
+ 0
+0
+Workers
+ 0
+0.38
+Total recordable work-related injuries
+Employees
+ 0
+0
+Workers
+ 0
+1
+No. of fatalities
+Employees
+ 0 - NIL
+0
+Workers
+ 0 - NIL
+1
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+ 0
+0
+Workers
+ 0
+0
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+The Company is committed to provide a safe and healthy workplace by minimising injuries, exposure to health risks, 
+accidents and complies with all applicable laws and regulations with respect to safety at workplace. HEIL’s goal is 
+to achieve Zero accidents, zero fire incidents and to become an industry leader in Safety & Health so to achieve this 
+safety policies are provided for clear direction, established robust management & reporting systems and training and 
+communication mechanisms, along with well-defined performance measures and indicators, to track the Safety & Health 
+performance.
+	
+The entity takes the following key measures to ensure a safety and health workplace:
+	
+•	
+Danger Prediction Activity- a team of 5-6 members conduct risk assessments and educate workers in plants. They 
+derive a risk value based on the HIRA register and create countermeasure solutions to the problems.
+	
+•	
+Safety Kaizen
+	
+•	
+Safety Patrolling
+	
+•	
+Near missing reports
+	
+•	
+Safe workstation mapping
+13.	 Number of Complaints on the following made by employees and workers:
+Topic
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Working Conditions
+Nil
+Nil
+Not Applicable
+Nil
+Nil
+Not Applicable
+Health & Safety
+Nil
+Nil
+Not Applicable
+Nil
+Nil
+Not Applicable
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+19
+14.	 Assessments for the year:
+Topic
+% of your plants and offices that were assessed
+(by entity or statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks / concerns arising from assessments of health & safety practices and working conditions.
+	
+The entity hasn’t identified any significant risks or concerns arising from these assessments. However, corrective 
+measures are taken throughout the year in plants as and when any unsafe conditions are identified.
+LEADERSHIP INDICATORS
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) 
+(B) Workers (Y/N)?
+	
+Yes, the Company extends Group Personal Accident to staff category and Term Plan to all on roll employees
+	
+a.	
+Employees (Yes/No): Yes
+	
+b.	
+Workers (Yes/No): Yes
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the 
+value chain partners
+	
+The entity has a mechanism in place to ensure the labour contractors associated with the entity pay all legal dues on time. 
+The entity regularly monitors PF, ESIC, PT and GST details of the contractor.
+3.	
+Provide the number of employees / workers having suffered high consequence work related injury / ill-health / fatalities 
+(as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment 
+or whose family members have been placed in suitable employment:
+Category
+Total no. of affected employees/ workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose 
+family members have been placed in suitable 
+employment
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Employees
+0
+0
+0
+0
+Workers
+0
+1
+0
+0
+4.	
+Does the entity provide transition assistance programmers to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? (Yes/ No).
+	
+No, the entity currently doesn’t provide transition assistance programmers to facilitate continued employability.
+5.	
+Details on assessment of value chain partners:
+Topic
+% of value chain partners (by value of business done with such partners) 
+that were assessed
+Health and safety practices
+46%
+Working Conditions
+46%
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from as- 
+sessments of health and safety practices and working conditions of value chain partners.
+	
+No significant risks or concerns were identified through the assessment.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+20
+Integrated Report 2023-24
+PRINCIPLE 4: BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO ALL ITS STAKEHOLDERS
+ESSENTIAL INDICATORS
+1.	
+Describe the processes for identifying key stakeholder groups of the entity:
+	
+Stakeholders play an integral role in the entity’s journey, and we are privileged to share a strong relationship with investors 
+based on a deep understanding of their expectations and our commitment to consistently fulfil them. Our process of 
+stakeholder engagement involves identifying key internal and external stakeholders followed by analyzing the impact of 
+each stakeholder groups on our business and vice versa. We have identified investors that contribute capital, customers, 
+employees who enable us to create value, suppliers who help us deliver business value, community and government 
+regulators as important stakeholders.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group:
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalised 
+Group (Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website, Other)
+Frequency of 
+engagement 
+(Annually/ Half yearly/ 
+Quarterly /Others – 
+please specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Employees
+No
+Emails, Internal Meetings, 
+Engagement Activities, Internal 
+Portal, Townhall Meeting,  
+One-to-one interaction
+Need basis
+Employee wellbeing, career 
+development, business 
+plans
+Shareholders
+No
+Email, Teleconference, Investor 
+Presentation, Plant Visits, 
+Website, AGM
+Quarterly, Annually and 
+on need basis
+Financial performance, 
+Prospective Investment, 
+Investor relationship, 
+Dividend, Profitability and 
+financial stability
+Investors
+No
+Email, Teleconference, Investor 
+Presentation, Plant Visits, 
+Website, Roadshows
+Quarterly and on need 
+basis
+Financial performance, 
+Prospective Investment, 
+investor relationship, 
+Dividend, Profitability and 
+financial stability
+Suppliers
+No
+Email, Meetings
+Need basis
+Commercial, Quality, On-
+time delivery
+Customers
+No
+Email, Exhibitions, Meetings, 
+Plant visits
+Need basis
+Business enhancement, 
+customer satisfaction
+Suppliers/ 
+Contractors
+No
+Email
+Need basis
+Quality
+Community
+Yes
+One-to-one interactions
+Need basis
+CSR Projects, community 
+needs
+LEADERSHIP INDICATORS
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social 
+topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+Harsha has a presence across multiple geographies, products. Consultation with stakeholders on economic, environmental, 
+and social topics are delegated to the department within an organisation who are also responsible for engaging with 
+stakeholders on continuous basis. Feedback received from stakeholders are communicated to senior management and 
+the Board as and when deemed needed through Review meetings, Board meetings.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+21
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and social 
+topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these topics 
+were incorporated into policies and activities of the entity.
+	
+Yes, stakeholder groups including employees, customers, investors and local communities are consulted through relevant 
+mechanism. The Company uses the inputs or feedback received through stakeholder consultations to develop/update the 
+relevant policies as and when deemed needed. Further, the continuous feedback from these stakeholder groups also helps 
+the Company in identifying key risks and opportunities and plan actions to mitigate the risks.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalised 
+stakeholder groups.
+	
+‘The Company has demonstrated a commitment to supporting vulnerable groups by engaging in various initiatives. The 
+Company have partnered with an independent NGO, Aastha Charitable Trust, to provide a residential complex called 
+“ANAND DHAM” for the mentally challenged and those with aging or posthumous parental care needs. In the similar 
+manner the Company has made a Corporate Social Responsibility (CSR) contribution to the Dr. Jeet Mehta Balshala 
+Trust, which is dedicated to renovating essential physiotherapy centres and providing equipment for students with mental 
+challenges.
+	
+So far the Company has contributed approximately ` 6.72 crores towards the welfare of vulnerable groups, ensuring that 
+their outreach programs address the unique needs of these individuals.
+PRINCIPLE 5: BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+ESSENTIAL INDICATORS
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format:
+Category
+2023-24
+Current Financial Year
+2022-23
+Previous Financial Year
+Total (A)
+No. of employees / 
+workers covered (B)
+% (B / A)
+Total (C)
+No. of employees / 
+workers covered (D)
+% (D / C)
+Employees
+Permanent
+588
+137
+23%
+602
+121
+20%
+Other than permanent
+19
+0
+0%
+0
+0
+0%
+Total Employees
+607
+137
+23%
+602
+121
+20%
+Workers
+Permanent
+1124
+84
+7%
+1197
+18
+2%
+Other than permanent
+1472
+70
+5%
+1434
+147
+10%
+Total Workers
+2596
+154
+5.93%
+2631
+165
+ 6.27%
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+22
+Integrated Report 2023-24
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+2023-24
+Current Financial Year
+2022-23
+Previous Financial Year
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+No. (B)
+%  
+(B / A)
+No. (C)
+%  
+(C / A)
+No. (E)
+%  
+(E / D)
+No. (F)
+%  
+(F / D)
+Employees
+Permanent employees
+Male
+588
+0
+0%
+588
+100%
+586
+0
+0%
+586
+100%
+Female
+19
+0
+0%
+19
+100%
+16
+0
+0%
+16
+100%
+Other than Permanent
+Male
+0
+0
+NA
+0
+NA
+0
+0
+NA
+0
+NA
+Female
+0
+0
+NA
+0
+NA
+0
+0
+NA
+0
+NA
+Workers
+Permanent
+Male
+1106
+65
+6%
+1041
+94%
+1179
+600
+51%
+579
+49%
+Female
+18
+ 5
+28%
+13
+72%
+18
+5
+28%
+13
+72%
+Other than Permanent Workers
+Male
+1448
+663
+46%
+785
+54%
+1397
+588
+42%
+883
+63%
+Female
+  49
+36
+73%
+13
+27%
+37
+15
+41%
+22
+59%
+3.	
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD)
+8
+2,965,004
+2
+3,690,002
+Key Managerial Personnel
+6
+7,873,512
+1
+7,300,004
+Employees other than BoD and KMP
+581
+551,424
+14
+500,004
+Workers
+1179
+292,656
+18
+229,320
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No)
+	
+Yes, we have HR - (SPOC) for each division who is responsible for addressing any grievances in regard to human rights 
+issues caused by the business.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+HR SPOC is responsible for addressing the Human Rights issues for each division of the Company.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+23
+6.	
+Number of Complaints on the following made by employees and workers:
+2023-24
+Current Financial Year
+2022-23
+Previous Financial Year
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks
+Harassment
+0
+0
+NA
+0
+0
+NA
+Discrimination at workplace
+0
+0
+NA
+0
+0
+NA
+Child Labour
+0
+0
+NA
+0
+0
+NA
+Forced Labour/Involuntary Labour
+0
+0
+NA
+0
+0
+NA
+Wages
+0
+0
+NA
+0
+0
+NA
+Other human rights related issues
+0
+0
+NA
+0
+0
+NA
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+HR SPOC is responsible for the Implementation of the policies and practices pertaining to Sexual Harassment, 
+Discrimination at work place also responsible for addressing the issues related to this.
+8.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes
+9.	
+Assessments for the year
+% of your plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+Child labour
+100%
+Forced/involuntary labour
+100%
+Sexual harassment
+0%
+Discrimination at workplace
+0%
+Wages
+100%
+Others – please specify
+-
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above.
+	
+No corrective actions were taken as there were no significant risks/concerns arising from the assessment.
+LEADERSHIP INDICATORS
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints.
+	
+The Company tracks human rights grievances/complaints regularly and initiates necessary actions as and when needed. 
+No business process was modified/introduced as a result of addressing human rights complaints during the reporting 
+period.
+2.	
+Details of the scope and coverage of any Human rights due diligence conducted.
+	
+While the Company hasn’t conducted a Human Rights due diligence, the entity has adopted multiple policies that ensure 
+correct practices are undertaken by the entity. All policies are reviewed each year and appropriate committees have been 
+designated for handling any such cases.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+	
+Yes.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+24
+Integrated Report 2023-24
+4.	
+Details on assessment of value chain partners:
+	
+The entity aims to include assessments of their value chain partners mainly suppliers the following year.
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Child labour
+0%
+Forced/involuntary labour
+0%
+Sexual harassment
+0%
+Discrimination at workplace
+0%
+Wages
+0%
+Others – please specify
+-
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above.
+	
+Not applicable
+PRINCIPLE 6: BUSINESSES SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE THE ENVIRONMENT
+ESSENTIAL INDICATORS
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Total electricity consumption (A) (GJ)
+107,900
+106,523
+Total fuel consumption (B) (GJ)
+110,780
+107,000
+Energy consumption through other sources (C) (GJ)
+0
+0
+Total energy consumption (A+B+C) (GJ)
+218,680
+213,523
+Energy intensity per rupee of turnover (Total energy 
+consumption/ turnover in rupees) (GJ per crores)
+202.30
+208.37
+Energy intensity (optional) – the relevant metric may be selected 
+by the entity
+-
+-
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+	
+Yes (Changodar & Moraiya Plant). Growlity,Inc.
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme 
+have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+Ambica Associates
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+25
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Water withdrawal by source (in kilolitres)
+(i)	
+Surface water
+0
+0
+(ii)	
+Ground water
+26,228
+25,199
+(iii)	 Third party water
+1870
+0
+(iv)	 Sea water / desalinated water
+0
+0
+(v)	
+Others (Rainwater storage)
+0
+0
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+28,098
+25,199
+Total volume of water consumption (in kilolitres)
+28,000
+25,000
+Water intensity per rupee of turnover (Water consumed / 
+turnover) (kl per crores ` of revenue)
+25.90
+24.39
+Water intensity (optional) – the relevant metric may be selected 
+by the entity
+-
+-
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+	
+Yes. Growlity,Inc.
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+Yes, Reuse of treated water is being reused for toilet flushing, solar panel cleaning, cooling tower makeover, gardening & 
+plantation.
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify 
+unit
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+NOx
+µg/m3
+2.5
+1.8
+SOx
+µg/m3
+33
+25
+Particulate matter (PM)
+ µg/m3
+PM10 - 65
+PM2.5 - 42
+PM10 - 59
+PM2.5 - 38
+Persistent organic pollutants (POP)
+-
+Volatile organic compounds (VOC)
+-
+Hazardous air pollutants (HAP)
+-
+Others – please specify
+-
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+	
+Yes. Growlity,Inc.
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Total Scope 1 emissions (Break-up of the 
+GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available)
+tCO2e
+6,617.71
+6,749.6
+Total Scope 2 emissions (Break-up of the 
+GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available)
+tCO2e
+20,272.84
+20,282.35
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+26
+Integrated Report 2023-24
+Parameter
+Unit
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Total Scope 1 and Scope 2 emissions per 
+crore rupee of turnover
+tCO2e/INR crore
+24.87
+26.37
+Total Scope 1 and Scope 2 emission 
+intensity (optional)– the relevant metric 
+may be selected by the entity
+tCO2e/tonne of 
+production
+1.81
+2.05
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+	
+Yes. Growlity,Inc.
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide detail
+	
+Yes, ‘CAPEX investment in energy efficient equipment or project for energy consumption reduction
+	
+1.	
+New IE-04 efficient 132 KW air compressor installed in Moraiya Plant
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+11.88
+16.16
+E-waste (B)
+0.645
+0.835
+Bio-medical waste (C)
+0
+0
+Construction and demolition waste (D)
+24.68
+0
+Battery waste (E)
+0
+0
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any. (G)
+197.5
+115.98
+Other Non-hazardous waste generated (H). Please specify, if any. 
+(Break-up by composition i.e., by materials relevant to the sector)
+546.91
+Wastepaper or Paperboard
+19.56
+20.4
+Used Waste Oil
+25.74
+Office waste
+35.8
+0
+Unsorted waste and scrap
+356.51
+431.6
+Wooden Waste
+129.93
+142.5
+Glass Waste
+0.33
+0
+Polyamide Scrap
+4.76
+0
+Empty disc. Cont
+52.92
+Total (A + B + C + D + E + F + G + H)
+781.60
+806.12
+Waste 
+Recycled in 
+2023-24
+Other 
+Recovery in
+2023-24
+Other 
+Disposal in
+2023-24 MT
+Waste 
+Recycled in
+2021-22
+Other 
+Recovery in
+2021-22
+Other 
+Disposal in
+2021-22 MT
+Plastic waste (A)
+11.88
+0
+0
+16.16
+0
+0
+E-waste (B)
+0.645
+0
+0
+0.835
+0
+0
+Bio-medical waste (C)
+0
+0
+0
+0
+0
+0
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+27
+Waste 
+Recycled in 
+2023-24
+Other 
+Recovery in
+2023-24
+Other 
+Disposal in
+2023-24 MT
+Waste 
+Recycled in
+2021-22
+Other 
+Recovery in
+2021-22
+Other 
+Disposal in
+2021-22 MT
+Construction and demolition
+waste (D)
+24.68
+0
+0
+0
+0
+0
+Battery waste (E)
+0
+0
+0
+0
+0
+0
+Radioactive waste (F)
+0
+0
+0
+0
+0
+0
+Other Hazardous waste.
+Please specify if any (G)
+0
+197.5
+0
+0
+115.98
+0
+Other Non-hazardous waste 
+generated (H). Please specify, 
+if any.
+546.91
+0
+0
+673.16
+0
+0
+Total Waste Recovered
+(A + B + C + D + E + F + G + H)
+584.11
+197.5
+0
+690.16
+115.98
+0
+	
+For each category of waste generated, total waste disposed by nature of disposal method (MT)
+S. 
+No.
+Parameter
+Waste 
+Incinerated 
+in 2023-24
+Waste in 
+Landfill in 
+2023-24
+Other 
+Disposal in 
+2023-24 MT
+Total 
+Disposed in 
+2023-24
+Waste 
+Incinerated 
+in 2022-23
+Waste in 
+Landfill in 
+2022-23
+Other 
+Disposal in 
+2022-23
+Total 
+Disposal in 
+2022-23
+1
+Plastic waste (A)
+0
+0
+11.88
+11.88
+0
+0
+0
+0
+2
+E-waste (B)
+0
+0
+0.645
+0.645
+0
+0
+0.835
+0.835
+3
+Bio-medical waste 
+(C)
+0
+0
+0
+0
+0
+0
+0
+0
+4
+Construction and 
+demolition waste (D)
+0
+0
+24.68
+24.68
+0
+0
+0
+0
+5
+Battery waste (E)
+0
+0
+0
+0
+0
+0
+0
+0
+6
+Radioactive waste (F)
+0
+0
+0
+0
+0
+0
+0
+0
+7
+Other Hazardous 
+waste. Please specify 
+if any (G)
+0
+0
+197.5
+197.5
+0
+0
+115.98
+115.98
+8
+Other Non-hazardous 
+waste generated (H). 
+Please specify, if any.
+0
+35.8
+511.11
+546.907
+0
+0
+673.16
+673.16
+9
+Total Waste 
+Disposed (A + B + C + 
+D + E + F + G + H)
+0
+35.8
+745.81
+781.612
+0
+0
+789.975
+789.975
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+	
+Yes, Growlity,Inc.
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+your Company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes.
+	
+As per ISO 14001: 2015, Waste Disposal SOP document no. HEO810000010. Optimisation of Hazardous waste generation 
+during manufacturing process and being dispose through register recycler or co-processor.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+28
+Integrated Report 2023-24
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details in the following format:
+	
+The entity does not have operations/plants in/around ecologically sensitive areas.
+Sl.
+No.
+Location of 
+operations/offices
+Type of operations
+Whether the conditions of environmental approval / 
+clearance are being complied with? (Y/N) If no, the reasons 
+thereof and corrective action taken, if any.
+NA
+NA
+NA
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year:
+	
+EIA was not required to be carried out in the current financial year, based on applicable laws.
+Name and brief 
+details of project
+EIA 
+Notification 
+No.
+Date
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results communicated 
+in public domain  
+(Yes / No)
+Relevant Web 
+link
+NA
+NA
+NA
+NA
+NA
+NA
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and 
+rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format:
+	
+Yes. 
+Sl. 
+No.
+Specify the law / regulation 
+/ Guidelines which was not 
+complied with
+Provide details 
+of the non- 
+compliance
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution 
+control boards or by courts
+Corrective action 
+taken, if any
+NA
+LEADERSHIP INDICATORS
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, in 
+the following format:
+Parameter
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+From renewable sources (GJ)
+Total electricity consumption (A)
+5,827.28
+6,953.89
+Total fuel consumption (B)
+0
+0
+Energy consumption through other sources (C)
+0
+0
+Total energy consumed from renewable sources (A+B+C)
+5,827.28
+6,953.89
+From non-renewable sources (GJ)
+Total electricity consumption (D)
+102,073.03
+99,569.24
+Total fuel consumption (E)
+110,780.55
+107,000.90
+Energy consumption through other sources (F)
+0
+0
+Total energy consumed from non-renewable sources (D+E+F)
+212,853.58
+206,570.14
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+	
+Yes, Growlity,Inc.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+29
+2.	
+Provide the following details related to water discharged:
+Parameter
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	
+To Surface water
+NA
+0
+	
+-	
+No treatment
+NA
+0
+	
+-	
+With treatment – please specify level of Treatment
+NA
+0
+(ii)	
+To Ground water
+YES
+0
+	
+-	
+No treatment
+NA
+0
+	
+-	
+With treatment – please specify level of Treatment
+Primary, Secondary and 
+Tertiary Treatment
+0
+(iii)	 To Sea water
+NA
+0
+	
+-	
+No treatment
+NA
+0
+	
+-	
+With treatment – please specify level of Treatment
+NA
+0
+(iv)	 Sent to third-parties
+NA
+0
+	
+-	
+No treatment
+NA
+0
+	
+-	
+With treatment – please specify level of Treatment
+NA
+0
+(v)	
+Others
+NA
+0
+	
+-	
+No treatment
+NA
+0
+	
+-	
+With treatment – please specify level of Treatment
+NA
+0
+Total water discharged (in kilolitres)
+NA
+0
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+	
+Yes. Growlity, Inc.
+3.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+Not Applicable as the Company’s plant are not in water stressed areas.
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+a.	
+Name of the area - NA
+	
+b.	
+Nature of operations - NA
+	
+c.	
+Water withdrawal, consumption and discharge in the following format:
+Parameter
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Water withdrawal by source (in kilolitres)
+(i)	
+Surface water
+ NA
+NA
+(ii)	
+Ground water
+NA
+NA
+(iii)	 Third party water
+NA
+NA
+(iv)	 Sea water / desalinated water
+NA
+NA
+(v)	
+Others
+NA
+NA
+Total volume of water withdrawal (in kilolitres)
+NA
+NA
+Total volume of water consumption (in kilolitres)
+NA
+NA
+Water intensity per rupee of turnover (Water consumed / 
+turnover)
+NA
+NA
+Water intensity (optional) – the relevant metric may be 
+selected by the entity
+NA
+NA
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+30
+Integrated Report 2023-24
+Parameter
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	
+Into Surface water
+NA
+NA
+-	
+No treatment
+NA
+NA
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(ii)	
+Into Ground water
+NA
+NA
+-	
+No treatment
+NA
+NA
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(iii) Into Sea water
+NA
+NA
+-	
+No treatment
+NA
+NA
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(iv) Sent to third-parties
+NA
+NA
+-	
+No treatment
+NA
+NA
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(v) Others
+NA
+NA
+-	
+No treatment
+NA
+NA
+-	
+With treatment – please specify level of treatment
+NA
+NA
+Total water discharged (in kilolitres)
+NA
+NA
+	
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency
+	
+	
+NA
+4.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+	
+The organisation is in the process of calculating scope 3 emissions
+Parameter
+Unit
+2023-24
+(Current Financial Year)
+2022-23
+(Previous Financial Year)
+Total Scope 3 emissions (Break-up of the 
+GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available)
+tCO2e
+6,844,007.22 
+-
+Total Scope 3 emissions per rupee of 
+turnover
+tCO2e /Turnover
+ (in crore `)
+6,331.53
+Total Scope 3 emission intensity (optional) 
+– the relevant metric may be selected by 
+the entity
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+	
+Yes, Growlity,Inc.
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details 
+of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation 
+activities.
+	
+Not applicable, as the Company does not operate around ecologically sensitive areas.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+31
+6.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same 
+as well as outcome of such initiatives, as per the following format:
+Sr. 
+No
+Initiative undertaken
+Details of the initiative (Web-link, if any, 
+may be provided along-with summary)
+Outcome of the 
+initiative
+1
+Corporate Office-Auto “ON & OFF” Centralise 
+AC (VRV) System and Lights of corporate office
+Digital timer installed to reduce energy 
+consumption by time setting
+Saving:7,818 kwh/
+month
+2
+Cooling Tower (180TR Chiller)- VFD installation 
+in cooling tower motor to reduce energy 
+consumption
+Installed PID VFD with Thermocouple to 
+reduce energy consumption
+Saving:5,429 kwh/
+month
+3
+SRB-Pulse blow valve installation in presses to 
+reduce air compressor consumption
+Installed Pulse blow valve to reduce the Air 
+Consumption during operation
+Saving:13,104 
+kwh/month
+4
+ETP-VFD installation to reduce energy 
+consumption
+Installed VFD in all ETP plant motor
+Saving:1,710 kwh/
+month
+5
+DGBB- Belt conveyor motor was running 
+continuous in idle condition
+On/Off Interlock done through programming
+Saving:728 kwh/
+month
+6
+Taper Auto-Shop Floor Conveyor continue “ON” 
+(Loader & Zebra)
+Loader conveyor of Vibrator is “ON” 
+continuously if not required in actual 
+condition (19 nos.), so interlock with 
+programme
+Saving:186.73 
+kwh/month
+7
+UTILITY (Mor.)-Water level sensor type drain 
+valve to be install
+Install water level senser type drain valve to 
+reduce loss of compressed air during auto 
+drain process
+Saving:5,406 kwh/
+month
+8
+Taper Auto-Push bar conveyor working in 
+contactor base
+Install VFD for push bar conveyor hydraulic 
+pump & motor
+Saving:624 kwh/
+month
+9
+Taper Auto-Extol Pump
+Modify pressure in programme 2.5 bar from 
+3 bar
+Saving:702 kwh/
+month
+	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+Yes, the Company has contingency plan in place. The plan has the risks identified, severity of it and contingency plan in 
+case it occurs. The plan is communicated to all function heads and employees.
+7.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation 
+or adaptation measures have been taken by the entity in this regard?
+	
+The Company through its existing assessment has not come across any significant adverse impact of its value chain on 
+the environment.
+8.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impact
+	
+46% of value chain partners (by value of business done with value chain partners) comply with ISO 1400 management 
+system requirements to address environmental impacts.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+32
+Integrated Report 2023-24
+PRINCIPLE 7: BUSINESSES WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, SHOULD DO SO IN A 
+MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+ESSENTIAL INDICATORS
+1.	
+a) 
+Number of affiliations with trade and industry chambers/ associations.
+	
+b)	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) 
+the entity is a member of/ affiliated to.
+Sr.
+No
+Name of the trade and industry chambers/
+associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1
+GCCI
+State
+2
+CII
+National
+3
+AMA
+State
+4
+ACMA
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, 
+based on adverse orders from regulatory authorities
+Name of Authority
+Brief of the case
+Corrective action taken
+Nil
+LEADERSHIP INDICATORS
+1.	
+Details of public policy positions advocated by the entity
+Sr. 
+No
+Public policy 
+advocated
+Method resort 
+for such 
+advocacy
+Whether the information 
+is available in public 
+domain? (Yes/No)
+Frequency of review by board 
+(Annually/ Half yearly/ Quarterly/ 
+Other-please specify)
+Web Link, if 
+available
+No such public policy advocated by the Company
+PRINCIPLE 8: BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVELOPMENT
+ESSENTIAL INDICATORS
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+Name and brief 
+details of project
+SIA 
+notification 
+no.
+Date of 
+notification
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results 
+communicated in 
+public domain
+Relevant 
+Web Link
+Not applicable as the Company’s CSR projects does not fall under SIA obligation based on applicable laws
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your 
+entity:
+	
+None of the entity’s projects undertaken required rehabilitation and resettlement.
+Sr. 
+No
+Name of project for 
+which R&R is ongoing
+State
+District
+No of Project 
+Affected Families
+% of PAF covered 
+by RAR
+Amount Paid to PAFs 
+in the FY (in `)
+Nil
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+33
+3.	
+Describe the mechanisms to receive and redress grievances of the community
+	
+Grievance Redressal Mechanism (GRM) is an important aspect of assuring the Company’s strong relation with the 
+community as it provides a social license to operate and execute community initiative projects. As part of the Company’s 
+grievance redressal mechanism, the organisation has deployed local employees who regularly visit the community and 
+interact with people to gauge and address community concerns. Based on these interactions, the Company has not 
+encountered any specific grievances from the community so far.
+	
+The Company records all external complaints related to health, safety & environment on the Company’s intranet and takes 
+suitable and sufficient actions to address all such complaints. The Company ensures timely closure with follow ups to 
+avoid reoccurrence of such complaints.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from local or small-scale suppliers:
+2023-24
+Current Financial Year
+2022-23
+Previous Financial Year
+Directly sourced from MSMEs/ Small producers
+7.19%
+ 7.56%
+Sourced directly from within the district and neighbouring
+districts
+79%
+ 68%
+	
+LEADERSHIP INDICATORS
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+Not applicable as the Company’s CSR projects does not fall under SIA obligation based on applicable laws
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+Sr. No
+State
+Aspirational District
+Amount spent
+NA
+3.	
+(a)	 Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalised /vulnerable groups? (Yes/No) -
+	
+	
+No, the entity does not have preferential procurement policy in place but on needs basis the Company sources paper 
+cutting activities from Aastha Charitable Trust for Welfare of the Mentally Challenged
+	
+(b)	 From which marginalised /vulnerable groups do you procure?
+	
+	
+Not Applicable
+	
+(c)	 What percentage of total procurement (by value) does it constitute?
+	
+	
+Not Applicable
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge
+S. no
+Intellectual Property based 
+on traditional knowledge
+Owned/ Acquired  
+(Yes/No)
+Benefit shared (Yes/No)
+Basis of calculating of 
+benefits shared
+Nil
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+34
+Integrated Report 2023-24
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved.
+Name of authority
+Brief of case
+Corrective action taken
+Except Trademark, the Company has no other intellectual property and hence not applicable
+6.	
+Details of beneficiaries of CSR Projects.
+Sr.no
+CSR Project
+No of persons benefited 
+from CSR Projects
+% of beneficiaries from vulnerable 
+and marginalised group
+ 1
+Essential physiotherapy centre renovation and 
+equipment for mentally challenged students
+1,452
+100%
+PRINCIPLE 9: BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS IN RESPONSIBLE 
+MANNER
+ESSENTIAL INDICATORS
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+Our product is part and parcel of a bearing assembly which cannot be seen separately. Also end Consumer exposure is 
+limited to bearing manufacturers and not to Harsha.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information.
+	
+NA as the entity’s customers design and approve the end product.
+As a percentage to total turnover
+Environment and Social parameters relevant to product
+0
+Safe and responsible usage
+0
+Recycling and/or safe disposal
+0
+3.	
+Number of consumer complaints
+2023-24
+Current Financial Year
+2022-23
+Previous Financial Year
+Received during 
+the year
+Pending resolution 
+at the end of year
+Received during 
+the year
+Pending resolution 
+at the end of year
+Data privacy
+0
+0
+0
+0
+Advertising
+0
+0
+0
+0
+Cyber-security
+0
+0
+0
+0
+Delivery of essential services
+0
+0
+0
+0
+Restrictive Trade Practices
+0
+0
+0
+0
+Unfair Trade Practices
+0
+0
+0
+0
+Others
+0
+0
+0
+0
+4.	
+Details of instances of product recalls on account of safety issues
+Number
+Reason for recall
+Voluntary recalls
+0
+0
+Forced recalls
+0
+0
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
+Statutory
+Reports
+Business Responsibility & Sustainability Report
+01-35
+
+Harsha Engineers International Limited
+35
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+	
+Yes, the entity has a policy on cyber security and risks related to data privacy. The policy is available on the intranet.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+	
+The Company did not receive any complaint in this regard during the reporting period.
+LEADERSHIP INDICATORS
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, if 
+available).
+	
+Product information is available on the Company’s website. Website link: www.harshaengineers.com
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+We are not product design owner
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+NA
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/ 
+No/Not Applicable)? If yes, provide details in brief. Did your entity carry out any survey with regard to consumer 
+satisfaction relating to the major products / services of the entity, significant locations of operation of the entity or the 
+entity as a whole? (Yes/No)
+	
+Since Harsha is manufacturing parts as per the drawing/design provided by the its customer any additional marking on 
+product is not allowed, so it is not applicable to Harsha.
+	
+We do conduct survey with our customers who are bearing manufacturers, but no direct exposure of end consumers.
+5.	
+Provide the following information relating to data breaches: There were no such instances.
+	
+a.	
+Number of instances of data breaches along-with impact: 0
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers: 0
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (Contd.) 
