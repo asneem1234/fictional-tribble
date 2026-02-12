@@ -1,0 +1,4776 @@
+ 
+ 
+     Dixon Technologies (India) Limited 
+ 
+ 
+ 
+3rd September, 2024 
+ 
+To                                                         
+Secretary 
+Listing Department 
+BSE Limited 
+Department of Corporate Services 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai – 400 001 
+To                                                         
+Secretary 
+Listing Department 
+National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex  
+Mumbai – 400 051 
+Scrip Code - 540699 
+ISIN: INE935N01020 
+Scrip Code - DIXON 
+ISIN: INE935N01020 
+ 
+ 
+Sub: Business Responsibility and Sustainability Report for the financial year 2023-24 
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations & Disclosure 
+Requirements) Regulations 2015, we are submitting herewith the Business Responsibility and Sustainability 
+Report (‘BRSR’) for FY 2023-24 which also forms part of the Annual Report FY 2023-24. Kindly take the aforesaid 
+on your record and oblige. 
+ 
+The aforesaid documents are available on the website of the Company at www.dixoninfo.com . 
+ 
+Kindly take the aforesaid on your record and oblige.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For DIXON TECHNOLOGIES (INDIA) LIMITED 
+ 
+ 
+______________ 
+Ashish Kumar 
+Chief Legal Counsel & Group Company Secretary 
+ 
+Encl: as above 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regd. Office: B-14 & 15, Phase-II, Noida-201305, (U.P.) India, Ph.:0120-4737200 
+            E-mail: info@dixoninfo.com • Website: http://www.dixoninfo.com, Fax: 0120-4737263 
+CIN: L32101UP1993PLC066581 
+ASHISH 
+KUMAR
+Digitally signed by ASHISH KUMAR 
+DN: c=IN, o=Personal, 
+pseudonym=jcqsM7KfzvXNA7gOm2DePup8w1nzzwOX, 
+2.5.4.20=c6b9fb89ba168784e8a2db5bc04891221780cf62995
+d2e27aabe5be3c41dd3c3, postalCode=201301, st=Uttar 
+Pradesh, 
+serialNumber=014453cec6270c29749dc7ef1e99c0a2d049f09
+7770882635da197b6755b7c20, cn=ASHISH KUMAR 
+Date: 2024.09.03 21:26:18 +05'30'
+Sl. 
+No.
+Description of 
+Main Activity
+Description of Business Activity
+% of turnover of 
+the Company
+1
+Manufacturing 
+and Design
+Consumer Electronics: Under the consumer electronics segment, Dixon primarily 
+designs and manufactures LED TV and PCB.
+23%
+Lighting: Company designs and manufactures lighting products like LED lights, tube 
+lights, Indoor and Outdoor drivers.
+4%
+Home Appliances: Company designs and manufactures semi and fully automatic washing 
+machines. Under this product segment, fully ODM (Original Design Manufacturing) model 
+is followed.
+7%
+Mobile Phone & EMS division & Others: Manufactures mobile phones and the 
+associated hearables and wearables and laptops for the globally recognized brands.
+62%
+1.
+Corporate Identity Number (CIN) of the Company 
+L32101UP1993PLC066581
+2.
+Name of the Company
+Dixon Technologies (India) Limited (“Dixon”)
+3.
+Year of Incorporation
+1993
+4.
+Registered Office Address
+B-14 & 15, Phase-2, District Gautam Buddha 
+Nagar, Noida-201305, Uttar Pradesh
+5.
+Corporate Address
+6.
+Email Address
+investorrelations@dixoninfo.com
+7.
+Telephone
+0120-4737200
+8.
+Website
+www.dixoninfo.com 
+9.
+Financial Year Reported
+1st April, 2023 to 31st March, 2024
+10. Name of the Stock Exchanges where shares are listed
+1.	 BSE Limited
+2.	 National Stock Exchange of India Limited
+11. Paid-up Capital
+H 11,96,43,190
+12. Name and contact details (telephone, email address) of the person who may 
+be contacted in case of any queries on the BRSR report 
+Ashish Kumar (Chief Legal Counsel & Group CS)
+Tel: 0120-4737200 
+Email: investorrelations@dixoninfo.com
+13. Reporting boundary - Are the disclosures under this report made on a 
+standalone basis (i.e. only for the entity) or on a consolidated basis (i.e. for 
+the entity and all the entities which form a part of its consolidated financial 
+statements, taken together). 
+The disclosures in this report are made on 
+Standalone Basis.
+14. Name of assurance provider
+Not Applicable
+15. Type of assurance obtained
+Annexure-IV
+Business Responsibility and Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of listed entity
+II.	
+Products/Services
+16.	 Details of business activities (accounting for 90% of the turnover)
+Corporate Overview
+Statutory Reports
+Financial Statements
+129
+Annual Report 2023-24
+Sl. 
+No.
+Product/Service
+NIC Code
+% of total turnover 
+contributed
+1
+Consumer Electronics
+26301
+23%
+2
+Lighting
+27400
+4%
+3
+Home Appliances
+27501
+7%
+4
+Mobile & EMS Division & Others
+26305
+62%
+Location
+Number of plants
+Number of offices
+Total
+National 
+11
+1*
+12
+International
+0
+1**
+1
+Locations
+Number
+National (No. of States)
+The Company sells its products in all the 28 states and 8 Union territories in the country. 
+(The Company supplies the products to respective brand owners who further sell the products in 
+the markets to the end customers)
+International (No. of Countries)
+The Company services in over 10 countries across the globe. 
+17.	 Products/Services sold by the Company (accounting for 90% of the turnover)
+III.	 Operations
+18.	 Number of locations where plants and/or operations/offices of the Company are situated:
+Note:
+*Company has one office in Noida, which is also the Corporate Office of the Company in India 
+** Company has one International office located in China
+The above units includes all owned as well as leased units under Dixon.
+19.	 Markets served by the Company
+a.	
+Number of locations
+b.	
+What is the contribution of exports as a percentage of the total turnover of the Company? 
+	
+0.10%
+c.	
+Types of customers
+	
+Dixon Technologies (India) Limited is one of the largest home grown design- focused and solutions Company engaged in 
+manufacturing products in the consumer durables, lighting and mobile phones markets in India. Their diversified product portfolio 
+includes (i) consumer electronics like LED TVs; (ii) home appliances like washing machines; (iii) lighting products like LED bulbs 
+and tubelights, downlighters; (iv) mobile phones; and (v) CCTV & DVRs (vi) Wearables (vii) Refrigerators. Dixon also provides 
+solutions in reverse logistics i.e. repair and refurbishment services of LED TV panels. Dixon, a prominent player in the electronics 
+manufacturing and design industry, has established unparalleled market dominance over the years. Operating on a B2B business 
+model, Dixon offers a diverse range of products. These offerings have been categorized by product type.
+1.	
+Consumer Electronics: The major customers in this segment are Xiaomi, Samsung, Hisense, VU, Nokia, Panasonic, Lloyd, 
+Flipkart, Acer etc.
+2.	
+Lighting Products: The major customers in this segment are Reliance, RR Kabel, Signify, Wipro, Bajaj, Orient, Polycab, 
+Luminous, Crompton.
+3.	
+Home Appliances: The major customers in this segment are Samsung, BSH, Godrej, Volt- Beko, Panasonic, Reliance, Croma etc.
+4.	
+Mobile Phones, EMS & Others: The major customers in this segment include Motorola, Nokia, Reliance, Xiaomi, Airtel etc.
+130
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+IV.	 Employees
+20.	 Details as at the end of Financial Year:
+a.	
+Employees and workers (including differently abled):
+Sl. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1.
+Permanent (D)
+1,522
+1,446
+95%
+76
+5%
+2.
+Other than Permanent (E)
+0
+0
+0
+0
+0
+3.
+Total employees (D+E)
+1,522
+1,446
+95%
+76
+5%
+WORKERS
+4.
+Permanent (F)
+171
+162
+95%
+9
+5%
+5.
+Other than Permanent (G)
+5,956
+3,985
+67%
+1,971
+33%
+6.
+Total workers (F+G)
+6,127
+4,147
+67.68%
+1,980
+32.31%
+Sl. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+0
+0
+Nil
+0
+Nil
+2.
+Other than Permanent (E)
+ 0
+ 0
+Nil
+0
+Nil
+3.
+Total differently abled employees (D+E)
+0
+0
+Nil
+0
+Nil
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+0
+0
+Nil
+0
+Nil
+5.
+Other than Permanent (G)
+0
+0
+Nil
+0
+Nil
+6.
+Total differently abled workers (F+G)
+0
+0
+Nil
+0
+Nil
+b.	
+Differently abled Employees and workers:
+21.	 Participation/Inclusion/Representation of Women
+ 
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B/A)
+Board of Directors
+8
+1
+12.50%
+Key Management Personnel*
+2
+0
+0%
+*Excluding Board of Directors
+22.	 Turnover rate for permanent employees and workers (disclose trends for the past 3 years)
+Throughout the fiscal year 2023-24, the Company has implemented a wide range of training initiatives designed to bolster both 
+job-specific performance and holistic development. These initiatives encompass technical and functional training modules 
+that are meticulously tailored to hone industry-specific skills, thereby ensuring that employees remain at the forefront of 
+technological advancements.
+In addition to this, the Company has instituted behavioural, futuristic, managerial, and leadership programs. These programs are 
+actively designed to cultivate a culture of collaboration, enhance problem-solving abilities, and foster leadership skills.
+Corporate Overview
+Statutory Reports
+Financial Statements
+131
+Annual Report 2023-24
+ 
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+19%
+13%
+19%
+18%
+25%
+20%
+14%
+19%
+15%
+Permanent Workers
+9%
+0.00%
+9%
+13%
+8%
+11%
+13%
+4%
+11%
+These comprehensive training programs are strategically aligned with the Company’s objectives, promoting a culture of continuous 
+learning, innovation, and excellence throughout the organisation. It is with immense pride that the Company announces its 
+recognition as a “Great Place to Work” in India for the third consecutive year. 
+Note: This includes employees/workmen who have retired during the year.
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+23.	 Name of holding/subsidiary/associate companies/joint ventures
+Sl. 
+No.
+Name of the holding/ subsidiary/associate 
+companies/joint ventures (A)
+Indicate whether 
+Holding/Subsidiary/
+Associate/Joint 
+Venture
+% of shares 
+held by the 
+Company
+Does the entity indicated at 
+column A, participate in the 
+Business Responsibility initiatives 
+of the Company (Yes/No)
+1
+Dixon Global Private Limited
+Subsidiary
+100%
+No
+2
+Padget Electronics Private Limited
+Subsidiary
+100%
+No
+3
+AIL Dixon Technologies Private Limited
+Joint Venture
+50%
+No
+4
+Dixon Electro Appliances Private Limited
+Subsidiary
+51%
+No
+5
+Dixon Electro Manufacturing Private Limited
+Subsidiary
+100%
+No
+6
+Dixon Technologies Solutions Private Limited
+Subsidiary
+100%
+No
+7
+Rexxam Dixon Electronics Private Limited
+Joint Venture
+40%
+No
+8
+Califonix Tech and Manufacturing Private Limited
+Joint Venture
+50%
+No
+9
+Dixtel Communications Private Limited
+Subsidiary
+100%
+No
+10
+Dixon Infotech Private Limited
+Subsidiary
+100%
+No
+11
+Dixtel Infocom Private Limited
+Subsidiary
+100%
+No
+VI.	 CSR Details
+24. 	 (i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes, CSR provisions are applicable as per Section 
+135 of the Companies Act, 2013. The Company has a dedicated CSR Policy focused on People and Planet and lays down 
+the approach towards community development in water conservation, health and hygiene, skill development, education, 
+social advancement, gender equality, empowerment of women, ensuring environmental sustainability and rural development 
+projects. The CSR Policy, as approved by the Board of Directors, is available on the Company’s website at https://www.
+dixoninfo.com/json/dixon/codes-policy/Corporate-Social-Responsibility-Policy.pdf 
+	
+(ii)	
+Turnover (in H Lacs): H 6,41,140 
+	
+(iii)	
+Net worth (in J Lacs): H 1,39,430 
+132
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+Stakeholder 
+group from 
+whom 
+compliant is 
+received
+Grievance Redressal Mechanism in place (Yes/
+No) (If yes, then provide web link for grievance 
+redressal policy)
+FY 2023-24
+FY 2022-23
+No. of 
+comp-
+laints 
+filed 
+during 
+the year
+No. of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+No. of 
+comp-
+laints 
+filed 
+during 
+the year
+No. of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes 
+Under Investor relations at www.dixoninfo.com
+Dixon has maintained positive community relations 
+throughout the fiscal year, with no registered 
+grievances from the involved communities. The 
+Company’s core objective is to enhance the well-
+being of the communities in which it operates. To 
+achieve this, Dixon actively executes Corporate 
+Social Responsibility (CSR) projects and engages 
+with community members through initiatives such 
+as Focus Group Discussions (GDs) and individual 
+interactions. Additionally, community members 
+are encouraged to reach out to the Chief Human 
+Resource Officer if they encounter any concerns.
+0
+0
+N.A.
+0
+0
+N.A.
+Investors 
+(other than 
+shareholders)
+Not applicable as the Company does not have any 
+investors other than shareholders (e.g. preference 
+shareholders or debenture shareholders)
+0
+0
+N.A.
+0
+0
+N.A.
+Shareholders
+Yes 
+Under Investor relations at https://www.dixoninfo.
+com/investor-relation.php 
+Throughout the fiscal year, Dixon received a total 
+of 34 shareholder complaints, each of which 
+was promptly and effectively resolved. The 
+Company follows a structured process for handling 
+shareholder grievances. As part of this process, 
+an Annual General Meeting (AGM) is held on an 
+annual basis, providing shareholders with an annual 
+platform to discuss any issues or queries they may 
+have.
+At shareholder gatherings, attendees have the 
+opportunity to voice their concerns, and Dixon 
+ensures prompt and appropriate actions to 
+address and resolve these matters. Moreover, the 
+investor relations team is dedicated to addressing 
+shareholder queries and issues. Shareholders 
+also have the option to directly communicate their 
+inquiries and complaints to the Chief Financial 
+Officer (CFO) or the Chief Legal Counsel and Group 
+CS for swift resolution.
+33
+0
+N.A.
+13
+0
+N.A.
+VII.	 Transparency and Disclosure Compliances
+25. 	 Complaints/Grievances on any of the principles (Principle 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Corporate Overview
+Statutory Reports
+Financial Statements
+133
+Annual Report 2023-24
+Stakeholder 
+group from 
+whom 
+compliant is 
+received
+Grievance Redressal Mechanism in place (Yes/
+No) (If yes, then provide web link for grievance 
+redressal policy)
+FY 2023-24
+FY 2022-23
+No. of 
+comp-
+laints 
+filed 
+during 
+the year
+No. of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+No. of 
+comp-
+laints 
+filed 
+during 
+the year
+No. of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Employees 
+and workers
+Yes at www.dixoninfo.com
+Dixon Corporation received no employee or worker 
+complaints during the fiscal year. The Company 
+prioritizes employee well-being through various 
+initiatives, including Employee Engagement 
+Programs, regular Satisfaction Surveys, and 
+comprehensive Training & Development Programs.
+0
+0
+N.A.
+0
+0
+N.A.
+Customers
+Yes at https://www.dixoninfo.com/contact.php 
+The Company follows a business-to-business (B2B) 
+model, engaging with clients through personalized 
+interactions, meetings, feedback surveys, and 
+evaluations of product deliveries. Any customer 
+queries or concerns are promptly addressed by the 
+purchase and sales team.
+0
+0
+N.A.
+0
+0
+N.A.
+Value Chain 
+Partners
+Yes at https://www.dixoninfo.com/contact.php 
+Throughout the fiscal year, Dixon’s value chain 
+partners expressed no concerns. The Company 
+actively nurtures relationships with its partners 
+through on-site visits, personalized interactions, 
+and surveys. The dedicated purchase and sales 
+team promptly addresses any partner queries, while 
+regular reviews and feedback mechanisms facilitate 
+effective information exchange.
+0
+0
+N.A.
+0
+0
+N.A.
+26.	 Overview of the Company’s material responsible business conduct and sustainability issues pertaining to 
+environment and social matters that present a risk or an opportunity to the business of the Company, rationale for 
+identifying the same approach to adapt or mitigate the risk along with its financial implications, as per the following 
+format: 
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+1
+Human 
+Capital 
+Development
+Opportunity In the fast-paced world of the electronics 
+industry, the Company recognizes its human 
+capital as a crucial asset. Amidst the flux of 
+technological advancements, the adaptability 
+and relevance of the Company hinge on 
+its skilled workforce. This proficient team is 
+instrumental in driving sustainable growth.
+The Company is well-prepared 
+to address this without risk, 
+given its implementation of 
+diverse employee-centric 
+initiatives, including skill 
+development, training, 
+and various engagement 
+programs.
+Positive 
+Implications: 
+Prioritizing the 
+development of 
+human capital can 
+lead to positive 
+financial results for 
+the organisation. 
+By investing in
+134
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+The Company’s strategic blueprint 
+encompasses both immediate and long-
+term initiatives. Short-term measures include 
+induction programmes, skill enhancement, on-
+the-job training, and technical instructions. The 
+long-term vision culminates in a state-of-the-art 
+Centre of Excellence (COE) that fosters both 
+theoretical and practical learning.
+The implementation of these skilling and 
+engagement programs not only promotes 
+comprehensive employee development but also 
+ensures their retention. The Company takes pride 
+in its Great Place to Work (GWP) certification, 
+held for the past three years. This accolade 
+underscores the remarkable organisational 
+culture upheld by its employees and serves as a 
+testament to the Company’s core values of trust, 
+fairness, respect, and camaraderie – the essence 
+of a great workplace.
+initiatives 
+that promote 
+employee well-
+being, offering 
+competitive 
+salaries, and 
+providing benefits, 
+the Company can 
+cultivate a strong 
+relationship with 
+its employees.
+2
+Health and 
+safety
+Risk
+In the realm of the workplace, the Company 
+places paramount importance on the well-
+being of its workforce. Given its operations 
+in the electronics manufacturing sector, the 
+safety of its employees is a critical concern.
+The Company’s dedication to 
+preserving workforce health and 
+safety is evident in its record 
+of zero accidents and LTIFR 
+incidents in its operations.
+The Company adopts 
+a structured approach, 
+striving for a workplace 
+devoid of injuries and 
+fatalities. It adheres to the 
+5S methodology, proactively 
+addressing and preventing 
+health emergencies.
+To counter potential hazards, 
+employees are equipped with 
+suitable safety gear within the 
+factories. For example, in the 
+lighting manufacturing unit, 
+employees are provided with 
+specialized goggles to protect 
+their eyes from high-intensity 
+lights.
+The Company’s commitment 
+to safety is further reinforced 
+through a distinct occupational 
+health and safety policy. 
+This policy underscores the 
+Company’s dedication to 
+creating a safe and healthy work 
+environment for its employees.
+Positive 
+Implications: 
+Ensuring the 
+health and safety 
+of employees 
+positively impacts 
+the Company. 
+Investing in Health 
+and Safety to 
+create a safe and 
+healthy workplace 
+promotes 
+well being of 
+employees and 
+reduces risk 
+of accidents 
+and improves 
+productivity. 
+In case of any 
+accidents, 
+corrective actions 
+are taken in the 
+spot to avoid any 
+future mishaps.
+Corporate Overview
+Statutory Reports
+Financial Statements
+135
+Annual Report 2023-24
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+3
+Energy 
+Management 
+and Emission 
+Reduction
+Opportunity The Company, acknowledging the significant 
+role of greenhouse gas emissions in 
+exacerbating climate change risks, has 
+conscientiously implemented a range of 
+measures to reduce its global greenhouse gas 
+footprint.
+In essence, the Company’s actions reflect 
+a steadfast commitment to environmental 
+stewardship, demonstrating its role as a 
+responsible corporate citizen in the face of 
+global climate challenges.
+Since Company has been 
+undertaking several initiatives 
+to curb greenhouse gas 
+emissions from its operations, 
+it is less likely to pose any risk 
+to the Company.
+Key among these initiatives 
+is the transition to renewable 
+energy sources. This is 
+exemplified by the installation 
+of solar panels to meet energy 
+needs, and the switch to more 
+eco-friendly fuels, such as the 
+replacement of High-Speed 
+Diesel (HSD) with Piped 
+Natural Gas (PNG).
+Moreover, the Company 
+regularly measures its 
+greenhouse gas emissions 
+against international 
+standards, specifically ISO 
+14064 Part 1 and ISO 14064 
+Part 2. This commitment 
+to sustainability is further 
+extended to improving energy 
+efficiency through similar 
+strategies.
+Positive 
+Implications: 
+Investing in 
+emerging climate 
+technologies 
+may initially be 
+expensive, yet 
+the long-term 
+returns promise 
+significant 
+economic, social, 
+and environmental 
+benefits.
+4
+Waste 
+management
+Opportunity Waste management is a critical issue for the 
+Company. The improper handling of waste 
+could lead to legal consequences, financial 
+penalties, and damage to the Company’s 
+reputation.
+A significant portion of the waste generated 
+by the Company’s operations is electronic 
+waste (e-waste), which poses substantial risks. 
+Inadequate management of this waste could 
+result in environmental pollution, threatening 
+the health and safety of humans and other 
+living organisms.
+In essence, the Company is acutely aware of 
+the importance of effective waste management 
+and is committed to implementing robust 
+strategies to mitigate the potential hazards 
+associated with waste, particularly e-waste. 
+This commitment underscores the Company’s 
+dedication to environmental stewardship and 
+the well-being of all life forms.
+Dixon Technologies (India) 
+Limited takes a proactive 
+approach to waste 
+management. In partnership 
+with authorized third-party 
+vendors approved by Pollution 
+Control Boards, the Company 
+ensures the safe disposal of 
+all waste, including e-waste 
+and plastic waste.
+The process begins with 
+careful segregation at the 
+source. For example, in the 
+manufacturing facilities, 
+designated bins are used for 
+separate waste collection. 
+The segregated waste is then 
+recycled or safely disposed 
+of by authorized waste 
+collectors.
+Negative 
+Implications: 
+Although 
+partnering with 
+a government-
+certified recycler 
+may incur costs, 
+the resulting 
+environmental and 
+social advantages 
+far outweigh these 
+expenditures
+136
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+In the mobile manufacturing 
+division, no waste from the 
+production process remains 
+with the Company. All 
+materials, including packaging 
+waste, are returned to the 
+client, who is then responsible 
+for proper disposal. This 
+approach underscores Dixon 
+Technologies’ commitment to 
+environmental responsibility 
+and sustainable business 
+practices.
+5
+Product 
+Design and 
+Innovation
+Opportunity In the dynamic landscape of the electronics 
+industry, new technologies continually emerge 
+and existing ones becomes obsolete. This 
+constant flux significantly transforms not only 
+this sector but others as well.
+To keep pace with these evolving needs, it is 
+crucial to take proactive steps. These include 
+consistently innovating product design and 
+manufacturing processes to ensure they 
+remain cutting-edge.
+In line with this principle, Dixon has made 
+considerable investments to bolster its 
+Research and Development capabilities. 
+This strategic move aims to enhance the 
+Company’s design and operational processes, 
+thereby positioning Dixon at the forefront 
+of industry innovation. This commitment 
+underscores Dixon’s dedication to staying 
+ahead of the curve in a rapidly changing 
+industry landscape.
+Company has state-of-the 
+art R&D facilities which have 
+been working tirelessly on 
+innovative technologies 
+for better efficiency and 
+performance of the design 
+and manufacturing processes. 
+Positive 
+Implications: 
+Embracing new 
+technologies will 
+enhance product 
+performance and 
+efficiency, leading 
+to increased 
+customer trust and 
+satisfaction. This 
+could translate 
+into positive 
+revenue growth. 
+However, an 
+initial investment 
+is required to 
+facilitate this 
+process.
+6
+Corporate 
+Governance
+Opportunity The Company acknowledges the critical 
+importance of robust corporate governance. 
+Neglecting this aspect can lead to regulatory 
+non-compliance, resulting in penalties, fines, 
+and reputational damage.
+The Company is aware that inadequate 
+corporate governance practices can expose it 
+to legal and financial risks. To counteract these 
+vulnerabilities, the Company has established 
+a strong corporate governance framework. 
+This ensures strict adherence to all relevant 
+regulatory requirements.
+Company’s policies and 
+good corporate governance 
+practices will help to build 
+a good reputation of the 
+Company in the market.
+Company’s goal is that it will 
+continue to ensure best-of 
+the corporate governance 
+practices in its business 
+operations.
+Positive 
+Implications: 
+This will lead to 
+favorable financial 
+outcomes for 
+the Company, 
+enhance its 
+reputation for 
+compliance in the 
+marketplace, and 
+foster trust among 
+shareholders.”
+Corporate Overview
+Statutory Reports
+Financial Statements
+137
+Annual Report 2023-24
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+Moreover, the Company has formalized 
+various policies, reinforcing its commitment 
+to maintaining and promoting solid corporate 
+governance practices.
+To stay abreast of the latest laws, rules, 
+regulations, and amendments, the Company 
+utilizes an in-house compliance management 
+tool, Lex Comply. This tool is instrumental in 
+helping the Company navigate the complex 
+regulatory landscape effectively and efficiently.
+7
+Community 
+development
+Opportunity The Company is deeply committed to fostering 
+positive and enduring relationships with the 
+communities within its operational sphere. It 
+is actively engaged in numerous Corporate 
+Social Responsibility (CSR) initiatives, with 
+a particular focus on promoting education, 
+enhancing the well-being of senior citizens, 
+eradicating poverty, and providing essential 
+healthcare facilities to the community.
+The Company’s regular interaction with the 
+community not only strengthens relationships 
+but also establishes a profound connection 
+with them. This engagement is instrumental 
+in creating a long-term impact, significantly 
+contributing to the socio-economic well-being 
+of the community. The Company’s dedication 
+to these initiatives underscores its commitment 
+to social responsibility and community 
+development.
+Through its CSR activities, 
+Company has been trying to 
+address some of the major 
+issues being faced by the 
+community people. It results 
+into promoting equitable 
+growth/development of the 
+community closely linked with 
+the Company’s operations.
+Positive 
+Implications: 
+Extensive 
+community 
+initiatives can 
+enhance the 
+Company’s image, 
+thereby positively 
+influencing its 
+financial standing.
+It can also help in 
+creating long term 
+value for both 
+stakehlolder and 
+shareholder. 
+8
+Supply chain 
+management
+Risk
+In today’s globalized world, the supply chain 
+has evolved into a complex and expansive 
+network. A multitude of factors come into play 
+to ensure a robust and disruption-free supply 
+chain. These include geopolitical influences, 
+logistical considerations, the quality, 
+accessibility, and availability of materials, 
+among others.
+Therefore, it is of paramount importance 
+to establish an effective supply chain 
+management system. This system is not only 
+crucial for the ongoing operations of the 
+business but also plays a vital role in ensuring 
+the business’s resilience in emergency 
+situations. A well-managed supply chain can 
+help the business navigate through unforeseen 
+challenges, thereby contributing to its long-
+term sustainability.
+The Company recognizes the 
+significance of establishing 
+an efficient supply chain 
+management system, 
+understanding that an 
+uninterrupted and seamless 
+supply chain is crucial 
+for sustaining business 
+operations. 
+Negative 
+Implications: 
+Disruptions in 
+the supply chain 
+can results in 
+uncreased costs 
+and loss of 
+revenue. Non-
+compliances on 
+the part of the 
+Company can 
+attract penalties.
+138
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+To achieve this, the Company 
+has implemented specific 
+measures to avert supply 
+chain disruptions and ensure 
+the efficacy of its supply chain 
+processes. These initiatives 
+encompass prioritizing 
+local suppliers whenever 
+feasible and leveraging SAP 
+technologies for inventory 
+management. Moreover, 
+in the mobile and laptop 
+manufacturing sector, raw 
+materials for the production 
+process are provided by the 
+customer, highlighting their 
+responsibility in the supply 
+chain.
+9
+Climate 
+Action
+Risk
+The ramifications of this global phenomenon, 
+including heatwaves, floods, and landslides, 
+have become increasingly conspicuous, 
+necessitating the implementation of regulatory 
+measures.
+The electronics industry, akin to various 
+other sectors, is susceptible to the physical 
+and transitional impacts of climate change. 
+Recognizing the urgency of the situation, it 
+is imperative for companies to proactively 
+address these challenges.
+To navigate through these complexities, the 
+Company acknowledges the necessity to 
+assess potential factors that could obstruct its 
+operations. This strategic evaluation is crucial 
+in ensuring the Company’s resilience and 
+adaptability in the face of climate change.
+Dixon believes that the first 
+step towards improving 
+lies with the assessment of 
+where they currently stand. 
+Therefore, Dixon has been 
+considering conducting a 
+climate risk assessment to 
+clearly understand the impact 
+of climate change on their 
+operations. Dixon believes 
+that this process will enable 
+them in charting out effective 
+mitigation strategies.
+Negative 
+Implications: 
+In case of 
+negligence 
+towards climate 
+change, the 
+Company can 
+face major 
+challenges such 
+as loss of revenue, 
+brand value and 
+Goodwill.
+10
+Human 
+Rights
+Risk
+Human rights are universally inherent to 
+every individual. The Company recognizes 
+that the protection of these rights not only 
+cultivates trust but also bolsters its standing 
+among the public. On the flip side, any 
+infringement of human rights could lead to 
+legal consequences, potentially tarnishing the 
+Company’s reputation.
+Company has been 
+continually working to ensure 
+the proper the compliance 
+with the relevant statutory 
+laws and implementation of 
+its policies. It understands 
+that as society is evolving at 
+a rapid pace, it will also have 
+to evolve its practices to be 
+at par with the best practices 
+and create better working 
+environment for the people.
+Negative 
+Implications: 
+Upholding human 
+rights not only has 
+positive financial 
+implications for 
+the Company by 
+avoiding legal
+Corporate Overview
+Statutory Reports
+Financial Statements
+139
+Annual Report 2023-24
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+Driven by its core values, commitment, and 
+adherence to legal obligations, the Company 
+has taken commendable steps to safeguard 
+human rights. It has formulated and enforced 
+a range of policies, directing all associated 
+individuals to uphold dignity, respect, and 
+avoid any actions that could be perceived as 
+harassment.
+Moreover, the Company unequivocally 
+prohibits any involvement with child labour 
+and forced labour within its operations. This 
+prohibition is clearly stipulated in business 
+agreements and contracts, highlighting the 
+Company’s dedication to fostering ethical 
+practices across its supply chain. This 
+commitment reflects the Company’s proactive 
+approach in upholding human rights and 
+maintaining ethical conduct.
+penalties, but 
+also enhances 
+productivity 
+through improved 
+working 
+conditions. 
+Furthermore, it 
+contributes to a 
+favorable market 
+reputation.
+11
+Water 
+management
+Opportunity The Company sees it as an opportunity to 
+improve its water efficiency and minimize its 
+water costs.
+Sewage Treatment Plants 
+(STP) have been set up, RO 
+water which is discharged is 
+re-used in toilets, cleaning 
+utensils etc. and the 
+remaining water is used 
+for gardening purposes. In 
+some of our units, the treated 
+water is also released in 
+Municipal/ governmental 
+sewage pipelines. Rain water 
+harvesting have also been 
+installed at various locations 
+of the Company. Push Punch 
+water taps have also been 
+installed to ensure minimum 
+wastage.
+Positive 
+Implications 
+Measures to 
+reduce and 
+conserve water 
+would optimise 
+water resource 
+requirement 
+for wider 
+communities. 
+This would save 
+water needs and 
+create enabling 
+environment for 
+future.
+12
+Customer 
+relationship 
+management
+Opportunity The Company holds the conviction that 
+nurturing a robust relationship with its 
+customers is the cornerstone for enduring 
+business stability and expansion. This belief 
+underscores the Company’s commitment to 
+customer-centric practices, recognizing their 
+pivotal role in driving business success. The 
+Company, therefore, places immense value 
+on cultivating strong customer relationships, 
+viewing it as an essential strategy for 
+sustainable growth and prosperity. This 
+approach not only enhances customer 
+satisfaction but also contributes significantly to 
+the Company’s ongoing development.
+Positive 
+Implications: 
+Maintaining 
+better relationship 
+with customers 
+would result into 
+positive financial 
+implication.
+140
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+13
+Biodiversity 
+management
+Opportunity The Company recognizes biodiversity as a key 
+asset, largely unaffected by its operations. It 
+prides itself on the strategic placement of its 
+factories, none of which are located within or 
+in proximity to government-protected areas. 
+The Company’s business strategy is explicitly 
+designed to avoid the establishment of 
+factories in protected or world heritage sites, 
+underscoring its commitment to preserving 
+biodiversity. This approach results in a minimal 
+impact on biodiversity, demonstrating the 
+Company’s dedication to environmental 
+stewardship and sustainable practices. Thus, 
+the Company’s operations and biodiversity 
+exist in a harmonious balance, each minimally 
+affecting the other. This commitment not only 
+reflects the Company’s corporate responsibility 
+but also its respect for the natural world.
+Positive 
+Implications
+By improving 
+efficiency and 
+complying with 
+rules, regulations 
+and guidelines 
+and adopting 
+biodiversity 
+management 
+practices, 
+the Company 
+can improve 
+its financial 
+performance and 
+market standing.
+14
+Data security 
+and privacy
+Risk
+The Company is acutely aware that improper 
+data management can lead to substantial 
+regulatory consequences and tarnish its 
+reputation. In response to this, the Company 
+has been proactive in enhancing its 
+information technology system. A testament 
+to this commitment is the Company’s pursuit 
+of ISO 27001 certification for its IT system. 
+This internationally recognized standard 
+underscores the Company’s dedication to 
+maintaining the highest level of data security 
+and integrity. Thus, the Company not only 
+acknowledges the potential risks associated 
+with data mismanagement but also takes 
+tangible steps to mitigate them, thereby 
+safeguarding its reputation and regulatory 
+compliance.
+Company has formulated and 
+implemented data privacy 
+policy and also has been 
+strengthening information 
+security system. The Company 
+has been on a regular basis 
+monitoring their softwares 
+and framing stringent policies 
+for cyber security. The 
+Company has implemented 
+access control and IPS/IDS 
+in firewall which reduced the 
+risk of unwanted access and 
+hacking.
+This will have 
+positive financial 
+implications on 
+the Company 
+as it will prevent 
+data breaches 
+and other 
+cybersecurity 
+related risks
+Corporate Overview
+Statutory Reports
+Financial Statements
+141
+Annual Report 2023-24
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9 
+Policy and management processes
+1.
+a.	 Whether the Company’s policy/policies cover 
+each principle and its core elements of the 
+NGRBCs. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b.	 Has the policy been approved by the Board? 
+(Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+c.	 Weblink of the policies, if available
+3TG and Conflict of Minerals Policy (P-2)
+Policy on Anti-Bribery & Anti-Corruption policy (P-1)
+Policy on Anti- Discrimination and Non-Harassment (P-5)
+Risk Management Policy (P-6)
+Policy on Determination of Materiality of Events and Information (P-1)
+Code of Conduct for Independent Directors (P-1)
+Familiarization Programme for Independent Director 
+Corporate Social Responsibility Policy (P-8)
+Terms of appointment of Independent Directors 
+Insider Trading Policy (P-1)
+Business Responsibility Policy 
+Dixon Quality Policy (P-2)
+Dixon Environmental Policy (P-6)
+Code of Conduct (P-1 & P-3)
+Preservation of Documents and Archival Policy 
+Related Party Transaction (RPT) Policy (P-1)
+Whistle Blower Policy (P-1 & P-3)
+Nomination and Remuneration Policy (P-5)
+Policy on Material Subsidiary (P-4)
+Policy on Board Diversity 
+Occupational Health & Safety (OH&S) Policy (P-2 & P-3)
+Dixon Privacy Policy (P-9)
+Biodiversity Policy (P-6)
+Board Evaluation Policy 
+Stakeholders Engagement Policy (P-4)
+Conflict of Interest Policy (P-1)
+Succession Planning Policy
+Web-link of this policies: Policies at Dixon
+2.
+Whether the Company has translated the policy into 
+procedures. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.
+Do the enlisted policies extend to the Company’s 
+value chain partners? (Yes/No)
+Yes, only the Anti-bribery, Anti- corruption and Conflict of minerals 
+policy are extended to the value chain partners as well. The scope 
+of the policies being adopted by the Company includes employees, 
+directors, agents, consultants, contractors and customers and all such 
+people and institutions to which Dixon group (Dixon and its subsidiaries 
+and Joint venture Companies is associated with).
+142
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9 
+4.
+Name of the national and international codes/
+certifications/ labels/ standards (e.g. Forest 
+Stewardship Council, Fairtrade, Rainforest Alliance, 
+Trustee) standards (e.g. SA 8000, OHSAS, ISO, 
+BIS) adopted by the Company and mapped to each 
+principle. 
+Principle 1 Quality Management System (9001:2015),
+RBA (Responsible Business Alliance) VAP
+Principle 2 Environmental management System (14001:2015) Energy 
+Management System (50001:2018) ISO 9001, ISO 45001
+certification
+Principle 3 Occupational Health and Safety Management System 
+(45001:2018)
+Principle 5 Occupational Health and Safety Management System 
+(45001:2018)
+Principle 6 Environmental management System (14001:2015) Energy 
+Management System (50001:2018) ISO 9001, ISO 45001 certification
+Principle 9 ESD S20:20 RBA (Responsible Business Alliance) VAP, 
+formation Security Policy is aligned with the requirements of ISO 27001.
+5.
+Specific commitments, goals and targets set by the 
+Company with defined timelines, if any. 
+Environment:
+Energy Management and Emission Reduction
+ 
+ 
+Become carbon neutral by 2035
+ 
+ 
+Persistently reduce greenhouse gas emissions (YoY)
+Waste Management
+ 
+ 
+Recycle 100% of the e-waste by 2032
+Water Management
+ 
+ 
+Reduce water intensity by 5% by 2032
+ 
+ 
+Amplify rainwater harvesting capacity
+Biodiversity
+ 
+ 
+Commitment to not set up plants or operational activities in World
+Heritage areas and IUCN category I-IV protected areas
+Social:
+ 
+ 
+Zero occupational workplace fatality across all units (YoY)
+Governance:
+ 
+ 
+Compliance with statutory standards on environmental parameters
+ 
+ 
+Continue to apply innovative technologies to develop new products.
+6.
+Performance of the Company against the specific 
+commitments, goals and targets along with reasons, 
+in case the same are not met. 
+Starting from the Financial Year 2023-24, the Company has initiated a 
+formal ESG (Environmental, Social, and Governance) journey and the 
+Company closely monitors and evaluate its performance against these 
+targets on continous basis.
+During FY 2023-24, Dixon has aligned its operations to its ESG strategy. 
+Dixon can now track and monitor all the material topics in the ESG 
+domain.
+Governance, leadership and oversight
+7.
+Statement by Director, responsible for the Business Responsibility Report, highlighting ESG related challenges, targets 
+and achievements
+The Company is pleased to share its Business Responsibility and Sustainability Report (“BRSR”) for FY 2023-24. The report 
+aims to inform stakeholders of the Company’s sustainability performance. The Company is committed to sustainable growth, 
+delivering products that meet consumer needs while minimizing environmental impact. Within its environmental management 
+strategy, impactful measures address waste and water management challenges. Consistent monitoring and assessment have 
+led to significant improvements in energy and water efficiency.
+Furthermore, the Company actively engages stakeholders and prioritizes transparent communication to keep them informed 
+about sustainability efforts. The BRSR provides transparency, outlining the Company’s commitments and progress toward ESG 
+objectives. This underscores the Company’s unwavering dedication to sustainability and ethical business practices, guiding 
+stakeholders on the collective journey toward a more sustainable future.
+Recognizing that sustainability is an ongoing process, the Company invites everyone’s support in making a meaningful 
+difference.
+Corporate Overview
+Statutory Reports
+Financial Statements
+143
+Annual Report 2023-24
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9 
+8.
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy(ies). 
+Mr. Atul B. Lall, Vice Chairman & Managing Director
+Telephone: 0120-4737200
+Email: atullall@dixoninfo.com
+9.
+Does the Company have a specified Committee of 
+the Board/Director responsible for decision making 
+on sustainability related issues? (Yes / No). If yes, 
+provide details. 
+Yes, the Company has a specified Committee i.e. ESG Committee for 
+overseeing and implementation of the sustainability and ESG related 
+issues/ strategies of the Company. The Committee comprises of Mr. Atul 
+B. Lall, Vice Chairman and Managing Director as its Chairman and two 
+Independent Directors. The other details are available at https://www.
+dixoninfo.com/board-committees.php .
+10.
+Details of review of NGRBCs by the Company:
+Subject for review
+Indicate whether review 
+was undertaken by Director/
+Committee of the Board/any other 
+Committee
+Frequency (Annually/Half yearly/Quarterly/Any  
+other – please specify)
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9 
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9 
+Performance against above 
+policies and follow up action
+Y
+The Company is implementing and adhering to all the 
+policies in accordance with the applicable laws and 
+regulations. These policies are also reviewed on an as-
+needed basis by the Board of Directors and/or its ESG 
+committee with the aim of streamlining and establishing 
+sustainable measures in place for the Company.
+Compliance with statutory 
+requirements of relevance to 
+the principles, and, rectification 
+of any non-compliances
+Y
+The Company complies with all the regulatory and legal 
+requirements and is the same is periodically evaluated 
+by the respective Board committees or Board of 
+Directors. The Company ensures that it has implemented 
+policies to address its significant material areas such as 
+environmental protection, employee health and safety etc.
+11.
+Has the entity carried out independent assessment /
+evaluation of the working of its policies by an external 
+agency? (Yes/No). If yes, provide the name of the 
+agency.
+The Company acknowledges that while external assessments are not 
+conducted, it maintains a rigorous internal review process. This process 
+includes an independent audit mechanism that thoroughly examines 
+the implementation of all key policies. By prioritizing transparency and 
+accountability, the Company ensures that its policies are effectively 
+executed.
+12.	 If answer to question (1) above is ‘No’ i.e. not all Principles are covered by a Policy, reasons to be stated:
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9 
+The entity does not consider the Principle material to its 
+business (Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a position to 
+formulate and implement the policies on specified 
+principles (Yes/No) 
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No) 
+It is planned to be done in the next financial year (Yes/No) 
+Any other reason (please specify) 
+144
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+Section C: PRINCPLE WISE PERFORMANCE DISCLOSURE
+Principle 1: Businesses should conduct and govern themselves with integrity and in a 
+manner that is Ethical, Transparent and Accountable.
+SDG
+Dixon demonstrates a robust commitment to ethical practices through 
+its comprehensive Anti-Corruption and Anti-Bribery Policy. This policy 
+extends beyond Dixon’s personnel to include third parties associated 
+with the Company, aligning with both domestic and international laws. 
+Conflict of interest management is a priority, with strict guidelines for 
+directors and senior management to avoid any activities conflicting 
+with Dixon’s interests. Additionally, the approval of Related Party 
+Transactions (RPTs) adheres to rigorous compliance with the RPT 
+Policy. Dixon’s proactive approach, transparency, and ethical conduct 
+position them as a responsible and forward-thinking organisation.
+Essential Indicator:
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics/principles covered under the training and 
+its impact
+%age of persons in 
+respective category 
+covered by the 
+awareness programmes
+Board of Directors
+8
+Familiarization programs and strategic meets are 
+carried out by way of exhaustive presentations. 
+Moreover, for Directors reference, a Director’s 
+handbook is shared with the Directors 
+highlighting latest regulations, guidelines, rules 
+and responsibilities of Directors.
+100%
+Key Managerial Personnel*
+4
+100%
+Employees other than Board of 
+Directors and KMPs
+1
+All employees are required to undergo and sign 
+off the Code of Conduct, Anti- Corruption and 
+Anti-Bribery Policy.
+100%
+Workers
+1
+Workers are required to undergo training on the 
+Safety and Code of Conduct on timely basis
+100%
+*Includes 2 Board of Directors
+Corporate Overview
+Statutory Reports
+Financial Statements
+145
+Annual Report 2023-24
+2.	
+Details of fines /penalties/punishment/award/compounding fees/settlement amount paid in proceedings (by the 
+entity or by Directors/KMPs) with regulators/law enforcement agencies/judicial institutions, in the financial year:
+FY 2023-24
+FY 2022-23
+Directors
+No disciplinary action was taken against any 
+Directors/KMPs/employees/workers by any law 
+enforcement agency for charges of bribery/ corruption
+KMPs
+Employees
+Workers
+Monetary
+NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Amount 
+(In J)
+Brief of 
+the Case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty/ Fine
+During the FY 2023-24, No fines/ penalties have been levied on the Company 
+Settlement
+Compounding fee
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Brief of 
+the Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+ No non-monetary penalties have been levied on the Company
+Punishment
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where monetary or 
+non-monetary action has been appealed.
+	
+Not Applicable
+4.	
+Does the Company have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy.
+	
+Yes, Dixon has taken a firm stand against corruption by implementing a comprehensive Anti-Corruption and Anti-Bribery Policy. This 
+policy not only applies to its employees, including the Board of Directors, but also extends to third parties such as intermediaries, 
+consultants, and representatives who are associated with Dixon.
+	
+The policy, underscores Dixon’s commitment to combat bribery and corruption. It serves as a detailed guide, outlining various forms 
+of corruption, thereby providing clear directives for all individuals under its purview.
+	
+The website of the Company at https://www.dixoninfo.com/codes-policies.php .
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption: 
+6.	
+Details of complaints with regard to conflict of interest
+FY 2023-24
+FY 2022-23
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of 
+Conflict of Interest of the Directors
+0
+N.A. 
+0
+N.A.
+Number of complaints received in relation to issues of 
+Conflict of Interest of the KMPs
+0
+N.A. 
+0
+N.A.
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflict of interest. 
+	
+No complaints have been filed against the Board of Directors, Key Management Personnel (KMPs), Senior Management Employees, 
+or other Company staff. Consequently, No remedial actions were needed to be taken.
+146
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following 
+format:
+FY 2023-24
+FY 2022-23 
+Number of days of accounts payables
+ 69
+ 71
+Parameter
+Metrics
+FY 2023-24  
+(Current Financial Year)
+FY 2022-23  
+(Previous Financial Year)
+Concentration 
+of Purchases
+a.	 Purchases from trading houses as % of total purchases
+N.A.
+N.A.
+b.	 Number of trading houses where purchases are made 
+from
+N.A.
+N.A.
+c.	 Purchases from top 10 trading houses as % of total 
+purchases from trading houses
+N.A.
+N.A.
+Concentration 
+of Sales
+a.	 Sales to dealers / distributors as % of total sales
+N.A.
+N.A.
+b.	 Number of dealers / distributors to whom sales are made
+N.A.
+N.A.
+c.	 Sales to top 10 dealers / distributors as % of total sales to 
+dealers / distributors
+N.A.
+N.A.
+Share of RPTs 
+in
+a.	 Purchases (Purchases with related parties / Total 
+Purchases)
+4.53%
+0.49%
+b.	 Sales (Sales to related parties / Total Sales)
+2.35%
+4.97%
+c.	 Loans & advances (Loans & advances given to related 
+parties / Total loans & advances)
+100%
+100%
+d.	 Investments ( Investments in related parties / Total 
+Investments made)
+98.76%
+77.10%
+9.	
+Open-ness of business Provide details of concentration of purchases and sales with trading houses, dealers, and 
+related parties along-with loans and advances & investments, with related parties, in the following format:
+Leadership Indicators
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total number of awareness programmes 
+held
+Topics/principles covered 
+under the training
+%age of value chain partners covered (by value of business 
+done with such partners) under the awareness programmes
+Nil
+2.	
+Does the entity have processes in place to avoid/manage conflict of interests involving members of the Board? (Yes/
+No) If yes, provide details of the same.
+	
+Yes, the Company has well defined policy on Conflict of Interest under the code of conduct for directors and senior management 
+personnel, wherein, Directors and senior management personnel are not permitted to engage in any relationship, business or 
+activity that might be in conflict with the interests of the Company.
+	
+In case of Related Party Transactions (RPTs) as defined and identified under the Companies Act, 2013 and SEBI Listing Regulations 
+and the RPT Policy of the Company-The Audit Committee or the Board or the shareholders on the recommendation of the Board, 
+if required, as the case may be, shall approve the RPTs as and when they are entered into only after ensuring compliance with the 
+RPT Policy of the Company.
+	
+Apart from the aforesaid, the Company has a Code of coduct in place which requires that the Directors, Senior Management 
+Personnel shall abide by the policies and procedures that govern the conduct of the Company’s business and should avoid using 
+Company’s property or information or their position as Director or Senior Official for personal gain and competing with the Company.
+Corporate Overview
+Statutory Reports
+Financial Statements
+147
+Annual Report 2023-24
+Segment
+FY 2023-24
+FY 2022-23
+Details of improvements in environmental and social impacts
+R & D
+Nil
+Nil
+-
+Capex
+Nil
+Nil
+-
+Principle 2: Business should provide goods and services in a manner that is 
+sustainable and safe
+SDG
+Dixon Technologies demonstrates a strong commitment to sustainability 
+across its operations. Although the Company lacks a formal sustainable 
+procurement strategy, its consistent integration of sustainable sourcing 
+principles speaks to its dedication. Dixon excels in waste management by 
+complying with regulations and partnering with authorized recyclers for safe 
+disposal. All manufacturing facilities operate as Zero Waste to Landfill (ZWL). 
+The Company acknowledges Extended Producer Responsibility (EPR) and 
+aligns waste collection with regulatory requirements. While formal Life Cycle 
+Assessments haven’t been conducted, Dixon remains steadfast in mitigating 
+environmental impact. Despite some product categories having minimal 
+recycled input material, Dixon’s overall commitment to responsible resource 
+usage is commendable.
+Essential Indicator:
+1	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of products and processes to total R&D and capex investments made by the entity, respectively.
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No) 
+	
+	
+Dixon inherently believes in the principle of sustainable sourcing, and understands that sustainable sourcing / procurement 
+can greatly contribute towards ensuring responsible operations of the Company. Although the Company does not have an 
+established sustainable procurement strategy in place, it is continually undertaking measures to integrate the sustainable 
+sourcing / procurement principle in the overall procurement strategy of the Company.
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably? 
+	
+	
+Not Applicable
+148
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of 
+life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+(a)	 Plastics (including 
+packaging)
+Dixon Technologies is dedicated to enhancing waste management strategies across its facilities. The 
+Company has robust waste management systems in place to ensure waste disposal in compliance with 
+applicable legislations/laws. Operating on a B2B model, Dixon Technologies manufactures products for 
+some of the leading companies in the electronics industry. During these operations, various types of waste, 
+such as plastic and electronic waste, are generated. Dixon Technologies has established partnerships 
+with authorized third-party recyclers, like Greeniva Recycler and other waste recyclers, to safely dispose of 
+processing waste. However, since the Company operates in the B2B segment, the provision of reclaiming 
+products is not applicable.
+All manufacturing facilities of Dixon Technologies are Zero Waste to Landfill (ZWL), demonstrating the 
+Company’s commitment to sustainable practices and reducing its environmental impact. It’s reassuring to 
+note that any waste generated at the factories is securely disposed of, and disposal agencies approved by 
+Central and State Pollution Control Boards are engaged by the Company for waste disposal.
+(b)	E-waste
+(c)	 Hazardous waste
+(d)	Other waste.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the 
+waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same. 
+	
+Yes, Dixon Technologies acknowledges the applicability of the Extended Producer Responsibility (EPR) to its operations. The 
+Company’s waste collection plan aligns seamlessly with the EPR plan that has been submitted to the Pollution Control Boards 
+(PCB). This alignment underscores Dixon’s commitment to responsible waste management and adherence to regulatory standards.
+Leadership Indicators 
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, 
+briefly describe the same along-with action taken to mitigate the same.
+NIC Code 
+Name of 
+Product /
+Service
+% of total 
+Turnover 
+contributed
+Boundary for which the 
+Life Cycle Perspective / 
+Assessment was conducted
+Whether conducted by 
+independent external 
+agency (Yes/No)
+Results communicated in 
+public domain (Yes/No) If 
+yes, provide the web-link.
+No the Company has not conducted Life Cycle Assessment for any of its products.
+Name of Product / Service
+Description of the risk / concern
+Action Taken
+Not Applicable
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry). 
+Indicate input material
+Recycled or re-used input material to total material
+FY 2023-24
+FY 2022-23
+Nil
+Corporate Overview
+Statutory Reports
+Financial Statements
+149
+Annual Report 2023-24
+Indicate product category
+Reclaimed products and their packaging materials as % of total 
+products sold in respective category
+NA
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and 
+safely disposed, as per the following format: 
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category. 
+Particulars
+FY 2023-24
+FY 2022-23
+Re-used
+Recycled
+Safely Disposed
+Re-used
+Recycled
+Safely Disposed
+Plastics (including packaging)
+Not Applicable as the Company does not receive any of the products and packaging material at 
+the end of life of products.
+E-waste
+Hazardous waste
+Other waste
+Battery waste
+Bio-medical waste
+150
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+Principle 3: Business should respect and promote the wellbeing of all 
+employees, including those in their value chains
+SDG
+Dixon Technologies prioritizes employee well-being by providing health 
+insurance, accident insurance, maternity benefits, and paternity benefits. 
+Their commitment to work-life balance is evident through day care facilities. 
+Retirement benefits include PF, gratuity, and ESI coverage. Dixon actively 
+enhances workplace accessibility for differently-abled individuals, fostering an 
+inclusive environment with equal opportunities and gender diversity. Adhering 
+to ISO 45001 standards, they implement safety training and protocols, aiming 
+for zero occupational fatalities. Employees can raise concerns through Whistle 
+Blower Policies and POSH Committees. Dixon ensures timely statutory dues 
+payment and collaborates with value chain partners. While specific transition 
+programs are absent, continuous training prepares employees for post-
+retirement opportunities. Their culture emphasizes safety and well-being.
+Essential Indicator:
+1.	
+a.	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity benefits
+Day Care facilities
+Number (B)
+% (B/A)
+Number (C)
+% (C/A)
+Number (D)
+% (D/A)
+Number (E)
+% (E/A)
+Number (F) % (F/A)
+Permanent employees
+Male
+1,446
+1,446
+100%
+1,446
+100%
+ N.A.
+N.A.
+1,446
+100%
+1,446
+100%
+Female
+76
+76
+100%
+76
+100%
+76
+100%
+ N.A.
+N.A.
+76
+100%
+Total
+1,522
+1,522
+100%
+1,522
+100%
+ 76
+4.99% 
+1,446
+95%
+1,522
+100%
+Other than Permanent employees
+Male
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Corporate Overview
+Statutory Reports
+Financial Statements
+151
+Annual Report 2023-24
+Category
+% of employees covered by
+Total 
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity benefits
+Day Care facilities
+Number (B)
+% (B/A)
+Number (C)
+% (C/A)
+Number (D)
+% (D/A)
+Number (E)
+% (E/A)
+Number (F) % (F/A)
+Permanent Workers
+Male
+162
+162
+100%
+162
+100%
+ N.A.
+N.A.
+162
+100%
+162
+100%
+Female
+9
+9
+100%
+9
+100%
+9
+100%
+N.A.
+N.A.
+9
+100%
+Total
+171
+171
+100%
+171
+100%
+9
+5.26%
+162
+94.74%
+171
+100%
+Other than Permanent Workers
+Male
+3,985
+3,985
+100%
+3,985
+100%
+ N.A.
+N.A.
+3,985
+100%
+3,985
+100%
+Female
+1,971
+1,971
+100%
+1,971
+100%
+1,971
+100%
+N.A.
+N.A. 
+1,971
+100%
+Total
+5,956
+5,956
+100%
+5,956
+100%
+1,971
+33.09%
+3,985
+66.91%
+5,956
+100%
+b.	
+Details of measures for the well-being of workers:
+Note: All the permanent workers are covered under ESIC.
+c.	
+Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in the following 
+format –
+FY 2023-24  
+Current Financial Year
+FY 23  
+Previous Financial Year
+Cost incurred on well- being measures as a % of total revenue of the Company
+0.08%
+0.04%
+Benefits
+FY 2023-24
+FY 2022-23
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Y
+100%
+100%
+Y
+Gratuity
+100%
+100%
+N.A.
+100%
+100%
+N.A.
+ESI*
+100%
+100%
+Y
+100%
+100%
+Y
+Others- please specify
+Dixon, prioritizes the well-being of its workforce. Through targeted initiatives, the Company promote positivity, wellness, and good health 
+among employees and their families. By actively engaging in these efforts, Dixon demonstrates its commitment to employee care and 
+holistic support.
+2.	
+Details of retirement benefits, for Current and Previous Financial Year. 
+The Company also offers provisions for PF, Gratuity and ESI to the employees and the details are provided below:
+*Most of the workers are covered under ESI. Those who are out of ESI, have been provided medical insurance policy voluntarily.
+3.	
+Accessibility of workplaces 
+Are the premises/offices of the Company accessible to differently abled employees and workers, as per the requirements of the Rights 
+of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the Company in this regard. 
+	
+Dixon Technologies is committed to upholding the Rights of Persons with Disabilities Act, 2016. As of now, the Company does 
+not have any employees or workers with disabilities. However, in a bid to ensure that individuals with disabilities can access the 
+premises and offices with ease, the Company is diligently working on enhancing its infrastructure. This includes the construction of 
+ramps and the installation of lifts, among other modifications. These efforts underscore the Company’s dedication to inclusivity and 
+accessibility for all.
+152
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+4.	
+Does the Company have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy. 
+	
+Dixon Technologies champions diversity and actively works to eradicate bias based on caste, creed, religion, or gender. The 
+Company boasts a diverse workforce and ensures equal opportunities for growth and development for all its employees, in line 
+with its Code of Conduct. A significant number of women are employed across various production lines, reflecting the Company’s 
+commitment to gender diversity. Dixon Technologies always ensures pay parity, further emphasizing its dedication to equality. 
+While the Company does have a formal anti- discrimination and non-harassment policy, its primary objective has always been to 
+provide equal work opportunities for all. Dixon Technologies strives to create a workplace where diversity is celebrated, inclusion 
+is the norm, and equal employment opportunities are accessible to all, fostering innovation, creativity, and success across the 
+Company by ensuring, 
+	
+(a)	
+Unbiased recruitment process, 
+	
+(b)	 Diverse candidate sourcing, 
+	
+(c)	
+Inclusive work environment, 
+	
+(d)	 Career Development, 
+	
+(e)	
+Regular monitoring and assessment.
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave. 
+Gender
+Permanent Employees
+Permanent Workers
+Return to work rate
+Retention Rate
+Return to work rate
+Retention Rate
+Male
+Nil
+Nil
+Nil
+Nil
+Female (Maternity leave)
+Nil
+Nil
+Nil
+Nil
+Total
+Nil
+Nil
+Nil
+Nil
+Yes/No
+(If yes, then give details of the mechanism in brief)
+Permanent workers
+Yes, Employees at Dixon can raise any concerns to their business heads or to the Chief 
+Human Resources Officer (CHRO) of Dixon. Dixon has multiple lines of communication 
+open for employees and workers to discuss their concerns. Dixon also has a Whistle Blower 
+Policy/ Vigil Mechanism and POSH Committees across all the units of the Company to 
+address any grievances and complaints
+Other than permanent workers
+Permanent employees
+Other than permanent employees
+No maternity or paternity leave was availed during the FY 2023-24.
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief. 
+7.	
+Membership of employees and workers in association(s) or Unions recognised by the listed entity:
+Category
+FY 2023-24
+FY 2022-23
+Total employees/
+workers in 
+respective 
+category (A)
+No. of employees /
+workers in respective 
+category, who are part of 
+association(s) or Union (B)
+%(B/A)
+Total employees/
+workers in 
+respective 
+category (C)
+No. of employees /
+workers in respective 
+category, who are part of 
+association(s) or Union (D) 
+%(D/C)
+Total Permanent 
+Employees
+1,522
+0
+NIL
+1,551
+0
+NIL
+- Male 
+1,446
+0
+NIL
+1,491
+0
+NIL
+- Female
+76
+0
+NIL
+60
+0
+NIL
+Total Permanent 
+Workers
+171
+0
+NIL
+206
+0
+NIL
+- Male 
+162
+0
+NIL
+203
+0
+NIL
+- Female
+9
+0
+NIL
+3
+0
+NIL
+While Dixon may not have any trade association(s) or unions, Dixon acknowledges the freedom of association and collective bargaining.
+Corporate Overview
+Statutory Reports
+Financial Statements
+153
+Annual Report 2023-24
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+1,446
+1,291
+89.28%
+1491
+1,271
+85.24%
+Female
+76
+65
+85.52%
+60
+46
+76.67%
+Total
+1,522
+1,356
+89.09%
+1551
+1,317
+84.91%
+Workers
+Male
+4,147
+4,147
+100%
+7,353
+7,353
+100%
+Female
+1,980
+1,980
+100%
+3,853
+3,853
+100%
+Total
+6,127
+6,127
+100%
+11,206
+11,206
+100%
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+On health and safety 
+measures
+On skill upgradation
+Total (D)
+On health and safety 
+measures
+On skill upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+1,446
+721
+49.86%
+799
+55.26%
+1,491
+0
+N.A.
+629
+42.18%
+Female
+76
+29
+38.16%
+49
+64.47%
+60
+0
+N.A.
+23
+38.33%
+Total
+1,522
+750
+49.28%
+848
+55.72%
+1,551
+0
+N.A.
+652
+42.03%
+Workers
+Male
+4,147
+4,147
+100%
+4,147
+100%
+7,353
+7,353
+100%
+7,353
+100%
+Female
+1,980
+1,980
+100%
+1,980
+100%
+3,853
+3,853
+100%
+3,853
+100%
+Total
+6,127
+6,127
+100%
+6,127
+100%
+11,206
+11,206
+100%
+11,206
+100%
+8.	
+Details of training given to employees and workers:
+9.	
+Details of performance and career development reviews of employees and workers: 
+10.	 Health and Safety Management System: 
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, the coverage 
+such system? 
+Dixon Technologies has implemented an occupational health and safety management system in alignment with ISO 45001 standards 
+across all its plant and office locations. Dixon Technologies implements comprehensive safety training programs, clear protocols, 
+and procedures to minimize workplace risks. Dixon Technologies provides its employees with appropriate safety equipment and 
+gear, and regular audits are conducted to ensure compliance with safety standards. Dixon Technologies fosters a culture of safety by 
+encouraging employee engagement, feedback, and continuous improvement in its safety practices. Dixon Technologies executes 
+regular safety audits and continuous monitoring to ensure a safe and productive work environment for all employees. 
+This practice not only attracts and retains talent but also ensures superior governance within Dixon Technologies. Dixon Technologies 
+also has a dedicated Occupational Health and Safety (OHS) policy. This policy underscores Dixon Technologies’ unwavering 
+commitment to achieving zero occupational fatalities across all plant and office locations and outlines the principles to be adhered 
+to in order to fulfil this commitment.
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity? 
+Dixon Technologies has a robust Occupational Health and Safety (OHS) framework in place, which facilitates the identification, 
+assessment, and mitigation of risks. The Company employs a comprehensive Hazard Identification and Risk Assessment (HIRA) 
+approach to pinpoint the risks associated with various tasks.
+To identify risks, several measures are implemented, including regular workplace inspections and in-depth discussions with 
+employees and workers to understand and identify potential risks or threats. Additionally, each branch maintains an OHS observation 
+sheet, where any incidents are diligently recorded.
+Once risks are identified, they are thoroughly analysed and evaluated to understand their severity, likelihood, nature, and scope. 
+Based on this process, a robust control system is established to mitigate these risks.
+154
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+To ensure the effectiveness of the Health and Safety management system, Dixon Technologies conducts regular audits, both 
+internal and external. This practice underscores the Company’s commitment to maintaining a safe and healthy work environment 
+for all its employees.
+c.	
+Whether you have processes for workers to report work related hazards and to remove themselves from such risks. (Y/N) 
+Yes, Dixon Technologies (India) Limited has established robust processes that empower its workforce to report work-related hazards 
+and to extricate themselves from such risks. The Company places a high emphasis on extensive training for all its employees, 
+enabling them to identify work-related hazards effectively.
+The Company has designated unit safety officers who serve as the primary point of contact for employees to report any work-related 
+hazards and risks. These officers are tasked with resolving the issues and eliminating the risks within a stipulated timeframe. If 
+necessary, they escalate the risks to higher management for further action.
+In the Company’s annual report for 2023-24, various aspects related to safety are detailed, including the number of safety-related 
+incidents, measures taken to ensure a safe and healthy workplace, the number of complaints made by employees and workers, 
+assessments for the year, and details of any corrective action taken or underway to address safety-related incidents are shown.
+This comprehensive approach underscores Dixon Technologies’ commitment to maintaining a safe and healthy work environment 
+for its employees, thereby fostering productivity and well-being.
+d. 	
+Do the employees/ workers of the entity have access to non-occupational medical and healthcare services? (Yes/ No) 
+	
+Yes, the employees of the entity have access to non-occupational medical and healthcare services.
+11.	 Details of safety related incidents, in the following format: 
+Safety Incident /Number
+Category
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one million-
+person hours worked)
+Employees
+0
+0
+Workers
+0
+0
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+0
+0
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace. 
+	
+Dixon prioritizes fostering a culture of safety through ongoing efforts that focus on enhancing the well-being of its workforce. The 
+Company conducts regular safety training sessions, workshops, and drills to equip employees with essential skills and knowledge. 
+Open communication channels encourage feedback and prompt addressing of safety concerns, fostering a collaborative 
+safety culture. To continuously improve safety practices, Dixon analyses incident data, conducts safety audits, and implements 
+recommendations from internal and external reviews. Investment in advanced safety technologies and equipment further 
+minimizes risks and enhances emergency response capabilities. Additionally, Dixon emphasizes employee well-being through 
+wellness programs, mental health support, and work-life balance initiatives. By integrating proactive safety measures, continuous 
+improvement strategies, and well-being initiatives, Dixon maintains a culture that prioritizes the health, safety, and overall well-being 
+of its workforce. Dixon also has a robust EHS Management Systems in place. The Company also has relevant certifications such as 
+ISO 9001:2015, ISO 14001:2015 & HIRA, RA and CAPA.
+13.	 Number of Complaints on the following made by employees and workers: 
+FY 2023-24
+FY 2022-23
+Filed during the 
+year
+Pending resolution at 
+the end of the year
+Remarks
+Filed during 
+the year
+Pending resolution at 
+the end of the year
+Remarks
+Working Conditions
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Health & Safety
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Corporate Overview
+Statutory Reports
+Financial Statements
+155
+Annual Report 2023-24
+14.	 Assessments for the year:
+% of plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+Health and safety practices
+100% of the plants are assessed by the Company’s Internal Auditors of the Company
+Working Conditions
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions. 
+Dixon Technologies (India) Limited has implemented a Corrective and Preventive Action (CAPA) Standard Operating Procedure 
+(SOP) for each safety-related observation. This proactive approach ensures that any non-compliance issues identified during audits 
+are promptly addressed and resolved at the earliest opportunity.
+Moreover, the Company conducts regular safety and security audits across all its plants. This systematic review process not only 
+helps to maintain the highest safety standards but also fosters a culture of continuous improvement within the organisation.
+Leadership Indicators 
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) 
+(B) Workers (Y/N). 
+Dixon strongly believes that good health is an essential part of life, and having a healthy workforce contributes to the productivity. 
+To promote employee wellness, the Company organises free consultations with doctors at various units from time to time. Yes, 
+life insurance or any compensatory package is provided through EPFO and ESIC and it is given to all employees and workers. 
+Moreover, Dixon has its own Welfare fund which is utilised for the purpose of making payments in the event of death of any 
+employee or workers.
+2.	
+Provide the measures undertaken by the entity to ensure payment of statutory dues by the value chain partners. 
+The Company has established sufficient mechanisms to ensure that the necessary statutory dues related to its 
+transactions with value chain partners are deducted and deposited in accordance with applicable regulations. These 
+processes are regularly reviewed through standard audit procedures. In addition to this, the service contracts between 
+Dixon and service provider also contains clause for necessary statutory payments like PF, ESI etc. by service provider. 
+The Company also ensures that timely payment is made to the workers, vendors, etc. to comply with the statutory requirements.
+3.	
+Provide the number of employees/workers having suffered grave consequences due to work-related injury/ill-health/
+fatalities (as reported in Q11 of Essential Indicators above), who are rehabilitated and placed in suitable employment 
+or whose family members have been placed in suitable employment: 
+Total No. of affected 
+employees/workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose family 
+members have been placed in suitable employment
+FY 2023-24
+FY 2022-23
+FY 2023-24
+FY 2022-23
+Employees
+Nil
+Nil
+Nil
+Nil
+Workers
+Nil
+Nil
+Nil
+Nil
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management of 
+career endings resulting from retirement or termination of employment? (Yes/ No)
+The organisation consistently offers programs for enhancing skills throughout the tenure of employment. These training initiatives are 
+tailored to meet the distinct needs of each role and functional area. This approach empowers each employee to seek opportunities 
+for employment after retirement, leveraging the skills gained during their service.
+Moreover, if an employee is suitable and capable, Dixon takes into consideration his/her continued employability.
+156
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+5.	
+Details on assessment of value chain partners: 
+% of value chain partners  
+(by value of business done with such partners) that were assessed
+Health and safety practices
+The Company has not yet undertaken any assessment of value chain partners.
+Working Conditions
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners. 
+	
+Not Applicable
+Corporate Overview
+Statutory Reports
+Financial Statements
+157
+Annual Report 2023-24
+Principle 4: Business should respect the interests of and be responsive to all its 
+stakeholders
+SDG
+Dixon Technologies recognizes the importance of engaging with key 
+stakeholders, including investors, employees, directors, communities, 
+customers, suppliers, and government authorities. The Company prioritizes 
+transparent communication to foster trust and ensure regulatory compliance. 
+Dixon actively promotes employee engagement, well-being, and career 
+growth through regular interactions, surveys, and training programs, creating 
+a harmonious workplace. The Board diligently reviews stakeholder feedback 
+on economic, environmental, and social matters, aligning with stakeholder 
+priorities through the ESG Committee and corporate social responsibility (CSR) 
+initiatives. Stakeholder consultations inform Dixon’s materiality assessment, 
+shaping policies and procedures. Beyond legal obligations, Dixon’s CSR 
+initiatives focus on vulnerable and marginalized groups, emphasizing 
+education, health, and skill development.
+Essential indicators 
+1.	
+Describe the processes for identifying key stakeholder groups of the Company. 
+Dixon Technologies acknowledges the integral role of stakeholders in creating lasting value for the Company and driving business 
+growth. As such, the Company prioritizes the identification of key stakeholders and the establishment of a solid engagement 
+framework for regular interaction. This ongoing stakeholder engagement process fosters a strong bond and understanding between 
+the Company and its stakeholders.
+While Dixon Technologies does not adhere to a formal procedure for stakeholder identification, it utilizes a flexible approach. This 
+method recognizes groups and entities as stakeholders if their views, actions, and opinions significantly influence the business and 
+are considerably affected by the Company’s operations.
+Consequently, Dixon Technologies identifies investors, shareholders, bankers, directors, employees, local communities, suppliers, 
+contractors, customers, and governmental authorities as key stakeholders. The Company also maintains a Stakeholder Engagement 
+policy, which is available on its website under ‘Codes and Policies and Terms.
+158
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+2.	
+List stakeholder groups identified as key for the Company and the frequency of engagement with each stakeholder 
+group.
+Stakeholder 
+Group
+Whether 
+identified as 
+vulnerable & 
+marginalised 
+group (Yes/
+No)
+Channels of communication 
+(Emails, SMS, Newspapers, 
+Pamphlets, Advertisements, 
+Community Meetings, Notice 
+Board, Website, Others)
+Frequency of 
+engagement 
+(Annually, 
+Half yearly, 
+quarterly /
+others- please 
+specify)
+Purpose and scope of engagement including 
+key topics and concerns raised during such 
+engagement 
+Investors/ 
+Shareh-
+olders/ 
+Bankers
+No
+ 
+ 
+Annual General meeting
+ 
+ 
+Company’s website 
+ 
+ 
+Investor / analyst meet / calls 
+ 
+ 
+Annual report
+Quarterly, 
+annually and 
+as and when 
+required
+The primary objective of Dixon Technologies 
+is to adhere to all statutory requirements and 
+to transparently communicate the Company’s 
+performance. This commitment not only ensures 
+regulatory compliance but also fosters trust and 
+confidence among all stakeholders.
+Employees
+No
+Emails, Employee survey, Notice 
+board, Annual performance 
+review, website, meetings, 
+trainings etc. Company website, 
+Employee engagement activities
+As and when 
+required
+Dixon Technologies is deeply committed to nurturing 
+a harmonious relationship between the organisation 
+and its employees. This symbiotic relationship is 
+instrumental in enhancing employee well-being, 
+boosting performance, and fostering career growth. 
+The Company believes that this approach not only 
+contributes to individual employee success but also 
+propels the overall progress of the organisation.
+Directors
+No
+Quarterly board meeting is 
+conducted with the attendance 
+of the directors of the Company.
+As and when 
+required
+Dixon Technologies is steadfast in its mission to 
+devise a forward-thinking, long-term strategy that 
+serves as the Company’s guiding compass. This 
+strategy is meticulously crafted with a keen eye 
+on the future, ensuring the Company’s growth and 
+sustainability. Regular oversight is maintained over 
+the strategy’s execution, ensuring its alignment with 
+the Company’s vision. The Company’s performance 
+is continually evaluated against this strategic 
+roadmap, fostering a culture of accountability and 
+excellence. This diligent approach underscores 
+Dixon Technologies’ commitment to its strategic 
+objectives and its relentless pursuit of success.
+Community
+Yes
+CSR Projects, Implementation 
+and impact assessment of CSR 
+projects
+On regular 
+basis
+The objective is to enhance the social wellbeing of 
+community members, thereby cultivating a robust 
+bond that unites them all.
+Customer & 
+Suppliers
+No
+Emails, Newspaper, Advertising, 
+websites, face-to-face meetings, 
+phone calls and social media, 
+Company website
+As and when 
+required
+Engaging consistently with customers and suppliers, 
+the key pillars of the business, allows for prompt 
+resolution of their concerns, thereby fostering robust 
+relationships. Some of the key topics and concerns 
+are customer feedback, business development and 
+regular audits.
+Government 
+Authorities
+No
+Regulatory Bodies – SEBI, Stock 
+Exchanges, Ministry of Corporate 
+Affairs, RoC. Through various 
+Stock Exchange and ROC Filings, 
+which includes intimation of 
+events categorized under Reg 30 
+of SEBI LODR, other event-based 
+compliances such as Corporate 
+Governance Report, Filing of 
+Financial Statements, etc.
+Quarterly, half 
+yearly and 
+as and when 
+required.
+Purpose is to comply with the regulatory 
+requirements.
+Corporate Overview
+Statutory Reports
+Financial Statements
+159
+Annual Report 2023-24
+Leadership Indicators 
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social 
+topics or if consultation is delegated, how is feedback from such consultations provided to the Board. 
+Dixon Technologies strives to grow its business while protecting nature and doing good for the community. Dixon Technologies’ 
+engagement with its broader stakeholder community is undertaken by respective functions in consultation with the Management 
+team. Feedback from different stakeholder groups on environmental, social, or governance topics is shared with the ESG Committee 
+of the Board. Dixon Technologies also has a CSR committee to review, monitor, and provide strategic direction to its CSR practices 
+and social initiatives. Additionally, the Risk Management Committee at Dixon Technologies plays a crucial role in identifying risks 
+that can potentially impact operations and developing policies and strategies to minimize these risks.
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and social 
+topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these topics 
+were incorporated into policies and activities of the entity.
+Yes, Dixon Technologies consistently engages in stakeholder consultations, actively seeking input from relevant parties. Dixon 
+Technologies conducted a materiality assessment to identify and prioritize sustainability issues across its operations so that it 
+can focus on the key issues affecting its stakeholders. A sustainability issue is material to Dixon Technologies if it is considered 
+a principal risk or an element of a principal risk that could impact its business or performance or if its key stakeholders deem it 
+essential. In addition, Dixon Technologies uses stakeholder insights to gauge the relative importance of each issue. Based on 
+these valuable insights, Dixon Technologies formulates and adopts policies and procedures that align with its mission and goals. 
+Also, the Company’s governance structure ensures seamless flow of information and seeking inputs from various stakeholders 
+ultimately ensuring that Company’s ESG goals are aligned with Company’s operations. 
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups. 
+The organisation’s commitment to community development extends beyond legal obligations. It actively assesses the evolving 
+needs of the communities where it operates. Through strategic CSR initiatives and collaboration with local NGOs, the Company 
+addresses key areas such as education, health, skill development, and infrastructure enhancement. Some of the key actions 
+taken to address the concerns of vulnerable/ marginalised groups through various initiatives are specified in the Corporate Social 
+Responsibility Annexure of the Board Report. 
+160
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+Principle 5: Business should respect and promote human rights
+SDG
+Dixon Technologies demonstrates a strong commitment to upholding human 
+rights within its business operations. The Company has established robust 
+mechanisms, including a Grievance Committee and a Chief Human Resource 
+Officer, to address any human rights concerns. It encourages ethical conduct in 
+all business activities and provides channels for individuals to lodge complaints.
+The Company has a firm policy enforcement mechanism supervised by the 
+HR Department and an Internal Committee. Dixon has a dedicated Grievance 
+Committee and a separate Prevention of Sexual Harassment (POSH) 
+committee to ensure swift and effective resolution of concerns.
+Dixon Technologies has a zero-tolerance policy towards any form of discrimination or harassment. It provides clear guidelines on 
+what constitutes such behaviours and has established confidential channels for reporting any incidents. The Company conducts 
+regular training sessions to maintain a respectful and inclusive workplace.
+The Company integrates human rights requirements, such as prohibitions against forced and child labour, into its business 
+agreements and contracts. It conducts regular independent audits of its plant operations to prevent any form of child labour 
+or malpractice.
+Dixon Technologies conducts a yearly ‘Great Place to work’ survey and has won the award for three consecutive years. The 
+Company’s premises are designed to be accessible to all visitors, including those with different abilities, in compliance with the 
+Rights of Persons with Disabilities Act, 2016.
+In summary, Dixon Technologies is committed to promoting a safe, inclusive, and respectful workplace environment, demonstrating 
+its core values of integrity, fairness, and respect for all individuals within the organisation. This commitment not only aligns with 
+the Company’s core values but also strengthens its organisational culture, fostering collaboration, innovation, and mutual respect 
+across the Company. 
+Corporate Overview
+Statutory Reports
+Financial Statements
+161
+Annual Report 2023-24
+Essential indicators 
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format: 
+2.	
+Details of minimum wages paid to employees and workers, in the following format: 
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of employees /
+workers covered (B)
+% (B/A)
+Total (C)
+No. of employees /
+workers covered (D)
+% (D/C)
+Employees
+Permanent
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Other than Permanent
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Total Employees
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Workers
+Permanent
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Other than Permanent
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Total Workers
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+Total (D)
+Equal to Minimum 
+Wage
+More than Minimum 
+Wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+Male
+1,446
+0
+N.A.
+1,446
+100%
+1,694
+0
+N.A.
+1,694
+100%
+Female
+76
+0
+N.A.
+76
+100%
+63
+0
+N.A.
+63
+100%
+Other than Permanent
+Male
+0
+0
+N.A.
+0
+N.A
+0
+0
+N.A.
+0
+N.A.
+Female
+0
+0
+N.A.
+0
+N.A
+0
+0
+N.A.
+0
+N.A.
+Workers
+Permanent
+Male
+162
+0
+N.A.
+162
+100%
+203
+0
+N.A.
+203
+100%
+Female
+9
+0
+N.A.
+9
+100%
+3
+0
+N.A.
+3
+100%
+Other than Permanent
+Male
+3,985
+1,580
+39.65%
+2,405
+60.35%
+7,150
+3,504
+49%
+3,646
+51%
+Female
+1,971
+1,578
+80.06%
+392
+19.89%
+3,850
+1,848
+48%
+2,002
+52%
+3.	
+Details of remuneration/salary/wages, in the following format: 
+a.	
+The details are provided below:
+Male
+Female
+Number
+Median remuneration/salary/
+wages of respective category
+Number
+Median remuneration/salary/
+wages of respective category
+Board of Directors (BoD)
+7
+2,53,00,000
+1
+14,00,000
+Key Managerial Personnel (KMP)#
+2
+2,73,00,000
+0
+Nil
+Employees other than BoD and KMP 
+(Permanent) 
+1,442
+4,27,680
+76
+4,56,750
+Workers (Permanent)
+162
+2,32,248
+9
+2,25,215
+Note: The above figures are taken on standalone basis
+#KMP excludes whole time Director and Managing Director as they are included in BoD
+162
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY 2023-24  
+Current Financial Year
+FY 2022-23  
+Previous Financial Year
+Gross wages paid to females as % of total wages
+4.51%
+2.79%
+Note: The data is for permanent employees of the Company.
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No) 
+Yes, the Human resource division are tasked with addressing human rights concerns. Upholding the highest standards of Corporate 
+Governance, the Company ensures all business activities are conducted ethically. Should any issues arise, individuals are 
+encouraged to reach out to the relevant authority to submit a complaint, which will be promptly addressed.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+Dixon stands firm in its commitment to uphold human rights, with a robust policy enforcement mechanism supervised by the HR 
+Department and regularly scrutinized by an Internal Committee. The HR departments at all locations, including plants and the head-
+office, consistently monitor human rights considerations. Employees have unrestricted access to the DARWIN portal, allowing them 
+to anonymously voice grievances or report potential human rights infringements.
+Dixon has instituted a comprehensive process to address human rights grievances, including a dedicated Grievance Committee 
+for swift and effective resolution of employee concerns. A separate POSH (Prevention of Sexual Harassment) committee is also 
+in place, underscoring Dixon’s meticulous attention to such sensitive issues. Furthermore, all stakeholders, including employees, 
+workers, senior management, can report human rights concerns to their superiors or via the whistle-blower mechanism.
+6.	
+Number of Complaints on the following made by employees and workers: 
+	
+The details are provided below:
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending resolution at 
+the end of the year
+Remarks
+Filed during 
+the year
+Pending resolution at 
+the end of the year
+Remarks
+Sexual Harassment
+2
+0
+All the 
+complaints 
+were resolved 
+No complaints other than those specified 
+have been filed by employees and workers 
+under any of the categories.
+Discrimination at workplace
+0
+0
+Child Labour 
+0
+0
+Forced Labour/Involuntary 
+Labour
+0
+0
+Wages
+0
+0
+Other Human rights related 
+issues
+0
+0
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 
+2013, in the following format:
+FY 2023-24
+FY 2022-23 
+Total Complaints reported under Sexual Harassment on of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+2
+0
+Complaints on POSH as a % of female employees / workers
+0.10%
+Nil
+Complaints on POSH upheld
+2
+Nil
+Corporate Overview
+Statutory Reports
+Financial Statements
+163
+Annual Report 2023-24
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases. 
+Dixon Technologies is dedicated to preserving a workplace free of discrimination, where all employees are accorded respect, 
+dignity, and fairness. The Company’s Anti-discrimination and Anti-harassment Policy serves as a cornerstone in upholding these 
+principles. Key elements of policy include:
+ 
+ 
+Zero Tolerance: Dixon Technologies has a zero-tolerance policy towards any form of discrimination or harassment based on 
+race, color, religion, gender, sexual orientation, age, disability, or any other protected characteristic.
+ 
+ 
+Clear Guidelines: Dixon Technologies’ policy provides clear guidelines on what constitutes discrimination and harassment, 
+ensuring that all employees understand their rights and responsibilities.
+ 
+ 
+Reporting Mechanism: Dixon Technologies has established confidential and accessible channels for employees to report 
+any incidents of discrimination or harassment. All reports are taken seriously, investigated promptly, and appropriate action is 
+taken based on the findings.
+ 
+ 
+Training and Awareness: Dixon Technologies conducts regular training sessions and awareness programs to educate 
+employees about the importance of maintaining a respectful and inclusive workplace.
+ 
+ 
+Accountability: Individuals found guilty of discrimination or harassment are subject to disciplinary action, up to and including 
+termination of employment, in accordance with Dixon Technologies’ policy and applicable laws.
+By implementing and enforcing its Anti-discrimination and Anti-harassment Policy, Dixon Technologies aims to create a safe, 
+inclusive, and welcoming environment for all employees. This commitment not only aligns with Dixon Technologies’ core values but 
+also strengthens its organisational culture, fostering collaboration, innovation, and mutual respect across the Company.
+Also, Dixon Technologies prioritizes a safe and respectful workplace environment by addressing concerns related to sexual 
+harassment or discrimination with seriousness and diligence. Dixon Technologies has established a Prevention of Sexual Harassment 
+(POSH) committee and policy that clearly outlines prohibited behaviors, reporting procedures, and its commitment to upholding a 
+respectful workplace for all employees. To ensure the effective implementation and adherence to this policy, Dixon Technologies has 
+instituted a dedicated Internal Complaints Committee (ICC). This committee comprises trained members responsible for handling 
+and investigating complaints related to sexual harassment, ensuring confidentiality, impartiality, and timely resolution in accordance 
+with legal guidelines.
+In addition to Dixon Technologies’ policy and dedicated committee, the Company conducts regular awareness and training sessions 
+on the prevention of sexual harassment and discrimination. These sessions educate employees about their rights, responsibilities, 
+and the importance of maintaining a respectful workplace culture.
+Furthermore, Dixon Technologies enforces strict disciplinary actions against any employee found guilty of engaging in sexual 
+harassment or discrimination. These actions range from counselling and warnings to termination of employment, depending on the 
+severity of the offense and in compliance with Dixon Technologies’ policies and applicable laws. By implementing these measures, 
+Dixon Technologies is committed to fostering a safe, inclusive, and respectful workplace environment where every employee can 
+thrive, free from harassment and discrimination. This reflects Dixon Technologies’ core values of integrity, fairness, and respect for 
+all individuals within the organisation.
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No) 
+Yes, Dixon Technologies places paramount importance on the protection of human rights. The Company has established a Code 
+of Conduct, which it continually encourages its supply chain partners, contractors, and customers to adhere to. As a result of this 
+commitment, Dixon Technologies has integrated clauses related to human rights, such as prohibitions against forced and child 
+labor, into its business agreements and contracts.
+To ensure compliance and maintain its ethical standards, the Company conducts regular independent audits of its plant operations 
+to prevent any form of child labor or malpractice. This demonstrates Dixon Technologies’ unwavering commitment to upholding 
+human rights and maintaining ethical business practices.
+164
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+10.	 Assessment for the year:
+% of the Company’s plants and offices that were assessed  
+(by the Company or statutory authorities or third parties)
+Child Labour
+100%
+Forced Labour/Involuntary Labour
+100%
+Sexual Harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Other- please specify
+N.A.
+% of value chain partners (by value of business done with such partners) that were 
+assessed
+Sexual Harassment
+During the year, the Company has not conducted any assessment for it value chain 
+partners, however, the same are being assessed on RoHS and EHS parameters. 
+Discrimination at workplace
+Child Labour 
+Forced Labour/Involuntary Labour
+Wages
+Others – please specify
+11.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 10 above. 
+	
+Not applicable as the Company has not come across any significant concerns from assessments conducted at the business units.
+Leadership Indicators 
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints. 
+The Company has not come across any concern requiring a change in their business processes as a result of addressing human 
+rights grievances/complaints.
+2.	
+Details of the scope and coverage of any Human rights due diligence conducted. 
+The Company on a yearly basis conducts ‘Great Place to work’ survey wherein Dixon is being assessed on various diverse parameters 
+such as Credibility, Respect, Fairness, Pride and Camaraderie. Dixon has won Great Place to work award for continuous three years.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016? 
+Yes, The premises of Dixon Technologies are designed to be accessible to all visitors, including those with different abilities. Dixon 
+Technologies believes that accessibility is an essential aspect of social responsibility and is persistent in its efforts to create an 
+inclusive environment for everyone. Measures have been taken to ensure compliance with the Rights of Persons with Disabilities 
+Act, 2016. This includes the provision of ramps, elevators, and accessible restrooms, among other facilities. Dixon Technologies 
+believes in inclusivity and is committed to providing a comfortable and welcoming environment for everyone.
+4.	
+Details on assessment of value chain partners: 
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above.
+	
+None. As no assessment of the value chain partners were conducted during the year.
+Corporate Overview
+Statutory Reports
+Financial Statements
+165
+Annual Report 2023-24
+Essential indicators
+Principle 6: Business should respect and make efforts to protect and restore the 
+environment.
+SDG
+The Company demonstrates a strong commitment to environmental 
+sustainability across its operations. It has implemented robust mechanisms 
+to manage energy consumption, with a notable increase in energy derived 
+from renewable sources. The Company has also made significant strides in 
+water management.
+In terms of emissions, the Company has taken several steps to reduce its 
+carbon footprint, including meticulous greenhouse gas emissions inventory, 
+solar panel installations, transition to Piped Natural Gas (PNG), and green 
+building certification. The Company also adheres to the Restriction of 
+Hazardous Substances (ROHS) directive, limiting the use of six hazardous 
+materials in the production of electronic and electrical devices.
+The Company’s waste management practices are anchored on the 3Rs principle: Reduce, Reuse, and Recycle, aiming to minimize 
+waste generation. For e-waste and plastic waste, the Company partners with government-authorized recyclers, promoting 
+responsible waste management and recycling.
+Furthermore, the Company is compliant with applicable environmental laws and regulations, demonstrating its commitment to 
+maintaining a high standard of environmental responsibility. In summary, the Company is making commendable efforts in integrating 
+sustainability principles into its overall business strategy and operations, demonstrating its commitment to environmental stewardship.
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format: 
+Parameter
+FY 2023-24 (TJ)
+FY 2022-23 (TJ)
+From renewable sources
+Total electricity consumption (A)
+15.22
+9.28
+Total fuel consumption (B)
+0.29
+0
+Energy consumption sources (C)
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+15.51
+9.28
+From non-renewable sources
+Total electricity consumption (D)
+88.98
+88.49
+Total fuel consumption (E)
+14.19
+10.23
+Energy consumption sources (F)
+-
+-
+Total energy consumed from non- renewable sources (D+E+F)
+103.17
+98.72
+166
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+Parameter
+FY 2023-24 (TJ)
+FY 2022-23 (TJ)
+Total energy consumed (A+B+C+D+E+F)
+118.68
+108
+Energy intensity per rupee of turnover  
+(Total energy consumed / Revenue from operations)
+0.00018
+0.00015
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (Total energy consumed / Revenue from operations adjusted for PPP)
+0.32
+0.34
+Energy intensity in terms of physical output*
+-
+-
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kilolitres)
+(i)	 Surface water
+0
+0
+(ii)	 Groundwater
+2,99,526
+68,683
+(iii)	Third party water
+9,697
+0
+(iv)	Seawater / desalinated water
+0
+0
+(v)	 Others
+0
+0
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+3,09,223
+68,683
+Total volume of water consumption (in kilolitres)
+2,95,919.4
+68,683
+Water intensity per rupee of turnover (Total water consumption / Revenue from 
+operations)
+0.46
+0.098
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) 
+(Total water consumption / Revenue from operations adjusted for PPP)
+1,056.03
+224.45
+Water intensity in terms of physical output*
+-
+-
+Parameter
+FY 2023-24 
+FY 2022-23 
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 To Surface water	
+Nil
+Nil
+	
+- No treatment
+-
+-
+	
+- With treatment – please specify level of treatment
+-
+-
+(ii)	 To Groundwater
+4,059.6
+Nil
+	
+- No treatment
+-
+-
+	
+- With treatment – please specify level of treatment
+4,059.6
+-
+(iii)	To Seawater
+Nil
+Nil
+	
+- No treatment
+-
+-
+	
+- With treatment – please specify level of treatment
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency.
+No
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme 
+have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+No, Company has not identified any sites/facilities as designated consumers (DCs) under the Performance, Achieve and Trade 
+(PAT). However, being a responsible Company, significant importance is given to incorporating sustainability parameters into the 
+business strategies. 
+3.	
+Provide details of the following disclosures related to water, in the following format: 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency.
+No
+4.	
+Provide the following details related to water discharged:
+Note: The Company has established a new plant at C-8, Selaqui Dehradun, in the construction of which, water consumption was more.
+*Due to diverse products portfolio of the Company, it is not possible for the Company to compute water intensity in terms of physical output.
+*Due to diverse products portfolio of the Company, it is not possible for the Company to compute Energy intensity in terms of physical output.
+Corporate Overview
+Statutory Reports
+Financial Statements
+167
+Annual Report 2023-24
+Parameter
+FY 2023-24 
+FY 2022-23 
+(iv)	Sent to third-parties
+9,244
+Nil
+	
+- No treatment
+5,980
+-
+	
+- With treatment – please specify level of treatment
+3,264
+-
+(v)	 Others
+Nil
+Nil
+	
+- No treatment
+-
+-
+	
+- With treatment – please specify level of treatment
+-
+-
+Total water discharged (in kilolitres)
+13,303.6
+Nil
+5.	
+Has the Company implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation. 
+	
+The Company has implemented numerous initiatives aimed at reducing water consumption and effectively managing wastewater. 
+Despite being in the electronics manufacturing industry where water usage is minimal, the Company recognizes the significant 
+water demand in its other operations. To address this, Sewage Treatment Plants (STPs) have been installed across various locations 
+to treat wastewater. This treated water is then repurposed for activities such as gardening and cleaning. 
+6.	
+Please provide details of air emissions (other than GHG emissions) by the Company, in the following format: 
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+NOx 
+µg/m3
+29.09
+80.18
+SOx 
+µg/m3
+16.16
+35.94
+Particulate matter (PM) 
+µg/m3
+120.40
+331.01
+Persistent organic pollutants (POP) 
+-
+-
+-
+Volatile organic compounds (VOC) 
+-
+-
+-
+Hazardous air pollutants (HAP) 
+-
+-
+-
+Others 
+-
+-
+-
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+621
+826
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+20,342
+17,457
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover (Total 
+Scope 1 and Scope 2 GHG emissions / Revenue from operations)
+tCO2e/Million
+0.03
+0.02
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover adjusted for 
+Purchasing Power Parity (PPP) (Total Scope 1 and Scope 2 GHG emissions / 
+Revenue from operations adjusted for PPP)
+tCO2e/Million
+78.71
+59.48
+Total Scope 1 and Scope 2 emission intensity in terms of physical output
+-
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency.
+No
+7.	
+Provide details of greenhouse gas emissions (Scope1 and Scope 2 emissions) & its intensity, in the following format: 
+	
+The details are provided below:
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency.
+No
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency.
+No
+*Due to diverse products portfolio of the Company, it is not possible for the Company to compute Scope 1 and Scope 2 Emission intensity 
+in terms of physical output.
+168
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+8.	
+Does the Company have any project related to reducing Green House Gas emission? If yes, then provide details. 
+	
+The Company has taken several steps to reduce its carbon footprint by integrating sustainability principles into its overall business 
+strategy and operations. Notable initiatives include:
+1.	
+Greenhouse Gas Emissions Inventory: The Company is in the process to inventorise its greenhouse gas emissions to 
+identify areas for improvement.
+2.	
+Solar Panel Installations: Solar panels have been installed at various locations, including plants and office facilities, to 
+harness renewable energy.
+3.	
+Transition to Piped Natural Gas (PNG): The Company has shifted from High-Speed Diesel (HSD) consumption to cleaner 
+PNG, contributing to reduced emissions.
+4.	
+Energy-Efficient Equipment: The Company actively employs energy-efficient equipment to minimize energy consumption.
+5.	
+Fleet Upgrades: Efforts are underway to upgrade the employee commute fleet from BS4 to BS6-compliant vehicles.
+9.	
+Provide details related to waste management by the Company, in the following format: 
+The required details are provided below: 
+Parameter
+FY 2023-24 
+FY 2022-23 
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+87.089
+9.05
+E-waste (B)
+0.53
+N.A.
+Bio-medical waste (C)
+N.A.
+N.A.
+Construction and demolition waste (D)
+N.A.
+N.A.
+Battery waste (E)
+N.A.
+N.A.
+Radioactive waste (F)
+N.A.
+N.A.
+Other Hazardous waste. Please specify, if any. (G)
+1.21
+1.641
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up by 
+composition i.e. by materials relevant to the sector)
+47.526
+74.608
+Total (A+B + C + D + E + F + G + H)
+136.355
+85.299
+Waste intensity per rupee of turnover (Total waste generated / Revenue from 
+operations)
+0.00021
+0.0001
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) 
+(Total waste generated / Revenue from operations adjusted for PPP)
+0.48
+0.27
+Waste intensity in terms of physical output*
+-
+-
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)
+Category of waste
+(i)	 Recycled
+Nil
+Nil
+(ii)	 Re-used
+Nil
+Nil
+(iii)	Other recovery operations
+Nil
+Nil
+Total
+Nil
+Nil
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i)	 Incineration
+0.018
+1.288
+(ii)	 Landfilling
+Nil
+1.188
+(iii)	Other disposal operations
+136.337
+82.823
+Total
+136.355
+85.299
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency. No
+*Due to diverse products portfolio of the Company, it is not possible for the Company to compute waste intensity in terms of physical output.
+Corporate Overview
+Statutory Reports
+Financial Statements
+169
+Annual Report 2023-24
+10.	 Briefly describe the waste management practices adopted in your establishment. Describe the strategy adopted by 
+your Company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes. 
+	
+The Company has instituted a comprehensive waste management system to handle waste from manufacturing and operations. This 
+system is anchored on the 3Rs principle: Reduce, Reuse, and Recycle, aiming to minimize waste generation. A thorough process, 
+starting with segregation at the source, enhances waste recyclability and reusability while reducing environmental contamination.
+	
+For e-waste and plastic waste, the Company partners with government-authorized recyclers, promoting responsible waste 
+management and recycling. In the mobile and laptop sectors, production waste, except for laptop packaging, is returned to 
+customers for proper disposal.
+	
+Moreover, the Company adheres to the Restriction of Hazardous Substances (ROHS) directive, limiting the use of six hazardous 
+materials such as lead (Pb), mercury (Hg), cadmium (Cd), hexavalent chromium (Cr6), polybrominated biphenyls (PBB), and 
+polybrominated diphenyl ether (PBDE) in the production of electronic and electrical devices.
+11.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details in the following format: 
+S. 
+No.
+Location of 
+operations/offices
+Type of operations
+Whether the conditions of environmental approval / clearance are being 
+complied with? (Y/N) 
+If no, the reasons thereof and corrective action taken, if any. 
+The Company is dedicated to the responsible and sustainable utilization of ecological resources, with a strong commitment to 
+preserving the planet’s rich biodiversity. It takes careful measures to ensure that its operations do not have any severe or irreversible 
+effects on biological resources or biodiversity. Consequently, the Company ensures that none of its operations or offices are situated 
+in or around ecologically sensitive or protected areas, such as national parks or wildlife sanctuaries. All of its office locations and 
+plants are strategically located in industrial areas. This approach reflects the Company’s commitment to environmental stewardship 
+while maintaining its operational efficiency
+Name and brief 
+details of project 
+EIA 
+Notification 
+No. 
+Date 
+Whether conducted by 
+independent external agency 
+(Yes / No) 
+Results communicated in 
+public domain (Yes / No) 
+Relevant Web link 
+During the reporting period, no projects undertaken by the Company needed to get the Environment Impact Assessment (EIA) done.
+S. 
+No. 
+Specify the law / regulation 
+/ guidelines which was not 
+complied with 
+Provide details of the 
+non-compliance 
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution control 
+boards or by courts 
+Corrective action 
+taken, if any 
+Yes, the Company’s operations and units comply with the applicable environmental laws and regulations and operate as per the 
+rules, regulations and guidelines laid down by the Central and State Pollution Control Boards. Yes, the Company has adhered to 
+all compliance requirements, and no penalties were imposed on it in the fiscal year 2023-24. This demonstrates the Company’s 
+commitment to maintaining a high standard of environmental responsibility.
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year: 
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection Act 
+and rules thereunder (Y/N). 
+	
+If not, provide details of all such non-compliances, in the following format: 
+170
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+Leadership Indicators 
+1.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area - Nil
+	
+(ii)	
+Nature of operations – None 
+	
+(iii)	
+Water withdrawal, consumption and discharge in the following format:
+Parameter
+FY 2023-24 
+FY 2022-23 
+Water withdrawal by source (in kilolitres)
+(i)	 Surface water
+-
+-
+(ii)	 Groundwater
+-
+-
+(iii)	Third party water
+-
+-
+(iv)	Seawater / desalinated water
+-
+-
+(v)	 Others
+-
+-
+Total volume of water withdrawal (in kilolitres)
+-
+-
+Total volume of water consumption (in kilolitres)
+-
+-
+Water intensity per rupee of turnover (Water consumed / turnover)
+-
+-
+Water intensity (optional) – the relevant metric may be selected by the entity
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 Into Surface water
+	
+- No treatment
+-
+-
+	
+- With treatment – please specify level of treatment
+-
+-
+(ii)	 Into Groundwater
+-
+-
+	
+- No treatment
+-
+-
+	
+- With treatment – please specify level of treatment
+-
+-
+(iii) Into Seawater
+-
+-
+	
+- No treatment
+-
+-
+	
+- With treatment – please specify level of treatment
+-
+-
+(iv)	Sent to third-parties
+-
+-
+	
+-No treatment
+-
+-
+	
+-With treatment – please specify level of treatment
+-
+-
+(v)	 Others
+-
+-
+	
+-No treatment
+-
+-
+	
+-With treatment – please specify level of treatment
+-
+-
+Total water discharged (in kilolitres)
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency.
+No
+2.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format: 
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 3 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available) 
+Metric tonnes of CO2 
+equivalent 
+The Company has not yet computed its scope 3 
+emissions. 
+Total Scope 3 emissions per rupee of turnover 
+MT CO2/Rupee turnover
+Total Scope 3 emission intensity 
+Note: Indicate if any independent assessment, evaluation, or assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+Note: The Company has created a framework and is in the process of computation of Scope 3 emissions.
+Corporate Overview
+Statutory Reports
+Financial Statements
+171
+Annual Report 2023-24
+3.	
+With respect to the ecologically sensitive areas reported in Question 10 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities. 
+ 
+Not Applicable 
+4.	
+If the entity has taken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the 
+same as well as outcome of such initiatives, as per the following format: 
+S. 
+No.
+Initiative 
+undertaken
+Details of the initiative (Web-link, if any, may be 
+provided along-with summary)
+Outcome of the initiative
+1
+RoHS-Friendly 
+Products
+Dixon collaborates with customers to produce RoHS-
+friendly products.
+Reduced hazardous substance content in 
+products, contributing to environmental safety.
+2
+Eco Material Drive
+Dixon has initiated a drive for eco-friendly materials in its 
+supply chain.
+Increased adoption of sustainable materials, 
+reducing environmental impact.
+5.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+The entity has a robust business continuity and disaster management plan in place, which includes comprehensive risk assessments, 
+tailored policies, and stringent controls. Operating under a well-defined risk management policy, it continually evaluates, responds 
+to, and monitors risks to safeguard key objectives. By employing a systematic approach, it anticipates and mitigates potential 
+threats, ensuring the organisation's resilience. This entails thorough risk evaluation, categorization, and prioritization to allocate 
+management attention effectively. For further details, you can visit https://www.dixoninfo.com/json/dixon/codes-policy/risk-
+management-policy.pdf to explore their comprehensive risk management framework and strategies.
+6.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation 
+or adaptation measures have been taken by the entity in this regard? 
+Dixon Technologies acknowledges the significance of reducing its environmental footprint throughout its entire 
+value chain. The Company has established specific sustainability goals, which serve as its strategy to deliver 
+consistent competitive performance, create long-term value for its stakeholders, and minimize environmental impact.
+No significant adverse impact is caused to the environment through our value chain of the Company.
+7.	
+% of Value chain partners (by value of business done with such partners) that were assessed for Environmental 
+Impacts? 
+The Company has not yet conducted any environmental impact assessment of the value chain partners of the Company. 
+172
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+Principle 7: Businesses, when engaging in influencing public and regulatory 
+policy, should do so in a manner that is responsible and transparent.
+SDG
+The Company actively collaborates with prominent industry chambers and 
+associations, advocating for best practices in policy development. Their 
+commitment to promoting positive relationships and industry standards reflects 
+the Company’s dedication to excellence.
+Essential indicators
+Leadership Indicators
+1.	
+a.	
+Number of affiliations with trade and industry chambers/associations. 
+	
+	
+The Company is affiliated with 6 trade and industry chambers/ associations.
+b.	
+List the top 10 trade and industry chambers/associations (determined based on the total members of such body) the Company is 
+a member of/affiliated to.
+S. 
+No.
+Name of the trade and industry chambers/associations
+Reach of trade and industry chambers/
+associations (State/ National)
+1
+Confederation of Indian Industry (CII)
+National
+2
+Electronic Industries Association of India (ELCINA)
+National
+3
+Electric Lamp and Component Manufacturers (ELCOMA)
+National
+4
+India Cellular & Electronics Association (ICEA)
+National
+5
+Federation of Indian Chambers of Commerce & Industry (FICCI)
+National
+6
+Consumer Electronics and Appliances Manufacturers Association (CEAMA)
+National
+S. 
+No
+Public Policy advocated
+Method resorted 
+for such advocacy
+Whether information 
+available in public 
+domain? (Yes/ No)
+Frequency of Review by 
+Board (Annually/ Half 
+yearly/Quarterly/Others- 
+please specify)
+Web Link, if 
+available
+1
+The Company takes proactive steps to engage with industry 
+chambers and associations, advocating for best practices in 
+policy development.
+No
+N.A.
+N.A.
+Name of the authority
+Brief of the case
+Corrective action taken
+N.A.
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the 
+Company, based on adverse orders from regulatory authorities.
+1.	
+Details of public policy positions advocated by the Company:
+Corporate Overview
+Statutory Reports
+Financial Statements
+173
+Annual Report 2023-24
+Principle 8: Businesses should promote inclusive growth and equitable 
+development.
+SDG
+The Company exemplifies a robust commitment to social responsibility through 
+its Corporate Social Responsibility (CSR) programs. By actively engaging with 
+communities, advocating for best practices, and supporting vulnerable groups, 
+The Company contributes to sustainable living and positive impact. This efforts 
+encompass education, healthcare, environmental sustainability, and skill 
+development, reflecting their dedication to effecting positive change.
+Essential Indicators
+S. 
+No
+Name of Project for which 
+R&R is ongoing
+State
+District
+% of PAFs 
+covered by R&R
+% of PAFs 
+covered by R&R
+Amount sent on R&R activities 
+during FY 2023-24 (In J)
+Not Applicable
+S. 
+No
+Name of Project for which 
+R&R is ongoing
+State
+District
+No. of Project 
+Affected Families 
+(PAFs)
+% of PAFs 
+covered by R&R
+Amount sent on R&R activities 
+during FY 2023-24 (In J)
+Not Applicable
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the Company, based on applicable laws, in the 
+current financial year.
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+the Company, in the following format:
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+The organisation actively engages with the community through its CSR initiatives, aiming to address their concerns and fulfil 
+their needs. This engagement takes various forms, including CSR projects and surveys. Through these interactions, a two-way 
+communication channel is established. Communities can share their concerns, feedback, grievances, and needs, while the 
+organisation informs them about the outcomes of community interventions, future plans, and how grievances are addressed.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/small producers
+7%
+Not mapped
+Directly from Within India 
+31%
+174
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+Location
+FY 2023-24 
+Current Financial Year
+FY 2022-23 
+Previous Financial Year
+Rural
+Nil
+Nil
+Semi-urban
+Nil
+Nil
+Urban
+100%
+Not mapped
+Metropolitan
+Nil
+Nil
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed 
+on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost
+(Place to be categorized as per RBI Classification System - rural / semi-urban / urban / metropolitan)
+For the purpose of categorisation of people employed at locations into Rural / Semi-Urban / Urban / Metropolitan, the following mechanism 
+has been adopted along with RBI Classification System:
+(a)	
+Metropolitan cities considered are the nine cities, i.e. Mumbai, Pune, Delhi, Ahmedabad, Surat, Chennai, Kolkata, 
+Bangalore and Hyderabad.
+(b)	 All manufacturing locations (Plants) except (a) above are mapped under Urban locations.
+Leadership Indicators:
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+The Company has during FY 2023-24 undertaken Impact assessment of its CSR initiatives to assess the direct/ indirect impact of 
+Dixon’s support and ensuring that the CSR funds are utilised on track and fulfilled its objectives. No negative social impacts were 
+identified in the social impact assessments undertaken during FY 2023-24.
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+S. 
+No
+State/ Location
+Aspirational District
+Amount Spent (RS.)
+During the FY 2023-24, no CSR projects were undertaken by the Company in designated aspirational districts as identified by Niti 
+Ayog, Government of India.
+3.	
+A.	
+Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising marginalised/
+vulnerable groups (yes/no)?
+	
+	
+No
+	
+B.	
+From which marginalised/ vulnerable groups do you procure?
+	
+	
+Not applicable.
+	
+C.	
+What percentage of total procurement (by value) does it constitute?
+	
+	
+Not Applicable.
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge:
+	
+Not applicable as the Company does not own or acquired any intellectual property rights based on traditional knowledge.
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved.
+	
+Not Applicable
+Corporate Overview
+Statutory Reports
+Financial Statements
+175
+Annual Report 2023-24
+6.	
+Details of beneficiaries of CSR projects:
+	
+The Company is committed to operating and growing its business in a socially responsible way. Its purpose is to make sustainable 
+living commonplace.
+	
+The Company’s Corporate Social Responsibility (CSR) Policy, approved by the Board of Directors, outlines a clear agenda through 
+which it will continue to contribute to the community at large. The Company has been actively engaged in various CSR projects 
+involving inter-alia, water conservation, nutrition, skill development, health, hygiene, waste management and environmental 
+sustainability. Please refer to the Company’s Integrated Annual Report for more details on its CSR initiatives.
+	
+Some of the CSR projects undertaken by the Company during the FY 2023-24 and the beneficiaries therein are as under:
+S. 
+No.
+CSR Projects
+No. of persons benefitted from CSR 
+projects
+% of beneficiaries from vulnerable 
+and marginalised groups
+1
+Reimagining Higher Education Foundation 
+(Plaksha)
+50 Undergraduate students
+100%
+2
+Labhya Foundation
+4,86,689 Vulnerable children
+30,418 Government School Teachers
+4664+ Government Schools
+3 states (Delhi, Uttarakhand and Tripura)
+100%
+3
+Saint Hardyal Educational and Orphans welfare 
+Society (SHEOWS)
+60 abandoned and destitute elderly 
+beneficiaries
+100%
+4
+Nav Abhyan
+45 Pre-Primary Children
+72 Primary Students
+36 Middle Level Students
+20 High School Students
+100%
+5
+Jan Madhyam
+42 trainees for rehabilitation training
+217 trainees for recycling 
+100 trainees for gardening
+217 trainees for craft activities
+100%
+6
+Purkul Youth Development Society
+17 Girls and 11 boys of Class VIII and IX
+100%
+7
+Bansividya Memorial Trust
+71 Child beneficiaries
+100%
+8
+Mahavir Foundation Trust
+196 Students
+100%
+9
+Chinmaya Organisation for Rural Development
+946 Beneficiaries
+100%
+10
+Etasha Society
+302 Students
+100%
+11
+Sapna
+Youth in the age group of 11 t0 18 Years 
+(36 Trainees Enrolled)
+100%
+12
+Latika Roy Memorial Foundation
+25-30 disabled children
+100%
+13
+Utkarsh Global Foundation
+1272 
+villages 
+along 
+with 
+1000 
+underprivileged woman
+100%
+176
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+Principle 9: Businesses should engage with and provide value to their 
+consumers in a responsible manner
+SDG
+Dixon Technologies, operating on a B2B model, has shown a strong 
+commitment to maintaining high standards in its operations. The Company 
+ensures 100% turnover from products/services that adhere to environmental 
+and social parameters, safe usage, and recycling or safe disposal.
+The Company has also implemented a robust cybersecurity policy to safeguard 
+data stored on end-user devices, reflecting its commitment to data privacy and 
+security. There were no instances of data breaches, further emphasizing the 
+effectiveness of their cybersecurity measures.
+Information about the Company’s products is readily accessible through their 
+website, demonstrating transparency in their operations. In the event of any 
+unforeseen disruptions, the Company has mechanisms in place to inform 
+consumers through their website, various mass media platforms, and stock 
+exchange announcements. This proactive approach highlights the Company’s 
+dedication to maintaining open communication channels and ensuring 
+customer satisfaction.
+Overall, Dixon Technologies’ initiatives reflect a strong commitment to 
+maintaining high operational standards, prioritizing data security, and ensuring 
+transparency and communication with its clients.
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+The Company does not directly engage with the end customers of its products since it works on a B2B model. 
+Corporate Overview
+Statutory Reports
+Financial Statements
+177
+Annual Report 2023-24
+2.	
+Turnover of products and/services as a percentage of turnover from all products/service that carry information 
+about:
+3.	
+Number of consumer complaints in respect of the following:
+4.	
+Details of instances of product recalls on account of safety issues:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+100%
+Safe and responsible usage
+100%
+Recycling and/or safe disposal
+100%
+Provide the following information 
+relating to data breaches:
+a.	 Number of instances of data breaches along-with impact
+0
+b.	 Percentage of data breaches involving personally identifiable information of customer
+0
+c.	 Impact, if any, of the data breaches
+Not applicable
+Number
+Reasons for recall
+Voluntary recalls
+0
+N.A.
+Forced recalls
+0
+N.A.
+Number of consumer 
+complaints in respect of the 
+following:
+FY 2023-24
+FY 2022-23
+Received 
+during the 
+year
+Pending resolution at 
+end of year
+Remarks
+Received 
+during the 
+year
+Pending resolution at 
+end of year
+Remarks
+Data privacy
+Nil, no complaints have been received under any 
+categories
+Nil, no complaints have been received under 
+any categories
+Advertising
+Cyber-security
+Delivery of essential services
+Restrictive Trade Practices
+Unfair Trade Practices
+Other
+5.	
+Does the Company have a framework/policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy. 
+	
+Yes, the Company has implemented a robust cybersecurity policy to safeguard data stored on end-user devices. This policy is 
+accessible via the Company’s Intranet, providing users with clear guidelines for secure data handling. Also, the Company has a 
+data privacy policy which is available on the website of the Company on https://www.dixoninfo.com/codes-policies.php
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty/action 
+taken by regulatory authorities on safety of products/services. 
+	
+Nil, No significant concerns/complaints/penalties/regulatory actions were identified during the year.
+7.	
+Provide the following information relating to data breaches:
+178
+Crafting a Sustainable Pathway to Progress
+Dixon Technologies (India) Limited
+Leadership Indicators
+1.	
+Channels/platforms where information on products and services of the Company can be accessed (provide web-link, 
+if available).
+Consumers can access information about the Company's business verticals through Company’s website (www.dixoninfo.com), 
+along with a dedicated email addresses for contacting relevant department. 
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+Not Applicable, As Dixon Technologies operates on a Business-to-Business (B2B) model, it doesn’t directly interact with the end 
+users of the products. The onus is on the Client to inform and educate the customers about the safe and responsible usage of 
+products and/or services.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+The Company does not deal with any essential services. However, in case of any unforeseen disruptions, they disseminate 
+information through their website, various mass media platforms and stock exchange announcements.	
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? 
+(Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer 
+satisfaction relating to the major products/services of the entity, significant locations of operation of the entity or the 
+entity as whole? (Yes/No)
+Not Applicable as the Company does not directly deal with the end user of the products.
+Corporate Overview
+Statutory Reports
+Financial Statements
+179
+Annual Report 2023-24

@@ -1,0 +1,2575 @@
+ 
+ 
+ 
+ 
+28th August 2024 
+ 
+National Stock Exchange of India Ltd,                                    BSE Limited 
+Exchange Plaza, Bandra Kurla Complex,                                 P.J. Towers, Dalal Street 
+Bandra (East), Mumbai – 400051.                                            Mumbai - 400001. 
+Fax No.26598237/26598238                                                     Fax No.22722037/22723121 
+ 
+Name of Scrip: CIGNITITEC                                                     Scrip code: 534758 
+ 
+ 
+Dear Sir / Madam, 
+ 
+Sub: Submission of Business Responsibility and Sustainability Report for FY 2023-24 
+ 
+Pursuant to Regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, please find enclosed Business Responsibility and Sustainability Report for FY 2023-24, which also 
+forms part of Annual Report for FY 2023-24. 
+ 
+This is for the information and records of the Exchange, please. 
+ 
+ 
+Thanking you. 
+ 
+Yours Faithfully,  
+For Cigniti Technologies Limited 
+ 
+ 
+ 
+Naga Vasudha 
+Company Secretary 
+Membership No. ACS 23711 
+ 
+Encl: as above 
+ 
+Vasudha 
+Tadepalli
+Digitally signed by 
+Vasudha Tadepalli 
+Date: 2024.08.28 
+17:07:07 +05'30'
+BUSINESS RESPONSIBILITY AND 
+SUSTAINABILITY REPORT
+Message from the Chairman & Non-Executive Director 
+I am pleased to present the Business Responsibility 
+and Sustainability Report for the FY 2023-24. As we 
+continue to advance our mission of delivering cutting-
+edge solutions to our clients, we remain committed to 
+leveraging the latest digital technologies and solutions 
+of professionals has worked tirelessly to develop and 
+enhance our offerings, ensuring that we stay ahead of 
+the curve in the digital space. We have also expanded 
+our portfolio of products and services to meet the 
+evolving needs of our customers while maintaining a 
+strong focus on digital customer delight and client-
+centricity. 
+As much as we are passionate about solving clients’ 
+problems, we are also equally passionate about giving 
+back to society. Corporate Social Responsibility has 
+been a way of life of Cigniti’s business strategy, and 
+we embrace this responsibility to create a positive 
+impact in the communities in which we work and 
+live. Our key programs are driven by the valuable 
+CSR agenda we’ve built over the years under the 
+we have broadened our CSR charter to Healthcare 
+and Sustainability through its focused implementing 
+programs, ensuring that our support reaches out 
+to the neediest communities for their well-being. 
+Collaboration with government agencies think tanks, 
+educational institutions, and various community-
+based organizations has shaped our Corporate Social 
+Responsibility projects to imbibe critical aspects like 
+transparency, accountability, and reliability.
+At Cigniti, we have taken steps to promote diversity 
+and inclusion in the workplace and strive for a 
+gender-neutral environment. Currently, our female-
+to-male ratio stands at 33%, and while we continue 
+to work towards increasing diversity, our focus is 
+now on achieving better representation of diversity 
+in leadership positions of level 5 and above. We are 
+pleased to see a positive impact on our retention 
+policies and employee satisfaction, as indicated by 
+the decline in voluntary attrition over the past year. Our 
+efforts include employee-friendly policies, wellness 
+workshops, rewards and recognition, and enhancing 
+the overall employee experience.
+Finally, I would like to express my gratitude to our 
+shareholders, customers, and employees for their 
+continued support and dedication towards responsible 
+business conduct and we look forward to continuing 
+to work together to achieve our shared goals.
+Best Regards
+C.V. Subramanyam
+Chairman & Non-Executive Director
+Annexure-VI
+Cigniti Technologies Limited 
+92
+to the power of AI
+SECTION A: GENERAL DISCLOSURES
+I. 
+Details of the listed entity 
+1.
+Corporate Identity Number (CIN) of the Listed Entity
+L72200TG1998PLC030081
+2.
+Name of the Listed Entity
+Cigniti Technologies Limited
+3.
+Year of Incorporation 
+1998
+4.
+Suit No.106 & 107, 6-3-456/C,
+MGR Estates
+Dwarakapuri Colony, Panjagutta,
+Hyderabad - 500082.
+Telangana State
+5.
+Corporate Address
+6th Floor, ORION Block, “The V”
+(Ascendas), Plot No# 17, Software
+Units Layout, Madhapur,
+Hyderabad – 500 081.
+6.
+E-mail id
+company.secretary@cigniti.com
+7.
+Telephone 
++91 (040) 40382255
+8.
+Website
+www.cigniti.com
+9.
+Financial year for which reporting is being done 
+2023-24
+10.
+Name of the Stock Exchange(s) where shares are listed BSE Ltd (BSE) and
+National Stock Exchange of India Limited (NSE)
+11.
+Paid up Capital (INR)
+INR 2730.01 Lakhs
+12.
+Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report
+Name
+Mr. Sairam Vedam
+Designation
+Telephone number
++91 (040) 40382255
+E-mail id
+cmo@cigniti.com
+13.
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e. only for the 
+entity) or on a consolidated basis (i.e. for the entity and 
+all the entities which form a part of its consolidated 
+The disclosures under this report have been 
+made on standalone basis. 
+14.
+Name of assurance provider
+Not Applicable
+15.
+Type of assurance obtained
+Not Applicable
+Annual Report 2023-24
+93
+Corporate Overview
+Management Reports
+Financial Statement
+II. 
+Products / Services 
+16. Details of business activities (accounting for 90% of the Turnover): 
+S. 
+No. 
+Description of 
+Main Activity
+Description  of Business Activity
+% of Turnover of 
+the entity
+1.
+Digital IT Services
+We offer end-to-end Digital Assurance and Digital 
+Engineering services to global enterprises across verticals
+100%
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover): 
+S. No.
+Product/Service
+NIC Code
+% of total Turnover contribute
+1.
+Technical Testing and Analysis
+71200
+100%
+III.  Operations 
+Location
+Number of plants
+Total
+National 
+0
+2
+2
+International 
+0
+12
+12
+19. Markets served by the entity: 
+a.  Number of locations 
+Locations 
+Number 
+National (No. of States) 
+5
+International (No. of Countries) 
+24
+b. What is the contribution of exports as a percentage of the total turnover of the entity? 
+Exports contribute 96% of the total turnover of the entity on a standalone basis.
+c.  A brief on types of customers 
+ 
+Cigniti is the world’s leading AI & IP-led Digital Assurance and Digital Engineering services company. 
+Headquartered in Hyderabad, India, Cigniti’s 4200+ employees help Fortune 500 and Global 2000 
+enterprises across 24 countries accelerate their digital transformation journey across various stages 
+of digital adoption and help them achieve market leadership by providing transformation services 
+leveraging IP and platform-led innovation with expertise across multiple verticals and domains.
+IV.  Employees 
+20. Details as of the end of the Financial Year: 
+a.  Employees and workers (including differently abled): 
+S. No. Particulars 
+Total (A) 
+Male 
+Female
+No. (B) 
+% (B / A) 
+No. (C) 
+% (C / A) 
+EMPLOYEES
+1. 
+Permanent (D) 
+3896
+2584
+67%
+1312
+33%
+2. 
+Other than Permanent (E) 
+310
+206
+66%
+104
+34%
+3. 
+Total employees (D + E) 
+4206
+2790
+67%
+1416
+33%
+WORKERS*
+4. 
+Permanent (F) 
+-
+-
+-
+-
+-
+5. 
+Other than Permanent (G) 
+-
+-
+-
+-
+-
+6. 
+Total employees (F + G) 
+-
+-
+-
+-
+-
+Cigniti Technologies Limited 
+94
+to the power of AI
+b.  Differently abled Employees and workers:
+S. No. Particulars 
+Total (A) 
+Male 
+Female
+No. (B) 
+% (B / A) 
+No. (C) 
+% (C / A) 
+EMPLOYEES
+1. 
+Permanent (D) 
+1
+1
+100%
+0
+-
+2. 
+Other than Permanent (E) 
+0
+0
+-
+0
+-
+3. 
+Total employees (D + E) 
+1
+1
+100%
+0
+-
+21. Participation/Inclusion/Representation of women 
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors 
+7
+1
+15%
+Key Management Personnel 
+2
+1
+50%
+22. The turnover rate for permanent employees and workers 
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male 
+Female 
+Total 
+Male 
+Female 
+Total 
+Male 
+Female 
+Total 
+Permanent Employees 
+10..8%
+13.2%
+11.7%
+29.9%
+26.1%
+28.7%
+33.2%
+36.6%
+34.3%
+V. Holding, Subsidiary, and Associate Companies (including joint ventures) 
+23. (a) Names of holding/subsidiary / associate companies / joint ventures 
+S. 
+No. 
+Name of the holding/subsidiary / associate 
+companies / joint ventures (A) 
+Indicate 
+whether 
+holding / 
+Subsidiary/ 
+Associate 
+/ Joint 
+Venture 
+% of 
+shares 
+held by 
+listed 
+entity 
+Does the entity 
+indicated at 
+column A, 
+participate in 
+the Business 
+Responsibility 
+initiatives of the 
+listed entity? 
+(Yes/No) 
+1.
+Cigniti Technologies Inc., USA
+Subsidiary
+100%
+No
+2.
+Cigniti Technologies Canada Inc., Canada
+Subsidiary
+100%
+No
+3.
+Cigniti Technologies (UK) Limited, UK
+Subsidiary
+100%
+No
+4.
+Cigniti Technologies (Australia) Pty Ltd, Australia
+Subsidiary
+100%
+No
+5.
+Cigniti Technologies (NZ) Ltd, New Zealand
+Subsidiary
+100%
+No
+6.
+Cigniti Technologies (SG) Pte. Ltd., Singapore
+Subsidiary
+100%
+No
+7.
+Cigniti Technologies (CZ) Limited s.r.o, Czech Republic
+Subsidiary
+100%
+No
+8.
+Cigniti Technologies CR Limitada,Costa Rica
+Subsidiary
+100%
+No
+9.
+Gallop Solutions Private Limited, India
+Subsidiary
+100%
+No
+10.
+Aparaa Digital Private Limited, India
+Subsidiary
+100%
+No
+11.
+RoundSqr, Inc.,USA
+Step down 
+subsidiary 
+(dissolved 
+on January 
+30, 2023)
+100%
+No
+12.
+RoundSqr Pty Ltd., Australia
+Step down 
+subsidiary
+100%
+No
+Annual Report 2023-24
+95
+Corporate Overview
+Management Reports
+Financial Statement
+VI. CSR Details 
+24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) YES
+(ii) Turnover (in Rs.) 78872.73 Lakhs
+(iii) Net worth (in Rs.) 51078.67 Lakhs 
+VII. Transparency and Disclosures Compliances 
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct: 
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism 
+in Place  
+(Yes/No) 
+(If yes, then 
+provide 
+web-link for 
+grievance 
+redress 
+policy)
+FY 2023-24
+FY 2022-23
+Number of 
+complaints 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities 
+Y*
+-
+-
+-
+-
+-
+-
+Investors 
+(other than 
+shareholder) 
+Y**
+-
+-
+-
+-
+-
+-
+Shareholders 
+Y**
+-
+-
+-
+-
+-
+-
+Employees 
+and workers 
+Y***
+-
+-
+-
+2
+-
+Resolved 
+during 
+the year
+Customers 
+Y****
+-
+-
+-
+-
+-
+-
+Value Chain 
+Partners 
+Y*
+-
+-
+-
+-
+-
+-
+ 
+*No complaints have been received from communities and value chain partners during FY 2022-23 and 
+FY 2023-24. Complaints / Grievances from Value Chain Partners are addressed by relevant Departments 
+on a case-to-case basis. Policies & grievance redressal mechanism are accessible on https://www.cigniti.
+com/policies/
+ 
+**The Company has appointed Registrar and Share Transfer Agent (RTA) to look into the grievances/
+complaints of the shareholders. In addition to it, the Company has designated email ID company.
+secretary@cigniti.com, where the shareholders can send their grievances/complaints. 
+ 
+***The details of the grievance redressal mechanism for employees and workers are provided in Principle 
+3, point No. 6
+ 
+**** The mechanism for customers grievance redressal is provided in Principle 9, point No. 1
+Cigniti Technologies Limited 
+96
+to the power of AI
+26. Overview of the entity’s material responsible business conduct issues 
+ 
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental 
+and social matters that present a risk or an opportunity to your business, rationale for identifying the same, 
+S. 
+No. 
+Material 
+issue 
+Indicate 
+whether 
+risk or 
+opportunity  
+(R/O) 
+Rationale for identifying the  risk  
+/ opportunity 
+In case of risk, approach to 
+adapt or mitigate 
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications) 
+1.
+Training & Skill 
+Development of 
+employees
+O
+Our Learning & Development Team 
+organizes several technical and 
+personality development training 
+for employees to upskill and make 
+them ready for any challenge they 
+face. We also collaborate with 
+our external partners to train our 
+employees on the latest tools and 
+technology.
+Not Applicable
++ve
+2. 
+Customer 
+Satisfaction and 
+Retention:
+O
+tend No Positive to demonstrate 
+a proclivity for loyalty, as well as 
+advocate for Cigniti products and 
+services among their network, thus 
+generating an upswing in sales 
+and nurturing a favorable brand 
+image
+Not Applicable
++ve
+3.
+Technological 
+Advancements 
+and Innovation:
+O
+Identifying and capitalizing on 
+technological 
+advancements 
+and fostering innovation can give 
+Avantel 
+Limited 
+a 
+competitive 
+edge, leading to the development 
+of cutting-edge products and 
+services, 
+increased 
+market 
+share, and improved customer 
+satisfaction.
+Not Applicable
++ve
+2.
+Environmental 
+Sustainability
+Risk
+With Global Warming happening 
+environmental sustainability has 
+become very important for all 
+businesses. 
+We comply with applicable 
+legal requirements which 
+relate to our environmental 
+aspects. The company 
+prevents pollution, reduces 
+waste and minimizes the 
+consumption of resources. 
+We educate, train and 
+motivate employees 
+to carry out tasks in an 
+environmentally responsible 
+manner  and encourage 
+environmental protection 
+among suppliers.
+-ve
+Annual Report 2023-24
+97
+Corporate Overview
+Management Reports
+Financial Statement
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES 
+This section is aimed at helping businesses demonstrate the structures, policies, and processes put in place 
+towards adopting the NGRBC Principles and Core Elements. 
+We have implemented the following policies toward adopting National Guidelines on Responsible Business 
+Conduct (NGRBC):
+Principle P1: 
+Transparency & Accountability 
+ 
+Code of Business Conduct and 
+Ethics 
+ 
+Code of Conduct for Senior 
+Management
+ 
+Vigil Mechanism
+ 
+Code of Conduct for Prevention 
+of 
+Insider 
+Trading 
+& 
+Fair 
+Disclosure
+Principle P2:
+Product Responsibility
+ 
+Environmental 
+Social 
+and 
+Governance (ESG) Policy
+Principle P3:
+Employee Development
+ 
+Code of Business Conduct & Ethics 
+Policy
+ 
+Health & Safety Policy
+Principle P4:
+Stakeholder Engagement
+ 
+Corporate Social Responsibility 
+Policy 
+Principle P5: 
+Human Rights
+ 
+Code of Business Conduct & 
+Ethics Policy
+ 
+Sexual Harassment Policy 
+ 
+Modern Slavery Statement
+Principle P6:
+Environment Principle
+ 
+Environmental 
+Social 
+and 
+Governance (ESG) Policy
+ 
+Carbon Reduction Plan
+Principle P7:
+Policy Advocacy 
+ 
+Code of Business Conduct & 
+Ethics Policy
+Principle P8:
+Inclusive Growth 
+ 
+Corporate Social Responsibility 
+Policy 
+Principle P9:
+Customer Value
+ 
+Code of Business Conduct & Ethics 
+Policy
+ 
+Data Privacy policy
+ 
+Information Policy
+Disclosure Questions 
+P 
+1 
+P 
+2 
+P 
+3 
+P 
+4 
+P 
+5 
+P 
+6 
+P 
+7 
+P 
+8 
+P 
+9 
+Policy and management processes
+1. 
+a. 
+ Whether your entity’s policy/policies cover 
+each principle and its core elements of the 
+NGRBCs. (Yes/No) 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b. Has the policy been approved by the Board? 
+(Yes/No) 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+c. 
+Web Link* of the Policies, if available 
+https://www.cigniti.com/policies/
+2. 
+Whether the entity has translated the policy into 
+procedures. (Yes / No) 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3. 
+Do the enlisted policies extend to your value chain 
+partners? (Yes/No) 
+N
+N
+N
+N
+N
+N
+N
+N
+N
+4. 
+Name of the national and international codes/
+Stewardship Council, Fairtrade, Rainforest Alliance, 
+Trustea) standards (e.g. SA 8000, OHSAS, ISO, BIS) 
+adopted by your entity and mapped to each 
+principle. 
+Policies have been formulated and implemented by 
+National Guidelines on Responsible Business Conduct, 
+requirements of the Companies Act, 2013, and SEBI 
+regulations. aligned with internationally renowned 
+quality standards and models like ISO 9001:2015, ISO 
+27000:2013, AS9100D, ISO 13485:2003, ISO 22163:2017(IRIS), 
+TL9000R 5.5, ISO 14001:2015, and CMMI-DEV Version1.3 
+Level 5. 
+Cigniti Technologies Limited 
+98
+to the power of AI
+Disclosure Questions 
+P 
+1 
+P 
+2 
+P 
+3 
+P 
+4 
+P 
+5 
+P 
+6 
+P 
+7 
+P 
+8 
+P 
+9 
+Not Applicable
+commitments, goals, and targets along with 
+reasons in case the same are not met.
+Not Applicable
+Governance, leadership, and oversight
+7. 
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, 
+Message is at the beginning of the report
+8. 
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy (ies). 
+Mr. C. V. Subramanyam,  
+(Chairman & Non-Executive Director)
+Board/ Director responsible for decision making 
+on sustainability related issues? (Yes / No). If yes, 
+provide details. 
+Implementation and oversight of the Business 
+Responsibility Policies and the decision-making on 
+sustainability-related issues are the responsibility 
+of the Corporate Social Responsibility Committee of 
+the Board of Directors, which comprises of following 
+members as on March 31, 2024:
+Ms. Nooraine Fazal - Chairperson
+Mr. Srinath Batni - Member
+Mr. C. Srikanth - Member
+10. Details of Review of NGRBCs by the Company: 
+Subject for Review Indicate whether review was undertaken 
+by Director / Committee of the Board/ Any 
+other Committee 
+Frequency 
+(Annually/ 
+Half 
+yearly/ 
+Quarterly/ Any other – please specify) 
+P 
+1 
+P 
+2 
+P 
+3 
+P 
+4 
+P 
+5 
+P 
+6 
+P 
+7 
+P 
+8 
+P 
+9 
+P 
+1 
+P 
+2 
+P 
+3 
+P 
+4 
+P 
+5 
+P 
+6 
+P 
+7 
+P 
+8 
+P 
+9 
+Performance 
+against above 
+policies and follow 
+up action 
+Yes, 
+The 
+Business 
+Responsibility 
+and 
+Sustainability Committee of the Board 
+/ CMD has reviewed the performance 
+against the above policies. 
+The frequency of review is annual.
+Compliance 
+with statutory 
+requirements of 
+relevance to the 
+principles, and, 
+non-compliances.
+Compliance with statutory requirements 
+of relevance to the principles has been 
+carried out by the relevant committees of 
+the Board.
+The frequency of review is quarterly.
+11. 
+Has the entity carried out independent assessment/ evaluation of the working of its policies by an external 
+agency? (Yes/No). If yes, provide name of the agency.
+No, the evaluation of the working of its policies has been done internally. 
+Annual Report 2023-24
+99
+Corporate Overview
+Management Reports
+Financial Statement
+12. If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: 
+Questions 
+P 
+1 
+P 
+2 
+P 
+3 
+P 
+4 
+P 
+5 
+P 
+6 
+P 
+7 
+P 
+8 
+P 
+9 
+The entity does not consider the Principles material to its 
+business (Yes/No) 
+-----------Not Applicable, as all Principles 
+are covered by one or more policies--------
+The entity is not at a stage where it is in a position to formulate 
+resources available for the task (Yes/No) 
+Any other reason (please specify) 
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is designed to assist organizations in showcasing their implementation of Principles and Core 
+Elements within crucial processes and decisions. The data requested is divided into “Essential” and “Leadership” 
+categories. While the essential indicators are required to be disclosed by all mandated entities submitting this 
+report, the leading indicators may be voluntarily shared by organizations aiming to advance to a higher level of 
+social, environmental, and ethical responsibility.
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable. 
+Essential Indicators
+1. 
+year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics/principles covered 
+under the training and its 
+impact
+%age of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Board of Directors
+1
+All Principles 
+100%
+Key Managerial Personnel
+1
+All Principles
+100%
+Employees other than BoD and 
+KMPs
+Multiple Training 
+Programs
+Employees have been 
+given training on Principle 
+1 and other Principle 
+as applicable to their 
+respective functional area
+100%
+Workers
+-
+-
+-
+ 
+The employees of the company undergo various training programs on various topics. Board and KMPs 
+are apprised about the changing requirements from time to time in the Board meeting and Management 
+meetings. A structured training program on the nine principles of Responsible Business conduct will be done 
+during FY 2023-24. 
+Cigniti Technologies Limited 
+100
+to the power of AI
+(by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the 
+in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on 
+the entity’s website): 
+Monetary
+NGRBC 
+Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/judicial 
+institutions
+Amount (In 
+INR)
+Brief of the 
+Case 
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/ Fine
+been paid by the entity or by the directors / KMPs.
+Settlement
+Compounding fee
+Non-Monetary
+NGRBC
+Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Brief of the Case Has an appeal been preferred? 
+(Yes/No)
+Imprisonment
+No non-monetary imprisonment or punishment has been imposed on the entity or on 
+the directors / KMPs.
+3. 
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where 
+monetary or non-monetary action has been appealed. 
+Case Details
+Name of the regulatory/enforcement agencies/judicial 
+institutions
+paid by the company
+4. 
+ Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy. 
+ 
+Cigniti’s Code of Business Conduct and Ethics policy provides detailed guidance on the business ethics, values, 
+policies, and procedures to prevent bribery in all the activities and business dealings of Cigniti Technologies 
+Ltd. It sets forth the policy of zero tolerance of bribery applicable to the organization and its subsidiaries 
+who have an obligation to have adequate procedures for monitoring, detecting, preventing, and punishing 
+any violations of the Anti-bribery laws and other anti-corruption laws. Policies are accessible at https://www.
+cigniti.com/policies/.
+5. 
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption: 
+ 
+No disciplinary action was taken by any law enforcement agency for the charges of bribery/ corruption 
+against any of the Directors / KMPs/ Employees.
+paid by the company.
+Annual Report 2023-24
+101
+Corporate Overview
+Management Reports
+Financial Statement
+8. 
+Number of days of accounts payables ((Accounts payable *365 / cost of goods/ service procured) in the 
+following format:
+FY 2023 - 24
+FY 2022-23
+Number of days of accounts payables
+19.82
+13.07
+9.  Open-ness of business
+ 
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties 
+along-with loans and advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentrations of 
+Purchases*
+a. Purchases from trading houses as % of total 
+purchases
+NA
+NA
+b. Number of trading houses where 
+purchases 
+are 
+made from
+NA
+NA
+c. 
+Purchases from top 10 trading houses as % of total 
+purchases from trading houses
+NA
+NA
+Concentration of 
+sales
+a. Sales to dealers / distributors as % of total sales
+Nil
+Nil
+b. Number of dealers / distributors to whom sales are 
+made
+Nil
+Nil
+c. 
+Sales to top 10 dealers / distributors as % of total 
+sales to dealers / distributors
+Nil
+Nil
+Share of RPTs in
+a. Purchases (Purchases with related parties / Total 
+Purchases)
+Nil
+Nil
+b. Sales (Sales to related parties / Total Sales)
+89.05%
+89.28%
+c. 
+Loans & advances (Loans & advances given to 
+related parties / Total loans & advances)
+7.45%
+13.04%
+d. Investments (Investments in related parties / Total 
+Investments made)
+29.04%
+36.68%
+*Not applicable as the nature of the business doesn’t entail any purchase of raw-material or input materials. 
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+environmental and social impacts of product and processes to total R&D and capex investments made by 
+the entity, respectively. 
+Current Financial  
+Year 2023-24
+Previous Financial  
+Year 2022-23
+Details of improvements in 
+environmental and social impacts
+R & D
+Not Applicable
+Capex
+ 
+The company provides technical services and is not in the business of producing any product with 
+environmental impact. However, Cigniti is committed to protecting the environment of the Earth and related 
+resources. To minimize environmental impacts concerning Cigniti’s services and activities, we:
+aspects. 
+Cigniti Technologies Limited 
+102
+to the power of AI
+2. 
+a. Does the entity have procedures in place for sustainable sourcing? (Yes/No) 
+operations. 
+b. If yes, what percentage of inputs were sourced sustainably? 
+Not Applicable
+3. 
+Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the 
+end of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste. 
+Not applicable given the nature of the business of the company
+4. 
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same. 
+Extended Producer Responsibility (EPR) does not apply to the entity’s activities.
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their 
+value chains 
+Essential Indicators
+1. 
+a. Details of measures for the well-being of employees: 
+Category
+% of employees covered by
+Total 
+(A) 
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+Paternity
+Day Care 
+facilities
+Number 
+(B)
+%  
+(B / A)
+Number 
+(C)
+%  
+(C /A)
+Number 
+(D)
+%  
+(D /A)
+Number 
+(E)
+%  
+(E /A)
+Number 
+(F)
+%  
+(F /A)
+Permanent employees
+Male 
+2584
+2584
+100%
+2584
+100%
+NA
+NA
+2584
+100%
+-
+-
+Female 
+1312
+1312
+100%
+1312
+100%
+1312
+100%
+NA
+NA
+-
+-
+Total 
+3896
+3896
+100%
+3896
+100%
+1312
+100%
+2584
+100%
+-
+-
+Other than Permanent employees
+Male 
+206
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female 
+104
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total 
+310
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+The following initiatives are driven across the organization for all types of employees:
+an employee spanning physical and mental health tips. 
+and Zumba.
+monkeypox, Covid safety series 3.0, and many more
+rollout of surveys provides the level of training and awareness amongst employees. 
+assessment thereafter has been made mandatory for every employee within Cigniti.
+Annual Report 2023-24
+103
+Corporate Overview
+Management Reports
+Financial Statement
+b. Details of measures for the well-being of workers: 
+Not Applicable as the company has no workers as explained in section A.
+c.  Spending on measures towards well-being of employees and workers (including permanent and other 
+than permanent) in the following format –
+FY 2023-24
+FY 2022-23
+Cost incurred on well-being measures as a % of total revenue of 
+the company
+-
+-
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered 
+as a % 
+of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+Employees
+No. of 
+workers 
+covered 
+as a % 
+of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF 
+100%
+NA
+Y
+100%
+NA
+Y
+Gratuity
+100%
+NA
+Y
+100%
+NA
+Y
+ESI
+Not Applicable
+Other – Medical Insurance
+100%
+NA
+Y
+100%
+NA
+Y
+3. 
+Accessibility of workplaces 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by 
+the entity in this regard. 
+4. 
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy. 
+ 
+Yes, the Company has an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016. The 
+policies of the company are accessible at https://www.cigniti.com/policies/. 
+5. Return to work and Retention rates of permanent employees and workers that took parental leave. 
+Gender
+Permanent Employees
+Return to work 
+rate
+Retention rate
+Male 
+100%
+95%
+Female 
+95%
+92%
+Total 
+98%
+94%
+Cigniti Technologies Limited 
+104
+to the power of AI
+6. Is there a mechanism available to receive and redress grievances for the following categories of employees 
+and worker? If yes, give details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief) 
+Permanent Workers 
+The grievance redressal mechanism is available in the Code of 
+Business Conduct & Ethics Policy.
+Employees can report any suspected violation of the law or company 
+policies or any complaint using the email id- reach2resolve@cigniti.
+com 
+When a concern is raised, the identity and the information provided 
+is shared only on a ‘need-to-know’ basis to address the concern, as 
+required by law or otherwise, with the consent of the complainant. 
+Employees may choose to remain anonymous when raising a 
+concern (in which case they should advise this at the time concern 
+is raised). 
+We do not tolerate and take appropriate action against violations of 
+the code, whether perpetrated by employees or by people outside 
+the company. All reports are taken seriously and are investigated in 
+depth.
+Other than Permanent Workers 
+Permanent Employees 
+Other than Permanent Employees 
+7. 
+Membership of employees and worker in association(s) or Unions recognized by the listed entity: 
+Cigniti does not have any employee association recognized by management.
+8. Details of training given to employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+(A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total 
+(D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% 
+ (B / A)
+No. (C)
+%  
+(C / A)
+No. (E)
+%  
+(E / D)
+No. (F)
+%  
+(F / D)
+Employees 
+Male 
+2584
+220
+8%
+2584
+100%
+1204
+83
+7%
+1121
+93%
+Female 
+1312
+110
+8%
+1312
+100%
+701
+62
+9%
+639
+91%
+Total 
+3896
+330
+8%
+3896
+100%
+1905
+145
+8%
+1760
+92%
+9. Details of performance and Career development reviews of employees:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+Employees
+Total 
+Performance 
+Review done
+%
+Total 
+Employees
+Total 
+Performance 
+Review done
+%
+Male 
+2584
+2356
+93%
+2451
+2190
+89%
+Female 
+1312
+1195
+94%
+1133
+1124
+99%
+Total 
+3896
+3551
+93%
+3584
+3,314
+92%
+Annual Report 2023-24
+105
+Corporate Overview
+Management Reports
+Financial Statement
+10. Health and safety management system: 
+a. Whether an occupational health and safety management system has been implemented by the entity? 
+(Yes/ No). If yes, the coverage such system? 
+ 
+Yes, the health and safety management systems cover all employees and visitors. The Company has 
+policies/procedures through which the safety of employees and company property is ensured. First aid 
+arranged by the BMS team for the campus. Sick Rooms are available for employees.
+ 
+Taking appropriate personal protective measures.
+ 
+Advising employees in the area of any potential threat and/or initiate evacuation procedures when 
+required.
+ 
+Restrict access to the incident scene or affected area and surrounding area as the situation demands.
+ 
+Take any other steps necessary to minimize any threat to the health and safety of the employees.
+ 
+Request medical assistance, if necessary, or perform Basic Life support (BLS) activities.
+ 
+Evaluate the severity, potential impact, safety concerns, and response requirements based on the 
+ 
+Communicate and provide incident updates to company management, as appropriate.
+b. What are the processes used to identify work-related hazards and assess risks on a routine and non-
+routine basis by the entity? 
+ 
+Not directly applicable, given the nature of the business. 
+c. 
+Whether you have processes for workers to report the work-related hazards and to remove themselves 
+from such risks. (Y/N)
+Not directly applicable, given the nature of the business.
+d.  Do the employees/ worker of the entity have access to non-occupational medical and healthcare 
+services? (Yes/ No)
+ 
+Yes, all employees of the Company have access to non-occupational medical and healthcare services. 
+The below policies have been formulated for the betterment of all employees: 
+ 
+Group Personal Accident Policy 
+ 
+Mediclaim Insurance Policy 
+ 
+Group Term Life Insurance Policy 
+The Company regularly conducts health awareness sessions for employees. 
+11. 
+Details of safety related incidents, in the following format: 
+No recordable safety-related incidents have occurred during the FY 2022-23.
+Safety Incident/Number
+Category*
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person 
+hours worked)
+Employees
+-
+-
+Workers
+NA
+NA
+Total recordable work related injuries 
+Employees
+-
+-
+Workers
+NA
+NA
+No of fatalities
+Employees
+-
+-
+Workers
+NA
+NA
+High consequences work-related injury or ill-health (excluding 
+fatalities)
+Employees
+-
+-
+Workers
+NA
+NA
+Cigniti Technologies Limited 
+106
+to the power of AI
+12. Describe the measures taken by the entity to ensure a safe and healthy work place.
+As explained under point no. 10 above
+13. 
+Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of year 
+Remarks 
+Filed 
+during the 
+year 
+Pending 
+resolution at 
+the end of year 
+Remarks 
+Working Conditions 
+-
+-
+-
+-
+-
+-
+Health & Safety 
+-
+-
+-
+-
+-
+-
+14. Assessments for the year:
+authorities or third parties)
+Health and safety practices 
+of the business operating processes. 
+Working Conditions 
+15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+working conditions
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders 
+Essential Indicators
+1. 
+Describe the processes for identifying key stakeholder groups of the entity. 
+ 
+Cigniti Technologies Limited recognizes its societal responsibility and advocates for inclusive growth and fair 
+development among all stakeholders. We are committed to responsible growth that contributes to both our 
+business success and the broader community. Our aim is to harmonize stakeholder needs and concerns 
+while actively considering the environmental, social, and communal impacts of our actions.
+stakeholder group. 
+Stakeholder 
+Group 
+Whether 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement 
+(Annually/ Half yearly/ 
+Quarterly / others – 
+please specify) 
+Purpose and scope of 
+engagement including 
+key topics and 
+concerns raised during 
+such engagement
+Customers
+No
+Customer Meetings, Customer 
+Feedback, Website, Product 
+Catalogues, 
+Ongoing
+Customer Satisfaction, 
+Product Quality, 
+Employees
+No
+Notice Boards, Website, Employee 
+Survey feedback, Annual 
+Performance Review, Meetings, 
+Trainings
+Ongoing
+Working conditions, 
+employee performance, 
+Employee Satisfaction 
+Community, 
+NGOs
+Yes
+Corporate Social Responsibility 
+engagements, Meeting with 
+community representative
+Ongoing
+The welfare of the 
+community, 
+Investors & 
+Shareholders 
+& Analysts
+No
+AGM, Investor meets, Investor 
+Grievance redressal mechanism
+Ongoing
+Business Strategies and 
+Performance
+Regulatory 
+Bodies
+No
+Compliance Reports
+Ongoing
+Compliance with the 
+Law of the land
+Annual Report 2023-24
+107
+Corporate Overview
+Management Reports
+Financial Statement
+PRINCIPLE 5 Businesses should respect and promote human rights 
+Essential Indicators
+We uphold the principles outlined in the Fundamental Rights and Directive Principles of State Policy of the Indian 
+Constitution, which serve as our guiding principles for promoting human rights. Our adherence to international 
+human rights laws and guidelines, such as those established by the International Bill of Human Rights, is 
+unwavering. Cigniti Technologies has also released a Modern Slavery Statement on its corporate website, 
+detailing the measures taken to prevent modern slavery within our business and supply chains. Beyond mere 
+legal compliance, this underscores Cigniti’s dedication to transparent business operations and safeguarding 
+workers’ rights.
+1. 
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, 
+in the following format:
+Category 
+FY 2023-24 
+FY 2022-23
+Total (A) 
+No. of 
+employees 
+/ workers 
+covered (B) 
+% (B / A) 
+Total (C) 
+No. 
+employees’ 
+workers 
+covered (D) 
+% (D / C) 
+Employees
+Permanent 
+3896
+-
+-
+3584
+1281
+36%
+Other than permanent 
+310
+-
+-
+365
+65
+18%
+Total Employees 
+4206
+-
+-
+3949
+1,346
+34%
+2. 
+Details of minimum wages paid to employees and workers, in the following format: 
+Category
+Total
+(A)
+FY 2023-24
+Total 
+(D)
+FY 2022-23
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Equal to 
+Minimum
+Wage
+More than 
+Minimum 
+Wage
+No.
+(B)
+%  
+(B / A)
+No.
+(C)
+%  
+(C / A)
+No.
+(E)
+%  
+(E / D)
+No.
+(F)
+%  
+(F / D)
+Employees
+Permanent 
+Male 
+2584
+-
+-
+2584
+100%
+2,451
+-
+-
+2451
+100%
+Female 
+1312
+-
+-
+1312
+100%
+1,133
+-
+-
+1133
+100%
+Other 
+than 
+Permanent 
+Male 
+206
+-
+-
+206
+100%
+240
+-
+-
+240
+100%
+Female 
+104
+-
+-
+104
+100%
+125
+-
+-
+125
+100%
+Cigniti Technologies Limited 
+108
+to the power of AI
+3. 
+Details of remuneration/salary/wages, 
+a. Median remuneration / wages
+Number
+Male
+Female
+Median remuneration/ 
+salary/ wages of respective 
+category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of 
+Directors (BoD) 
+7
+585.74 lakhs
+1
+Nil as no remuneration 
+drawn
+Key Managerial 
+Personnel 
+2
+208.78 lakhs
+1
+35.06 lakhs
+Employees other 
+than BoD and 
+KMP 
+2582
+12.07 lakhs
+1312
+9.47 lakhs
+b. Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY 2023-24
+FY 2022-23
+Gross wages paid to female as % of total wages
+27.3%
+27.4%
+4. 
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business? (Yes/No) 
+or contributed to by the business.
+5. 
+Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+ 
+Considering the nature of business as of now we don’t have a focal point (Individual/ Committee) responsible 
+for addressing human rights impacts or issues caused or contributed to by the business.
+6. Number of Complaints on the following made by employees and workers: 
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks 
+Sexual Harassment 
+-
+-
+-
+2
+-
+Complaints 
+have been 
+resolved
+Discrimination at 
+workplace 
+-
+-
+-
+-
+-
+-
+Child Labour 
+-
+-
+-
+-
+-
+-
+Forced Labour/
+Involuntary Labour 
+-
+-
+-
+-
+-
+-
+Wages 
+-
+-
+-
+-
+-
+-
+Other human 
+rights-related 
+issues 
+-
+-
+-
+-
+-
+-
+Annual Report 2023-24
+109
+Corporate Overview
+Management Reports
+Financial Statement
+Act, 2013, in the following format:
+FY 2023-24
+FY 2022-23
+Total Complaints reported under the Sexual Harassment on 
+women at Workplace (Workplace (Prevention Prohibition and 
+Redressal) Act, 2013 (POSH)
+-
+-
+Complaints on POSH as a % of female employees / workers
+-
+-
+Complaints on POSH upheld
+-
+-
+8. 
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases. 
+ 
+The Code of Business Conduct & Ethics and Whistle Blower Policy provide the mechanism to prevent adverse 
+consequences to the complainant in discrimination and harassment cases. 
+9. 
+Do human rights requirements form part of your business agreements and contracts? (Yes/No) 
+Yes
+10. Assessments for the year:
+ 
+(by entity or statutory authorities or third parties) 
+Child labour 
+100%
+Forced/involuntary labour 
+100%
+Sexual harassment 
+100%
+Discrimination at workplace 
+100%
+Wages 
+100%
+Others – please specify 
+All the assessments have been done by the entity during the operations of the business.
+from the assessments at Question 9 above. 
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1. 
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format: 
+Parameter
+FY 2023-24 
+FY 2022-23 
+From renewable sources
+Total electricity consumption (A)
+-
+-
+Total fuel consumption (B)
+-
+-
+Energy consumption through other sources sources (C)
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+-
+-
+From non-renewable sources
+Total electricity consumption (D)
+7764 GJ
+6192 GJ
+Total fuel consumption (E)
+856 GJ
+694 GJ
+Energy consumption through other sources (F)
+-
+-
+Total energy consumed from non- renewable sources (D+E+F)
+8620 GJ
+6886 GJ
+Cigniti Technologies Limited 
+110
+to the power of AI
+Parameter
+FY 2023-24 
+FY 2022-23 
+Total energy consumed (A+B+C+D+E+F)
+8620 GJ
+6886 GJ
+Energy intensity per rupee of turnover (Total energy consumed 
+/ Revenue from operations)
+10.9 GJ/Crores of 
+Turnover
+9.9 GJ/Crores of
+Turnover
+Energy intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP) (Total energy consumed / Revenue from 
+operations adjusted for PPP)
+3.0 GJ/Crores of
+Turnover
+2.8 GJ/Crores of
+Turnover
+Energy intensity in terms of physical output
+-
+-
+Energy intensity (optional) – the relevant metric may be 
+selected by the entity
+-
+-
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency. (Y/N) If yes, the name of the external agency. 
+No independent assessment/ evaluation/assurance has been carried out by an external agency.
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under 
+the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action 
+taken, if any. 
+ 
+No, the Company is not covered under the Performance, Achieve, and Trade (PAT) Scheme of the Government 
+of India
+3. Provide details of the following disclosures related to water, in the following format: 
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kilolitres)
+(i) Surface water 
+-
+-
+(ii) Groundwater 
+-
+-
+(iii) Third party water*
+8086 KL
+6692 KL
+(iv) Seawater / desalinated water 
+-
+-
+(v) Others 
+-
+-
+Total volume of water withdrawal (in kiloliters) (i + ii + iii + iv + v) 
+8086 KL
+6692 KL
+Total volume of water consumption (in kiloliters) 
+8086 KL
+6692 KL
+Water intensity per rupee of turnover (Total water consumption 
+/ Revenue from operations) 
+10.3 KL / Crores of 
+Turnover
+9.6 KL / Crores of 
+Turnover
+Water intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP) (Total water consumption / Revenue from 
+operations adjusted for PPP)
+2.8 KL / Crores of
+Turnover
+9.6 KL / Crores of
+Turnover
+Water intensity in terms of physical output
+-
+-
+Water intensity (optional) – the relevant metric may be selected 
+by the entity 
+-
+-
+*Municipal Water
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency. 
+No independent assessment/ evaluation/assurance has been carried out by an external agency.
+Annual Report 2023-24
+111
+Corporate Overview
+Management Reports
+Financial Statement
+4. Provide the following details related to water discharge:
+ 
+This is not being tracked as the water usage is only towards human consumption and housekeeping purposes 
+and is discharged into municipal drainage system.
+ 
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency
+No independent assessment/ evaluation/assurance has been carried out by an external agency.
+5. 
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation. 
+6. 
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format: 
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency.
+No independent assessment/ evaluation/assurance has been carried out by an external agency.
+7. 
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format: 
+Parameter 
+Unit 
+FY 2023-24
+FY 2022-23
+Total Scope 1 emissions (Break-up of the 
+GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available) 
+Metric tonnes of 
+CO2 equivalent 
+63.4
+51.5
+Total Scope 2 emissions (Break-up of the 
+GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available) 
+Metric tonnes of 
+CO2 equivalent 
+1544.2
+1358.8
+Total Scope 1 and Scope 2 emission 
+intensity per rupee of turnover (Total 
+Scope 1 and Scope 2 GHG emissions / 
+Revenue from operations)
+Metric tonnes of 
+CO2 Equivalent / 
+Crores of Turnover
+2.0
+2.0
+Total Scope 1 and Scope 2 emission 
+intensity per rupee of turnover adjusted 
+for Purchasing Power Parity (PPP) (Total 
+Scope 1 and Scope 2 GHG emissions / 
+evenue from operations
+Metric tonnes of 
+CO2 Equivalent / 
+Crores of Turnover 
+adjusted for 
+Purchasing Power 
+Parity (PPP)
+0.6
+0.6
+Total Scope 1 and Scope 2 emission 
+intensity in terms of physical output
+-
+-
+-
+Total Scope 1 and Scope 2 emission 
+intensity (optional) – the relevant metric 
+may be selected by the entity 
+-
+-
+-
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency. 
+No independent assessment/ evaluation/assurance has been carried out by an external agency
+Cigniti Technologies Limited 
+112
+to the power of AI
+8. Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details. 
+ 
+Energy Consumption is the main source of Green House Gas emissions for the company. Cigniti is committed 
+to protecting the environment of the Earth and related resources. 
+To minimize environmental impacts concerning Cigniti’s services and activities, we:
+ 
+Comply with the applicable legal requirements concerning the environment.
+ 
+Prevent pollution, reduce waste, and minimize the consumption of resources. 
+ 
+Educate, train, and motivate employees to carry out tasks in an environmentally responsible manner. 
+ 
+Encourage environmental protection among suppliers 
+ 
+Perform regular performance reviews to ensure that environmental objectives are met. 
+ 
+Implemented a travel embargo and promoted e-meetings and networking, which
+ 
+Reduced travel emissions.
+ 
+Sourced renewable electricity for our buildings
+our heating systems)
+ 
+Invested in digital technology and the development of a ‘Sustainable Delivery
+Framework’ to help us reduce project-related travel emissions
+ 
+Implemented a sapling plantation drive called Cignitree, where more than
+100 saplings were planted by Cignitians
+ 
+Appointed Midhun Pingili (Senior Director – Marketing) as Sustainability
+In the future, we are planning to implement further measures such as:
+ 
+Raising awareness through campaigns, roadshows, and awareness programs
+ 
+Developing new practices, processes, and carbon offset initiatives
+ 
+We will continue to host green building premises
+our heating systems)
+ 
+Procuring 5-star rated equipment to reduce power consumption
+ 
+Progressing towards Social Value Quality Mark Level 2 which includes a pledge on environmental 
+sustainability
+ 
+We will continue to create projects around the above themes of recycling and renewable electricity, business 
+wider sustainability decisions in our business operations, empower our associates to lead by example, and 
+convene ecosystems that will enable us to reduce carbon emissions across the locations where we operate.
+Annual Report 2023-24
+113
+Corporate Overview
+Management Reports
+Financial Statement
+9. 
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Total Waste generated (in metric tonnes)
+Plastic waste (A) 
+-
+-
+E-waste (B) 
+0.004
+-
+Bio-medical waste (C)
+-
+-
+Construction and demolition waste (D)
+-
+-
+Battery waste (E)
+-
+-
+Radioactive waste (F)
+-
+-
+Other Hazardous waste. Please specify, if any. (G)
+-
+-
+Other Non-hazardous waste generated (H). Please specify, if 
+any. (Break-up by composition i.e. by materials relevant to the 
+sector)
+-
+-
+Total (A+B + C + D + E + F + G + H)
+0.004
+-
+Waste intensity per rupee of turnover (Total waste generated 
+/ Revenue from operations)
+0.00001 Tons /Crores 
+of Turnover
+-
+Waste intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP) (Total waste generated / Revenue from 
+operations adjusted for PPP)
+0.000001 Tons /
+Crores of Turnover
+-
+Waste intensity in terms of physical output
+-
+-
+Waste intensity (optional) – the relevant metric may be 
+selected by the entity
+-
+-
+For each category of waste generated, total waste recovered 
+through recycling, re-using or other recovery operations (in 
+metric tonnes)
+Category of waste
+(i) Recycled
+0.004
+-
+(ii) Re-used
+-
+-
+(iii) Other recovery operations
+-
+-
+Total
+0.004
+-
+For each category of waste generated, total waste disposed by 
+nature of disposal method (in metric tonnes)
+Category of waste
+(i) Incineration 
+-
+-
+-
+-
+(iii) Other disposal operations
+-
+-
+Total
+-
+-
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency
+No independent assessment/ evaluation/assurance has been carried out by an external agency
+10. 
+adopted by your company to reduce the usage of hazardous and toxic chemicals in your products and 
+processes and the practices adopted to manage such wastes. 
+Cigniti Technologies Limited 
+114
+to the power of AI
+ 
+Our waste management approach is based on the philosophy of Reduce, Reuse, and Recycle. We seek to 
+which the entire volume is treated or disposed of in line with applicable legislative requirements.
+ 
+Authorized vendor services are availed as part of E-waste disposal. Vendor will ensure safe disposal. Controls 
+are implemented to remove all the sensitive internal or client data before handing over the e-waste
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details in the following format: 
+12. Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, 
+13. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the 
+Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment 
+protection act, and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following 
+format: 
+Yes, the company is compliant with all applicable environmental laws / regulations / guidelines in India.
+that is responsible and transparent 
+Essential Indicators
+1. 
+a. 
+6 (Six)
+b. List the top 10 trade and industry chambers/ associations (determined based on the total members of 
+S. No. Name 
+of 
+the 
+trade 
+and 
+industry 
+chambers/ 
+associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1.
+National Association of Software and Service Companies National
+2.
+Indo-American Chambers of Commerce
+National / International
+3.
+National HRD Network
+National
+4.
+Society of Cyberabad Security Council
+State
+5.
+HYSEA
+State
+6.
+All India Management Association
+National
+2. 
+Provide details of corrective action taken or underway on any issues related to anticompetitive conduct by 
+the entity, based on adverse orders from regulatory authorities.
+ 
+Not applicable as no adverse orders from regulatory authorities have been received related to anticompetitive 
+conduct by the entity. 
+Annual Report 2023-24
+115
+Corporate Overview
+Management Reports
+Financial Statement
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1. 
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in 
+ 
+No requirement of Social Impact Assessments (SIA) of projects was applicable to the company in the current 
+FY 2023-24.
+2.  Provide information on project(s) for which ongoing Rehabilitation and Resettlement 
+(R&R) is being undertaken by your entity, in the following format:
+There was no project involving R&R during the FY 2023-24.
+3. 
+Describe the mechanisms to receive and redress grievances of the community. 
+ 
+Considering the nature of the business, any concern/ grievance from the community is dealt with by respective 
+departments on a case-to-case basis. No complaints/concerns have been raised by community during the 
+FY23-24 and FY22-23. 
+4. 
+Percentage of input material (inputs to total inputs by value) sourced from suppliers: 
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/ small producers 
+21.96%
+21.47%
+Sourced directly from within India
+76.84%
+76.94%
+5. 
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers 
+employed on a permanent or non-permanent / on contract basis) in the following locations, as % of total 
+wage cost
+FY 2023-24
+FY 2022-23
+Rural
+-
+-
+Semi-urban
+-
+-
+Urban
+-
+-
+Metropolitan
+100%
+100%
+“In a genuine dedication to our Corporate Social Responsibility (CSR) initiatives,  
+Cigniti is pleased to declare its support for Nethra Vidyalaya, a Junior & Degree College serving  
+the visually impaired community in Hyderabad, India”
+Cigniti Technologies Limited 
+116
+to the power of AI
+“ As part of its CSR efforts, Cigniti is proud to demonstrate solidarity with the  
+Government MNJ Institute of Oncology & Regional Cancer Centre in Hyderabad, India. We have provided 
+donations such as bedsheets, stretchers, and additional equipment to the hospital, with the aim of improv-
+ing comprehensive patient care. This contribution builds upon our previous support, which encompassed vital 
+medical equipment, a dedicated facility, and an electric buggy.”
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+The company is committed to creating and delivering engineering services and solutions that exceed customer 
+satisfaction through our efforts in product innovation, R&D activities, and ensuring an enhanced life cycle of the 
+product. 
+1. 
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+ 
+We interact with our clients regularly and across multiple platforms. We believe in continuous improvement 
+of our services to customers worldwide and conduct Customer Satisfaction Survey every year to measure the 
+level of satisfaction of the customer and to capture customer feedback on various parameters to Improve 
+internal processes based on the needs and expectations of the customers.
+2. 
+Turnover of products and/ services as a percentage of turnover from all products/service that carry 
+information about: 
+This is not relevant considering the nature of the business of the Company.
+3. 
+Number of consumer complaints in respect of the following:
+ 
+No complaints from customers were received during the last 2 years. The company is committed to creating 
+and delivering engineering services and solutions that exceed customer expectations and enhance the level 
+management systems. 
+4. 
+Details of instances of product recalls on account of safety issues:
+This is not relevant considering the nature of the business of the Company.
+Annual Report 2023-24
+117
+Corporate Overview
+Management Reports
+Financial Statement
+5. 
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If 
+available, provide a web link of the policy.
+ 
+Yes, the company has a data privacy policy and Information “Information Security Policy CPL028_Privacy 
+their dealing with us. Cigniti’s privacy policy strives to protect its data and clients’ intellectual property and 
+provide seamless services in the areas of consulting, software product development, and software testing. 
+We accomplish this by addressing the following objectives: 
+minimal to no disruptions 
+ 
+Proactively initiating business continuity practices to minimize system failures and interruptions to 
+business 
+We have multi-level security implemented to sustain IT compliance.
+Robust management system developed in line with ISO27001:2013 & GDPR requirements
+6.  Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery 
+of essential services; cyber security and data privacy of customers; re-occurrence of instances of product 
+recalls; penalty/action taken by regulatory authorities on safety of products / services.
+ 
+No regulatory action has ever been done regarding advertising, essential services, cyber security, data privacy 
+or product recalls. 
+7. 
+Provide the following information relating to data breaches:
+a. Number of instances of data breaches
+Nil
+Nil
+c. 
+Impact, if any, of the data breaches\
+Nil
+ 
+“Cigniti’s recently organized a thought-provoking session on Cyber Security Awareness, featuring 
+leading experts from the Society for Cyberabad Security Council (SCSC) and the Cybercrime team. 
+The conversation focused on the increasing wave of cyber fraud, highlighting the importance of raising 
+awareness about existing cyber threats.”
+Cigniti Technologies Limited 
+118
+to the power of AI

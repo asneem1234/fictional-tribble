@@ -1,0 +1,2390 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                August 16, 2024 
+ 
+National Stock Exchange of India Ltd., 
+Exchange Plaza, C-1 Block G, Bandra Kurla Complex 
+Bandra [E], Mumbai – 400051 
+BSE Ltd., 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Fort, Mumbai - 400 001 
+NSE Scrip Symbol: BLSE 
+BSE Scrip Code: 544107 
+ 
+Dear Sir/Ma’am, 
+ 
+SUBJECT: Business Responsibility & Sustainability Report for the FY 2023-24 
+ 
+Dear Sir/Madam, 
+  
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 (“Listing Regulations”), please find enclosed herewith the Business Responsibility 
+and Sustainability Report (BRSR) for the Financial Year 2023-24, which also forms part of the Annual Report for 
+Financial Year 2023-24.  
+ 
+The Business Responsibility & Sustainability Report are also available on the website of the Company and can be 
+accessed at www.blseservices.com. 
+ 
+ 
+Kindly take the same on record. 
+ 
+For BLS E-Services Limited 
+ 
+ 
+………………………..  
+Sameer Kumar  
+Company Secretary and Compliance Officer  
+ICSI Membership No.: ACS32216 
+Encl: as above 
+Sameer 
+Kumar
+Digitally signed 
+by Sameer 
+Kumar 
+Date: 2024.08.16 
+19:33:36 +05'30'
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  75
+Annexure VI 
+Business Responsibility & Sustainability  
+Reporting Format 
+SECTION A: GENERAL DISCLOSURES 
+I. 	 Details of the listed entity 
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L74999DL2016PLC298207
+2
+Name of the Listed Entity
+BLS E-SERVICES LIMITED
+3
+Year of incorporation
+2016
+4
+Registered office address
+G-4B-1 Extension, Mohan Co-Operative Indl. Estate,
+Mathura Road, New Delhi 110044
+5
+Corporate address
+Plot No-865, Udyog Vihar Phase-5, Gurugram, 
+Haryana-122016
+6
+E-mail
+cs@blseservices.com
+7
+Telephone
++91-11-45795002
+8
+Website
+www.blseservices.com
+9
+The financial year for which reporting is being done
+Financial year 2023-24 (April 1, 2023 to March 31, 2024)
+10
+Name of the Stock Exchange(s) where shares are 
+listed: -
+National Stock Exchange of India Limited and BSE Limited
+11
+Paid-up Capital
+Rs. 9085.64 Lakhs
+12
+Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report
+Name: Mr. Sameer Kumar
+Designation: Company Secretary and Compliance Officer
+E-mail: cs@blseservices.com
+Telephone:- landline no +91-11-45795002
+13
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e. only for the 
+entity) or on a consolidated basis (i.e. for the entity 
+and all the entities
+Standalone
+14
+Name of assurance provider
+NA
+15
+Type of assurance obtained
+NA
+II. 	 Products/services 
+16.	 Details of business activities (accounting for 90% of the turnover): 
+BLS E-Services is a technology enabled digital service provider, providing (i) Business Correspondents services to major 
+banks in India, (ii) Assisted E-services; and (iii) E-Governance Services at grass root levels in India. Through its robust 
+network it provide access points for delivery of essential public utility services, social welfare schemes, healthcare, 
+financial, educational, agricultural and banking services for governments (G2C) and businesses (B2B) alike in addition 
+to a host of B2C services to citizens in urban, semi-urban, rural and remote areas.
+76  |  BLS E-Services Limited
+17.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% of total 
+contributed Turnover 
+1
+E-Governance
+753
+49.98%
+III. 	 Operations
+18.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+NA
+4
+4
+International
+NA
+NA
+NA
+19.	 Markets served by the entity:
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+28
+International (No. of Countries)
+NA
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity? 5.04%
+c.	
+A brief on types of customers
+We provide a range of services to promote financial, social, and digital inclusion in both rural and urban areas in 
+India.
+IV. 	Employees
+20. 	Details as at the end of Financial Year: 
+a.	
+Employees and workers (including differently abled):  
+S. 
+No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1.
+Permanent (D)
+39
+32
+82.05%
+7
+17.95%
+2.
+Other than Permanent (E)
+NA
+NA
+NA
+NA
+NA
+3.
+Total employees (D + E)
+39
+32
+82.05%
+7
+17.95%
+WORKERS
+4.
+Permanent (F)
+NA
+NA
+NA
+NA
+NA
+5.
+Other than Permanent (G)
+NA
+NA
+NA
+NA
+NA
+6.
+Total workers (F + G)
+NA
+NA
+NA
+NA
+NA
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  77
+b.	
+Differently abled Employees and workers:
+S. 
+No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+Not Applicable
+2.
+Other than Permanent (E)
+3.
+Total differently abled employees (D + E)
+WORKERS
+4.
+Permanent (F)
+Not Applicable
+5.
+Other than Permanent (G)
+6.
+Total differently abled workers (F + G)
+21.	 Participation/Inclusion/Representation of women 
+Total
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+7
+1
+14.28%
+Key Management Personnel
+1
+0
+0%
+22.	 Turnover rate for permanent employees and workers  
+(Disclose trends for the past 3 years) 
+FY 2023-24
+(Turnover rate in current FY)
+FY 2022-23
+(Turnover rate in previous FY)
+FY 2021-22
+(Turnover rate in the year 
+prior to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+58%
+29%
+54%
+63%
+0%
+59%
+0%
+0%
+0%
+Permanent Workers
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+* This is primarily because of inter company transfer of employees within BLS Group.
+V. 	 Holding, Subsidiary and Associate Companies (including joint ventures)
+23. 	(a) 	Names of holding / subsidiary / associate companies / joint ventures
+Refer to Form AOC-1 provided in this Annual Report for information on holding/subsidiary/ associate companies/ 
+joint ventures. Business responsibility initiatives disclosed are pertaining to BLS E-Services Limited on standalone 
+basis and does not include the information/initiatives undertaken, if any, by the companies indicated in AOC-I
+VI. 	CSR Details
+24. 	(i) 	 Whether CSR is applicable as per section 135 of the Companies Act, 2013: (Yes/No)
+No
+(ii)	 Turnover (in Rs.)
+(iii)	 Net worth (in Rs.)
+78  |  BLS E-Services Limited
+VII. 	Transparency and Disclosure Compliances 
+25.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct:  
+Stakeholder 
+group from 
+whom
+complaint is 
+received
+Grievance
+Redressal 
+Mechanism in 
+Place (Yes/No)
+(If Yes, then 
+provide web-link 
+for grievance 
+redress policy)
+FY 2023-24
+FY 2022-23
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Communities
+No
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Investors 
+(other than 
+shareholders)
+Yes
+https://www.
+blseservices.
+com/contact-us.
+php
+4008
+0
+All the Complaints 
+were related to 
+unblocking of the 
+amount of the 
+applicants which were 
+not allotted shares 
+in the IPO of the 
+Company
+NIL
+NIL
+NIL
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal Mechanism 
+in Place (Yes/No) (If Yes, then 
+provide web-link for grievance 
+redress policy)
+FY 2023-24 (Current Financial Year )
+FY 2022-23 (Previous Financial Year)
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Shareholders
+Yes
+https://www.blseservices.com/
+investor-services.php
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Employees 
+and workers
+Yes
+https://www.blseservices.com/
+assets/policy/Vigil-Mechanism--
+Whistle-Blower-Policy.pdf
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Customers
+Yes
+https://www.blseservices.com/
+contact-us.php
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Value Chain 
+Partners
+Yes
+https://www.blseservices.com/
+assets/policy/BLS_E-Services_
+Limited-Code_of_conduct_for_
+Business_Partners.pdf
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Other 
+(please 
+specify)
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+26.	 Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format
+S. No.
+Material identified 	
+issue
+Indicate whether risk 
+or opportunity
+(R/O)
+Rationale for 
+identifying the risk/ 
+opportunity
+In case of risk, 
+approach to adapt or 
+mitigate
+Financial implications 
+of the risk or 
+opportunity
+(Indicate positive or 
+negative implications)
+Kindly refer the “Risk Management section” in Management Discussion and Analysis provided in this Annual Report
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  79
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements. 
+P1
+Business should conduct and govern themselves with Ethics, Transparency and Accountability
+P2
+Businesses should provide goods and services that are safe and contribute to sustainability throughout their 
+life cycle
+P3
+Businesses should promote the wellbeing of all employees
+P4
+Businesses should respect the interests of, and be responsive towards all stakeholders, especially those who 
+are disadvantaged, vulnerable and marginalized
+P5
+Businesses should respect and promote human rights
+P6
+Business should respect, protect, and make efforts to restore the environment
+P7
+Businesses, when engaged in influencing public and regulatory policy, should do so in a responsible manner
+P8
+Businesses should support inclusive growth and equitable development
+P9
+Businesses should engage with and provide value to their customers and consumers in a responsible manner
+Disclosure
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1. 	
+a. 	 Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs. (Yes/No)
+Yes
+	
+b. 	 Has the policy been approved by the Board? (Yes/No)
+Yes
+	
+c. 	 Web Link of the Policies, if available
+The Corporate policies of the Company can be 
+viewed at Weblink https://www.blseservices.com/bls-
+policies.php
+2. 	 Whether the entity has translated the policy into procedures. 
+(Yes / No)
+Yes
+3. 	 Do the enlisted policies extend to your value chain partners? 
+(Yes/No)
+Yes, The Company strive to influence its partners in 
+the value chain to participate in the responsible and 
+sustainable business conduct depending upon their 
+means and resources. The policy of the code of conduct 
+for business partners can be accessed at https://www.
+blseservices.com/assets/policy/BLS_E-Services_
+Limited-Code_of_conduct_for_Business_Partners.pdf
+4.	
+Name of the national and international codes/certifications/
+labels/ standards (e.g. Forest Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trustea) standards (e.g. SA 8000, 
+OHSAS, ISO, BIS) adopted by your entity and mapped to 
+each principle.
+NA
+80  |  BLS E-Services Limited
+Disclosure
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+5.	
+Specific commitments, goals and targets set by the entity 
+with defined timelines, if any.
+No
+6.	
+Performance of the entity against the specific commitments, 
+goals and targets along-with reasons in case the same are 
+not met.
+NA.
+Governance, leadership and oversight
+7.	
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets 
+and achievements (listed entity has flexibility regarding the placement of this disclosure)
+Please refer the message of Chairman and Chief Operating Officer of the company at the beginning of the Annual 
+report of FY 2023-24.
+8.	
+Details of the highest authority responsible for implementation 
+and oversight of the Business Responsibility policy (ies).
+Name: Mr. Saurab Pandey
+Designation: Chief Human Resource officer
+E-mail: cs@blseservices.com
+Telephone:- landline no +91-11-45795002
+9.	
+Does the entity have a specified Committee of the Board/ 
+Director responsible for decision making on sustainability 
+related issues? (Yes / No). If yes, provide details.
+The company does not have a specified Committee 
+for decision-making on sustainability-related issues. 
+However, the Directors and senior management 
+monitor various aspects of the Environmental, Social, 
+Governance, and Economic responsibilities of the 
+Company on a continuous basis.
+Subject for Review 
+Indicate whether review was undertaken 
+by Director / Committee of the Board/ Any 
+other Committee
+Frequency (Annually/ Half yearly/
+Quarterly/ Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance 
+against 
+above 
+policies and
+follow up action
+The department heads and the leadership team examine the Company’s Business 
+Responsibility policies regularly or as needed. The efficacy of policies is reviewed, and 
+necessary modifications to policies and processes are adopted during this assessment.
+Compliance 
+with 
+statutory 
+requirements of relevance to the 
+principles, and, rectification of 
+any non-compliances
+The Company is in due compliance with all the required regulations as applicable. We 
+are very sensitive to the policies and compliances and ensure that all of our employees 
+are following it.
+11.	
+Has the entity carried out independent assessment/ evaluation of the 
+working of its policies by an external agency? (Yes/No). If yes, provide 
+name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+No. The Evaluation is done internally, by the 
+company.
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  81
+12. 	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:  
+Questions 
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles material to its business 
+(Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a position to formulate 
+and implement the policies on specified principles (Yes/No)
+The entity does not have the financial or/human and technical 
+resources available for the task (Yes/No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements 
+with key processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential 
+indicators are expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may 
+be voluntarily disclosed by entities that aspire to progress to a higher level in their quest to be socially, environmentally, and 
+ethically responsible. 
+SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE 
+PRINCIPLE
+1
+Businesses should conduct and govern themselves with integrity, and in a manner 
+that is Ethical, Transparent, and Accountable.  
+Essential Indicators 
+1.	
+Percentage coverage by training and awareness programs on any of the principles during the financial year:
+Segment
+Total number of training 
+and
+awareness programs held
+Topics / principles
+Covered under the training 
+and its impact
+%age of persons in a 
+respective category 
+covered by awareness 
+programmes
+Board of Directors
+The Board of Directors of the Company is periodically briefed on various developments 
+for business, regulations, economy, environment, social and Governance parameters, 
+and their impact on the operations of the Company. The KMPs and Senior Management 
+are also given periodic updates on the Company’s Code of Conduct, the provisions of 
+SEBI (PIT) Regulations, and the Whistle Blower Policy.
+Key Managerial Personnel
+Employees other than BoD 
+and KMPs
+Our employees have received training on the Company’s CoC, POSH, and other topics 
+including employee well-being, health & safety, product sustainability, etc. trainings are 
+conducted time to time for all the employees.
+Workers
+NA
+82  |  BLS E-Services Limited
+2.	
+Details of fines/penalties/punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the 
+following format 
+(Note: the entity shall make disclosures based on materiality as specified in Regulation 30 of SEBI (Listing Obligations 
+and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC
+Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount
+(In INR)
+Brief of the Case
+Has an 
+appeal been 
+preferred?
+(Yes/No)
+Penalty/ Fine
+NA
+National Stock 
+Exchange of India 
+Limited
+10000/-
+Delay of 1 day in giving 
+prior 
+intimation 
+to 
+the 
+Stock 
+Exchanges 
+under 
+Regulation 29(2) / 29(3) of 
+the SEBI (LODR) Regulations 
+2015 
+about 
+the 
+board 
+meeting held on February 
+12, 2024
+No
+Settlement
+NIL
+NIL
+NIL
+NIL
+NIL
+Compounding 
+fee
+NA
+Regional Director, 
+Ministry of Corporate 
+Affairs
+1,00,000/- on 
+Company and 
+Rs. 50000/- 
+each on three 
+Directors
+Voluntary 
+compounding 
+application 
+to 
+Regional 
+Director, 
+New 
+Delhi 
+for 
+appointment of Statutory 
+Auditors in the AGM held 
+on 19.09.2017 for a period of 
+one year instead of term of 
+5 years
+NIL
+Non-Monetary
+NGRBC
+Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount  
+InINR)
+Brief of the Case
+Has an 
+appeal been 
+preferred?
+(Yes/No)
+Imprisonment
+NIL
+Punishment
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision are preferred in cases where monetary or 
+non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+Not Applicable
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a 
+web link to the policy.
+Yes, the Anti-bribery and any corruption policy is available at the website of the company at https://www.blseservices.
+com/assets/policy/Anti_Bribery_and_Corruption_Policy.pdf
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  83
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+FY 2023-24
+(Current Financial Year)
+FY 2022-23  
+(Previous Financial Year)
+Directors 
+Nil
+Nil
+KMPs 
+Employees  
+Workers 
+NA
+NA
+6.	
+Details of complaints with regard to conflict of interest:
+FY2023-24
+FY2022-23
+No.
+Remarks
+No.
+Remarks
+Number of complaints received in relation to issues of Conflict 
+of Interest of the Directors
+NIL
+Number of complaints received in relation to issues of Conflict 
+of Interest of the KMPs
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/
+law enforcement agencies/ judicial institutions, on cases of cor-ruption and conflicts of interest.- Not Applicable
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following format:
+FY 2023-24
+FY 2022-23
+Number of days of accounts payables
+NA
+NA
+9.	
+Open-ness of Business
+Provide details of concentration of purchases and sales with trading houses, dealers and related parties along-with 
+loans and advances & investments, with related parties in the following format:
+Parameter
+Metrics
+FY2023-24
+FY2022-23
+Concentration of 
+Purchases
+a.	
+Purchases from trading house as % of 
+total purchases
+NA
+NA
+b.	
+No of trading houses where purchases 
+are made
+NA
+NA
+c.	
+Purchases from top 10 trading houses 
+as % of total purchases from trading 
+houses
+NA
+Na
+Concentration on 
+sales
+a.	
+Sales to dealers/distributors as % of 
+total sales
+NA
+NA
+b.	
+Number of dealers / distributors to 
+whom sales are made
+NA
+NA
+c.	
+Sales to top 10 dealers/distributors as 
+% of total sales to dealers/distributors
+NA
+NA
+Share of RPTs in
+a.	
+Purchases (Purchases with related 
+parties / Total purchases)
+5.17%
+7.35%
+b. 	 Sales (Sales to related parties/ Total 
+sales)
+57.19%
+41.16%
+c.  	 Loans & Advances (Loans & advances 
+given to related parties / Total loans & 
+advances)
+NA
+NA
+d.  	 Investments (Investments in related 
+parties / Total Investments made )
+100%
+100%
+84  |  BLS E-Services Limited
+Leadership Indicators
+1.	
+Awareness programs conducted for value chain partners on any of the principles during the financial year: The Company 
+is committed to conducting business in an ethical, fair, legal, socially, and environmentally responsible manner. The 
+Company’s Business Partners are an integral part of the ecosystem. The process of holding discussions and conducting 
+awareness sessions with our value chain partners on these principles has been initiated.
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? 
+(Yes/No) If yes, provide details of the same.
+Yes, the Company has a Code of Conduct for the Board of Directors and Senior Management Personnel which provides 
+guidelines for avoiding and disclosing actual or potential conflict of interest with the Company. The Company receives 
+an annual declaration from its Board of Directors and Senior Management Personnel on the entities they are interested 
+in and ensures requisite approvals as required under the applicable laws are taken before entering transactions with 
+such entities.
+PRINCIPLE
+2
+Businesses should provide goods and services in a manner that is sustainable 
+and safe
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of products and processes to total R&D and capex investments made by the entity, respectively: 
+Not applicable
+2.	
+a. 	 Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+Yes. The Company considers social, ethical and environmental performance factors into the process of selecting 
+suppliers, vendors, channel partners etc.
+b. 	 If yes, what percentage of inputs were sourced sustainably?
+Presently the Company has not carried out any assessment of the percentage of inputs which were 
+sourced sustainably
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the end of life, for 
+(a) Plastics (including packaging) (b) E-waste (c) Hazardous waste, and (d) other waste.
+This is not relevant to BLS E-Services Limited as BLS E-Services Limited is a technology enabled digital service provider, 
+providing (i) Business Correspondents, (ii) Assisted E-services; and (iii) E-Governance Services and do not manufacture 
+any physical products.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste 
+collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, 
+provide steps taken to address the same.
+This is not relevant to BLS E-Services Limited as the Company is a technology enabled digital service provider and do 
+not manufacture any physical products.
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  85
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for the manufacturing 
+industry) or for its services (for the service industry)? If yes, provide details in the following format.
+LCA does not apply to BLS E-Services Limited since we are not in the product manufacturing segment. The Company 
+provides technology enabled digital services and do not manufacture any physical products
+2.	
+If there are any significant social or environmental concerns and/or risks arising from the production or disposal of your 
+products/services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly 
+describe the same along-with action taken to mitigate the same.
+LCA does not apply to BLS E-Services Limited since we are not in the product manufacturing segment. BLS E-Services 
+Limited is a technology enabled digital service provider and do not manufacture any physical products
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+Indicate input material
+Recycled or re-used input material to total material
+Current Financial Year
+Previous Financial Year
+Not Applicable 
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and 
+safely disposed, as per the following format: Not Applicable
+5.	
+Reclaimed products and their packaging materials (as a percentage of products sold) for each product category. 
+Not Applicable
+PRINCIPLE
+3
+Businesses should respect and promote the well-being of all employees, including 
+those in their value chains
+Essential Indicators
+1.	
+a) 	 Details of measures for the well-being of employees:
+% of employees Covered by
+Category
+Total
+Health  
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity  
+Benefits
+Day Care  
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+Permanent employees
+Male
+32
+32
+100%
+32
+100%
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+7
+7
+100%
+7
+100%
+7
+100%
+NA
+NA
+NA
+NA
+Total
+ 39
+39
+100
+39
+100%
+ 7
+ 100%
+NA
+NA
+NA
+NA
+Other than Permanent employees
+Male
+Not Applicable
+Female
+Total
+86  |  BLS E-Services Limited
+	
+b) 	 Details of measures for the well-being of workers:
+% of employees Covered by
+Category
+Total
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care 
+facilities
+Number 
+(B)
+%
+(B/A)
+Number
+(C)
+%
+(C/A)
+Number 
+(D)
+%
+(D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+Permanent workers
+Male
+Not Applicable
+Female
+Total
+Other than Permanent employees
+Male
+Not Applicable
+Female
+Total
+c) 	 Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent) in the following format -
+FY 2023-24
+FY 2022-23
+Cost incurred on well-being measures as a % of the total 
+revenue of the company
+0.01%
+0.00%
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year.
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+30%
+NA
+Yes
+0%
+NA
+Yes
+Gratuity
+100%
+NA
+Yes
+100%
+NA
+Yes
+ESI
+2.56 %
+NA
+Yes
+0%
+NA
+Yes
+Others – please specify
+NIL
+NIL
+NIL
+NIL
+3.	
+Accessibility of workplaces
+Are the premises/offices of the entity accessible to differently abled employees and workers, as per the requirements 
+of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+Yes, the premises / offices of the entity are accessible to differently abled employees.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a 
+web link to the policy.
+Yes, a section of HR manual defines the equal opportunity policy of the company
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  87
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+NIL
+NIL
+NIL
+NIL
+Female
+100%
+100%
+NIL
+NIL
+Total
+100 %
+100%
+NIL
+NIL
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and workers? 
+If yes, give details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent Workers
+Not Applicable
+Other than Permanent Workers
+Not Applicable
+Permanent Employees
+Employees can raise their grievances with their immediate Senior or HR 
+Manager. They can raise their feedback or file complaints with HR Department. 
+Our whistle blower policy enables employees/workers to communicate their 
+concerns about unethical practices by writing an e-mail.
+Other than Permanent Employees
+Not Applicable
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity: Not Applicable
+8.	
+Details of training given to employees and workers
+FY 2023-24
+(Current Financial Year)
+FY 2022-23
+(Previous Financial Year)
+Category
+Total 
+(A)
+On Health 
+and safety 
+measures
+On Skill 
+upgradation
+Total 
+(A)
+On Health 
+and safety 
+measures
+On Skill 
+upgradation
+No. (B)
+% 
+(B/A)
+No. (C)
+% 
+(C/A)
+No. (E)
+No. (E)
+No. (F)
+% 
+(F/D)
+Employees
+Male
+32
+32
+100%
+32
+100%
+16
+100%
+16
+100%
+Female
+7
+7
+100%
+7
+100%
+1
+100%
+1
+100%
+Total
+39
+39
+100%
+39
+100%
+17
+100%
+17
+100%
+Workers
+Male
+Not Applicable
+Female
+Total
+9.	
+Details of performance and career development reviews of employees and workers:
+Employee / Worker performance assessment is carried out by their respective department heads and the Management 
+on regular basis. This also provides a platform for their performance improvement. All employees are subjected to the 
+annual performance evaluation process of the company conducted in a fair and impartial manner.
+10.	 Health and safety management system:
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). 
+If yes, the coverage such system?
+Yes. There are minimal occupational health and safety risks considering our nature of the business. Through various 
+sessions of Trainings & Workshops the employees are made aware of Occupational Health and Safety Measures. 
+The Company’s admin team ensures periodic checks, maintenance of all electromechanical equipment including 
+88  |  BLS E-Services Limited
+Lifts, HVAC (heat, ventilation and air conditioning), fire systems, DG (Diesel Generator) sets, UPS (Uninterruptible 
+Power Supply) etc.
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis 
+by the entity?
+To minimize the risks, the following checks are undertaken by the Company:
+	
+
+Security Checks (Physical security including man-guarding, Access Control System, CCTV monitoring, 
+Firefighting systems)
+	
+
+Heating Ventilation Air Conditioning (HVAC) checks at regular intervals.
+	
+
+Building safety, periodic maintenance of electromechanical devices like lifts, UPS, Diesel Generators
+	
+
+Maintain office hygiene and cleanliness.
+	
+
+Regular advisories are issued on various safety-related aspects, such as weather warnings, fire safety and 
+security, etc.
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such 
+risks. (Y/N)
+No, we don’t have any workers.
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? 
+(Yes/ No)
+Yes.
+11.	
+Details of safety-related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one 
+million person-hours worked)
+Employees
+Nil
+Nil
+Workers
+NA
+NA
+Total recordable work-related injuries
+Employees
+Nil
+Nil
+Workers
+NA
+NA
+No. of fatalities
+Employees
+Nil
+Nil
+Workers
+NA
+NA
+High-consequence work-related injury or ill health 
+(excluding fatalities)
+Employees
+Nil
+Nil
+Workers
+NA
+NA
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+BLS E-Services Limited is committed to provide safe workplaces focusing on preventing injuries, illnesses, and 
+continuously strives to eliminate hazards and reduce OHS risks.
+There are no major health and safety (H&S) risks associated with services being provided by the Company as the 
+company is a technology enabled digital service provider, providing (i) Business Correspondents, (ii) Assisted E-services; 
+and (iii) E-Governance Services at grass root levels in India. The Company act as Business Correspondents to provide 
+banking products and services on behalf of major banks in India.
+The following measures have been taken by the Company to ensure a safe and healthy workplace:
+	
+
+Physical and electronic security measures, such as man guarding, Access Control System, CCTV monitoring and 
+Fire-fighting systems.
+	
+
+Fire and burglar alarms with fire and smoke sensors are installed for early fire detection.
+	
+
+Fire extinguishers are available in all offices for immediate fire-fighting, and regular maintenance of the equipment 
+is ensured.
+	
+
+CCTV cameras are used for detecting and recording all activities, including sabotage, if any.
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  89
+	
+
+First-Aid Boxes are available in all offices, and regular first-aid training is provided to all employees and security 
+guards.
+	
+
+Earthling pits and lightning conductors are installed in buildings to discharge lightning safely.
+	
+
+The Company ensures cleanliness and hygiene in the dining area to maintain a healthy environment.
+13.	 Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution at the 
+end of the year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at the 
+end of the year
+Remarks
+Working Conditions
+Nil
+Nil
+No
+Nil
+Nil
+No
+Health & Safety
+Nil
+Nil
+No
+Nil
+Nil
+No
+14.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks/concerns arising from assessments of health & safety practices and working conditions.
+No such safety related incident occurred which required any corrective action however Health and safety trainings 
+were conducted during the year to educate the employees about workplace safety.
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of the death of (A) Employees (Y/N) 
+(B) Workers (Y/N) (A) Yes, all employees are covered under Group Term Life Policy of the Company. In the event of 
+Death, the family is covered appropriately, as per eligibility criteria’s. (B) Not Applicable
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the 
+value chain partners.
+The Company regularly verifies the payment made by vendors to various government authorities towards statutory 
+payments internally. Tracking compliance through GSTIN portal, Invoice Running Number (IRN) control and e-way bills 
+control are some of the processes used to ensure compliance.
+3.	
+Provide the number of employees/workers having suffered high-consequence work-related injury / ill-health / fatalities 
+(as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable employment or 
+whose family members have been placed in suitable employment:
+Total no. of affected 
+employees/ workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members 
+have been placed in suitable employment
+Percentage of 
+accident-affected 
+employees/ workmen 
+rehabilitated
+FY 2023-24
+FY 2022-23
+FY 2023-24
+FY 2022-23
+Employees
+0
+0
+0
+0
+0
+Workers
+NA
+NA
+NA
+NA
+NA
+90  |  BLS E-Services Limited
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management of 
+career endings resulting from retirement or termination of employment? (Yes/ No)
+Yes, The Company provides gratuity to employees who fulfil the criteria at the time of retirement. The retiring employees 
+who have detailed understanding of our business, processes and systems may be appointed as an external consultant 
+as per Company’s requirements on a case-to-case basis.
+5.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were 
+assessed
+Health and safety practices
+The Company expects from all the value chain partners to adhere with the applicable 
+provisions encompassing the health & safety measures and providing favorable working 
+conditions to their workforce. The Company has adopted code of conduct for business 
+partners. The policy can be accessed at https://www.blseservices.com/bls-policies.php
+Working Conditions
+6.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from assessments 
+of health and safety practices and working conditions of value chain partners. 
+No significant/risk has been observed
+PRINCIPLE
+4
+Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+Any individual or group of individuals that adds value to the business of the Company is identified as a key stakeholder. 
+This includes employees, shareholders and investors, customers, partners and vendors, Community and NGO regulators, 
+lenders, and various government organizations amongst others.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder
+Group
+Whether 
+identified as 
+Vulnerable &
+Marginalized
+Group (Yes/No)
+Channels of 
+communication (Email, 
+SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website, 
+Other
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly/ 
+others – please 
+specify)
+Purpose and scope of 
+engagement including 
+key topics and concerns 
+raised during such 
+engagement
+Customers
+No
+Email, SMS, 
+Newspaper, Pamphlets, 
+Advertisement, 
+Community 
+Meetings,Notice Board, 
+Website etc.
+as and when 
+required
+Product launch 
+awareness;
+	y
+Customer service 
+delivery;
+	y
+Seeking customer 
+feedback; and
+	y
+Customer query and 
+Complaint resolution.
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  91
+Stakeholder
+Group
+Whether 
+identified as 
+Vulnerable &
+Marginalized
+Group (Yes/No)
+Channels of 
+communication (Email, 
+SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website, 
+Other
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly/ 
+others – please 
+specify)
+Purpose and scope of 
+engagement including 
+key topics and concerns 
+raised during such 
+engagement
+Investors/
+Shareholders
+No
+Investor Meets, Investor 
+Call, Press Release and 
+Mail updates, Annual 
+General Meeting, Stock 
+Exchange Intimations, 
+Website Newspaper 
+Advertisement.
+Quarterly, annually 
+and on need basis
+Quarterly results, 
+dividend, communication 
+with respect to IEPF, 
+AGM Notice, Annual 
+Report etc.
+Employees
+No
+As needed, Email Direct 
+Interaction project or 
+operations reviews; 
+video conferences; audio 
+conference calls; one-on-
+one counselling
+Regular/on need 
+basis
+To inform the employees 
+about key developments 
+in the Company, routine 
+work, personal and 
+professional growth and 
+also addressing their 
+grievances
+Partner and 
+vendors
+No
+Emails, phone calls, face 
+to face meetings. Direct 
+interactions on a case-to-
+case basis
+Regular/On need 
+basis
+Various steps to enhance 
+the engagement of 
+partners and vendors 
+in development of the 
+Company. To know and 
+address their grievances
+Governments 
+& Regulatory 
+Authorities
+No
+Call, Newspaper 
+advertisement, Online 
+filling, Submission through 
+portal,
+Periodically, as and 
+when required
+With regard to 
+compliance with law, 
+amendments, approvals 
+etc.
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics 
+or if consultation is delegated, how is feedback from such consultations provided to the Board?
+The pertinent departments of the company are in charge of routinely responding to the concerns of their respective 
+stakeholders. The Board conducts extensive discussions with the Executive Director and other senior leaders representing 
+these functions as and when any issue arises in this regard. These discussions serve as a major basis for the Board's 
+discussion and guidance regarding key stakeholder concerns. For instance, the Chief Financial Officer ("CFO") and his 
+team receive input on investor trends and challenges; the Chief Human Resources Officer ("CHRO") provides input 
+on employees; and the Heads of Businesses provide feedback on customers, Company Secretary (CS) and his team 
+provides input on investors, regulators.
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and social 
+topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were 
+incorporated into the policies and activities of the entity.
+YES, the Company always give importance to the review and feed backs of all stake holders economic, environmental, 
+and social concern and accordingly the changes is made in policies and activities being done by the Company.
+92  |  BLS E-Services Limited
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized 
+stakeholder groups.
+The company recognises the needs of communities, particularly those of marginalised and vulnerable groups. The 
+Company has constituted Corporate Social Responsibility Committee to identify and contribute in well-being of 
+vulnerable/ marginalized community. During the current financial year the Company has to spend on CSR activity as 
+per the provision of Section 135 of the Companies Act 2013 however during the reporting period the provisions of CSR 
+was not applicable to the Company.
+PRINCIPLE
+5
+Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format:
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of employees 
+/ workers 
+covered (B)
+% (B/A)
+Total (A)
+No. of employees 
+/ workers 
+covered (B)
+% (B/A)
+Employees
+Permanent
+39
+39
+100%
+17
+17
+100%
+Other than permanent
+NA
+NA
+NA
+NA
+NA
+NA
+Total Employees
+39
+39
+100%
+17
+17
+100%
+Workers
+Permanent
+Not Applicable
+Other than permanent
+Total Workers
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+FY 2023-24
+(Current Financial Year)
+FY 2022-23
+(Previous Financial Year)
+Category
+Total 
+(A)
+Equal to 
+Minimum 
+Wage
+More than 
+Minimum 
+Wage
+Total 
+(A)
+Equal to 
+Minimum 
+Wage
+More than 
+Minimum 
+Wage
+No. (B)
+% 
+(B/A)
+No. (C)
+% 
+(C/A)
+No. (E)
+No. (E)
+No. (F)
+% 
+(F/D)
+Employees
+Permanent
+The wage rates in scheduled employment differ across states, sectors, skills, 
+regions, and occupations owing to various factors. Hence, there is no single 
+uniform minimum wage rate across the country and the revision cycle differs for 
+each state. However, Minimum wages are paid and adhered to by the Company 
+as per the minimum wage notification issued by the respective Central and State 
+bodies for different  establishments under the Minimum Wages Act and Rules.
+Male
+Female
+Other than Permanent
+Male
+Female
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  93
+FY 2023-24
+(Current Financial Year)
+FY 2022-23
+(Previous Financial Year)
+Category
+Total 
+(A)
+Equal to 
+Minimum 
+Wage
+More than 
+Minimum 
+Wage
+Total 
+(A)
+Equal to 
+Minimum 
+Wage
+More than 
+Minimum 
+Wage
+No. (B)
+% 
+(B/A)
+No. (C)
+% 
+(C/A)
+No. (E)
+No. (E)
+No. (F)
+% 
+(F/D)
+Workers
+Permanent
+Not Applicable
+Male
+Female
+Other than Permanent
+Male
+Female
+3.	
+Details of remuneration/salary/wages
+a.	
+Median remuneration/wages:
+Gender
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD)
+1
+150000
+1
+NA
+Key Managerial Personnel
+1
+116000
+0
+NA
+Employees other than BoD and KMP
+30
+58275
+7
+52093
+Workers
+NA
+NA
+NA
+NA
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format 
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of total wages
+13.49%
+5.37%
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business? (Yes/No)
+Yes Mr. Saurab Pandey, Chief Human Resource Officer is responsible for addressing human rights issue.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+The company has redressal mechanism in place for its employees, where they can report their concerns and seek 
+redressal for the same. Whistle Blower Policy lays down guidelines for reporting of protected disclosures by employees, 
+Directors & other stakeholders, relating to violation of the Company CoC. The Company has adopted a Policy on 
+Prevention, Prohibition and Redressal of Sexual Harassment at workplace in line with the provisions of the Sexual 
+Harassment of Women at Workplace (Prevention Prohibition and Redressal) Act, 2013 and Rules framed thereunder.
+94  |  BLS E-Services Limited
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Sexual Harassment
+NIL
+Discrimination at 
+workplace
+Child Labour
+Forced Labour/
+Involuntary Labour
+Wages
+Other human rights 
+related issues
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace ( Prevention, Prohibition and Redressal) Act, 2013, 
+in the following format:
+FY 2023-24
+FY 2022-23
+Total Complaints reported under Sexual Harshrment on of Women at 
+Workplace ( Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+NIL
+Complaints  on POSH as a % of female employees/ workers 
+Complaints on POSH upheld
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+The mechanisms for addressing grievances are outlined in the HR Policy, ensuring strict adherence to anonymity and 
+prohibiting any form of harassment or violence to safeguard the complainant’s safety. The Company has zero tolerance 
+for any kind of harassment and discrimination. Anyone involved in targeting such a person raising such complaints will 
+be subject to disciplinary action.
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+Yes, The Company strives to inculcate the values related to human rights, in its policies applicable at all levels of 
+the organization and engagements with all of its stakeholders. The Company has formulated code of conduct for 
+its business partners. Code of Conduct is applicable to all our vendors, employees of business partners, consultants, 
+retainers or any individual engaged providing services to the Company who have to comply with all applicable laws, 
+including labour laws which forms a part of our vendor/service provider contracts and business requirements. The 
+Code of conduct for business partners is available on the website of the Company. The same can be accessed at 
+https://www.blseservices.com/bls-policies.php
+10.	 Assessments for the year:
+The Company internally monitors compliance for all relevant laws and policies pertaining to these issues at 100% of its 
+offices. There have been no observations by local statutory / third parties in India in FY 2024
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labour
+The company complies with the applicable laws.
+Forced/involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others – please specify
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  95
+11.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 10 above.
+No significant risks and concerns have been identified in FY 2023-24 human rights self-assessment. Therefore, no 
+corrective actions were implemented.
+Leadership Indicators
+1.	
+Details of a business process being modified/introduced as a result of addressing human rights grievances/complaints.
+The Company respects human rights of each individual associated with us. The Company has not received any such 
+kind of complaints so there was no requirement to modify business process or introduce a new process as a result of 
+addressing human rights grievances/complaints.
+2.	
+Details of the scope and coverage of any Human rights due diligence conducted.
+The Company is committed to protecting and respecting Human Rights and remedying rights violations in case they 
+are identified; for example, issues relating to forced labour, child labour, freedom of association, right to collective 
+bargaining, equal remuneration and discrimination. The Company works towards providing equal employment 
+opportunity, ensuring distributive, procedural, and interactional fairness, creating a harassment-free, safe environment 
+and respecting fundamental rights. As an equal opportunity employer, no discrimination is tolerated on any aspects.
+3.	
+Is the premise/office of the entity accessible to differently-abled visitors, as per the requirements of the Rights of Persons 
+with Disabilities Act, 2016?
+Yes, the Company believes in accessibility for all.
+4.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that 
+were assessed
+Sexual Harassment
+Not measured
+Discrimination at workplace
+Child Labour
+Forced Labour/Involuntary Labour
+Wages
+Others – please specify
+The Company does not conduct any formal assessment of its value chain partner. However all value chain partners 
+are expected to adhere to the CoC of the Company, which does not tolerate any form of harassment, whether sexual, 
+physical, verbal or psychological.
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above.
+Not Applicable
+96  |  BLS E-Services Limited
+PRINCIPLE
+6
+Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+From Renewable sources
+Total electricity consumption (A) in joules in lakhs
+NIL
+NIL
+Total fuel consumption (B)
+NIL
+NIL
+Energy consumption through other sources (C)
+NIL
+NIL
+Total energy consumed from renewable sources (A+B+C)
+NIL
+NIL
+From non-Renewable sources
+Total electricity consumption (D)
+1060933
+41195
+Total fuel consumption (E)
+-
+-
+Energy consumption through other sources (F)
+NIL
+NIL
+Total energy consumed from non-renewable sources (D+E+F)
+1060933
+41195
+Total energy consumption (A+B+C+D+E+F)
+1060933
+41195
+Energy intensity per rupee of turnover 
+(Total energy consumption/ Revenue from Operations)
+267.46
+20.06
+Energy intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (PPP) 
+(Total energy consumed / Revenue from operations adjusted for PPP)
+-
+-
+Energy intensity in terms of physical output 
+Energy intensity (optional) – the relevant metric may be selected by the 
+entity
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency. (Y/N) 
+If yes, the name of the external agency. No
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have 
+been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+Not Applicable.
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Not applicable as the sources of freshwater at the Company’s premises is from third party vendors only. There is no 
+direct extraction of water by the Company.
+4.	
+Provide the following details related to water discharged:
+The sources of freshwater at the Company is from third party vendors only. While we have not measured our water 
+consumption so far, we have initiated discussions internally on tracking water consumption at our office premises.
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  97
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+The Company is planning to initiate the multiple efforts in the form of recycling and reusing of waste water and also 
+sensitising our employees and clients about the importance of water. We have already started putting posters etc in 
+office spaces talking about water conservation and zero liquid discharge.
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format: Not Applicable
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format: 
+Not Applicable
+8.	
+Does the entity have any project related to reducing Green House Gas emissions? If yes, then provide details.
+The company as part of its ESG vision is undertaking initiatives like reduction of unnecessary emails, sensitising 
+employees to utilise public transport, reutilisation of paper, etc. as part of bigger mission towards green nation.
+9.	
+Provide details related to waste management by the entity, in the following format:
+The Company is committed to its business in a sustainable manner, the Company is a technology enabled digital 
+service provider and through its operations has minimal impact on the environment.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.-No
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your 
+company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to 
+manage such wastes.
+Not applicable. BLS E-Services Limited does not in manufacturing business, therefore does not use any hazardous or 
+toxic chemicals in its processes.
+11.	
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals 
+/ clearances are required, please specify details in the following format: Not Applicable
+12.	 Details of Environmental Impact Assessments (EIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year: Not Applicable
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, and Environment protection act and 
+rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format:
+The Company adheres to and complies with the relevant environmental laws, regulations, and guidelines in India, if 
+applicable, including Water (Prevention and Control of Pollution) Act, the Air (Prevention and Control of Pollution) Act, the 
+Environment Protection Act, and the respective rules established under these Act. The Company ensures that operations 
+align with these legal requirements to promote environmental stewardship and maintain regulatory compliance.
+Leadership Indicators
+1.	
+Water withdrawal, consumption, and discharge in areas of water stress (in kilolitres):
+For each facility/plant located in areas of water stress, provide the following information: Not Applicable
+(i)	 Name of the area
+(ii)	 Nature of operations
+(iii)	 Water withdrawal, consumption, and discharge in the following format:
+The Company is committed to conduct its business in a sustainable manner. However, being a facilitator of Visa 
+processing and other allied services, the Company through its operations has minimal impact on the environment.
+98  |  BLS E-Services Limited
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency. (Y/N) 
+If yes, the name of the external agency. No
+2.	
+Please provide details of total Scope 3 emissions & their intensity, in the following format: Not Applicable
+3.	
+With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, provide details of 
+significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation 
+activities.
+Not Applicable
+4.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, 
+or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as 
+outcome of such initiatives, as per the following format: Not Applicable
+5.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+The role of business continuity and disaster management at the Company helps the organisation achieve its strategic 
+goals, safeguards its interests, and fortifies its capacity to fend off threats from both the inside and the outside. It also 
+makes it possible for vital business operations to continue operating without interruption in the case of an emergency.
+Through its internal portal, BLS maintains Business Contingency Plans (BCP) for natural catastrophes including 
+earthquakes, floods, cyclones, etc. The action owners' responsibilities are outlined in the plan, along with the precautions 
+to be taken, evacuation protocols, and post-incident action plan that must be adhered to at any sites where the 
+emergency scenario may arise.
+6.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or 
+adaptation measures have been taken by the entity in this regard?
+NIL
+7.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts. NIL
+PRINCIPLE
+7
+Businesses, when engaging in influencing public and regulatory policy, should do 
+so in a manner that is responsible and transparent
+Essential Indicators
+1.	
+a. 	 Number of affiliations with trade and industry chambers/ associations.
+b. 	 List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) 
+the entity is a member of/ affiliated to.
+S. 
+No.
+Name of the trade and industry chambers/ 
+associations
+Reach of trade and industry chambers/ associations 
+(State/National)
+1
+NA
+2
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, 
+based on adverse orders from regulatory authorities. 
+Not applicable
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  99
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity:
+The Company’s approach is to work closely with trade/industry associations/government/ in evolving policies that 
+support technology, trade and people upliftment. The company participates in stakeholder consultation with Industry 
+players and supports the Government in framing policies related to Governance and administration, Economic reforms, 
+Sustainable business principles, Social and community development etc.
+PRINCIPLE
+8
+Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current 
+financial year. Not Applicable
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your 
+entity, in the following format:
+The above disclosure is not applicable as no projects have been undertaken during the reporting period for which 
+Rehabilitation and Resettlement (R&R) was applicable.
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+We have a channel to receive and address grievances received from the community. An email address and phone 
+number are made accessible for members from the general community to share their grievances or complaints.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/ small producers
+NA
+NA
+Directly from within India
+NA
+NA
+5.	
+Job creations in smaller towns-Disclose wages paid to persons employed (including ) employees or workers employed on 
+a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost
+Location
+FY 2023-24
+FY 2022-23
+Rural
+-
+-
+Semi-urban
+-
+-
+Urban
+100%
+100%
+Metropolitan
+-
+-
+(Place to be categorized as per RBI Classification System-rural / semi-urban/ Urban/ metropolitan)
+100  |  BLS E-Services Limited
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+Not Applicable
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+The provision of CSR was not applicable to the Company during the reporting period.
+3.	
+(a) 	Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups? (Yes/No)
+No.
+(b) 	From which marginalized /vulnerable groups do you procure?
+Not Applicable.
+(c) 	 What percentage of total procurement (by value) does it constitute?
+Not Applicable.
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current 
+financial year), based on traditional knowledge:
+S. 
+No.
+Intellectual Property based on 
+traditional knowledge
+Owned/ Acquired 
+(Yes/No)
+Benefit shared (Yes 
+/ No)
+Basis of calculating 
+benefit share
+Not Applicable
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property-related disputes 
+wherein usage of traditional knowledge is involved.
+Name of Authority
+Brief of the Case
+Corrective action taken
+Not Applicable
+6.	
+Details of beneficiaries of CSR Projects:
+S. 
+No.
+CSR Project
+No. of persons benefitted from CSR Projects
+% of beneficiaries from vulnerable and 
+marginalized groups
+During the period under review provision of CSR was not applicable to the Company
+Corporate Overview
+Statutory Reports
+Financial Statements
+Annual Report 2023-24  |  101
+PRINCIPLE
+9
+Businesses should engage with and provide value to their consumers in a 
+responsible manner
+Essential Parameter
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+The Company has a system in place to address to consumer complaints. The consumers have an option to raise a 
+complaint through multiple communication channel like (a.) Email (b.) Toll-free number (c.) Social Media platforms.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/services that carry information about: 
+Not Applicable
+3.	
+Number of consumer complaints in respect of the following:
+FY 2023-24
+FY 2022-23
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Data privacy
+NIL
+NIL
+No such 
+Complaints 
+have been 
+reported in the 
+period stated
+NIL
+NIL
+No such 
+complaints have 
+been reported 
+in the period 
+stated
+Advertising
+Cyber-security
+Delivery of essential 
+services
+Restrictive Trade 
+Practices
+Unfair Trade Practices
+Other
+4.	
+Details of instances of product recalls on account of safety issues:
+Not Applicable, as we are in service industry and do not manufacture any product
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+Yes we do have a policy in place which addresses the cyber security compliances or risks related to data privacy.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+NIL
+7.	
+Provide the following information relating to data breaches:
+a.	
+Number of instances of data breaches: NIL
+b.	
+Percentage of data breaches involving personally identifiable information of Customers. NIL
+c.	
+Impact, if any, of the data breaches: NIL
+102  |  BLS E-Services Limited
+Leadership Indicators
+1.	
+Channels/platforms where information on products and services of the entity can be accessed (provide a web link, if 
+available).
+Information relating to products and other services is available on company’s website at www.blseservises.com
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+The Customers are made aware of all details, terms and conditions, modalities, usage related to the services they are 
+availing from BLS E-services Limited. Information relating to products and other services is available on company’s 
+website at www.blseservises.com
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+The information which is material for consumers is published on the website of the Company that is www.blseservices.
+com
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/
+Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer satisfaction 
+relating to the major products/services of the entity, significant locations of operation of the entity or the entity as a 
+whole? (Yes/ No)
+The Company does not have a tangible / physical product. The Company is in the business of providing technology 
+enabled services hence the display of the product information is not applicable.

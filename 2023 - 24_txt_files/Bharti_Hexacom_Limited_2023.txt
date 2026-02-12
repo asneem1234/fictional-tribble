@@ -1,0 +1,3892 @@
+ 
+  Bharti Hexacom Limited 
+Regd. and Corporate Office: Bharti Crescent, 1 Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi - 110 070, India 
+Tel: +91-11-4666 6100; Fax: +91-11-4166 6137 
+E-mail: bhartihexacom@bharti.in; Website: www.bhartihexacom.in 
+CIN: L74899DL1995PLC067527 
+ 
+ 
+ 
+ 
+August 08, 2024 
+ 
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1 Block G 
+Bandra Kurla Complex, Bandra (E) 
+Mumbai – 400051, India 
+Symbol: BHARTIHEXA 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai – 400001, India 
+Scrip Code: 544162 
+ 
+Sub: Business Responsibility and Sustainability Report for financial year 2023-24 
+ 
+Dear Sir/ Madam,  
+ 
+Pursuant to Regulation 34 of Securities Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, we are enclosing herewith Business 
+Responsibility and Sustainability Report for the financial year 2023-24. The enclosed 
+report also forms part of the Annual Report for the financial year 2023-24. 
+ 
+The Annual Report for the financial year 2023-24 is separately uploaded on the website 
+of the stock exchanges viz. National Stock Exchange of India Limited and BSE Limited 
+and is also available on the website of the Company at https://www.bharti 
+hexacom.in/results-annual-results.html  
+ 
+Please take the above information on record. 
+ 
+Thanking you, 
+Sincerely yours, 
+ 
+For Bharti Hexacom Limited 
+ 
+ 
+ 
+Richa Gupta Rohatgi 
+Company Secretary & Compliance Officer 
+ 
+Encl.: As above 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Richa Gupta 
+Rohatgi
+Digitally signed by 
+Richa Gupta Rohatgi 
+Date: 2024.08.08 
+22:17:06 +05'30'
+Business Responsibility & 
+Sustainability Reporting 
+Bharti Hexacom Limited
+Annual Report 2023-24
+2
+Business Responsibility & 
+Sustainability Reporting 
+1.
+Corporate Identity Number (CIN) of the Listed Entity 
+L74899DL1995PLC067527
+2.
+Name of the Listed Entity 
+Bharti Hexacom Limited (‘Bharti Hexacom’ or 
+‘Hexacom’ or ‘Company’)
+3.
+Year of incorporation 
+1995
+4.
+Registered office address 
+Bharti Cresent, 1, Nelson Mandela Road, Vasant 
+Kunj, Phase II, New Delhi-110070, India
+5.
+Corporate address 
+Bharti Crescent, 1, Nelson Mandela Road, Vasant 
+Kunj, Phase II, New Delhi-110070, India
+6.
+E-mail
+bhartihexacom@bharti.in
+7.
+Telephone 
++91-11-4666 6100
+8.
+Website
+https://bhartihexacom.in
+9.
+Financial year for which reporting is being done 
+FY 2023-24
+10.
+Name of the Stock Exchange(s) where shares are listed
+BSE Limited (BSE), National Stock Exchange of India 
+Limited (NSE) with effect from April 12, 2024
+11.
+Paid-up Capital
+H 2,500 Mn. 
+12.
+Name and contact details (telephone, email address) of 
+the person who may be contacted in case of any queries 
+on the BRSR report
+Company Secretary & Compliance Officer, 
+Richa Gupta Rohatgi  
+Telephone Number: +91-11-4666 6100 
+Email id:  bhartihexacom@bharti.in
+13.
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e. only for the entity) 
+or on a consolidated basis (i.e. for the entity and all the 
+entities which form a part of its consolidated financial 
+statements, taken together)
+Standalone basis - Bharti Hexacom Limited, unless 
+otherwise specified
+14.
+Name of assurance provider
+BDO India LLP
+15.
+Type of assurance obtained
+Limited Assurance
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity 
+II.	
+Products/services    
+	
+16.	
+Details of business activities (accounting for 90% of the turnover):
+	
+17.	
+Products/services sold by the entity (accounting for 90% of the entity’s turnover): 
+S. 
+No.
+Product/service
+NIC code
+% of total turnover 
+contributed
+1.
+Wireless telecommunication activities 
+i.	
+Activities of internet access by the operator of the wireless 
+infrastructure (61201)
+ii.	 Activities of maintaining and operating, cellular and other 
+telecommunication networks (61202)
+iii.	 Activities of other wireless telecommunications activities (61209)
+612
+97.10
+2.
+Wired telecommunication activities
+i.	
+Activities of basic telecom services: telephone, telex and 
+telegraph (includes the activities of STD/ISD booths) (61101)
+ii.	 Activities of providing internet access by the operator of the 
+wired infrastructure (61104)
+611
+2.90
+S. 
+No.
+Description of main activity
+Description of business activity
+% of turnover of the entity
+1.
+Information and communication
+Wired, wireless or satellite 
+telecommunication activities
+100
+Bharti Hexacom Limited
+Annual Report 2023-24
+3
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+Location
+Number of plants*
+Number of offices
+Total
+National
+Not applicable
+11
+11
+International**
+Not applicable
+Not applicable
+Not applicable
+Locations
+Number
+National (No. of states)
+7
+International (No. of countries)*
+Not applicable
+III.	 Operations
+	
+18.	
+  Number of locations where plants and/or operations/offices of the entity are situated: 
+	
+	
+* Mobile towers are not included.
+	
+	
+** Bharti Hexacom has no international operations.
+	
+19.	
+Markets served by the entity: 
+	
+	
+a.	
+Number of locations:
+	
+	
+	
+* Bharti Hexacom has no international operations.
+	
+	
+b.	
+What is the contribution of exports as a percentage of total turnover of the entity? 0.17% 
+	
+	
+c.	
+A brief on types of customers: End consumers (B2C), Business customers (B2B) 
+IV.	
+Employees
+	
+20.	 Details as at the end of financial year i.e., as on March 31, 2024
+	
+	
+a.	
+Employees and workers (including differently abled): 
+S. 
+No.
+Particulars
+Total (A)
+ Male
+ Female
+No. (B)
+%  (B / A)
+No. (C)
+% (C / A)
+Employees
+1.
+Permanent (D)
+424
+370
+87
+54
+13
+2.
+Other than permanent (E)
+-
+-
+-
+-
+-
+3.
+Total employees (D + E)
+424
+370
+87
+54
+13
+Workers
+4.
+Permanent (F)
+-
+-
+-
+-
+-
+5.
+Other than permanent (G)
+1,110
+1,097
+99
+13
+1
+6.
+Total workers (F + G)
+1,110
+1,097
+99
+13
+1
+	
+	
+b.	
+Differently abled employees and workers: 
+S. 
+No.
+Particulars
+Total (A)
+Male
+ Female
+No. (B)
+%  (B / A)
+No. (C)
+% (C / A)
+Differently abled employees 
+1.
+Permanent (D)
+1
+1
+100
+0
+0
+3.
+Total differently abled employees (D)
+1
+1
+100
+0
+0
+Differently abled workers 
+4.
+Other than permanent (G)
+Nil
+6.
+Total differently abled workers (G)
+Particulars
+Total (A)
+No. and percentage of females
+No. (B)
+% (B / A)
+Board of Directors
+10
+1
+10
+Key Management Personnel
+3
+1
+33
+As on March, 31 2024.
+	
+21.	
+Participation/inclusion/representation of women:
+	
+22.	 Turnover rate for permanent employees and workers (disclose trends for the past 3 years): 
+Particulars
+FY 2023-24 (in %)
+FY 2022-23 (in %)
+FY 2021-22 (in %)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent employees
+19.6
+18.2
+19.3
+25.1
+35.5
+26.1
+40.1
+38.1
+39.8
+Bharti Hexacom Limited
+Annual Report 2023-24
+4
+V.	
+Holding, subsidiary and associate companies (including joint venture)	
+	
+23.	 (a)	
+Name of the holding/subsidiary/associate companies/joint ventures:
+S. 
+No.
+Name of the holding /subsidiary/
+associate companies/joint 
+ventures (A)
+Indicate whether 
+holding/ subsidiary/
+associate/joint 
+venture
+% of shares 
+held by listed 
+entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1.
+Bharti Airtel Limited*
+Holding company
+70
+Yes
+	
+	
+	
+* Bharti Airtel Limited (‘Bharti Airtel’ or ‘Airtel’) is the holding company of Bharti Hexacom Limited.
+VI.	 CSR Details
+	
+24.	 (i)	
+Whether CSR is applicable as per Section 135 of Companies Act, 2013: Yes*              
+	
+	
+(ii)	
+Turnover: H 70,888 Mn. 
+	
+	
+(iii)	 Net worth: H 43,514 Mn.
+	
+	
+The CSR provisions were applicable to the Company, however the requirement to contribute 2% of average net profit of immediately 
+preceding 3 years is not applicable.
+VII.	 Transparency and disclosures compliances  
+	
+25.	 Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct (NGRBC):
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance redressal 
+mechanism in place (Yes/
+No) (If yes, then provide 
+web-link for grievance 
+redress policy)
+FY 2023-24
+FY 2022-23
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities & 
+NGOs
+Yes, Communities 
+& NGOs Grievance 
+Redressal Policy
+0
+0
+-
+0
+0
+-
+Shareholders/ 
+Investors*
+Yes, Shareholders
+Yes, Investors
+0
+0
+-
+0
+0
+-
+Employees and 
+workers
+Yes 
+1
+0
+-
+0
+0
+ -
+Customers
+Yes, Telecom Charter
+Customer complaints are resolved as per applicable legislations, 
+including sector specific regulatory provisions under the Telecom 
+Consumers Complaint Redressal Regulation, 2012 issued by TRAI and 
+to the extent applicable, are also reported to the regulator as per the 
+reporting requirement prescribed thereunder.
+Value chain 
+partners– 
+suppliers
+Yes, Airtel Partner World
+0
+0
+-
+0
+0
+ -
+Others (channel 
+partners) 
+Yes,  Anmol Ratna Portal
+11
+0
+-
+16
+0
+-
+	
+	
+* Investors include debenture holders.
+	
+26.	 Overview of the entity’s material responsible business conduct issues
+	
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach 
+to adapt or mitigate the risk along-with its financial implications, as per the following format:
+	
+	
+Refer risk and opportunities provided in the Management Discussion and Analysis report forming part of this annual report.
+Bharti Hexacom Limited
+Annual Report 2023-24
+5
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES  
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Policy and management processes
+1.	
+a.	
+Whether your entity’s policy /policies cover 
+each principle and its core elements of the 
+NGRBCs. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+b.	
+Has the policy been approved by the Board? (Yes/No)*
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+c.	
+Web link of the policies, if available.
+Refer Table 1 below
+2.	
+Whether the entity has translated the policy into 
+procedures. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.	
+Do the enlisted policies extend to your value chain 
+partners? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4.	
+Name the national and international codes/certifications/
+labels/standards 
+(e.g., 
+Forest 
+Stewardship 
+Council, 
+Fairtrade, Rainforest Alliance, Trustee) standards (e.g., 
+SA 8000, OHSAS, ISO, BIS) adopted by your entity and 
+mapped to each principle. 
+Refer Table 2 below
+5.	
+Specific commitments, goals and targets set by the entity 
+with defined timelines, if any.
+Refer Table 3 below
+6.	
+Performance of the entity against the specific 
+commitments, goals, and targets along-with reasons in 
+case the same are not met.
+Refer Table 3 below
+Governance, leadership, and oversight
+7.	
+Statement by director responsible for the business 
+responsibility report, highlighting ESG-related 
+challenges, targets, and achievements (listed entity has 
+flexibility regarding the placement of this disclosure).
+Refer ‘Chairman message’ section of the Annual Report
+8.	
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy (ies).
+The Board holds the highest position within Bharti 
+Hexacom’ s Governance Framework, providing ultimate 
+oversight on all Environmental, Social, and Governance 
+(ESG) matters and related initiatives.
+9.	
+Does the entity have a specified committee of the 
+Board/Director responsible for decision making 
+on sustainability related issues? (Yes/No). If yes, 
+provide details.
+ESG regime of Bharti Hexacom operates under group-wide 
+regime of Bharti Airtel (holding company).
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC principles and core elements .
+Subject for review
+Indicate whether review was undertaken 
+by director/committee of the Board/any 
+other committee
+Frequency (Annually/Half yearly/ 
+Quarterly/any other – please specify)
+P 1
+P  
+2
+P 
+3
+P 
+4
+P  
+5
+P  
+6
+P 
+7
+P 
+8
+P 
+9
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+Performance against above 
+policies and follow up action.
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Annually
+Compliance with statutory 
+requirements of relevance to 
+the principles, and rectification 
+of any non-compliances. 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Quarterly
+10.	
+Details of review of NGRBCs by the Company:
+	
+* Bharti Hexacom operates under group-wide policies, procedures and practices of holding company i.e. Bharti Airtel Limited.
+Bharti Hexacom Limited
+Annual Report 2023-24
+6
+12.	
+If answer to question (1) above is “No” i.e. not all principles are covered by a policy, reasons to be stated:
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+The entity does not consider the principles material to 
+its business (Yes/No).
+Not applicable
+The entity is not at a stage where it is in a position to 
+formulate and implement the policies on specified 
+principles (Yes/No).
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No).
+It is planned to be done in the next financial year (Yes/No).
+Any other reason (please specify).
+11.	
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Has the entity carried out independent assessment/
+evaluation of the working of its policies by an external 
+agency? (Yes/No). If yes, provide name of the agency.
+The Company has in place a robust Internal Assurance 
+Group, led by the Chief Internal Auditor and ably supported 
+by reputed independent firms as the Internal Assurance 
+Partners, that serves as a mechanism for assessment 
+evaluation of the working of all its key policies.
+	
+Table 1: NGBRC principle wise policy mapping*:
+Principle
+Principle description
+Bharti Hexacom Policies
+P1
+Ethics, Transparency and Accountability: 
+Businesses should conduct and govern themselves 
+with integrity, and in a manner that is Ethical, 
+Transparent and Accountable
+Bharti Hexacom Code of Conduct 
+Ombudsperson Policy and Process                            
+Code of Conduct for Business Associates 
+Tax Policy
+P2
+Product Lifecycle Sustainability: 
+Businesses should provide goods and services in a 
+manner that is sustainable and safe
+Code of Conduct for Business Associates
+P3
+P3
+Employee Well-being: 
+Businesses should respect and promote the well-
+being of all employees, including those in their 
+value chains
+Human Rights Policy
+Ombudsperson Policy and Process
+P4
+Stakeholder Engagement: 
+Businesses should respect the interests of and be 
+responsive to all its stakeholders
+Stakeholder Engagement Framework
+Ombudsperson Policy and Process
+P5
+Promoting Human Rights: 
+Businesses should respect and promote human 
+rights
+Human Rights Policy
+Code of Conduct for Business Associates 
+Ombudsperson Policy and Process
+P6
+Protection of Environment: 
+Businesses should respect and make efforts to 
+protect and restore the environment
+Code of Conduct for Business Associates
+P7
+Responsible Policy Advocacy: 
+Businesses, when engaging in influencing public 
+and regulatory policy, should do so in a manner 
+that is responsible and transparent
+Bharti Hexacom Code of Conduct
+P8
+Support Inclusive Growth: 
+Businesses should promote inclusive growth and 
+equitable development
+Bharti Hexacom Code of Conduct
+Corporate Social Responsibility Policy
+Stakeholder Engagement Framework
+P9
+Providing Customer Value: 
+Businesses should engage with and provide value 
+to their consumers in a responsible manner
+Bharti Hexacom Code of Conduct
+Stakeholder Engagement Framework
+	
+* Bharti Hexacom operates under group-wide policies, procedures and practices of holding company i.e. Bharti Airtel Limited.
+Bharti Hexacom Limited
+Annual Report 2023-24
+7
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+	
+Table 2: National and International standards*:
+Principle
+Principle description
+Name of the national and international codes/ certifications/
+labels/standards
+P1
+Ethics, Transparency and Accountability: 
+Businesses should conduct and govern 
+themselves with integrity, and in a 
+manner that is Ethical, Transparent and 
+Accountable
+i.	
+Reporting in reference to GRI standards and International 
+Integrated Reporting Framework
+ii.	 Independent assurance of non-financial information as per 
+ISAE 3000 Assurance Standard
+iii.	 Signatory to United Nations Global Compact
+P2
+Product Lifecycle Sustainability: 
+Businesses should provide goods and 
+services in a manner that is sustainable 
+and safe
+i.	
+Science Based Targets initiative (SBTi)
+ii.	 Compliance with EMF radiation levels set by local 
+regulations in line with ICNIRP (International Commission 
+on Non-Ionizing Radiation Protection)
+iii.	 ISO 14001 : 2015 Environment Management System (EMS)
+P3
+Employee Well-being: 
+Businesses should respect and promote 
+the well-being of all employees, including 
+those in their value chains
+i.	
+Signatory to United Nations Global Compact
+ii.	 ISO 45001 : 2018 Occupational Health and Safety 
+Management System (OHS MS)
+P4
+Stakeholder Engagement:  
+Businesses should respect the interests of 
+and be responsive to all its stakeholders
+i.	
+Materiality assessment and stakeholder engagement in 
+reference to GRI Standards and AccountAbility AA1000 
+principles
+P5
+Promoting Human Rights:  
+Businesses should respect and promote 
+human rights
+i.	
+Signatory to United Nations Global Compact
+P6
+Protection of Environment:  
+Businesses should respect and make 
+efforts to protect and restore the 
+environment
+i.	
+Science Based Targets initiative (SBTi)
+ii.	 Compliance with EMF radiation levels set by local 
+regulations in line with ICNIRP (International Commission 
+on Non-Ionizing Radiation Protection)
+iii.	 ISO 14001 : 2015 Environment Management System (EMS)
+P7
+Responsible Policy Advocacy:  
+Businesses, when engaging in influencing 
+public and regulatory policy, should do 
+so in a manner that is responsible and 
+transparent
+i.	
+Signatory to United Nations Global Compact
+ii.	 Board member of GSMA- Leading international telecom 
+association
+P8
+Support Inclusive Growth:  
+Businesses should promote inclusive 
+growth and equitable development
+i.	
+CSR disclosures pursuant to Section 135 of the Companies 
+Act, 2013
+ii.	 Follow the guidance provided by ISO 26000
+P9
+Providing Customer Value:  
+Businesses should engage with and 
+provide value to their consumers in a 
+responsible manner
+i.	
+ISO 27001 : 2013 Information Security Management System 
+(ISMS)
+ii.	 ISO 22301 : 2019 Business Continuity Management System 
+(BCMS)
+iii.	 TL9000 : Quality Management System
+	
+* Bharti Hexacom operates under group wide policies, procedures and practices of holding company i.e. Bharti Airtel Limited.
+Bharti Hexacom Limited
+Annual Report 2023-24
+8
+	
+Table 3 – Specific commitments, goals, and targets*: 
+Specific commitments, goals and targets set by the entity
+Performance
+Mapped NGBRC 
+Principle
+Status
+Climate change, energy efficiency and emission reduction 
+To reduce our carbon emissions (scope 1 and scope 2) by 
+50.2% by FY ending March 2031, using FY 2020-21 as baseline 
+as per science-based targets initiative and GSMA pact
+1,111,205 tCO2e carbon 
+emissions (scope 1 and 
+scope 2) in FY 2023-24
+P2, P6
+To reduce our absolute scope 3 GHG emissions by 42% 
+by FY ending 2031, using FY 2020-21 as baseline, as per 
+science-based targets initiative
+6,575,139 tCO2e Scope 3 
+emissions in FY 2023-24
+P2, P6
+In line with target set by GSMA under Carbon Action Plan for 
+telecom industry, achieve net zero carbon emissions by 2050
+Airtel plans to get the 
+long-term (net zero) 
+targets validated by SBTi 
+within two years
+P2, P6
+Resource efficiency and waste management 
+Ensuring e-waste is sold to authorized recyclers/ 
+refurbishers to ensure environmentally sound waste 
+management
+E-waste is sold to 
+authorized recyclers/
+refurbishers
+P2, P6
+Implementing ISO 14001 (EMS) Environment Management 
+System by FY ending March 2024**
+Achieved ISO 14001 : 2015 
+Environment Management 
+System (EMS)
+P6
+Digital inclusion and enhanced access to ICT 
+Committed to positively impact 150 million lives by 2025; 
+by promoting digital inclusivity through extending high-
+speed 4G/5G data connectivity to data-starved regions 
+and accelerating upgradation of feature phone users to 
+smart phones, making device ownership affordable for low-
+income groups
+Enabled 4G/5G network 
+connections
+P8
+Diversity and inclusion 
+Ensuring at least 20% women employees by FY ending 
+March 2025
+15.8% women employees 
+in workforce as on 
+March 31, 2024
+P3, P5
+Employee health and well-being 
+Implementing ISO 45001 (OHS MS) Occupational Health and 
+Safety Management System by FY ending March 2024**
+Achieved ISO 45001 : 
+2018 Occupational Health 
+and Safety Management 
+System (OHS MS)
+P3, P5
+Corporate Governance and business ethics 
+Periodically conduct materiality assessment through formal 
+stakeholder engagement to prioritise ESG focus areas
+Revisited materiality 
+assessment in FY 2023-
+24 to ensure continued 
+applicability
+P1, P4
+Enhancing customer experience and satisfaction
+To reduce B2C customer interactions by 20% by FY ending 
+March 2025, using FY ended March, 2023 as baseline
+~14% reduction in overall 
+B2C customer interactions 
+from FY 2022-23.
+P9
+Maintain compliance with EMF radiation levels set by local 
+regulations in line with ICNIRP Standards (International 
+Commission on Non-Ionizing Radiation Protection)**
+For all the base stations 
+audited by DoT in FY 
+2023-24, the Company 
+was compliant with EMF 
+radiation levels
+P2, P6, P9
+Status Legend
+ Target achieved
+ Over-achieved
+ In-Progress
+ Not achieved
+	
+* Bharti Hexacom operates under group wide targets of holding company i.e. Bharti Airtel Limited.
+	
+** The scope of targets and performance is limited to Bharti Airtel Limited and Bharti Hexacom Limited.
+Bharti Hexacom Limited
+Annual Report 2023-24
+9
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE  
+PRINCIPLE 1
+Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable
+ESSENTIAL INDICATORS
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes 
+held
+Topics/principles covered under the training and 
+its impact
+% age of persons 
+in respective 
+category covered 
+by the awareness 
+programmes*
+Board of Directors
+Refer to the Corporate Governance Report (CGR) of this Annual Report on page 102
+Key Managerial Personnel (KMP)
+Employees other than Board of 
+Directors or KMPs
+16
+Code of Conduct, Prevention of Sexual 
+Harassment, ESG, Safety (Road Safety, Women 
+Safety, Electrical Safety, etc.), Prevention of 
+Sexual Harassment, ICC training, information 
+security, business continuity including privacy 
+awareness.
+Additionally, all the employees go through 
+Information Security Awareness Sessions at 
+the time of Joining and annually thereafter.  
+Information Security Related Posters are 
+circulated on fortnightly basis and phishing 
+exercise are carried out periodically.
+100
+Workers
+8
+Code of Conduct, Prevention of Sexual 
+Harassment (POSH), Conflict of Interest (CoI), 
+insurance benefits,  suraksha programme, 
+safety (road safety, women safety, electrical 
+safety, etc). Training session as well as mailers 
+covering information security, business 
+continuity, privacy.
+100
+	
+* Percentage indicates details of trainings extended.
+2.	
+Details of fines/penalties/punishment/award/compounding fees/settlement amount paid in proceedings (by 
+the entity or by directors/KMPs) with regulators/law enforcement agencies/judicial institutions, in the financial 
+year, in the following format (Note: The entity shall make disclosures on the basis of materiality as specified in 
+Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the 
+entity’s website): There are no such fines, settlement, and compounding fees on the Company or its directors/KMPs 
+with regulators/law enforcement agencies/judicial institutions, in the financial year.
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where monetary 
+or non-monetary action has been appealed:  Not applicable.
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy: The Company has a zero-tolerance approach towards bribery and corruption and is 
+committed towards acting transparently, ethically and with integrity in all its business dealings and relationships wherever 
+the Company operates. Further, the Company has in place a robust group-wide Anti-Bribery and Anti-Corruption Policy 
+(ABAC). This policy extends to all employees of the Company and its holding company and is subject to all local legal/
+regulatory requirements and amendments from time to time. Brief details of the ABAC Policy form part of the Code of 
+Conduct of the Company which is available on the website (click here).
+5.	
+Number of directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/corruption: There was no disciplinary action taken against any 
+directors/KMPs/employees/workers by any law enforcement agency pertaining to bribery/corruption. 
+Bharti Hexacom Limited
+Annual Report 2023-24
+10
+FY 2023-24
+FY 2022-23
+Number of days of accounts payables
+74
+72
+9.	
+Open-ness of business
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-
+with loans and advances & investments, with related parties, in the following format: 
+Parameters
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of purchases
+a.	 Purchases from trading houses as % 
+of total purchases
+Not applicable
+Not applicable
+b.	 Number of trading houses where 
+purchases are made from
+Not applicable
+Not applicable
+c.	 Purchases from top 10 trading houses as 
+% of total purchases from trading houses
+Not applicable
+Not applicable
+Concentration of sales
+a.	 Sales to dealers/distributors as % of 
+total sales
+63.16
+58.56
+b.	 Number of dealers/distributors to 
+whom sales are made
+977
+1,064
+c.	 Sales to top 10 dealers/distributors as 
+% of total sales to dealer/distributors
+72.42
+67.73
+Share of RPTs in
+a.	 Purchases (purchases with related 
+parties/total purchases*)
+54
+61
+b.	 Sales (sales to related parties /total 
+sales**)
+10
+16
+c.	 Loans & advances (loans & advances 
+given to related parties/total loans & 
+advances)
+0
+0
+d.	 Investments (investments in related 
+parties/total investments made)
+0
+0
+	
+*Total Operating Expenditure. 
+	
+**Total revenue from operations.
+6.	
+Details of complaints with regard to conflict of interest: No complaints were received with regard to conflict of 
+interest of the directors and KMPs.
+7.	
+Provide details of any corrective action taken or underway on issues related to fines/penalties/action taken by 
+regulators/law enforcement agencies/judicial institutions, on cases of corruption and conflicts of interest: Not 
+applicable.
+8.	
+Number of days of accounts payables ((accounts payable *365)/cost of goods/services procured) in the following 
+format:
+LEADERSHIP INDICATORS
+1.	
+Awareness programmes conducted for value chain partners on any of the principles during the financial year:
+Total number of awareness 
+programmes held
+Topics/principles covered under the 
+training
+% age of value chain partners covered (by 
+value of business done with such partners) 
+under the awareness programmes
+8
+Overall ESG - Sustainability definition, 
+NGRBC Principles, Code of Conduct for 
+Business Associates , Human Rights Policy, 
+Expectation from supplier’s , ESG goals/
+commitment and BRSR core for value 
+chain.
+Occupational health & safety - Session 
+conducted with all network service 
+providers by  leadership team on health 
+& safety to sensitize policy compliance, 
+enhance governance and ensure 
+continuous improvement.
+95.1
+	
+Note: For computing above ratio, trade payable amount has been adjusted for regulatory disputed payables, Indemnification liability and lease 
+component of leased assets, which do not form part of operating expense.
+Bharti Hexacom Limited
+Annual Report 2023-24
+11
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+2.	
+Does the entity have processes in place to avoid/manage conflict of interests involving members of the Board? 
+(Yes/No) If yes, provide details of the same: Yes, Bharti Hexacom Limited has robust policies and processes in 
+place, including the Code of Conduct and Policy on Related Party Transactions (‘RPT Policy’) to prevent any conflicts 
+of interest involving directors and/or Key Managerial Personnel (‘KMP’). Confirmation with regard to adherence to the 
+Code of Conduct is obtained from all the directors and KMPs at the time of joining and thereafter, on an annual basis. In 
+terms of the RPT Policy, a related party transaction in which any of the directors or the KMPs is concerned or interested 
+requires prior approval of the Board in addition to the prior Audit Committee approval for all related party transactions. 
+The concerned/interested Director recuses himself/herself and abstrains from discussion and voting on such proposal 
+for approval of the said transaction at the meeting of Audit Committee and Board, as applicable.
+PRINCIPLE 2
+Businesses should provide goods and services in a manner that is sustainable and safe
+ESSENTIAL INDICATORS
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively: 
+Segment
+FY 2023-24
+FY 2022-23
+Details of improvements in environmental 
+and social impacts
+Capex
+1.20
+Nil
+Improve energy efficiency:
+Hexacom’s installation of battery banks, solar power, 
+and DC air conditioning has resulted in significant 
+diesel consumption reduction. This translates to 
+lower CO2 emissions, contributing positively to both 
+environmental and social well-being.
+2.	
+a. 	
+Does the entity have procedures in place for sustainable sourcing?   Yes.
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably? 90.6.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the end 
+of life, for: (a) Plastics (including packaging), (b) E-waste, (c) Hazardous waste, and (d) Other waste:
+	
+The substantial part of Hexacom products is managed within the internal network operations. The Company is committed 
+to the importance of reusing, reducing, and recycling waste. The processes are designed to ensure sustainable recycling 
+of waste, including plastic waste, through government-authorized recyclers. In addition, the Company, in accordance 
+with Extended Producer Responsibility (EPR) guidelines, collaborates with service providers to responsibly collect plastic 
+packaging for sustainable recycling.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same: Yes, Extended Producer Responsibility (EPR) is 
+applicable to Hexacom under the plastic waste category. The Company collaborates with service providers to ensure 
+execution of waste collection plan in line with collection target issued to them by Central Pollution Control Board (CPCB).
+Bharti Hexacom Limited
+Annual Report 2023-24
+12
+PRINCIPLE 3
+Businesses should respect and promote the well-being of all employees, including those in their 
+value chain
+ESSENTIAL INDICATORS
+1.	
+a.	
+Details of measures for the well-being of employees:  
+	
+b.	
+Details of measures for the well-being of workers: 
+Category
+Total (A)
+% of employees covered by
+Health  
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+No. (B) % (B/A)
+No. (C). % (C/A) No. (D) % (D/A)
+No. (E) % (E/A)
+No. (F) % (F/A)
+Permanent employees
+Male
+370
+370
+100
+370
+100
+-
+-
+370
+100
+370
+100
+Female
+54
+54
+100
+54
+100
+54
+100
+-
+-
+54
+100
+Total
+424
+424
+100
+424
+100
+54
+100
+370 
+100
+424
+100
+Category
+Total (A)
+% of workers covered by
+Health  
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+No. (B) % (B/A)
+No. (C). % (C/A) No. (D) % (D/A)
+No. (E) % (E/A)
+No. (F) % (F/A)
+Other than permanent workers
+Male
+1,097
+1,097
+100
+1,097
+100
+-
+-
+1,097
+100
+-
+Female
+13
+13
+100
+13
+100
+13
+100
+-
+-
+Total
+1,110
+1,110
+100
+1,110
+100
+13
+100
+1,097
+100
+	
+c.	
+Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent) in the following format:
+FY 2023-24
+FY 2022-23
+Cost incurred on well-being measures as a % of total revenue of the Company
+0.05
+0.02
+2.	
+Details of retirement benefits, for the current and previous Financial Year: 
+Benefits*
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+100
+100
+Y
+100
+100
+Y
+Gratuity
+100
+100
+As and when 
+applicable
+100
+100
+As and when 
+applicable
+ESI
+0.23
+59
+Y
+1.5
+12
+Y
+	
+* All statutory dues were provided to employees and workers as per applicable legislations.
+3.	
+Accessibility of workplaces Are the premises/offices accessible to differently abled employees as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by 
+the entity in this regard: The Company has assistive devices and accessibility support which are made available to 
+differently abled employees. 
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy: Yes, the policy is available via Company’s intranet.
+Bharti Hexacom Limited
+Annual Report 2023-24
+13
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+5.	
+Return to work and retention rates of permanent employees that took parental leave:
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief. 
+Yes/No (If yes, then give details of the mechanism in brief)
+Permanent 
+employees
+Yes, the Company has ‘Employee Resolution Query Management System’, administered by 
+human resource function, which addresses issues such as service conditions, organizational 
+policies, performance evaluations and various operational matters.
+In addition to the above, the Company has a ‘Code of Conduct’ covering ‘Whistle Blower Policy’ 
+that allows employees including contractual workers, to report concerns with reference to the 
+Code of Conduct without any fear of retaliation. The Ombudsperson administers the whistle 
+blower/vigil mechanism which allows employees to report any threatened or actual breach of 
+the ‘Code of Conduct’.
+Other than 
+permanent workers
+7.	
+Membership of employees and worker in association(s) or unions recognized by the listed entity: Nil, as the 
+Company does not have any employee association or union.
+8.	
+Details of training given to employees and workers:
+Benefits
+Permanent employees
+Return to work 
+rate
+Retention Rate
+Male
+100%
+100%
+Female*
+Not applicable
+Not applicable
+Total
+100%
+100%
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+On health and 
+safety measures
+On skill 
+upgradation
+Total (D)
+On health and 
+safety measures
+On skill 
+upgradation
+No. (B) % (B / A)
+No. (C) % (C / A)
+No. (E)
+% (E / D)
+No. (F) % (F / D)
+Employees*
+Male
+370
+370
+100
+370
+100
+358
+358
+100
+358
+100
+Female
+54
+54
+100
+54
+100
+37
+37
+100
+37
+100
+Total
+424
+424
+100
+424
+100
+395
+395
+100
+395
+100
+Workers**
+Male
+1,097
+1,097
+100
+1,097
+100
+480
+480
+100
+480
+100
+Female
+13
+13
+100
+13
+100
+8
+8
+100
+8
+100
+Total
+1,110
+1,110
+100
+1,110
+100
+488
+488
+100
+488
+100
+	
+* Percentage indicates details of trainings extended.
+	
+** Role based training are provided to workers basis eligibility.
+9.	
+Details of performance and career development reviews of employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees*
+Male
+370
+370
+100
+358
+358
+100
+Female
+54
+54
+100
+37
+37
+100
+Total
+424
+424
+100
+395
+395
+100
+Workers
+Male
+1,097
+364
+33
+480
+53
+11
+Female
+13
+0
+0
+8
+1
+13
+Total
+1,110
+364
+33
+488
+54
+11
+	
+* 100% of eligible employees have undergone performance and career development reviews.
+	
+*None of the female employees took parental leave in FY 2023-24.
+Bharti Hexacom Limited
+Annual Report 2023-24
+14
+10.	 Health and safety management system: 
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? 
+(Yes/No). If yes, the coverage of such a system?
+	
+	
+Yes, the Company has a comprehensive Occupational Health and Safety Management System (OHS MS) and is 
+ISO 45001 certified. The Company has a group-level safety charter called 'Suraksha Programme’. The Company 
+implemented a comprehensive awareness campaign about the OHS system and its initiatives through training 
+sessions, newsletters and workshops. Health & safety committees are established at both central and circle levels to 
+ensure strict implementation of such policies. 
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity?
+	
+	
+Bharti Hexacom recognizes and accords highest priority to safety and well-being of its employees and other 
+stakeholders. The Company has implemented a robust Hazard Identification and Risk Assessment (HIRA) system to 
+undertake safety audits and identify work related hazards in its operations.
+ 
+ 
+Health and safety audit: 
+	
+	
+i.	
+Conducting annual review of Occupational Health and Safety Management System (OHS MS) at Bharti Hexacom
+	
+	
+ii.	
+Stakeholder consultation to understand and evaluate current operating procedures and identifying any 
+gaps in the system
+	
+	
+iii.	
+Control-focused recommendations to define management action plans, including responsibilities and 
+timelines for implementation
+ 
+ 
+Health and safety performance review: 
+	
+	
+i.	
+Monthly review of health and safety performance by management on pre-defined KPIs
+	
+	
+ii.	
+Review of reported incidents, audit findings, progress on Health, Safety and Environment (HSE) goals, and 
+changes to service line and operations
+	
+	
+iii.	
+Based on the above review, improvement areas are identified followed by strengthening of internal controls for 
+health and safety risk management
+ 
+ 
+Incident investigation and risk analysis:
+	
+	
+i.	
+Conduct health and safety risk assessment for reported incidents
+	
+	
+ii.	
+Use a Risk Assessment Matrix (RAM) to evaluate incident severity
+	
+	
+iii.	
+Identify work-related hazards and implement corrective actions based on the assessment
+	
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such 
+risks:
+	
+	
+Yes, Bharti Hexacom has implemented procedures that allow its workers to report work-related hazards and be 
+cautious of potential risks. They can report any work-related hazards through:
+	
+	
+i.	
+Toll-free number on ID card to report risks/hazards
+	
+	
+ii.	
+Central generic E-mail to report risks/hazards
+	
+	
+iii.	
+Local E-mail to report risks/hazards
+	
+	
+iv.	
+Incident reporting app (to report safety incidents and violation of Safety Policy)
+	
+d.	
+Do the employees/workers of the entity have access to non-occupational medical and healthcare services: 
+Yes, Bharti Hexacom provides access to non-occupational medical and healthcare services to its employees and 
+workers.
+Bharti Hexacom Limited
+Annual Report 2023-24
+15
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+11.	
+ Describe the measures taken by the entity to ensure a safe and healthy workplace: 
+	
+Bharti Hexacom has taken the following measures to ensure safe and healthy workplace:
+	
+i.	
+Bharti Hexacom prioritizes occupational health and safety through group-level 'Suraksha Programme'
+	
+ii.	
+A comprehensive group-level Health and Safety Policy and manual is in place to ensure a safe and incident-free 
+workplace, including health promotion and disease prevention
+	
+iii.	
+A dedicated safety committee led by a safety officer, has been setup up at central level to monitor safety performance
+	
+iv.	
+Regular risk assessments and safety trainings for employees to identify any work-related hazards are undertaken 
+followed by implementation of any corrective actions
+	
+v.	
+Fire evacuation drills are conducted quarterly, and security policies are in place to drive uniform security systems 
+and processes across all Company assets
+	
+vi.	
+Safety incidents are promptly reported and investigated to prevent recurrence
+	
+vii.	
+Regular induction and refresher training are provided to all employees and associates/partners
+	
+viii.	 Employee perception survey is conducted to assess employee satisfaction with existing safety practices and identify 
+any areas for improvement
+	
+ix.	
+Various other measures are taken to promote employee health and well-being such as on-site doctors, free 
+diagnostics, gym facilities and road safety awareness etc.
+12.	 Number of complaints on the following made by employees and workers: 
+Category
+FY 2023-24
+FY 2022-23
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Working Conditions
+Nil
+Nil
+ -
+Nil
+Nil
+ -
+Health & Safety
+Nil
+Nil
+ -
+Nil
+Nil
+ -
+13.	 Assessments for the year:  
+14.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health and safety practices and working conditions: 
+	
+Bharti Hexacom has implemented the following measures to address safety-related risks and hazards:
+	
+i.	
+Strengthened its group-level Occupational Health and Safety Policy and protocols
+	
+ii.	
+Rolled out group-level Consequence Management Policy to prevent recurrence of safety incidents
+	
+iii.	
+Defined detailed safety protocols
+	
+iv.	
+Circulated interactive modules to employees and workers on various safety topics
+	
+v.	
+Rolled out 5 golden rules of safety to promote behavioral change
+	
+vi.	
+Conducted awareness sessions and sensitization through case studies
+	
+vii.	
+Conducted detailed investigation and root cause analysis of each safety incident and communicated learnings from 
+each incident across all operations
+	
+viii.	 Safety awareness campaign - Safe by choice duly linked with #AirtelSuraksha
+	
+ix.	
+SWAT - 'Safety Within And Together' for employee and workers’ engagement on safety programs
+% of your plants and offices that were assessed (by 
+entity or statutory authorities or third parties)
+Health and safety practices
+100
+Working Conditions
+100
+Bharti Hexacom Limited
+Annual Report 2023-24
+16
+LEADERSHIP INDICATORS
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of? 
+(Yes/No)
+Employees
+Yes
+Workers
+Yes
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited 
+by the value chain partners: Bharti Hexacom has defined guidelines for value chain partners as part of its Code of 
+Conduct for Business Associates to pay remuneration to their employees in compliance with the applicable laws and 
+regulations which includes minimum wages, deduction from wages, overtime hours and associated applicable benefits. 
+Further, the Company uses self-assessment surveys to ensure its key value chain partners have procedures in places 
+to ensure compliance with regulatory requirements. Suppliers with significant procurement value were assessed 
+through these self-assessment survey, and all of them have confirmed that they are taking adequate measures to ensure 
+compliance with statutory dues requirements.
+	
+The Company also has a framework in place to validate regulatory compliance of manpower partners related to minimum 
+wages, PF, ESIC, gratuity, maternity benefits etc.
+3.	
+Provide the number of employees having suffered high consequence work-related injury/ill-health/ fatalities 
+(as reported in Q11 of essential indicators above), who have been are rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment:
+Category
+Total no. of affected employees
+No. of employees that are 
+rehabilitated and placed in 
+suitable employment or whose 
+family members have been 
+placed in suitable employment
+FY 2023-24
+FY 2022-23
+FY 2023-24
+FY 2022-23
+Employees
+Nil
+Nil
+Not applicable
+Not applicable
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? (Yes/No): Bharti Hexacom prioritizes 
+employee career progression through diverse learning interventions tailored to enhance skills and knowledge at various 
+stages. The Company is in process of launching group-level program on ‘Retirals’ for employees transitioning into 
+retirement. The program will include modules covering purpose and meaning, health and well-being, family relationships, 
+financial security, coping with emotional aspects, and investment strategies. 
+5.	
+Details on assessment of value chain partners:
+6.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners:
+	
+The Occupational Health and Safety (OHS) framework has been enhanced for relevant value chain partners in terms of:
+	
+i.	
+Communication of policies, procedures, learnings, and best practices
+	
+ii.	
+Increased training and capacity building session
+	
+iii.	
+Sensitization by the leadership team
+	
+iv.	
+Health & safety reviews/audits tracked for closure
+	
+v.	
+Governance of health & safety incidents in value chain partners
+	
+These measures aim to ensure that the partners maintain high standards of health and safety practices.
+% of value chain partners (by value of business 
+done with such partners) that were assessed
+Health and safety practices
+93.54
+Working Conditions
+93.54
+Bharti Hexacom Limited
+Annual Report 2023-24
+17
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+PRINCIPLE 4
+Businesses should respect the interests of and be responsive to all its stakeholders
+ESSENTIAL INDICATORS
+1.	
+Describe the processes for identifying key stakeholder groups of the entity: At group-level, stakeholder engagement 
+and materiality assessment is conducted, guided by the leading AA1000 stakeholder engagement standards to identify 
+and prioritize key stakeholders. These stakeholders are directly or indirectly impacted by the business activities, products 
+or services and associated performance, or to whom had, or in the future may have, legal, commercial, operational, or 
+ethical/moral responsibilities or who can influence or have impact on strategic or operational decision-making.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group: 
+Stakeholder group
+Whether 
+identified as 
+vulnerable & 
+marginalized 
+group  
+(Yes/No)
+Channels of communication 
+(Email, SMS, newspaper, 
+pamphlets, advertisement, 
+community meetings, notice 
+board, website), others
+Frequency of 
+engagement 
+(Annually/Half 
+Yearly/Quarterly/ 
+others – please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Customers
+No
+i.	
+Retail stores and 
+contact centers across 
+operational cities
+ii.	 E-mail, SMS 
+communication and 
+Company website
+iii.	 Social media 
+engagement
+iv.	 Airtel Thanks App
+On-going
+i.	
+Seeking consumer 
+feedback on the services
+ii.	 Delivering customer 
+service and resolving 
+customer queries
+Investors/ 
+Shareholders
+No
+i.	
+General meetings
+ii.	 Electronic 
+correspondence
+Quarterly/
+Annually/On-
+going
+i.	
+Answer to queries of 
+investors on operations of 
+the Company
+ii.	 Bring transparency with 
+the community of existing 
+and potential investors
+Employees
+No
+i.	
+Company intranet portal
+ii.	 Regular employee 
+communication forums
+iii.	 E-mail
+iv.	 Annual employee 
+surveys
+On-going
+i.	
+Learning and development
+ii.	 Employee recognition and 
+engagement activities
+iii.	 Employee performance 
+review and career 
+development
+iv.	 Employee safety and well-
+being
+Bharti Hexacom Limited
+Annual Report 2023-24
+18
+Stakeholder group
+Whether 
+identified as 
+vulnerable & 
+marginalized 
+group  
+(Yes/No)
+Channels of communication 
+(Email, SMS, newspaper, 
+pamphlets, advertisement, 
+community meetings, notice 
+board, website), others
+Frequency of 
+engagement 
+(Annually/Half 
+Yearly/Quarterly/ 
+others – please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Suppliers and 
+network partners
+No
+i.	
+Partner portal
+ii.	 Company website
+iii.	 Annual confluence 
+meetings
+iv.	 Sustainability awareness 
+session
+On-going
+i.	
+New product /technology 
+development
+ii.	 Material requirement 
+planning
+iii.	 Regulatory compliances 
+including NSDTS
+iv.	 Assessing supplier 
+performance
+v.	 Commercial and contract 
+discussion
+vi.	 Supplier recognition and 
+engagement activities
+vii.	 Engagement on 
+sustainability parameters
+Channel partners
+No
+i.	
+E-mail, SMS 
+communication and 
+Company website
+ii.	 Channel partner portal
+On-going
+i.	
+Resolving channel partner 
+queries and operational 
+challenges
+ii.	 Commission and reward 
+scheme
+iii.	 Sustained marketing 
+support
+Regulatory bodies
+No
+i.	
+Electronic and physical 
+correspondence
+ii.	 Face to face meetings
+Need basis and 
+on-going
+i.	
+Deliberations and inputs on 
+acts, regulations, policies 
+that have bearing on the 
+operations and businesses
+ii.	 TRAI consultations
+iii.	 DoT directives, Policies
+iv.	 Access to renewable energy 
+through open- access
+v.	 Rights of Way 
+(RoW) for telecom, 
+Telecommunications  
+Act, 2023 
+vi.	 Digital Personal Data 
+Protection Act, 2023 public 
+policy – advocacy
+Community*
+Yes
+ i.	 Field visits and 
+community meetings 
+undertaken by Bharti 
+Airtel Foundation during 
+the implementation 
+for Airtel group and 
+program operations
+Periodic
+i.	
+Education status of 
+students enrolled
+ii.	 Community based issues 
+such as hygiene, sanitation, 
+girl-child education, etc.
+iii.	 Community participation 
+in schools’ activities and 
+programs to build students’ 
+connect with communities
+	
+*Bharti Airtel Foundation is the philanthropic arm of Bharti Enterprises and is the implementation agency for carrying out CSR.
+Bharti Hexacom Limited
+Annual Report 2023-24
+19
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+LEADERSHIP INDICATORS
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and 
+social topics or if consultation is delegated, how is feedback from such consultations provided to the Board:  
+	
+Bharti Hexacom’s Board holds the highest responsibility for all Environmental, Social, and Governance (ESG) matters, 
+prioritizing ESG and related initiatives. At group-level, materiality assessment is conducted every two to three years 
+and the below mentioned key steps are followed: 
+	
+i.	
+During materiality exercise the key internal and external stakeholders are engaged to gather their concerns and 
+views, which are incorporated into the materiality assessment process to prioritize ESG topics
+	
+ii.	
+Insights obtained from the stakeholder engagement are analyzed to develop the materiality matrix, which helps 
+finalize the list of ESG topics
+	
+iii.	
+The identified ESG topics are considered while defining the ESG targets and initiatives of the group
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and 
+social topics (Yes/No). If so, provide details of instances as to how the inputs received from stakeholders on these 
+topics were incorporated into policies and activities of the entity: Yes, at a group-level, stakeholder engagement 
+is conducted as a component of materiality assessment exercise, aiming to identify and prioritize environmental and 
+social concerns. Based on the stakeholder feedback received, material issues are identified and prioritized basis impact 
+on stakeholders and business. These material topics are linked with adopted ambitious targets and integrated in the 
+strategy.
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of 
+employees/ 
+workers 
+covered (B)
+% (B/A)*
+Total (C)
+No. of 
+employees/ 
+workers 
+covered (D)
+% (D/C) *
+Employees
+Permanent
+424
+424
+100
+395
+395
+100
+Total employees
+424
+424
+100
+395
+395
+100
+Workers
+Other than permanent
+1,110
+1,110
+100
+488
+488
+100
+Total workers
+1,110
+1,110
+100
+488
+488
+100
+PRINCIPLE 5
+Businesses should respect and promote human rights
+ESSENTIAL INDICATORS
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in 
+the following format:
+	
+* Percentage indicates details of trainings extended.
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+Equal to 
+minimum wage
+More than 
+minimum wage
+Total (D)
+Equal to 
+minimum wage
+More than 
+minimum wage
+No. (B) % (B / A)
+No. (C) % (C / A)
+No. (E) % (E / D)
+No. (F) % (F / D)
+Employees
+Permanent
+424
+0
+0
+424
+100
+395
+0
+0
+395
+100
+Male
+370
+0
+0
+370
+100
+358
+0
+0
+358
+100
+Female
+54
+0
+0
+54
+100
+37
+0
+0
+37
+100
+Workers
+Other than permanent
+1,110
+320
+29
+790
+71
+488
+371
+76
+117
+24
+Male
+1,097
+316
+29
+781
+71
+480
+366
+76
+114
+24
+Female
+13
+4
+31
+9
+69
+8
+5
+63
+3
+38
+2.	
+Details of minimum wages paid to employees and workers, in the following format: 
+Bharti Hexacom Limited
+Annual Report 2023-24
+20
+  Male
+Female
+Number
+Median remuneration/
+salary/ wages of respective 
+category in J
+Number
+Median remuneration/
+salary/ wages of 
+respective category in J
+Board of Directors (BoD)
+Refer Annexure B of Board’s report forming part of this Annual Report
+Key Managerial Personnel 
+Employees other than BoD and 
+KMP
+370
+675,458
+54
+615,000
+Workers
+1,097
+229,482
+13
+252,074
+	
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of total wages*
+11.64
+8.48
+3.	
+Details of remuneration/salary/wages  
+	
+a.	
+Median remuneration/wages:
+	
+	
+* Permanent employees have been considered.
+4.	
+Do you have a focal point (Individual/Committee) responsible for addressing human rights impact or issues 
+caused or contributed to by the business: Yes.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues: The Company 
+has an ‘Employee Resolution Query Management System’, administered by human resource function, that addresses 
+issues related to human rights such as discrimination at workplace, child labour, forced labour/involuntary labour and 
+other human rights related issues. 
+	
+In addition to the above, the Company has a ‘Code of Conduct’ covering ‘Whistle Blower Policy’ that allows employees 
+including contractual workers, to report concerns with reference to ‘Code of Conduct’ relating to human rights violations, 
+without any fear of retaliation. The ombudsperson administers the whistle blower/vigil mechanism which allows 
+employees to report any threatened or actual breach of the ‘Code of Conduct’.
+6.	
+Number of complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Sexual harassment 
+1
+0
+-
+0
+0
+-
+Discrimination at workplace
+0
+0
+-
+0
+0
+-
+Child labour
+0
+0
+-
+0
+0
+-
+Forced labour /Involuntary labour
+0
+0
+-
+0
+0
+-
+Wages
+0
+0
+-
+0
+0
+-
+Other human rights related issues 
+0
+0
+-
+0
+0
+-
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) 
+Act, 2013, in the following format: 
+FY 2023-24
+FY 2022-23
+Total complaints reported under Sexual Harassment on of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+1
+0
+Complaints on POSH as a % of female employees/workers
+1.49
+0
+Complaints on POSH upheld
+1
+0
+Bharti Hexacom Limited
+Annual Report 2023-24
+21
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+% of your plants and offices that 
+were assessed (by entity or statutory 
+authorities or third parties)
+Child labour
+100
+Forced/Involuntary labour
+100
+Sexual harassment
+100
+Discrimination at workplace
+100
+Wages
+100
+Others – please specify
+100
+11.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from 
+the assessments at Question 10 above: Human Rights Risk Assessment was conducted at group-level and key 
+improvement areas were identified.
+LEADERSHIP INDICATORS
+1.	
+Details of a business process being modified/introduced as a result of addressing human rights grievances/
+complaints: The Company has an “Employee Resolution Portal” to keep track of all complaints or grievances.
+2.	
+Details of the scope and coverage of any Human rights due-diligence conducted. 
+	
+Human rights due diligence and compliance monitoring exercise was conducted at a group-level. This process had 
+following key steps: 
+	
+i.	
+Policy adoption: Implementing a comprehensive group-wide Human Rights Policy
+	
+ii.	
+Process integration: Embedding processes that align with the established policy
+	
+iii.	
+Regular assessments: Conducting periodic assessments of human rights practices across all operations
+	
+iv.	
+Risk identification and evaluation: Proactively identifying and evaluating potential and existing human rights risks
+	
+v.	
+Risk mitigation and impact remediation: Implementing measures to mitigate risks and address any identified 
+human rights impacts
+	
+vi.	
+Risk integration and action: Integrating identified risks into business practices and taking appropriate actions
+	
+vii.	
+Continuous monitoring and improvement: Regularly tracking progress, reviewing policies and processes, and 
+adjusting as needed
+	
+viii.	 Impact communication: Transparently communicating on how the Company addresses human rights impacts
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases:
+	
+Bharti Hexacom guarantees protection to complainants against any form of retaliation, punishment, intimidation, 
+coercion, dismissal, or victimisation as per the group-level Ombudsperson Policy and Prevention of Sexual Harassment 
+(POSH) Policy. This protection extends to those who report genuine concerns in good faith, regardless of whether their 
+claims are proven. Anyone who attempts to victimise any person who complains, co-operates, or provides information/
+data relating to an investigation or complaint, is liable to face punitive action.
+	
+All matters and proceedings relating to the complaint including the identity of the complainant and respondent remain 
+strictly confidential and is not disclosed except to a competent court or a governmental agency, that has the right under 
+the law and regulation to obtain such information. Any person who breaches the confidentiality requirement is penalized.
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No): Yes, human rights 
+requirements form part of the key business agreements and contracts.
+10.	 Assessments for the year:
+Bharti Hexacom Limited
+Annual Report 2023-24
+22
+% of value chain partners (by value of 
+business done with such partners) that 
+were assessed
+Sexual harassment
+93.54
+Discrimination at workplace
+93.54
+Child Labour
+93.54
+Forced labour/Involuntary labour
+93.54
+Wages
+93.54
+Others – please specify
+93.54
+5.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from 
+the assessments at Question 4 above: There were no significant risks or concerns identified from assessments of 
+critical value chain partners on human rights related issues. 
+PRINCIPLE 6
+Businesses should respect and make efforts to protect and restore the environment
+ESSENTIAL INDICATORS
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+Units
+FY 2023-24
+FY 2022-23
+From renewable sources
+Total electricity consumption (A)
+GJ
+ 6,038
+ 535
+Total fuel consumption (B)
+GJ
+-
+-
+Energy consumption through other sources (C)
+GJ
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+GJ
+ 6,038
+ 535
+From non-renewable sources
+Total electricity consumption(D)
+GJ
+ 671,807
+ 585,963
+Total fuel consumption (E)
+GJ
+ 289,882
+ 298,505
+Energy consumption through other sources (F)
+GJ
+-
+- 
+Total energy consumed from non-renewable sources 
+(D+E+F)
+GJ
+ 961,689
+ 884,467
+Total energy consumed (A+B+C+D+E+F)
+GJ
+967,726
+ 885,003
+Energy intensity per rupee of turnover 
+(total energy consumed / revenue from operations) 
+GJ/JMn.
+ 13.65
+13.45
+Energy intensity per rupee of turnover adjusted for 
+Purchasing Power Parity (PPP)*  
+(total energy consumed / revenue from operations adjusted 
+for PPP)
+GJ/JMn.
+3.69
+3.70
+Energy intensity in terms of physical output
+GJ/TB
+ 0.17
+0.19 
+	
+* Adjustment for PPP has been done by taking average dollar value. 	
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency: BDO India LLP.
+2.	
+Does the entity have any sites/facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the 
+PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if 
+any: 	Not applicable for telecommunication sector.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights 
+of the Persons with Disabilities Act, 2016: The Company has assistive devices and accessibility support which are 
+made available to differently abled visitors. 
+4.	
+Details on assessment of value chain partners:  
+Bharti Hexacom Limited
+Annual Report 2023-24
+23
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+Parameter
+Units
+FY 2023-24
+FY 2022-23
+Water withdrawal by source 
+(i)	 Surface water
+Mn. L
+-
+-
+(ii)	 Groundwater
+Mn. L
+ 0.85
+0.85
+(iii)	Third party water
+Mn. L
+2.49
+2.58
+(iv)	Seawater / desalinated water
+Mn. L
+ -
+-
+(v)	 Others 
+Mn. L
+ -
+-
+Total volume of water withdrawal (i + ii + iii + iv + v)
+Mn. L
+3.34
+3.43
+Total volume of water consumption 
+Mn. L
+ 0.56
+0.56
+Water intensity per rupee of turnover  
+(total water consumption / revenue from operations) 
+Mn. L/₹ Mn.
+0.00001
+0.00001
+Water intensity per rupee of turnover adjusted for 
+Purchasing Power Parity (PPP)*  
+(total water consumption / revenue from operations 
+adjusted for PPP) 
+Mn. L/₹ Mn.
+0.000002
+0.000002
+Water intensity in terms of physical output 
+Mn. L/TB
+0.0000001
+0.00000001
+	
+* Adjustment for PPP has been done by taking average dollar value.	
+	
+The water data for non-metered facilities is estimated by taking average water withdrawal as per National Building Code, 2016 and water 
+consumption by domestic water supply, WHO.
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency: BDO India LLP.
+4.	
+Provide the following details related to water discharged:
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+Units
+FY 2023-24
+FY 2022-23
+Water discharge by destination and level of treatment 
+(i)	 To Surface water
+Mn. L
+-
+-
+	
+-	
+No treatment
+Mn. L
+-
+-
+	
+-	
+With treatment – please specify level of treatment
+Mn. L
+-
+-
+(ii)	 To Groundwater
+Mn. L
+0.02
+0.02
+	
+-	
+No treatment
+Mn. L
+-
+-
+	
+-	
+With treatment – Primary treatment
+Mn. L
+0.02
+0.02
+(iii)	To Seawater
+Mn. L
+-
+-
+	
+-	
+No treatment
+Mn. L
+-
+-
+	
+-	
+With treatment – please specify level of treatment
+Mn. L
+-
+-
+(iv)	Sent to third-parties
+Mn. L
+2.76
+2.86
+	
+-	
+No treatment
+Mn. L
+Water from the locations is discharged 
+to the building connected water system. 
+From there, the water is routed to effluent 
+treatment plant(s), as set up by the 
+landlord or the local authorities outside 
+the operational boundary of the Company. 
+	
+-	
+With treatment – please specify level of treatment
+Mn. L
+(v)	 Others
+Mn. L
+-
+-
+	
+-	
+No treatment
+Mn. L
+-
+-
+	
+-	
+With treatment – please specify level of treatment
+Mn. L
+-
+-
+Total water discharged 
+Mn. L
+2.78
+2.88
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency: BDO India LLP.
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge (ZLD)? If yes, provide details of its coverage 
+and implementation: Bharti Hexacom has implemented various water efficiency measures including wastewater 
+recycling and reuse at its sites and planning to achieve Zero Liquid Discharge (ZLD) in future.
+Bharti Hexacom Limited
+Annual Report 2023-24
+24
+Parameter*
+Units
+FY 2023-24
+FY 2022-23
+NOx
+Metric Tonnes
+ 145
+146
+Particulate matter (PM)
+Metric Tonnes
+ 7
+7
+Persistent organic pollutants (POP)
+Metric Tonnes
+ Not applicable
+  Not applicable
+Volatile organic compounds (VOC)
+Metric Tonnes
+ Not applicable
+  Not applicable
+Hazardous air pollutants (HAP)
+Metric Tonnes
+  Not applicable
+  Not applicable
+Carbon Monoxide (CO)
+Metric Tonnes
+ 82
+84
+	
+* The air emissions have been calculated using DG Emissions standards by CPCB.	
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency: BDO India LLP.
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Units
+FY 2023-24
+FY 2022-23
+Total Scope 1 emissions - (Break-up of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+ 21,389
+22,170
+Total Scope 2 emissions - (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+ 133,615
+ 115,565
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover 
+(total Scope 1 and Scope 2 GHG emissions/revenue from operations)
+tCO2e/HMn.
+ 2.19
+2.09
+Total Scope 1 and Scope 2 emission intensity per rupee of 
+turnover adjusted for Purchasing Power Parity (PPP)* 
+(total Scope 1 and Scope 2 GHG emissions/revenue from 
+operations adjusted for PPP)
+tCO2e/HMn.
+0.59
+0.58
+Total Scope 1 and Scope 2 emission intensity in terms of physical 
+output
+tCO2e/TB
+ 0.028
+0.030 
+	
+* Adjustment for PPP has been done by taking average dollar value.	
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency: BDO India LLP.
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details:
+S. 
+No.
+Initiative undertaken
+Details of the initiative (web-link, if any, may be 
+provided along with summary)
+Outcome of the initiative
+1.
+Solarization of towers
+Onsite installation of solar technology to produce 
+renewable energy at network sites
+Resulting in renewable energy 
+generation of 1,677,108 kWh
+2.
+Green sites
+Transformation of the Company sites into eco-
+friendly ones. 33% of the network sites, have been 
+tagged as green sites
+Reduction of emissions
+3.
+Hybrid battery bank 
+solutions
+Installation of advanced VRLA (Valve-Regulated 
+Lead-Acid) batteries and lithium-ion batteries
+Resulting in saving of 98,335 L of 
+diesel
+4.
+Network site sharing
+Site sharing with partners to optimize the 
+company resource consumption. 5% of newly 
+rolled out sites are co-located.
+Reduction of carbon emissions and 
+waste significantly through higher 
+utilization of passive infrastructure
+5.
+Power saving feature
+Optimisation of RRU through AI/ML
+Power saving as per traffic utilisation 
+to effectively reduce GHG emissions
+6.
+Value chain Initiatives
+i.	
+Airtel 
+has 
+undertaken 
+science-based 
+target to reduce our absolute scope 3 GHG 
+emissions by 42% by 2031
+ii.	 Introduced guidelines for our suppliers to 
+implement measures for energy efficiency and 
+carbon emission reduction, as part of our Code 
+of Conduct for Business Associates
+iii.	 Airtel is engaging with suppliers including 
+equipment manufacturers to drive initiatives 
+for enhancing energy efficiency of supplied 
+equipment through innovative solutions
+Enhanced focus on ESG Impact 
+across the value chain
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Bharti Hexacom Limited
+Annual Report 2023-24
+25
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+Units
+FY 2023-24#
+FY 2022-23
+Plastic waste (A)
+Metric Tonnes
+ -
+ 1
+E-waste (B)
+Metric Tonnes
+ 128
+123
+Battery waste (C)
+Metric Tonnes
+ 422
+262
+Biomedical waste (D)
+Metric Tonnes
+ -
+-
+Radioactive waste (E)
+Metric Tonnes
+ -
+-
+Other Hazardous waste. Please specify, if any. (G) (cables, lube oil)
+Metric Tonnes
+ 34
+4
+Other Non-hazardous waste generated (H). Please specify, if any.  
+(Paper waste, organic waste and other miscellaneous waste)
+Metric Tonnes
+ 963
+139
+Total (A+B + C + D + E + G + H)
+Metric Tonnes
+ 1,547*
+ 529*
+Waste intensity per rupee of turnover (total waste generated / 
+revenue from operations) 
+Metric Tonnes/
+HMn.
+ 0.022
+ 0.008
+Waste intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP)*** (total waste generated / revenue from 
+operations adjusted for PPP)
+Metric Tonnes/
+HMn.
+0.006
+0.002
+Waste intensity in terms of physical output 
+Metric Tonnes/
+TB
+ 0.0003
+0.0001
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+Category of waste
+(i)	 Recycled
+Metric Tonnes
+ 1,547**
+538**
+(ii)	 Re-used
+Metric Tonnes
+ -
+ -
+(iii)	Other recovery operations
+Metric Tonnes
+ -
+-
+Total
+Metric Tonnes
+ 1,547**
+538**
+For each category of waste generated, total waste disposed by nature of disposal method 
+Category of waste	
+(i)	 Incineration
+Metric Tonnes
+ -
+ -
+(ii)	 Landfilling
+Metric Tonnes
+ -
+ -
+(iii)	 Other disposal operations (landlord or municipal waste collection)
+Metric Tonnes
+ -
+ -
+Total
+Metric Tonnes
+ -
+-
+	
+# Assets transferred in past acquisition, which had reached end of economic life, were cleared.
+	
+* Calculations are based on approximate weight of sample lot items.
+	
+** Actual weight of waste sent to authorized recycler(s).
+	
+*** Adjustment for PPP has been done by taking average dollar value.
+	
+Due to above reasons and closing stock, of waste at FY closing which will be processed in due course, waste generated does not tally with waste 
+recycled and disposed.
+	
+Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency: BDO India LLP.
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy 
+adopted by your company to reduce usage of hazardous and toxic chemicals in your products and processes and 
+the practices adopted to manage such wastes: Bharti Hexacom has implemented the 3R strategy - reduce, reuse, 
+and recycle to efficiently handle the waste produced in its facilities, production, and distribution processes. Further, the 
+Company disposes all the hazardous waste, E-waste and other waste to authorized recyclers. 
+	
+The Company has also established a set of supplier guidelines that mandate compliance with all relevant local, national, 
+and international laws and conventions regarding hazardous wastes, persistent organic pollutants, and hazardous 
+chemicals to decrease their usage. The guidelines also require suppliers to identify packaging materials that is safe, 
+hygienic, recyclable, efficient and protective for transport of goods. Further, the Company also strives to use recyclable 
+and recycled materials for production and packaging wherever feasible.
+11.	
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals/clearances are required, please specify details: Bharti Hexacom Limited does not have 
+any offices in protected areas.*
+	
+* Bharti Hexacom offices are not located within ecologically sensitive areas. This is based on assessment of the Company’s facilities against the 
+protected sites as identified by Protected Planet.
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in 
+the current financial year: Not applicable*.
+	
+* Environmental Impact Assessment (EIA) is not applicable for the Company for the current financial year as per applicability defined in EIA 
+Notification, 2020.
+Bharti Hexacom Limited
+Annual Report 2023-24
+26
+13.	 Is the entity compliant with the applicable environmental law/regulations/guidelines in India; such as the 
+Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, and Environment 
+Protection Act and Rules thereunder (Y/N). If not, provide details of all such non-compliances: Yes, the Company 
+is compliant with all applicable environmental law/regulations/guidelines in India.
+LEADERSHIP INDICATORS
+1.	
+With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention 
+and remediation activities: Not applicable.
+2.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency or reduce impact due to emissions/effluent discharge/waste generated, please provide details of the 
+same as well as outcome of such initiatives: Please refer essential indicator 8 of Principle 6 of this report.
+3.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web-link: 
+Yes, the Company is group-level ISO 22301: 2019 certified/compliant for circle offices of Bharti Hexacom, MSCs, network 
+warehouses and operational sites according to DoT requirement.
+	
+The Company has documented business continuity plans to effectively enable all its employees to operate from secondary 
+locations, including remote working, providing necessary infrastructure and technology. Guidelines have been shared 
+with relevant stakeholders for disaster preparedness which includes risk identification, resource allocation, emergency 
+response/reporting and disaster recovery.
+	
+The Company also conducts tabletop exercises, application DR testing and process recovery testing periodically to 
+assess the preparedness in case of a disaster. Further, the Company has Network Operations Centre to monitor real-time 
+network activity and conservative insurance cover policy for asset protection from risks e.g., fire, floods.
+4.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation 
+or adaptation measures have been taken by the entity in this regard: There are no significant adverse environmental 
+impacts concerning material regulatory penalties, uncontrolled large quantities of gas emissions, or hazardous waste discharge 
+into water bodies arising from the Company’s value chain partners, as per the self-assessment conducted.
+	
+Further, significant part of the Company’s upstream scope 3 GHG emissions originate from telecom infrastructure 
+providers. To address the same, the Company has undertaken multiple initiatives in collaboration with them to increase 
+renewable energy usage and reduce fuel consumption.
+5.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts: 93.54.
+PRINCIPLE 7
+Businesses, when engaging in influencing public and regulatory policy, should do so in a manner 
+that is responsible and transparent
+ESSENTIAL INDICATORS
+1.	
+a.	
+Number of affiliations with trade and industry chambers/associations: Bharti Hexacom has one industry affiliation.
+	
+b.	
+List the top 10 trade and industry chambers/associations (determined based on the total members of such 
+a body) the entity is a member of/affiliated to:   
+S. 
+No.
+Name of the trade and industry chambers/associations
+Reach of trade and industry chambers/
+associations (State/National)
+1
+GSM Association (GSMA)
+International
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by 
+the entity, based on adverse orders from regulatory authorities: No adverse orders were received from regulatory 
+authorities.
+Bharti Hexacom Limited
+Annual Report 2023-24
+27
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+1.	
+Details of public policy positions advocated by the entity:    
+S. 
+No.
+Public policy 
+advocated
+Method resorted for such advocacy
+Whether 
+information 
+available in public 
+domain? (Yes/No)
+Frequency of Review 
+by Board (Annually/  
+Half yearly/ Quarterly/  
+others – please specify)
+Web link
+1.
+Network, 
+Spectrum and 
+Licensing - 
+Efficient allocation, 
+assignment 
+methods to 
+agencies like 
+Indian Railways; 
+Backhaul 
+spectrum, 
+Spectrum for 
+Space Based 
+Communications, 
+New and 
+Emerging 
+spectrum 
+bands, OTT 
+Communications 
+TRAI CP on Assignment of 
+Additional Spectrum to Indian 
+Railways for its Safety and Security 
+Applications
+Yes
+As and when required
+Link 1 
+TRAI CP on Open and De-licensed 
+use of Unused or Limited Used 
+Spectrum Bands for Demand 
+Generation for Limited Period in 
+Tera Hertz Range
+Yes
+As and when required
+Link 2
+TRAI CP on Assignment of 
+Spectrum in E&V Bands, and 
+Spectrum for Microwave Access 
+(MWA) & Microwave Backbone 
+(MWB)
+Yes
+As and when required
+Link 3
+TRAI CP on Regulatory Mechanism 
+for Over-The-Top (OTT) 
+Communication Services, and 
+Selective Banning of OTT Services
+Yes
+As and when required
+Link 4
+TRAI CP on Definition of 
+International Traffic
+Yes
+As and when required
+Link 5
+TRAI CP on Assignment of 
+Spectrum for Space-based 
+Communication Services
+Yes
+As and when required
+Link 6
+TRAI CP on Introduction of Digital 
+Connectivity Infrastructure 
+Provider (DCIP) Authorization 
+under Unified License (UL)
+Yes
+As and when required
+Link 7
+The Company positions and 
+inputs were also shared with 
+other chambers/associations, 
+who incorporated points in 
+their submissions to public 
+consultations
+No
+As and when required
+- 
+2.
+Economic 
+Regulations, 
+Ease of doing 
+business - 
+Simplification 
+of procedures 
+related to Quality 
+of Service, 
+onboarding 
+processes, 
+approvals related 
+to telecom and 
+broadcasting
+TRAI CP on Regulation on Rating 
+Framework for Digital Connectivity 
+in Buildings or Areas (Quality of 
+Service)
+Yes
+As and when required
+Link 1
+TRAI CP on Review of Quality-
+of-Service Standards for Access 
+Services (Wireless and Wireline) 
+and Broadband Services (Wireless 
+and Wireline)
+Yes
+As and when required
+Link 2
+TRAI - Draft Regulation on Review 
+of The Quality of Service (Code of 
+Practice for Metering and Billing 
+Accuracy) Regulations, 2023
+Yes
+As and when required
+Link 3
+Know your customer  (KYC) norms 
+- simplification onboarding of 
+sales channels, authentication for 
+e-KYC activation
+No
+As and when required
+ -
+The Company’s positions and 
+inputs were also shared with 
+other chambers/associations, 
+who incorporated points in 
+their submissions to public 
+consultations
+No
+As and when required
+ -
+LEADERSHIP INDICATORS
+Bharti Hexacom Limited
+Annual Report 2023-24
+28
+S. 
+No.
+Public policy 
+advocated
+Method resorted for such advocacy
+Whether 
+information 
+available in public 
+domain? (Yes/No)
+Frequency of Review 
+by Board (Annually/  
+Half yearly/ Quarterly/  
+others – please specify)
+Web link
+3.
+Broadcasting - 
+technological 
+convergence, DTH 
+Consumer impact, 
+need to review 
+regulatory and 
+policy framework 
+of tariff orders
+TRAI CP on Pre-Consultation 
+Paper on Inputs for Formulation of 
+‘’National Broadcasting Policy’’ - 
+inputs by Bharti Telemedia
+Yes
+As and when required
+Link 1
+TRAI CP on Review of Regulatory 
+Framework for Broadcasting and 
+Cable services - inputs by Bharti 
+Telemedia
+Yes
+As and when required
+Link 2
+Comments on the Broadcasting 
+Services (Regulation) Bill, 2023
+No
+As and when required
+Link 3
+The Company’s positions and 
+inputs were shared with other 
+chambers/ associations, some of 
+whom independently incorporated 
+some inputs in their submissions 
+No
+As and when required
+ -
+4.
+Technology 
+& Consumer 
+Affairs - emerging 
+technology 
+(AI); digital 
+inclusion - digital 
+connectivity, 
+digital 
+affordability, 
+digital 
+accessibility; 
+Direct to 
+Mobile (D2M); 
+sustainability; R&D
+TRAI CP on Encouraging R&D in 
+Telecom, Broadcasting, and IT 
+(ICT) Sectors
+Yes
+As and when required
+Link 1
+TRAI CP on Digital Inclusion in the 
+Era of Emerging Technologies
+Yes
+As and when required
+Link 2
+Consultation on Direct 
+Broadcasting to Mobile (D2M) 
+by TEC (contribution by industry 
+members in 3 phases and through 
+industry bodies as well)
+No
+As and when required
+Feb 2024 – 
+Link 1 
+ 
+Dec 2023 – 
+Link 2 
+  
+Aug 2023 – 
+Link 3
+TRAI CP on Encouraging 
+Innovative Technologies, Services, 
+Use Cases, and Business Models 
+through Regulatory Sandbox in 
+Digital Communication Sector
+Yes
+As and when required
+Link 4
+Inputs given to industry bodies for 
+TEC paper on “Vision, Action Plan 
+and Strategy Paper on Circular 
+Economy in Telecom Sector”
+No
+As and when required
+ -
+Artificial Intelligence - Inputs 
+given to industry bodies to 
+submit inputs on TEC paper 
+on ‘Standard for Assessing 
+and Rating Robustness of 
+Artificial Intelligence Systems in 
+Telecom Networks and Digital 
+Infrastructure’
+No
+As and when required
+Link 5
+Bharti Hexacom Limited
+Annual Report 2023-24
+29
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+S. 
+No.
+Public policy 
+advocated
+Method resorted for such advocacy
+Whether 
+information 
+available in public 
+domain? (Yes/No)
+Frequency of Review 
+by Board (Annually/  
+Half yearly/ Quarterly/  
+others – please specify)
+Web link
+5.
+Electricity and 
+Open Access: 
+Electricity for 
+Telecom towers 
+at industrial rates 
+(required to keep 
+99.95% uptime) 
+and easing 
+deployment of 
+solar/renewable 
+energy through 
+Open Access 
+Policies
+Inputs were provided to relevant 
+government ministries and 
+departments highlighting 
+challenges faced by TSPs in 
+adoption of Green Open Access 
+for Telecom Networks, and, 
+Recommendations thereof
+Engagement and submissions 
+to relevant stakeholders/central 
+and State Governments to resolve 
+challenges faced by Telecom 
+networks to access Renewable 
+Energy through open access. 
+Associations also independently 
+took inputs and wrote to 
+policymakers/regulators 
+No
+As and when required
+ -
+6.
+Rights of Way 
+(RoW): Simplified, 
+timebound 
+permissions 
+for RoW to 
+establish Telecom 
+infrastructure 
+including for 5G 
+network rollout
+Inputs on RoW shared through 
+various chambers and 
+associations, on multiple state 
+RoW policies and also through 
+direct submissions on specific 
+issues being faced by company in 
+some states
+No
+As and when required
+ -
+7.
+Privacy and 
+Security of 
+customers
+TRAI CP on Regulatory Mechanism 
+for Over-The-Top (OTT) 
+Communication Services, and 
+Selective Banning of OTT Services
+Yes
+As and when required
+Link 1
+Participation in Digital India 
+Dialogues, and Meetings with 
+relevant ministries
+No
+As and when required
+ -
+Bharti Hexacom Limited
+Annual Report 2023-24
+30
+PRINCIPLE 8
+Businesses should promote inclusive growth and equitable development
+ESSENTIAL INDICATORS
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year: Not applicable*.
+	
+* During the financial year, the Company has not acquired any land that would require SIA as per Right to Fair Compensation and Transparency in 
+Land Acquisition, Rehabilitation and Resettlement Act, 2013.
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken 
+by your entity: Not applicable*.
+	
+* During the financial year, the Company has not acquired any land that would require SIA as per Right to Fair Compensation and Transparency in 
+Land Acquisition, Rehabilitation and Resettlement Act, 2013.
+3.	
+Describe the mechanisms to receive and redress grievances of the community: Bharti Hexacom has a group-level 
+Community Grievance Redressal Policy which enables communities to express their concerns and grievances. This policy 
+is transparent, just, fair, and timely, providing a mechanism for resolving grievances of community members.
+	
+The community members can send any concerns or grievances at the dedicated e-mail: community.grievance@airtel.
+com. The Company strives to proactively communicate the grievance redressal procedure to its external stakeholders, 
+during its community and stakeholder engagement activities, to raise awareness and promote accessibility for 
+communities to voice their concerns.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:   
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/small producer*
+3.14
+3.76
+Directly from within India*
+97.82
+ 97.49
+	
+* This data pertains to procurement of goods only and does not include services.
+5.	
+Job creation in smaller towns – disclose wages paid to persons employed (including employees or workers 
+employed on a permanent or non-permanent/on contract basis) in the following locations, as % of total wage cost: 
+Location*
+FY 2023-24**
+FY 2022-23**
+Rural
+0.00
+0.00
+Semi-urban
+0.00
+0.00
+Urban
+1.39
+1.69
+Metropolitan
+98.61
+98.31
+	
+* Places have been categorized as per RBI Classification System - rural/semi-urban/urban/metropolitan.
+	
+** Permanent employees have been considered.
+LEADERSHIP INDICATORS
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact 
+Assessments (Reference: Question 1 of Essential Indicators above): Not applicable.
+2.	
+(a)	
+Do you have a preferential procurement policy where you give preference to purchase from suppliers 
+comprising marginalized /vulnerable groups? (Yes/No) Hexacom does not have any Preferential Procurement 
+Policy as the Company believes in providing equal opportunities to all its suppliers.
+	
+(b)	 From which marginalized /vulnerable groups do you procure? Not applicable.
+	
+(c )	 What percentage of total procurement (by value) does it constitute? Not applicable. 
+3.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in 
+the current financial year), based on traditional knowledge: Not applicable.
+4.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved: Not applicable.
+Bharti Hexacom Limited
+Annual Report 2023-24
+31
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+PRINCIPLE 9
+Businesses should engage with and provide value to their consumers in a responsible manner
+ESSENTIAL INDICATORS
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+Bharti Hexacom offers various channels for customers to raise complaints and provide feedback:
+	
+i.	
+Customers can contact the dedicated customer care service through tele-calling or Airtel Thanks App
+	
+ii.	
+Complaints can also be made through the toll-free complaint center number, email channel, or Airtel Thanks App
+	
+iii.	
+Relationship centers are available for customers to reach out with any queries or complaints
+	
+iv.	
+Customers can also visit Bharti Hexacom offices in person
+	
+v.	
+Each complaint/feedback is assigned a unique identification number and addressed within a pre-defined 
+turnaround time
+	
+vi.	
+Customers are notified of the resolution of the complaint through SMS and/or tele-calling
+	
+For more details on the mechanism to receive and respond to customer complaints, please refer to group-level 
+Telecom Charter.
+2.	
+Turnover of products and/services as a percentage of turnover from all products/service that carry information 
+about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+Not applicable*
+Safe and responsible usage
+Recycling and/or safe disposal
+	
+* The Company provides telecom services and does not manufacture any physical products. In mobile services, no equipment is provided to 
+customers except SIM card. In fixed line services, Customer Premises Equipment (CPE) is supplied (not sold) to customers for rendering the 
+services. The ownership and effective control over the SIM/CPE always remain with us. Customer is required to return the SIM/CPE immediately 
+upon termination of the relationship period or at the end of life.
+3.	
+Number of consumer complaints in respect of the following:
+FY 2023-24
+FY 2022-23
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Data Privacy
+0
+0
+-
+0
+0
+-
+Advertising
+0
+0
+-
+0
+0
+-
+Cybersecurity
+0
+0
+-
+0
+0
+-
+Restrictive Trade Practices
+0
+0
+-
+0
+0
+-
+Unfair Trade Practices
+0
+0
+-
+0
+0
+-
+Delivery of essential 
+services
+Customer complaints are resolved as per applicable legislations, including sector specific 
+regulatory provisions under the Telecom Consumers Complaint Redressal Regulation, 
+2012 issued by TRAI and to the extent applicable, are also reported to the regulator as per 
+the reporting requirement prescribed thereunder.
+4.	
+Details of instances of product recalls on account of safety issues: Not applicable*.
+	
+* The Company provides telecom services and does not manufacture any physical products. In mobile services, no equipment is provided to 
+customers except SIM card. In fixed line services, Customer Premises Equipment (CPE) is supplied (not sold) to customers for rendering the 
+services. The ownership and effective control over the SIM/CPE always remain with us. Customer is required to return the SIM/CPE immediately 
+upon  termination of the relationship period or at the end of life.
+Bharti Hexacom Limited
+Annual Report 2023-24
+32
+5.	
+Does the entity have a framework/policy on cybersecurity and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy: 
+	
+Yes, the Company at group-level has measures to safeguard data security and maintain the privacy of personal information. 
+This includes:
+	
+i.	
+The implementation of internal controls
+	
+ii.	
+The development of group-level Bharti Airtel Information Security Policy (BISP), which outlines specific guidelines 
+for information security and cybersecurity
+	
+iii.	
+Additionally, a group-level Information Security Risk Assessment and recovery strategy is in place that aligns with 
+the ISO 27001 and ISO 22301 standards
+	
+iv.	
+To ensure the protection and confidentiality of customers' personal information, the Company has also established 
+the group-level Bharti Airtel Information Privacy Policy (BIPP). The Online Privacy Policy serves to inform customers 
+about the nature of information collected and their rights in relation to their data
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cybersecurity and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty/action taken by regulatory authorities on safety of products/services: Bharti Hexacom follows the 
+guidelines issued by the Advertising Standards Council of India (ASCI) and the guidelines for Prevention of Misleading 
+Advertisements and Endorsements for Misleading Advertisements, 2022. Any specific complaints warranting any 
+corrective measures are promptly addressed to resolve any possibility of miscommunication through advertisement.
+7.	
+Provide the following information relating to data breaches: 
+	
+(a)	
+Number of instances of data breaches: 0
+	
+(b)	
+Percentage of data breaches involving personally identifiable information of customers: 0
+	
+(c)	
+Impact, if any, of the data breaches: Not applicable.
+LEADERSHIP INDICATORS
+1.	
+Channels/platforms where information on products and services of the entity can be accessed (provide web link, 
+if available): Please refer to: https://bhartihexacom.in
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services: 
+Bharti Hexacom abides by TRAI's clause 17 of the Telecom Consumers Complaint Redressal Regulation, 2012 by releasing 
+the Telecom Consumers Charter, which intends to enlighten customers about their entitlements, duties, quality 
+benchmarks established by the Authority, and methods of addressing conflicts. 
+	
+Furthermore, the Company adopts preventive measures to educate and create awareness amongst users on ways to 
+protect themselves against fraudulent activities such as KYC frauds, sharing of passwords, etc. as mandated from the 
+regulatory/licensor from time to time.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services: Ensuring 
+consistent network coverage for customers is a crucial aspect of the Company’s service, which it strives to maintain even 
+during catastrophic events. The Company takes proactive measures to keep the customers informed about the launch of 
+new sites and any mass outages in the Radio Access Network (RAN) through SMS. 
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? 
+(Yes/No/Not applicable) If yes, provide details in brief: Not applicable*.
+	
+* The Company provides telecom services and does not manufacture any physical products. In mobile services, no equipment is provided to 
+customers except SIM card. In fixed line services, Customer Premises Equipment (CPE) is supplied (not sold) to customers for rendering the 
+services. The ownership and effective control over the SIM/CPE always remain with us. Customer is required to return the SIM/CPE immediately 
+upon termination of the relationship period or at the end of life.
+	
+Did your entity carry out any survey with regard to consumer satisfaction relating to the major products/services 
+of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No): Yes, the Company 
+carries out customer satisfaction surveys for its services to gauge customer expectations and improve overall customer 
+experience.
+Bharti Hexacom Limited
+Annual Report 2023-24
+33
+Financial Statements
+Statutory Reports
+Management Discussion and Analysis
+Corporate Overview
+Independent Assurance Statement
+To 
+Bharti Hexacom Limited
+Bharti Crescent, 1 Nelson Mandela Road
+Vasant Kunj, Phase II
+New Delhi-110070, India
+Independent Assurance Statement on non-financial disclosures in Business Responsibility & Sustainability Reporting (BRSR) 
+for the financial year 2023-24.
+Introduction and objective of engagement
+Bharti Hexacom Limited (the 'Company') has developed its Business Responsibility & Sustainability Reporting 2023-24 (‘BRSR’ 
+or ‘the ‘Report’) based on the BRSR reporting guidelines prescribed by SEBI for listed entities. The reporting criteria have been 
+derived from the Principles of National Guidelines on Responsible Business Conduct (NGRBC), and Greenhouse Gas (GHG) 
+Protocol - A Corporate Accounting and Reporting Standard.
+BDO India LLP (BDO) was engaged by the Company to provide independent ‘limited’ assurance on non-financial sustainability 
+disclosures in the report for the period 1st April 2023 to 31st March 2024. 
+The Company’s responsibilities
+The content of the Report and its presentation are the sole responsibilities of the Management of the Company. The 
+Company’s Management is also responsible for the design, implementation, and maintenance of internal controls relevant to 
+the preparation of the Report, so that it is free from material misstatement.
+BDO’s responsibility
+BDO’s responsibility, as agreed with the Management of the Company, is to provide assurance on the non-financial information 
+of the Report as described in the ‘Scope & boundary of assurance’ section below. We do not accept or assume any responsibility 
+for any other purpose or to any other person or organization. Any reliance a third party may place on the Report is entirely 
+at its own risk. 
+Assurance standard and criteria
+We conducted our assurance engagement in accordance with International Standard on Assurance Engagements (ISAE) 3000 
+(Revised), “Assurance Engagements Other than Audits or Reviews of Historical Financial Information”. 
+We applied the criteria of ‘Limited’ Assurance.
+Scope & boundary of assurance
+We have assured non-financial information of the Report, pertaining to the Company’s performance for the period 1st April 
+2023 through 31st March 2024 covering the boundary of the Company’s operations. 
+Assurance methodology
+Our assurance process entailed conducting procedures to gather evidence regarding the reliability of the disclosures covered 
+in the ‘Scope and boundary of assurance’. 
+We conducted a review and verification of data collection, collation, and calculation methodologies, and a general review of 
+the logic of inclusion/omission of relevant information/data in the Report. Our review process included the following steps:
+ 
+ 
+Evaluation and assessment of the appropriateness of the quantification methods used to arrive at the non-financial/
+sustainability information of the Report;
+ 
+ 
+Review of consistency of data/information within the Report as well as between the Report and source;
+BDO India LLP    The Palm Springs Plaza    Sector-54, Golf Course Road    Gurgaon-122001
+Bharti Hexacom Limited
+Annual Report 2023-24
+34
+ 
+ 
+Engagement through discussions (face to face, where possible, and some virtual) with personnel at corporate level who 
+are accountable for the data and information presented in the Report;
+ 
+ 
+Execution of an audit trail of claims and data streams, to determine the level of accuracy in collection, transcription, 
+and aggregation;
+ 
+ 
+Collection of evidences on select reported information. In some cases, copies of evidences were not shared with us due 
+to confidentiality, but were reviewed and noted by our team;
+ 
+ 
+Review of data collection and management procedures, and related internal controls.
+We used our professional judgement as Assurance Provider and applied appropriate risk-based approach, for determining 
+sample for review of non-financial information for verification. The reviews were conducted virtually and at Client’s office in 
+Gurgaon, where information and evidences were made available to us.
+Inherent Limitations
+There are inherent limitations in an assurance engagement, including, for example, the use of judgment and selective testing 
+of data. Accordingly, there are possibilities that material misstatements in the sustainability information of the Report may 
+remain undetected.
+Exclusions
+The assurance scope specifically excludes:
+ 
+ 
+Data and information outside the defined reporting period (1st April 2023 to 31st March 2024);
+ 
+ 
+Review of the ‘economic and/or financial performance indicators’ included in the Reports or on which reporting is based; 
+we have been informed by the Company that these are derived from the Company’s audited financial records;
+ 
+ 
+The Company’s statements and claims related to any topics other than those listed in the ‘Scope and boundary of assurance’;
+ 
+ 
+The Company's statements that describe qualitative/quantitative assertions, expression of opinion, belief, inference, 
+aspiration, expectation, aim or future intention.
+Our observations 
+The sustainability disclosures of the Company, as defined under the scope and boundary of assurance, are fairly reliable and 
+the Company has appropriately consolidated data from different sources at the central level. However, the Company may 
+consider augmented processes for data management and internal verification for enhancing accuracy and auditability of 
+reported information.
+Our conclusions
+Based on the procedures performed, nothing has come to our attention that causes us not to believe that the disclosures of the 
+Company within the ‘Scope and boundary of assurance’ are presented fairly as per the applied reporting standard.
+Our assurance team and independence
+BDO India LLP is a professional services firm providing services in Advisory, Assurance, Tax, and Business Advisory Services, 
+to both domestic and international organizations across industry sectors. Our non-financial assurance practitioners for 
+this engagement are drawn from a dedicated Sustainability and ESG Team in the organization. This team is comprised of 
+multidisciplinary professionals, with expertise across the domains of sustainability, global sustainability reporting standards 
+and principles, and related assurance standards. This team has extensive experience in conducting independent assurance 
+of sustainability data, systems, and processes across sectors and geographies. As an assurance provider, BDO India LLP is 
+required to comply with the independence requirements set out in the International Federation of Accountants (IFAC) Code of 
+Ethics for Professional Accountants. Our independence policies and procedures ensure compliance with the Code.
+For BDO India LLP
+Dipankar Ghosh
+Partner & Leader| Sustainability & ESG
+Business Advisory Services
+Gurugram, Haryana
+29 July 2024
