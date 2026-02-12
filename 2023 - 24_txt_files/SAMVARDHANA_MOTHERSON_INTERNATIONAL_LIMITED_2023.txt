@@ -1,0 +1,5905 @@
+samvardhana motherson international limited
+170
+Annexure II
+Business Responsibility & Sustainability 
+Reporting.
+SECTION A: GENERAL DISCLOSURES
+I. 
+Details of the listed entity
+1. 
+Corporate Identity Number (CIN) of the Listed Entity: L35106MH1986PLC284510
+2. 
+Name of the Listed Entity: SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED
+3. 
+Year of incorporation: 1986
+4. 
+Registered office address: Unit 705, C Wing, ONE BKC, G Block, Bandra Kurla Complex, Bandra East, Mumbai , 400051, Maharashtra, 
+India
+5. 
+Corporate address: Motherson Corporate Tower, Plot No. 1, Sector 127, Noida - 201301, Uttar Pradesh, India
+6. 
+E-mail: investorrelations@motherson.com
+7. 
+Telephone: +91 2261354800
+8. 
+Website: www.motherson.com
+9. 
+Financial year for which reporting is being done: 2023-24
+10. 
+Name of the Stock Exchange(s) where shares are listed 1. BSE Limited 2) National Stock Exchange of India Limited
+11. 
+Paid-up Capital: ` 6,776,421,366
+12. 
+Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on the BRSR 
+report: 
+1) 
+Mr. Barrie Painter
++91 1206679500
+sustainability@motherson.com
+Mr. Barrie Painter is Chief Sustainability Officer employed in wholly owned subsidiary of Samvardhana Motherson Automotive 
+Systems Group B.V., Netherlands (‘SMRP B.V’). SMRP B.V. is a wholly owned subsidiary of the Company. Mr. Painter is heading 
+all sustainability and ESG development strategies of the Motherson Group.
+2) 
+Mr. Pankaj Mital
+Chief Operating Officer
++91 1206752100
+sustainability@motherson.com
+annual report  2023-2024
+171
+13. 
+Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e. only for the entity) or on a consolidated 
+basis (i.e. for the entity and all the entities which form a part of its consolidated financial statements, taken together).
+The disclosure under this report are made for entities which are fully consolidated in the financials (Refer details in section V para 
+23(a)). However, the acquisition achieved in 4th Quarter of Financial Year 2023-24 have not been consolidated due to different level 
+of post closing integration process including, harmonisation of data collection measures. Further, other acquisition made during FY 
+2023-24 been considered thus may not be comparable to previous year FY 2022-23. Further, there are certain queries pertaining 
+to Indian Regulations and/or having applicability on Standalone basis. Responses of such queries (KPIs) are accordingly stated.
+The data management techniques used and basis of calculations and estimates have been mentioned in the relevant areas of this 
+report. For any material change in basis or assumption from the previous year, the Company intends to provide specific reference 
+for such change. The Company does not believe there is any substantial divergence from the requested reporting convention.
+The data is sourced from various operating units and complied at the central level. The management intent is to include all its 
+consolidated subsidiaries for adoption of policies, sustainability goals and reporting for the Company.
+Any increase / change in reporting boundaries and/or re-classification of data points to bring higher alignment with respective 
+data point, may result into variation of reported for previous year. The Company intends to provide specific reference for any 
+such material change(s), if any, on account of changes in methodology /regulatory changes and having impact on achieving 
+sustainability goals of the Company.
+Reasonable assurance has been carried out by an external agency, M/s Thakur Vaidyanath Aiyar & Co., for questions under BRSR 
+Core. Further, in respect to non-core reporting, the management has collated information from its subsidiary companies across 
+44 countries under different jurisdictions. The management has put its best efforts for reporting various parameters for Financial 
+Year ended March 31, 2014 on consistence basis.  The management is making continuous efforts to bring uniformity for data point 
+definitions across all its subsidiary companies
+14. 
+Name of assurance provider - M/s Thakur Vaidyanath Aiyar & Co., Chartered Accountants
+15. 
+Type of assurance obtained - BRSR Core Indicators - Assurance
+II. 
+Products/services
+16. 
+Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of 
+the entity
+1
+Sale of manufacturing product
+Manufacturing of goods
+96.38%
+2
+Sale of trading product
+Trading of goods
+1.09%
+3
+Sale of services
+Rendering of Services
+1.61%
+4
+Other operating revenue
+Other operating revenue
+0.92%
+17. 
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1
+Polymer & Modules
+29302
+50%
+2
+Wiring Harness
+29304
+24%
+3
+Vision Systems
+29302
+16%
+4
+Integrated Assemblies
+29302
+7%
+samvardhana motherson international limited
+172
+III. 
+Operations
+18. 
+Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+79
+12
+91
+International
+205
+28
+233
+19. 
+Markets served by the entity:
+a. 
+Number of locations
+Locations
+Number
+Domestic (No. of States)
+28 States + 8 Union Territories
+International (No. of Countries)
+Over 58
+b. 
+What is the contribution of exports as a percentage of the total turnover of the entity?
+Out of the consolidated revenue from operation of the entity, export from India to external customer is 1.1%, while revenue 
+from external customer outside India is ` 883,585 million
+c. 
+A brief on types of customers: 
+Revenues of the group are largely on a Business to Business basis to OEM customers as a tier 1 supplier, or to other tier 1 
+suppliers in the interest of supply chain optimisation as requested by the OEMs
+IV. 
+Employees
+20. 
+Details as at the end of Financial Year:
+a. 
+Employees and workers (including differently abled):
+S. 
+No.
+Particulars
+Male
+Female
+Total (A)
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+28,442
+21,624
+76%
+6,818
+24%
+2.
+Other than Permanent (E)
+10,049
+7,701
+77%
+2,348
+23%
+3.
+Total employees (D + E)
+38,491
+29,325
+76%
+9,166
+24%
+WORKERS
+4.
+Permanent (F)
+65,529
+32,059
+49%
+33,470
+51%
+5.
+Other than Permanent (G)
+32,193
+20,141
+63%
+12,052
+37%
+6.
+Total workers (F + G)
+97,722
+52,200
+53%
+45,522
+47%
+1,099 employees & workers are not part of the HC as they are mentioned in others gender category and not included in the 
+total HC number.
+annual report  2023-2024
+173
+b. 
+Differently abled Employees and workers:
+S. 
+No.
+Particulars
+Male
+Female
+Total (A)
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+443
+319
+72%
+124
+28%
+2.
+Other than Permanent (E)
+8
+5
+62%
+3
+37%
+3.
+Total differently abled employees 
+(D + E)
+451
+324
+72%
+127
+28%
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+1,012
+500
+49%
+512
+51%
+5.
+Other than permanent (G)
+33
+23
+70%
+10
+30%
+6.
+Total differently abled workers 
+(F + G)
+1,045
+523
+50%
+522
+50%
+21. 
+Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+8*
+1
+12.5
+Key Management Personnel
+3
+0
+0
+* Includes one of the Independent Director ceased to be Independent Director w.e.f March 31, 2024
+22. 
+Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+18%
+25%
+20%
+17%
+17%
+17%
+7%
+11%
+8%
+Permanent Workers
+29%
+32%
+31%
+52%
+58%
+55%
+21%
+24%
+23%
+Variance in turnover data from FY 23 to FY 22 is largely driven by a change of working practice being applied in certain regions of 
+the world, re-classifying contracts issued to temporary workers as permanent thus increasing the reported turnover rate.
+samvardhana motherson international limited
+174
+V. 
+Holding, Subsidiary and Associate Companies (including joint ventures)
+23. 
+(a) 
+Names of holding / subsidiary / associate companies / joint ventures
+As on March 31, 2024
+Sl. 
+No.
+Name of the holding / subsidiary/ associate companies / 
+joint ventures
+A
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+B
+% of
+shares
+held by
+listed
+entity *
+C
+Does the entity indicated at 
+column A, participated in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+D
+1
+Motherson Innovations Tech Limited
+Subsidiary
+100%
+Yes
+2
+SMR Automotive Systems India Limited (Jointly held by the 
+Company and MSSL Mauritius Holdings Ltd.)
+Subsidiary
+100%
+Yes
+3
+SMRC Automotive Products India Limited (held by MSSL 
+Mauritius Holdings Ltd.)
+Subsidiary
+100%
+Yes
+4
+Samvardhana Motherson Auto Component Private Limited
+Subsidiary
+100%
+Yes
+5
+Samvardhana Motherson Maadhyam International Limited
+Subsidiary
+100%
+Yes
+6
+Samvardhana Motherson Global Carriers Limited
+Subsidiary
+100%
+Yes
+7
+Samvardhana Motherson Innovative Solutions Limited (SMISL)
+Subsidiary
+100%
+Yes
+8
+Samvardhana Motherson Refrigeration Product Limited (held 
+by SMISL)
+Subsidiary
+100%
+Yes
+9
+Motherson Machinery and Automations Limited (held by 
+SMISL)
+Subsidiary
+100%
+Yes
+10
+Samvardhana Motherson Auto System Private Limited (held 
+by SMISL)
+Subsidiary
+100%
+Yes
+11
+Motherson Technology Services Limited (MTSL)
+Subsidiary
+92.96%
+Yes
+12
+Samvardhana Motherson Health Solutions Limited (100% held 
+by MTSL)
+Subsidiary
+92.96%
+Yes
+13
+Samvardhana Motherson Virtual Analysis Limited (100% held 
+by MTSL) (a)
+Subsidiary
+92.96%
+Yes
+14
+SAKS Ancillaries Limited (Jointly held by the Company and 
+SMISL)
+Subsidiary
+98.32%
+Yes
+15
+Samvardhana Motherson Hamakyorex Engineered Logistics 
+Limited (held by Samvardhana Motherson Global Carriers Ltd.)
+Subsidiary
+50%
+Yes
+16
+Motherson Techno Tools Limited (held by SMISL)
+Subsidiary
+60.06%
+Yes
+17
+Motherson Molds and Diecasting Limited (jointly held by the 
+Company and CTM India Limited)
+Subsidiary
+100%
+Yes
+18
+Motherson Air Travel Agencies Limited
+Subsidiary
+74%
+Yes
+19
+CTM India Limited
+Subsidiary
+41%
+Yes
+20
+Motherson Auto Solutions Limited (held by SMISL)
+Joint Venture
+66%
+No
+21
+Fritzmeier Motherson Cabin Engineering Private Limited
+Subsidiary
+100%
+Yes
+22
+Motherson Electronic Components Private Limited
+Subsidiary
+100%
+Yes
+23
+CIM Tools Private Limited
+Subsidiary
+55%
+Yes
+24
+Aero Treatments Private Limited (83% held by CIM Tools 
+Private Ltd.)
+Subsidiary
+55%
+Yes
+annual report  2023-2024
+175
+Sl. 
+No.
+Name of the holding / subsidiary/ associate companies / 
+joint ventures
+A
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+B
+% of
+shares
+held by
+listed
+entity *
+C
+Does the entity indicated at 
+column A, participated in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+D
+25
+Youngshin Motherson Auto Tech Limited (b)
+Subsidiary
+80%
+Yes
+26
+Saddles International Automotive and Aviation Interiors Private 
+Limited (c)
+Subsidiary
+50%
+Yes
+27
+Rollon Hydraulics Private Limited (d)
+Subsidiary
+100%
+Yes
+28
+Samvardhana Motherson Adsys Tech Limited
+Subsidiary
+100%
+Yes
+29
+Samvardhana Motherson International Leasing IFSC Limited 
+(e)
+Subsidiary
+100%
+Yes
+30
+Yachiyo India Manufacturing Private Limited (held by MSSL 
+Mideast (FZE) (o)
+Subsidiary
+100%
+No
+31
+Prysm Displays (India) Private Limited (p)
+Subsidiary
+100%
+No
+32
+MSSL Mauritius Holdings Ltd. (MMHL)
+Subsidiary
+100%
+Yes
+33
+Samvardhana Motherson Holding (M) Private Limited
+Subsidiary
+100%
+Yes
+34
+Motherson Electrical Wires Lanka Pvt. Ltd.
+Subsidiary
+100%
+Yes
+35
+MSSL Mideast (FZE)
+Subsidiary
+100%
+Yes
+36
+Motherson Wiring System (FZE) (held by MSSL Mideast (FZE))
+Subsidiary
+100%
+Yes
+37
+MSSL Tooling (FZE) (held by MSSL Mideast (FZE))
+Subsidiary
+100%
+Yes
+38
+Samvardhana Motherson Global (FZE) (held by SMR)
+Subsidiary
+100%
+Yes
+39
+Motherson PKC Harness Systems FZ-LLC (held by PKC Eesti 
+AS)
+Subsidiary
+100%
+Yes
+40
+Global Environment Management (FZE) (held by MMHL)
+Subsidiary
+100%
+Yes
+41
+Motherson Technology Service Mid East FZ-LLC (100% held 
+by MTSL)
+Subsidiary
+92.96%
+Yes
+42
+Motherson Techno Tools Mideast FZE (100% held by 
+Motherson Techno Tools Limited)
+Subsidiary
+60.06%
+Yes
+43
+Samvardhana Motherson Electric Vehicles L.L.C (held by 
+MSSL Mideast) (f)
+Subsidiary
+100%
+Yes
+44
+Samvardhana Motherson Finance Service Cyprus Limited
+Subsidiary
+100%
+Yes
+45
+Samvardhana Motherson Global Holdings Ltd. (SMGHL) 
+(jointly held by MSSL Mauritius Holdings Ltd. & Samvardhana 
+Motherson Holding (M) Pvt. Ltd.)
+Subsidiary
+100%
+Yes
+46
+SMR Automotive Technology Holding Cyprus Limited (held by 
+SMR)
+Subsidiary
+100%
+Yes
+47
+Kyungshin Industrial Motherson Private Limited
+Joint Venture
+50%
+No
+48
+Calsonic Kansei Motherson Auto Products Private Limited
+Joint Venture
+49%
+No
+49
+Motherson Sumi Wiring India Limited
+Joint Venture
+33%
+No
+50
+Anest Iwata Motherson Private Limited (through SMISL)
+Joint Venture
+49%
+No
+51
+Marelli Motherson Automotive Lighting India Private Limited
+Joint Venture
+50%
+No
+52
+Marelli Motherson Auto Suspension Parts Private Limited
+Joint Venture
+50%
+No
+samvardhana motherson international limited
+176
+Sl. 
+No.
+Name of the holding / subsidiary/ associate companies / 
+joint ventures
+A
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+B
+% of
+shares
+held by
+listed
+entity *
+C
+Does the entity indicated at 
+column A, participated in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+D
+53
+Valeo Motherson Thermal Commercial Vehicles India Limited
+Joint Venture
+49%
+No
+54
+Matsui Technologies India Limited
+Joint Venture
+50% - 1 
+Share
+No
+55
+Frigel Intelligent Cooling Systems India Private Limited (50% 
+held by Matsui Technologies India Limited)
+Joint Venture
+25%
+No
+56
+Nissin Advanced Coating Indo Co. Private Limited (through 
+SMISL)
+Joint Venture
+49%
+No
+57
+Motherson Bergstrom HVAC Solutions Private Limited
+Joint Venture
+50%
+No
+58
+Lauak CIM Aerospace Private Limited (Through CIM Tools 
+Private Limited)
+Joint Venture
+49.90%
+No
+59
+AES (India) Engineering Limited (held by SMISL)
+Associate
+26%
+No
+60
+MSSL (GB) Limited (Jointly held by the Company and MSSL 
+Mideast (FZE))
+Subsidiary
+100%
+Yes
+61
+MSSL GmbH
+Subsidiary
+100%
+Yes
+62
+Motherson Air Travel Pvt. Ltd. (held by MSSL Mideast (FZE))
+Subsidiary
+100%
+Yes
+63
+MSSL Advanced Polymers s.r.o. (held by MSSL GmbH)
+Subsidiary
+100%
+Yes
+64
+Motherson Air Travel Agency GmbH (held by MSSL GmbH)
+Subsidiary
+100%
+Yes
+65
+MSSL s.r.l. Unipersonale (held by MSSL (GB) Limited)
+Subsidiary
+100%
+Yes
+66
+MSSL Ireland Private Limited (held by MSSL (GB) Limited)
+Subsidiary
+100%
+Yes
+67
+Samvardhana Motherson Automotive Systems Group B.V. 
+(SMRPBV) (held by the Company and SMGHL)
+Subsidiary
+100%
+Yes
+68
+Samvardhana Motherson Reflectec Group Holdings Limited 
+(SMR) (held by SMRPBV)
+Subsidiary
+100%
+Yes
+69
+SMR Automotive Mirror Parts and Holdings UK Ltd (held by 
+SMR)
+Subsidiary
+100%
+Yes
+70
+SMR Automotive Systems France S.A. (held by SMRC 
+Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+71
+SMR Automotive Mirror Technology Holding Hungary KFT 
+(held by SMR Automotive Technology Holding Cyprus 
+Limited)
+Subsidiary
+100%
+Yes
+72
+SMR Patents s.a.r.l. (held by SMR Automotive Mirror Parts and 
+Holdings UK Ltd.)
+Subsidiary
+100%
+Yes
+73
+SMR Automotive Technology Valencia S.A.U. (held by SMR 
+Automotive Mirror Parts and Holdings UK Ltd.)
+Subsidiary
+100%
+Yes
+74
+SMR Automotive Mirrors UK Limited (held by SMR Automotive 
+Mirror Parts and Holdings UK Ltd.)
+Subsidiary
+100%
+Yes
+75
+SMR Automotive Mirror Systems Holding Deutschland GmbH 
+(held by SMR Automotive Mirror Parts and Holdings UK Ltd.)
+Subsidiary
+100%
+Yes
+annual report  2023-2024
+177
+Sl. 
+No.
+Name of the holding / subsidiary/ associate companies / 
+joint ventures
+A
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+B
+% of
+shares
+held by
+listed
+entity *
+C
+Does the entity indicated at 
+column A, participated in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+D
+76
+SMR Automotive Mirror Technology Hungary BT (jointly held 
+by SMR Automotive Technology Holding Cyprus Limited and 
+SMR Automotive Mirror Parts and Holding UK Ltd.)
+Subsidiary
+100%
+Yes
+77
+Motherson Business Service Hungary Kft. (held by SMR 
+Automotive Mirror Technology Hungary BT)
+Subsidiary
+100%
+Yes
+78
+SMR Automotive Beteiligungen Deutschland GmbH (held by 
+SMP)
+Subsidiary
+100%
+Yes
+79
+SMR Automotive Mirrors Stuttgart GmbH (held by SMR 
+Automotive Mirror Systems Holding Deutschland GmbH)
+Subsidiary
+100%
+Yes
+80
+SMR Automotive Systems Spain S.A.U (held by SMR 
+Automotive Mirrors Stuttgart GmbH)
+Subsidiary
+100%
+Yes
+81
+SMR Grundbesitz GmbH & Co. KG (held by SMR Automotive 
+Mirror Systems Holding Deutschland GmbH)
+Subsidiary
+93.07%
+Yes
+82
+SMR Automotives Systems Macedonia Dooel Skopje (held by 
+SMR Automotive Mirror Technology Holding Hungary Kft)
+Subsidiary
+100%
+Yes
+83
+SMR Mirror UK Limited (held by SMR Automotive Vision 
+System Operations USA INC)
+Subsidiary
+100%
+Yes
+84
+Motherson Innovations Company Limited (held by SMR)
+Subsidiary
+100%
+Yes
+85
+Motherson Innovations Deutschland GmbH (held by 
+Motherson Innovations Company Limited)
+Subsidiary
+100%
+Yes
+86
+SMR Automotive Industries RUS Limited Liability Company 
+(jointly held by SMR Automotive Mirror Technology Holding 
+Hungary Kft and SMR Automotive Technology Holding Cyprus 
+Ltd.)
+Subsidiary
+100%
+Yes
+87
+SMR Plast Met Molds and Tools Turkey Kalıp İmalat Anonim 
+Sirketi (held by SMR Automotive Mirrors Stuttgart GmbH)
+Subsidiary
+75%
+Yes
+88
+SMR Plast Met Automotive Tec Turkey Plastik İmalat Anonim 
+Şirketi (held by SMR Automotive Mirrors Stuttgart GmbH)
+Subsidiary
+75%
+Yes
+89
+Samvardhana Motherson Peguform GmbH (SMP) (held by 
+SMRC Automotive Holdings Netherlands B.V. )
+Subsidiary
+100%
+Yes
+90
+SMP Deutschland GmbH (held by SMP and SMGHL)
+Subsidiary
+100%
+Yes
+91
+SMP Logistik Service GmbH (held by SMP Deutschland GmbH)
+Subsidiary
+100%
+Yes
+92
+SMP Automotive Solutions Slovakia s.r.o. (held by SMP 
+Deutschland GmbH)
+Subsidiary
+100%
+Yes
+93
+SMP Automotive Technology Iberica S.L. (held by SMRC 
+Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+94
+Samvardhana Motherson Peguform Barcelona S.L.U (held by 
+SMP Automotive Technology Iberica S.L.)
+Subsidiary
+100%
+Yes
+95
+SMP Automotive Technologies Teruel Sociedad Limitada (held 
+by SMP Automotive Technology Iberica S.L.)
+Subsidiary
+100%
+Yes
+samvardhana motherson international limited
+178
+Sl. 
+No.
+Name of the holding / subsidiary/ associate companies / 
+joint ventures
+A
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+B
+% of
+shares
+held by
+listed
+entity *
+C
+Does the entity indicated at 
+column A, participated in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+D
+96
+Samvardhana Motherson Peguform Automotive Technology 
+Portugal S.A. (held by SMP Automotive Technology Iberica 
+S.L.)
+Subsidiary
+100%
+Yes
+97
+SMP Automotive Exterior GmbH (held by SMP)
+Subsidiary
+100%
+Yes
+98
+Samvardhana Motherson Innovative Autosystems B.V. & Co. 
+KG (held by SMP)
+Subsidiary
+100%
+Yes
+99
+Samvardhana Motherson Innovative Autosystems Holding 
+Company BV (held by SMR)
+Subsidiary
+100%
+Yes
+100
+SM Real Estate GmbH (held by SMGHL & SMP Automotive 
+Exterior GmbH)
+Subsidiary
+100%
+Yes
+101
+Celulosa Fabril (Cefa) S.A. (held by SMP Automotive 
+Technology Iberica S.L.)
+Subsidiary
+50%
+Yes
+102
+Modulos Ribera Alta S.L.Unipersonal (100% held by Celulosa 
+Fabril (Cefa) S.A.)
+Subsidiary
+50%
+Yes
+103
+Wisetime Oy (held by PKC Wiring Systems Oy)
+Subsidiary
+100%
+Yes
+104
+Motherson Innovations Lights Verwaltungs GmbH (held by 
+Samvardhana Motherson Innovative Autosystems B.V. & Co. 
+KG )
+Subsidiary
+100%
+Yes
+105
+SMP Automotive Interior Modules d.o.o. Ćuprija (held by 
+SMRC Automotive Modules France SAS)
+Subsidiary
+100%
+Yes
+106
+MSSL Estonia WH OÜ (held by SMRC Automotive Holdings 
+Netherlands B.V.)
+Subsidiary
+100%
+Yes
+107
+PKC Group Oy (held by MSSL Estonia WH OÜ)
+Subsidiary
+100%
+Yes
+108
+PKC Wiring Systems Oy (held by PKC Group Oy)
+Subsidiary
+100%
+Yes
+109
+PKC Group Poland Sp. z o.o. (held by PKC Eesti AS)
+Subsidiary
+100%
+Yes
+110
+PKC Wiring Systems Llc (held by PKC Wiring Systems Oy)
+Subsidiary
+100%
+Yes
+111
+Project del Holding S.a.r.l. (held by PKC Wiring Systems Oy)
+Subsidiary
+100%
+Yes
+112
+PKC Eesti AS (held by PKC Wiring Systems Oy)
+Subsidiary
+100%
+Yes
+113
+TKV-sarjat Oy (held by PKC Wiring Systems Oy)
+Subsidiary
+100%
+Yes
+114
+PKC SEGU Systemelektrik GmbH (held by PKC Wiring Systems 
+Oy)
+Subsidiary
+100%
+Yes
+115
+Groclin Luxembourg S.à r.l. (held by PKC Group Poland 
+Holding Sp. z o.o.)
+Subsidiary
+100%
+Yes
+116
+PKC Group Lithuania UAB (held by PKC Eesti AS)
+Subsidiary
+100%
+Yes
+117
+PKC Group Poland Holding Sp. z o.o. (held by PKC Wiring 
+Systems Oy)
+Subsidiary
+100%
+Yes
+118
+OOO AEK (jointly held by PKC Eesti AS and TKV Sarjat Oy)
+Subsidiary
+100%
+Yes
+119
+Kabel-Technik-Polska Sp. z o.o. (held by Groclin Luxembourg 
+S.à r.l.)
+Subsidiary
+100%
+Yes
+annual report  2023-2024
+179
+Sl. 
+No.
+Name of the holding / subsidiary/ associate companies / 
+joint ventures
+A
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+B
+% of
+shares
+held by
+listed
+entity *
+C
+Does the entity indicated at 
+column A, participated in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+D
+120
+SMRC Automotive Holdings Netherlands B.V. (held by SMRC 
+Automotives Techno Minority Holdings B.V.)
+Subsidiary
+100%
+Yes
+121
+SMRC Automotives Techno Minority Holdings B.V. (held by 
+SMRP BV)
+Subsidiary
+100%
+Yes
+122
+SMRC Automotive Modules France SAS (held by SMRC 
+Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+123
+Samvardhana Motherson Reydel Automotive Parts Holding 
+Spain, S.L.U. (held by SMRC Automotive Holdings Netherlands 
+B.V.)
+Subsidiary
+100%
+Yes
+124
+SMRC Automotive Interiors Spain S.L.U. (held by Samvardhana 
+Motherson Reydel Automotive Parts Holding Spain, S.L.U.)
+Subsidiary
+100%
+Yes
+125
+SMRC Automotive Interior Modules Croatia d.o.o (held by 
+SMRC Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+126
+Samvardhana Motherson Reydel Autotecc Morocco SAS (held 
+by SMRC Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+127
+SMRC Automotive Technology RU LLC (held by SMRC 
+Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+128
+SMRC Smart Interior Systems Germany GmbH (held by SMRC 
+Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+129
+SMRC Automotive Solutions Slovakia s.r.o. (held by SMRC 
+Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+130
+SMRC Automotive Holding South America B.V. (held by SMRC 
+Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+131
+SMRC Automotive Modules South America Minority Holdings 
+B.V. (held by SMRC Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+132
+Motherson Sintermetal Technology B.V. (held by SMISL)
+Subsidiary
+100%
+Yes
+133
+Motherson Technology Services GmbH (100% held by MTSL)
+Subsidiary
+92.96%
+Yes
+134
+Motherson Technology Services United Kingdom Limited 
+(100% held by MTSL)
+Subsidiary
+92.96%
+Yes
+135
+Motherson Technology Services Spain S.L.U. (100% held by 
+MTSL)
+Subsidiary
+92.96%
+Yes
+136
+MSSL Germany Real Estate B.V. & Co. KG (jointly held by MSSL 
+GmbH and SMRPBV)
+Subsidiary
+100%
+Yes
+137
+SMP Automotive Ex Real Estate B.V. & Co. KG (jointly held by 
+SM Real Estate GmbH and MSSL GmbH)
+Subsidiary
+100%
+Yes
+138
+SMP D Real Estates B.V. & Co. KG (jointly held by SMP 
+Deutschland GmbH and MSSL GmbH)
+Subsidiary
+100%
+Yes
+139
+Motherson Sequencing and Assembly Services GmbH (held 
+by SMP) (g)
+Subsidiary
+100%
+Yes
+samvardhana motherson international limited
+180
+Sl. 
+No.
+Name of the holding / subsidiary/ associate companies / 
+joint ventures
+A
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+B
+% of
+shares
+held by
+listed
+entity *
+C
+Does the entity indicated at 
+column A, participated in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+D
+140
+Motherson Sequencing and Assembly Services Global 
+Group GmbH (held by Motherson Sequencing and Assembly 
+Services GmbH) (g)
+Subsidiary
+100%
+Yes
+141
+Motherson SAS Automotive Service and Module Systems 
+Rennes S.A.S.U (held by Motherson Sequencing and Assembly 
+Services Global Group GmbH) (g)
+Subsidiary
+100%
+Yes
+142
+Motherson SAS Automotive Service France S.A.S.U. (held by 
+Motherson Sequencing and Assembly Services Global Group 
+GmbH) (g)
+Subsidiary
+100%
+Yes
+143
+Motherson SAS Automotive Service Czechia s.r.o. (held by 
+Motherson Sequencing and Assembly Services Global Group 
+GmbH) (g)
+Subsidiary
+100%
+Yes
+144
+Motherson SAS Automotive Systems and Technologies 
+Slovakia s.r.o. (held by Motherson Sequencing and Assembly 
+Services Global Group GmbH) (g)
+Subsidiary
+100%
+Yes
+145
+Motherson SAS Automotive Modules De Portugal Unipessoal, 
+Lda (held by Motherson Sequencing and Assembly Services 
+Global Group GmbH) (g)
+Subsidiary
+100%
+Yes
+146
+Motherson SAS Automotive Services Spain, S.A (held by 
+Motherson Sequencing and Assembly Services Global Group 
+GmbH) (g)
+Subsidiary
+100%
+Yes
+147
+SAS Otosistem Teknik Sanayi ve Ticaret Limited Şirketi (held 
+by SMotherson Sequencing and Assembly Services Global 
+Group GmbH) (g)
+Subsidiary
+100%
+Yes
+148
+Motherson DRSC Modules Spain, S.A.U. (held by SMP 
+Automotive Technology Iberica S.L) (h)
+Subsidiary
+100%
+Yes
+149
+Centro especial de empleo de Motherson DRSC Picassent, 
+S.L.U. (held by Motherson DRSC Modules Spain, S.A.U.) (h)
+Subsidiary
+100%
+Yes
+150
+Dr. Schneider Automotive Polska Sp. zo.o. (held by SMRPBV) 
+(h)
+Subsidiary
+100%
+Yes
+151
+“PKC Real Estate Germany B.V. & Co. KG (held by PKC SEGU 
+Systemelektrik GmbH and MSSL GmbH) (i)”
+Subsidiary
+100%
+Yes
+152
+SM Real Estates Germany B.V. & Co. KG (held by SM REAL 
+Estate GmbH and MSSL GmbH) (i)
+Subsidiary
+100%
+Yes
+153
+SMR Real Estate Deutschland B.V. & Co. KG (held by SMR 
+Automotive Mirror Systems Holding Deutschland GmbH and 
+MSSL GmbH) (i)
+Subsidiary
+100%
+Yes
+154
+Motherson Deltacarb Advanced Metal Solutions SA (held by 
+SMRC Automotive Holdings Netherlands B.V.) (j)
+Subsidiary
+100%
+Yes
+155
+CEFA Poland s.p.Z.o.o. (100% held by Celulosa Fabril (Cefa) 
+S.A.) (k)
+Subsidiary
+50%
+No
+annual report  2023-2024
+181
+Sl. 
+No.
+Name of the holding / subsidiary/ associate companies / 
+joint ventures
+A
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+B
+% of
+shares
+held by
+listed
+entity *
+C
+Does the entity indicated at 
+column A, participated in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+D
+156
+Yachiyo Germany GmbH (held by Yachiyo Industry Co., Ltd.) 
+(o)
+Subsidiary
+81%
+No
+157
+Eissmann SMP Automotive Interieur Slovensko s.r.o (through 
+SMP Deutschland GmbH)
+Joint Venture
+49%
+No
+158
+MSSL México, S.A. De C.V. (held by MSSL (S) Pte Ltd.)
+Subsidiary
+100%
+Yes
+159
+MSSL Consolidated Inc. (held by SMRC Automotive Holdings 
+Netherlands B.V.)
+Subsidiary
+100%
+Yes
+160
+MSSL Wiring System Inc. (held by MSSL Consolidated Inc.)
+Subsidiary
+100%
+Yes
+161
+Alphabet de Mexico, S.A. de C.V. (held by MSSL (GB) Limited)
+Subsidiary
+100%
+Yes
+162
+Alphabet de Mexico de Monclova, S.A. de C.V. (held by MSSL 
+(GB) Limited)
+Subsidiary
+100%
+Yes
+163
+Alphabet de Saltillo, S.A. de C.V. (held by MSSL (GB) Limited)
+Subsidiary
+100%
+Yes
+164
+MSSL Wirings Juarez, S.A. de C.V. (held by MSSL (GB) Limited)
+Subsidiary
+100%
+Yes
+165
+Motherson Techno Precision México, S.A. de C.V (held by 
+Motherson Air Travel Agency GmbH)
+Subsidiary
+100%
+Yes
+166
+SMR Automotive Mirror International USA Inc. (held by SMR 
+Mirrors UK Limited)
+Subsidiary
+100%
+Yes
+167
+SMR Automotive Systems USA Inc. (held by SMR Automotive 
+Mirror International USA Inc.)
+Subsidiary
+100%
+Yes
+168
+SMR Automotive Vision Systems Mexico S.A de C.V (Jointly 
+held by SMR Automotive Mirrors Stuttgart GmbH and SMR 
+Automotive Systems Spain S.A.U.)
+Subsidiary
+100%
+Yes
+169
+SMR Automotive Brasil Ltda. (held by SMR Automotive Mirror 
+Technology Holding Hungary Kft)
+Subsidiary
+100%
+Yes
+170
+SMR Automotive Vision System Operations USA INC (held by 
+SMR Automotive Mirror Parts and Holdings UK Ltd)
+Subsidiary
+100%
+Yes
+171
+SMP Automotive Systems Mexico S.A. de C.V. (held by SMP 
+Automotive Technology Iberica S.L.)
+Subsidiary
+100%
+Yes
+172
+SMP Automotive Produtos Automotivos do Brasil Ltda. (held 
+by SMP Automotive Technology Iberica S.L.)
+Subsidiary
+100%
+Yes
+173
+Samvardhana Motherson Innovative Autosystems de Mexico, 
+S.A. de C.V. (held jointly by SMR & SMP)
+Subsidiary
+100%
+Yes
+174
+SMP Automotive Systems Alabama Inc. (held by SMR 
+Automotive Mirror International USA Inc.)
+Subsidiary
+100%
+Yes
+175
+PKC Group Canada Inc. (held by PKC Wiring Systems Oy)
+Subsidiary
+100%
+Yes
+176
+PKC Group USA Inc. (held by PKC Wiring Systems Oy)
+Subsidiary
+100%
+Yes
+177
+PKC Group Mexico S.A. de C.V. (held by PKC Wiring Systems 
+Oy)
+Subsidiary
+100%
+Yes
+samvardhana motherson international limited
+182
+Sl. 
+No.
+Name of the holding / subsidiary/ associate companies / 
+joint ventures
+A
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+B
+% of
+shares
+held by
+listed
+entity *
+C
+Does the entity indicated at 
+column A, participated in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+D
+178
+PK Cables do Brasil Ltda (jointly held by PKC Wiring Systems 
+Oy and Project Del Holding S.à.r.l.)
+Subsidiary
+100%
+Yes
+179
+Motherson Rolling Stocks S. de R.L. de C.V. (Jointly held by 
+TKV-sarjat Oy and MSSL (GB) Limited)
+Subsidiary
+100%
+Yes
+180
+AEES Inc. (held by PKC Group USA Inc.)
+Subsidiary
+100%
+Yes
+181
+T.I.C.S. Corporation (held by AEES Inc.)
+Subsidiary
+100%
+Yes
+182
+AEES Power Systems Limited Partnership (jointly held by 
+T.I.C.S. Corporation and AEES Inc.)
+Subsidiary
+100%
+Yes
+183
+Fortitude Industries Inc. (held by AEES Inc.)
+Subsidiary
+100%
+Yes
+184
+AEES Manufactuera, S. De R.L de C.V. (held by Project del 
+Holding S.a.r.l.)
+Subsidiary
+100%
+Yes
+185
+Cableodos del Norte II, S. de R.L de C.V. (held by Project del 
+Holding S.a.r.l.)
+Subsidiary
+100%
+Yes
+186
+Manufacturas de Componentes Electricos de Mexico S. de R.L 
+de C.V. (held by Project del Holding S.a.r.l.)
+Subsidiary
+100%
+Yes
+187
+Arneses y Accesorios de México, S. de R.L de C.V. (held by 
+Project del Holding S.a.r.l.)
+Subsidiary
+100%
+Yes
+188
+Asesoria Mexicana Empresarial, S. de R.L de C.V. (held by 
+Project del Holding S.a.r.l.)
+Subsidiary
+100%
+Yes
+189
+Arneses de Ciudad Juarez, S. de R.L de C.V. (held by Project 
+del Holding S.a.r.l.)
+Subsidiary
+100%
+Yes
+190
+PKC Group de Piedras Negras, S. de R.L. de C.V. (held by 
+Project del Holding S.a.r.l.)
+Subsidiary
+100%
+Yes
+191
+PKC Group AEES Commercial S. de R.L de C.V (held by Project 
+del Holding S.a.r.l.)
+Subsidiary
+100%
+Yes
+192
+SMRC Fabricacao e Comercio de Produtos Automotivos do 
+Brasil Ltda (held by SMRC Automotive Holding South America 
+B.V.)
+Subsidiary
+100%
+Yes
+193
+Motherson Technology Services USA Limited (100% held by 
+MTSL)
+Subsidiary
+92.96%
+Yes
+194
+SMI Technologies Inc. (100% held by MTSL)
+Subsidiary
+92.96%
+Yes
+195
+Motherson Electroplating US LLC. (held by SMP Automotive 
+Systems Alabama Inc.) (l)
+Subsidiary
+100%
+Yes
+196
+SMRC Automotive Tech Argentina S.A. (jointly held by 
+SMRC Automotive Holding South America B.V. and SMRC 
+Automotive Modules South America Minority Holdings B.V.)
+Subsidiary
+100%
+Yes
+197
+SAS Automotive USA, Inc. (held by Motherson Sequencing 
+and Assembly Services Global Group GmbH) (g)
+Subsidiary
+100%
+Yes
+198
+SAS Automotriz Argentina S.A. (held by Motherson 
+Sequencing and Assembly Services Global Group GmbH) (g)
+Subsidiary
+100%
+Yes
+annual report  2023-2024
+183
+Sl. 
+No.
+Name of the holding / subsidiary/ associate companies / 
+joint ventures
+A
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+B
+% of
+shares
+held by
+listed
+entity *
+C
+Does the entity indicated at 
+column A, participated in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+D
+199
+SAS Automotive do Brazil Ltda. (held by Motherson 
+Sequencing and Assembly Services Global Group GmbH) (g)
+Subsidiary
+100%
+Yes
+200
+SAS Automotive Systems S.A. de C.V. (held by Motherson 
+Sequencing and Assembly Services Global Group GmbH) (g)
+Subsidiary
+100%
+Yes
+201
+Motherson Group Investments USA Inc. (held by MSSL GB) 
+(m)
+Subsidiary
+100%
+Yes
+202
+Dr. Schneider Automotive Systems Inc. (held by SMRPBV) (h)
+Subsidiary
+100%
+Yes
+203
+Yachiyo of America Inc. (held by Yachiyo Industry Co., Ltd.) (o)
+Subsidiary
+81%
+No
+204
+Yachiyo of Ontario Manufacturing, Inc. (held by Yachiyo 
+Industry Co., Ltd.) (o)
+Subsidiary
+81%
+No
+205
+Yachiyo Mexico Manufacturing S.A. de C.V. (held by Yachiyo 
+Industry Co., Ltd.) (o)
+Subsidiary
+81%
+No
+206
+Yachiyo Do Brasil Industria E Comercio De Pecas Ltda (held by 
+Yachiyo Industry Co., Ltd.) (o)
+Subsidiary
+81%
+No
+207
+US Yachiyo, Inc. (held by Yachiyo of America Inc.) (o)
+Subsidiary
+81%
+No
+208
+Yachiyo Manufacturing of America, LLC (held by Yachiyo of 
+America Inc.) (o)
+Subsidiary
+81%
+No
+209
+AY Manufacturing Ltd. (held by Yachiyo of America Inc.) (o)
+Subsidiary
+81%
+No
+210
+SMR Automotive Beijing Company Limited (held by SMR 
+Automotive Holding Hong Kong Limited)
+Subsidiary
+100%
+Yes
+211
+SMR Automotive Yancheng Co. Limited (held by SMR 
+Automotive Holding Hong Kong Limited)
+Subsidiary
+100%
+Yes
+212
+SMR Automotive Modules Korea Ltd. (held by SMR 
+Automotive Mirror Systems Holding Deutschland GmbH)
+Subsidiary
+100%
+Yes
+213
+SMR Hyosang Automotive Ltd. (held by SMR Automotive 
+Modules Korea Ltd.)
+Subsidiary
+100%
+Yes
+214
+Samvardhana Motherson Corp Management Shanghai Co 
+Ltd. (held by SMR Automotive Mirrors Stuttgart GmbH)
+Subsidiary
+100%
+Yes
+215
+SMR Automotive (Langfang) Co. Ltd (held by SMR Automotive 
+Mirror Systems Holding Deutschland GmbH)
+Subsidiary
+100%
+Yes
+216
+SMP Automotive Interiors (Beijing) Co. Ltd. (held by SMRPBV)
+Subsidiary
+100%
+Yes
+217
+Changchun Peguform Automotive Plastics Technology Co., 
+Ltd. (held by SMP Deutschland GmbH)
+Subsidiary
+50% + 1 
+Share
+Yes
+218
+Foshan Peguform Automotive Plastics Technology Co. Ltd. 
+(100% held by Changchun Peguform Automotive Plastics 
+Technology Co., Ltd.)
+Subsidiary
+50% + 1 
+Share
+Yes
+219
+Tianjin SMP Automotive Component Company Limited 
+(100% held by Changchun Peguform Automotive Plastics 
+Technology Co., Ltd.)
+Subsidiary
+50% + 1 
+Share
+Yes
+samvardhana motherson international limited
+184
+Sl. 
+No.
+Name of the holding / subsidiary/ associate companies / 
+joint ventures
+A
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+B
+% of
+shares
+held by
+listed
+entity *
+C
+Does the entity indicated at 
+column A, participated in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+D
+220
+Shenyang SMP Automotive Trim Co., Ltd (100% held by 
+Changchun Peguform Automotive Plastics Technology Co., 
+Ltd.)
+Subsidiary
+50% + 1 
+Share
+Yes
+221
+Zhaoqing SMP Automotive Components Co., Ltd (100% held 
+by Changchun Peguform Automotive Plastics Technology 
+Co., Ltd.)
+Subsidiary
+50% + 1 
+Share
+Yes
+222
+PKC Vehicle Technology (Suzhou) Co., Ltd. (held by PKC 
+Group APAC Limited)
+Subsidiary
+100%
+Yes
+223
+Jiangsu Huakai-PKC Wire Harness Co., Ltd. (held by PKC Group 
+APAC Limited)
+Subsidiary
+50%
+Yes
+224
+PKC Vechicle Technology (Hefei) Co, Ltd. (held by PKC Group 
+APAC Limited)
+Subsidiary
+50%
+Yes
+225
+Fuyang PKC Vehicle Technology Co., Ltd. (100% held by PKC 
+Vechicle Technology (Hefei) Co, Ltd.)
+Subsidiary
+50%
+Yes
+226
+Shangdong Huakai-PKC Wire Harness Co., Ltd. (100% held by 
+Jiangsu Huakai-PKC Wire Harness Co., Ltd.)
+Subsidiary
+50%
+Yes
+227
+Jilin Huakai PKC Wire Harness Co. Ltd. (25% held by PKC 
+Wiring Systems Oy and 50% held by Jiangsu Huakai-PKC Wire 
+Harness Co., Ltd.)
+Subsidiary
+50%
+Yes
+228
+Shanghai SMRC Automotive Interiors Tech Consulting Co. Ltd. 
+(held by SMRC Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+229
+SAS Automotive Systems (Shanghai) Co., Ltd (held by 
+Motherson Sequencing and Assembly Services Global Group 
+GmbH) (g)
+Subsidiary
+100%
+Yes
+230
+Motherson SAS Automotive Parts and Modules Foshan Co., 
+Ltd. (held by SAS Automotive Systems (Shanghai) Co., Ltd.
+Subsidiary
+100%
+No
+231
+Dr. Schneider Automotive Trading (Shanghai) Co. Ltd (held by 
+SMRPBV) (h)
+Subsidiary
+100%
+Yes
+232
+Dr. Schneider Automotive Parts Liaoyang Co. Ltd (held by 
+SMRPBV) (h)
+Subsidiary
+100%
+Yes
+233
+SMR Automotive Holding Hong Kong Limited (held by SMR)
+Subsidiary
+100%
+Yes
+234
+PKC Group APAC Limited (held by PKC Wiring Systems Oy)
+Subsidiary
+100%
+Yes
+235
+Yachiyo Zhongshan Manufacturing Co., Ltd. (held by Yachiyo 
+Industry Co., Ltd.) (o)
+Subsidiary
+81%
+No
+236
+Yachiyo Wuhan Manufacturing Co., Ltd. (held by Yachiyo 
+Industry Co., Ltd.) (o)
+Subsidiary
+81%
+No
+237
+Ningbo SMR Huaxiang Automotive Mirrors Co. Ltd. (through 
+SMR Automotive Mirror Systems Holding Deutschland GmbH)
+Joint Venture
+50%
+No
+annual report  2023-2024
+185
+Sl. 
+No.
+Name of the holding / subsidiary/ associate companies / 
+joint ventures
+A
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+B
+% of
+shares
+held by
+listed
+entity *
+C
+Does the entity indicated at 
+column A, participated in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+D
+238
+Chongqing SMR Huaxiang Automotive Products Limited 
+(100% held by Ningbo SMR Huaxiang Automotive Mirrors Co. 
+Ltd.)
+Joint Venture
+50%
+No
+239
+Tianjin SMR Huaxiang Automotive Part Co. Limited (100% held 
+by Ningbo SMR Huaxiang Automotive Mirrors Co. Ltd.)
+Joint Venture
+50%
+No
+240
+Nanchang JMCG SMR Huaxiang Mirror Co. Ltd. (100% held by 
+Ningbo SMR Huaxiang Automotive Mirrors Co. Ltd.)
+Joint Venture
+50%
+No
+241
+Hubei Zhengao PKC Automotive Wiring Company Ltd. (held 
+by PKC Group APAC Limited)
+Associate
+40%
+No
+242
+Ichikoh (Wuxi) Automotive Parts Co., Ltd. (100% held by 
+Ningbo SMR Huaxiang Automotive Mirrors Co. Ltd.) (n)
+Joint Venture
+50.00%
+No
+243
+MSSL (S) Pte Ltd.
+Subsidiary
+100%
+Yes
+244
+MSSL Australia Pty Ltd. (held by SMRC Automotive Holdings 
+Netherlands B.V.)
+Subsidiary
+80%
+Yes
+245
+Motherson Elastomers Pty Ltd. (100% held by MSSL Australia 
+Pty Ltd.)
+Subsidiary
+80%
+Yes
+246
+Motherson Investments Pty Ltd. (100% held by MSSL Australia 
+Pty Ltd.)
+Subsidiary
+80%
+Yes
+247
+SMR Holding Australia Pty Ltd. (held by SMR Automotive 
+Mirror Technology Holding Hungary Kft)
+Subsidiary
+100%
+Yes
+248
+SMR Automotive Australia Pty Ltd. (held by SMR Holding 
+Australia Pty Ltd.)
+Subsidiary
+100%
+Yes
+249
+MSSL Global RSA Module Engineering Limited (held by SMRC 
+Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+250
+Vacuform 2000 (Proprietary) Limited (held by MMHL)
+Subsidiary
+51%
+Yes
+251
+MSSL WH System (Thailand) Co., Ltd (held by SMRC 
+Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+252
+MSSL Korea WH Limited (held by MSSL (S) Pte. Ltd.)
+Subsidiary
+100%
+Yes
+253
+SMR Automotive System (Thailand) Limited (held by SMR 
+Automotive Technology Holding Cyprus Limited)
+Subsidiary
+100%
+Yes
+254
+SMRC Automotive Smart Interior Tech (Thailand) Ltd. (held by 
+SMRC Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+255
+PT SMRC Automotive Technology Indonesia (jointly held 
+by SMRC Automotive Holdings Netherlands B.V. & SMRC 
+Automotives Techno Minority Holdings B.V.)
+Subsidiary
+100%
+Yes
+256
+Yujin SMRC Automotive Techno Corp. (held by SMRC 
+Automotive Holdings Netherlands B.V.)
+Subsidiary
+50.90%
+Yes
+257
+SMRC Automotives Technology Phil Inc. (held by SMRC 
+Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+258
+Re-Time Pty Ltd (held by SMR Automotive Australia Pty Ltd.)
+Subsidiary
+96.58%
+Yes
+samvardhana motherson international limited
+186
+Sl. 
+No.
+Name of the holding / subsidiary/ associate companies / 
+joint ventures
+A
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+B
+% of
+shares
+held by
+listed
+entity *
+C
+Does the entity indicated at 
+column A, participated in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+D
+259
+Motherson Technology Service SG Pte. Ltd. (100% held by 
+MTSL)
+Subsidiary
+92.96%
+Yes
+260
+MSSL Japan Limited (held by MSSL (S) Pte Ltd.)
+Subsidiary
+100%
+Yes
+261
+Siam Yachiyo Co., Ltd. (held by Yachiyo Industry Co., Ltd.( (o)
+Subsidiary
+81%
+No
+262
+PT. Yachiyo Trimitra Indonesia (held by Yachiyo Industry Co., 
+Ltd.( (o)
+Subsidiary
+81%
+No
+263
+SMR Automotive Operations Japan K.K. (held by SMR 
+Automotive Mirror Technology Holding Hungary Kft)
+Subsidiary
+100%
+Yes
+264
+SMRC Automotive Interiors Japan Ltd. (held by SMRC 
+Automotive Holdings Netherlands B.V.)
+Subsidiary
+100%
+Yes
+265
+Motherson Technology Services Kabushiki Gaisha (85.71% held 
+on Motherson Technology Service SG Pte. Ltd.)
+Subsidiary
+92.96%
+Yes
+266
+Motherson Automotive Giken Industries Corp Ltd. (held by 
+MSSL Japan Ltd.)
+Subsidiary
+50%
+Yes
+267
+Misato Industries Co., Ltd. (held by SMR Automotive Mirrors 
+UK Ltd.) (n)
+Subsidiary
+100%
+Yes
+268
+Yachiyo Industry Co., Ltd. (held by SMRC Automotive Holdings 
+Netherlands B.V.) (o)
+Subsidiary
+81%
+No
+*Including step down subsidiaries
+(a) 
+Application to strike off submitted with the Ministry of Corporate Affairs on March 29, 2024.
+(b) 
+Become the Subsidiary on June 2, 2023. Earlier joint venture company
+(c) 
+Acquired on July 13, 2023
+(d) 
+Acquired on July 31, 2023
+(e) 
+Incorporated on March 29, 2024
+(f) 
+Incorporated on October 12, 2023
+(g) 
+Acquired on July 31, 2023
+(h) 
+Acquired on October 2, 2023
+(i) 
+Incorporated on November 23, 2023
+(j) 
+Acquired on December 15, 2023
+(k) 
+Incorporated on March 22, 2024
+(l) 
+Incorporated on September 11, 2023
+(m) Incorporated on October 5, 2023
+(n) 
+Acquired on August 1, 2023
+(o) 
+Acquired on March 26, 2024
+(p) 
+Acquired on March 28, 2024
+annual report  2023-2024
+187
+VI. 
+CSR Details
+24. 
+(i) 
+Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) Yes
+(ii) 
+Turnover (in `) - 90,460 million
+(iii) 
+Net worth (in `) - 313,501 million 
+The above numbers are representing only for the holding Company Samvardhana Motherson International Limited
+VII. 
+Transparency and Disclosures Compliances
+25. 
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct:
+Stakeholder 
+group from 
+whom complaint 
+is received
+Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No)
+FY 2023-24
+FY 2022-23
+(If Yes, then 
+provide 
+web-link for 
+grievance 
+redress policy)
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Communities
+Yes
+4
+18
+NA
+0
+0
+NA
+Investors 
+(other than 
+shareholders)
+Yes
+0
+0
+NA
+0
+0
+NA
+Shareholders
+Yes
+0
+0
+NA
+2
+4 Refer 
+note 
+1 
+below
+Employees and 
+workers
+Yes
+211
+614
+Certain 
+claims were 
+reclassified 
+and 
+integrated
+217
+720 The 
+reported 
+cases 
+mainly 
+relate 
+to 
+ongoing labour 
+matters 
+where 
+the 
+outcome 
+depends 
+upon 
+external factors.
+Customers
+Yes
+3
+0
+NA
+4
+18 NA
+Value Chain 
+Partners
+Yes
+1
+22
+NA
+0
+2 NA
+Other
+Yes
+2
+10
+NA
+0
+0 NA
+Note 1: SAMIL is a listed company with BSE Ltd. and National Stock Exchange of India Limited. As on March 31, 2023, SAMIL had more than 
+1,027,023 shareholders. The reported complaints mainly related to transmission of shares, change of name of shareholder etc. and the 
+outcome is on external factors.
+For detailed policies for grievance redressal mechanisms please refer to https://www.motherson.com/performance/samil-
+investors/queries-and-grievances. For detailed policies for Human Rights, please refer to https://www.motherson.com/storage/
+Group-Policies/Human-Rights-Policy.pdf
+Acquisitions made during FY 2023-24 have been considered therefore the data may not be comparable to previous year 
+FY 2022-23
+samvardhana motherson international limited
+188
+26. 
+Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that 
+present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk along-
+with its financial implications, as per the following format
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+1
+Emissions & 
+Climate and 
+environmental 
+action
+Opportunity 
+& Risk
+Opp: Pro-activity as a sustainable 
+solution provider enabling growth, 
+potential competitive advantage. 
+Risk: Increased severity of extreme 
+weather events (floods / wild fires 
+etc) > asset risk, increased insurance 
+premiums; 
+negative 
+impacts 
+on 
+workforce (health, safety, absenteeism) 
+Water – operating in UN identified high 
+impact areas, Availability of insufficient 
+renewable electricity. Failure to meet 
+stakeholder expectation with respect 
+to industry transition
+Partnering through the value 
+chain driving environmental 
+action including renewable 
+energy, resource use, waste 
+management and water use.
+Negative through 
+Risk 
+of 
+higher 
+operational 
+costs 
+and potential loss 
+of busienss.
+2
+Environmental 
+Innovation and 
+Technology
+Opportunity 
+& Risk
+Opp: Resource efficiency driving cost 
+reductions and potential competitive 
+advantage
+Risk: Expediting operational transition 
+and 
+potential 
+failure 
+to 
+meet 
+stakeholder expectations
+Implementing 
+long 
+term 
+climate transition plans
+Negative 
+short 
+term, positive long 
+term
+3
+Product 
+Sustainability and 
+stewardship
+Opportunity 
+& Risk
+Opp: 
+Product 
+enhancement 
+diversification 
+and 
+value 
+addition 
+aligned 
+to 
+industry 
+trends 
+and 
+reducing product carbon footprint. 
+Solution provider for reverse supply 
+chain circularity 
+Risk: 
+Failure 
+to 
+meet 
+customer 
+expectations in terms of product 
+sustainability. 
+Recycled 
+materials 
+feedstock availability
+Product 
+road 
+mapping 
+process utilising innovation 
+and technology to exceed 
+customer requirements.
+Positive
+4
+Diversity, Equity 
+and Inclusion
+Opportunity 
+& Risk
+Opp: Capitalizing on and leveraging 
+existing global talent pool R: Inability to 
+attract and retain talent
+Improved 
+employer 
+branding, 
+coomunication 
+and 
+development 
+actions 
+to 
+attract 
+diverse 
+talent, 
+retain and empower existing 
+employees and associates.
+Positive
+annual report  2023-2024
+189
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+5
+Employee 
+Engagement 
+Opportunity
+Opp: The dependence on people to 
+the business enterprise. Increased 
+employee 
+loyalty, 
+productivity, 
+empowerment and motivation
+Actions to develop capabilities, 
+empowerment and motivation 
+resulting 
+in 
+increased 
+productivity and loyalty.
+Positive
+6
+Employee Well-
+being 
+Opportunity
+Opp: The dependence on people 
+to the business enterprise. Reduce 
+abscenteeism and boost productivity.
+Actions to reduce employee 
+abscenteeism 
+and 
+attrition 
+enhance 
+brand 
+reputation, 
+attract talent and drive long-
+term organizational growth.
+Positive
+7
+Human rights 
+throughout our 
+operations and 
+value chain 
+Risk
+Risk: Potential business interruption, 
+impact 
+on 
+employees 
+and 
+communities, Potential for accusations 
+related to Human Rights through the 
+value chain and risk of damage to 
+reputation and loss of business.
+Committed 
+to 
+UNGC 
+principles 
+and 
+global 
+deployment on the Human 
+Rights policy. Use third-party 
+tool to assess industry and 
+geography specific human 
+rights risks. Assess the value 
+chain for upholding Human 
+Rights
+Negative
+8
+Corporate 
+Governance & 
+Strategy
+Opportunity 
+& Risk
+Opp: Adoption of transformational 
+governances practices to maximise 
+growth opportunities and realization 
+of sustainability ambitions. 
+Risk: Risk of failing to meet changing 
+stakeholder expectations and broader 
+societal needs. 
+Continuous 
+stakeholder 
+engagement, 
+materiality 
+assessments and governance 
+of 
+the 
+board 
+including 
+sustainability subcommittee
+Negative
+9
+Data Privacy 
+and Information 
+Security
+Risk
+Risk :Breaches can lead to loss of 
+customer trust, business disruption, 
+and 
+reputational 
+damage 
+in 
+an 
+increasingly 
+digital 
+and 
+globally 
+connected landscape
+Cybersecurity 
+strategy, 
+robust information security 
+management system, multi-
+layered security technologies, 
+and user awareness.
+Negative
+10
+Management 
+Systems
+Opportunity
+Opp: 
+Potential 
+for 
+continuous 
+increases in efficiency, agility, reliability 
+and productivity across the entire 
+enterprise.
+Continuous 
+improvement 
+actions and deployment of 
+digitalisation, standardisation 
+with industry leading solutions
+Positive
+samvardhana motherson international limited
+190
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+11
+Risk Management 
+and Compliance
+Opportunity 
+& Risk
+Opp: Implementation of de-risking 
+strategy to reduce exposure to any 
+one customer, country and product 
+line
+Risk: 
+Growth 
+and 
+diversification 
+potnetial for increased complexity 
+and exposure to risks. Regulatory risk 
+with respect to operating in multiple 
+jurisdictions, industries and potential 
+for reputational damage
+Ensure 
+systematic 
+re- 
+evaluation of risk management 
+throughout the value chain 
+including inorganic growth 
+due 
+diligence. 
+Maintain 
+strong governance practices 
+ensuring 
+compliance 
+to 
+changing 
+regulatory 
+landscape.
+Positive 
+financial 
+impact from de-
+risking strategy
+12
+Health & safety
+Risk
+Risk: Health and safety of employees 
+is of paramount importance. Failure to 
+protect health and safety and adhere 
+to evolving and varied regulations 
+could create significant disruption, 
+commerical and reputational damage.
+Global 
+OHS 
+principles 
+statement, deployment and 
+training 
+to 
+all 
+employees. 
+Regular reporting on saftey 
+metrics and sharing of best 
+practices
+Negative
+13
+Supply chain 
+sustainability and 
+responsibility 
+Opportunity 
+& Risk
+Opp: New sustainable solutions to 
+support reduction in product carbon 
+footprint and forge more sustainable 
+partnerships 
+Risk: Challenge to address scope 
+3 
+and 
+introduce 
+sustainable 
+materials 
+solutions. 
+Transparency 
+and traceability of the value chain 
+and 
+actions 
+required 
+to 
+ensure 
+sustainability throughout the supply 
+chain.
+Engaging and collaborating 
+with 
+supplier/partners; 
+Integration of principles and 
+policies to the supply chain.
+Potential negative 
+financial impact
+annual report  2023-2024
+191
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the 
+NGRBC Principles and Core Elements.
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Policy and management processes
+1. 
+a. 
+Whether 
+your 
+entity’s 
+policy/
+policies cover each principle and 
+its core elements of the NGRBCs. 
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b. 
+Has the policy been approved by 
+the Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+c. 
+Web Link of the Policies, if available
+https://www.motherson.com/company/group-policies
+2. 
+Whether the entity has translated the 
+policy into procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3. 
+Do the enlisted policies extend to your 
+value chain partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4. 
+Name of the national and international 
+codes/certifications/labels/ 
+standards 
+(e.g. 
+Forest 
+Stewardship 
+Council, 
+Fairtrade, Rainforest Alliance, Trustea) 
+standards (e.g. SA 8000, OHSAS, ISO, 
+BIS) adopted by your entity and mapped 
+to each principle.
+IATF
+16949
+ISO
+45001*;
+UNGC
+UNGC
+ISO 14001*, 
+50001**
+5. 
+Specific commitments, goals and targets 
+set by the entity with defined timelines, 
+if any.
+Engagement 
+with stakeholders 
+over increased 
+used of 
+recyclate to 
+meet customer 
+objectives
+(1) Carbon Net 
+Zero across our 
+current global 
+operations by 
+2040;
+(2) 50% reduction 
+towards our net 
+zero ambition 
+by 2030 *. 
+Implementation of 
+water preservation 
+initiatives at all 
+owned facilities by 
+2030*
+'* We are in the process of ensuring that all the new sites that joined the group in the FY24 are getting the relevant accreditations 
+**20% of our sites have already achieved ISO 50001 accreditation - and we are confident we will reach our target. By measuring 
+energy consumption at every step of every process, Motherson will identify opportunities to increase efficiency through process 
+adjustments and/or introducing next-generation, energy-eicient production machinery'
+6. 
+Performance of the entity against 
+the specific commitments, goals and 
+targets along-with reasons in case the 
+same are not met.
+Climate transition 
+plans
+'*Baseline of FY23 ,which is dependent on being able to realize access to economically viable solutions for clean and renewable 
+energy in the countries in which we operate'
+samvardhana motherson international limited
+192
+Governance, leadership and oversight
+7. 
+Statement 
+by 
+director 
+responsible 
+for the business responsibility report, 
+highlighting ESG related challenges, 
+targets and achievements (listed entity 
+has flexibility regarding the placement 
+of this disclosure)
+Refer to page number 19
+8. 
+Details 
+of 
+the 
+highest 
+authority 
+responsible for implementation and 
+oversight of the Business Responsibility 
+policy (ies).
+The Board of Directors of the Company has constituted a Global Sustainability 
+Committee to drive the substainablity goals of the Company. Mr. Barrie Painter, 
+Chief sustainability Officer - General Management is responsible for implementation 
+and oversight of Business Responsibility policies, and development of strategies for 
+Motherson under the supervision and directions of the Board of Directors and/or the 
+Global Sustainability Committee of the Company and development of strategies
+9. 
+Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision making on 
+sustainability related issues? (Yes / No). 
+If yes, provide details.
+Yes. The Board of Directors of the Company has constituted a Global Sustainability 
+Committee to drive the substainablity goals of the Company. The constitution of the 
+aforesaid committee is available in the Corporate Governance Report forming part of 
+the Annual Report
+10. 
+Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by 
+Director / Committee of the Board/ Any other 
+Committee
+Frequency (Annually/ Half yearly/ Quarterly/ 
+Any other – please specify)
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Performance 
+against 
+above 
+policies and follow up action
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Quarterly
+Compliance 
+with 
+statutory 
+requirements of relevance to 
+the principles, and, rectification 
+of any non-compliances
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Annually
+11. 
+Has the entity carried out independent assessment/ evaluation of the working 
+of its policies by an external agency? (Yes/No). If yes, provide name of the 
+agency.
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+No
+No
+No
+No
+No
+No
+No
+No
+No
+12. 
+If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Not applicable
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key processes 
+and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential indicators are expected to be 
+disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed by entities which 
+aspire to progress to a higher level in their quest to be socially, environmentally and ethically responsible.
+annual report  2023-2024
+193
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent and 
+Accountable.
+Essential Indicators
+1. 
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics / principles covered under the 
+training and its impact
+%age of persons in respective 
+category covered by the 
+awareness programmes
+Board of Directors
+4 BRSR principles, Human rights, climate 
+transition, biodiversity, water preservation
+100%
+Key Managerial 
+Personnel
+4 BRSR principles, Human rights, climate 
+transition, biodiversity, water preservation
+100%
+Employees other than 
+BoD and KMPs
+7,499 Motherson 
+code 
+of 
+conduct, 
+whistleblower policy, Human rights, Anti-
+bribery, Anti-trust, Health &safety
+81%
+Workers
+16,291 Motherson code of conduct, Human 
+rights, Anti-bribery, Health &safety
+81%
+2. 
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by 
+directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the following format (Note: 
+the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount 
+(In `)
+Brief of the 
+Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/ Fine
+Nil
+Nil
+Nil
+Nil
+Nil
+Settlement
+Nil
+Nil
+Nil
+Nil
+Nil
+Compounding fee
+Nil
+Nil
+Nil
+Nil
+Nil
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+Nil
+Nil
+Nil
+Nil
+Punishment
+Nil
+Nil
+Nil
+Nil
+Response to Principle 1 Essential Indicator 2 pertains to the Company on Standalone basis.
+3. 
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-monetary 
+action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+NA
+NA
+Response to Principle 1 Essential Indicator 3 pertains to the Company on Standalone basis.
+samvardhana motherson international limited
+194
+4. 
+Does the entity have an anti-corruption or anti-bribery policy?
+Yes. The policy is available on the website at https://www.motherson.com/storage/Group-Policies/Anti-Bribery-Gifts-Meals-&-
+Entertainment-Policy.pdf 
+5. 
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for 
+the charges of bribery/ corruption:
+FY 2023-24
+FY 2022-23
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+Response to Principle 1 Essential Indicator 5 pertains to the Company on Standalone basis.
+6. 
+Details of complaints with regard to conflict of interest:
+FY 2023-24
+2022-23
+Number of complaints received in relation to issues of 
+Conflict of Interest of the:
+Number
+Remarks
+Number
+Remarks
+Directors
+0
+NA
+0
+NA
+KMPs
+0
+NA
+0
+NA
+Response to Principle 1 Essential Indicator 6 pertains to the Company on Standalone basis.
+7. 
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law 
+enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+Not applicable.
+8. 
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following format:
+FY 2023-24
+FY 2022-23
+Number of days of accounts payables
+96
+104
+Reasonable assurance has been carried out by Thakur, Vaidyanath Aiyar & Co. on above indicator
+annual report  2023-2024
+195
+9. 
+Open-ness of business
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and 
+advances & investments, with related parties:
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of 
+Purchases#
+a. 
+Purchases from trading houses as % of total 
+purchases
+5%
+3%
+b. 
+Number of trading houses where purchases 
+are made from
+10
+10
+c. 
+Purchases from top 10 trading houses as % of 
+total purchases from trading houses
+Refer note below
+Concentration of 
+Sales#
+a. 
+Sales to dealers / distributors as % of total 
+sales
+0.3%
+0.4%
+b. 
+Number of dealers / distributors to whom 
+sales are made
+326
+286
+c. 
+Sales to top 10 dealers / distributors as % of 
+total sales to dealers / distributors
+28%
+27%
+Share of RPTs in
+a. 
+Purchases (Purchases with related parties / 
+Total Purchases)
+4%
+4%
+b. 
+Sales (Sales related parties / Total Sales)
+4%
+5%
+c. 
+Loans & advances (Loans & advances given to 
+related parties /Total loans & advances)
+13%
+11%
+d. 
+Investments (Investments in related parties / 
+Total Investments made)*
+NIL
+NIL
+# Note: The information is for SAMIL India operations (i.e. including Indian Subsidiaries).
+Note: -
+SAMIL and its Indian subsidiaries have identified certain suppliers as Trading House i.e. "an entity that specializes in facilitating 
+international trade and it acts as an intermediary between buyers and sellers across different countries, connecting them and 
+facilitating the exchange of goods and services". As there was no formal definition available, suppliers' classification was not 
+maintained in the database as required for above reporting to ensure the completeness.
+Due to above and paucity of information, data required to be provided in the above table might have been impacted. 
+Yes. Reasonable assurance has been carried out by Thakur, Vaidyanath Aiyar & Co. on above indicator
+Leadership Indicators
+1. 
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total number of awareness 
+programmes held
+Topics / principles covered 
+under the training
+%age of value chain partners covered (by 
+value of business done with such partners) 
+under the awareness programmes
+16
+Social, Goverance, Environment principles
+70%
+The company conducted supplier webinars to raise awareness about sustainability, covering governance, social, and environmental 
+principles. Additionally, we partnered with EcoVadis, a third-party assessor, to evaluate suppliers' sustainability status. We also 
+drafted a code of conduct incorporating the latest compliances, such as the German Supply Chain Act. Supplliers representing 
+70% of direct material spend were engaged.
+samvardhana motherson international limited
+196
+2. 
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? Yes, Company has 
+Code of Conduct of Directors which clearly states that every director representing Motherson shall endeavour to avoid conflict of 
+interest and is expected to act in the best interests of Motherson.
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1. 
+Percentage of Research & Development (R&D) and capital expenditure (Capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Current Financial 
+Year
+Previous 
+Financial Year
+Details of improvements in environmental and social impacts
+R&D
+21%
+18% Pre-production R&D expenses for 100% electric vehicles and other divisional 
+specific programs
+Capex
+4%
+7% * Capex for energy generation, energy reduction, electric vehicles and other 
+divisional specific programs
+* Restated Prior year to as an update to reporting taxonomy
+2. 
+a. 
+Does the entity have procedures in place for sustainable sourcing?
+Yes. Every supplier is required to sign a code of conduct which includes a range of Sustainability focussed commitments. In 
+addition our supplier sustainability performance is assessed by 3rd party assessor EcoVadis.
+b. 
+If yes, what percentage of inputs were sourced sustainably?
+40%
+Represents business awarded since the introduction of the updated supplier code of conduct as a proportion of total supply
+3. 
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) Plastics 
+(including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+We are not yet involved in the end of life recovery with our customers. However packaging sheets per part number define which 
+reusable packaging is to be used. The majority of Motherson sites globally operate within environments where recycling facilities 
+exist for all types of waste, and use of recycled materials and packaging is adopted wherever possible. For locations where such 
+facilities do not exist then all waste is disposed of in compliance with regulatory requirements.
+4.  
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities.
+SAMIL has registered with the CPCB in the latter stages of FY24 and submission, approval and implementation of waste collection 
+plans is expected to happen during FY25
+annual report  2023-2024
+197
+Leadership Indicators
+1. 
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) or for its 
+services (for service industry)? If yes, provide details:
+NIC Code
+Name of Product 
+/Service
+% of total 
+Turnover 
+contributed
+Boundary for 
+which the Life 
+Cycle Perspective 
+/ Assessment was 
+conducted
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes/No)
+Results 
+communicated in 
+public domain (Yes/
+No) If yes, provide 
+the web-link.
+29302
+Polymer & Modules
+50%
+Cradle to gate
+Yes
+No
+29304
+Wiring Harness
+24%
+Cradle to gate
+Yes
+No
+29302
+Vision Systems
+16%
+Cradle to gate
+Yes
+No
+LCA calculation methodologies have been established within each category reported in the table above, with some specific 
+representative product family LCAs already completed within each of the categories listed. The % revenues indicated are for the 
+relevant product families with each category.
+2. 
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your products / 
+services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same 
+along-with action taken to mitigate the same.
+Not applicable
+3. 
+Percentage of recycled or reused input material to total material (by value) used in production:
+Indicate input material
+Recycled or re-used input material to total material
+FY 2023-24
+FY 2022-23
+Polymer resin
+1.43%
+This data was not 
+reportable for FY 2022-23
+The company is actively working to increase the use of recycled or re-used material in its products in alignment with customers 
+and with the overall objective of reducing the product carbon footprint (PCF), reducing waste and increasing the level of economic 
+circularity, however, it does not currently have the ability to report this on a by value’ as a proportion of total material. 
+4. 
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely 
+disposed.
+Not applicable at this time. Motherson directly supplies products to OEM customers as a B2B tier 1 supplier and is not yet operating 
+a business model engaged in end of life recovery of products. We work closely aligned with our OEM customers to support their 
+needs and evolving objectives with respect to end of life recyclability of our products & components supplied to them.
+5. 
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Not applicable, see note for question 4 above
+samvardhana motherson international limited
+198
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their value chains
+Essential Indicators
+1. 
+a. 
+Details of measures for the well-being of employees:
+Category
+% of Employees covered by
+Total 
+(A)
+Health Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+Number 
+(B)"
+% (B/A) Number 
+(C)
+% (C/A) Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% (E/A) Number 
+(F)
+% 
+(F/A)
+Permanent Employees
+Male
+ 10,298 
+ 10,298 
+100%
+ 10,298 
+100%
+0
+0%
+2,114
+21%
+0
+0%
+Female
+ 1,012 
+ 1,012 
+100%
+ 1,012 
+100%
+ 1,012 
+100%
+0
+0%
+739
+97%
+Total
+ 11,310 
+11,310
+100%
+11,310
+100%
+1,012
+100%
+2,114
+21%
+739
+97%
+Other than Permanent Employees
+Male
+5,076
+5,076
+100%
+5,076
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+783
+783
+100%
+783
+100%
+783
+100%
+0
+0%
+700
+97%
+Total
+ 5,859 
+5,859
+100%
+5,859
+100%
+783
+100%
+0
+0%
+700
+97%
+Note: The information is for SAMIL and its Indian Subsidiaries
+* Materity and Paternity benefits have been calculated considering the number of male or female as applicable
+b. 
+Details of measures for the well-being of workers:
+Category
+% of Workers covered by
+Total  
+(A)
+Health Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Benefits
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Permanent Workers
+Male
+ 2,754 
+2,662
+97%
+ 2,754 
+100%
+0
+0%
+24
+1%
+0
+0%
+Female
+ 465 
+400
+86%
+389
+84%
+235
+51%
+0
+0%
+424
+98%
+Total
+3,219
+3,062
+95%
+3,143
+98%
+235
+51%
+24
+1%
+424
+98%
+Other than Permanent Workers
+Male
+ 12,220 
+549
+4%
+5,021
+41%
+0
+0%
+2
+0%
+0
+0%
+Female
+ 3,731 
+59
+2%
+2,025
+54%
+2,526
+68%
+0
+0%
+3,510
+99%
+Total
+ 15,951 
+608
+4%
+7,046
+44%
+2,526
+68%
+2
+0%
+3,510
+99%
+Note: The information is for SAMIL and its Indian Subsidiaries
+* Materity and Paternity benefits have been calculated considering the number of male or female as applicable
+annual report  2023-2024
+199
+c. 
+Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in 
+the following format –
+FY 2023-24
+FY 2022-23
+Cost incurred on well-being measures as a % of total revenue of 
+the company#
+0.08%
+New question added in 
+FY 2023-24 not reportable 
+for FY 2022-23
+*Note: The information is for SAMIL and its Indian Subsidiaries
+Note: Independent assessment assurance has been carried out by an external agency? (Y/N) If yes, name of the external 
+agency. 
+Yes. Reasonable assurance has been carried out by Thakur, Vaidyanath Aiyar & Co. on above indicator
+2. 
+Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as a 
+% of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Y
+100%
+100%
+Y
+Gratuity
+100%
+100%
+Y
+100%
+100%
+Y
+ESI
+100%
+100%
+Y
+100%
+100%
+Y
+Others – please specify
+All the compliances are ensured by the corporation. Also, the data presented here for gratuity is for permanent workforce only. In 
+case of ESI all the applicable employees are covered as per laid down regulations
+3. 
+Accessibility of workplaces
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights 
+of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+Our premises and offices have been purposefully designed to ensure accessibility for employees and workers 
+with different abilities, in compliance with the Rights of Persons with Disabilities Act, 2016, and similar legislation applicable in all 
+the locations where we operate.
+Response to Principle 3 Essential Indicator 3 pertains to the Company on Standalone basis.
+4. 
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link to 
+the policy.
+The Code of Conduct of Motherson is available at https://www.motherson.com/storage/Group-Policies/Code-of-conduct-for-
+Employees.pdf. Clause 3.7 of Code of Conduct Provides that ”Equal Employment Opportunity: The Motherson Group provides 
+equal opportunity and inclusion for all those associated with it, through its policies and practices.
+Response to Principle 3 Essential Indicator 4 pertains to the Company on Standalone basis.
+samvardhana motherson international limited
+200
+5. 
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Permanent employees
+Permanent workers
+Gender
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+68%
+95%
+50%
+95%
+Female
+44%
+95%
+48%
+90%
+Total
+52%
+93%
+49%
+95%
+Note: This year the return to work is calculated on a rolling basis, thus may not be comparable to previous year. Employees who are 
+still on parental leave,  are not included in this financial year reporting
+6. 
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? 
+Details
+Permanent Workers
+Yes, follows global policy. Committee in place to receive and redress grievances
+Other than Permanent Workers
+Yes, follows global policy. Committee in place to receive and redress grievances
+Permanent Employees
+Yes, follows global policy. Committee in place to receive and redress grievances
+Other than Permanent Employees
+Yes, follows global policy. Committee in place to receive and redress grievances
+Motherson has implemented a range of mechanisms to receive and address grievances across the organization. Employees have 
+multiple pathways to submit suggestions, including online portals, physical suggestion boxes, and Key Performance Indicators 
+(KPIs) that encourage employee feedback. In cases of employee disciplinary matters, there are appeal processes outlined in 
+policies, procedures, collective agreements, industry awards, and union processes.
+Motherson has established various working groups, such as employee consultative committees, unionmanagement committees, 
+health and safety committees, canteen committees, and welfare committees, to address employee matters.
+To facilitate confidential submissions, mechanisms for anonymous or private submissions include designated email addresses 
+and/or telephone numbers. Trade unions play a visible role in resolving grievances where they are present. Motherson follows an 
+open-door policy, granting all employees access to senior management, regardless of their role or position within the organization.
+Additionally, Motherson has a formal Whistle-Blower Policy, providing a confidential platform for reporting grievances, which 
+are subsequently investigated. The Company also has a comprehensive policy on the prevention, prohibition, and redressal of 
+sexual harassment in the workplace. Many of Motherson’s Indian units have Internal Complaints Committees (ICCs) in compliance 
+with the Sexual Harassment of Women at Workplace (Prevention, Prohibition, and Redressal) Act, 2013. The ICC members are 
+responsible for conducting inquiries related to such complaints.
+annual report  2023-2024
+201
+7. 
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+employees 
+/ workers in 
+respective 
+category (A)
+No. of employees / 
+workers in respective 
+category, who are 
+part of association(s) 
+or Union (B)
+% (B / A)
+Total 
+employees 
+/ workers in 
+respective 
+category (C)
+No. of employees / 
+workers in respective 
+category, who are 
+part of association(s) 
+or Union (D)
+% (D / C)
+Total Permanent 
+Employees
+3,638
+2,009
+55%
+9,251
+2,876
+31%
+- Male
+2,232
+1,278
+57%
+6,286
+1,960
+31%
+- Female
+1,406
+731
+52%
+2,965
+916
+31%
+Total Permanent 
+Workers
+27,003
+20,199
+75%
+27,724
+18,662
+67%
+- Male
+11,583
+8,095
+70%
+11,307
+7,803
+69%
+- Female
+15,420
+12,104
+78%
+16,417
+10,859
+66%
+The company follows its policies to respect and uphold the freedom of association and right to collective bargaining of any and all 
+employees. The dataset represents the total number of people that operate in geographies’ / jurisdictions where applicable unions 
+or associations exist.
+8. 
+Details of training given to employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total (D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+29,325
+66,407
+100%
+31,149
+100%
+20,914
+18,345
+88%
+10,378
+50%
+Female
+9,166
+17,020
+100%
+11,989
+100%
+7,649
+6,070
+79%
+4,750
+62%
+Total
+38,491
+83,427
+100%
+43,138
+100%
+28,563
+24,415
+85%
+15,128
+53%
+Workers
+Male
+52,200
+75,074
+100%
+35,998
+69%
+32,100
+22,028
+69%
+20,561
+64%
+Female
+45,522
+39,350
+86%
+33,010
+73%
+31,780
+21,621
+68%
+15,758
+50%
+Total
+97,722
+114,424
+100%
+69,008
+71%
+63,880
+43,649
+68%
+36,319
+57%
+The training provided includes employees who joined and left during the year, including mandatory programs such as health and 
+safety and skill upgradation. Consequently, all employees have participated in these training programs, and some employees have 
+undergone multiple training sessions. As a result, the coverage percentage exceeds 100% due to the multiple trainings undergone 
+by individual employees
+Where ever the number of training opportunities have exceeded 100% we have capped it to 100%
+samvardhana motherson international limited
+202
+9. 
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees
+Male
+29,325
+17,555
+60%
+18,890
+8,275
+44%
+Female
+9,166
+7,416
+81%
+6,941
+2,660
+38%
+Total
+38,491
+24,971
+65%
+25,831
+10,935
+42%
+Permanent Workers
+Male
+32,059
+7,791
+24%
+18,922
+2,807
+15%
+Female
+33,470
+1,883
+6%
+22,666
+376
+2%
+Total
+65,529
+9,674
+15%
+41,588
+3,183
+8%
+The Performance and Career Development Review policy differs across various regions and legal entities.
+10. 
+Health and safety management system:
+a. 
+Whether an occupational health and safety management system has been implemented by the entity?
+Yes. ISO45001/ISO18001 certified health and safety management systems are in place across the majority of Motherson’s 
+operations. Alternative ISO-compliant health and safety management systems are in place in situations where these particular 
+certifications have not been obtained. Motherson follows the exacting standards established by FM Global, a renowned 
+international insurer, in addition to the ISO guidelines. FM Global is renowned for its proficiency in the development of safety 
+standards and work practices, as well as operational risk management, which includes fire management systems.
+Motherson places a high priority on the health, safety, and well-being of its workers and seeks to establish a secure working 
+environment throughout all of its operations by abiding by these globally recognized standards and practices.
+b. 
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the 
+entity? 
+At Motherson, we identify and evaluate risks and hazards in a proactive manner. We use a range of techniques to guarantee 
+a thorough assessment of potential risks and related hazards.
+1. 
+Carrying out safety inspection walks, in which authorised workers examine the workplace to find any potential or 
+current hazards. In order to systematically evaluate risks across a range of activities and processes, we also schedule 
+risk assessments. Inspections are conducted on a regular basis to track continued adherence to safety procedures and 
+spot any new risks.
+2. 
+We carry out monthly and quarterly audits, which entail a detailed examination of hazard identification and risk 
+assessment inputs, in order to uphold a high standard of safety. This makes it possible for us to keep enhancing our 
+safety procedures and guarantee that any hazards are dealt with right away.
+3. 
+We give regular and planned preventative maintenance top priority when it comes to our plants and equipment. This 
+lessens the possibility of hazards brought on by equipment failures or malfunctions.
+c. 
+Whether you have processes for workers to report the work related hazards and to remove themselves from such risks. 
+Yes, a system has been put in place for all employees to report hazards and get them resolved quickly. People can report 
+any possible hazards they come across at work thanks to this system. Our goal is to establish a culture of proactive risk 
+identification and mitigation of safety issues by actively promoting hazard reporting.
+annual report  2023-2024
+203
+d. 
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services?
+Yes We have partnerships with panel hospitals to guarantee that workers can easily access healthcare facilities for their 
+requirements.
+In certain locations, we also have medical professionals on-site who can offer immediate medical attention and support within our 
+premises. These professionals may include doctors, nurses, and/or physiotherapists. Our employees are guaranteed timely and 
+effective healthcare services thanks to our on-site presence. 
+11. 
+Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category*
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person 
+hours worked)
+Employees
+0.86
+1.19
+Workers
+1.11
+1.61
+Total recordable work-related injuries
+Employees
+86
+63
+Workers
+147
+191
+Number of fatalities
+Employees
+0
+0
+Workers
+0
+1
+High consequence work-related injury or ill-health (excluding 
+fatalities)
+Employees
+2
+2
+Workers
+4
+4
+*Including in the contract workforce
+Note: Independent assessment assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency. 
+Yes. Reasonable assurance has been carried out by Thakur, Vaidyanath Aiyar & Co. on above indicator
+12. 
+Describe the measures taken by the entity to ensure a safe and healthy work place.
+A safe and healthy workplace is ensured by the existing health and safety management systems. This method emphasizes the 
+value of teamwork in preserving safety and entails active engagement from shop floor employees up to management. Numerous 
+initiatives are put into place to deal with risk assessment and hazard identification. These programs are implemented through pre-
+activity and scheduled evaluations in addition to on-demand work. In order to put in place the proper control measures, the goal 
+is to methodically identify potential hazards and evaluate the risks connected with them. Worker, employee, and management 
+representation is essential in health and safety committees. These committees serve as forums for talking about risk and hazard 
+management, health and wellness programs, emergency response plans, and local law compliance. Together with the general 
+management systems, the committees guarantee a thorough approach to health and safety.
+13. 
+Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Working Conditions
+81
+54
+319
+19
+Health & Safety
+261
+11
+45
+14
+samvardhana motherson international limited
+204
+14. 
+Assessments for the year:
+% of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Health and safety practices
+76%
+Working Conditions
+58%
+Above data represents a proportion of sites accredited to ISO 14001 and ISO 45001
+15. 
+Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / 
+concerns arising from assessments of health & safety practices and working conditions.
+At Motherson, a number of safety-related upgrades have been made. One way to prevent access to areas where there is a risk of 
+equipment movement is by installing safety devices and systems in equipment, such as automatic and semi-automatic presses. 
+By cutting off power in dangerous situations, safety measures like interlocks, presence curtains, security guards, and equipment 
+programming help guarantee the safety of workers. Procedures for authorization have been designed for high-risk tasks like 
+electrical installations, height work, and hot work. Additional measures include adhering to relevant legal requirements, offering 
+workers induction courses on safety, health, and the environment, supplying the proper personal protective equipment for each 
+activity, carrying out safety audits while in operation, and keeping nurses and doctors on hand to offer emergency care.
+The purpose of the monthly safety committee meetings is to review and discuss any incidents involving safety that happened 
+during the previous month and the steps taken to avoid similar incidents in the future. The availability and discussion of safety-
+related key performance indicators (KPIs) at monthly performance review meetings facilitates the tracking and enhancement of 
+safety performance. Every unit has dedicated incident investigation teams that are in charge of looking into any incidents and 
+coming up with corrective measures to stop them from happening again.
+Leadership Indicators
+1. 
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y) (B) Workers (Y). 
+Motherson recognizes the importance of providing transition support to employees to facilitate their continued employment and 
+smooth transition. Although there is no set policy, Motherson uses a best fit and decentralized approach to meet the specific 
+needs of each local context. The availability of transition support systems may vary in Motherson’s operating regions and their 
+implementation depends on the company’s current requirements. This approach allows for flexibility and adaptability to respond 
+to the unique circumstances and challenges employees face during transition. Motherson remains committed to supporting 
+its employees during periods of transition, and while specific support mechanisms may not be uniformly standardized across 
+locations, the company strives to provide appropriate assistance and resources to facilitate employability and the overall transition 
+to new opportunities.
+2. 
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value chain 
+partners.
+The evidence of payment of statutory dues are collected from the value chain partners on monthly basis.
+annual report  2023-2024
+205
+3. 
+Provide the number of employees / workers having suffered high consequence work- related injury / ill-health / fatalities (as 
+reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment or whose family 
+members have been placed in suitable employment:
+Total no. of affected employees/ workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose family 
+members have been placed in suitable employment
+FY 2023-24
+FY 2022-23
+FY 2023-24
+FY 2022-23
+Employees
+Nil
+Nil
+Nil
+Nil
+Workers
+Nil
+Nil
+Nil
+Nil
+4. 
+Does the entity provide transition assistance programs to facilitate continued employability and the management of career endings 
+resulting from retirement or termination of employment? 
+Yes
+Motherson recognizes the importance of providing transition support to employees to facilitate their continued employment and 
+smooth transition. Although there is no set policy, Motherson uses a best fit and decentralized approach to meet the specific 
+needs of each local context. The availability of transition support systems may vary in Motherson’s operating regions and their 
+implementation depends on the company’s current requirements. This approach allows for flexibility and adaptability to respond 
+to the unique circumstances and challenges employees face during transition. Motherson remains committed to supporting 
+its employees during periods of transition, and while specific support mechanisms may not be uniformly standardized across 
+locations, the company strives to provide appropriate assistance and resources to facilitate employability and the overall transition 
+to new opportunities..
+5. 
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Health and safety practices
+70%
+Working Conditions
+70%
+Suppliers are assessed on the mentioned parameters using the third-party assessor EcoVadis IQ. Currently, suppliers responsible 
+for 70% of our direct material spend have been uploaded to the IQ platform and assessed.
+6. 
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments of 
+health and safety practices and working conditions of value chain partners. As of right now, Motherson has not encountered any 
+material risks related to the evaluation of value chain partners’ health and safety procedures or working conditions.
+samvardhana motherson international limited
+206
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1. 
+Describe the processes for identifying key stakeholder groups of the entity. 
+The key stakeholder groups for the entity are well known based on many years of an established enterprise serving the needs of 
+customers, investors, shareholders and the communities in which we are present in cooperation with our suppliers and partners. 
+Listings of all key stakeholders are maintained and amended based upon the development of the entity and its subsidiaries resulting 
+from the deployment of the 3CX10 strategy and the vision to be a preferred sustainable solutions provider to our customers.
+2. 
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement 
+(Annually/ Half yearly/ 
+Quarterly / others – 
+please specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Employees
+No
+Internal web portal, employee 
+newsletters, posters and notice 
+boards
+Weekly, Daily
+Safety, professional growth of 
+employees, wellbeing, training and 
+awareness
+Customers
+No
+Meetings, events, technology 
+shows, online portals, website
+Weekly, Daily
+Current 
+and 
+future 
+business 
+manangement, 
+sustainable 
+improvements
+Partners
+No
+Meetings, 
+events, 
+online 
+portals, website
+Weekly
+Identification and coordination of 
+mutual opportunities, sustainable 
+improvements
+Suppliers
+No
+Meetings, 
+events, 
+webinars 
+online portals, website
+Weekly
+Scope 3 decarbonization, social 
+and governance responsibilities 
+across the value chain
+Community
+No
+CSR report, local community 
+engagements 
+via 
+events, 
+charities, open days
+Monthly
+Identifying and addressing needs 
+and valnerabilities if any and 
+Motherson’s role in improvements
+Investors/  
+Shareholders
+No
+As needed: Press releases 
+and press conferences, email 
+advisories, 
+facility 
+visits, 
+inperson meetings, investor 
+conferences, conference calls
+Quarterly.
+- 
+Educating 
+the 
+investor 
+community 
+about 
+company 
+integrated value creation model 
+and business strategy for the long 
+term.
+- Helping investors voice their 
+concerns 
+regarding 
+company 
+policies, reporting, strategy, etc. 
+- 
+Understanding 
+shareholder 
+expectations.
+Leadership Indicators
+1. 
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or if 
+consultation is delegated, how is feedback from such consultations provided to the Board.
+Delegated to multiple interaction points with stakeholder groups. The feedback is shared with the board through board meetings 
+and sustainability sub-committees of the board
+annual report  2023-2024
+207
+2. 
+Whether stakeholder consultation is used to support the identification and management of environmental, and social topics (Yes 
+/ No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into 
+policies and activities of the entity.
+Yes. Multiple responsible representatives of the group interact with stakeholders on a continuous basis providing input to the 
+materiality assessment process of the organizations. Defined material topics are reviewed every 2 years for input to management 
+processes, risk&opportunity assessment and strategic objectives.
+3. 
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized stakeholder 
+groups. 
+Not applicable
+PRINCIPLE 5: Businesses should respect and promote human rights
+Essential Indicators
+1. 
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following 
+format:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of employees/
+workers covered 
+(B)
+% (B / A)
+Total (C)
+No. of employees/
+workers covered 
+(D)
+% (D / C)
+Employees
+Permanent
+28,442
+41,766
+100%
+25,831
+19,370
+75%
+Other than permanent
+10,049
+11,928
+100%
+2,732
+2,732
+100%
+Total Employees
+38,491
+53,694
+100%
+28,563
+22,102
+77%
+Workers
+Permanent
+65,529
+84,275
+100%
+41,588
+30,361
+73%
+Other than permanent
+32,193
+21,667
+67%
+22,292
+11,081
+50%
+Total Employees
+97,722
+105,942
+100%
+63,880
+41,442
+65%
+The training provided includes employees who joined and left during the year, including mandatory programs such as health and 
+safety and skill upgradation. Consequently, all employees have participated in these training programs, and some employees have 
+undergone multiple training sessions. As a result, the coverage percentage exceeds 100% due to the multiple trainings undergone 
+by individual employees
+Where ever the number of training opportunities have exceeded 100% we have capped it to 100%
+samvardhana motherson international limited
+208
+2. 
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2023-24
+FY 2022-23
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+Total 
+(A)
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+28,442
+2,674
+9%
+25,768
+91%
+25,831
+211
+1%
+25,602
+99%
+Male
+20,687
+1,292
+6%
+19,395
+94%
+18,890
+151
+1%
+18,716
+99%
+Female
+7,755
+1,382
+18%
+6,373
+82%
+6,941
+60
+1%
+6,886
+99%
+Other than permanent
+10,049
+1,567
+16%
+8,482
+84%
+2,732
+367
+13%
+2,359
+86%
+Male
+7,662
+1,330
+17%
+6,332
+83%
+2,024
+288
+14%
+1,735
+86%
+Female
+2,387
+237
+10%
+2,150
+90%
+708
+79
+11%
+624
+88%
+Workers
+Permanent
+65,529
+6,294
+10%
+59,235
+90%
+41,588
+885
+2%
+40,704
+98%
+Male
+43,178
+2,953
+7%
+40,225
+93%
+18,922
+679
+4%
+18,241
+96%
+Female
+22,351
+3,341
+15%
+19,010
+85%
+22,666
+206
+1%
+22,463
+99%
+Other than permanent
+32,193
+14,390
+45%
+17,803
+55%
+22,292
+6,795
+30%
+15,498
+70%
+Male
+21,491
+10,299
+48%
+11,192
+52%
+13,178
+4,521
+34%
+8,576
+65%
+Female
+10,702
+4,091
+38%
+6,611
+62%
+9,114
+2,274
+25%
+6,922
+76%
+3. 
+Details of remuneration/salary/wages
+a. 
+Median remuneration / wages:
+Male
+Female
+Number Median remuneration/ 
+salary/ wages of 
+respective category
+Number Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD)
+Executive Directors
+1
+43,084,026
+N/A
+Non Executive Independent Director
+4
+6,830,000
+1
+7,020,000
+Key Managerial Personnel
+2
+30,627,698
+N/A
+Employees other than BoD and KMP
+4,471
+621,432
+294
+599,874
+Workers
+7,814
+201,960
+2,489
+183,564
+This information is based on SAMIL standalone legal entity
+annual report  2023-2024
+209
+b. 
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of total wages#
+9.55%
+9.34%
+# Note: The information is for SAMIL India operations (i.e. including Indian Subsidiaries).
+Note: Independent assessment assurance has been carried out by an external agency? (Y/N) If yes, name of the external 
+agency. 
+Yes. Reasonable assurance has been carried out by Thakur, Vaidyanath Aiyar & Co. on above indicator
+4. 
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed 
+to by the business?
+Yes, in adhearance with the Human rights policy these are addressed by the management leadership team
+5. 
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+Motherson’s Human Rights Policy https://www.motherson.com/storage/Group-Policies/Human-Rights-Policy.pdf emphasizes the 
+company’s recognition of international human rights principles Motherson’s approach to human rights aligns with local needs 
+and requirements, leading to a variety of approaches and processes across its global footprint. These processes complement the 
+Whistle-Blower policy and include multiple anonymous submission platforms such as email accounts, phone numbers, mobile apps, 
+web portals, and physical drop boxes. In addition, Motherson has established various working groups and committees focused 
+on areas such as health and safety, employee representation, anti-sexual harassment, grievance handling, works council, union-
+management, consultation, canteen, welfare, and more. These groups work alongside formal complaints resolution procedures.
+6. 
+Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Filed 
+during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Sexual Harassment
+19
+3
+NA
+2
+2
+NA
+Discrimination at workplace
+18
+15
+NA
+0
+0
+NA
+Child Labour
+0
+0
+NA
+0
+0
+NA
+Forced Labour/Involuntary Labour
+0
+0
+NA
+0
+0
+NA
+Wages
+50
+49
+NA
+194
+609
+NA
+Other human rights related issues
+8
+4
+NA
+0
+0
+NA
+samvardhana motherson international limited
+210
+7. 
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, in the 
+following format:
+FY 2023-24
+FY 2022-23
+Total Complaints reported under Sexual Harassment on of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH) #
+5
+2
+Complaints on POSH as a % of female employees/ workers #
+0.08%
+0.04%
+Complaints on POSH upheld #
+5
+2
+# Note: POSH Act is applicable in India hence data is for SAMIL India operations (i.e. including Indian Subsidiaries).
+Note: Independent assessment assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency. 
+Yes. Reasonable assurance has been carried out by Thakur, Vaidyanath Aiyar & Co. on above indicator
+8. 
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+Motherson has a Prevention of Harassment Policy https://www.motherson.com/storage/Group-Policies/Prevention-of-
+Harassment-Policy.pdf that strictly prohibits retaliation or victimization of individuals who seek redressal against all acts of 
+harassment. The policy ensures that if a complaint is found to be true by the Reporting Authority, appropriate remedial action will 
+be taken as prescribed in paragraph 7 of the policy.
+The identity of the Reporting Person is kept confidential, and retaliation is strictly prohibited in accordance with the Code of Conduct 
+for Employees and Whistleblower Policies. Motherson maintains a ‘zero tolerance’ approach towards any form of harassment in the 
+workplace, and every individual is responsible for ensuring their actions and behaviors are free from harassment.
+The Motherson Prevention of Harassment Policy serves as the foundation for preventing harassment within the organization. 
+Each entity within Motherson is required to establish a complaints committee that is responsible for receiving, investigating, and 
+submitting findings for each case, while maintaining strict confidentiality to the fullest extent possible. Any form of retaliation or 
+victimization against the aggrieved person is strictly prohibited.
+In addition to the group policy and procedure, Motherson also complies with local regulatory requirements concerning retaliation 
+and victimization, further reinforcing its commitment to preventing harassment and fostering a safe and respectful work 
+environment.
+9. 
+Do human rights requirements form part of your business agreements and contracts?
+Yes
+10. 
+Assessments for the year:
+% of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Child labour
+100%
+Forced/involuntary labour
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others – please specify
+100%
+annual report  2023-2024
+211
+11. 
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at 
+Question 10 above.
+Till now Motherson has not come across any significant risk arising from assessment
+Leadership Indicators
+1. 
+Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints.
+Motherson has deployed a standardised digital process for raising a whistle-blower complaint, this process is provided and 
+operated by an independent external third-party.
+2. 
+Details of the scope and coverage of any Human rights due-diligence conducted.
+As part of our commitment to upholding human rights and to strengthen our due diligence in our value chain, we are working with 
+an external organisation to access a comprehensive risk index database, aligned to the fundamental human rights issues. This 
+global database assesses the risk of labour right issues and human rights violations and we have obtained subscriptions to specific 
+indices tailored to the industry in which we work, enabling us to pinpoint areas of potential risk and closely monitor human rights 
+issues worldwide. This can inform regional approaches to our human rights awareness campaigns. Please also refer to responses 
+to questions E5 to E9 above.
+3. 
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with 
+Disabilities Act, 2016?
+Our premises and offices have intentional accommodations/adaptations to create accessibility for differently abled employees 
+and workers per the requirements of the Rights of Persons with Disabilities Act, 2016 and similar sets of legislation across our 
+global footprint. These varied accommodations include provision of graded ramps for access/egress, elevators for ascent, special 
+disability access toilets, allocation of parking proximal to entry points, barrier-free entry to buildings, and other adaptations on a 
+case-by-case basis, such as special desk or office equipment.
+Response to Principle 5 Leadership Indicator 3 pertains to the Company on Standalone basis.
+4. 
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Sexual Harassment
+40%
+Discrimination at workplace
+40%
+Child Labour
+40%
+Forced Labour/Involuntary Labour
+40%
+Wages
+40%
+Others – please specify
+40%
+Scores released by EcoVadis demonstrate suppliers’ adherence to the specified parameters. Currently, we have scorecards for 
+suppliers responsible for 40% of our direct material spend.
+5. 
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at 
+Question 4 above.
+Till now Motherson has not come across any significant risk arising from assessment
+samvardhana motherson international limited
+212
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1. 
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+From renewable sources
+Total electricity consumption (A) (GJ)
+482,828
+536,818
+Total fuel consumption (B) (GJ)
+836
+0
+Energy consumption through other sources – Gas (C) (GJ)
+0
+0
+Total energy consumed from renewable sources (A+B+C)
+483,664
+536,818
+From non-renewable sources
+Total electricity consumption (D) (GJ)
+3,942,756
+3,287,224
+Total fuel consumption (E) (GJ)
+297,422
+198,292
+Energy consumption through other sources – Gas (F) (GJ)
+1,303,577
+1,090,321
+Total energy consumed from nonrenewable sources (D+E+F)
+5,543,755
+4,575,837
+Total energy consumed (A+B+C+D+E+F)
+6,027,419
+5,112,655
+Energy intensity per rupee of turnover (GJ/ INR Mn)
+6.1
+6.5
+Energy intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (PPP)* (GJ/PPP Mn)
+*
+*
+Energy intensity in terms of physical output
+#
+#
+*Since the reported intensity is global consolidated income, there is no need for a PPP adjustment
+#Not reported as the company has diversified business profile of their products.
+Note: Independent assessment assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency. 
+Yes. Reasonable assurance has been carried out by Thakur, Vaidyanath Aiyar & Co. on above indicator
+2. 
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade 
+(PAT) Scheme of the Government of India?
+No. We are not included in the under the Performance, Achieve and Trade (PAT) Scheme of the Government of India
+annual report  2023-2024
+213
+3. 
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kilolitres)
+(i) 
+Surface water
+71,699
+49,034
+(ii) 
+Groundwater
+708,379
+755,651
+(iii) 
+Third party water
+1,882,806
+1,676,701
+(iv) 
+Seawater / desalinated water
+0
+0
+(v) 
+Others (Rainwater harvesting)
+0
+0
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+2,662,884
+2,481,386
+Total volume of water consumption (in kilolitres)
+2,029,531
+2,121,988
+Water intensity per rupee of turnover
+(Total Water consumed / Revenue from operations) (Kiloliters/INR Mn)
+2.1
+2.7
+Water intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP*) (Total water consumption/Revenue from operations 
+adjusted for PPP) (Kiloliters/PPP Mn)
+*
+*
+Water intensity in terms of physical output
+#
+#
+*Since the reported intensity is global consolidated income, there is no need for a PPP adjustment
+#Not reported as the company has diversified business profile of their products.
+Note: Independent assessment assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency. 
+Yes. Reasonable assurance has been carried out by Thakur, Vaidyanath Aiyar & Co. on above indicator
+samvardhana motherson international limited
+214
+4. 
+Provide the following details related to water discharged:
+Parameter
+FY 2023-24
+FY 2022-23
+Water discharge by destination and level of treatment (in kilolitres)
+(i) 
+To Surface water
+0
+0
+- No treatment
+0
+0
+- With treatment – please specify level of treatment
+0
+0
+(ii) 
+To Groundwater
+205,389
+116,549
+- No treatment
+171,138
+97,113
+- With treatment – please specify level of treatment
+34,251 to local 
+regulatory 
+requirements
+19,436 to local 
+regulatory 
+requirements
+(iii) 
+To Seawater
+0
+0
+- No treatment
+0
+0
+- With treatment – please specify level of treatment
+0
+0
+(iv) 
+Sent to third parties
+427,964
+242,850
+- No treatment
+370,481
+210,231
+- With treatment – please specify level of treatment
+57,483 to local 
+regulatory 
+requirements
+32,619 to local 
+regulatory 
+requirements
+(v) 
+Others
+0
+0
+- No treatment
+0
+0
+- With treatment – please specify level of treatment
+0
+0
+Total water discharged (in kilolitres)
+633,353
+359,399
+*Number restated basis change in calculation methodology
+Note: Independent assessment assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency. 
+Yes. Reasonable assurance has been carried out by Thakur, Vaidyanath Aiyar & Co. on above indicator
+5. 
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+annual report  2023-2024
+215
+6. 
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.
+A small number of sites, mainly in India, have been actively pursuing water treatment and recycling initiatives to see how close they 
+can get to zero liquid discharge as an ambition. The learning from these activities will be taken group wide to support Motherson's 
+ambition to significantly reduce water discharge in the coming years, but not every learning will be feasible to apply due to different 
+processes and infrastructure issues at different sites and in different countries.
+Parameter
+Please
+specify unit
+FY 2023-24 
+FY 2022-23
+NOx
+Kgs
+776
+445
+SOx*
+* These are not relevant for the Company for the reporting
+Particulate matter (PM)*
+Persistent organic pollutants (POP)*
+Volatile organic compounds (VOC)*
+Hazardous air pollutants (HAP)*
+Others – please specify*
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency?
+No
+7. 
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity:
+Parameter
+Unit
+FY 2023-24 
+FY 2022-23
+Total Scope 1 emissions
+Metric tonnes of CO2 
+equivalent
+83,737
+67,609
+Total Scope 2 emissions
+Metric tonnes of CO2 
+equivalent
+505,006
+402,428
+Total Scope 1 and Scope 2 emissions intensity 
+per rupee of turnover
+Kg CO2 e/INR Mn 
+revenue
+597
+597
+Total Scope 1 and Scope 2 emission 
+intensity per rupee of turnover adjusted for 
+Purchasing Power Parity (PPP)*
+Kg CO2 e/PPP 
+adjusted revenue (Mn)
+*
+*
+Total Scope 1 and Scope 2 emission intensity in 
+terms of physical output
+#
+#
+*Since the reported intensity is global consolidated income, there is no need for a PPP adjustment
+#Not reported as the company has diversified business profile of their products. 
+Note: Independent assessment assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency. 
+Yes. Reasonable assurance has been carried out by Thakur, Vaidyanath Aiyar & Co. on above indicator
+samvardhana motherson international limited
+216
+8. 
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+The Motherson Group is actively working towards ISO50001 registration at all of its manufacturing sites, and alongside this is 
+regularly performing energy surveys at sites to identify and reduce energy wastage. In addition there is a mechanism in place to 
+report any initaitives implemented at individual sites and these ideas are shared widely across the group. Underpinning all of this is 
+a move towards energy contracts using more renewable electricty sources, and the Group has a target to significantly reduce its 
+emission footprint by 2030.
+9. 
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24 
+FY 2022-23
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+32,245
+26,195
+E-waste (B)
+112
+77
+Bio-medical waste (C)
+0
+0
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+0
+0
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. (G) Please specify, if any. if any. (Break-up by 
+composition i.e., by materials relevant to the sector)
+10,134
+14,436
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-
+up by composition i.e., by materials relevant to the sector)
+78,619
+75,938
+General non-hazardous waste
+31,584
+38,986
+Packaging
+21,742
+14,854
+Water based paints
+3,146
+4,626
+Metals
+22,147
+17,472
+Total (A+B + C + D + E + F + G + H)
+121,110
+116,646
+Waste intensity per rupee of turnover (Total waste generated / Revenue 
+from operations) Tons/INR Mn
+0.123
+0.148
+Waste intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (PPP) (Total waste generated (tons) / Revenue from operations 
+adjusted for PPP (Mn))*
+*
+*
+Waste intensity in terms of physical output
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)-
+Category of waste
+(i) Recycled
+Category A: 12,253 tonnes 
+Category B:
+0 tonnes
+Category G: 2,311 tonnes
+Category H: 39,319 tonnes
+Category A: 20,767 
+tonnes Category B:
+77 tonnes
+Category G: 0 tonnes
+Category H: 32,936 
+tonnes
+(ii) Re-used
+-
+-
+(iii) Other recovery operations
+-
+-
+Total
+-
+-
+annual report  2023-2024
+217
+Parameter
+FY 2023-24 
+FY 2022-23
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) Incineration
+-
+-
+(ii) Landfilling
+-
+-
+(iii) Other disposal operations
+-
+-
+Total
+-
+-
+-Waste recycling is currently the only tracking of waste generated on a consistent verifiable basis.  Other disposal methods are not 
+currently tracked on a consistent verifiable basis.
+*Since the reported intensity is global consolidated income, there is no need for a PPP adjustment
+#Not reported as the company has diversified business profile of their products. 
+Note: Independent assessment assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency. 
+Yes. Reasonable assurance has been carried out by Thakur, Vaidyanath Aiyar & Co. on above indicator
+10. 
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your company 
+to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to manage such 
+wastes.
+Waste is genertaed from production processes and inbound packaging, as well as general operational activity including 
+maintenance.
+At every site, production waste is monitored and reported on a monthly basis with the objective to minimise and reduce whereever 
+possible. Any production waste produced is kept clearly segregated from general waste and is recycled wherever possible. The 
+level of recycling infrastructure varies in different countries around the world.
+General waste is always segregated between hazardous and non-hazardous materials, and is always disposed off in accordance 
+with local legislation. What materials may be recycled using locally available facilities is appropriately done so
+11. 
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere 
+reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are 
+required, please specify details in the following format:
+S. 
+No.
+Location of 
+operations/
+offices
+Type of 
+operations
+Whether the conditions of environmental approval / clearance are being 
+complied with? (Y/N) 
+If no, the reasons thereof and corrective action taken, if any.
+Curitiba, Brasil
+Injection molding; 
+sequencing; 
+integrated 
+assembly
+"These three sites are within 5km of a recognised biodiversity hotspot. All 
+environmental requirements are complied with." 
+Campo Alegre, 
+Brasil
+Wire Harness 
+Assembly
+"This site is within 5km of a recognised biodiversity hotspot. All environmental 
+requirements are complied with"
+samvardhana motherson international limited
+218
+12. 
+Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current financial 
+year:
+Name and brief 
+details of project
+EIA Notification 
+No.
+Date
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results communicated 
+in public domain (Yes 
+/ No)
+Relevant Web 
+link
+NA
+NA
+NA
+NA
+NA
+NA
+Response to Principle 6 Essential Indicator 12 pertains to the Company on Standalone basis.
+13. 
+Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention and 
+Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). If not, 
+provide details of all such non-compliances, in the following format:
+S. 
+No.
+Specify the law / regulation 
+/ guidelines which was not 
+complied with
+Provide details of 
+the non- compliance
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution 
+control boards or by courts
+Corrective action 
+taken, if any
+NA
+NA
+NA
+NA
+Response to Principle 6 Essential Indicator 13 pertains to the Company on Standalone basis.
+Leadership Indicators
+1. 
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+For each facility / plant located in areas of water stress, provide the following information:
+(i) 
+Name of the area
+Noida; Indore; Bangalore; Bawal; Anathapur; Bechraji; Kandla; Karnataka; Dhorka; Manesar; Haryana; Jigani; Palani
+(ii) 
+Nature of operations
+3 x Cu wire production; 5 x injection molding; 2 x Logistics; 4 x Cut & sew; 1 x wire harness assembly; 7 x metal working; 2 x 
+lighting & electronics
+annual report  2023-2024
+219
+(iii) 
+Water withdrawal, consumption and discharge in the following format:
+Category Over Exploited
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kilolitres)
+(i) 
+Surface water
+12,315
+3,291
+(ii) 
+Groundwater
+180,774
+97,708
+(iii) 
+Third party water
+62,626
+41,281
+(iv) 
+Seawater / desalinated water
+0
+0
+(v) 
+Others
+0
+0
+Total volume of water withdrawal (in kilolitres)
+255,715
+142,280
+Total volume of water consumption (in kilolitres)
+255,715
+142,280
+Water intensity per rupee of turnover
+(Water consumed / turnover)
+Water intensity (optional) – the relevant metric may be selected by the 
+entity
+Water discharge by destination and level of treatment (in kilolitres)
+(i) 
+Into Surface water
+- No treatment
+- With treatment – please specify level of treatment
+(ii) 
+Into Groundwater
+- No treatment
+153,429
+100,999
+- With treatment – please specify level of treatment
+135,196
+83,471
+(iii) 
+Into Seawater
+18,233 to local regulatory 
+requirements
+17,528 to local regulatory 
+requirements
+- No treatment
+- With treatment – please specify level of treatment
+(iv) 
+Sent to third-parties
+- No treatment
+102,286
+41,281
+- With treatment – please specify level of treatment
+83,979
+28,809
+(v) 
+Others
+- No treatment
+18,307 to local regulatoy 
+requirements
+12,472 to local regulatory 
+requirements
+- With treatment – please specify level of treatment
+Total water discharged (in kilolitres)
+255,715
+142,280
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+No
+samvardhana motherson international limited
+220
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kilolitres)
+(i) 
+Surface water
+11,050
+4,810
+(ii) 
+Groundwater
+82,023
+12,670
+(iii) 
+Third party water
+39,415
+25,651
+(iv) 
+Seawater / desalinated water
+0
+0
+(v) 
+Others
+0
+0
+Total volume of water withdrawal (in kilolitres)
+132,488
+43,131
+Total  volume of water  consumption (in kilolitres)
+132,488
+43,131
+Water intensity per rupee of turnover (Water consumed / turnover)
+Water intensity (optional) – the relevant metric may be selected by the 
+entity
+Water discharge by destination and level of treatment (in kilolitres)
+(i) 
+Into Surface water
+0
+- No treatment
+0
+- With treatment – please specify level of treatment
+0
+(ii) 
+Into Groundwater
+- No treatment
+- With treatment – please specify level of treatment
+(iii) 
+Into Seawater
+- No treatment
+- With treatment – please specify
+level of treatment
+(iv) 
+Sent to third-parties
+132,488
+43,131
+- No treatment
+70,670
+20,152
+- With treatment – please specify level of treatment
+61,818 treated to local 
+regulatory requirements
+22,979
+(v) 
+Others
+- No treatment
+- With treatment – please specify level of treatment
+Total water discharged (in kilolitres)
+132,488
+43,131
+annual report  2023-2024
+221
+2. 
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 3 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+8,549,735
+6,217,411
+Total Scope 3 emissions per rupee of turnover
+Total Scope 3 emission intensity (optional) – the 
+relevant metric may be selected by the entity
+8.7 tonnes /million INR
+7.9 tonnes / million INR
+FY 2022-23 Data point corrected for Unit of Measure
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency?
+No
+This calculation for FY24 has an increased scope of coverage versus FY23 and now covers 80% of purchased goods by value, plus 
+business travel and upstream and downstream logistics footprint, and waste generated in operations.
+It excludes dirceted material spend from the Integrated Assemblies divsision in line with our financial data reporting.
+3. 
+With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, provide details of significant 
+direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities.
+4. 
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or 
+reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as outcome of 
+such initiatives, as per the following format:
+No.
+Initiative undertaken
+Details of the initiative (Web-link, if any, may 
+be provided along-with summary)
+Outcome of the initiative
+1
+Operational Key performance 
+indicators/reporting.
+Continuous improvement initiatives for 
+Environment such as reduction in resource 
+consumption and waste.
+Maintaining management focus on 
+daily operational performance
+2
+Operational initiatives and 
+best practice sharing (TOTD 
+and DO33)
+Energy/resource efficiency campaign (TOTD)
+Underpins our ongoing achievements 
+in energy intensity reduction and 
+water use reduction
+3
+Global Leadership 
+development programme 
+projects.
+Focus projects regarding improved 
+environmental sustainability and economic 
+circularity. 
+Underpinning succession planning 
+into middle and senior management 
+roles
+4
+Global Quality circles
+Focus on problem solving and best practice 
+improvement including within the scope the 
+creation of positive environmental impacts.
+ Building an ethos of team work and 
+continuous improvements
+5. 
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link. Every operating unit 
+within the consolidated entity completes its own Business Continuity and disaster management plan based upon the perceived 
+potential risks and impacts that could affect the facility, and how that facility working within its geography would be able to continue 
+to meet its customer’s requirements based upon the specific products and services provided.
+Risk management within the Group is now being extended to include longer term potential environmental and social risks (ref 
+TCFD framework).
+samvardhana motherson international limited
+222
+6. 
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or adaptation 
+measures have been taken by the entity in this regard.
+As of now Motherson is not aware about any significant adverse impact on environment arising from value chain of the entity
+7. 
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental impacts. 
+Value chain partners are assessed on environmental factors by EcoVadis IQ. Currently suppliers contributing to 80% of our direct 
+material spend are uploaded on the platform.
+Value chain partners are assessed on environmental factors by independent 3rd party assessor. Currently suppliers contributing to 
+80% of our direct material spend are uploaded on the platform.
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible 
+and transparent
+Essential Indicators
+1. 
+a. 
+Number of affiliations with trade and industry chambers/ associations.
+b. 
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the entity 
+is a member of/ affiliated to.
+S. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1
+Automotive component manufacturers association of India
+National
+2
+Federation Of Indian Export Organisation
+National
+3
+Confederation of Indian Industries
+National
+4
+The Associated Chambers of Commerce & Industry of India
+National
+5
+Society of Indian Automobile Manufacturers
+National
+6
+Motor & Equipment manufacturers association
+National
+7
+Federation Of Indian Chamber of Commerce and Industry
+National
+8
+HDMA (Heavy Duty Manufacturer Association)
+National
+9
+Export promotion council for EOU and SEZ’s
+National
+10
+Noida Management Association
+State
+2. 
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the entity, based on 
+adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+NA
+NA
+NA
+Motherson has a guidance note for its associate for anti competition and anti trust practices. These are available at https://www.
+motherson.com/storage/Group-Policies/Competition-and-Anti-trust-Guidance-Note.pdf. There are no current adverse orders 
+from regulatory authorities and therefore no corrective action is taken or underway at this time
+annual report  2023-2024
+223
+Leadership Indicators
+1. 
+Details of public policy positions advocated by the entity:
+S. 
+No.
+Public policy 
+advocated
+Method resorted 
+for such advocacy
+Whether information 
+available in public 
+domain? (Yes/No)
+Frequency of Review by Board 
+(Annually/ Half yearly/ Quarterly 
+/ Others – please specify)
+Web Link, if 
+available
+NA
+NA
+NA
+NA
+NA
+NA
+Motherson does not conduct public policy advocacy. We do not support any specific political party of any jurisdiction and do not 
+have any political ailiation. This is clearly stated in our Code of conduct. https://www.motherson.com/storage/Group-Policies/
+Code-of-conduct-for-Employees.pdf
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1. 
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial 
+year.
+Name and brief 
+details of the 
+project
+SIA Notification 
+NO.
+Date of 
+notification
+Whether conducted by 
+independent external 
+agency(Yes/No)
+Results communicated 
+in public domain (Yes/
+No)
+Relevant Web 
+Link
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(Response to Principle 8 Essential Indicator 1 pertains to the Company on Standalone basis.)
+2. 
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity.
+Not applicable
+3. 
+Describe the mechanisms to receive and redress grievances of the community.
+Mechanisms to receive grievances of the Community:
+The Motherson Group has established mechanisms to receive community grievances. The Individuals outside the Motherson Group 
+can contact the Regional Chairman’s Offices to lodge complaints or grievances via the website i.e. www.motherson.com. Further, 
+the Company has appointed an Ombudsman to handle complaints related to unethical and improper practices. The Individuals 
+can report such complaints to designated Ombudsman whose details are mentioned in the Whistle Blower Policy of the Company 
+available on the website at https://www.motherson.com/storage/Group-Policies/Whistle-blower-Policy.pdf. The Motherson Group 
+encourages regular interactions with the community, which are facilitated through physical visits, CSR events and engagement 
+with local community representatives. These interactions serve to open communication lines and gather feedback.
+Grievances Redressal Mechanisms:
+To ensure that all grievances are suitably investigated and addressed in a timely manner, a grievance redressal process is in place, 
+overseen by the respective Heads of Regional Chairman’s Offices. The functions and employees appointed by respective Heads 
+of Regional Chairman’s Offices are authorized to conduct investigations necessary in case of grievances. Further, the grievance 
+redressal mechanism ensures confidentiality, provides guidance for conducting impartial investigations and taking appropriate 
+remedial actions to address the concerns raised. Any community grievances will be promptly addressed through this process. 
+The specific features and processes of a redressal mechanisms can vary depending on the context and the local organization 
+implementing it. Other sectors, such as personal data protection or human rights may have their own specific redressal mechanisms 
+tailored to their needs and regulations.
+samvardhana motherson international limited
+224
+4. 
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/ small producers #
+11%
+10%
+Directly from within India #
+59%
+44%
+# This is an India centric disclosure hence includes SAMIL India operations (i.e. including Indian Subsidiaries).
+Note: Independent assessment assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency. 
+Yes. Reasonable assurance has been carried out by Thakur, Vaidyanath Aiyar & Co. on above indicator
+5. 
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed on a 
+permanent or non-permanent/ on contract basis) in the following locations, as % of total wage cost.
+Location#
+FY 2023-24
+FY 2022-23
+Rural
+17%
+17%
+Semi-urban
+15%
+13%
+Urban
+60%
+63%
+Metropolitan
+8%
+7%
+(Place to be categorized as per RBI Classification System – rural/ semi-urban/ urban/ metropolitan)
+#This is an India centric disclosure hence includes SAMIL India operations (i.e. including Indian Subsidiaries).
+Note: Independent assessment assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency. 
+Yes. Reasonable assurance has been carried out by Thakur, Vaidyanath Aiyar & Co. on above indicator
+Leadership Indicators
+1. 
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments (Reference: 
+Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+NIL
+NA
+(Response to Principle 8 Leadership Indicator 1 pertains to the Company on Standalone basis.)
+2. 
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by 
+government bodies:
+S. 
+No.
+State
+Aspirational District
+Amount spent
+(In `)
+1
+Uttrakhand
+Haridwar & Haldwani
+627,000
+annual report  2023-2024
+225
+3. 
+(a) 
+Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising marginalized 
+/vulnerable groups? No
+(b) 
+From which marginalized /vulnerable groups do you procure? NA
+(c) 
+What percentage of total procurement (by value) does it constitute? NA
+4. 
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current financial 
+year), based on traditional knowledge:
+S. 
+No.
+Intellectual Property based on traditional knowledge
+Owned/ Acquired 
+(Yes/No)
+Benefit shared 
+(Yes / No)
+Basis of calculating 
+benefit share
+Nil
+Nil
+Nil
+Nil
+Nil
+5. 
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein usage 
+of traditional knowledge is involved.
+Name of authority
+Brief of the Case
+Corrective action 
+taken
+NIL
+NIL
+NA
+6. 
+Details of beneficiaries of CSR Projects:
+S. 
+No.
+CSR Project
+No. of persons 
+benefitted from CSR 
+Projects
+% of beneficiaries 
+from vulnerable and 
+marginalized groups
+Skill Development Center
+924
+100%
+WASHE (Water, Sanitation, Hygiene and Education), Phase-2 & 3
+637
+100%
+Digital Transformation Van – Rewari
+0
+0%
+Digital Transformation Van – Noida (Renewal)
+928
+100%
+Digital Education for Aspirational District
+4,960
+100%
+Experiential Skill Development Training
+142
+100%
+Skill Development Centre, Chennai
+0
+0%
+Social Emotional Learning -Labhya Foundation
+86,624
+100%
+To contribute towards Segregation Of waste for Recycling & Treatment 
+(‘S.O.R.T’) & Marine Litter Project in Kovalam, Chennai
+250
+100%
+To contribute towards Segregation of Organic Waste for Recycling & 
+Treatment - Delhi Phase V
+492,687
+100%
+To contribute towards Segregation of Organic Waste for Recycling & 
+Treatment – Bangalore
+268
+100%
+samvardhana motherson international limited
+226
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1. 
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback. Motherson is a largely a Business 
+to business (B2B) enterprise and therefore we do not have a direct consumer complaint and feedback mechanism. We do have this 
+for our interaction with customers.
+2. 
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:
+As a percentage to 
+total turnover
+Environmental and social parameters relevant to the product
+N/A
+Safe and responsible usage
+N/A
+Recycling and/or safe disposal
+100%
+Motherson’s products conform to our customers specifications and regulatory requirements, including identification for end of life 
+recycling and safe disposal on each part where possible. Additionally information is provided to the customer for all raw materials 
+included in the products supplied.
+3. 
+Number of consumer complaints in respect of the following:
+Not Applicable. Motherson is a tier 1 supplier to OEM customers. As a B2B business we do not have any direct interaction with the 
+end consumer and do not receive any such complaints
+4. 
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+Nil
+Forced recalls
+1
+Product safety testing detected an issue that led to the recall 
+of 773 air bag modules (less than 0.001% of production)
+5. 
+Does the entity have a framework/ policy on cyber security and risks related to data privacy?
+Yes, The data protection policy is available at https://www.motherson.com/storage/Group-Policies/DataProtection- Policy.pdf. 
+Also, the link for risk management policy is https://www.motherson.com/storage/list-directory-items/copy_ risk_management_
+policy.pdf. The Risk Management policy states that “The Board of Directors of the Company has constituted a Risk Management 
+Committee, to inter-alia, assist the Board with regard to the identification, evaluation and mitigation of strategic, operational, 
+external environment and cyber security risks and in fulfilling its corporate governance oversight responsibilities
+6. 
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; 
+cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory 
+authorities on safety of products / services. 
+Motherson has a robust cyber security posture and continues to improve based on well institutionalized information security 
+management system. We have not faced any or data breach or security incident of substantial nature in last financial year till date
+annual report  2023-2024
+227
+7. 
+Provide the following information relating to data breaches:
+a. 
+Percentage of data breaches involving personally 
+identifiable information of customers: 0.1%
+Note: Independent assessment assurance has been 
+carried out by an external agency? (Y/N) If yes, name 
+of the external agency. 
+Yes. Reasonable assurance has been carried out by 
+Thakur, Vaidyanath Aiyar & Co. on above indicator
+b. 
+Percentage of data breaches involving personally 
+identifiable information of customers update to 0.1% 
+as there is no personally identifiable information of 
+customers.
+Note: Reasonable assurance has been carried out by 
+Thakur, Vaidyanath Aiyar & Co. on above indicator
+c. 
+Impact, if any, of the data breaches 
+One of the third-party software, hosted from an 
+isolated cloud location and used for data exchange 
+between internal and external parties, faced a zero-day 
+vulnerability exploit which resulted in data breach. As 
+part of investigation and analysis, cybersecurity team 
+enquired with all senders of the files and concluded 
+that the confidential sensitivity of the impacted files 
+was low and did not involve any personally identifiable 
+information of customers
+Leadership Indicators
+1. 
+Channels / platforms where information on products 
+and services of the entity can be accessed (provide web 
+link, if available). Motherson group website. https://www.
+motherson.com/
+2. 
+Steps taken to inform and educate consumers about safe and 
+responsible usage of products and/or services. Motherson 
+provides products and services to customers as a B2B tier 
+1 supplier in accordance with customer specifications and 
+compliance to any relevant regulations.
+3. 
+Mechanisms in place to inform consumers of any risk of 
+disruption/discontinuation of essential services. 
+Motherson provides products and services to customers 
+as a B2B tier 1 supplier in accordance with customer 
+specifications and compliance to any relevant regulations
+4. 
+Does the entity display product information on the product 
+over and above what is mandated as per local laws? (Yes/
+No/Not Applicable) If yes, provide details in brief. Did 
+your entity carry out any survey with regard to consumer 
+satisfaction relating to the major products / services of the 
+entity, 'YES Product information and material identification 
+in accordance with customer requirements' significant 
+locations of operation of the entity or the entity as a whole? 
+(Yes/No) 
+'NO' Motherson supplies parts and services to customer 
+requirements (B2B) and the packaging is in accordance to 
+their requirements
+a. 
+Number of instances of data breaches along-with 
+impact
+None
+b. 
+Percentage of data breaches involving personally 
+identifiable information of customers
+Not applicable

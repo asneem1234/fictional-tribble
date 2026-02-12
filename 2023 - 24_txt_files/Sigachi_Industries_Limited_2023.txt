@@ -1,0 +1,5277 @@
+SIGACHI INDUSTRIES LIMITED 
+CIN: L24110TG1989PLC009497 
+AN EXCiPACT GMP, ISO 9001:2015 &FSSC 22000 CERTIFIED COMPANY 
+www.sigachi.com  
+ 
+Registered Office: 
+#229/1 & 90, 2nd Floor, Kalyan’s Tulsiram Chambers, Madinaguda, Hyderabad-49, Telangana State, India. 
+     Email: info@sigachi.com, Customer Service +91 40 40114874 - 76 
+ 
+To 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+             Date: 13.08.2024 
+ 
+The Manager
+BSE Limited 
+P.J. Towers, Dalal Street 
+Mumbai- 400001  
+(BSE Scrip Code: 543389) 
+The Manager
+National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex, 
+Bandra (E), Mumbai- 400051 
+(NSE Symbol: SIGACHI) 
+ 
+Dear Sir / Madam,  
+ 
+Sub: Business Responsibility and Sustainability Report (BRSR) for the financial year ended 
+31st March, 2024 
+     
+Pursuant to regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations,2015,  please find enclosed Business Responsibility and Sustainability Report of the 
+Company for the financial year ended 31st March, 2024. 
+ 
+This is for the information and records of the Exchange, please. 
+ 
+Thanking you. 
+ 
+Yours faithfully, 
+For Sigachi Industries Limited  
+ 
+ 
+ 
+Vivek Kumar 
+Company Secretary & Compliance Officer 
+ 
+ 
+Vivek 
+Kumar
+Digitally signed 
+by Vivek Kumar 
+Date: 2024.08.13 
+17:52:07 +05'30'
+Business Responsibility & 
+Sustainability Report
+Sigachi Industries demonstrates a comprehensive commitment to sustainable and responsible business practices across various 
+domains. The Company's approach encompasses environmental stewardship, social responsibility, and robust governance, aligning 
+its operations with global sustainability standards and stakeholder expectations.
+In environmental management, Sigachi focuses on energy efficiency, emissions reduction, and responsible resource utilization. The 
+company is taking bold steps towards sustainability. By 2030, the company aims to cut energy usage intensity by 20%. The company 
+also aims to decrease coal usage intensity by 30% by 2032. To achieve this, the company is adopting energy-saving technologies 
+to minimise its carbon footprint. The company’s dedication also encompasses water conservation, with a goal to lower freshwater 
+usage intensity by 30% by 2032, at the same time boost water recycling by 10% by 2028. Sigachi, has implemented several initiatives 
+to enhance its sustainability and efficiency. These include the installation of ETP and STP in every manufacturing unit for water 
+treatment and reuse, leading to reduced water consumption and environmental protection. Sigachi also uses Mechanical Vapour 
+Recompression installations for energy efficiency and waste management. The company ensures the circular use of packaging 
+materials by monitoring the life cycle of pallets, improving supply chain transparency. In transportation, Sigachi prioritises sea and 
+rail, reducing emissions and enhancing operational efficiency. Biomass optimization is used for sustainable waste management, 
+and solar power installations generate renewable energy, aligning with Sigachi’s broader sustainability objectives. These initiatives 
+demonstrate Sigachi’s commitment to environmental responsibility and operational efficiency.
+On the social front, Sigachi prioritizes employee well-being, health, and safety. The company is certified as a Great Place to Work and 
+adheres to ISO 45001 standards in its manufacturing facilities. Sigachi's commitment to diversity, equity, and inclusion is evident in 
+its efforts to enhance gender diversity and create opportunities for persons with disabilities. The Company also maintains strong 
+community relations and upholds human rights principles throughout its operations and supply chain.
+Governance at Sigachi is characterized by a strong ethical framework and commitment to transparency. The Company's Code 
+of Business Conduct and Ethics guides decision-making and promote stakeholder trust. Sigachi has made significant strides in 
+sustainable governance, including the release of its first Business Responsibility and Sustainability Report (BRSR) in FY 2023, 
+achieving EcoVadis Silver certification, and aligning with Global Reporting Initiative (GRI) Standards and Sustainable Development 
+Goals (SDGs). The Company's risk management strategy encompasses both financial and operational risks, with a proactive 
+approach to leveraging opportunities such as currency fluctuations for strategic growth.
+Through these multifaceted initiatives, Sigachi Industries demonstrates its dedication to creating long-term value for all stakeholders 
+while minimizing its environmental footprint and positively impacting society. The company's holistic approach to sustainability 
+positions it as a responsible corporate citizen committed to driving positive change in the industry and beyond.
+Annexure VII
+Sigachi Industries Limited  |  Annual Report 2023-24
+070
+SECTION A: GENERAL DISCLOSURES
+1.
+Corporate Identity Number (CIN) of the Company 
+L24110TG1989PLC009497
+2.
+Name of the Company
+Sigachi Industries Limited
+3.
+Year of Incorporation
+11-01-1989
+4.
+Registered Office Address
+229/1 & 90, 4th floor, Kalyan Tulasiram Chambers, 
+Madeenaguda, Hyderabad - 500049
+5.
+Corporate Address
+6.
+Email Address
+cs@sigachi.com
+7.
+Telephone
+040-4011-4874/ 75/ 76
+8.
+Website
+http://www.sigachi.com/
+9.
+Financial Year Reported
+FY’2023-24
+10.
+Name of the Stock Exchanges where shares are listed
+1. BSE Limited 
+2. National Stock Exchange (NSE) of India Limited
+11.
+Paid-up Capital
+328194980 Equity Shares
+12.
+Name and contact details (telephone, email address) of the 
+person who may be contacted in case of any queries on the 
+BRSR report 
+Name: Vivek Kumar 
+Tel: +919100013047 
+Email: cs@sigachi.com
+13.
+Reporting boundary - Are the disclosures under this report 
+made on a standalone basis (i.e. only for the entity) or on 
+a consolidated basis (i.e. for the entity and all the entities 
+which form a part of its consolidated financial statements, 
+taken together). 
+Standalone
+14.
+Whether 
+the 
+company 
+has 
+undertaken 
+reasonable 
+assurance of the BRSR Core?
+Not Applicable
+15.
+Name of assurance provider
+Not Applicable
+16.
+Type of assurance obtained
+I.	
+Details of listed entity
+II.	
+Pwroducts/Services
+17.	
+Details of business activities (accounting for 90% of the turnover)
+Sl. 
+No. 
+Description of Main 
+Activity
+Description of Business Activity
+% of turnover of the Company
+1
+Manufacturing
+Pharmaceutical products, Active and inactive 
+ingredients, Nutritional and food ingredients
+84.31%
+2
+Operations and 
+Management
+Operations Management & Maintenance of 
+chemical process plant facilities and allied 
+sectors
+11.05%
+18.	 Products/Services sold by the Company (accounting for 90% of the turnover)
+Sl. 
+No. 
+Product/Service
+NIC Code
+% of total turnover 
+contributed
+1
+Microcrystalline Cellulose (MCC) and other excipients
+21001
+84.31%
+2
+Operations and Management
+99831
+11.05%
+3
+Food & Nutrition 
+1079
+1.01%
+III.	 Operations
+19.	 Number of locations where plants and/or operations/offices of the Company are situated:
+Location
+Number of plants
+Number of offices
+Total
+National 
+4
+3
+7
+International
+0
+0
+0
+Corporate Overview
+Statutory Reports
+Financial Statements
+071
+002-034
+035-142
+143-241
+20.	 Markets served by the Company
+	
+a.	
+Number of locations
+Location
+Number
+National (No. of States)
+22
+International (No. of Countries)
+65+
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the Company?
+	
+	
+60.09%
+	
+c.	
+Types of customers
+	
+	
+Catering to a broad spectrum of customers in the pharmaceutical, food, healthcare, nutraceuticals, and cosmetics 
+sectors is a key aspect of the company’s operations. This includes end-users, merchants, distributors, and exporters 
+from over 65+ countries, demonstrating the global reach of the company’s services.
+IV.	 Employees
+21.	 Details as at the end of Financial Year
+	
+a.	
+Employees and workers (including differently abled):
+Sl. 
+No.
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1.
+Permanent (D)
+991
+947
+96%
+44
+4%
+2.
+Other than Permanent (E)
+8
+8
+100%
+0
+0
+3.
+Total employees (D+E)
+999
+955
+95.60%
+44
+4.40% 
+WORKERS
+4.
+Permanent (F)
+0
+0
+0
+0
+0
+5.
+Other than Permanent (G)
+429
+414
+97%
+15
+3%
+6.
+Total workers (F+G)
+429
+414
+96% 
+16
+ 4%
+Sl. 
+No.
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+Nil
+2.
+Other than Permanent (E)
+3.
+Total differently abled employees (D+E)
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+Nil
+5.
+Other than Permanent (G)
+6.
+Total differently abled workers (F+G)
+	
+b.	
+Differently abled Employees and workers:
+22.	 Participation/Inclusion/Representation of Women
+Particulars
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+6
+2
+33%
+Key Management Personnel
+2
+0
+0%
+23.	 Turnover rate for permanent employees and workers (disclose trends for the past 3 years)
+Particulars
+FY 2024
+FY 2023
+FY 2022
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+39.58%
+56.81%
+40.35%
+37%
+42.50%
+37.50%
+23%
+38%
+24.50%
+Permanent Workers
+46.61%
+33.33%
+46.15%
+56%
+13%
+53.10%
+69%
+23%
+66.80%
+	
+Note: This includes employees/workmen who have retired during the year.
+Sigachi Industries Limited  |  Annual Report 2023-24
+072
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+24.	 Name of holding/subsidiary/associate companies/joint ventures
+Sl. 
+No.
+Name of the holding/ 
+subsidiary/associate 
+companies/joint ventures (A)
+Indicate whether 
+Holding/Subsidiary/
+Associate/Joint Venture
+% of shares held by 
+the Company
+Does the entity indicated at 
+column A, participate in the 
+Business Responsibility initiatives 
+of the Company (Yes/No)
+1
+Sigachi US INC
+Subsidiary
+100%
+No
+2
+Sigachi MENA FZCO
+Subsidiary
+100%
+No
+3
+Trimax Bio Sciences Pvt. Ltd.
+Subsidiary
+80%
+No
+VI.	 CSR Details
+25. 	 (i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) - Yes
+   	
+(ii)	
+Turnover (in Rs.): 3,17,49,96,736
+  	
+(iii)	 Net worth (in Rs.): 4,10,26,46,654
+ Stakeholder 
+group from 
+whom 
+complaint is 
+received
+ Grievance Redressal 
+Mechanism in Place (Yes/
+No) (If Yes, then provide 
+web-link for grievance 
+redress policy)
+FY 2024
+FY 2023 
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities Yes, The company has a 
+robust grievance redressal 
+mechanism 
+in 
+place, 
+guided by the Companies 
+Act 2013. It encourages 
+all 
+the 
+stakeholders 
+to 
+report genuine concerns 
+about 
+the 
+company’s 
+conduct. 
+The 
+policy 
+safeguards 
+employees 
+from 
+victimisation 
+for 
+raising genuine complaints. 
+It covers a wide range of 
+issues, including misuse of 
+authority, fraud, violation 
+of 
+company 
+rules, 
+and 
+employee misconduct. This 
+mechanism ensures a fair, 
+transparent, 
+and 
+ethical 
+work environment.
+Web-link: Vigil mechanism 
+Policy 
+0
+0
+_
+0
+0
+_
+Investors 
+(other than 
+shareholders)
+0
+0
+_
+0
+0
+_
+Shareholders
+0
+0
+_
+0
+0
+_
+Employees 
+and workers
+42
+0
+_
+33
+0
+_
+Customers
+27
+0
+_
+33
+0
+_
+Value Chain 
+Partners
+0
+0
+_
+0
+0
+_
+Other (please 
+specify)
+0
+0
+_
+0
+0
+_
+VII.	 Transparency and Disclosure Compliances
+26. 	 Complaints/Grievances on any of the principles (Principle 1 to 9) under the National Guidelines on Responsible Business 
+Conduct:
+Corporate Overview
+Statutory Reports
+Financial Statements
+073
+002-034
+035-142
+143-241
+27.	 Overview of the Company’s material responsible business conduct and sustainability issues pertaining to environment 
+and social matters that present a risk or an opportunity to the business of the Company, rationale for identifying the 
+same approach to adapt or mitigate the risk along with its financial implications, as per the following format:
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for 
+identifying the risk / 
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1
+Energy and 
+Emissions 
+Management 
+Risk 
+The Company faces 
+risks from inefficient 
+energy 
+use 
+and 
+high 
+emissions. 
+These risks include 
+increased operational 
+costs, 
+potential 
+regulatory fines, and 
+reputational damage 
+due to environmental 
+impact. The escalation 
+of energy prices and 
+the introduction of 
+stricter 
+emission 
+regulations 
+further 
+intensify these risks. 
+  
+Approach: The company is in the 
+process of implementing energy-efficient 
+technologies and emission reduction 
+strategies. These initiatives are expected 
+to significantly reduce the company’s 
+greenhouse 
+gas 
+(GHG) 
+emissions 
+originating 
+from 
+manufacturing, 
+operations, and facilities.
+Goals: 
+ 
+ 
+Energy 
+Consumption: 
+20% 
+Reduction in Energy Consumption 
+Intensity considering baseline year 
+as 2021 by 2032.
+ 
+ 
+Carbon 
+Sequestration: 
+The 
+Company plans to sequester 
+CO2 by planting 50,000 trees by 
+2026 - Achieved in FY 2024.
+ 
+ 
+Coal 
+Consumption: 
+The 
+Company intends to reduce 
+its coal consumption intensity 
+by 20% by 2028 and further 
+to 30% by 2032. considering 
+baseline year as 2021.
+Negative 
+Opportunity 
+The 
+Company’s 
+i m p l e m e n t a t i o n 
+of 
+energy-efficient 
+t e c h n o l o g i e s 
+and 
+emission 
+reduction 
+strategies 
+can 
+decrease 
+operational 
+costs, 
+enhance 
+regulatory 
+compliance, 
+and 
+improve 
+its 
+brand 
+image. 
+Additionally, 
+these 
+sustainable 
+practices may qualify 
+the 
+company 
+for 
+incentives and grants.
+Positive
+Sigachi Industries Limited  |  Annual Report 2023-24
+074
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for 
+identifying the risk / 
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+2
+Water 
+Management
+Opportunity 
+The Company sees 
+an 
+opportunity 
+in 
+implementing 
+water 
+conservation 
+and 
+treatment measures. 
+These initiatives can 
+ensure 
+a 
+reliable 
+water supply, reduce 
+costs, and minimize 
+e n v i r o n m e n t a l 
+impact. By adopting 
+sustainable 
+water 
+practices, 
+the 
+company can enhance 
+its resilience to water-
+related 
+risks 
+and 
+improve its standing 
+with stakeholders.
+1)	 The 
+company 
+is 
+committed 
+to 
+reduce 
+environmental 
+impact through strategic water 
+management.
+2)	 The 
+Company 
+maintains 
+Effluent 
+Treatment 
+Plants 
+(ETP), Sewage Treatment Plants 
+(STP), and Mechanical Vapour 
+Recompression (MVRE) within its 
+facilities. These are complemented 
+by a RO Recovery System, which 
+treats the effluents generated, 
+thereby minimizing environmental 
+impact and facilitating resource 
+reuse.
+Goals:
+ 
+ 
+Reduce Freshwater Consumption 
+Intensity: 
+The 
+Company 
+aims to reduce its freshwater 
+consumption 
+intensity 
+by 
+30% 
+by 
+2032, 
+considering 
+baseline year as 2021.
+ 
+ 
+Increase Water Recycling: The 
+Company is working towards 
+increasing its water recycling 
+by 10% by 2028, considering 
+baseline year as 2021.
+ Positive
+3
+Waste 
+Management
+Risk
+Inadequate 
+waste 
+management 
+within 
+the 
+company 
+can 
+lead to detrimental 
+consequences 
+such 
+as 
+environmental 
+pollution, 
+legal 
+repercussions, and a 
+deterioration of trust 
+within the community. 
+Furthermore, it can 
+result in operational 
+inefficiencies 
+and 
+escalate the expenses 
+associated with waste 
+disposal.
+1.	 In the company’s commitment 
+to environmentally responsible 
+manufacturing, all solid wastes 
+generated from its facilities are 
+responsibly directed to certified 
+vendors.
+2.	 The 
+company 
+ensures 
+that 
+hazardous 
+and 
+non-hazardous 
+wastes 
+are 
+meticulously 
+segregated at their source and 
+securely stored in dedicated zones 
+within its premises.
+3.	 Hazardous 
+wastes 
+are 
+systematically categorized and 
+appropriately stored in specially 
+designated 
+hazardous 
+waste 
+storage 
+areas. 
+These 
+wastes 
+are then disposed of at facilities 
+approved by the Pollution Control 
+Board, 
+strictly 
+adhering 
+to 
+regulatory guidelines.
+4.	 Non-hazardous 
+wastes 
+are 
+responsibly 
+dispatched 
+to 
+authorized 
+recycling 
+entities, 
+thereby 
+contributing 
+to 
+a 
+robust and sustainable waste 
+management system.
+Negative 
+Corporate Overview
+Statutory Reports
+Financial Statements
+075
+002-034
+035-142
+143-241
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for 
+identifying the risk / 
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+5.	 The 
+company’s 
+factory 
+units 
+proactively 
+enhance 
+waste 
+management 
+strategies 
+by 
+transforming waste into valuable 
+biomass 
+resources, 
+further 
+strengthening its commitment to 
+environmental sustainability.
+Goals:
+1)	 20% reduction in solid waste 
+(going to landfilling) intensity by 
+2028, considering baseline year as 
+2021
+2)	 Recycle 50% of our raw material 
+packaging material by allying with 
+authorized vendors by 2030.
+3)	 30% reduction in solid waste 
+(going to landfilling) intensity by 
+2032, considering baseline year as 
+2021
+Opportunity
+The 
+implementation 
+of 
+effective 
+waste 
+m a n a g e m e n t 
+strategies 
+can 
+offer 
+substantial benefits. It 
+can not only diminish 
+disposal 
+costs 
+but 
+also 
+extract 
+value 
+from waste materials, 
+thereby 
+enhancing 
+the 
+company’s 
+e n v i r o n m e n t a l 
+standing. Moreover, it 
+opens up avenues for 
+innovative approaches 
+in recycling and waste-
+to-energy 
+initiatives, 
+playing a pivotal role 
+in promoting a circular 
+economy.
+Positive 
+4
+Business 
+ethics / Anti-
+bribery 
+and 
+corruption
+Opportunity
+Upholding 
+strong 
+business ethics and 
+implementing robust 
+anti-bribery and anti-
+corruption 
+policies 
+can 
+enhance 
+a 
+company’s reputation 
+and trustworthiness. 
+The Company’s Code of Business 
+Conduct 
+and 
+Ethics 
+(COBEC) 
+is 
+applicable to all its Directors and 
+employees, 
+spanning 
+the 
+entire 
+organization, its subsidiaries, and 
+facilities. This code embodies guiding 
+principles that augment decision-
+making processes, cultivate trust
+Positive
+Sigachi Industries Limited  |  Annual Report 2023-24
+076
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for 
+identifying the risk / 
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+The company insists 
+that all its suppliers, 
+contractors, 
+and 
+partners follow strict 
+ethical 
+guidelines, 
+which 
+are 
+further 
+strengthened 
+by 
+specific 
+codes 
+of 
+conduct. Thanks to the 
+company’s 
+thorough 
+procedures, 
+there 
+have been no reported 
+breaches concerning 
+business 
+ethics 
+or 
+issues of bribery and 
+corruption.
+among stakeholders, and ensure 
+the protection of the company’s 
+business 
+interests. 
+In 
+alignment 
+with the Companies Act, 2013, and 
+the Sarbanes Oxley Act of 2002, 
+COBEC underscores the importance 
+of adhering to anti-bribery and anti-
+corruption policies, along with other 
+legal 
+mandates. 
+The 
+company’s 
+contracts with suppliers, contractors, 
+and 
+partners 
+necessitate 
+ethical 
+compliance, 
+further 
+bolstered 
+by distinct codes of conduct for 
+suppliers and service providers. This 
+approach underscores the company’s 
+commitment 
+to 
+maintaining 
+the 
+highest standards of ethical conduct in 
+all its business dealings. The company 
+requires its suppliers, contractors, 
+and partners to adhere to ethical 
+standards, 
+reinforced 
+by 
+distinct 
+codes of conduct. The company’s 
+rigorous measures have resulted in 
+no recorded instances of violations 
+related to business ethics or anti-
+bribery and anti-corruption issues.
+5
+Employee 
+Engagement 
+and well 
+being
+Opportunity
+Engaged and healthy 
+employees are more 
+focused, 
+energised, 
+and 
+connected 
+to 
+the 
+company’s 
+purpose, 
+which 
+benefits organizational 
+performance.
+Proactive 
+measures 
+to prevent workplace 
+injuries and promote 
+wellness 
+can 
+contribute to employee 
+well-being 
+and 
+engagement. Overall, 
+Employee 
+well-being 
+and engagement is a 
+company’s priority
+Sigachi, a certified Great Place to Work, 
+recognises the role of its people in the 
+company’s growth. It has designed 
+practices to foster a workplace where 
+employees feel valued. These include 
+beneficial policies for leaves, rewards, 
+career advancement, and more.
+Regularly, 
+Sigachi 
+encourages 
+employees to join group activities 
+such as sports, community service, 
+and high-impact projects.
+Employee satisfaction is measured 
+annually through internal surveys 
+and the external Great Place to Work 
+certification. In both, the satisfaction 
+rate has consistently been over 88%.
+Additionally, 
+The 
+company’s 
+organisational goals resonate with 
+the 
+employees, 
+inspiring 
+them 
+to continually strive for superior 
+performance.
+Positive
+Corporate Overview
+Statutory Reports
+Financial Statements
+077
+002-034
+035-142
+143-241
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for 
+identifying the risk / 
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+6
+Employee 
+Health and 
+Safety 
+Risk 
+Failure 
+to 
+prioritize 
+employee health and 
+safety can lead to 
+workplace accidents, 
+injuries, 
+and 
+illnesses, 
+resulting 
+in lost productivity, 
+increased 
+costs, 
+and 
+potential 
+legal 
+liabilities.
+The Company maintains stringent 
+standards in Environment, Health, 
+and Safety (EHS) throughout its 
+organization and facilities, guided by a 
+comprehensive EHS policy. This policy 
+applies to all personnel, encompassing 
+permanent staff and contractors, 
+and ensures they receive training on 
+occupational health, safety protocols, 
+specific 
+hazards, 
+and 
+potential 
+hazardous situations. The company’s 
+manufacturing facilities comply with 
+ISO 
+45001 
+standards, 
+bolstered 
+by robust Environment Health and 
+Safety (EH&S) systems. To continually 
+enhance safety performance, the 
+company conducts regular safety 
+assessments, benchmarked against 
+international standards.
+Negative  
+7
+Data Security 
+and Privacy
+Risk
+Lack of a strong data 
+integrity and security 
+mechanism may lead 
+to increase in number 
+of data breaches and 
+loss of valuable data.
+Mitigation Measures Undertaken by 
+the Company:
+1) The company has successfully 
+completed the preparation and 
+revision of Standard Operating 
+Procedures (SOPs), including the 
+IT Policy and Information Security 
+Backup.
+2)  Currently, the company is diligently 
+working towards enhancing its data 
+security mechanism by upgrading 
+its processes.
+3) The company has successfully 
+upgraded all servers and firewall 
+devices, reviewed licenses, and 
+enhanced storage capacity.
+4)  The company is actively engaged 
+in both automated and manual 
+backup activities to ensure data 
+safety. 
+5)  The company is in the process of 
+establishing a Disaster Recovery 
+Site for critical applications to 
+further strengthen its data security 
+infrastructure.
+ Negative
+Sigachi Industries Limited  |  Annual Report 2023-24
+078
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for 
+identifying the risk / 
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+8
+Human 
+Capital 
+Management 
+Opportunity 
+Effective human capital 
+management, including 
+talent 
+attraction, 
+development, 
+and 
+retention, can enhance 
+employee engagement, 
+productivity, 
+and 
+o r g a n i z a t i o n a l 
+performance. 
+Talent 
+Acquisition 
+and 
+Retention 
+and 
+Skill 
+Development
+Sigachi is committed to providing 
+a 
+consistent 
+experience 
+for 
+its 
+employees 
+throughout 
+their 
+employment 
+lifecycle. 
+The 
+company 
+utilises 
+comprehensive 
+job descriptions to source the right 
+talent from various channels within 
+the prescribed business timeframe. 
+Sigachi recognises the importance 
+of maintaining a robust candidate 
+pipeline to address any potential 
+shortfalls due to offer declines.
+Throughout an employee’s journey, 
+Sigachi ensures a positive experience 
+through a comprehensive HRMS, 
+people-centric 
+practices, 
+and 
+a 
+performance management system. 
+Employees are encouraged to set 
+SMART 
+goals 
+aligned 
+with 
+the 
+company’s 
+strategic 
+objectives. 
+Regular feedback, mentoring, and 
+coaching 
+are 
+provided 
+by 
+their 
+reporting managers.
+Sigachi 
+also 
+places 
+significant 
+emphasis on leadership competencies 
+and core values when assessing an 
+individual’s 
+performance. 
+Middle 
+managers and above are evaluated 
+using a performance-potential grid, 
+known as the 9-box mapping. This 
+aids in aligning individuals with their 
+career paths and collaborating with 
+them to enhance performance.
+ Positive
+9
+Human 
+Rights and 
+community 
+relations 
+Risk 
+Neglecting 
+to 
+uphold 
+human 
+rights 
+and 
+sustain 
+favourable 
+community 
+interactions 
+could 
+result in harm to the 
+company’s 
+reputation, 
+legal 
+conflicts, 
+and 
+operational 
+interruptions. 
+The Company stands firm on human 
+rights and fair treatment, following 
+natural justice in all dealings. It aims 
+to create an inclusive workspace 
+and world, valuing everyone. Every 
+year, it engages with the community 
+through the Blood Donation Camp, 
+Environment Day, and ‘Daanutsav’. 
+Here, 
+employees 
+help 
+the 
+less 
+fortunate, identified with the help of 
+NGOs. The company’s CSR strategy 
+and actions have made a notable 
+difference to the community.
+ Negative 
+Corporate Overview
+Statutory Reports
+Financial Statements
+079
+002-034
+035-142
+143-241
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for 
+identifying the risk / 
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+10
+Sustainable  
+Governance
+Opportunity
+Adopting 
+sustainable 
+governance practices, 
+such as effective risk 
+management, business 
+continuity 
+planning, 
+and 
+transparent 
+reporting, can improve 
+o r g a n i z a t i o n a l 
+resilience 
+and 
+stakeholder confidence. 
+Integrating sustainability 
+considerations 
+into 
+decision-making 
+can 
+unlock new business 
+opportunities 
+and 
+drive long-term value 
+creation.
+The Company has been proactive in 
+its commitment to sustainability and 
+transparency:
+1)	
+The 
+company 
+released 
+its 
+first 
+Business 
+Responsibility 
+and 
+Sustainability 
+Report 
+(BRSR) in FY 2023.
+2)	
+It was awarded the EcoVadis Silver 
+rating in FY 2024, a testament to 
+its sustainable practices.
+3)	
+The company implemented the 
+Global Reporting Initiative (GRI) 
+Standards in FY 2024, further 
+strengthening its commitment 
+to transparency.
+4)	
+It aligned its operations with the 
+Sustainable Development Goals 
+(SDGs) in FY 2024.
+5)	
+The company is set to release 
+its 
+inaugural 
+sustainability 
+report in FY 2025.
+6)	
+It 
+has 
+been 
+setting 
+targets 
+and baselines since FY 2021, 
+demonstrating 
+its 
+forward-
+thinking approach.
+7)	
+The company conducted its first 
+external vendor audit in FY 2023, 
+ensuring that its partners also 
+adhere to high standards.
+8)	
+It has been complying with BRSR 
+reporting from FY 2023.
+9)	
+The 
+company 
+achieved 
+the 
+EcoVadis 
+Silver 
+certification 
+in 
+FY 2024, further validating its 
+commitment to sustainability.            
+Positive
+11
+Diversity 
+Equity & 
+Inclusion
+Opportunity 
+Fostering 
+a 
+diverse, 
+equitable, and inclusive 
+workforce can enhance 
+innovation, creativity, 
+and 
+problem-solving 
+capabilities. Promoting 
+equal 
+opportunities 
+and inclusive practices 
+can improve employee 
+satisfaction, retention, 
+and brand reputation.
+1) 	
+The company has concentrated 
+its efforts on enhancing gender 
+diversity 
+through 
+strategic 
+hiring 
+practices, 
+sensitization 
+programs, 
+and 
+effective 
+communication strategies. 
+2)	
+It is in the process of overhauling its 
+policies to increase representation 
+of women and persons with 
+disabilities (PWDs). 
+3)	
+In addition, the company is striving 
+to enhance diversity across various
+4)	
+In addition, the company is striving 
+to enhance diversity across various 
+roles and teams by exploring 
+new entry-level routes such as 
+apprentice 
+hiring 
+and 
+actively 
+recruiting for various positions.
+Positive 
+Sigachi Industries Limited  |  Annual Report 2023-24
+080
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for 
+identifying the risk / 
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+12
+Risk 
+management 
+and business 
+continuity
+Risk
+In 
+managing 
+risks, 
+the 
+company 
+must 
+proactively 
+prevent 
+operational disruptions 
+and legal issues, thus 
+mitigating production 
+risks. It should also 
+circumvent disruptions 
+and safety concerns, 
+addressing operations 
+and 
+management 
+risks. 
+Ensuring 
+regulatory 
+alignment 
+to prevent penalties is 
+crucial for compliance 
+risks. 
+Lastly, 
+the 
+company 
+needs 
+to 
+tackle 
+infrastructure 
+and quality challenges 
+to secure long-term 
+growth, 
+thereby 
+managing 
+strategic 
+risks.
+a. 
+Maintain 
+Inventories 
+for 
+Regular Price fluctuations shocks 
+b. Dynamic Pricing Strategy: Adjust 
+pricing based on currency trends to 
+maintain competitiveness and protect 
+margins.
+Production: Implement automated 
+systems, enhance safety protocols 
+and manage labour effectively. 
+Operations: 
+Invest 
+in 
+safety 
+measures, develop contingency plans 
+and strengthen risk management. 
+Compliance: 
+Regularly 
+update 
+procedures, plan facility upgrades. 
+Strategic: Build robust infrastructure 
+and enforce quality management.
+Negative
+Opportunity 
+Effective 
+risk 
+management 
+and 
+business 
+continuity 
+planning 
+can 
+help 
+organizations anticipate, 
+prepare 
+for, 
+and 
+respond 
+to 
+various 
+threats, 
+including 
+operational, 
+financial, 
+and reputational risks.
+Effective planning can 
+improve response to 
+threats 
+and 
+identify 
+areas for improvement.
+Opportunity: Use favourable currency 
+conditions to invest in strategic 
+international markets and diversify 
+operations for long-term growth and 
+resilience
+Production: Enhance sustainability 
+through 
+compliance 
+and 
+ETP 
+optimization. 
+Operations: Improve resilience and 
+productivity via better safety and 
+labour relations. 
+Compliance: Strengthen reputation 
+and 
+efficiency 
+with 
+updated 
+regulations and facility upgrades. 
+Strategic: 
+Support 
+growth 
+with 
+robust infrastructure and high-quality 
+standards.
+Positive
+Corporate Overview
+Statutory Reports
+Financial Statements
+081
+002-034
+035-142
+143-241
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Policy and management processes
+1.
+ a.	 Whether the Company’s policy/policies cover each 
+principle and its core elements of the NGRBCs. (Yes/
+No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+ b.	 Has the policy been approved by the Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+c.	 Weblink of the policies, if available
+Code of Conduct for Board of Directors and Senior 
+Management
+Dividend Distribution Policy
+Fair Disclosure of Unpublished Price Sensitive Information
+Familiarization Program for Independent Directors
+Nomination & Remuneration Policy
+Policy for Leak Of Unpublished Price Sensitive Information 
+Policy for Prevention of Sexual Harassment
+Policy on Disclosure of Material Events or Information
+Policy on Preservation of Documents
+CSR Policy
+Vigil Mechanism Policy
+Risk Management Plan
+Succession Policy
+Content Archiving Policy
+Policy on Board Diversity
+Policy on Related Party Transactions & its Materiality
+Prevention of Insider Trading
+Policy on Energy and Emission
+Policy on Code of Business Conduct and Ethics 
+Policy on Responsible Consumption,Production and 
+Disposal
+Policy on Supplier Code of Conduct
+Policy on Water Management
+Policy on Responsible Consumption Production and 
+Disposal
+Policy for Determining Material Subsidiary
+Policy for Determining Materiality for Disclosures
+For a comprehensive understanding of the company’s 
+policies, kindly follow this link. 
+Sigachi Corporate Policies
+2.
+Whether the Company has translated the policy into 
+procedures. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.
+Do the enlisted policies extend to the Company’s value 
+chain partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Sigachi Industries Limited  |  Annual Report 2023-24
+082
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+4.
+Name of the national and international codes/
+certifications/ labels/ standards (e.g. Forest Stewardship 
+Council, Fairtrade, Rainforest Alliance, Trustea) standards 
+(e.g. SA 8000, OHSAS, ISO, BIS) adopted by the Company 
+and mapped to each principle. 
+P1: ISO 9001:2015, KOSHER certified, Halal
+P2: HACCP, ISO 14001, ISO 9001:2015, GMP (Good 
+Manufacturing Practice), FSSC 22000, COSMOS, 
+USFDA, KOSHER certified, HALAL, FSSAI
+P3: Great Place to work, ISO 45001
+P5: EXCiPACT GMP
+P6: EXCiPACT GMP, SGMP, ISO 14001
+P7: HACCP, IPEC guidelines
+P8: CEP 2014-097
+P9: ISO 9001:2015, CEP 2014-097, FSSAI, GMP
+5.
+Specific commitments, goals and targets set by the Company 
+with defined timelines, if any.
+The company is dedicated to long-term sustainability and 
+is currently developing a robust ESG framework. They 
+have established specific goals and initiatives to guide 
+their efforts. Over time, these ambitions will become 
+integrated targets. The company’s first sustainability report 
+in FY 25 outlines these objectives. Future reports and 
+communications will provide updates on their progress, 
+ensuring transparency and accountability.
+Energy and Emissions:                                                                                   
+1)	
+20% Reduction in Energy Consumption Intensity considering 
+baseline year as 2021 Target year 2032.
+2)	 Sequestration of CO2 by planting 50,000 trees. Target 
+year 2026 – achieved in FY 2024.
+3)	 20% 
+Reduction 
+in 
+Coal 
+Consumption 
+Intensity 
+considering baseline year as 2021 by 2028.
+4)	 30% 
+Reduction 
+in 
+Coal 
+Consumption 
+Intensity 
+considering baseline year as 2021 by 2032.
+Water: 
+1)	 30% Reduction in Freshwater Consumption Intensity 
+considering baseline year as 2021 by 2032. 
+2)	 10% Increase in Amount of Water Recycled considering 
+baseline year as 2021. By 2028.
+Material: 
+1)	 Recycle 50% of our raw material packaging material by 
+allying with authorized vendors by 2030.
+Waste:                                                                                                                               
+1)	 20% Reduction in Solid Waste (going to landfilling) 
+Intensity considering baseline year as 2021 by 2028.
+2)	 30% Reduction in Solid Waste Intensity considering 
+baseline year as 2021 by 2032.
+6.
+Performance of the Company against the specific 
+commitments, goals and targets along with reasons, in 
+case the same are not met. 
+FY25 represents as a benchmark year for us as we unveil our 
+first sustainability report, outlining our key commitments, 
+goals, and targets. While this inaugural report will set 
+the foundation, detailed performance against each 
+commitment will be more comprehensively addressed 
+in subsequent reports. These future reports and external 
+communications will ensure that we maintain transparency 
+and accountability, providing clear explanations and 
+updates on our progress.
+Corporate Overview
+Statutory Reports
+Financial Statements
+083
+002-034
+035-142
+143-241
+10.	 Details of review of NGRBCs by the Company:
+Subject for review
+Indicate whether review was undertaken by 
+Director/Committee of the Board/any other 
+Committee
+Frequency (Annually/Half yearly/ 
+Quarterly/Any other – please specify)
+P 1
+P 2
+P 3 
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Performance against 
+above policies and follow 
+up action
+Committee of the Board
+Annually
+Compliance with 
+statutory requirements 
+of relevance to the 
+principles, and, 
+rectification of any non-
+compliances
+Committee of the Board
+Annually
+11.
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Has the entity carried out independent assessment /
+evaluation of the working of its policies by an external 
+agency? (Yes/No). If yes, provide the name of the agency.
+No, The entity has not conducted any independent 
+assessment or evaluation of its policies by an external agency.
+12.	 If answer to question (1) above is ‘No’ i.e. not all Principles are covered by a Policy, reasons to be stated: 
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+The entity does not consider the Principle material to its 
+business (Yes/No)
+Not Applicable 
+The entity is not at a stage where it is in a position to 
+formulate and implement the policies on specified 
+principles (Yes/No) 
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No) 
+It is planned to be done in the next financial year (Yes/No) 
+Any other reason (please specify) 
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Governance, leadership and oversight 
+7.
+Statement by Director, responsible for the Business Responsibility Report, highlighting ESG related challenges, targets 
+and achievements (listed entity has flexibility regarding the placement of this disclosure) 
+Managing Director’s message at the beginning of this Business Responsibility and Sustainability Report
+8.
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy(ies). 
+Name: Mr. Amit Raj Sinha
+Designation: CEO & Managing Director
+DIN: 01263292
+9.
+Does the Company have a specified Committee of 
+the Board/Director responsible for decision making on 
+sustainability related issues? (Yes / No). If yes, provide 
+details. 
+Yes, The Audit Committee is responsible for ESG targets, 
+strategies and reporting.
+Sigachi Industries Limited  |  Annual Report 2023-24
+084
+SECTION C: PRINCPLE WISE PERFORMANCE DISCLOSURE
+Principle
+1
+Businesses should conduct and govern themselves with integrity and in a manner that is 
+Ethical, Transparent and Accountable.
+Essential Indicator:
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics/principles covered under 
+the training and its impact
+%age of persons in respective 
+category covered by the 
+awareness programmes
+Board of Directors
+5
+P1,P2,P4,P6,P8
+100%
+Key Managerial 
+Personnel
+5
+P1,P2,P3,P4,P5,P6,P7,P8,P9
+100%
+Employees other than 
+Board of Directors and 
+KMPs
+276*
+P1,P2,P6,P9
+89%
+Workers
+P1,P2,P5,P6
+87%
+	
+*The BOD’s and KMP’s are briefed on the Sustainability initiatives of the company from time to time. To enable them to make well informed decision 
+making, they are provided with the updates / developments at the global level and industry scenario including the necessary legislation
+2.	
+Details of fines /penalties/punishment/award/compounding fees/settlement amount paid in proceedings (by the 
+entity or by Directors/KMPs) with regulators/law enforcement agencies/judicial institutions, in the financial year:
+	
+(Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 and as disclosed on the entity’s 
+website)
+Monetary
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount  
+(In INR)
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty/ Fine
+Nil
+Settlement
+Compounding fee
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+Nil
+Punishment
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where monetary 
+or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+Not Applicable
+Corporate Overview
+Statutory Reports
+Financial Statements
+085
+002-034
+035-142
+143-241
+4.	
+Does the Company have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy.
+	
+Yes, Sigachi operates under a code of business conduct. This code outlines the ethical standards that are integral to the 
+company’s operations. Each employee, irrespective of their position, is expected to adhere to these standards, reinforcing 
+the company’s commitment to ethical practices.
+	
+Web-Link: COBCE Policy
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption:
+FY 2024
+FY 2023
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+FY 2024
+FY 2023
+Number of days of accounts payables
+ 69
+48 
+6.	
+Details of complaints with regard to conflict of interest
+FY 2024
+FY 2023
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues 
+of Conflict of Interest of the Directors
+0
+0
+0
+0
+Number of complaints received in relation to issues 
+of Conflict of Interest of the KMPs
+0
+0
+0
+0
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflict of interest.
+	
+Not Applicable 
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following 
+format:
+Parameter
+Metrics
+FY 2024
+FY 2023
+Concentration 
+of Purchases
+a.	 Purchases from trading houses as % of total purchases
+ 19.09%
+9.12% 
+b.	 Number of trading houses where purchases are made 
+from
+ 44
+ 14
+c.	 Purchases from top 10 trading houses as % of total 
+purchases from trading houses
+ 18.19%
+8.01% 
+Concentration 
+of Sales
+a.	 Sales to dealers / distributors as % of total sales
+ 55.65%
+ 62.75%
+b.	 Number of dealers / distributors to whom sales are made
+ 47
+ 60
+c.	 Sales to top 10 dealers / distributors as % of total sales to 
+dealers / distributors
+ 44.27%
+ 13.26%
+9.	
+Open-ness of business Provide details of concentration of purchases and sales with trading houses, dealers, and 
+related parties along-with loans and advances & investments, with related parties, in the following format:
+Sigachi Industries Limited  |  Annual Report 2023-24
+086
+Parameter
+Metrics
+FY 2024
+FY 2023
+Share of RPTs in
+a.	 Purchases (Purchases with related parties / Total 
+Purchases)
+ NIL
+NIL
+b.	 Sales (Sales to related parties / Total Sales)
+ 15.82%
+13.26%
+c.	 Loans & advances (Loans & advances given to related 
+parties / Total loans & advances)
+ NIL
+NIL
+d.	 Investments (Investments in related parties / Total 
+Investments made)
+ 98.19%
+84.84%
+Leadership Indicators- 
+Principle
+2
+Business should provide goods and services in a manner that is sustainable and safe
+Essential Indicator:
+1. 	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total number of awareness 
+programmes held
+Topics/principles covered under 
+the training
+%age of value chain partners covered (by value 
+of business done with such partners) under the 
+awareness programmes
+57 
+Environmental Impact, Social 
+Responsibility, Governance
+51%
+72
+Supplier Code of conduct
+72%
+57
+Ethics
+51%
+2.	
+Does the entity have processes in place to avoid/manage conflict of interests involving members of the Board? 
+(Yes/No) If yes, provide details of the same.
+	
+Yes, The Code of Conduct at Sigachi anticipates that all Personnel, including Members of the Board, will avoid any activity 
+or personal interest that could lead to a conflict of interest. Furthermore, it is explicitly stated that Personnel should not use 
+any information obtained through their position at Sigachi for personal benefit. This underlines the company’s commitment 
+to maintaining a high standard of ethical conduct. 
+1 	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of products and processes to total R&D and capex investments made by the 
+entity, respectively.
+Segment
+FY 2024
+FY 2023
+Details of improvements in environmental and social impacts
+R & D
+4.47%
+4.50%
+Cellulose fibre and powdered cellulose reconfiguration for 
+usage in food which would result in lesser oil consumption 
+better gut and overall healthier society.
+Capex
+3.39%
+3.33%
+MVRE, ATFD, ETP-RO, HAG, STP installation at all units. 
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No) 
+	
+	
+Sigachi ensures sustainable and socially responsible sourcing by using FSC-certified wood pulp for MCC production. 
+This certification supports responsible forest management and benefits communities. When sourcing is required, 
+the relevant department initiates a tender request with details for budgeting and technical specs. The procurement 
+team then manages sourcing and commercial negotiations, while technical evaluations are handled by the requesting 
+department. At least three quotations are solicited, and the selected vendor must sign the code of conduct and 
+complete the ESG questionnaire before the purchase order is issued. Violations require corrective action within 
+a set timeline.
+Corporate Overview
+Statutory Reports
+Financial Statements
+087
+002-034
+035-142
+143-241
+	
+	
+The company’s Code of Conduct for External Stakeholders mirrors their vision and anticipations for business partners, 
+manufacturers, suppliers, service providers, traders, consultants, contractors, and so on.
+	
+	
+Crucial aspects of their Supplier Code encompass: 
+ 
+ 
+Operating business ethically and with integrity, honouring human rights and dignity. 
+ 
+ 
+Adhering to environmental regulations and keeping all necessary permits and licenses. 
+ 
+ 
+Providing a safe work environment with health and safety policies that align with local and national regulations. 
+ 
+ 
+Establishing management systems for legal compliance, risk reduction, and ongoing improvement. As part 
+of their dedication to ESG, sustainability, and responsible business practices, they have introduced an ESG 
+Assessment process for their suppliers to assess and enhance their joint impact. Suppliers are required to supply 
+precise and verifiable data on their ESG performance, which includes Environmental Impact, Social Responsibility, 
+and Governance.
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably? 
+	
+	
+100% of the company’s Key Starting Materials (KSMs) suppliers strictly follow sustainable methods and meet the 
+standards of Good Manufacturing Practices (GMP). The company regularly conducts audits to ensure the quality and 
+sustainability of their operations.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of 
+life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+(a)	 Plastics (including packaging)
+Plastics recycling and disposal, including packaging, adhere strictly to the Central 
+Government rules and the provisions of the Plastic Waste Management Rules. 
+Additionally, waste is sent to authorised vendors approved by the government for 
+recycling and disposal.
+(b)	 E-waste
+E-waste is disposed of through a registered recycler, with a preference for buy-back 
+options, resulting in circular use.
+(c)	 Hazardous Waste
+Hazardous waste is disposed of at authorized sustainable disposal sites through 
+authorized SPCB vendors or sent to cement industries.
+(d)	 Other Waste.
+Other Non-hazardous waste is directed to authorised recyclers, supporting 
+recycling efforts and promoting sustainable waste management practices.
+ 4.	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same. 
+	
+No. At present, the company has not made any submissions in accordance with the EPR guidelines to the state pollution 
+control boards. Waste collection and disposal is managed through vendors who have received authorization from the state 
+Pollution Control Boards.
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+NIC Code 
+Name of Product/
+Service
+% of total Turnover
+contributed
+Boundary for 
+which the Life 
+Cycle Perspective 
+/ Assessment was 
+conducted
+Whether conducted 
+by independent 
+external agency 
+(Yes/No)
+Results 
+communicated in 
+public domain (Yes/
+No) If yes, provide 
+the web-link.
+Throughout the fiscal year, the company has not conducted any life cycle assessments.
+Leadership Indicators- 
+Sigachi Industries Limited  |  Annual Report 2023-24
+088
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of 
+your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other 
+means, briefly describe the same along-with action taken to mitigate the same.
+Name of Product / Service
+Description of the risk / concern
+Action Taken
+Not Applicable
+Indicate input material 
+Recycled or re-used input material to total material
+FY 2024
+FY 2023
+In the context of the pharmaceutical industry, the company maintains stringent standards to prevent contamination. 
+The nature of its products necessitates the use of fresh input materials in the manufacturing process, making the use of 
+recycled or reused materials not applicable. Additionally, the company is following good manufacturing practices (GMP) in 
+the operations, enabling it to optimise resources to the greatest extent possible.
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry). 
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, 
+and safely disposed, as per the following format: 
+FY 2024
+FY 2023
+Re-used
+Recycled
+Safely 
+Disposed
+Re-Used
+Recycled
+Safely 
+Disposed
+Plastics
+Not Applicable, The Company does not reclaim any of the products and packaging material at end 
+of life of products 
+(including packaging)
+E-waste
+Hazardous waste
+Other waste
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category. 
+Indicate product category
+Reclaimed products and their packaging materials as % of 
+total products sold in respective category
+Not Applicable, The Company does not reclaim any of the products and packaging material at end of life of products.
+Principle
+3
+Business should respect and promote the wellbeing of all employees, including those in 
+their value chains
+1.	
+A.	
+Details of measures for the well-being of employees:
+Category
+Total 
+(A)
+% of employees covered by
+Health  
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day Care  
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+ Permanent employees
+ Male
+947
+947
+100%
+947
+100%
+0
+ 0
+0
+0 
+0 
+0 
+ Female
+44
+44
+100%
+44
+100%
+44
+100%
+0
+ 0
+ 0
+ 0
+ Total
+991
+991
+ 100%
+991
+ 100%
+44
+ 100%
+ 0
+ 0
+ 0
+ 0
+ Other than Permanent employees
+ Male
+8
+0
+0 
+8
+100% 
+0
+0
+0
+0
+0
+0
+ Female
+0
+0
+ 0
+0
+ 0
+0
+0
+0
+0
+0
+0
+ Total
+8
+0
+ 0
+8
+ 100%
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+Essential Indicator:
+Corporate Overview
+Statutory Reports
+Financial Statements
+089
+002-034
+035-142
+143-241
+	
+b. 	
+Details of measures for the well-being of workers:
+Category
+Total 
+(A)
+% of employees covered by
+Health  
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day Care  
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Permanent Workers
+ Male
+Nil
+ Female
+ Total
+Other than Permanent Workers
+ Male
+414
+0
+0
+414
+100%
+0
+ 0
+0
+0
+0
+0
+ Female
+15
+0
+0
+15
+100%
+15
+100%
+0
+0
+0
+0
+ Total
+429
+0
+0
+429
+ 100%
+15
+ 100%
+0
+0
+0
+0
+	
+c.	
+Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent) in the following format –
+FY 2024
+FY 2023
+Cost incurred on well- being measures as a % of total revenue 
+of the company
+0.60%
+0.68%
+2.	
+Details of retirement benefits, for Current and Previous Financial Year. 
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority
+(Y/N/N.A.)
+PF
+100%
+100%
+Yes
+100%
+100%
+Yes
+Gratuity
+100%
+NA
+Yes
+100%
+NA
+Yes
+ESI
+100%
+100%
+Yes
+100%
+100%
+Yes
+Others- please specify
+-
+-
+-
+-
+-
+-
+3.	
+Accessibility of workplaces 
+	
+Are the premises/offices of the Company accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by 
+the Company in this regard. 
+	
+Yes, The Company's location is equipped with facilities for differently-abled employees and workers. Provisions 
+such as ramps and guard rails for easy access, and toilets designed for handicapped employees, are among the many 
+accommodations being made.
+4.	
+Does the Company have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy. 
+	
+Yes, In the Equal Opportunity Policy, the company outlines a commitment to non-discrimination. This commitment ensures 
+equal opportunities for all employees, irrespective of race, color, religion, sex, national origin, ancestry, age, marital status, 
+sexual orientation, or disability.
+	
+Web-Link: Equal Opportunity Policy
+Sigachi Industries Limited  |  Annual Report 2023-24
+090
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave. 
+Gender
+Permanent Employees
+Permanent Workers
+Return to work 
+rate
+Retention Rate
+Return to work 
+rate
+Retention Rate
+Male
+100%
+100%
+100%
+100%
+Female
+100%
+100%
+100%
+100%
+Total
+100%
+100%
+100%
+100%
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief. 
+Yes/No (If Yes, then give details of the mechanism in brief) 
+Permanent workers
+Yes, Upholding the principles of natural justice, the company ensures that 
+minor grievances are settled internally. For complex grievances, an independent 
+investigation is conducted with the assistance of an external legal counsel, aiming 
+for an amiable resolution of the grievance.
+Other than permanent workers
+Permanent employees
+Other than permanent employees
+7.	
+Membership of employees and workers in association(s) or Unions recognised by the listed entity:
+Category
+FY 2024
+FY 2023
+Total 
+employees/
+workers in 
+respective 
+category
+(A)
+No. of 
+employees /
+workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union
+(B)
+% (B / A)
+Total 
+employees/
+workers in 
+respective 
+category
+(C)
+No. of 
+employees /
+workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union
+(D) 
+% (D / C)
+Total 
+Permanent 
+Employees
+0
+0
+0
+0
+0
+0
+Male
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+Total 
+Permanent 
+Workers
+0
+0
+0
+0
+0
+0
+Male
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+8.	
+Details of training given to employees and workers:
+Category
+2023-24
+2022-23
+Total 
+(A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total 
+(D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% (B / A)
+No. (C)
+% (C /A)
+No. (E)
+%(E / D)
+No. (F)
+% (F / D)
+Employees
+Male
+955
+888
+93%
+945
+99%
+787
+661
+84%
+645
+82%
+Female
+44
+38
+86%
+40
+91%
+41
+37
+90%
+38
+93%
+Total
+999
+926
+93%
+985
+99%
+828
+698
+84%
+683
+82%
+Workers
+Male 
+414
+393
+95%
+385
+93%
+504
+448
+89%
+483
+96%
+Female
+15
+11
+70%
+12
+81%
+16
+15
+95%
+15
+95%
+Total
+429
+404
+94%
+397
+93%
+520
+463
+89%
+498
+96%
+Corporate Overview
+Statutory Reports
+Financial Statements
+091
+002-034
+035-142
+143-241
+Category
+FY 2024
+FY 2023
+Total (A)
+No.(B)
+% (B/A)
+Total (C)
+No.(D) 
+% (D/C)
+Employees
+Male
+955
+955
+100%
+787
+787
+100%
+Female
+44
+44
+100%
+41
+41
+100%
+Total
+999
+999
+100%
+828
+828
+100%
+Workers
+Male
+414
+414
+100%
+504
+504
+100%
+Female
+15
+15
+100%
+16
+16
+100%
+Total
+429
+429
+100%
+520
+520
+100%
+9.	
+Details of performance and career development reviews of employees and workers: 
+10.	 Health and Safety Management System: 
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If 
+yes, the coverage such system? 
+	
+	
+Yes. The Company has implemented an occupational health and safety management system on all production plants 
+and project sites. The coverage is 100% of entity, and it includes both regular employees and contractors.
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis 
+by the entity? 
+	
+	
+The work-related hazards are identified, assessed, and controlled through “Hazard Identification & Risk Assessment 
+(HIRA)” process. Standard trainings are followed and qualitative risk assessment techniques are employed for individual 
+activities within the unit. 
+	
+c.	
+Whether you have processes for workers to report work related hazards and to remove themselves from such risks. 
+(Y/N) 
+	
+	
+Yes, Regular safety trainings and toolbox talks are conducted within the unit. This ensures that all personnel are well-
+informed about the necessary measures to prevent, avoid, and respond to any work-related hazards or accidents. The 
+company adheres to a strict reporting protocol, with all incidents documented as per Form-4.
+	
+d. 	
+Do the employees/ workers of the entity have access to non-occupational medical and healthcare services? (Yes/ No) 
+	
+	
+Yes, every individual working within the company is covered by health insurance. This coverage is comprehensive and 
+not limited to injuries sustained during occupational activities. The company ensures this as part of its commitment to 
+the well-being of its personnel.
+11.	 Details of safety related incidents, in the following format:
+Safety Incident /Number
+Category
+FY 2024
+FY 2023
+Lost Time Injury Frequency Rate (LTIFR) (per one million-
+person hours worked)
+Employees
+0
+0
+Workers
+0
+0
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+0
+0
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace. 
+	
+The company is dedicated to maintaining standards for Environment, Health & Safety (EHS) and Sustainability. Failing to 
+meet these standards could lead to regulatory issues, harm the company’s reputation, and disrupt business continuity, 
+negatively affecting sustainability. The company’s occupational health and safety management system has received 
+ISO 45001:2018 certification. Multiple teams work together to promote safety across all factory units, aligning with the 
+company’s occupational health and safety objectives. The Company prioritizes the safety, health, and well-being of all 
+individuals associated with its operations and the surrounding community. Key initiatives include proactive risk assessment, 
+effective communication, consultation, and participation. Safety officers are dedicated to maintaining safe practices at 
+manufacturing plants and project sites. Regular safety training sessions and toolbox talks are conducted, and personal 
+Sigachi Industries Limited  |  Annual Report 2023-24
+092
+protective equipment (PPE) is provided to employees and workers.  The company’s internal EHS policy guarantees a safe 
+workspace for all employees and suppliers. Regular internal and external audits are conducted by the company to assess 
+safety practices and procedures, ensuring adherence to the EHS management system and ISO 45001:2018 guidelines.
+13.	 Number of Complaints on the following made by employees and workers:
+Category
+FY 2024
+FY 2023
+Filed during 
+the year
+Pending 
+resolution at 
+the end of the 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of the 
+year
+Remarks
+Working Conditions
+0
+0
+NA
+0
+0
+NA
+Health & Safety
+0
+0
+NA
+0
+0
+NA
+14.	 Assessments for the year:
+Safety Incident /Number
+% of plants and offices that were assessed (by entity or statutory  
+authorities or third parties)
+Health and safety practices
+98%
+Working Conditions
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions. 
+	
+The company has implemented ‘Safety Observations’ to spot unsafe practices and conditions at the workplace, urging 
+employees to voice any safety worries. The company scrutinises incident investigations to implement corrective actions 
+and avert future incidents. All production sites keep track of incident reports and safety adherence. The company carries out 
+risk evaluations and regular reviews, with Corrective and Preventive Actions (CAPAs) implemented across teams based on 
+the results of investigations.
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees 
+(Y/N) (B) Workers (Y/N).  
+	
+Employees: Yes
+	
+Workers: Yes
+2.	
+Provide the measures undertaken by the entity to ensure payment of statutory dues by the value chain partners. 
+	
+In compliance with statutory regulations, the company diligently ensures the deduction and deposit of dues, which include 
+EPF, ESI, PT, Gratuity, and Labour Welfare Fund. Furthermore, on a monthly basis, confirmations are obtained from both 
+customers and suppliers using Form-26A and GSTR.
+3.	
+Provide the number of employees/workers having suffered grave consequences due to work-related injury/ill-
+health/fatalities (as reported in Q11 of Essential Indicators above), who are rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment:
+Total No. of affected employees/
+workers
+No. of employees/workers that 
+are rehabilitated and placed in 
+suitable employment or whose 
+family members have been placed in 
+suitable employment
+FY2024
+FY2023
+FY2024
+FY2023
+  Employees
+0
+0
+0
+0
+  Workers
+0
+0
+0
+0
+Leadership Indicators- 
+Corporate Overview
+Statutory Reports
+Financial Statements
+093
+002-034
+035-142
+143-241
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? (Yes/ No) –  
+	
+From reaching the age of 60 years, employees enter into superannuation. As and when required, the company provides 
+transition assistance programs. A select group of superannuated employees, recognized as Critical Subject Matter Experts, 
+are retained as consultants. In the event of employment termination due to business exigencies, the affected employees 
+receive compensation in accordance with the terms and conditions of their employment.
+5.	
+Details on assessment of value chain partners: 
+Safety Incident /Number
+% of value chain partners (by value of business done with such partners)  
+that were assessed
+Health and safety practices
+50%
+Working Conditions
+50%
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners. 
+	
+In response to substantial risks and concerns identified from health and safety evaluations of their value chain partners, 
+the company has put into action numerous corrective measures. These encompass improved training schemes, amplified 
+health and safety checks, and continuous cooperation with partners to evaluate and boost safety norms and working 
+conditions throughout the value chain.
+Principle
+4
+Business should respect the interests of and be responsive to all its stakeholders
+1.	
+Describe the processes for identifying key stakeholder groups of the Company. 
+	
+The company recognises all entities that contribute to or are affected by its operations as stakeholders. This includes various 
+groups such as employees, customers, suppliers and investors. The company’s actions and decisions take into account this 
+extensive stakeholder network. To address key stakeholder groups, the company maps out all significant stakeholders to 
+comprehend the sustainability aspects that matter to them and to the company. Their stakeholders encompass employees, 
+customers, suppliers, investors, regulatory authorities, business partners, and the wider community. By recognising all 
+entities that contribute to or are impacted by their operations, the company ensures their decisions take into account this 
+diverse network, thereby supporting inclusive and sustainable growth.
+2.	
+List stakeholder groups identified as key for the Company and the frequency of engagement with each stakeholder 
+group. 
+Stakeholder 
+Group
+Whether identified 
+as vulnerable & 
+marginalised group 
+(Yes/No)
+Channels of communication 
+(Emails, SMS, Newspapers, 
+Pamphlets, Advertisements, 
+Community Meetings, 
+Notice Board, Website, 
+Others)
+Frequency of 
+engagement 
+(Annually, Half 
+yearly, quarterly 
+/others- please 
+specify)
+Purpose and scope of 
+engagement including key topics 
+and concerns raised during such 
+engagement 
+Employees
+No
+Emails
+ Need basis
+Employee 
+experience 
+and 
+satisfaction on monthly basis
+Customers 
+No
+Email, Customers Visits  and 
+Survey Feedbacks
+Quarterly or As 
+per requirement 
+Customer input is valuable for 
+understanding 
+their 
+needs, 
+enhancing product portfolio, and 
+improving service delivery. 
+Key areas of focus include: better 
+pricing, Market reach, Premium 
+quality, on time in full (OTIF)
+Essential Indicator:
+Sigachi Industries Limited  |  Annual Report 2023-24
+094
+Stakeholder 
+Group
+Whether identified 
+as vulnerable & 
+marginalised group 
+(Yes/No)
+Channels of communication 
+(Emails, SMS, Newspapers, 
+Pamphlets, Advertisements, 
+Community Meetings, 
+Notice Board, Website, 
+Others)
+Frequency of 
+engagement 
+(Annually, Half 
+yearly, quarterly 
+/others- please 
+specify)
+Purpose and scope of 
+engagement including key topics 
+and concerns raised during such 
+engagement 
+Shareholders / 
+investors
+No
+Investor 
+and 
+analyst 
+meetings, Presentations at 
+industry forums, Publishing 
+and Circulating the Annual 
+Report 
+and 
+Sustainability 
+Report, 
+Communicating 
+Financial, 
+Results 
+to 
+shareholders via quarterly 
+meetings, AGM
+Annually/ 
+Half yearly/ 
+Quarterly/ 
+Need-based
+Investors and shareholders are 
+pivotal 
+in 
+providing 
+financial 
+resources that support operations 
+and 
+sustainable 
+growth. 
+Transparent communication with 
+them is essential for cultivating 
+mutual trust and strengthening 
+our relationship. 
+Key 
+areas 
+of 
+focus 
+include: 
+economic 
+performance, 
+transparency in operations, and 
+alignment with our strategic goals 
+for sustainable development.
+Suppliers
+No
+Supplier Meets, Visits, 
+Supplier audit, Facility visits
+Event based and 
+need-based
+Suppliers are crucial stakeholders 
+for the company as they play 
+significant role in providing high-
+quality raw material - essential for 
+producing top quality MCC. This 
+ensures continuity and promotes 
+sustainable business practices. 
+Key areas of interest include:
+Business ethics and transparency, 
+Compliance, 
+Vendor 
+/supplier 
+training 
+and 
+development, 
+Environmental 
+impact 
+of 
+operations
+Communities 
+and non-
+governmental 
+organizations
+Yes
+Interaction with communities 
+through CSR Initiatives or 
+engagements 
+Continuous and 
+need based 
+Engaging with local communities 
+helps 
+us 
+understand 
+their 
+immediate 
+needs 
+and 
+allows 
+us to contribute meaningfully 
+to 
+sustainable 
+community 
+development. Our partnerships 
+with the Aga Khan Rural Support 
+Programme 
+India 
+(AKRSPI), 
+Mauna Dhwani Foundation (MDF), 
+and other organizations enhance 
+our efforts to create shared value.
+Key Topics of Interest:
+1.	 Integrated development
+2.	 Skill Development
+3.	 Sustainable Livelihoods
+4.	 Community Strengthening
+Corporate Overview
+Statutory Reports
+Financial Statements
+095
+002-034
+035-142
+143-241
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and 
+social topics or if consultation is delegated, how is feedback from such consultations provided to the Board. 
+	
+The Company engages in consultations and feedback sessions with stakeholder groups. Subsequently, business and 
+functional heads analysed material topics related to the economy, environment, and social aspects. The company identifies 
+material issues through stakeholder engagement exercises. These issues are then presented to the highest governing 
+member and the Board to guide strategy and decision-making. The company periodically reviews stakeholder engagement 
+efforts to identify important material issues affecting internal and external stakeholders. 
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and 
+social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on 
+these topics were incorporated into policies and activities of the entity.
+	
+The process of identifying and prioritizing material issues pertinent to environmental, social, economic, and governance 
+topics is conducted in collaboration with stakeholders. Once these issues are identified, they are mapped to relevant risks. 
+As part of the risk management plan, strategies and mitigation action plans are developed for the identified risks.
+	
+These material issues serve as a guiding framework for the non-financial disclosures through the Corporate Overview, 
+Statutory Reports, and Financial Statements in the Annual Report 2023-24. The Sustainability Report adheres to relevant 
+national and international guidelines and standards, disclosing the management approach, targets/goals, and non-financial 
+performance in the reporting year for each identified material topic.
+	
+Moreover, the identification of material issues allows the focus to be placed on key areas of improvement. This enables the 
+development of future action plans, such as policy development and implementation of initiatives. This approach ensures 
+a proactive stance towards continuous improvement and sustainable growth.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups. 
+	
+Community members are recognized as a vulnerable/marginalized stakeholder group. As part of the Corporate Social 
+Responsibility (CSR) initiatives, a need assessment is undertaken to identify and prioritize focus areas for community 
+development. Various CSR initiatives have been implemented to address these needs. For further details, one can refer to 
+the Annual Report and the Annual CSR report.
+	
+Sigachi identifies communities and non-governmental organizations as vulnerable and marginalized groups.
+	
+Partnership with Aga Khan Rural Support Programme India (AKRSPI): Sigachi has partnered with AKRSPI to support villagers 
+in need through initiatives under integrated development programme that comprises of :
+	
+1.	
+Irrigation and Water Conservation
+	
+2.	
+Agricultural and Environmental Practices
+	
+3.	
+Renewable Energy Solutions
+	
+4.	
+Community Support and Empowerment
+	
+5.	
+Educational and Health Initiatives
+	
+Collaboration with Mauna Dhwani Foundation (MDF): Sigachi, in collaboration with MDF, empowers tribal women by providing 
+sustainable livelihood opportunities through a world-class stitching unit and comprehensive training program focused on:
+	
+1.	
+Skill Development
+	
+2.	
+Sustainable Livelihoods
+	
+3.	
+Community Strengthening
+Leadership Indicators- 
+Sigachi Industries Limited  |  Annual Report 2023-24
+096
+Principle
+5
+Business should respect and promote human rights
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in 
+the following format:
+Category
+FY 2024
+FY 2023
+Total (A)
+No. of employees /
+workers covered (B)
+% (B/A)
+Total (C)
+No. of employees /
+workers covered (D)
+% (D/C)
+Employees
+Permanent
+991
+991
+100%
+823
+816
+99%
+Other than 
+Permanent
+8
+8
+100%
+5
+5
+100%
+Total Employees
+999
+999
+100%
+828
+821
+99.00%
+Workers
+Permanent
+0
+0
+0%
+266
+266
+100%
+Other than 
+Permanent
+429
+429
+100%
+254
+254
+100%
+Total Workers
+429
+429
+100%
+520
+520
+100%
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+2023-24
+2022-23
+Total 
+(A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total 
+(D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% (B / A)
+No. (C)
+% (C /A)
+No. (E)
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+Permanent
+991
+_
+_
+991
+100%
+782
+_
+_
+782
+100%
+Male
+947
+_
+_
+947
+100%
+782
+_
+_
+782
+100%
+Female
+44
+_
+_
+44
+100%
+41
+_
+_
+41
+100%
+Other than 
+Permanent
+8
+_
+_
+8
+100%
+5
+_
+_
+5
+100%
+Male
+8
+_
+_
+8
+ 
+5
+_
+_
+5
+100%
+Female
+0
+_
+_
+0
+ 
+0
+_
+_
+_
+_
+Workers
+Permanent
+Nil
+266 
+ 3
+ 
+ 263
+ 
+Male
+250
+2
+0.80%
+248
+99.20%
+Female
+16
+1
+6.25%
+15
+93.75%
+Other than 
+Permanent
+429
+301
+71%
+128
+29%
+ 254
+_
+_
+254 
+100% 
+Male
+414
+286
+69%
+128
+31%
+254
+_
+_
+254
+100%
+Female
+15
+15
+100%
+0
+0%
+0
+_
+_
+_
+_
+Essential Indicator:
+Corporate Overview
+Statutory Reports
+Financial Statements
+097
+002-034
+035-142
+143-241
+3.	
+Details of remuneration/salary/wages, in the following format: 
+	
+a.	
+The details are provided below:
+Male
+Female
+Number
+Median remuneration/salary/
+wages of respective category
+Number
+Median remuneration/salary/
+wages of respective category
+Board of Directors (BoD)
+4
+               1,58,80,700 
+2
+                        9,25,000 
+Key Managerial Personnel (KMP)
+1
+               1,06,54,224 
+1
+12,72,000 
+Employees other than BoD 
+and KMP 
+1061
+                     3,83,586 
+61
+                        6,74,346 
+Workers
+413
+                     1,27,008 
+16
+                        1,34,400 
+	
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following  format:
+FY24 
+Current Financial Year
+FY23 
+Previous Financial Year
+Gross	 wages	paid to females as % of total wages
+4.64%
+3.20%
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business? (Yes/No) 
+	
+Yes, Sigachi has zero tolerance for non-compliant behavior and is committed to addressing any concerns related to Code 
+of Conduct violations. Typically, such concerns should be reported to your manager. If uncomfortable, stakeholders can 
+escalate the issue to the Head of Department, Unit HR Manager, or Compliance Officer.
+	
+The Head of Human Resources is responsible for addressing human rights impacts and issues. The Human Rights Policy 
+mandates that all stakeholders adhere to its principles and comply with applicable laws across all operational territories.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+	
+The Company follows a structured process for addressing grievances. When a complainant reaches out to their reporting 
+manager, any unsettled grievances are escalated to the HR and Management. After detailed discussions with the 
+complainant, the HR and Management work toward a win-win resolution.
+	
+Addressing Concerns:  The Company encourages employees to share their concerns with their immediate manager as a 
+standard procedure. If an employee feels uneasy about reporting a potential breach to their supervisor, the company allows 
+for the issue to be escalated to the Head of Department, the HR Manager of the unit, or the Compliance Officer.
+	
+Reporting Violations and Ensuring Compliance:  The Company insists on the immediate reporting of any potential or actual 
+breaches of laws, company policies, or the Code. Reports can be made to an employee’s Manager/Supervisor, the Unit HR, 
+the CFO, or the Compliance Officer.
+	
+Investigation Process:  The Company follows a structured method for addressing each concern or violation report. This 
+ensures a comprehensive investigation in line with the procedures of our Code of Business Conduct Committee and 
+legal protocols.
+	
+Disciplinary Actions and Remedial Measures Based on the specifics and nature of the violation, the investigation committee 
+recommends suitable remedial and preventive actions. These may include disciplinary measures.
+	
+Safeguard Against Retaliation: The Company is dedicated to protecting individuals who report alleged violations in good 
+faith or cooperate in investigations. The company ensures these individuals are safeguarded from any form of retaliation.
+6.	
+Number of Complaints on the following made by employees and workers: 
+	
+The details are provided below:
+FY2024
+FY2023
+Filed during 
+the year
+Pending 
+resolution at 
+the end 
+of the year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end 
+of the year
+Remarks
+Sexual Harassment
+0
+0
+NA
+0
+0
+NA
+Discrimination at 
+workplace
+0
+0
+NA
+0
+0
+NA
+Sigachi Industries Limited  |  Annual Report 2023-24
+098
+FY2024
+FY2023
+Filed during 
+the year
+Pending 
+resolution at 
+the end 
+of the year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end 
+of the year
+Remarks
+Child Labour
+0
+0
+NA
+0
+0
+NA
+Forced Labour/ 
+Involuntary Labour
+0
+0
+NA
+0
+0
+NA
+Wages
+118*
+0
+NA
+5
+0
+NA
+Other Human rights 
+related issues
+0
+0
+NA
+0
+0
+NA
+	
+* It Includes all transactional complaints/clarifications & queries pertaining to wages, hence total is 118 complaints
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) 
+Act, 2013, in the following format:
+FY24 
+FY23 
+Total Complaints reported under Sexual Harassment on of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+0
+0
+Complaints on POSH as a % of female employees / workers
+0
+0
+Complaints on POSH upheld
+0
+0
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases. 
+	
+The Company prioritises confidentiality for complainants. When a complaint is received, the accused is informed of 
+potential severe disciplinary consequences if they harass the complainant. In cases where there is a reporting relationship, 
+the complainant is promptly aligned with an alternate manager. If necessary, the accused may be temporarily suspended 
+pending completion of the inquiry. The Company ensures reasonable security for the complainant, including a security 
+guard and office vehicle for transportation. Efforts are made to reach a conciliatory settlement that benefits both parties.
+	
+Harassment Reporting and Non-Retaliation
+	
+The company upholds a strict policy of zero tolerance towards any form of harassment, including sexual harassment. It 
+strongly advocates for immediate reporting of such incidents. The company’s standing orders and Code of Conduct provide 
+clear procedures for dealing with misconduct, ensuring prompt resolution.
+	
+Reporting Guidelines
+	
+The company appreciates reports made in good faith, irrespective of the accuracy of interpretation. However, it considers 
+false reports or reports made with malicious intent as a violation of its standards.
+	
+Anonymous Reporting
+	
+The company provides an anonymous channel for its employees to report violations confidentially. This ensures utmost 
+confidentiality and minimal disclosure.
+	
+Protection Against Retaliation
+	
+The company strictly forbids any form of retaliation against individuals who, in good faith, report violations or cooperate in 
+investigations. This approach fosters a safe and supportive work environment.
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No) 
+	
+Yes, The Company incorporates compliance with human rights into its standard agreements, contracts, and Code of 
+Conduct for all stakeholders. It mandates that suppliers and vendors comply with relevant laws, uphold labour standards, 
+meet environmental regulations, and exhibit ethics and integrity in their operations. The company’s Code of Conduct 
+underscores the significance of human rights, obliging suppliers to align with ethical principles and maintain a steadfast 
+commitment to integrity throughout their business practices.
+Corporate Overview
+Statutory Reports
+Financial Statements
+099
+002-034
+035-142
+143-241
+10.	 Assessment for the year:
+% of the Company’s plants and offices that were assessed (by the Company or 
+statutory authorities or third parties)
+Child Labour
+100%
+Forced Labour/Involuntary Labour
+100%
+Sexual Harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Other- please specify
+Nil
+11.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 10 above.
+	
+At present no concerns have been raised. The company maintains strict regulations against child labour or forced labour 
+on-site. Robust policies are in place to discourage discrimination and harassment. To date, there have been no instances of 
+policy or legal violations related to these topics.
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints.  
+	
+The Company has maintained a clean record without any recorded human rights violations to date. Consequently, no 
+special amendments have been made to existing processes or policies. 
+2.	
+Details of the scope and coverage of any Human rights due diligence conducted.  
+	
+The company commits to conducting human rights due diligence to identify adverse impacts on relevant stakeholders. 
+Subsequently, it takes corrective actions to address, prevent, and mitigate these impacts. Nonetheless, the company 
+remains dedicated to swiftly implementing corrective measures to address, prevent, and lessen any potential impacts, 
+thereby ensuring its ongoing commitment to human rights principles.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?  
+	
+Yes. The corporate office premises is enabled with handrails, ramps and accessible toilets that have been specially designed 
+to better accommodate differently abled visitors & employees.
+4.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such  
+partners) that were assessed
+Sexual Harassment
+0
+Discrimination at workplace
+0
+Child Labour 
+0
+Forced Labour/Involuntary Labour
+0
+Wages
+0
+Others – please specify
+0
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above. 
+	
+At present, the company has not encountered any issues. If any, the company is prepared to swiftly carry out necessary 
+enhancements and corrective measures, ensuring a robust system of checks and balances is maintained.
+Leadership Indicators- 
+Sigachi Industries Limited  |  Annual Report 2023-24
+100
+Principle
+6
+Business should respect and make efforts to protect and restore the environment
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format: 
+Parameter
+FY24 
+(Current  Financial 
+Year)
+FY23 
+(Previous  Financial 
+Year)
+From renewable sources
+Total electricity consumption (A)
+0
+0
+Total fuel consumption (B)
+0
+0
+Energy	consumption through other sources (C)
+0
+0
+Total energy consumed from renewable sources (A+B+C)
+0
+0
+From non-renewable sources
+Total electricity consumption (D)
+29,039.39 GJ 
+24,639
+Total fuel consumption (E)
+283,174.62 GJ 
+3,27,558
+Energy	consumption through other sources (F)
+0
+0
+Total energy   consumed   from   non-renewable sources (D+E+F)
+312,214.01 GJ 
+3,52,197
+Total energy consumed (A+B+C+D+E+F)
+312,214.01 GJ 
+3,52,197
+Energy intensity per rupee of turnover 
+(Total energy consumed / Revenue from operations) - GJ/H mn
+98.34
+121.31
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) 
+(Total energy consumed / Revenue from operations adjusted for PPP) - GJ/
+Revenue adjusted to PPP
+2250.11
+2775.86
+Energy intensity in terms of physical Output - (GJ/Tonne of Product)
+22.95 
+26.68
+Energy intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+Parameter
+FY24 
+(Current  Financial 
+Year)
+FY23 
+(Previous  Financial 
+Year)
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+0
+38,924
+(ii) Groundwater
+0
+0 
+(iii) Third party water
+55,426.00 
+54,496
+(iv) Seawater / desalinated water
+0
+0 
+(v) Others
+0
+231
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+55,426.00
+93651
+Total volume of water consumption (in kilolitres)
+55,426.00
+93651
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+Yes, an independent assessment/ evaluation/assurance has been carried out by Subodh Energy Services.
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the 
+PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if any. 
+ 
+ 
+No, The Company does not have any sites or facilities identified as designated consumers (DCs) under the Performance, 
+Achieve, and Trade (PAT) Scheme of the Government of India.
+3.	
+Provide details of the following disclosures related to water, in the following format: 
+Essential Indicator:
+Corporate Overview
+Statutory Reports
+Financial Statements
+101
+002-034
+035-142
+143-241
+Parameter
+FY24 
+(Current  Financial 
+Year)
+FY23 
+(Previous  Financial 
+Year)
+Water intensity per rupee of turnover
+(Total water consumption / Revenue from operations)-  KL/ H mn on fresh water 
+withdrawal
+17.46
+32.26
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) 
+(Total water consumption / Revenue from operations adjusted for PPP)- KL/
+Revenue adjusted to PPP
+399.45
+738.12
+Water intensity in terms of physical
+Output - KL/Tonne of Product
+4.07
+7.09
+Water intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+ 
+ 
+Yes, an independent assessment has been carried out by Subodh Energy Services
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY24 
+(Current  Financial 
+Year)
+FY23 
+(Previous  Financial 
+Year)
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 To Surface water
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(ii)	To Groundwater
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of Treatment*
+NA
+NA
+(iii)	To Seawater
+NA 
+5,454
+	
+-	
+No treatment
+NA
+	
+-	
+With treatment – please specify level of Treatment*
+5,454
+(iv)	Sent to third-parties
+4,541.00
+480
+	
+-	
+No treatment
+NA 
+0
+	
+-	
+With treatment – please specify level of Treatment*
+Tertiary treatment
+Tertiary Treatment 
+(v)	 Others
+0
+0
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+Total water discharged (in kilolitres)
+4,541.00
+5,934.00
+*Tertiary treatment 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+ 
+ 
+Yes, an independent assessment has been carried out by Lawn Enviro Associates
+5.	
+Has the Company implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+The Company is dedicated to environmental sustainability, demonstrated by its advanced Zero Liquid Discharge (ZLD) 
+System and state-of-the-art Effluent Treatment Plants with RO Recovery Systems. Two of our facilities are crucial in 
+comprehensively treating all effluents, significantly reducing contaminants through ZLD processes. By recycling high-
+quality treated water back into our utility systems, we ensure minimal environmental impact and efficient resource utilization 
+across our operations.
+Sigachi Industries Limited  |  Annual Report 2023-24
+102
+6.	
+Please provide details of air emissions (other than GHG emissions) by the Company, in the following format: 
+Parameter
+Unit
+FY2024
+FY2023
+NOx 
+PPM 
+113.860 
+185.77
+SOx 
+PPM
+94.413 
+422.08
+Particulate matter (PM) 
+PPM
+492.060 
+315.35
+Persistent organic pollutants (POP) 
+_
+ Not Measured 
+ Not Measured  
+Volatile organic compounds (VOC) 
+Hazardous air pollutants (HAP) 
+Others – please specify Mercury, Cadmium, Cadmium, 
+Chromium etc.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+	
+Yes, an independent assessment has been carried out by Re Sustainability Limited.
+	
+Provide details of greenhouse gas emissions (Scope1 and Scope 2 emissions) & its intensity, in the following format: 
+	
+The details are provided below:
+Parameter
+Unit
+FY24
+(Current Financial 
+Year)
+FY23
+(Previous Financial 
+Year)
+Total Scope 1 emissions  
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+24,776.82
+28,635
+Total Scope 2 emissions  
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+7,421.17
+6,228
+Total Scope 1 and Scope 2 emission intensity per 
+rupee of turnover
+(Total Scope 1 and Scope 2 GHG emissions / Revenue 
+from operations)
+MT/ H mn
+10.14
+12.01
+Total Scope 1 and Scope 2 emission	intensity	per
+rupee of turnover adjusted for Purchasing Power 
+Parity (PPP)
+(Total Scope 1 and Scope 2 GHG emissions / Revenue 
+from operations adjusted for
+PPP)
+MT/Revenue 
+adjusted to PPP
+232.05
+274.78
+Total Scope 1 and Scope 2 emission intensity in 
+terms of physical output
+MT/Tonne of 
+Product 
+2.37
+2.64
+Total Scope 1 and Scope 2 emission intensity 
+(optional) – the relevant metric may be
+selected by the entity
+ -
+ -
+ -
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+	
+No,  an independent assessment/ evaluation/assurance hasn’t  been carried out.
+7.	
+Does the Company have any project related to reducing Green House Gas emission? If yes, then provide details. 
+	
+Sigachi is actively implementing a range of initiatives to reduce greenhouse gas emissions:
+	
+Energy Efficiency: We're committed to responsible manufacturing, exploring ways to reduce our environmental footprint 
+through energy-efficient technologies, building retrofits, and strategic HVAC use. Our air compressors with auto-off at 6-9 
+bar further optimize energy use.
+	
+Carbon Sequestration: Sigachi actively participates in reforestation and afforestation projects. One of our environmental 
+targets was to plant 50,000 trees by 2026 to sequester atmospheric CO2. We are proud to announce that we have already 
+achieved this goal in FY 2024.
+Corporate Overview
+Statutory Reports
+Financial Statements
+103
+002-034
+035-142
+143-241
+	
+Sustainable Transportation: Sigachi champions clean commutes by promoting electric vehicles, enhancing public 
+transport infrastructure, and offering employee carpooling programs. We encourage employees to use our bus service, 
+which significantly reduces emissions from inefficient commuting habits. Additionally, 98% of our logistics shipments are 
+dispatched by sea, greatly cutting emissions and our carbon footprint.
+	
+Green Supply Chain: We actively collaborate with suppliers to set emission reduction targets and promote sustainable 
+practices throughout our supply chain. We screen our vendors for ESG initiatives and engage them in taking responsibility 
+by providing Supplier ESG training.
+	
+Investing in Innovation: Sigachi is committed to investing significantly in research and development to drive innovative 
+solutions that optimize our raw material consumption. Our focus extends to advancements in renewable energy, carbon 
+capture, and energy storage. By integrating strategies to optimize resource consumption and waste generation, we align 
+our practices with Sustainable Development Goals (SDGs) and Environmental, Social, and Governance (ESG) objectives, 
+promoting responsible production and disposal practices.
+8.	
+Provide details related to waste management by the Company, in the following format: 
+	
+The required details are provided below: 
+Parameter
+FY24 
+(Current Financial 
+Year)
+FY23
+(Previous Financial 
+Year)
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+Not   measured
+Not measured
+E-waste (B)
+Not measured 
+Bio-medical waste (C)
+NA 
+Construction	 and	demolition waste (D)
+NA 
+Battery waste (E)
+Not Measured 
+Radioactive waste (F)
+NA
+Other Hazardous waste. Please specify, if any. (G)
+16.37
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up 
+by composition i.e. by materials relevant to the sector)
+70.93
+28.47
+Total (A+B + C + D + E + F + G+ H)
+87.30
+28.47
+Waste intensity per rupee of turnover (Total waste generated / Revenue 
+from operations)
+0.027
+0.010
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total waste generated / Revenue from operations adjusted for PPP)
+0.63
+0.22
+Waste intensity in terms of physical output
+0.006
+0.0022
+Waste intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+For each category of waste generated, total waste recovered through recycling, re-using or  
+other recovery operations (in metric tonnes)
+Category of waste
+(i)	 Recycled
+66.26
+Not measured
+(ii)	 Re-used
+0.13
+(iii)	Other recovery operations
+No other Recovery 
+options 
+Total
+66.39
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i)	 Incineration
+0
+0
+(ii)	 Landfilling
+13.49
+28.47
+(iii)	Other disposal operations
+0
+0
+Total
+13.49
+28.47
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+	
+No
+Sigachi Industries Limited  |  Annual Report 2023-24
+104
+9.	
+Briefly describe the waste management practices adopted in your establishment. Describe the strategy adopted 
+by your Company to reduce usage of hazardous and toxic chemicals in your products and processes and the 
+practices adopted to manage such wastes. 
+	
+Sigachi is deeply committed to clean manufacturing practices and efficient waste management. The company meticulously 
+manages all solid wastes, both hazardous and non-hazardous. These wastes are segregated at their source and stored in 
+dedicated areas within Sigachi’s facilities.
+	
+Sigachi’s approach involves categorizing hazardous wastes and storing them in designated hazardous waste storage areas. 
+These wastes are then disposed of at facilities approved by the Pollution Control Board, ensuring strict compliance with 
+regulatory requirements across all factory locations.
+	
+In a bid to enhance environmental stewardship, Sigachi directs nearly 100% of its non-hazardous waste to authorized 
+recyclers. This initiative supports recycling efforts and contributes to sustainable waste management practices.
+	
+Moreover, Sigachi is actively implementing strategies to minimize the use of hazardous and toxic chemicals in its products 
+and manufacturing processes. Through continuous process optimization, the company aims to reduce the generation of 
+solvents and hazardous waste. Sigachi’s practices include adopting safer alternatives, improving production efficiencies, 
+and implementing stringent waste management protocols.
+	
+By converting waste into valuable biomass resources, Sigachi is not only mitigating environmental impact but also fostering 
+a circular economy within its operations. This holistic approach underscores Sigachi’s commitment to sustainable practices 
+and regulatory compliance, ensuring responsible stewardship of resources and environmental protection.
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details in the following format:
+S. 
+No
+Location of operations/
+offices 
+Type of operations 
+Whether the conditions of environmental approval / clearance 
+are being complied with? (Y/N)  If no, the reasons thereof and 
+corrective action taken, if any. 
+The Company does not operate in ecologically sensitive areas
+S. 
+No
+Specify the law / regulation 
+/ guidelines which was not 
+complied with 
+Provide details 
+of the non-
+compliance 
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution 
+control boards or by courts 
+Corrective action 
+taken, if any 
+None
+NA
+NA
+NA
+Name and brief 
+details of project
+EIA Notification 
+No.
+Date
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results 
+communicated in 
+public domain  
+(Yes / No)
+Relevant Web link
+Not Applicable
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in 
+the current financial year: 
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection 
+Act and rules thereunder (Y/N). 
+	
+If not, provide details of all such non-compliances, in the following format:
+1.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area - The Company does not have operations in areas of water stress.
+	
+(ii)	
+Nature of operations – NA
+Leadership Indicators- 
+Corporate Overview
+Statutory Reports
+Financial Statements
+105
+002-034
+035-142
+143-241
+	
+(iii)	 Water withdrawal, consumption and discharge in the following format:
+Parameter
+FY24 
+(Current Financial 
+Year)
+FY23 
+(Previous Financial 
+Year)
+Water withdrawal by source (in kilolitres)
+(i)	 Surface water
+Not Applicable
+(ii)	 Groundwater
+(iii)	Third party water
+(iv)	Seawater / desalinated water
+(v)	 Others
+Total volume of water withdrawal (in kilolitres)
+Total volume of water consumption (in kilolitres)
+Water intensity per rupee of turnover 
+(Water consumed / turnover)
+Water intensity (optional) – the relevant metric may be selected by the entity
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 Into Surface water
+Not Applicable
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of treatment
+(ii)	 Into Groundwater
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of treatment
+(iii) Into Seawater
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of treatment
+(iv)	Sent to third-parties
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of treatment
+(v)	 Others
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of treatment
+Total water discharged (in kilolitres)
+	
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.
+2.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format: 
+Parameter
+Unit
+FY2024
+FY2023
+Total Scope 3 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available) 
+Sigachi is making consistent annual progress in monitoring 
+emissions. 
+The 
+company 
+has 
+undertaken 
+internal 
+engagements to validate its monitoring methodology within 
+the year. Looking ahead, Sigachi’s objective is to expand its 
+tracking capabilities to include Scope 3 emission calculations. 
+Total Scope 3 emissions per rupee of turnover 
+Total Scope 3 emission intensity 
+	
+Note: Indicate if any independent assessment, evaluation, or assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+	
+Not Applicable
+3.	
+With respect to the ecologically sensitive areas reported in Question 10 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities. 
+	
+Not Applicable, as the company does not operate in ecologically sensitive areas.
+Sigachi Industries Limited  |  Annual Report 2023-24
+106
+4.	
+If the entity provided below taken any specific initiatives or used innovative technology or solutions to improve 
+resource efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide 
+details of the same as well as outcome of such initiatives, as per the following format: 
+Sr. 
+No
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be 
+provided along-with summary)
+Outcome of the initiative
+1
+ETP and STP 
+installation
+Every manufacturing unit within Sigachi is 
+equipped with ETP and STP installations. These 
+installations are utilized to treat water prior to its 
+reuse for process applications, in-house utilities, or 
+discharge through government-authorized third-
+party facilities.
+1.	 Reduced Water Usage: Sigachi has 
+achieved a substantial reduction in 
+water consumption.
+2.	 Environmental Protection: Sigachi’s 
+efforts 
+have 
+minimized 
+pollution, 
+contributing to a healthier environment.
+3.	 Regulatory 
+Compliance: 
+Sigachi 
+consistently meets government standards, 
+demonstrating 
+its 
+commitment 
+to 
+responsible operations.
+4.	 Sustainability: Sigachi has enhanced 
+its recycling practices and resource 
+conservation, underscoring its dedication 
+to sustainability.
+5.	 Resource 
+Conservation: 
+Sigachi 
+efficiently 
+reuses 
+treated 
+water, 
+furthering its resource conservation 
+efforts.
+	
+2
+Mechanical Vapor 
+Recompression 
+(MVR) installation
+Sigachi’s manufacturing units are equipped with 
+MVRE installations. These installations compress 
+the vapor produced from boiling the liquid, 
+which elevates its pressure and temperature. The 
+compressed vapor is then utilized to supply the 
+heat required for additional evaporation, rendering 
+the process exceptionally energy-efficient.
+1)	 Higher 
+Energy 
+Efficiency 
+2)	 Cost 
+Savings 
+3)	 Improved 
+Waste 
+Management 
+4)	 Enhanced Sustainability
+3
+End-of-Life 
+Processes for 
+Recycled Pallets
+Sigachi ensures the circular utilization of packaging 
+materials by actively monitoring the life cycle of the 
+pallets. From the point of production to delivery, 
+Sigachi 
+has 
+implemented 
+a 
+comprehensive 
+system to trace their journey within the supply 
+chain. Furthermore, Sigachi actively engages 
+with customers to comprehend and record the 
+management of these pallets at the end of their 
+life cycle.
+1)	 Enhanced 
+sustainability 
+through 
+circular packaging practices.
+2)	 Improved supply chain transparency 
+and accountability.
+3)	 Stronger customer engagement and 
+collaboration.
+4)	 Continuous process improvement for 
+efficient resource management.
+5)	 Compliance 
+with 
+environmental 
+regulations and optimized operations.
+4
+Sustainable 
+Transportation 
+Solutions in Supply 
+Chain Management
+1.	 Sea 
+Transportation: 
+Sigachi 
+Industries 
+capitalizes 
+on 
+sea 
+transportation, 
+which 
+accounts for 98% of its logistics shipments. 
+This strategy substantially reduces emissions 
+and the company’s carbon footprint.
+2.	 Railway Utilization: Sigachi Industries gives 
+precedence 
+to 
+railways 
+for 
+international 
+logistics from production sites to shipyards. 
+This 
+approach 
+curtails 
+greenhouse 
+gas 
+emissions and bolsters operational energy 
+efficiency.
+1)	 Environmental 
+Responsibility: 
+Reduced environmental impact.
+2)	 Operational 
+Efficiency: 
+Improved 
+efficiency 
+and 
+cost 
+savings. 
+Corporate Overview
+Statutory Reports
+Financial Statements
+107
+002-034
+035-142
+143-241
+Sr. 
+No
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be 
+provided along-with summary)
+Outcome of the initiative
+5
+Biomass 
+Optimization for 
+Sustainable Waste 
+Management
+Facilities optimize waste management through: 
+1)	 Regular dosing of supplements to  to enhance 
+bacterial activity.
+2)	 Maintaining biomass levels below 70% to 
+convert waste into valuable resources.
+3)	 Continuous COD monitoring for efficient 
+waste management.
+1)	 Successful conversion of waste into 
+valuable biomass resources.
+2)	 Enhanced system efficiency and 
+stability.
+3)	 Demonstrates Sigachi’s commitment 
+to sustainability and innovation in 
+waste management practices.
+6
+Solar Power 
+Installation
+A 
+subsidiary 
+of 
+Sigachi 
+Industries, 
+has 
+implemented 
+a 
+green 
+energy 
+initiative: 
+1)	 Solar Lights Installation: Nine solar lights 
+installed, each with a capacity of 28 watts.
+2)	 Energy Generation: Collectively generating 
+252 watts of clean, renewable energy.
+3)	 Daily Output: Produces 3024 watt-hours (WH) 
+of energy per day, equivalent to 3.024 kilowatt-
+hours (KWH).
+3)	 Monthly Output: Generates 90 kilowatt-hours 
+(KWH) of energy per month.
+Environmental Impact: Reduction in 
+carbon 
+footprint 
+and 
+environmental 
+impact.
+Sustainability Goals: Aligns with Sigachi 
+Industries’  broader  sustainability objectives. 
+Expansion 
+Plans: 
+Commitment 
+to 
+expanding green energy initiatives for a 
+more environmentally responsible future.
+7
+HVAC Systems with 
+Dampers
+At Sigachi, our HVAC systems are designed for 
+optimal heating, ventilation, and air conditioning 
+with reduced energy consumption. They feature 
+variable speed drives, smart thermostats, and 
+advanced control systems. Dampers, adjustable 
+plates or valves within the ductwork, regulate 
+airflow and temperature by controlling the 
+distribution of cooled or heated air to different 
+areas of the building.
+1)	 Energy Reduction 
+2)	 Cost Savings
+3)	 Improved comfort
+8
+Variable Refrigerant 
+Flow (VRF) Systems
+At Sigachi, we have implemented VRF cooling 
+systems to eliminate water use for cooling. VRF 
+systems are advanced air conditioning systems 
+that use refrigerant as the cooling and heating 
+medium. They precisely control refrigerant flow to 
+multiple indoor units based on demand in different 
+zones, ensuring high efficiency and consistent, 
+comfortable indoor environments. By adjusting 
+refrigerant flow to meet exact requirements, VRF 
+systems reduce energy consumption and increase 
+efficiency.
+ 
+ 
+Optimal efficiency with inverter-
+driven compressors and advanced 
+control systems.
+ 
+ 
+Lower 
+energy 
+consumption, 
+reduced operational costs, and a 
+smaller carbon footprint.
+ 
+ 
+Elimination of water use and reduced 
+energy consumption.
+5.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+Sigachi Industries has implemented a comprehensive strategy to ensure resilience across all facilities, adeptly managing 
+natural disasters and unforeseen events with continuous improvements based on past disruptions. The company emphasizes 
+risk management, assessing potential disruptions, and implementing actions to mitigate risks and minimize losses. 
+	
+Its business continuity and disaster management strategy focus on maintaining acceptable service levels during 
+interruptions, covering manufacturing facilities, IT, supply chain, and more. In pursuit of operational excellence, Sigachi 
+has initiated change management efforts in manufacturing, R&D, supply chain, and IT automation, while continuously 
+strengthening data resiliency.
+6.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard? 
+	
+No significant adverse impact has been observed during value chain assessments.
+Sigachi Industries Limited  |  Annual Report 2023-24
+108
+Principle
+7
+Businesses, when engaging in influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparent
+7.	
+% of Value chain partners (by value of business done with such partners) that were assessed for Environmental 
+Impacts?
+	
+Sigachi Industries conducted its first external vendor audit in the fiscal year 2023. The company now carries out regular 
+supplier risk assessments via a third party to gain a deeper understanding of its value chain risk exposure. Sigachi Industries 
+evaluated the environmental impact of 20% of its partners through consistent audits in FY 2023 - 2024. Additionally, 
+the company continuously educates its suppliers on environmental considerations, demonstrating its commitment to 
+environmental responsibility.
+1.	
+a.	
+Number of affiliations with trade and industry chambers/associations. 
+	
+	
+Sigachi Industries has  6 affiliations with trade and industry chambers/associations during the FY 2023-2024.
+	
+b.	
+List the top 10 trade and industry chambers/associations (determined based on the total members of such body) 
+the Company is a member of/affiliated to.
+S. 
+No
+Name of the trade and industry chambers/associations
+Reach of trade and industry chambers/
+associations (State/ National)
+1
+The Federation of Telangana Chambers of Commerce and 
+Industry (FTCCI)
+State
+2
+Federation of Telangana Small (MSME) Industries Associations
+State
+3
+India SME forum
+National
+4
+Confederation of Indian Industry
+National
+5
+Pharmaceutical Export Promotion Council of India (Pharmexcii)
+National
+6
+India Process Expo and Conference
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the 
+Company, based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case 
+Corrective action taken
+Not Applicable 
+1.	
+Details of public policy positions advocated by the Company:
+S. 
+No
+Public policy 
+advocated
+Method resorted 
+for such advocacy
+Whether information 
+available in public 
+domain? (Yes/ No)
+Frequency of Review by 
+Board (Annually/ Half yearly/
+Quarterly/Others- please 
+specify)
+Web Link, if available
+Not Applicable 
+Leadership Indicators- 
+Essential Indicator:
+Corporate Overview
+Statutory Reports
+Financial Statements
+109
+002-034
+035-142
+143-241
+Principle
+8
+Businesses should promote inclusive growth and equitable development.
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the Company, based on applicable laws, in 
+the current financial year.
+Name and brief 
+details of project
+SIA Notification 
+No
+Date of 
+notification
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results 
+communicated in 
+public domain (Yes 
+/ No)
+Relevant Web 
+link
+Sigachi Industries has not conducted any Social Impact Assessments in the current year.
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken 
+by the Company, in the following format:
+S. 
+No
+Name of Project for 
+which R&R is ongoing
+State 
+District 
+No. of Project Affected 
+Families (PAFs)
+% of PAFs 
+covered by R&R
+Amount sent on 
+R&R activities 
+during FY 2023-
+24 (In INR)
+None of the Company’s operations or units have resulted in community displacement. As a result, no project required 
+Rehabilitation and Resettlement (R&R) in the reporting year.
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+Our operations are conducted in close collaboration and consensus with community members and partner NGOs. In the 
+event of any grievances, community leaders or our NGO partners can easily reach out to the designated Company point of 
+contact (POC) at each facility. The POC is readily available to address concerns, and depending on the nature of the issue, 
+we engage relevant stakeholders to ensure a swift resolution. Additionally, we have established a comprehensive Grievance 
+Redressal Policy to manage all issues efficiently and transparently.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Parameter
+FY2024
+FY 2023
+Directly sourced from MSMEs/small producers
+88.46
+5.50%
+Directly from Within India 
+11.54
+Data not available 
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers 
+employed on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage 
+cost
+Location 
+FY 2023-24 
+(Current 
+Financial Year)
+FY 2022-23 
+(Previous Financial 
+Year)
+Rural
+88.30%
+87.20%
+Semi-urban
+3.10%
+3.20%
+Urban
+8.10%
+9.60%
+Metropolitan
+-
+-
+	
+(Place to be categorized as per RBI Classification System - rural / semi-urban / urban / metropolitan)
+Essential Indicator:
+Sigachi Industries Limited  |  Annual Report 2023-24
+110
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+Not available. Did not undertake any Social Impact Assessments
+2.	
+Provide the following information on CSR projects undertaken by the Company in the designated aspirational 
+districts as identified by government bodies:
+S. 
+No
+State 
+Aspirational District
+Amount spent (In INR)
+1
+ Gujarat 
+ Narmada District 
+Nil 
+3.	
+(a)	
+Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized/vulnerable groups? (Yes/No) – No, the Company does not have any preferential procurement policy 
+focusing on suppliers from marginalised/ vulnerable groups. However, we check specifications and internal procedure 
+in this regard. 
+	
+(b)	 From which marginalized/vulnerable groups do you procure? – Not Applicable
+	
+(c)	
+What percentage of total procurement (by value) does it constitute? – Not Applicable
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by the Company (in 
+the current financial year), based on traditional knowledge:
+S. 
+No
+Intellectual Property based on traditional 
+knowledge
+Owned/ Acquired
+(Yes/ No)
+Benefit shared  
+(Yes/No)
+Basis of calculating benefit 
+share
+Not Applicable
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved.
+S. 
+No
+Name of authority 
+Brief of the Case
+Corrective action taken
+Not Applicable 
+6.	
+Details of beneficiaries of CSR Projects:
+S. 
+No
+CSR Project
+No. of persons 
+benefitted from 
+CSR Projects
+% of beneficiaries from vulnerable and 
+marginalized group
+1
+Integrated development project
+2506
+100% of our CSR projects aim to support 
+vulnerable, marginalized communities, 
+and underprivileged socio-economic 
+backgrounds.
+2
+Tribal Skill Development Programme
+500
+Leadership Indicators- 
+Corporate Overview
+Statutory Reports
+Financial Statements
+111
+002-034
+035-142
+143-241
+Principle
+9
+Businesses should engage with and provide value to their consumers in a responsible manner
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+At Sigachi Industries, customers have the option to submit complaints either in writing or via email directed to the head 
+of the Marketing Department. Upon receipt, a dedicated member from the Quality Assurance (QA) team is responsible 
+for classifying and recording the complaint in the official registry. A thorough review of the complaint is then conducted, 
+following which the customer is duly notified of any corrective or preventive measures that have been implemented
+2.	
+Turnover of products and/services as a percentage of turnover from all products/service that carry information 
+about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+NA
+Safe and responsible usage
+NA
+Recycling and/or safe disposal
+NA
+3.	
+Number of consumer complaints in respect of the following:
+Number of consumer 
+complaints in respect of the 
+following:
+FY24 
+(Current Financial Year)
+FY23 
+(Previous Financial Year)
+Received 
+ during the 
+year
+Pending 
+resolution 
+at end of 
+year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution 
+at end of 
+year
+Remarks
+Data privacy
+0
+0
+0
+0
+0
+0
+Advertising
+0
+0
+0
+0
+0
+0
+Cyber-security
+0
+0
+0
+0
+0
+0
+Delivery of essential services
+0
+0
+0
+0
+0
+0
+Restrictive Trade Practices
+0
+0
+0
+0
+0
+0
+Unfair Trade Practices
+0
+0
+0
+0
+0
+0
+Other
+0
+0
+0
+0
+0
+0
+4.	
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+Nil
+NA
+Forced recalls
+Nil
+NA
+5.	
+Does the Company have a framework/policy on cyber security and risks related to data privacy? (Yes/No) If 
+available, provide a web-link of the policy. 
+	
+Yes the company has internal policy/procedures related to information security management systems.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty/action taken by regulatory authorities on safety of products/services. 
+	
+In FY 2023–2024, there were no complaints filed related to advertising, provision of critical services, cyber security, 
+consumer data privacy.
+Essential Indicator:
+Sigachi Industries Limited  |  Annual Report 2023-24
+112
+7.	
+Provide the following information relating to data breaches:
+ 
+Provide the following information relating  
+to data breaches:
+a.	 Number of instances of data breaches along-with impact
+0
+b.	 Percentage of data breaches involving personally identifiable 
+information of customer
+0
+c.	 Impact, if any, of the data breaches
+0
+1.	
+Channels/platforms where information on products and services of the Company can be accessed (provide web-
+link, if available).
+	
+The information on products and services is available on the company website under,
+	
+https://sigachi.com/pharmaceutical-industry/nutraceutical-formulations/
+	
+https://sigachi.com/cosmetic-industry/
+	
+https://sigachi.com/pharmaceutical-industry/
+	
+https://sigachi.com/chemical-industry/
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+Sigachi Industries maintains thorough interactions with its customers to collect the unique needs respect to its products. 
+In the spirit of transparency, the company also ensures that customers are promptly informed about any potential risks 
+linked to these products. The Company educate consumers on healthy lifestyles. The Company works with government 
+bodies like FSSAI to create awareness about hygiene, nutrition, product safety and regulations. The company holds the 
+view that the opinions, preferences, concerns, and inquiries of consumers are valuable information sources. These insights 
+are crucial for sparking innovation and enhancing the company’s product range. The company provides information on 
+essential product attributes, methods of use, functional advantages of ingredients, and safety and efficacy claims for the 
+awareness of consumers.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+Throughout the year, Sigachi Industries experienced no significant disruptions. The company’s sales and marketing teams 
+maintain continuous communication with clients, ensuring potential service disruptions are communicated proactively. 
+Additionally, Sales and marketing team communicates directly with the consumers if felt necessary.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? 
+(Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to 
+consumer satisfaction relating to the major products/services of the entity, significant locations of operation of 
+the entity or the entity as whole? (Yes/No)
+	
+The company complies with all relevant regulations for product labelling and presents necessary information on it.  The 
+Company adheres to a comprehensive Standard Operating Procedure (SOP) for all products, ensuring proper identification 
+and traceability in alignment with customer or market requirements. Product labels include essential details such as storage 
+conditions, cautions, and specifications. Additionally, regular customer satisfaction surveys inform areas for improvement, 
+enabling proactive actions to maintain ongoing customer satisfaction. The company also strives to showcase essential 
+product information on the product packaging and pertinent marketing channels.
+Leadership Indicators- 
+Corporate Overview
+Statutory Reports
+Financial Statements
+113
+002-034
+035-142
+143-241
