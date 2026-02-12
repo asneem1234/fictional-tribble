@@ -1,0 +1,2948 @@
+ 
+ 
+ 
+eClerx/SECD/SE/2023/098 
+ 
+August 23, 2023 
+ 
+BSE Limited 
+Corporate Relationship Department,  
+Phiroze Jeejeebhoy Towers, 
+25th Floor, Dalal Street,  
+Fort, Mumbai - 400 001 
+National Stock Exchange of India Limited 
+Exchange Plaza, Plot No. C/1, 
+Block G, Bandra - Kurla Complex 
+Bandra (East),  
+Mumbai – 400 051 
+ 
+ 
+ 
+Dear Sir/Madam, 
+ 
+Reg: 
+Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (“Listing Regulations”) 
+ 
+Sub:  
+Business Responsibility and Sustainability Report for the financial year ended                                
+March 31, 2023 
+ 
+Scrip Code:  
+BSE - 532927 
+ 
+ 
+NSE - ECLERX 
+ 
+In terms of Regulation 34(2)(f) of the Listing Regulations, please find enclosed the Business 
+Responsibility and Sustainability Report for the financial year ended March 31, 2023, which also 
+forms part of the Annual Report for FY2023. 
+ 
+The report is also available on the website of the Company viz. www.eclerx.com. 
+ 
+This is for your information and record. 
+ 
+Thanking you, 
+ 
+Yours truly, 
+For eClerx Services Limited 
+ 
+ 
+ 
+ 
+Pratik Bhanushali 
+Company Secretary & Compliance Officer 
+F8538 
+ 
+Encl: A/a 
+ 
+ 
+ 
+PRATIK 
+RAMESHBHAI 
+BHANUSHALI
+Digitally signed 
+by PRATIK 
+RAMESHBHAI 
+BHANUSHALI 
+Date: 2023.08.23 
+20:04:49 +05'30'
+53
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT  |  ECLERX SERVICES LIMITED 
+ANNUAL REPORT 2022-23
+The Business Responsibility and Sustainability Report is presented as prescribed under Regulation 34 of the SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+Sr. No.
+Particulars
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L72200MH2000PLC125319
+2
+Name of the Listed Entity
+eClerx Services Limited
+3
+Year of incorporation 
+2000
+4
+Registered office address 
+Sonawala Building, 1st Floor, 29 Bank Street, Fort, 
+Mumbai – 400 023, Maharashtra, India
+5
+Corporate address
+4th Floor, Express Towers, Nariman Point, 
+Mumbai – 400021
+6
+Email id
+investor@eClerx.com
+7
+Telephone 
+91 (022) 6614 8301
+8
+Website
+www.eClerx.com
+9
+Financial year for which reporting is being done
+Financial year 2022-23 (April 1, 2022 to March 31, 2023)
+10
+Name of the Stock Exchange(s) where shares are listed 
+BSE Limited and National Stock Exchange of 
+India Limited
+11
+Paid-up Capital 
+Rs. 49,02,53,590
+12
+Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report
+Name:  Srinivasan Nadadhur
+Designation: Principal
+Telephone number: 91 (022) 6614 8301
+E-mail id: esg@eclerx.com
+13
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e. only for the 
+entity) or on a consolidated basis (i.e. for the entity and 
+all the entities which form a part of its consolidated 
+financial statements, taken together). 
+eClerx consolidated operations including India 
+(Mumbai, 
+Pune, 
+Chandigarh, 
+Coimbatore), 
+United States of America, United Kingdom, 
+Singapore and Manila.
+II.	
+Products/services
+14.	 Details of business activities (accounting for 90% of the turnover)
+Sr No
+Description of main activity
+Description of business activity
+% of turnover of the entity
+1.
+Information and 
+communication
+Data processing, hosting and 
+related activities; web portal
+100%
+15.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover)
+Sr No
+Product/Service
+NIC 
+Code
+% of total turnover 
+contributed
+1.
+Information Technology Enabled Services
+631, 6311
+95.16%
+2.
+Software development, licensing of software products and related services  72292
+4.84%
+BUSINESS RESPONSIBILITY AND 
+SUSTAINABILITY REPORT
+54
+ECLERX SERVICES LIMITED  |  BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+ANNUAL REPORT 2022-23
+III.	 Operations
+16.	 Number of locations where plants and/or operations/offices of the entity are situated
+Location
+Number of Plants
+Number of Offices
+Total
+National
+0
+5
+5
+International
+0
+22
+22
+17.	 Markets served by the entity
+	
+	
+a	
+Number of locations
+Location
+Number of Plants
+National (No. of states)
+3 States and 1 Union Territory
+International (No. of countries)
+12
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+100.55% (Contribution exceeds 100% because of gain/loss on forward contracts)
+c.	
+A brief on types of customers
+	
+The industries we serve include financial services, cable and telecommunications, retail, fashion, media 
+and entertainment, manufacturing, travel and leisure, software.
+IV.	 Employees
+18.	 Details as at the end of Financial Year
+a.	
+Employees (including differently abled)
+Sr. No.
+Particulars
+Total
+(A)
+Male 
+Female
+No. (B)
+% (B/A)
+No. (C )
+% (C/A)
+Employees
+1
+Permanent (D)
+13,259
+8,538
+64.40%
+4,721
+35.60%
+2
+Other than permanent (E)
+483
+326
+67.50%
+157
+32.50%
+3
+Total Employees (D+E)
+13,742
+8,864
+64.50%
+4,878
+35.50%
+Note: 
+–	
+Data specific to locations in India.
+–	
+All of eClerx’ workforce is categorized as ‘Employees’ and none as ‘Workers’. Hence in all the sections, details sought of the 
+‘Worker’s category’ are Not Applicable to eClerx.
+–	
+Total employees considering global locations is 15,495. For certain countries, gender wise data is not available.
+b.	
+Differently abled Employees
+Sr. No.
+Particulars
+Total
+(A)
+Male 
+Female
+No. (B)
+% (B/A)
+No. (C )
+% (C/A)
+Differently abled Employees
+1
+Permanent (D)
+13,259
+2
+0.015%
+0
+0%
+2
+Other than permanent (E)
+483
+0
+0%
+0
+0%
+3
+Total Employees (D+E)
+13,742
+2
+0.014%
+0
+0%
+Note: 
+–	
+Data specific to locations in India.
+19.	 Participation/Inclusion/Representation of women
+Sr. No.
+Particulars
+Total
+(A)
+No and % of females 
+No. (B)
+% (B/A)
+1
+Board of Directors
+9
+1
+11.11%
+2
+Key Management Personnel
+3
+0
+0%
+Note: 
+–	
+Mr. PD Mundhra, Executive Director on the Board of the Company is also a Key Managerial Personnel and therefore has been in­
+cluded in both the categories mentioned above.
+55
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT  |  ECLERX SERVICES LIMITED 
+ANNUAL REPORT 2022-23
+20.	 Turnover rate for permanent employees and workers 
+	
+(Disclose trends for the past 3 years)
+FY2023
+(Turnover rate in current 
+FY)
+FY2022
+(Turnover rate in previous 
+FY)
+FY2021
+(Turnover rate in year 
+prior to previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+33.98
+35.56
+34.77
+34.21
+35.34
+34.62
+23.28
+25.62
+24.06
+Note: 
+–	
+Data specific to locations in India.
+–	
+Data for FY2022 and FY2021 is limited to Mumbai, Pune and Chandigarh locations.
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+21.	 (a)  Names of holding/subsidiary/associate companies/joint ventures
+Sr. 
+No.
+Name of the holding/subsidiary/ 
+associate companies/joint ventures (A)
+Indicate whether 
+holding/
+Subsidiary/ 
+Associate/Joint 
+Venture
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed entity? 
+(Yes/No)
+1
+eClerx LLC (U.S.A)
+Subsidiary
+100
+Yes
+2
+eClerx Private Limited (Singapore)
+Subsidiary
+100
+Yes
+3
+eClerx Investments (UK) Limited 
+Subsidiary
+100
+Yes
+4
+Eclipse Global Holdings LLC (USA)
+Subsidiary
+100
+No
+5
+CLX Europe Media Solution GmbH 
+(Germany)
+Subsidiary
+100
+No
+6
+CLX Europe S.P.A (Italy)
+Subsidiary
+100
+No
+7
+Eclipse Global Holdings LLC (USA)
+Subsidiary
+100
+No
+8
+eClerx Canada Limited 
+Subsidiary
+100
+No
+9
+eClerx B.V. (Netherlands) 
+Subsidiary
+100
+No
+10
+ASEC Group LLC (USA)
+Subsidiary
+100
+No
+11
+CLX Thai Co. Limited (Thailand)
+Associate
+49
+No
+12
+CLX Europe Media Solution Limited (UK) 
+Subsidiary
+100
+No
+13
+AGR Operations (Manila) Inc 
+Subsidiary
+99.99
+Yes
+14
+eClerx PTY Limited (Australia)
+Subsidiary
+100
+No
+15
+Personiv Contact Centers India Private 
+Limited
+Subsidiary
+99.85
+Yes
+16
+AG Resources (India) Private Limited
+Subsidiary
+99.98
+No
+17
+eClerx Limited (U.K)
+Subsidiary
+100
+Yes
+VI.	 CSR Details
+22.	 (i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+	
+(ii)	 Turnover (in Rs.):  18,881.61 million INR (Standalone)  
+	
+(iii)	 Net worth (in Rs.):  11,588.42 million INR (Standalone)
+VII.	 Transparency and Disclosures Compliances
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct
+56
+ECLERX SERVICES LIMITED  |  BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+ANNUAL REPORT 2022-23
+Stakeholder group 
+from whom 
+complaint is received
+Grievance 
+Redressed
+Mechanism in 
+Place (Yes/No) 
+(If Yes, then 
+provide 
+web-link for 
+grievance 
+redress policy)
+FY2023
+Current FY
+FY2022
+Previous FY
+Number of 
+complaint 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Number of 
+complaint 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Communities
+Yes
+Nil
+Nil
+-
+Nil
+Nil
+-
+Investors (other 
+than shareholders)
+Yes
+Nil
+Nil
+-
+Nil
+Nil
+-
+Shareholders
+Yes
+132
+0
+-
+33
+0
+-
+Employees and 
+workers
+Yes
+Nil
+Nil
+-
+Nil
+Nil
+-
+Customers
+Yes
+Nil
+Nil
+-
+Nil
+Nil
+-
+Value chain partners
+Yes
+Nil
+Nil
+-
+Nil
+Nil
+-
+24.	 Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental 
+and social matters that present a risk or an opportunity to your business, rationale for identifying the same, 
+approach to adapt or mitigate the risk along-with its financial implications, as per the following format
+Sr. No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying 
+the risk/opportunity
+In case of risk, 
+approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+ 1
+Corporate 
+Governance – Board 
+oversight, Conflict of 
+Interest, Ethics, Risk 
+and 
+Compliance, 
+Succession Planning
+ Risk
+Strong corporate governance 
+is core to achieving the 
+organization’s mission and 
+any risks can undermine 
+stakeholder trust, damage 
+reputation 
+and 
+disrupt 
+business.
+The Risk Management 
+Document assesses 
+and 
+enlists 
+the 
+mitigation approach. 
+This 
+document 
+is 
+available on intranet.
+Negative
+ 2
+Talent management: 
+The company’s ability 
+to attract, develop, 
+motivate, and retain 
+talent is critical to 
+business success.
+Risk 
+Risk of failure in any of 
+the 
+elements 
+of 
+talent 
+management can impact 
+the Company’s ability to 
+fulfil demand and grow its 
+revenues 
+The Risk Management 
+Document assesses 
+and 
+enlists 
+the 
+mitigation approach. 
+This 
+document 
+is 
+available on intranet.
+Negative
+ 3
+Environmental 
+Footprint: 
+Climate 
+change
+Risk
+Extreme weather events due 
+to climate change pose a 
+physical risk of disruption to 
+the company’s operations, 
+and the safety and wellbeing 
+of its employees. Additionally, 
+economic disruptions due to 
+transition risks can impact 
+the company’s growth and 
+profitability.
+Mitigation approach 
+is identified in BCP 
+document that is 
+available on intranet
+Negative
+ Opportunity
+As clients respond to climate 
+change actions, the company 
+is seeing opportunities to 
+provide 
+technology-led 
+solutions 
+to 
+help 
+them 
+achieve their sustainability 
+goals.
+https://eclerx.com/
+reports/eClerx-
+Sustainabillity-
+Report-FY22.pdf
+Page 17-26
+Positive
+57
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT  |  ECLERX SERVICES LIMITED 
+ANNUAL REPORT 2022-23
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards 
+adopting the NGRBC Principles and Core Elements.
+Sr. No.
+Disclosure questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and Management Processes
+B.1.a
+Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs. 
+(Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+B.1.b
+Has the policy been approved by the Board? (Yes/
+No)
+Y
+NA
+Y
+Y
+Y
+NA
+Y
+Y
+NA
+B.1.c
+Web Link of the Policies, if available
+https://eclerx.com/reports/eClerx-ESG-Policy-Framework_V5.pdf
+B.2
+Whether the entity has translated the policy into 
+procedures. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+B.3
+Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+B.4
+Name of the national and international codes/
+certifications/labels/ standards (e.g. Forest Stewardship 
+Council, Fairtrade, Rainforest Alliance, Trustee) standards 
+(e.g. SA 8000, OHSAS, ISO, BIS) adopted by your entity 
+and mapped to each principle.
+NA
+Y#
+NA 
+NA 
+NA 
+NA 
+NA 
+NA 
+Y*
+B.5
+Specific commitments, goals and targets set by 
+the entity with defined timelines, if any.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+B.6
+Performance of the entity against the specific 
+commitments, goals and targets along-with 
+reasons in case the same are not met.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA – Not Applicable
+Note: 
+#	
+eClerx is conforming to the requirements of ISO/IEC 27001:2013, Information Security Management System
+*	
+eClerx is conforming to the requirements of ISO 22301:2019, Business Continuity Management System
+Governance, leadership and oversight
+7.	
+Statement by director responsible for the 
+business responsibility report, highlighting ESG 
+related challenges, targets and achievements 
+(listed 
+entity 
+has 
+flexibility 
+regarding 
+the 
+placement of this disclosure)
+	
+Prudent use of natural resources leading to a 
+sustainable future for our stakeholders
+	
+eClerx is promoting the use of renewable power 
+across all its offices, and is gradually increasing 
+the share of renewal power Year on Year to its 
+total electricity consumption. eClerx is doing so, 
+by purchasing the renewable power from Power 
+Supply 
+Authorities. 
+During 
+FY2023, 
+renewal 
+power share increased to 32% of total electricity 
+consumption of the Company as against 18% 
+recorded in FY2022. On water front, 100% of non-
+drinking waste water is recycled. 
+	
+Providing 
+a 
+safe, 
+engaging 
+and 
+enriching 
+environment promoting diversity and inclusion 
+to our people
+	
+eClerx is committed to the principles of equal 
+employment opportunity for all. Through the 
+CEP 
+(Continuing 
+Education 
+Policy), 
+eClerx 
+invests in intellectual capital, helping employees 
+gain 
+knowledge 
+in 
+areas 
+that 
+make 
+them 
+more productive and sculpt them into better 
+professionals. eClerx has been actively participating 
+in Apprentice scheme and has hired 1339 young 
+graduates in FY2023, under the scheme. eClerx 
+hires full-time employees as a default practice 
+to 
+ensure 
+that 
+social 
+security 
+benefits 
+are 
+available substantially to all of its workforces. The 
+organization has continued with hybrid home and 
+office work which allowed organization to hire 
+many more people, who would not take up jobs 
+due to their inability to commute to office & also 
+help them manage better work life balance. 
+58
+ECLERX SERVICES LIMITED  |  BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+ANNUAL REPORT 2022-23
+	
+Robust governance practices, transparency, and 
+maintaining data privacy    
+	
+We at eClerx, have always strived to adopt the 
+best governance practices, and our management 
+upholds 
+principles 
+of 
+Accountability, 
+Fairness, 
+Transparency 
+and 
+Responsibility. 
+Corporate 
+Governance at eClerx reflects the Company’s 
+compliance philosophy, strategies, relationship with 
+stakeholders, commitment to values and ethical 
+business behavior. eClerx is ISO27001 Information 
+Security Management Certified organization. eClerx 
+is also compliant with all statutory requirements of 
+relevance to the NGRBC’s (National Guidelines on 
+Responsible Business Conduct) principles. eClerx 
+will be publishing first BRSR report for FY2023, in line 
+with SEBI requirements. 
+8.	
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy (ies)
+Name:  Srinivasan Nadadhur
+Designation: Principal
+Telephone number: 91 (022) 6614 8301
+E-mail id: esg@eclerx.com
+9.	
+Does the entity have a specified Committee of the 
+Board/Director responsible for decision making 
+on sustainability related issues? (Yes/No). If yes, 
+provide details
+No
+10.	 Details of Review of NGRBCs by the Company
+Subject for Review
+Indicate whether review was 
+undertaken by Director / 
+Committee of the Board/ Any 
+other Committee
+Frequency: Annually (A) / Half 
+yearly (H) / Quarterly (Q) / Any 
+other – please specify
+P1
+P2 P3 P4 P5 P6 P7 P8 P9 P1
+P2 P3 P4 P5 P6 P7 P8 P9
+Performance against above policies and 
+follow up action
+ESG Committee
+A
+A
+A
+A
+A
+A
+A
+A
+A
+Compliance with statutory requirements 
+of relevance to the principles, and, 
+rectification of any non-compliances
+Yes, Organization is compliant 
+with all statutory requirements of 
+relevance to the principles. This 
+is being reviewed by the internal 
+ESG Committee.
+Compliance status is updated 
+on monthly basis by respective 
+departments in the compliance 
+tool
+12.	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: 
+Not Applicable
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core 
+Elements with key processes and decisions. The information sought is categorized as “Essential” and “Leadership”. 
+While the essential indicators are expected to be disclosed by every entity that is mandated to file this report, the 
+leadership indicators may be voluntarily disclosed by entities which aspire to progress to a higher level in their quest 
+to be socially, environmentally and ethically responsible.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+ N
+N
+N 
+N 
+N 
+N 
+N 
+N 
+N 
+11.	
+Has the entity carried out independent assessment/evaluation of the working of its policies by an external 
+agency? (Yes/No). If yes, provide name of the agency.
+59
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT  |  ECLERX SERVICES LIMITED 
+ANNUAL REPORT 2022-23
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable
+Essential Indicators 
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the 
+financial year
+Segment
+Total number of training 
+and awareness 
+programmes held
+Topics/principles 
+covered under the 
+training and its impact
+%age of persons in 
+respective category 
+covered by the awareness 
+programmes
+Board of Directors
+-
+All
+100%
+Key Managerial Personnel
+-
+All
+100%
+Employees other than BoD 
+and KMPs
+-
+All
+100%
+	
+Notes
+	
+—	 All the principles laid down in BRSR are covered by eClerx Code of Conduct, which is adhered to by all employees.
+2.	
+Details of fines/penalties/punishment/award/compounding fees/settlement amount paid in proceedings 
+(by the entity or by directors/KMPs) with regulators/ law enforcement agencies/judicial institutions, in the 
+financial year, in the following format (Note: the entity shall make disclosures on the basis of materiality as 
+specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as 
+disclosed on the entity’s website)
+NGRBC Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount 
+(In INR)
+Brief of the Case
+Has an 
+appeal 
+been 
+preferred? 
+(Yes/No)
+Monetary
+Penalty/fine
+P4
+Commissioner of 
+Sales Tax
+500
+A penalty of INR 
+500/- has been paid 
+for Professional Tax 
+Notice for FY 2020-21
+No
+Settlement
+NIL
+NIL
+NIL
+NA
+NA
+Compounding fee
+NIL
+NIL
+NIL
+NA
+NA
+ 
+Non-Monetary
+Imprisonment
+NIL
+NIL
+NIL
+NA
+NA
+Punishment
+NIL
+NIL
+NIL
+NA
+NA
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where 
+monetary or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/enforcement agencies/ judicial institutions
+NA
+NA
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if 
+available, provide a web-link to the policy
+	
+Yes. eClerx Services Limited is committed to the prevention, deterrence and detection of fraud, bribery and all 
+other corrupt business practices. It is eClerx’s policy to conduct all of its business activities with honesty, integrity 
+and the highest possible ethical standards and vigorously enforce its business practice, wherever it operates 
+throughout the world, of not engaging in bribery or corruption. The policy is available on the company’s website 
+at: https://eclerx.com/wp-content/uploads/2019/09/Anti-Bribery-Anti-Corruption-Policy.pdf
+5. 	 Number of Directors/KMPs/employees against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/corruption
+FY2022-23
+FY2021-22
+Directors
+NIL
+NIL
+KMPs
+NIL
+NIL
+Employees
+NIL
+NIL
+60
+ECLERX SERVICES LIMITED  |  BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+ANNUAL REPORT 2022-23
+6.	
+Details of complaints with regard to conflict of interest:
+ 
+FY2022-23
+FY2021-22
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+NIL
+NIL
+NIL
+NIL
+Number of complaints received in relation to 
+issues of Conflict of Interest of the KMPs
+NIL
+NIL
+NIL
+NIL
+7. 	
+Provide details of any corrective action taken or underway on issues related to fines/penalties/action 
+taken by regulators/law enforcement agencies/judicial institutions, on cases of corruption and conflicts 
+of interest.
+	
+Not Applicable
+Leadership Indicators
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year
+Total number of awareness 
+programmes held
+Topics/principles covered under 
+the training and its impact
+% age of value chain partners covered 
+(by value of business done with such 
+partners) under awareness programmes
+NIL
+NA
+NIL
+2.	
+Does the entity have processes in place to avoid/manage conflict of interests involving members of the 
+Board? (Yes/No) If Yes, provide details of the same.
+	
+Yes. Code of conduct lays down the said process and can be accessed on https://eclerx.com/docs/Code-of-
+Conduct.pdf, Page 14.
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure 
+(capex) investments in specific technologies to 
+improve the environmental and social impacts 
+of product and processes to total R&D and capex 
+investments made by the entity, respectively.
+	
+Not Applicable. We operate in the IT/ITES space, and 
+our products & processes by nature have limited to 
+no environmental or social impact
+2.	
+a.	
+Does the entity have procedures in place for 	
+	
+sustainable sourcing? (Yes/No)
+	
+No
+b.	
+If yes, what percentage of inputs were 
+sourced sustainably?
+	
+Not Applicable
+3.	
+Describe the processes in place to safely 
+reclaim your products for reusing, recycling 
+and disposing at the end of life, for (a) Plastics 
+(including packaging) (b) E-waste (c) Hazardous 
+waste and (d) other waste.
+	
+eClerx is an IT enabled Services company and does 
+not manufacture any products hence this question 
+is not applicable to the company’s operations. 
+General waste management policy is covered 
+under ESG policy available at eClerx-ESG-Policy-
+Framework_V5.pdf page 3-5.
+4.	
+Whether Extended Producer Responsibility (EPR) 
+is applicable to the entity’s activities (Yes/No). If 
+yes, whether the waste collection plan is in line 
+with the Extended Producer Responsibility (EPR) 
+plan submitted to Pollution Control Boards? If not, 
+provide steps taken to address the same
+	
+No. EPR is not applicable to eClerx.
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective/
+Assessments (LCA) for any of its products (for 
+manufacturing industry) or for its services (for 
+service industry)? If yes, provide details in the 
+following format?
+	
+Not Applicable
+2.	
+If there are any significant social or environmental 
+concerns and/or risks arising from production or 
+disposal of your products/services, as identified 
+in the Life Cycle Perspective/Assessments (LCA) 
+61
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT  |  ECLERX SERVICES LIMITED 
+ANNUAL REPORT 2022-23
+or through any other means, briefly describe the 
+same along-with action taken to mitigate the 
+same
+Not Applicable
+3.	
+Percentage of recycled or reused input material 
+to total material (by value) used in production (for 
+manufacturing industry) or providing services 
+(for service industry)
+Not Applicable
+4.	
+Of the products and packaging reclaimed at end 
+of life of products, amount (in metric tonnes) 
+reused, recycled, and safely disposed, as per the 
+following format
+Not Applicable
+5.	
+Reclaimed products and their packaging materials 
+(as percentage of products sold) for each product 
+category
+Not Applicable
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their 
+value chains
+Essential Indicators
+1.	
+Details of measures for the well-being of employees
+Category
+Total 
+(A)
+% of employee covered by
+Health Insurance
+Accident Insurance Maternity Benefits
+Paternity Benefits
+Day care facilities
+Number 
+(B)
+%
+(B/A)
+Number 
+(B)
+%
+(B/A)
+Number 
+(B)
+%
+(B/A)
+Number 
+(B)
+%
+(B/A)
+Number 
+(B)
+%
+(B/A)
+Permanent employees
+Male
+8,538
+8,538
+100%
+8,538
+100%
+0
+0%
+8,538
+100%
+0
+0%
+Female 
+4,721
+4,721
+100%
+4,721
+100%
+4,721
+100%
+0
+0%
+0
+0%
+Total
+13,259
+13,259
+100%
+13,259
+100%
+4,721
+35.60%
+8,538
+64.40%
+0
+0%
+ 
+Other than permanent employees
+Male
+326
+326
+100%
+326
+100%
+0
+0%
+326
+100%
+0
+0%
+Female 
+157
+157
+100%
+157
+100%
+157
+100%
+0
+0%
+0
+0%
+Total
+483
+483
+100%
+483
+100%
+157
+32.50%
+326
+67.50%
+0
+0%
+Note: 
+—	
+Data specific to locations in India
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year
+Benefits
+FY 2022-23
+FY 2021-22
+No. of employees 
+covered as a % of 
+total employees
+Deducted and 
+deposited with the 
+authority (Y/N/N.A.)
+No. of employees 
+covered as a % of 
+total employees
+Deducted and 
+deposited with the 
+authority (Y/N/N.A.)
+PF
+47%
+Y
+46%
+Y
+Gratuity
+100%
+Y
+100%
+Y
+ESI
+44.45%
+Y
+45.74%
+Y
+P Tax
+60%
+Y
+66.67%
+Y
+LWF
+86.04%
+Y
+76.73%
+Y
+Note: 
+—	 Data specific to locations in India
+3.	
+Accessibility of workplaces: Are the premises/offices of the entity accessible to differently abled 
+employees and workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If 
+not, whether any steps are being taken by the entity in this regard
+	
+Yes. Accessibility ramps, wheelchairs are available at the entrance. Flap barriers are installed in addition to 
+turnstile for easy access. Every floor is equipped with toilet for people with disabilities.
+62
+ECLERX SERVICES LIMITED  |  BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+ANNUAL REPORT 2022-23
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? 
+If so, provide a web-link to the policy
+	
+Yes
+	
+Web link: https://eclerx.com/reports/eClerx-ESG-Policy-Framework_V5.pdf
+5.	
+Return to work and Retention rates of permanent employees that took parental leave
+Gender
+Permanent Employees
+Return to work rate
+Retention rate
+Male
+76.25
+64.25
+Female
+61.25
+48.50
+Total
+68.75
+56.38
+Note: 
+—	
+Data specific to Mumbai, Pune, Chandigarh and Coimbatore locations
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees 
+and worker? If yes, give details of the mechanism in brief
+ 
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent Employees
+Yes, we have a Grievance handling policy. The process of Grievance redressal is 
+in 4 stages starting with raising the grievance (either by employee or manager) 
+followed by investigation of grievance. After investigation comes closure of 
+grievance and implementation of recommendations. Last stage is appeal 
+against the decision where If an employee (the complainant or defendant) is 
+dissatisfied with the final decision he / she can appeal the same to the Vertical 
+Head and HR Head of eClerx. If at any point during the investigation it is 
+found and established that the raised grievance was fabricated and had been 
+raised with the intent of malice, strict punitive action will be taken against the 
+employee as approved jointly by the Head of HR and Vertical Head.
+Other than Permanent Employees
+Yes. Same as above
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity
+Category
+FY 2022-23
+FY 2021-22
+Total 
+employees 
+in respective 
+category 
+(A)
+No. of employees 
+in respective 
+category, who are 
+part of association(s)
+or Union (B)
+% 
+(B/A)
+Total 
+employees 
+in respective 
+category 
+(A)
+No. of employees 
+in respective 
+category, who are 
+part of association(s) 
+or Union (B)
+% 
+(B/A)
+Total Permanent employees
+13,259
+0
+0%
+10,636
+0
+0%
+Male
+8,538
+0
+0%
+6,678
+0
+0%
+Female
+4,721
+0
+0%
+3,958
+0
+0%
+Note: 
+­—	
+Data specific to locations in India
+8.	
+Details of training given to employees
+Category
+FY 2022-23
+Total (A)
+On health and safety measures
+On Skill upgradation
+No. (B)
+%(B/A)
+No. (C)
+%(C/A)
+Employees
+13,259
+Kindly refer foot note
+13,259
+100%
+Male
+8,538
+8,538
+100%
+Female
+4,721
+4,721
+100%
+Note: 
+—	
+All new joiners are needed to undergo eClerx Code of Conduct which covers Health and Safety measures
+—	
+Data specific to locations in India
+63
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT  |  ECLERX SERVICES LIMITED 
+ANNUAL REPORT 2022-23
+9.	
+Details of performance and career development reviews of employees
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. (B)
+%(B/A)
+Total (C)
+No. (D)
+%(D/C)
+Male
+8,538
+8,538
+ 100%
+6,678
+6,678
+ 100%
+Female
+4,721
+4,721
+ 100%
+3,958
+3,958
+ 100%
+Total
+13,259
+13,259
+ 100%
+10,636
+10,636
+ 100%
+Note: 
+—	
+Data specific to locations in India
+10.	 Health and safety management system
+a.	
+Whether an occupational health and safety 
+management system has been implemented 
+by the entity? (Yes/No). If yes, the coverage 
+such system?
+	
+Yes. We have implemented below checks 
+those are carried out at regular intervals to 
+mitigate the risk: Fire Alarm Checks, Personnel 
+Addressal System Checks, Smoke Detector 
+Tests, Fire Extinguisher Checks, Sprinkler 
+checks, facility supervision to identify any 
+damages/repairs which can cause accidents or 
+injury, obstacle free fire exits, checks on health 
+of all electrical equipment
+b.	
+What are the processes used to identify 
+work-related hazards and assess risks on a 
+routine and non-routine basis by the entity?
+	
+Hazard and risk identification is carried out by 
+the process owners in consultation with the 
+safety experts. Process owners are Managers 
+leading a team or process who are also 
+responsible to provide employees with safe 
+working environment. They are responsible to 
+ensure adequate controls are identified and 
+implemented to control the identified OHS 
+risks such as Fire, electric shock, slips and trips. 
+Mitigation plan and controls are provided to 
+eliminate the identified hazards and risks.
+ c.	 Whether you have processes for employees 
+to report the work related hazards and to 
+remove themselves from such risks. (Y/N)
+	
+Yes. Periodic meetings are conducted with 
+various teams to receive their feedback on 
+identified work related hazards, if any. Also, 
+the workers can raise their concern/request 
+through an online portal in the system and email 
+communication sent across at organization 
+regarding the incident report and contact and 
+escalation details of respective POC's.
+d.	
+Do the employees/worker of the entity have 
+access to non-occupational medical and 
+healthcare services?
+	
+Yes. The operation centres have on-call doctor 
+and paramedic services, including availability 
+of 24*7 on-call emergency ambulance services. 
+Employees can avail these services free of cost.
+11.	
+Details of safety related incidents, in the following format
+Safety Incident/Number
+Category
+FY 2022-23 FY 2021-22
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person 
+hours worked)
+Employees
+0
+0 
+Total recordable work-related injuries
+0
+ 0
+No. of fatalities
+0
+ 0
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+0
+ 0
+12.	 Describe the measures taken by the entity to ensure a safe and healthy work place
+	
+Below checks are carried out at regular intervals to mitigate the risk: Fire Alarm Checks, Personnel Addressal 
+System Checks, Smoke Detector Tests, Fire Extinguisher Checks, Sprinkler checks, facility supervision to identify 
+any damages/repairs which can cause accidents or injury, obstacle free fire exits, checks on health of all electrical 
+equipment, food and water lab tests conducted, cafeteria food audits conducted at regular interval.
+13.	 Number of Complaints on the following made by employees
+ 
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Working Conditions
+0
+0
+NA
+0
+0
+NA
+Health & Safety
+0
+0
+NA
+0
+0
+NA
+64
+ECLERX SERVICES LIMITED  |  BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+ANNUAL REPORT 2022-23
+14.	 Assessments for the year
+ 
+% of your plants and offices that were assessed (by entity or statutory authorities 
+or third parties)
+Health and safety practices
+NIL
+Working Conditions
+NIL
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks/concerns arising from assessments of health & safety practices and working conditions
+	
+Not Applicable as no offices were assessed
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) 
+Employees (Y/N) (B) Workers (Y/N)?
+	
+Yes.
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and 
+deposited by the value chain partners
+	
+Assessment of value chain partners is not done.
+3.	
+Provide the number of employees/workers having suffered high consequence work-related injury/ill-
+health/fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and 
+placed in suitable employment or whose family members have been placed in suitable employment
+ 
+Total number of affected employees
+No. of employees that are rehabilitated and placed 
+in suitable employment or whose family members 
+have been placed in suitable employment 
+FY 2022-23
+FY 2021-22
+FY 2022-23
+FY 2021-22
+Employees
+0
+0 
+0
+0 
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment? (Yes/No)
+	
+No
+5.	
+Details on assessment of value chain partners
+ 
+% of value chain partners (by value of business 
+done with such partners) that were assessed
+Health and safety practices
+NIL 
+Working Conditions
+NIL
+6.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising 
+from assessments of health and safety practices and working conditions of value chain partners.
+	
+Not applicable
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity
+	
+Yes. The Company engages with stakeholders – internal and external - continuously to develop a materiality 
+matrix. This matrix is updated periodically to improve long-term policy formulations and aid decision making. The 
+constant engagement allows the Company to keep track of its sustainable strategy and undertake necessary 
+course corrections wherever required.
+65
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT  |  ECLERX SERVICES LIMITED 
+ANNUAL REPORT 2022-23
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group
+Stakeholder
+Interfacing Group 
+Engagement Types Byfrequency
+Material Topics
+Customers
+Sales/Presales 
+Marketing 
+Client Partner 
+Delivery Teams 
+Senior Management
+As needed: Project-related calls and 
+meetings; project management reviews; 
+relationship meetings and reviews; 
+executive meetings and briefings; 
+customer visits; responses to RFIs/RFPs; 
+sponsored events; mailers; newsletters; 
+brochures
+Continuous: eClerx website; social media 
+(LinkedIn, Twitter, Facebook, Instagram, 
+YouTube)
+Half-yearly: Customer satisfaction surveys
+Annual: Customer summits, Innovation 
+days, Executive customer surveys, 
+Sponsored Community events
+Investments and capabilities 
+in digital technologies; quality 
+of work; data privacy and 
+security; ethical behaviors; 
+customer growth and 
+transformation opportunities, 
+fair business practices, 
+community development
+Employees
+HR
+Senior Management
+As needed: Town halls; roadshows;
+project or operations reviews; video
+conferences; audio conference calls;
+PEEP; PROPEL (employee forum);
+one-on-one counselling
+Safe and comfortable 
+workplace; diversity; engaging 
+assignments;
+learning opportunities; career 
+development; compensation 
+structure
+Shareholders
+1.	Investor Relations 
+2.	Company Secretary 
+3.	Senior 
+Management
+1.	As needed: Press releases and Investor 
+conferences; in-person meetings; non-
+deal roadshows; conference calls 
+2.	Quarterly: Financial statements in Ind 
+AS; earnings call; exchange notifications
+3.	Continuous: Investors page on the 
+eClerx website 
+4.	Annual: Annual General Meeting; Annual 
+Report
+Financial sustainability; 
+corporate governance: 
+Independence of the 
+Board, transparency in 
+communication; ethical 
+behavior and compliance, 
+social and environmental 
+sustainability, growth in new 
+sales; business agility; growth 
+in cash generation, and giving 
+it back to shareholders
+Academia
+1.	Resource 
+Management 
+Group 
+2.	Senior 
+Management
+1.	As needed: Pre-placement talks 
+2.	Continuous: eClerx website, guest 
+lectures, continuous education program
+Job creation; curriculum 
+enhancement; internship 
+opportunities
+Recruiting 
+Firms; 
+Vendors
+1.	Resource 
+Management 
+Group 
+2.	Business Units 
+3.	Procurement
+1.	One-time: RFQs / RFPs; onboarding 
+process
+2.	As needed: Transactional meetings; 
+periodic reviews
+1.	Talent acquisition; 
+2.	ethical behavior; fair 
+3.	business practices; 
+4.	creditworthiness; business 
+continuity
+Partners & 
+Collaborators
+1. Client Engagement 
+Teams
+1.	As needed: Meetings/calls; visits; 
+attending partner events, cocreation 
+2.	Monthly: Conference calls 
+3.	Quarterly: Business reviews
+Value-addition to the 
+customer; ethical behavior; 
+fair business practices; 
+governance; Investments 
+and capabilities in intelligent 
+automation; creditworthiness
+66
+ECLERX SERVICES LIMITED  |  BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+ANNUAL REPORT 2022-23
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, 
+and social topics or if consultation is delegated, how is feedback from such consultations provided to the 
+Board
+	
+The Company engages with stakeholders – internal and external – continuously through concerned process 
+owners. The feedback from these consultations is shared with the Board on regular intervals.
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, 
+and social topics (Yes/No). If so, provide details of instances as to how the inputs received from 
+stakeholders on these topics were incorporated into policies and activities of the entity
+	
+Yes.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups
+	
+Organisation has robust process in place to engage with stakeholders which is developed, managed and 
+monitored by Human Resources. No concerns were raised during FY2022-23.
+PRINCIPLE 5: Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. of employees 
+covered (B)
+% (B / A)
+Total (C)
+No. of employees 
+covered (D)
+% (D / C)
+Employees
+Permanent
+13,259
+11,871
+86.38%
+10,636
+6,666
+62.67%
+Other than 
+permanent
+483
+483
+100%
+696
+0
+0%
+Total Employees
+13,742
+12,354
+89.89%
+11,332
+6,666
+58.82%
+Note: 
+	
+—	 Data specific to locations in India
+Stakeholder
+Interfacing Group 
+Engagement Types Byfrequency
+Material Topics
+Industry 
+Bodies
+1.	Finance 
+2.	Senior 
+Management
+1.	As needed: Conferences and seminars; 
+working council meetings; surveys 
+2.	Annual: Conferences; summits
+Financial stability; governance; 
+ethics and compliance; fair 
+business practices
+Governments; 
+NGOs; Local 
+Communities; 
+Society
+1.	Finance Teams 
+2.	CSR Team 
+3.	Senior Management
+1.	As needed: Project meetings; 
+reviews; calls and meetings; surveys; 
+consultative sessions; due diligence; 
+conferences and seminars; press 
+releases 
+2. Continuous: eClerx website
+Financial stability, quality 
+of work; data privacy and 
+security, ethical behavior; 
+fair business practices; 
+good governance; ethics 
+and compliance; social 
+and environmental 
+responsibility; job creation; 
+taxes paid; education 
+and skill development; 
+climate consciousness, 
+energy efficiency; water 
+management; waste and 
+landfill reduction; protecting 
+biodiversity
+67
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT  |  ECLERX SERVICES LIMITED 
+ANNUAL REPORT 2022-23
+2.	
+Details of minimum wages paid to employees in the following format
+Category
+Total (A)
+FY 2022-23
+Total 
+(D)
+FY 2021-22
+Equal to 
+Minimum wage
+More than 
+minimum wage
+Equal to 
+Minimum wage
+More than 
+minimum 
+wage
+No. (B)
+%(B/A)
+No. (C )
+%(C/A)
+No. (E)
+%(E/D)
+No. (F)
+%(F/D)
+Permanent
+13,259
+0
+0%
+13,259
+ 100%
+10,636
+0 
+0% 
+10,636
+100%
+Male
+8,538
+0
+0%
+8,538
+100%
+6,678
+0
+0%
+6,678
+100%
+Female
+4,721
+0
+0%
+4,721
+100%
+3,958
+0
+0%
+3,958
+100%
+Other than permanent
+483
+0
+0%
+483
+100%
+696
+0
+ 0%
+696
+100%
+Male
+326
+0
+0%
+326
+100%
+416
+ 0
+0%
+416
+100%
+Female
+157
+0
+0%
+157
+100%
+280
+ 0
+0%
+280
+100%
+	
+Note: 
+	
+—	 Data specific to locations in India
+3.	
+Details of remuneration/salary/wages, in the following format
+ 
+Male
+Female
+Number
+Median remuneration/ salary/
+wages of respective category
+Number
+Median remuneration/ salary/
+wages of respective category
+Board of Directors (BoD)
+8
+32,00,000
+1
+32,00,000
+Key Managerial Personnel
+3
+-
+0
+-
+Employees than BoD and KMP
+8,538
+3,92,013
+4721
+3,30,000
+4.	
+Do you have a focal point (Individual/Committee) responsible for addressing human rights impacts or 
+issues caused or contributed to by the business? (Yes/No)
+	
+Yes
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues
+	
+Reporting avenues suggestion boxes, telephone number, email and different feedback mechanisms have 
+been provided for eClerx employees, customers, suppliers and other stakeholders to raise concerns or make 
+disclosures when they become aware of any actual or potential violation of the Company Code, policies or law 
+including human rights violation. Representations made in the reporting avenues are reviewed and appropriate 
+action is taken on substantiated violations.
+6.	
+Number of Complaints on the following made by employees and workers
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending 
+resolution 
+at the 
+end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+at the 
+end of year
+Remarks
+Sexual Harassment
+2
+0
+Closed
+2
+0
+Closed
+Discrimination at workplace
+0
+0
+NA
+0
+0
+NA
+Child Labour
+0
+0
+NA
+0
+0
+NA
+Forced Labour/Involuntary 
+Labour
+0
+0
+NA
+0
+0
+NA
+Wages
+0
+0
+NA
+0
+0
+NA
+Other human rights related 
+issues
+0
+0
+NA
+1
+0
+Closed
+68
+ECLERX SERVICES LIMITED  |  BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+ANNUAL REPORT 2022-23
+7.	
+Mechanisms to prevent adverse consequences to 
+the complainant in discrimination and harassment 
+cases
+	
+Concerns on discrimination and harassment are 
+dealt with confidentially. eClerx does not tolerate 
+any form of retaliation against anyone reporting 
+good faith concerns. Anyone involved in targeting 
+such a person raising such complaints will be 
+subject to disciplinary action. No such incidents 
+reported in the FY2022-23.
+8.	
+Do human rights requirements form part of your 
+business agreements and contracts? (Yes/No)
+	
+Yes.
+9.	
+Assessments for the year
+	
+No offices were assessed in FY2023
+10.	 Provide details of any corrective actions taken or 
+underway to address significant risks/concerns 
+arising from the assessments at Question 9 
+above
+	
+Not applicable
+Leadership Indicators
+1.	
+Details of a business process being modified/
+introduced as a result of addressing human 
+rights grievances/complaints
+	
+NIL
+2.	
+Details of the scope and coverage of any Human 
+rights due-diligence conducted
+	
+No such due diligence conducted
+3.	
+Is the premise/office of the entity accessible to 
+differently abled visitors, as per the requirements 
+of the Rights of Persons with Disabilities Act, 2016?
+	
+Yes. All facilities in India are equipped to allow 
+access to differently abled visitors
+4.	
+Details on assessment of value chain partners:
+	
+No value chain partners were assessed in FY 2023
+5.	
+Provide details of any corrective actions taken or 
+underway to address significant risks/concerns 
+arising from the assessments at Question 4 above.
+	
+Not Applicable
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format
+	
+Details of total energy consumption (in Mega Joules) and energy intensity are provided in the table below:
+Parameter
+FY 2022-23
+FY 2021-22 
+From renewable sources
+Total electricity consumption (A)
+1,29,94,826
+55,24,005
+Total fuel consumption (B)
+0
+0
+Energy consumption through other sources (C )
+0
+0
+Total energy consumption from renewable sources (A+B+C)
+1,29,94,826
+55,24,005
+From non-renewable sources
+Total electricity consumption (D)
+2,75,86,662
+2,49,39,489 
+Total fuel consumption (E )
+0
+ 0
+Energy consumption through other sources (F)
+0
+ 0
+Total energy consumed from non-renewable sources (D+E+F)
+2,75,86,662  2,49,39,489
+Total energy consumed from renewable + non-renewable sources
+4,05,81,488
+3,04,63,495
+Energy intensity per rupee of turnover (Total energy consumption/turnover in rupees)
+0.0021
+ 0.00019
+Notes:
+—	
+Electricity consumption figures are for Mumbai, Pune, Chandigarh, Gurugram and Coimbatore locations.
+—	
+Figures mentioned in the Sustainability Report for FY22 are also for Mumbai, Pune, Chandigarh, Gurugram and Coimbatore locations.
+—	
+Standalone turnover of respective year is considered for energy intensity calculation for FY22 and FY23.
+2.	
+Does the entity have any sites/facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set 
+under the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial 
+action taken, if any
+	
+Not Applicable
+69
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT  |  ECLERX SERVICES LIMITED 
+ANNUAL REPORT 2022-23
+3.	
+Provide details of the following disclosures related to water, in the following format
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kiloliters)
+(i)	 Surface water
+0
+0
+(ii)	Groundwater
+0
+0
+(iii)	Third party water
+5,220
+863.95
+(iv)	Seawater / desalinated water
+0
+0
+(v)	Others – Rainwater utilized
+0
+0
+Total volume of water withdrawal (in kiloliters) (i + ii + iii + iv + v)
+5,220
+863.95
+Total volume of water consumption (in kiloliters)
+5,220
+863.95
+Water intensity per rupee of turnover (Water consumed / turnover)
+0.00000027
+0.0000000055
+Notes:
+—	
+FY 2021-22 water withdrawal figures are for Mumbai, Pune and Chandigarh locations
+—	
+FY 2022-23 water withdrawal figures are for Mumbai, Pune, Chandigarh, Gurugram and Coimbatore locations
+—	
+Standalone turnover of respective year is considered for water intensity calculation for FY22 and FY23.
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage 
+and implementation
+	
+Yes. All the facilities rented by eClerx optimises water consumption by conservation, 100% sewage treatment 
+and reuse. The treated water is used for horticulture and domestic use (toilet flushing) purpose. 
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format
+Unit
+FY 2022-23
+FY 2021-22
+NOx 
+NA
+NA
+NA
+SOx 
+NA
+NA
+NA
+Particulate matter (PM)
+NA
+NA
+NA
+Persistent  organic pollutants (POP) 
+NA
+NA
+NA
+Volatile organic compounds (VOC) 
+NA
+NA
+NA
+Hazardous air pollutants (HAP)
+NA
+NA
+NA
+Others – please specify
+NA
+NA
+NA
+NA – Not Applicable
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format
+Parameter
+FY 2022-23
+FY 2021-22
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available
+0
+0
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+4,674
+6,939
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+0.00000024
+0.00000044 
+Notes:
+—	
+Scope 1 and 2 figures are for Mumbai, Pune, Chandigarh, Gurugram and Coimbatore locations
+—	
+Scope 1 and 2 figures mentioned in the Sustainability Report for FY22 are also for Mumbai, Pune, Chandigarh, Gurugram 
+and Coimbatore locations
+—	
+The GHG calculation tool is changed to UNFCCC v2.6, FY2022-23 onwards
+—	
+Standalone turnover of respective year is considered for total Scope 1 and Scope 2 emissions per rupee of turnover 
+calculation for FY2021-22 and FY2022-23.
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+—	
+Energy saving (reduction in CO2 emission) achieved by Selection of Energy Efficient Equipment’s and 
+Implementation of advance energy efficient Technology like Modular UPS, LI-Ion batteries etc.
+—	
+Year on Year eClerx is increasing its Renewable power share
+—	
+In FY21, eClerx offices Renewable power usage was 4%, in FY22 it was 18 % and in FY23 increased to 30%
+70
+ECLERX SERVICES LIMITED  |  BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+ANNUAL REPORT 2022-23
+8.	
+Provide details related to waste management by the entity, in the following format
+Parameter
+FY 2022-23
+FY 2021-22
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+0
+0.798
+E-waste (B)
+2.45
+9.86
+Bio-medical waste (C )
+0
+0
+Construction and demolition waste (D)
+0
+0
+Battery waste (E )
+5.85
+1.75
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any. (G)
+0
+0
+Other Non-hazardous waste generated (H). Please specify, if any. 
+(Break-up by composition i.e. by materials relevant to the sector)
+0.46
+0.0019
+Total (A+B+C+D+E+F+G+H)
+8.76
+12.42
+For each category of waste generated, total waste recovered through 
+recycling, re using or other recovery operations (in metric tonnes)
+Category of waste
+(i) Recycled
+Battery
+5.85
+1.75
+E-waste
+2.45
+9.86
+Hazardous waste
+0
+0
+Non-Hazardous waste
+0
+Plastic Waste
+0
+0.399
+Construction & Demolition waste
+0
+0
+(ii) Re-used
+0
+0
+(iii) Other recovery operations
+0
+0
+Total
+8.30
+12.02
+For each category of waste generated, total waste disposed by nature of 
+disposal method (in metric tonnes)
+Category of waste
+(i) Incineration
+0
+0
+(ii) Landfilling
+0
+0.40
+Plastic
+0
+0.399
+Non-hazardous waste
+0.46
+0.002
+(iii) Other disposal operations
+0
+0
+Total
+0.46
+0.40
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy 
+adopted by your company to reduce usage of hazardous and toxic chemicals in your products and 
+processes and the practices adopted to manage such wastes
+	
+The strategy adopted by eClerx is available on https://eclerx.com/reports/eClerx-ESG-Policy-Framework_V5.pdf, 
+Page 23.
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) 
+where environmental approvals/clearances are required, please specify details in the following format
+	
+Not Applicable
+11.	
+Details of environmental impact assessments of projects undertaken by the entity based on applicable 
+laws, in the current financial year
+	
+No EIA projects were undertaken in FY2023 based on applicable laws
+71
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT  |  ECLERX SERVICES LIMITED 
+ANNUAL REPORT 2022-23
+12.	 Is the entity compliant with the applicable environmental law/regulations/guidelines in India; such as the 
+Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment 
+protection act and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the 
+following format
+	
+Yes, eClerx has complied with applicable environmental law/regulations/guidelines applicable in India. No fine/
+penalty/action was initiated against the entity under any of the applicable environmental laws/regulation/guidelines.
+Leadership Indicators
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable 
+sources, in the following format
+	
+Details of total energy consumption (in Mega Joules) and energy intensity are provided in the table below:
+Parameter
+FY 2022-23
+FY 2021-22 
+From renewable sources
+Total electricity consumption (A)
+1,29,94,826
+55,24,005.6
+Total fuel consumption (B)
+0
+0
+Energy consumption through other sources (C )
+0
+0
+Total energy consumption from renewable sources (A+B+C)
+1,29,94,826
+55,24,005.6
+From non-renewable sources
+Total electricity consumption (D)
+2,75,86,662
+2,49,39,489.6 
+Total fuel consumption (E )
+0
+ 0
+Energy consumption through other sources (F)
+0
+ 0
+Total energy consumed from non-renewable sources (D+E+F)
+2,75,86,662
+ 2,49,39,489.6
+Total energy consumed from renewable + non-renewable sources
+4,05,81,488
+3,04,63,495.2
+2.	
+Provide the following details related to water discharged
+Parameter
+FY 2022-23
+FY 2021-22
+Water discharge by source (in kiloliters)
+(i) To Surface water
+ 
+ 
+No treatment
+0
+0
+With treatment
+0
+0
+(ii) To Groundwater
+ 
+No treatment
+0
+0
+With treatment
+0
+0
+(iii) To seawater
+ 
+No treatment
+0
+0
+With treatment
+0
+0
+(iv) Sent to third parties
+ 
+No treatment
+0
+0
+With treatment
+0
+0
+(v) Other
+ 
+No treatment
+0
+0
+With treatment
+0
+0
+Total water discharged (in kiloliters)
+0
+0
+Notes:
+—	
+eClerx have implemented mechanism to ensure zero liquid discharge.
+—	
+All the facilities rented by eClerx optimises water consumption by conservation, 100% sewage treatment 
+and reuse. The treated water is used for horticulture and domestic use (toilet flushing) purpose.
+3.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres)
+None of our offices are located in areas of water stress 
+72
+ECLERX SERVICES LIMITED  |  BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+ANNUAL REPORT 2022-23
+4.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format
+Parameter
+FY 2022-23
+FY 2021-22
+Total Scope 3 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+2301.7
+1808.60
+Total Scope 3 emissions per rupee of turnover
+0.00000012
+0.00000009 
+Notes:
+—	
+Scope 3 figures are for Mumbai, Pune, Chandigarh, Gurugram and Coimbatore locations
+—	
+Scope 3 figures mentioned in the Sustainability Report for FY22 are also for Mumbai, Pune, Chandigarh, Gurugram and 
+Coimbatore locations
+—	
+Scope correction has been done effective FY2022-23
+—	
+The GHG calculation tool has been changed to UNFCCC v2.6, FY2022-23 onwards
+—	
+Standalone turnover of respective year is considered for total Scope 3 emissions per rupee of turnover calculation for 
+FY22 and FY23.
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, 
+provide details of significant direct & indirect impact of the entity on biodiversity in such areas along-with 
+prevention and remediation activities
+	
+Not Applicable
+6.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve 
+resource efficiency, or reduce impact due to emissions/effluent discharge/waste generated, please 
+provide details of the same as well as outcome of such initiatives, as per the following format
+Sr. No.
+Initiative undertaken
+Details of the initiative (Web-link, if any, 
+may be provided along-with summary)
+Outcome of the initiative
+1
+Deployment 
+of 
+EVs 
+for 
+employee commute
+eClerx clocked 1 lakh+ Km with EV. 
+Target for FY 23-24 is 20% of trips with 
+EV’s & save approx. 40,000 KG of CO2 
+emissions quarterly. To equip & increase 
+the efficiency of these vehicles, company 
+has provisioned for sufficient charging 
+stations within the campus.
+Saving 
+of 
+22 
+tCO2e. 
+For 
+Employees, the deployed EV’s 
+are much comfortable & noise 
+free resulting in better employee 
+experience for office commute
+2
+Installation 
+of 
+automated 
+sanitary 
+napkin 
+vending 
+machine in female lavatories
+Automated sanitary napkin vending 
+machine 
+having 
+sensor 
+based 
+operations are privacy sensitive with 
+99.99% protection from bacteria and 
+viruses.
+The 
+sanitary 
+napkins 
+are 
+collected 
+and 
+recycled. 
+This 
+reduces the waste to landfill by a 
+great margin.
+7.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/web link
+—	
+eClerx is a certified ISO 22301 (BCMS) organization and as a part of the standard requirement, eClerx have 
+policy related to BCMS (Business Continuity Management System) domains and does actively maintains 
+both Corporate and Client Specific Business Continuity Plans. This plan includes incident management 
+processes, notification/escalation procedures, recovery strategies and estimated recovery times for all 
+processes, programs and clients that eClerx manages. 
+—	
+eClerx Business Continuity Management System (BCMS) provides a framework that ensures the implementation 
+of BCM policy throughout all the verticals and programs spread across all the locations globally.
+8.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. 
+What mitigation or adaptation measures have been taken by the entity in this regard
+We envisage no significant adverse impact from eClerx’ value chain.
+9.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts
+	
+NIL
+73
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT  |  ECLERX SERVICES LIMITED 
+ANNUAL REPORT 2022-23
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparent
+Essential Indicators
+1.	
+a.	 Number of affiliations with trade and industry chambers/associations
+ 	
+One affiliation, with NASSCOM. 
+	
+b.	 List the top 10 trade and industry chambers/associations (determined based on the total members of 
+such body) the entity is a member of/affiliated to:
+	
+NASSCOM.
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct 
+by the entity, based on adverse orders from regulatory authorities
+Not applicable as no adverse order received in last financial year
+Leadership Indicators
+1. 	
+Details of public policy positions advocated by the entity
+Public Policy 
+advocated
+Method resorted 
+for such advocacy
+Whether information 
+available in public domain
+Frequency of 
+review by board
+Web link, 
+if available
+NIL
+NA
+NA
+NA
+NA
+NA – Not Applicable
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, 
+in the current financial year
+No SIA undertaken in current financial year
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity, in the following format
+Not Applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community
+	
+All agreements between eClerx and the stakeholders, contain clauses on handling of grievances, disputes 
+etc. Additionally, eClerx’ Regional Leaders are connected at the ground level and provide feedback for 
+implementation if any. Post program implementation, surveys and questionnaires capture the feedback which 
+is duly implemented. The detailed process is described in Grievance handling policy that is available internally
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers
+Particulars
+FY2023
+FY2022
+Directly sourced from MSMEs/small producers 
+15.00%
+10.00%
+Sourced directly from within the district and neighbouring districts
+77.00%
+76.00%
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact 
+Assessments (Reference: Question 1 of Essential Indicators above)
+	
+Not Applicable as no SIA undertaken in current financial year
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational 
+districts as identified by government bodies
+State
+Aspirational District
+Amount spent (In INR)
+Andhra Pradesh
+Kadapa
+30,00,000
+74
+ECLERX SERVICES LIMITED  |  BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+ANNUAL REPORT 2022-23
+3.	
+(a)	 Do you have a preferential procurement policy where you give preference to purchase from suppliers 	
+comprising marginalized /vulnerable groups? (Yes/No)
+	
+No
+(b)	 From which marginalized /vulnerable groups do you procure?
+	
+Not Applicable
+(c)	 What percentage of total procurement (by value) does it constitute?
+	
+Not Applicable
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your 
+entity (in the current financial year), based on traditional knowledge
+Not Applicable
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved
+Not Applicable
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback
+	
+A robust process is in place to receive and respond to consumer complaints and feedback. All complaints and 
+feedback are taken care by respective business owners through client surveys and connects on regular frequency 
+with clients.
+2.	
+Turnover of products and/services as a percentage of turnover from all products/service that carry 
+information about: Not Applicable
+Particulars
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+0.00%
+Safe and responsible usage
+0.00%
+Recycling and/or safe disposal
+0.00%
+3.	
+Number of consumer complaints in respect of the following
+ 
+FY 2022-23
+FY 2021-22
+Received 
+during the 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks
+Data privacy
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Advertising
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Cyber-security
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Delivery of essential services
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Restrictive Trade Practices
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Unfair Trade Practices
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+	
+NA – Not Applicable
+4.	
+Details of instances of product recalls on account of safety issues
+	
+Not applicable as eClerx does not have any products that can entail safety issues
+5.	
+Does the entity have a framework/policy on cyber security and risks related to data privacy? (Yes/No) If 
+available, provide a web-link of the policy
+	
+Yes, Policy is available on intranet.
+75
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT  |  ECLERX SERVICES LIMITED 
+ANNUAL REPORT 2022-23
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery 
+of essential services; cyber security and data privacy of customers; re-occurrence of instances of product 
+recalls; penalty/action taken by regulatory authorities on safety of products/services.
+eClerx did not have any incidents leading to regulatory issues penalties.
+Leadership Indicators
+1.	
+Channels/platforms where information on products and services of the entity can be accessed (provide 
+web link, if available)
+https://eclerx.com/
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services
+	
+Not applicable, as eClerx does not have any products/services that can entail safety issues or usage abuse.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services
+	
+eClerx has a business continuity mechanism to handle any disruption of services/products and a suitable 
+communication plan.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local 
+laws? (Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with 
+regard to consumer satisfaction relating to the major products / services of the entity, significant locations 
+of operation of the entity or the entity as a whole? (Yes/No)
+	
+Not Applicable
+5.	
+Provide the following information relating to data breaches
+a.	
+Number of instances of data breaches along-with impact
+	
+There were no PII data breaches in FY22-23
+b.	
+Percentage of data breaches involving personally identifiable information of customers
+	
+There are no instances of PII data breaches

@@ -1,0 +1,2975 @@
+ 
+ 
+ 
+ 
+August 2, 2023 
+ 
+ 
+The General Manager 
+BSE Limited 
+Corporate Relationship Department 
+Phiroze Jeejeebhoy Towers 
+Dalal Street 
+Mumbai- 400 001 
+BSE Scrip Code: 532281 
+The Manager 
+National Stock Exchange of India Limited 
+Listing Department 
+Exchange Plaza, 5th Floor, Plot No. C-1, Block-G 
+Bandra-Kurla Complex, Bandra(E) 
+Mumbai-400 051 
+ 
+NSE Scrip Code: HCLTECH 
+ 
+Subject: Clarifications w.r.t. Business Responsibility and Sustainability Report (“BRSR”) filing under 
+Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 (“LODR Regulations”)   
+ 
+Dear Sir/ Madam, 
+ 
+This is with reference to the BRSR filing by HCL Technologies Limited for the financial year ended March 31, 2023 
+(“FY 2022–23”), in PDF format as well as in XBRL as per the circulars issued by BSE Limited and National Stock 
+Exchange of India Limited.  
+ 
+We would like to inform you that while filing the XBRL, we were not able to mention some information exactly in the 
+manner that we had mentioned in the PDF document. The main reasons for the same are given hereunder: 
+ 
+1. At certain places XBRL accepts only mentioning of numbers, whereas instead of providing the information 
+in numbers, the information on various principles/questions have been explained in text form only in the PDF 
+document. 
+2. The XBRL accepts only one NIC code, whereas in the PDF document, we have referred to two NIC codes 
+that are applicable. 
+3. There is an inter-segment elimination adjustment shown in our PDF document, however, there is no 
+provision in the XBRL to reflect the same. 
+ 
+In view of the above, for the following Principles / Questions, we would request you to refer our response as stated 
+in our PDF document of BRSR submitted with you. 
+ 
+Reference 
+Question 
+No. 
+Particulars 
+Section A  
+15 
+Products / Services sold by the entity (accounting for 90% of the 
+entity’s Turnover)  
+Section C,  
+Principle 1 
+1 
+Percentage (%) coverage by Training and awareness programmes on 
+any of the principles during the financial year. 
+Section C,  
+Principle 3 
+9 
+Details of performance and career development reviews of 
+employees and workers. 
+Section C,  
+Principle 5 
+3 
+Details of Remuneration/ Salary/ Wages 
+ 
+This is for your information and records. 
+ 
+Yours Sincerely, 
+For HCL Technologies Limited 
+ 
+Manish Anand 
+Company Secretary 
+ 
+Encl.: a/a 
+Manish Anand
+Digitally signed by Manish 
+Anand 
+Date: 2023.08.02 21:53:22 
++05'30'
+HCL Technologies Annual Report 2022-23
+178
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+Statement from the Chair of the ESG & Diversity Equity Inclusion Committee (“ESG & DEI Committee”)
+Dear Stakeholders,
+We are delighted to present our Business Responsibility and Sustainability Report (“BRSR”) for the financial year April 1, 2022 to March 
+31, 2023 (“FY23”). We engaged Ernst & Young Associates LLP (“EY”), as a third party to perform an independent limited assurance of our 
+BRSR. The independent assurance statement by EY is also enclosed as part of the Annual Report.
+HCLTech has undergone significant changes during FY23. We launched a new brand identity and we published our new purpose statement 
+– “To bring together the best of technology and our people to supercharge progress”. The mantra of supercharging progress guides how 
+we accelerate digital transformation for our clients, advances the aspirations of our people, contributes toward a more sustainable planet 
+and works toward equitable and sustainable communities. The disclosures we present in our BRSR, reflect our HCLTech purpose.
+The environmental, social and governance (“ESG”) & diversity, equity and inclusion (“DEI”) committee of the board met on four occasions 
+in FY23 when HCLTech’s steady progress across these dimensions was reviewed. The key dimensions of our progress against our 
+targets, have also been validated by external third-party recognitions. Some of the highlights are outlined below:
+•	
+MSCI has rated HCLTech as an ESG ‘Leader’ in the software and services industry. This year, HCLTech has been recognized as a 
+leader with an “AA” rating, a significant move up from last year’s “A” rating. 
+•	
+The S&P Global Sustainability Yearbook 2023 has recognized HCLTech as an ‘Industry Mover’. The Yearbook lists leading companies 
+that have demonstrated sustainable business practices in their operations.
+• 	
+HCLTech has also been included in Sustainalytics’ 2023 Top-Rated ESG companies list in the Software and Services Industry 
+segment and in the Asia Pacific Region. 
+The progress achieved would not be possible without the appropriate focused execution and resource allocation of the initiatives and 
+projects by the respective teams involved.
+Each quarter, the committee presented its review on outcomes and relevant milestones to the board. During FY’23, in response to the 
+recommendations of the committee, HCLTech has implemented an internal audit system covering all ESG disclosures. The outcome of 
+the audit was reviewed by the Audit Committee of the board. 
+A separate sustainability report for FY’23 will also be published to give more details on the sustainability strategy implementation and the 
+performance against the commitment and goals that have been outlined by HCLTech. 
+We will be eager to have your feedback on the BRSR disclosures and the sustainability report and look forward to hearing from you.
+Robin Abrams
+Chairperson – ESG & DEI Committee
+Business Responsibility & Sustainability Report
+179
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity 
+1
+Corporate Identity Number (CIN) of the Listed 
+Entity 
+ L74140DL1991PLC046369
+2
+Name of the Listed Entity 
+HCL Technologies Limited
+3
+Year of incorporation 
+1991
+4
+Registered office address 
+806, Siddharth, 96, Nehru Place, New Delhi - 110019, India
+5
+Corporate address
+HCL Technology Hub, SEZ, Plot No. 3A, Sector 126, Noida - 201304, 
+U.P., India
+6
+E-mail 
+investors@hcl.com
+7
+Telephone
+0120-430 6000
+8
+Website
+www.hcltech.com
+9
+Financial year for which reporting is being done
+April 1, 2022 to March 31, 2023
+10
+Name of the Stock Exchange(s) where shares are 
+listed 
+National Stock Exchange of India Ltd (“NSE”) and BSE Ltd. (“BSE”)
+11
+Paid-up Capital
+The paid-up equity share capital of HCL Technologies Limited as on 
+March 31, 2023 is ₹542,73,30,192/- comprising of 271,36,65,096 
+equity shares of face value of ₹2/- each.
+12
+Name and contact details (telephone, email 
+address) of the person who may be contacted in 
+case of any queries on the BRSR report 
+Mr. Santhosh Jayaram,
+Global Head - Sustainability
+santhosh.jayaram@hcl.com
+13
+Reporting boundary 
+The reporting scope and boundary for indicators, unless otherwise 
+stated, covers the operations of HCLTech across all locations globally.
+	
+Note: All of HCLTech workforce is categorized as ‘Employees’ and none as ‘Workers’. Hence in all the sections, details sought of the 
+‘Workers’ category are Not Applicable to HCLTech.
+II.	
+Products / Services 
+14. 	Details of business activities (accounting for 90% of the turnover) 
+S. No. 
+Description of main activity 
+Description of business activity
+% of turnover of the 
+entity (FY’22)
+1
+Information and Communication 
+(Revenue from Operations)
+Computer programming, consultancy, and related activities
+100%
+15. 	Products / Services sold by the entity (accounting for 90% of the entity’s Turnover)
+S. No. 
+Product / Service 
+NIC Code 
+% of total turnover 
+contributed
+1
+IT & Business Services (“ITBS”) - ITBS enables global enterprises to transform 
+their business via Digital Foundation, a modernized infrastructure stack built 
+around hybrid cloud, software-defined networks, the digital workplace, and other 
+elements; Digital Business, a combination of application services and consulting 
+capabilities; Digital Operations, a three-pronged setup for modernized and 
+efficient operations at enterprise level.
+Services are 
+broadly mapped 
+to NIC classes 
+620 and 631
+73%
+2
+Engineering and R&D Services (“ERS”) - Engineering services and solutions in 
+all aspects of product development and platform engineering.
+16.6%
+3
+HCL Software - Provision of modernized software products to global clients for 
+their technological and industry-specific requirements.
+10.9%
+4
+Inter segment elimination
+(0.5%)
+III.	 Operations
+16. 	Number of locations where plants and / or operations / offices of the entity are situated 
+Location 
+Number of plants 
+Number of offices 
+Total
+National
+Not applicable
+42
+42
+International 
+Not applicable
+207
+207
+HCL Technologies Annual Report 2022-23
+180
+17. 	Markets served by the entity 
+a. 	 Number of locations 
+Locations 
+Number
+National (No. of States)
+9
+International (No. of Countries)
+53
+b. 	 What is the contribution of exports as a percentage of the total turnover of the entity?  
+	
+	
+The geography wise revenue of HCLTech is listed below: 
+Unit
+FY 2022-23
+America
+₹ (crore)
+57,818
+Europe
+₹ (crore)
+26,868
+India*
+₹ (crore)
+3,935
+Rest of the world
+₹ (crore)
+12,835
+Total
+₹ (crore)
+1,014,56
+	
+*Note: Includes revenue billed to India, based captive of global clients.
+c. 	 A brief on types of customers
+	
+HCLTech is committed to supercharging progress, delivering pioneering services and products that positively impact its clients, 
+employees, communities and the planet. HCLTech seeks to be the preferred digital partner for Global 2000 enterprises, a 
+strategic objective aligned to the long-term value of building deep, strategic client relationships as a trusted partner. We focus on 
+G2000 and G2000 equivalent companies such as privately held or government-owned entities. We also work with the fastest-
+growing digital-native companies that are on a rapid growth track toward achieving G2000 status. HCLSoftware has its client 
+universe which is broader and is consistent with the business objectives of a software business. The key industry verticals that 
+HCLTech caters primarily are Financial Services, Manufacturing, Life sciences & Healthcare, Technology & Services, Public 
+Services#, Retail & CPG, and Telecommunications, Media, Publishing & Entertainment.
+	
+# Public Services include Energy & Utilities, Travel-Transport-Logistics and Government.
+IV.	 Employees 
+18. 	Details as at the end of the financial year 
+	
+a. 	 Employees and workers (including differently abled)
+S.No.
+Particulars
+Total
+(A)
+Male
+Female
+Others
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (D)
+% (D / A)
+Employees
+1 
+Permanent (D)
+225,944
+159,842
+70.7%
+65,907
+29.2%
+195
+0.09%
+2 
+Other than Permanent (E)
+15,408
+11,254
+73.0%
+4,007
+26.01%
+147
+0.95%
+ 
+Total employees
+(D + E)
+241,352
+171,096
+70.9%
+69,914
+28.96%
+342
+0.14%
+	
+Note: Disclosing gender is voluntary for HCLTech employees. The employees who have not disclosed their gender are 
+categorized as ‘Others’.
+b. 	 Differently abled Employees and workers
+S.No.
+Particulars
+Total   
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Differently abled employees
+1.
+Permanent (D)
+549
+386
+70.31%
+163
+29.69%
+2.
+Other than Permanent (E) 
+7
+7
+100%
+0
+0
+Total differently abled 
+employees (D + E)
+556
+393
+70.68%
+163
+29.32%
+Business Responsibility & Sustainability Report
+181
+19. 	Participation / Inclusion / Representation of women
+Particulars
+Total
+(A)
+No. and percentage of Females
+No. (B) 
+% (B / A)
+Board of Directors
+13
+4
+30.76
+Key Management Personnel
+3
+0
+0.00
+20.	 Turnover rate for permanent employees and workers 
+FY 2022-23
+FY 2021-22
+FY 2020-21
+Male 
+Female 
+Others
+Total
+Male 
+Female 
+Others
+Total 
+Male 
+Female 
+Total
+Permanent 
+Employees
+19.83%
+18.60%
+15.67%
+19.50%
+21.87%
+22.05%
+31.67%
+21.92%
+9.81%
+10.16%
+9.90%
+	
+Note: This data is voluntary attrition % (LTM – IT Services)
+V. 	 Holding, Subsidiary and Associate Companies (including joint ventures)
+21.  	Names of holding / subsidiary / associate companies / joint ventures: 
+	
+Details of Holding, Subsidiary and Associate Companies (including joint ventures) are provided in Directors’ Report (Section 8), which 
+forms part of the Annual Report.
+	
+All the entities indicated participate in the Business Responsibility initiatives of the listed entity. 
+VI.	 CSR Details 
+ 
+22.	 (i)    Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes / No) - Yes
+(ii)   Turnover (in crore): ₹101,456 (as per consolidated financial statements); ₹ 46,276 (as per Standalone financial statements)
+(iii)  Net worth (in crore): ₹65,398 (as per consolidated financial statements); ₹ 41,104 (as per Standalone financial statements)
+VII. Transparency and Disclosures Compliances  
+23. 	Complaints / Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct:
+	
+Employees
+	
+	
+The Company is committed to provide employees with a safe and secure work environment, which is free of discrimination and 
+harassment, including any form of sexual harassment. The Company’s ‘Grievance Redressal Protocol’ outlines ways of working, 
+responsibilities and processes adopted during handling violations pertaining to following:
+•	
+Acts which violate POSH Act 2013 & Secure Policy of the Company.
+•	
+Acts which violate COBEC and ABAC Policy of the Company and Acts which come under the purview of Whistleblower Policy of 
+the Company.
+	
+The Company has implemented several avenues to resolve employee problems, including the Secure (Anti-Sexual Harassment 
+Initiative), HEAR (Hearing Employees and Resolving their Concerns) platform, and the Whistleblower Policy.
+ 
+	
+“HEAR” is an integrated channel and serves as access to the Desk of the Ombudsman who directs any grievance raised by the employees 
+to the appropriate individuals to investigate. All employee grievances (including employee / HR related matters) can be reported by writing 
+directly to hear@hcl.com. In case any employee experiences any form of Sexual harassment they can report the incidents by directly 
+writing to Secure@hcl.com. The complaints covered under the Whistleblower Policy can be raised by writing to whistleblower@hcl.com.
+	
+For details on employee grievances and resolution, please refer to question 13 of principle 3 and question 6 of principle 5. During FY 
+2022-23, 54 whistleblower complaints have been filed by employees. Additionally, 66 anonymous complaints were also received.
+HCL Technologies Annual Report 2022-23
+182
+	
+Investors / Shareholders
+	
+The Company’s shareholders’ grievance redressal mechanism ensures accountability & transparency and is overseen by the Stakeholders’ 
+Relationship Committee of the Company. All shareholders queries / grievances are promptly responded to by the Registrar and Share 
+Transfer Agent or the Company. The Company has also placed on its website the FAQs which may be helpful for the shareholders to 
+get information on shareholders related matters and guides them on the steps / documents required to process their requests on various 
+matters. For investor related complaints, refer to section ‘Investors’ Grievances’ in the Corporate Governance Report.	
+	
+Customers
+	
+	
+HCLTech has institutionalized process to help customers raise grievance and complaints related to its business conduct. These 
+include the following:
+•	
+Customer Advisory Board (CAB) – It consists of CXOs from our strategic accounts across a variety of industries. The CAB 
+member perspectives,  insights and directional guidance help HCLTech better address customer needs and ensure our value 
+propositions and services continue to deliver real value to our customers.
+•	
+CREST - Through a governance framework called CREST, HCLTech has institutionalized the process of cadence meetings, the 
+process of checking in regularly with clients. Any customer complaints or escalations as received by the LOB heads, are picked 
+by the respective delivery owners and actions are put in place to address their concerns. This is then tracked as part of Quarterly 
+Business Review (“QBR”) or Executive Business Review (“EBR”) which is attended by the LOB heads along with customers and 
+tracked as part of CREST.
+•	
+ACSAT & PCSAT - HCLTech measures client satisfaction both at project level as well as engagement level. At project level, 
+HCLTech under its Project CSAT (PCSAT) initiative surveys close to 3000+ projects to monitor client satisfaction for each project, 
+while once a year, an independent third party conducts an account-level CSAT (ACSAT) to provide a health check on client 
+engagement and relationships, benchmarked against competitors.
+•	
+CRISP – HCLTech has a unique framework called CRISP which is adopted across the organization to act on customer feedback. 
+Taking an action on customer feedback is the key tenet of customer centricity and has helped us improve the relationship 
+with customer and enhance our services over the years. CRISP is an acronym for Customer Relationship Improvement and 
+Solutioning Partnership.
+•	
+HCLTech’s account management teams also connects with their respective customers on monthly basis to capture their feedback 
+and highlights the same internally. The account teams accordingly take proactive actions to prevent any dissatisfaction.
+•	
+Finally HCLTech also has an effective Whistleblower Policy which defines and lays down the process for raising a Complaint for 
+any stakeholder including our clients. They can write to whistleblower@hcl.com wherein any complaints related to Unethical and 
+Improper Practices will be dealt by this Policy. Any HR related complaints are forwarded to hear@hcl.com.
+	
+Together these mechanisms ensure HCLTech is well equipped to proactively handle any complaints / grievances on any of the 9 
+governing principles.
+	
+Value Chain Partners
+	
+The Company is committed to aiding Suppliers and Partners in adhering to policies and practices. In the event of a grievance, the 
+Company welcomes input and promote communication with any interested party. If suppliers have any questions, concerns, or grievances 
+about Company’s policies or procedures, they are encouraged to email us at procurementconcerns@hcl.com. The whistleblower policy 
+of the Company extends to value chain partners as well. During the financial year 2022-23, no grievances were received.
+	
+Communities
+	
+	
+The corporate social responsibility agenda for HCLTech is delivered by the HCL Foundation. It deeply upholds the value of accountability 
+and aims to accept, assess, and resolve feedback or complaints received from our community of stakeholders ranging from but not 
+limited to HCL Foundation employees, HCLTech employees, volunteers, third-party employees, consultants associated with the 
+projects of the Company, NGO partners, social sector organizations, government authorities, programme participants, community 
+members and others. Any deviation from the law of the land, HCLTech Code of Conduct or HCL Foundation Child Protection Policy 
+by any stakeholder associated with the programmes / projects of the Company is taken up seriously for review and redressal via 
+multi-pronged, scientific and transparent channels.
+Business Responsibility & Sustainability Report
+183
+	
+HCL Foundation aims to ensure that every stakeholder is provided a safe environment to share their concerns / grievances. High 
+level of confidentiality is maintained in sensitive matters to respect and maintain dignity of the complainant. No grievances have been 
+received from community in FY 2022-23.
+24.  Overview of the entity’s material responsible business conduct issues  
+	
+Details of Company’s material issues and associated risks and opportunities is available in Sustainability Report, Section ‘Stakeholder 
+Engagement’.
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1. a) Whether your entity’s 
+policy /policies cover each 
+principle and its core elements 
+of the NGRBCs. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b) 
+Has 
+the 
+policy 
+been 
+approved 
+by 
+the 
+Board? 
+(Yes / No)
+Yes.
+The Policies are approved in accordance with the authorities delegated by the Board.
+c) Web Link of the Policies, if 
+available
+P1: 
+Code of Business Ethics and Conduct: https://www.hcltech.com/investors/governance-policies/cobecpdf
+Anti-Bribery & Anti-Corruption policy: https://www.hcltech.com/investors/governance-policies/abacpdf
+Dividend Distribution Policy: https://www.hcltech.com/sites/default/files/dividend_distribution_policy.pdf
+Group tax strategy: http://www.hcltech.com/sites/default/files/hcl_group_tax_strategy_03122019.pdf
+Composition of various committees of board of directors: 
+https://www.hcltech.com/sites/default/files/composition_of_various_committees_of_board_of_directors2k1.pdf
+Criteria of making payments to non-executive directors: 
+https://www.hcltech.com/sites/default/files/documents/inline-migration/criteria_of_making_payments_to_non_executive_directors.pdf
+P2:
+Procurement Policy: https://www.hcltech.com/sites/default/files/documents/Procurement-Policy.pdf
+Code of Business Ethics and Conduct: https://www.hcltech.com/investors/governance-policies/cobecpdf
+Anti-Bribery & Anti-Corruption policy: https://www.hcltech.com/investors/governance-policies/abacpdf
+Environmental Sustainability Policy: 
+https://www.hcltech.com/sites/default/files/documents/sustainability/EMS-Policy-2022.pdf
+Occupational Health & Safety Policy: 
+https://www.hcltech.com/sites/default/files/documents/sustainability/OHS-Policy-2022.pdf
+P3:
+Procurement Policy: https://www.hcltech.com/sites/default/files/documents/Procurement-Policy.pdf
+Code of Business Ethics and Conduct: https://www.hcltech.com/investors/governance-policies/cobecpdf
+Occupational Health & Safety Policy: 
+https://www.hcltech.com/sites/default/files/documents/sustainability/OHS-Policy-2022.pdf
+Whistleblower Policy: https://www.hcltech.com/investors/governance-policies/whistleblowerpolicypdf
+Remuneration Policy: https://www.hcltech.com/investors/governance-policies/rempolicypdf
+HCL Group Tax Strategy: https://www.hcltech.com/sites/default/files/HCLGroupTaxStrategyFY22.pdf
+Human Rights Policy: 
+https://www.hcltech.com/sites/default/files/documents/inline-migration/human-rights-policy.pdf
+P4:
+Code of Business Ethics and Conduct: https://www.hcltech.com/investors/governance-policies/cobecpdf
+Whistleblower Policy: https://www.hcltech.com/investors/governance-policies/whistleblowerpolicypdf
+Dividend Distribution Policy: https://www.hcltech.com/sites/default/files/dividend_distribution_policy.pdf
+Policy for determination of materiality of event or information: 
+https://www.hcltech.com/investors/governance-policies/eterminationofmaterialityofeventspolicypdf
+Related Party Policy: https://www.hcltech.com/investors/governance-policies/rptpolicypdf
+Fair Disclosure Code: https://www.hcltech.com/investors/governance-policies/fair-disclosure-codepdf
+P5:
+Code of Business Ethics and Conduct: https://www.hcltech.com/investors/governance-policies/cobecpdf
+Human Rights Policy: 
+https://www.hcltech.com/sites/default/files/documents/inline-migration/human-rights-policy.pdf
+HCL Technologies Annual Report 2022-23
+184
+P6:
+Environmental and Sustainability Policy: https://www.hcltech.com/sustainability#policies
+Energy Policy: https://www.hcltech.com/sites/default/files/documents/sustainability/EnMS-Policy-2022.pdf
+Occupational Health & Safety Policy: 
+https://www.hcltech.com/sites/default/files/documents/sustainability/OHS-Policy-2022.pdf
+Procurement Policy: https://www.hcltech.com/sites/default/files/documents/Procurement-Policy.pdf
+P7: 
+Code of Business Ethics and Conduct: https://www.hcltech.com/investors/governance-policies/cobecpdf
+Anti-Bribery & Anti-Corruption policy: https://www.hcltech.com/investors/governance-policies/abacpdf
+P8: 
+CSR Policy: https://www.hcltech.com/investors/governance-policies/csrpolicypdf
+P9: 
+Code of Business Ethics and Conduct: https://www.hcltech.com/investors/governance-policies/cobecpdf
+Anti-Bribery & Anti-Corruption policy: https://www.hcltech.com/investors/governance-policies/abacpdf
+Privacy Statement : https://www.hcltech.com/privacy-statement
+2. Whether the entity has 
+translated 
+the 
+policy 
+into 
+procedures (Yes / No) 
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+-
+3. Do the enlisted policies 
+extend to your value chain 
+partners? (Yes / No) 
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+-
+4. 
+Name 
+of 
+the 
+national 
+and 
+international 
+codes 
+/ 
+certifications / labels / standards 
+(e.g. 
+Forest 
+Stewardship 
+Council, Fairtrade, Rainforest 
+Alliance, Trustee) standards 
+(e.g. SA 8000, OHSAS, ISO, 
+BIS) mapped to each principle
+•	
+ISO 37001:2022 
+•	
+ISO 45001:2018 
+•	
+ISO 14001:2015 
+•	
+ISO 50001:2018 
+•	
+ISO 9001:2015
+•	
+ABMS ISO 37001:2016
+•	
+LEED Certification
+•	
+Great Place to Work
+5. Specific commitments, goals 
+and targets set by the entity 
+with defined timelines, if any
+Principle 1: 
+•  Integrating ESG into Risk management process and internal audit process. 
+Principle 2: 
+•  Strengthening the sustainable supply chain process. 
+Principle 3: 
+•  Improving the ESG Knowledge and Skills of the employees. 
+•  Improving the gender diversity in workforce with 40% Women by 2030. 
+•  Increase gender representation in senior leadership levels to 30% by 2030. 
+•  Being recognized among the best employers in our key operating geographies.
+Principle 5: 
+•  Strengthening the sustainable supply chain process. 
+Principle 6: 
+•  Achieve Net Zero by 2040. 
+• Achieve a reduction of 50% on absolute scope 1 & 2 emissions by 2030 compared 
+   to 2020 baseline. 
+•  Transition to 80% of electricity usage to renewable energy by 2030. 
+•  Maintain Zero Discharge from all owned facilities. 
+•  Achieve Zero Waste to Landfill at all owned facilities by 2025. 
+•  Strengthening the sustainable supply chain process. 
+Principle 8: 
+•  Strengthening the sustainable supply chain process. 
+Principle 9: 
+• Being recognized among industry leaders for information security practices and 
+    data privacy standards.
+6. 
+Performance 
+of 
+the 
+entity 
+against 
+the 
+specific 
+commitments, 
+goals 
+and 
+targets along-with reasons in 
+case the same are not met
+Details on performance against the Company commitments are available in the Sustainability 
+Report 2023. 
+Business Responsibility & Sustainability Report
+185
+Governance, Leadership, and Oversight
+7. 
+Statement 
+by 
+director 
+responsible for the business 
+responsibility 
+report, 
+highlighting 
+ESG 
+related 
+challenges, 
+targets 
+and 
+achievements 
+(listed 
+entity 
+has flexibility regarding the 
+placement of this disclosure)
+The Statement is available at the beginning of the BRSR section.
+8. 
+Details 
+of 
+the 
+highest 
+authority 
+responsible 
+for 
+implementation and oversight 
+of the Business Responsibility 
+policy/policies 
+The highest executive authority responsible for the implementation of the policies is the CEO & 
+Managing Director – Mr. C. Vijayakumar.
+9. Does the entity have a 
+specified Committee of the 
+Board/ 
+Director 
+responsible 
+for 
+decision 
+making 
+on 
+sustainability related issues? 
+(Yes / No). If yes, provide details
+The Company has an ESG & DEI Committee of the Board. The members of the ESG & DEI 
+Committee are: 
+•    Ms. Robin Ann Abrams (DIN 00030840) 
+     Independent Director 
+     Chairperson of the Committee 
+•    Ms. Roshni Nadar Malhotra (DIN 02346621) 
+     Non Independent Director 
+     Chairperson of HCL Technologies Limited
+•    Mr. Simon John England (DIN 08664595)
+     Independent Director 
+Mr. C. Vijayakumar, CEO & Managing Director, is an invitee to this Committee.
+10. Details of Review of NGRBCs by the Company: 
+Subject for Review
+Indicate whether review was undertaken by Director / Committee of the Board / Any other Committee 
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance 
+against 
+above 
+policies 
+and 
+follow up action
+Yes, the ESG & DEI Committee reviews the performance.
+Frequency (Annually / Half yearly / Quarterly / Any other – please specify)  
+Quarterly
+Compliance 
+with 
+statutory requirements 
+of 
+relevance 
+to 
+the 
+principles, 
+and 
+rectification 
+of 
+any 
+non-compliances
+Indicate whether review was undertaken by Director / Committee of the Board / Any other Committee
+Yes 
+Frequency (Annually/ Half yearly/ Quarterly/ Any other – please specify)  
+Annually
+11. 
+Has 
+the 
+entity 
+carried 
+out 
+independent
+assessment 
+/ 
+evaluation 
+of 
+the 
+working of its policies 
+by an external agency?
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+•	 Ernst and Young Associates LLP
+•	 BSI
+12. 	If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated: 
+	
+Not Applicable
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+In this section, the Company will delve into how it has demonstrated its performance in integrating the National Guidelines of Responsible 
+Business Conduct (“NGRBC”) Principles and its core elements with its key processes and decisions.
+The information sought is categorized as “Essential” and “Leadership”. While the essential indicators are mandatory, the leadership 
+indicators present an opportunity for it to aspire towards higher levels of responsibility and showcase its voluntary disclosures. The 
+Company’s comprehensive report encompasses both essential and leadership indicators, providing a thorough assessment of its 
+commitment to social, environmental, and ethical responsibility. 
+HCL Technologies Annual Report 2022-23
+186
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent 
+and Accountable. 
+Essential Indicators:
+1. 	 Percentage coverage by training and awareness programmes on any of the principles during the financial year
+Segment 
+Total number of training and awareness 
+programmes held
+Topics / principles 
+covered under the 
+training and its 
+impact
+% of persons in respective 
+category covered by the 
+awareness 
+programmes
+Board of Directors
+Through the learning platform, the Company offers several courses 
+covering the principles of BRSR. Topics covered include, Business 
+ethics, workplace conduct, fraud, bribery and corruption, conflicts of 
+interest, financial interests, personal relationships, money laundering, 
+money laundering risk lifecycle, speaking up, information security, 
+climate change etc.
+100%
+Key 
+Managerial Personnel
+100%
+Employees other than 
+BoD and KMPs
+100%
+2. 	 Details of fines / penalties / punishment / award / compounding fees / settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators / law enforcement agencies / judicial institutions, in the financial year, in the 
+following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of the SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 and as disclosed on the entity’s website): 
+	
+	
+None.
+3. 	 Of the instances disclosed in Question 2 above, details of the Appeal / Revision preferred in cases where monetary or non-
+monetary action has been appealed. 
+	
+	
+Not Applicable.
+4. 	 Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-
+link to the policy. 
+	
+Yes, the Company has Code of Business Ethics and Conduct (COBEC)*, Anti-Bribery & Anti-Corruption policy (“ABAC”)$ and Anti-
+Bribery & Anti-Corruption Note from our CEO#. These apply to all individuals working worldwide for all affiliates and subsidiaries of 
+HCLTech at all levels and grades. It covers giving and offering of bribes, and bribing of government officials, facilitation payments, 
+charitable donation, political activities. Foreign Corrupt Practices Act (FCPA) & UK Bribery Act (UKBA) are the governing legislations 
+of this policy. The  Anti-Bribery Management Systems (ABMS) is certified against ISO 37001-2016. Certification can be accessed at 
+the website of the Company at https://www.hcltech.com/investors/corporate-certifications
+	
+Note: 
+	
+* https://www.hcltech.com/investors/governance-policies/cobecpdf
+$ https://www.hcltech.com/investors/governance-policies/abacpdf
+# https://www.hcltech.com/sites/default/files/documents/inline-migration/anti-bribery_anti-corruption_note_from_our_ceo.pdf
+	
+5. 	 Number of Directors / KMPs / employees / workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery / corruption. 
+Particulars
+FY 2022-23
+FY 2021-22
+Directors
+Nil
+Nil
+KMPs
+Employees 
+	
+6. 	 Details of complaints with regard to conflict of interest
+Particulars
+FY 2022-23
+FY 2021-22
+Number 
+Remarks 
+Number 
+Remarks
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+Nil
+Number of complaints received in relation to 
+issues of Conflict of Interest of the KMPs
+Business Responsibility & Sustainability Report
+187
+7. 	 Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators / 
+law enforcement agencies / judicial institutions, on cases of corruption and conflicts of interest. 
+	
+Not applicable, since there were no issues related to fines / penalties / action taken by regulators / law enforcement agencies / judicial 
+institutions, on cases of corruption and conflicts of interest at HCLTech. 
+Leadership Indicators:
+1. 	 Awareness programmes conducted for value chain partners on any of the principles during the financial year 
+Total number 
+of awareness 
+programmes 
+held
+Topics / principles covered under the training
+% of value chain 
+partners covered (by value 
+of business done with 
+such partners) under the 
+awareness programmes
+580
+During the financial year, the Company has conducted various awareness 
+programs for its value chain partners to promote Health and Safety, Wellbeing, 
+Awareness and Policies, and Ethics. A range of topics was covered including 
+risk assessment & work permit system awareness, awareness on electrical 
+safety, LOTO (Lockout-Tagout) system, energy consumption & conservation, 
+chemical safety & MSDS awareness, fire safety, emergency preparedness 
+& evacuation procedure awareness, awareness on incident reporting & 
+management, awareness on QHSEE Policy- objectives & targets, awareness 
+on Legal compliances, mental health awareness, awareness on power tools 
+safety, PPE & its Importance, slip-trip- fall & ergonomics awareness, confined 
+space & lone working awareness, safe driving / road safety, energy conservation, 
+environmental impacts, waste reduction. 
+Trainings were also conducted on aspects like ethics, anti-bribery, POSH and 
+information security.
+100% of high-risk value chain 
+partners are covered.
+2. 	 Does the entity have processes in place to avoid / manage conflict of interests involving members of the Board? (Yes / No) 
+If yes, provide details of the same. 
+	
+Yes. 
+	
+The Company receives from the members of the Board, a list of entities in which they are interested, at the beginning of every 
+financial year and as and when there is any change in such interest. It is ensured that the requisite approvals as required under the 
+statute as well as the Company’s policies are in place before transacting with such entities.
+	
+Further, the Company has adopted the Code of Business Ethics and Conduct which requires that the Directors of the Company shall 
+avoid any activity or association that creates or appears to create a conflict between the personal interests of the Directors and the 
+business interests of the Company.
+PRINCIPLE 2:  Businesses should provide goods and services in a manner that is sustainable and safe.
+Essential Indicators:
+1. 	 Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and 
+social impacts of product and processes to total R&D and capex investments made by the entity, respectively. 
+Particulars
+FY 2022-23
+FY 2021-22
+Details of improvements in environmental and social impacts
+R&D (r in crores)
+1,632
+1,526
+R&D investments are made to upgrade the effectiveness of the 
+products and services and to develop new products and services. 
+All the products and services help in improved efficiency for the 
+Company’s clients and thus resulting in environmental and social 
+benefits.
+Capex (r in crores)
+1,661
+1,645
+Capex is mostly on the infrastructure. Better equipment and 
+better buildings improve the Company’s energy efficiency and 
+accessibility.
+2. 	 a) Does the entity have procedures in place for sustainable sourcing? (Yes / No): Yes.
+HCL Technologies Annual Report 2022-23
+188
+ 	
+b) If yes, what percentage of inputs were sourced sustainably? 
+	
+The Company has a procedure in place to onboard suppliers’ basis sustainability parameters. All new vendor onboarding goes 
+through HCLTech’s Vendor Due Diligence process which also covers ESG. HCLTech has also started doing a supply chain ESG risk 
+assessment and based on the risk, have started ESG assessments on selected vendors. Thus, 100% of the Company’s suppliers are 
+covered under our sustainable sourcing program.
+3. 	 Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the end of life, for 
+(a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste. 
+	
+Not Applicable.
+4. 	 Whether Extended Producer Responsibility (“EPR”) is applicable to the entity’s activities (Yes / No). 
+	
+If yes, whether the waste collection plan is in line with the EPR plan submitted to Pollution Control Boards? If not, provide 
+steps taken to address the same.
+	
+Not Applicable.
+Leadership Indicators:
+1. 	 Has the entity conducted Life Cycle Perspective / Assessments (“LCA”) for any of its products (for the manufacturing 
+industry) or for its services (for the service industry)? If yes, provide details in the following form at?
+	
+Not Applicable.
+2. 	 If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the LCA or through any other means, briefly describe the same along-with action taken 
+to mitigate the same. 
+	
+Not Applicable.
+3. 	 Percentage of recycled or reused input material to total material (by value) used in production (For manufacturing industry) 
+or providing services (for service industry). 
+	
+Not Applicable.
+4. 	 Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely 
+disposed of. 
+	
+Not Applicable.
+5. 	 Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+	
+Not Applicable.
+	
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their value chains.
+Essential Indicators:
+1. 	 a) Details of measures for the well-being of employees.
+Category 
+% of employees covered by
+Total 
+(A) 
+ 
+Health insurance* Accident insurance Maternity benefits Paternity Benefits Day Care facilities 
+Number 
+(B)        
+%
+(B / A) 
+Number 
+(C) 
+%
+(C / A) 
+Number 
+(D) 
+% 
+(D / A) 
+Number 
+(E) 
+%
+(E / A) 
+Number 
+(F) 
+%
+(F / A) 
+Permanent employees
+Male  
+121,623
+121,623
+100%
+121,623
+100%
+NA
+NA
+121,623
+100%
+121,623
+100%
+Female  
+51,481
+51,481
+100%
+51,481
+100%
+51,481
+100%
+NA
+NA
+51,481
+100%
+Others
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total  
+173,104
+173,104
+100%
+173,104
+100%
+51,481
+100%
+121,623
+100%
+173,104
+100%
+	
+Note: 1. * Health insurance includes ESIC coverage. 
+	
+	
+   2.  India Headcount has been considered for the table above.	
+Business Responsibility & Sustainability Report
+189
+2. 	 Details of retirement benefits
+Benefits
+FY 2022-23
+FY 2021-22
+No. of employees 
+covered as a % of 
+total employees 
+No. of workers 
+covered as 
+a % of total 
+workers 
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+100%
+NA
+Y
+100%
+NA
+Y
+Gratuity
+100%
+NA
+Y
+100%
+NA
+Y
+ESI
+10.88%
+NA
+Y
+12%
+NA
+Y
+Others - please 
+specify
+-
+-
+-
+-
+-
+-
+	
+Note: India Headcount has been considered for the table above.
+3. 	 Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of 
+the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard. 
+ 
+	
+Yes. All of HCLTech’s office spaces are equipped with ramps, voice enabled lifts, PWD washrooms, reserved parking spaces, and 
+an emergency warning system with both audio and visual alarms. The Company has also conducted third-party assessment on its 
+facilities in relation to accessibility during the year 2022-23. Additionally, all of the Company’s websites and internal portals are in line 
+with the WCAG guidelines, and the Company constantly update its portals to make them more accessible. 
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a 
+web-link of the policy.  
+	
+Yes, the Company has an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016.
+5. 	 Return to work and Retention rates of permanent employees and workers that took parental leave. 
+Permanent employees 
+Gender 
+Return to work rate
+Retention rate
+Male
+99.97%
+68.7%
+Female
+98.87%
+63.9%
+Total
+99.42%
+66.8%
+ 
+6. 	 Is there a mechanism available to receive and redress grievances for the following categories of employees and workers? 
+If yes, give details of the mechanism in brief:- 
+Particulars
+(If yes, then give details of the mechanism in brief) 
+Permanent Employees
+Yes. HCLTech has a multi-tiered grievance handling mechanism that includes 
+dedicated channels for addressing harassment, whistle-blower, security incidents, 
+discrimination, general grievances, etc. It applies to all employees. The Company 
+has instituted multiple channels to address employee grievances, such as Secure 
+(Anti-Sexual Harassment Initiative), HEAR (Hearing Employees and Resolving their 
+concerns) platform and the Whistleblower Policy.
+HEAR (Hearing Employees and Resolving their concerns) platform provides fair, 
+neutral, and independent access for employees to voice their concerns. Employees 
+can write to hear@hcl.com with their concerns and if it’s related to the company & its 
+employees, fair and just access is provided in resolving their grievances. In case any 
+employee experiences any form of sexual harassment, they can report the incident 
+by directly writing to secure@hcl.com. To ensure appropriate reporting of Unethical 
+and Improper Practices, the Company encourage its employees to report matters 
+to whistleblower@hcl.com.
+Other than Permanent Employees
+HCL Technologies Annual Report 2022-23
+190
+7. 	 Membership of employees and workers in association(s) or Unions recognized by the listed entity
+	
+	
+While HCLTech does not restrict any employee from being a member of any employee-related association and provides freedom, the 
+company also ensures that it abides by the local laws present across the geographies that it operates in.
+Category
+FY 2022-23
+FY 2021-22
+Total
+employees /
+workers in
+respective 
+category
+(A)
+No. of employees 
+/ workers in 
+respective
+category, who are
+part of
+association(s) or
+Union
+(B)
+% 
+(B/A)
+ 
+ 
+ 
+Total 
+employees / 
+workers in
+respective 
+category
+(C)
+ 
+No. of employees /
+workers in
+respective 
+category, who 
+are part of 
+association(s) or 
+Union
+(D)
+% 
+(D/C)
+ 
+ 
+ 
+Total Permanent 
+Employees
+225,944
+742
+0.33
+ 208,877
+ 729
+ 0.35
+- Male
+159,842
+641
+0.40
+150,281
+634
+0.42
+- Female
+ 65,907
+101
+0.15
+58,525
+95
+0.16
+- Others
+195
+-
+-
+71
+-
+-
+	
+Note: The above data is inclusive of Work councils and Unions.
+8. 	 Details of training given to employees and workers 
+	
+Health and Safety Trainings: Based on the risk exposure, periodic trainings are conducted for HCLTech employees and contractor 
+employees.
+	
+Skill upgradation trainings:
+FY 2022-23
+FY 2021-22
+Category
+Total 
+(A)
+On skill upgradation
+Total  
+(C)
+On skill upgradation
+No. (B)
+% (B/A)
+No. (D) 
+% (D/C)
+Male
+171,096
+124,462
+72.74%
+150,281
+95,491
+63.54%
+Female
+69,914
+52,947
+75.73%
+58,525
+34,341
+58.68%
+Others
+342
+33
+9.6%
+71
+30
+42.25%
+Total
+241,352
+177,442
+73.52%
+208,877
+129,862
+62.17%
+9. 	 Details of performance and career development reviews of employees and worker 
+	
+100% of eligible employees have received performance and career development reviews.
+10. 	Health and safety management system 
+a) 	 Whether an occupational health and safety (“OH&S”) management system has been implemented by the entity? 
+(Yes / No). If yes, what is the coverage of such a system?
+	
+Yes, while 100% of HCLTech employees are covered under the OH&S Policies and procedures, facilities covering 65% of 
+HCLTech employees are certified against ISO 45001.
+b) 	 What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by 
+the entity? 
+	
+The Company has established, implemented, and maintained a formal process for hazard identification, risk assessment and 
+control to effectively manage workplace and safety hazards across our facilities. HCLTech uses the failure mode effect analysis 
+(“FMEA”) to identify work-related hazards and assess risks on a routine and non-routine basis.
+c) 	 Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks. 
+	
+Yes.
+Business Responsibility & Sustainability Report
+191
+d) 	 Do the employees / workers of the entity have access to non-occupational medical and healthcare services? 
+	
+Yes.
+11. 	Details of safety related incidents, in the following format
+Safety Incident / Number
+Category 
+FY 2022-23
+FY 2021-22
+Lost Time Injury Frequency Rate (“LTIFR”) 
+(per one million-person hours worked)
+Employees
+The Company is continuously looking to strengthen 
+the monitoring systems in place and will start reporting 
+on this data point in future.
+Total recordable work-related injuries
+Employees
+5
+1
+No. of fatalities 
+Employees
+-
+-
+High consequence work-related injury or 
+ill-health (excluding fatalities)
+Employees
+-
+-
+12. 	Describe the measures taken by the entity to ensure a safe and healthy workplace. 
+	
+The Company has the following measures to ensure a safe and healthy workplace:
+1.	
+Compliance with country specific Health & Safety laws. 
+2.	
+Training on Occupational Health and Safety to employees. 
+3.	
+Inspection & audits to check the compliance level. 
+4.	
+Provision of Personal Protective Equipment to employees wherever needed. 
+	
+In addition to this, HCL Healthcare, which is an arm of HCLTech Group provides end-to-end health care solutions to employees and 
+their family members. The Company also provide added lab services, virtual specialist doctor consultations, eye care solutions and 
+dental services. The Company’s clinics are designed to meet international standards and are committed to providing a comprehensive 
+range of health care solutions to its employees and their families. HCLTech sites are certified under the OHS management system 
+and it ensures the required measures are taken as per the standard to provide a safe and healthy workplace. Additionally, HCLTech 
+sites are certified under PROTEK - POSI (“Prevention of spread of infection”).
+	
+The Company has the necessary systems in place to ensure employees’ safety is not compromised and they are encouraged 
+to discuss any work-related hazards and health issues. The Company has safety committees that meet at regular intervals. The 
+Company has safety incident reporting and management process to ensure that all work-related incidents are reported and closed 
+after taking necessary corrective actions. 
+13. 	Number of complaints on the following made by employees and workers 
+Particulars
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution at the 
+end of year 
+Remarks
+Working 
+Conditions
+14
+1
+-
+1
+-
+-
+Health & Safety
+5
+-
+-
+-
+-
+-
+14. 	Assessments for the year 
+Particulars
+% of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15. 	Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks / concerns arising from assessments of health & safety practices and working conditions.
+	
+The Company has taken proactive steps to address safety incidents and mitigate risks associated with health and safety practices. 
+These measures reflect its commitment to maintaining a safe working environment and prioritizing the well-being of our employees 
+and stakeholders.
+HCL Technologies Annual Report 2022-23
+192
+	
+To enhance accessibility and inclusivity, The Company has modernized entry / exit points at the Noida campus (Sector-126), specifically 
+focusing on gate no. 2 to ensure smooth access for People with Disability (PWDs). This initiative promotes equal opportunities and 
+aligns with Compnay’s commitment to diversity and inclusivity. Rigorous adherence to Safe Work Method Statement (“SWMS”) has 
+been implemented before undertaking any hazardous work at the Noida Campus. This systematic approach ensures that potential 
+risks are identified, assessed, and appropriate safety measures are in place, minimizing the likelihood of incidents and promoting a 
+culture of safety.
+	
+Recognizing the importance of emergency preparedness, the Company is in the process of reworking the Emergency Management 
+Process at the Noida Campus. Collaborating with external agencies, the Company aims to holistically improve the safety environment 
+within the office premises. This initiative encompasses comprehensive safety measures for employees, visitors, vendor staff, and 
+even children, ensuring their well-being during any unforeseen circumstances.
+	
+Adequate monitoring measures have been deployed during material shifting on service lifts at the Chennai Campus. This focus on 
+monitoring helps mitigate potential risks associated with material handling and transportation, reducing the likelihood of accidents 
+and injuries. Regular Planned Preventive Maintenance (“PPM”) work is carried out at the Chennai Campus. By conducting routine 
+maintenance activities, the Company ensure the optimal functioning of equipment and infrastructure, minimizing potential hazards 
+and improving overall safety conditions.
+	
+To address specific risks and concerns, a study and risk assessment on water floods were conducted at the Jigani Campus in 
+Bangalore. This comprehensive evaluation enables the Company to implement appropriate measures to mitigate the risks associated 
+with water flooding, enhancing the safety of its operations.
+	
+Several infrastructure improvements have been made at the Company’s campuses. For instance, the FM200 fire suppression system 
+at the Bengaluru Jigani Campus has been replaced with the NOVAC system, enhancing fire safety measures. 
+	
+Additionally, the cooling tower platform at the Bengaluru Jigani Campus has been replaced with Fiber Reinforced Plastic (“FRP”)
+material, ensuring structural integrity and promoting a safe working environment.
+	
+Various other initiatives, such as installing handrails, implementing safety systems, conducting floor activities, and enhancing lighting 
+and emergency provisions, have been undertaken across the Compnay’s campuses to address specific safety concerns and promote 
+a culture of safety.
+	
+By continuously evaluating risks, conducting assessments, and implementing appropriate measures, the Compnay strives to enhance 
+health and safety practices across its campuses, fostering a culture of safety and well-being for all.
+Leadership Indicators:
+1. 	 Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) 
+Workers (Y/N). 
+	
+Yes, covering all the employees of the Company.
+2. 	 Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the 
+value chain partners. 
+	
+At HCLTech, all legal compliances are reviewed as part of our vendor audits.
+3. 	 Provide the number of employees / workers having suffered high consequence work related injury / ill-health / fatalities (as 
+reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable employment or whose 
+family members have been placed in suitable employment: 
+Particulars
+Total no. of affected employees / workers
+No. of employees / workers that are rehabilitated 
+and placed in suitable employment or whose family 
+members have been placed in suitable employment
+FY 2022-23
+FY 2021-22
+FY 2022-23
+FY 2021-22
+Employees
+-
+-
+-
+-
+4. 	 Does the entity provide transition assistance programs to facilitate continued employability and the management of career 
+endings resulting from retirement or termination of employment? (Yes / No) 
+	
+	
+Yes.
+Business Responsibility & Sustainability Report
+193
+5. 	 Details on assessment of value chain partners:
+Particulars
+% of value chain partners (by value of business done with such partners) that were 
+assessed
+Health and safety conditions
+100% of the high-risk value chain partners are covered.
+Working conditions 
+100% of the high-risk value chain partners are covered.
+6. 	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments 
+of health and safety practices and working conditions of value chain partners.
+	
+Below are few of the corrective actions taken to address different risk / concerns recorded in audits-
+•	
+Toolbox talk provision for external service provider workers pertain to assigned work has been provisioned to put control and 
+create awareness on PPEs importance and work related OH&S risk.
+•	
+As per the Company Policy the CCTV cameras are monitored, and the data is maintained for 30 days. All relevant data are 
+maintained for records.
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders.
+Essential Indicators:
+1.	
+Describe the processes for identifying key stakeholder groups of the entity. 
+	
+The first stage of HCLTech’s stakeholder relations involves mapping and prioritizing key stakeholders based on relevance, role, and 
+influence. Once the stakeholders have been identified and prioritized, the engagement channels are established. The result from 
+the engagement is channelised inside the organization and ensures that the stakeholder gets the right feedback or resolution as the 
+case may be. Internal Stakeholders of the Company include employees, senior leaders, managers, Board of Directors, members 
+of HCL Foundation. External stakeholders include customers, investors, regulatory bodies, vendors, service providers and media. 
+The stakeholder engagement exercise has helped the Company’s ESG focus areas in line with its underlying philosophy of Act, 
+Pact & Impact. Stakeholder engagement is a critical aspect of HCLTech’s ESG strategy. Stakeholder engagement at HCLTech is a 
+continuous process and helps us gauge and address the expectations of our stakeholders.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group. 
+	
+Details of stakeholder engagement are available in Sustainability Report (Section ‘Stakeholder Engagement’).
+Leadership Indicators:
+1. 	 Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics 
+or if consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+The Executive Directors and Senior Management Personnel are actively engaged in regular interactions with various stakeholders, 
+including investors, employees, and customers. These engagements provide invaluable feedback that plays a crucial role in the 
+Company’s commitment to sustainability. The feedback obtained from these interactions is then brought to the attention of the Board 
+to ensure that the concerns and ideas of its stakeholders are given due consideration.
+	
+In addition, any significant topics that arise through regular stakeholder engagement are brought to the Board through various 
+channels. The Company has a well-defined process in place for addressing suggestions, complaints, and grievances, which are 
+carefully evaluated based on their significance. Depending on the nature and scope of the issues, they are referred to the appropriate 
+committee of the Board.
+2. 	 Whether stakeholder consultation is used to support the identification and management of environmental, and social 
+topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were 
+incorporated into policies and activities of the entity. 
+	
+Yes. The stakeholder consultations are one of the key inputs to determining the material topics. The Company looked at the aspects 
+each stakeholder has brought out during the engagement and prioritized them using a risk and responsibility matrix to arrive at the 
+Company’s 12 material topics.
+HCL Technologies Annual Report 2022-23
+194
+3. 	 Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized 
+stakeholder groups. 
+	
+The CSR projects handled by HCL Foundation focus on vulnerable / marginalized stakeholders as beneficiaries. The design of all 
+Company’s interventions ensure that the beneficiaries of its projects are from the vulnerable / marginalized groups. The Diversity, 
+Equity and Inclusion activities of the Company also include actions in support which are explained in the respective section of the 
+annual report and sustainability report.
+PRINCIPLE 5: Businesses should respect and promote human rights.
+Essential Indicators:
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format: 
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. of 
+employees 
+/ workers 
+covered (B)
+% (B/A) 
+Total (C)
+No. of 
+employees 
+/ workers 
+covered (D)
+% (D/C)
+Employees
+Permanent
+225,944
+210,843
+93.32%
+208,877
+174,020
+83.31%
+Other than 
+permanent 
+15,408
+13,364
+86.73%
+15,957
+9,856
+61.77%
+Total 
+employees
+241,352
+224,207
+92.90%
+224,834
+183,876
+81.78%
+2. 	 Details of minimum wages paid to employees and workers, in the following format
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+Equal to 
+minimum wage 
+More than 
+minimum wage 
+Total (D)
+Equal to minimum 
+wage 
+More than minimum 
+wage 
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+Male
+159,842
+0
+0%
+159,842
+100%
+150,281
+0
+0%
+150,281
+100%
+Female
+65,907
+0
+0%
+65,907
+100%
+58,525
+0
+0%
+58,525
+100%
+Others
+195
+0
+0%
+195
+100%
+71
+0
+0%
+71
+100%
+Other than permanent
+Male
+11,254
+0
+0%
+11,254
+100%
+11,539
+0
+0%
+11,539
+100%
+Female
+4,007
+0
+0%
+4,007
+100%
+4,255
+0
+0%
+4,255
+100%
+Others
+147
+0
+0%
+147
+100%
+163
+0
+0%
+163
+100%
+3. 	 Details of remuneration / salary / wages, in the following format: 
+Particulars
+Male
+Female
+Number
+Median remuneration / salary /
+wages of respective category 
+(` in Crore)
+Number
+Median remuneration / salary /
+wages of respective category
+(` in Crore)
+Board of Directors**
+Refer Section 40 of the Directors’ Report**
+Key Managerial 
+Personnel
+Employees other than 
+BoD & KMP
+	
+Note: ** Section 40 of the Directors’ Report includes ratio of remuneration of each director to the median remuneration of the 
+employees and the percentage increase in the median remuneration of employees in the financial year.
+Business Responsibility & Sustainability Report
+195
+4. 	 Do you have a focal point (Individual / Committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business? (Yes / No) 
+	
+Yes
+5. 	 Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+	
+Employees and Individuals affected have access to mechanisms to raise concerns and such mechanisms are accessible, equitable 
+and transparent. Any Employee or Individual may report a concern in writing or orally by communicating it to one of the following: 
+	
+•  Their Reporting Manager; 
+•  Human Resources; and / or
+•  The Ethics Committee via whistleblower@hcl.com. 
+	
+Employees and Individuals are advised to submit a written complaint narrating the true sequence of the events leading to the 
+violation along with any supporting evidence. Concerns may be reported as confidential or on an anonymous basis. The Company is 
+committed to keeping the identity of the reporting Employee or Individual confidential to the maximum extent as consistent with the 
+Company’s legal obligations but subject to the Company’s need to investigate reported violations.
+6. 	 Number of Complaints on the following made by employees and workers:
+Particulars
+FY 2022-23
+FY 2021-22
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end of 
+year
+Remarks 
+Filed 
+during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Sexual 
+Harassment
+55
+16*
+-
+23
+2*
+-
+Discrimination 
+at workplace
+Nil
+Nil
+Among the 
+workplace 
+grievances reported 
+by employees in FY 
+2022-23, there are 
+no substantiated 
+issues with respect 
+to discrimination.
+Nil
+Nil
+Among the 
+workplace 
+grievances reported 
+by employees in FY 
+2021-22, there are 
+no substantiated 
+issues with respect 
+to discrimination.
+Child Labour
+Nil
+Nil
+-
+Nil
+Nil
+-
+Forced Labour/
+Involuntary 
+Labour
+Nil
+Nil
+-
+Nil
+Nil
+-
+Wages
+Nil
+Nil
+-
+Nil
+Nil
+-
+Other human 
+rights related 
+issues
+Nil
+Nil
+-
+Nil
+Nil
+-
+	
+*As on March 31st of respective year
+7. 	 Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases. 
+	
+The “SECURE” initiative focuses on preventing and addressing grievances of sexual harassment in the workplace in line with 
+HCLTech’s Prevention and Redressal of Sexual Harassment at workplace policy. The policy and processes comply with the prevailing 
+laws, specifically the “The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013” for 
+India-based employees and other relevant regulations in the countries that it operates. In case any employee experiences any form 
+of sexual harassment, they can report the incident by directly writing to secure@hcl.com. 
+	
+The complaints raised via this channel are investigated and handled with utmost fairness and confidentiality by the Internal Complaints 
+Committee (“ICC”). HCLTech further ensures that standard SLAs as per law are met. 
+	
+False Accusation: Where the ICC arrives at the conclusion that the allegation against the respondent is malicious, or the aggrieved 
+woman or any other person making the complaint has made the complaint knowing it to be false, or the aggrieved woman or any 
+other person making the complaint has produced any forged or misleading document, it may recommend to the employer to take 
+suitable action viz. written apology, warning, reprimand or censure, withholding of promotion, withholding of pay rise or increments, 
+HCL Technologies Annual Report 2022-23
+196
+terminating the perpetrator from service or undergoing a counselling session or carrying out community service. This does not, 
+however, include complaints that are difficult to prove or have been made in good faith. 
+	
+Right to appeal: Any person aggrieved from the recommendations made may prefer an appeal to the court or tribunal, within the 
+stipulated period in accordance with the manner as may be prescribed, without prejudice to provisions contained in any other law for 
+the time being in force.
+8. 	 Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes
+9. 	 Assessments of the year
+Particulars
+% of plants and offices that were assessed (by entity or statutory authorities or third parties)
+Child labour 
+75%
+Forced / involuntary labour 
+75%
+Sexual harassment 
+75%
+Discrimination at 
+workplace 
+75%
+Wages 
+75%
+Others – please specify
+-
+10. 	Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above. 
+	
+No significant risk / concern identified.
+Leadership Indicators:
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances / complaints. 
+	
+No significant changes in process were required resulting from the grievances and complaints this year.
+2. 	 Details of the scope and coverage of any Human rights due diligence conducted
+	
+An independent third-party human rights assessment was conducted which covered 75% of Company’s office locations as per employee 
+headcount. The Company has incorporated human rights aspects into the due diligence process for onboarding any new vendor.
+3. 	 Is the premise / office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons 
+with Disabilities Act, 2016?
+	
+Yes.
+4. 	 Details on assessment of value chain partners:
+Particulars
+% of value chain partners (by value of business done with such partners) that 
+were assessed 
+Sexual harassment  
+The Company’s framework for assessment is a risk based one and not just based on the 
+value of business.
+The Company ensures communication to all vendors through incorporation of relevant 
+contractual clauses in the agreement executed. 
+100% of new vendor due diligences cover these topics.
+Covered as part of vendor risk assessment of selected high-risk vendors. 
+Discrimination at workplace 
+Child labour 
+Forced/involuntary labour 
+Wages 
+Others – please specify
+5. 	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above. 
+	
+Appropriate trainings and capacity buildings are conducted based on the concerns arising from the assessments.
+Business Responsibility & Sustainability Report
+197
+PRINCIPLE 6:  Businesses should respect and make efforts to protect and restore the environment 
+Essential Indicators:
+1. 	 Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format: 
+Parameter 
+Unit
+FY 2022-23
+FY 2021-22
+Total electricity consumption (A) 
+GJ
+973,417.28
+888,909.00
+Total fuel consumption (B) 
+GJ
+44,080.16
+35,445.3
+Energy consumption through other sources (C) 
+GJ
+-
+-
+Total energy consumption (A+B+C)
+GJ
+1,017,497
+924,354
+Energy intensity per rupee of turnover 
+(Total energy consumption / turnover in rupees)
+GJ/Million ₹
+1.00
+1.07
+	
+Note: Indicate if any independent assessment / evaluation / assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency. 
+	
+Yes, the independent assurance of BRSR and Sustainability Report was conducted by Ernst & Young Associates LLP and Assurance 
+Statement is a part of respective reports. In addition, independent assurance for quantification and reporting of greenhouse gas 
+emissions and removals was conducted by BSI against ISO 14064-1:2018. 
+2.  	 Does the entity have any sites / facilities identified as Designated Consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been 
+achieved. In case targets have not been achieved, provide the remedial action taken, if any.  
+	
+Not Applicable.
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter 
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres) all values in KL
+(i) Surface water
+-
+-
+(ii) Groundwater
+286,101.20
+311,277
+(iii) Third party water (Tanker and drinking water supplies)
+342,432.63
+231,972
+(iv) Seawater / desalinated water
+-
+-
+(v) Others (Rainwater and Municipality water)
+244,154.00
+156,070.23
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+872,688
+699,319
+Total volume of water consumption (in kilolitres)
+863,373
+675,866
+Water intensity per rupee of turnover (Water consumed / turnover) KL/Million ₹
+0.85
+0.79
+	
+Note: Indicate if any independent assessment / evaluation / assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+Yes, the independent assurance of BRSR and Sustainability Report was conducted by Ernst & Young Associates LLP and Assurance 
+Statement is a part of respective reports. In addition, independent assurance for quantification and reporting of greenhouse gas 
+emissions and removals was conducted by BSI against ISO 14064-1:2018. 
+4. 	 Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation. 
+	
+97% of HCL’s sewage water is treated at HCLTech’s sewage treatment plants. Furthermore, the treated water is re-used at its 
+campuses. Only 3% of the sewage water is sent to the common STPs run by the local municipalities.
+5. 	 Please provide details of air emissions (other than GHG emissions) by the entity, in the following format: 
+	
+This is not a material aspect.
+HCL Technologies Annual Report 2022-23
+198
+6. 	 Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format: 
+Parameter 
+Unit 
+FY 2022-23
+FY 2021-22
+Total Scope 1 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+15,878
+18,765
+Total Scope 2 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+157,865
+143,642
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover
+MT CO2 Equivalent / 
+Million ₹
+0.17
+0.18
+	
+Note: Indicate if any independent assessment / evaluation / assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+Yes, the independent assurance of BRSR and Sustainability Report was conducted by Ernst & Young Associates LLP and Assurance 
+Statement is a part of respective reports. In addition, independent assurance for quantification and reporting of greenhouse gas 
+emissions and removals was conducted by BSI against ISO 14064-1:2018. 
+7. 	 Does the entity have any project related to reducing Green House Gas emissions? If yes, then provide details. 
+	
+Yes. HCLTech participated in several green projects that included increasing the percentage of renewable energy in its energy mix via 
+power purchase agreements, energy efficiency measures that focused on optimization of chiller, EOL replacement of UPS, HVAC High 
+side and Low side, ATCS Operation Elevator & STP operations. Additionally, the Company has started an EV conveyance initiative for 
+its employees in the Southern Region in India which is also aimed at reducing the overall GHG emissions of the Company.  
+8. 	 Provide details related to waste management by the entity, in the following format:
+Parameter 
+FY 2022-23
+FY 2021-22 
+Total waste generated (in metric tonnes)
+Plastic waste (A)
+28.44
+14.72
+E-waste (B)
+383.55
+127.0
+Bio-medical waste (C)
+3.97
+3.9
+Construction and demolition waste (D)
+29.10
+-
+Battery waste (E)
+67.60
+392.08
+Used Oil DG (F)
+8.51
+13.16
+Other Hazardous waste. Please specify, if any. (G) 
+(DG Filter, DG Coolant Oil & Oil-Soaked Cotton Waste)
+2.69
+2.08
+Other Non-hazardous waste generated (H). Please specify, if any. 
+(Break-up by composition i.e. by materials relevant to the sector)
+(Food Waste, Paper and Tissue, Garden Waste, Wooden waste, Carton box, 
+Thermocol Waste, Tin waste, Shredding Papers, Metal Waste & Sanitary waste)
+1,468.30
+521.65
+Total (A+B + C + D + E + F + G + H) 
+1,992.16
+1,074.59
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)
+Category of waste
+(i) Recycled
+1,525 MT
+-
+(ii) Re-used
+85 MT
+-
+(iii) Other recovery operations
+0
+-
+Total 
+1,610 MT
+- 
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) Incineration
+8 MT
+-
+(ii) Landfilling
+0
+-
+(iii) Other disposal operations 
+0
+-
+Total
+8 MT
+-
+	
+Note: Indicate if any independent assessment / evaluation / assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+Business Responsibility & Sustainability Report
+199
+	
+Yes, the independent assurance of BRSR and Sustainability Report was conducted by Ernst & Young Associates LLP and Assurance 
+Statement is a part of respective reports. In addition, independent assurance for quantification and reporting of greenhouse gas 
+emissions and removals was conducted by BSI against ISO 14064-1:2018.
+9. 	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your 
+company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to 
+manage such wastes.
+	
+The details are as mentioned below: 
+• 	
+E-waste – The Company’s E-waste management practices focus on reducing electronic waste, promoting responsible disposal 
+and recycling practices, and maximizing the lifespan of IT equipment to minimize the environmental impact and promote 
+sustainability. The Company’s initiatives are briefly listed below:
+■	
+Responsible IT Asset Disposal: Ensured implementation of proper disposal practices for IT assets at the end of their lifecycle, 
+through partnership with certified e-waste recyclers, dismantlers / refurbishers who follow environmentally responsible 
+processes. The goal is to ensure that IT equipment are recycled or disposed of in a manner that minimizes environmental 
+impact and complies with E-waste handling and management guidelines.
+■	
+IT Equipment Recycling: Collected, segregated and disposed IT Scrap in designated storerooms and initiated disposal 
+process through verified E-waste handlers / recyclers with time bound disposal activity.
+■	
+Employee Awareness and Training: Educated relevant team members on the importance of IT waste and guidelines for 
+responsible IT asset management. Training sessions and awareness campaigns were organized to promote proper recycling 
+and data wiping before disposal.
+■	
+Performance Monitoring and Reporting: Ensured regular monitoring and reporting on IT waste metrics, such as the quantity 
+of electronic waste generated, stored and recycling rates, to track progress and identify areas for improvement. 
+• 	
+Paper – With the aim of reducing paper consumption, initiatives like printer pin deployment, printer on alternate floors, setting 
+up maximum printing limit, double side printing and reduction in font size are encouraged. These measures have resulted in 
+significant conservation of paper. 
+• 	
+Reduce, Recycle, Reuse – The waste management programs are based on the principles of 3R’s. All waste generated by HCL is 
+measured and quantified. The waste is categorized according to the source and disposal method. Hazardous waste is disposed 
+of in an environmentally friendly manner and paper waste is recycled and reused. Bio medical waste is disposed of in a safe 
+manner. Food remains and garden waste are used to make manure. 
+• 	
+Plastic - In line with the Central & State Govt. (India) Directives in the year 2018, HCLTech has made all its campuses in India 
+free from ‘Single use plastics’ through alternative arrangements from the year 2019.
+• 	
+Other hazardous waste – Other hazardous wastes that include bio medical waste & sanitary napkin waste is disposed in a safe 
+manner.
+10. 	If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals 
+/ clearances are required, please specify details in the following format:
+	
+Not Applicable
+11. 	Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current 
+financial year (FY 2022-23): 
+	
+Not Applicable
+12. 	Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention 
+and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder 
+(Y/N). If not, provide details of all such non-compliances, in the following format: 
+	
+Yes
+S. No. 
+Specify the law / regulation 
+/ guidelines which was not 
+complied with
+Provide details 
+of the non 
+compliance
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution 
+control boards or by courts
+Corrective action 
+taken, if any
+Not Applicable
+HCL Technologies Annual Report 2022-23
+200
+Leadership Indicators:
+1. 	 Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, in the 
+following format:
+Parameter 
+Unit
+FY 2022-23
+FY 2021-22
+From renewable sources
+Total electricity consumption (A)
+GJ
+178,785.52
+159,677.00
+Total fuel consumption (B)
+GJ
+-
+-
+Energy consumption through other sources (C) 
+GJ
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+GJ
+178,785.52
+159,677.00
+From non-renewable sources
+Total electricity consumption (D)
+GJ
+794,631.75
+729,232.00
+Total fuel consumption (E)
+GJ
+44,080.16
+35,445.30
+Energy consumption through other sources (F)
+GJ
+-
+-
+Total energy consumed from non-renewable sources (D+E+F)
+GJ
+838,712.00
+764,677.00
+	
+Note: Indicate if any independent assessment / evaluation / assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+Yes, the independent assurance of BRSR and Sustainability Report was conducted by Ernst & Young Associates LLP and Assurance 
+Statement is a part of respective reports. In addition, independent assurance for quantification and reporting of greenhouse gas 
+emissions and removals was conducted by BSI against ISO 14064-1:2018. 
+2. 	 Provide the following details related to water discharged: 
+Parameter 
+FY 2022-23
+FY 2021-22
+Water discharge by destination and level of treatment (in kilolitres)
+(i) To Surface water
+-
+-
+     - No treatment
+-
+-
+     - With treatment – please specify level of treatment
+-
+-
+(ii) To Groundwater
+     - No treatment
+-
+-
+     - With treatment – please specify level of treatment
+-
+-
+(iii) To Seawater
+-
+-
+      - No treatment
+-
+-
+      - With treatment – please specify level of treatment
+-
+-
+(iv) Sent to third parties 
+      - No treatment
+9,315
+23,453.06
+      - With treatment – please specify level of treatment
+-
+-
+(v) Others (STP-Treated water)
+-
+-
+      - No treatment
+-
+-
+      - With treatment – please specify level of treatment
+-
+-
+Total water discharged (in kilolitres) 
+9,315
+23,453.06
+	
+Note: Indicate if any independent assessment / evaluation / assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+Business Responsibility & Sustainability Report
+201
+	
+Yes, the independent assurance of BRSR and Sustainability Report was conducted by Ernst & Young Associates LLP and Assurance 
+Statement is a part of respective reports. In addition, independent assurance for quantification and reporting of greenhouse gas 
+emissions and removals was conducted by BSI against ISO 14064-1:2018.
+3. 	 Water withdrawal, consumption and discharge in areas of water stress (in kilolitres): For each facility / plant located in areas 
+of water stress, provide the following information:
+(i)	 Name of the area:
+(ii)	 Nature of operations:
+(iii)	 Water withdrawal, consumption and discharge in the following format:
+	
+Not Applicable.
+4. 	 Please provide details of total Scope 3 emissions & its intensity, in the following format: 
+    Parameter 
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 3 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+MT CO2e
+277,267
+229,973
+Total Scope 3 emissions per rupee of turnover
+MT CO2e / Million r
+0.27
+0.26
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.
+	
+Yes, the independent assurance of BRSR and Sustainability Report was conducted by Ernst & Young Associates LLP and Assurance 
+Statement is a part of respective reports. In addition, independent assurance for quantification and reporting of greenhouse gas 
+emissions and removals was conducted by BSI against ISO 14064-1:2018. 
+5. 	 With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details 
+of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation 
+activities. 
+	
+Not Applicable.
+6. 	 If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as 
+well as outcome of such initiatives, as per the following format:
+Initiative undertaken 
+Details of the initiative (Web-link, if any, may be provided along-
+with summary)
+Outcome of the initiative 
+GHG Reduction Initiatives-tCo2e
+Renewable Energy
+Renewable Power Purchase
+24624.46
+Energy Efficiency
+Chiller Operational Performances Improvement
+143.75
+Energy Efficiency
+HVAC Operational Performances Improvement
+827.73
+Energy Efficiency
+Energy Efficient Lighting & Controls
+498.18
+Energy Efficiency
+Effective utilization of UPS
+94.91
+Energy Efficiency
+Elevator & STP Operation optimization
+21.57
+Energy Efficiency
+Solar water Heater
+0
+Water Saving Initiatives- Water saved (ml)
+Water Management
+STP Treated Water use
+7.86
+Water Management
+Water Aerators
+0
+Water Management
+Sensor Based water Taps
+2.91
+Water Management
+Water efficient Operational control
+25.63
+	
+Note: For additional details, refer to our Sustainability Report.
+HCL Technologies Annual Report 2022-23
+202
+7. 	 Does the entity have a business continuity and disaster management plan? Give details in 100 words / web link. 
+	
+Technological, geopolitical, societal, economic, and environmental risks are all coming together to create an intrinsically complex and 
+fast-changing global risk landscape. The Company's reputation as a 21st Century Enterprise is often measured by its resilience to 
+threats, and how efficiently The Company respond & manage business disruptions. HCLTech is committed to its employees, clients, 
+and interested parties to ensure that necessary efforts are made to safeguard life and safety of personnel, protect property and 
+resume critical services at predefined levels in the event of any untoward incident. To meet the organizational continuity objective, 
+The Company have made significant efforts towards Crisis Management and Resilience planning to ensure effective response, 
+prioritized recovery of its time-sensitive operations and mitigation of potential business continuity risks.
+	
+	
+Crisis and Resilience (“C&R”) Program falls under the purview of Risk and Compliance function headed by the Chief Risk Officer of 
+HCLTech. The C&R Program is guided by the board, led by subject matter experts, and is based on ISO 22301 standard and global 
+best practices. The Company undertake active engagement with ecosystem partners for real-time horizon scanning of risks and 
+early warning signals. The Company has embedded Resilience-by Design philosophy in the firm across different dimensions of the 
+“new-normal” including resilience in work, workforce, workplace, technology, supply chain, and leadership. The Company has started 
+integrating climate change risks into each of these dimensions and their business continuity / contingency planning solutions.
+ 	
+Being an IT / ITeS provider, there is a potential that our operations may be affected due to core-technical risks materializing inour 
+environment like technology failures, programming errors, cyberattacks etc. In order to mitigate these risks, The Company has 
+embedded ‘Resilience-by-Design’ across our organization through:
+ 	
+•             Battle hardened Business Continuity & Disaster Recovery Plans including Cyber Incident readiness
+	
+•             Geographically dispersed Data Centers
+	
+•             Robust multi-vendor MPLS & Internet Network
+	
+•              Scalable Work from Home (WFH) Computing capability with stringent security controls
+ 	
+HCLTech's Exercising and Testing Framework provides a comprehensive approach to validate effectiveness of the business continuity 
+strategies implemented across the organization. The Company conduct exercises at facility, city, country level(s) based on nature, 
+scale, and complexity of operations. Types of business continuity exercises include (1) Call Tree, (2) Tabletop and (3) Simulation.
+ 	
+Furthermore, our Crisis Management Framework provides agile response, timely communication with internal and external 
+stakeholders, and recovery & restoration based on the rapidly evolving global threat landscape, which includes climate threats.
+8. 	 Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or 
+adaptation measures have been taken by the entity in this regard? 
+	
+There were no significant adverse impacts to the environment arising from the value chain of HCLTech. 
+9. 	 Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts.
+S.No.
+No. of value 
+chain partners 
+that were 
+assessed
+% of value chain partners (by value of business done 
+with such partners) that were assessed
+Disclose any significant adverse impact 
+to the environment, arising from the 
+value chain of the entity. What mitigation 
+or adaptation measures have been taken 
+by the entity in this regard
+1
+1,046
+The Company does not monitor the percentage of value 
+chain partners by the value of business. However, as part of 
+its Vendor Risk Management Program, the Company take a 
+risk based approach to execute vendor assessment. There 
+were 406 vendors which were noted to be relevant from EHS 
+domain perspective.
+57 findings relating to EHS practices were 
+identified. As of 31st March, 2023, 20 findings 
+were addressed with appropriate corrective 
+actions implemented and closed and the rest 
+37 are being attended to.
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent 
+Essential Indicators:
+1. 	 a)   Number of affiliations with trade and industry chambers / associations: 
+	
+      39
+Business Responsibility & Sustainability Report
+203
+b) 	 List the top 10 trade and industry chambers / associations (determined based on the total members of such a body) the 
+entity is a member of / affiliated to.
+S. 
+No. 
+Name of the trade and 
+industry chambers / 
+associations
+Reach of trade and industry chambers / associations 
+(State / National)
+1
+World Economic Forum 
+(“WEF”) and WEF Global 
+Parity Alliance
+Ever since the Company joined WEF at Davos, it has always made its presence felt on the 
+global platform of Thought Leadership, Innovation and Technological Dialogues towards 
+the Humanitarian and Socio-Economic World Order. Additionally, HCLTech a WEF Global 
+Parity Alliance founding member. Established in collaboration with McKinsey & Company, 
+the Global Parity Alliance seeks to promote diversity, equity & inclusion (“DE&I”) best 
+practices that benefit underrepresented groups and are hardwired across business 
+processes – including creating equitable work opportunities, promoting supplier diversity, 
+and launching inclusive products and services. The Global Parity Alliance’s vision is to 
+drive better and faster DE&I improvements by sharing what works, raising each other’s 
+aspirations, and elevating DE&I actions across organizations beyond the Alliance. https://
+www.wherewomenwork.com/Career/4315/HCL-WEHCLTechlobal-Parity-Alliance. 
+2
+UN Women
+Men hold a disproportionate level of power across cultures globally, but they remain 
+largely absent from the gender equality conversation. Similar to other human rights and 
+social justice movements like Black Lives Matter and LGBTQIA+ equality, gender equality 
+requires action and allyship across all of society. A flagship initiative of UN Women, 
+the United Nations entity for Gender Equality, the HeForShe solidarity movement is an 
+international platform that invites and engages men and boys to complement the work of 
+the women’s movement and create an equal world for all.
+3
+UNGC
+HCLTech supports the Ten Principles of the United Nations Global Compact on human 
+rights, labour, environment, and anti-corruption as a Participant Member. We are 
+committed to making the UN Global Compact and its principles part of the strategy, 
+culture and day-to-day operations of our company, and to engaging in collaborative 
+projects which advance the broader development goals of the United Nations, particularly 
+the Sustainable Development Goals. HCLTech has made a clear statement of this 
+commitment to our stakeholders and the general public.
+HCLTech has become first MNC with headquarters in India to become member of the 
+Water Resilience Coalition. We have also endorsed the CEO Water Mandate under the 
+UNGC.
+4
+NASSCOM
+HCLTech has been one of the founding members of National Association of Software 
+Services Companies since 1999 and has extended its vitality towards the apex Chamber 
+of Software Service Companies in India as well as across its Global Trade contours.
+5
+Other Industry 
+Associations
+HCLTech has an active association with most country-specific trade bodies and institutions 
+like CII, FICCI, IGCC, IFCCI, AIMA, CIPL, Women's Executive Forum, Indo-Spanish 
+Chamber of Commerce & Industry, Swiss India Business Hub, Business Sweden, and 
+works very closely with Department of International Trade, Invest India, Sweden Trade 
+and Invest, Invest in Denmark, Australian Trade and Investment Commission (Austrade), 
+Invest in Hessen (“HTAI”), Germany Trade & Invest (“GTAI”), Invest in Bavaria, Invest in 
+Saxony, Invest in Lower Saxony, Invest in Romania, Invest in Spain, British Chambers 
+of Commerce, London & Partners, Portuguese Trade and Investment Agency, Eschborn 
+Economic Development Agency, Frankfurt RheinMain, Netherlands India Chamber of 
+Commerce & Trade, Netherlands Foreign Investment Agency, Invest in Holland, Flanders 
+Investment and Trade, Ireland India Business Association, Industrial Development Agency 
+Ireland, Invest Bulgaria, Business Finland, Singapore Economic Development Board, 
+Indian Embassies across regions where HCLTech has a presence, Swiss-Indo Chamber 
+of Commerce, Invest Stockholm, Institute for Democracy and Economic Affairs Malaysia.
+6
+Think-tanks
+HCLTech is a member of leading think-tanks such as Chatham House, Friends of Europe 
+(“FoE”).
+2. 	 Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, 
+based on adverse orders from regulatory authorities. 
+	
+There were no incidents pertaining to anti-competitive conduct by the Company.
+Leadership Indicators:
+1. 	 Details of public policy positions advocated by the entity
+	
+Yes, the Company believes in the public good and rightly so as part of its responsible socio-economic behavior that is carried 
+forward towards various platforms, advocacy channels and forums by way of lending company’s ideas, visions expertise and thought 
+leadership. The Company has aligned itself with relevant organizations which work in the larger business / social / environmental and 
+community interests. In addition, the Company also creates and owns innovative pieces of work and solutions. The Company has not 
+taken any specific public policy advocation during the course of this year.
+HCL Technologies Annual Report 2022-23
+204
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development 
+Essential Indicators:
+1. 	 Details of Social Impact Assessments (“SIA”) of projects undertaken by the entity based on applicable laws, in the current 
+financial year. 
+
+Not Applicable.
+2. 	 Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your 
+entity, in the following format:    
+
+Not Applicable
+3. 	 Describe the mechanisms to receive and redress grievances of the community. 
+	
+The corporate social responsibility agenda for HCLTech is delivered by the HCL Foundation. It deeply upholds the value of 
+accountability and aims to accept, assess, and resolve feedback or complaints received from our community of stakeholders ranging 
+from but not limited to HCL Foundation employees, HCLTech employees, volunteers, third-party employees, consultants associated 
+with our projects, NGO partners, social sector organizations, government authorities, programme participants, community members 
+and others. Any deviation from the law of the land, HCLTech Code of Conduct or HCL Foundation Child Protection Policy by any 
+stakeholder associated with our programmes / projects is taken up seriously for review and redressal via multi-pronged, scientific 
+and transparent channels. HCL Foundation aims to ensure that every stakeholder is provided a safe environment to share their 
+concerns/grievances. High level of confidentiality is maintained in sensitive matters to respect and maintain dignity of the complainant. 
+Redressal on grievances is carried out as per the nature of the grievance, basis guidelines defined in the organization’s policies.
+4. 	 Percentage of input material (inputs to total inputs by value) sourced from suppliers: 
+FY 2022-23 
+(%)
+FY 2021-22 
+(%)
+Directly sourced from MSMEs / small producers 
+5.39
+5.29
+Sourced directly from within the district and neighboring districts
+ 89.02
+88.67
+Leadership Indicators:
+1. 	 Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+	
+Not Applicable.
+2. 	 Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified 
+by government bodies: 
+S.No
+State
+Aspirational District
+Amount Spent (in ₹)
+1.
+Chhattisgarh
+Bastar
+10,000,000
+2.
+Jammu And Kashmir
+Baramulla
+2,000,000
+3.
+Jammu And Kashmir
+Kupwara
+2,000,000
+4.
+Jharkhand
+Ranchi
+2,500,000
+5.
+Madhya Pradesh
+Guna
+8,000,000
+6.
+Odisha
+Malkangiri
+2,500,000
+3.    (a) 	 Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized / vulnerable groups? (Yes / No) 
+	
+Yes, the Company has a Procurement Policy that supports the development of, and will give special consideration to small, 
+local, and diverse businesses. The definition of “diverse” is often specific to the country, however, it typically will include local 
+minority, gender, veteran, sexual orientation, disability, economically disadvantaged, and other under-represented segments of 
+a population.
+Business Responsibility & Sustainability Report
+205
+(b) 	 From which marginalized /vulnerable groups do you procure? 
+	
+	
+HCLTech focuses on procuring from marginalized / vulnerable groups, such as, MBE (Minority Business Enterprise), WBE 
+(Women Business Enterprise), VET (Veteran Owned Business), Disabled, LGBTQIA+ and small suppliers. The Company’s 
+procedures are also aligned to the local regulatory requirements across the countries where it operates.
+(c) 	 What percentage of total procurement (by value) does it constitute? 
+	
+For combined US, Canada & UK, the spend is ~34% of total procurement spend of these geographies. 
+4. 	 Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current 
+financial year), based on traditional knowledge:         
+	
+Not Applicable.
+5. 	 Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein 
+usage of traditional knowledge is involved. 
+	
+Not Applicable.
+6. 	 Details of beneficiaries of CSR Projects: 
+S. No.
+CSR Project
+No. of persons 
+benefited from CSR 
+Projects
+% of beneficiaries 
+from vulnerable and 
+marginalized groups
+1.
+HCL Samuday - Program aims at developing a sustainable, scalable, 
+and replicable model – a source code for economic and social 
+development of rural areas in partnership with central and State 
+Governments, local communities, NGOs, knowledge institutions 
+and allied partners through optimal interventions across Agriculture, 
+Education, Health, Infrastructure, Livelihood, and WASH (Water, 
+Sanitation & Hygiene) in select villages of Hardoi district, Uttar 
+Pradesh.
+2.1 million
+100%
+2.
+HCL Uday - A multi-year, ongoing umbrella program, addressing urban 
+poverty in HCL cities, with multiple projects under its ambit, aligned to 
+thematic verticals (Health, Education, WASH, Skills, Environment). 
+0.89 million
+100%
+3.
+HCL Grant - An ongoing umbrella program covering 3-4 years and 
+1-year grant-based projects, across India. It is aimed at strengthening 
+and empowering the NGO ecosystem, engage with them, as well as 
+recognize their path-breaking work. HCL Grant is awarded in three 
+thematic categories: Environment, Health and Education. The Grant 
+is designed to support breakthrough award-winning projects to NGOs, 
+that have a proven track record of evident impact, high credibility and 
+distinct ability to deliver.
+1.8 million
+100%
+4. 
+Clean Noida - Program is aimed at carrying out works and services to 
+implement effective solid waste management in the city of Noida, Uttar 
+Pradesh; towards the larger goal of transforming the city into a litter- 
+and waste-free region, covering all Residential Welfare Associations 
+and urban villages.
+0.4 million
+In addition to 
+vulnerable and 
+marginalized 
+groups, project also 
+benefits primary 
+stakeholders of 
+waste management, 
+including waste 
+collectors and 
+domestic helps, to 
+enhance their capacity 
+and increase their 
+participation in the 
+decision-making 
+process.
+5.
+HCL Harit - HCL Harit is a multi-year, ongoing program working with 
+urgency to mitigate the impacts of environmental degradation. The 
+vision is to conserve, restore and enhance indigenous environmental 
+systems and respond to climate change in a sustainable manner 
+through community engagement.
+14,371 People through 
+environment education
+100%
+HCL Technologies Annual Report 2022-23
+206
+6.
+DRR - DRR includes overall disaster management including disaster 
+preparedness, relief, response, rehabilitation and build-back-better 
+efforts by HCL Foundation anywhere in India.
+ 
+Mitigating impact on humans, nature including animals, wildlife and 
+its habitats, any other aspects basis need and type of disaster/
+emergency.
+0.36 million
+100%
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a responsible manner. 
+Essential Indicators:
+1. 	 Describe the mechanisms in place to receive and respond to consumer complaints and feedback. 
+	
+The Company has a dedicated client-cadence management system that enables periodic client cadences and strengthens trust as 
+well as ensures better leadership engagement leading to higher client satisfaction. The Company’s multi-layered client feedback 
+framework not only captures the voice of the customer during the relationship lifecycle, but also has a well-oiled post feedback 
+mechanism to address actions and client inputs on various dimensions. 
+	
+Customer feedback is sought at both project level on a continuous basis and account level on an annual basis. The Company reach 
+out to ~4000 clients across 650+ global Accounts for feedback on its services. The survey is administered by an independent third 
+party. The synopsis is shared with respective entities to ensure continuous improvement.
+2. 	 Turnover of products and / services as a percentage of turnover from all products / service that carry information about: 
+• 	
+Environmental and social parameters relevant to the product 
+• 	
+Safe and responsible usage 
+• 	
+Recycling and/or safe disposal
+	
+The Company offers an integrated portfolio of products, solutions, and services, built around Digital, IoT, Cloud, Automation, 
+Cybersecurity, Analytics, Infrastructure Management, and Engineering Services, amongst others. All its services and products are 
+designed in a manner that integrates environmental and / or social benefits.
+3. 	 Number of consumer complaints in respect of the following: 
+Particulars
+FY 2022-23
+Remarks 
+FY 2021-22 
+Remarks
+Received 
+during 
+the year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data privacy
+Nil
+-
+-
+Nil
+-
+-
+Advertising
+Nil
+-
+-
+Nil
+-
+-
+Cyber-security
+Nil
+-
+-
+Nil
+-
+-
+Delivery of essential services
+Nil
+-
+-
+Nil
+-
+-
+Restrictive Trade Practices
+Nil
+-
+-
+Nil
+-
+-
+Unfair Trade Practices
+Nil
+-
+-
+Nil
+-
+-
+Other 
+Nil
+-
+-
+Nil
+-
+-
+4. 	 Details of instances of product recalls on account of safety issues: 
+Particulars
+Number
+Reasons for recall
+Voluntary recalls
+NIL
+Forced recalls
+5. 	 Does the entity have a framework / policy on cyber security and risks related to data privacy? (Yes/No) If available, provide 
+a web-link of the policy.
+	
+Yes. HCLTech has a well-established Information Security Management framework based on ISO 27001:2013. Information Security 
+Management System policies, processes and guidelines are established to ensure confidentiality, integrity, and availability of customer 
+data. These security policies are available to all users and aligned with the strategic direction of the organization. The cybersecurity 
+Business Responsibility & Sustainability Report
+207
+framework is based on the international National Institute Standards & Technology (“NIST”) standards and subject to a variety of 
+internal and external assessments on an on-going basis. HCLTech has a robust governance approach across the 3 lines of defense to 
+continuously mature our cyber security posture including periodic reporting to the executive management and audit committee of the 
+board. HCLTech is certified to ISO / IEC 27001:2013, ISO 22301:2019 and assessed for SOC 1 & SOC 2, Type II at the entity level.
+
+HCLTech’s privacy program is designed, implemented and maintained by well-resourced Global Privacy Office which is led by the 
+Chief Privacy Officer and is part of HCL’s Risk and Compliance division. HCLTech has designed Privacy program taking into account 
+global privacy regulations that govern the collection, use and handling of personal data and derived privacy principles from EU’s 
+General Data Protection Regulation (“GDPR”) and Generally Accepted Privacy Principles applicable to HCL either in a Controller or 
+Processor capacity. The program is supported by a privacy compliance framework that is tailored to accommodate HCL’s operations, 
+the nature of personal data processed, foreseen privacy and data protection risks, legal, regulatory & contractual obligations, and 
+defined privacy principles. HCL has robust documented procedures approved by Senior Management and is accessible to employees 
+through the company’s intranet. HCLTech is also certified for ISO 27701:2019 Privacy Information Management Systems. HCLTech’s 
+privacy and data protection related documents (policies, procedures etc.) undergo periodic refresh and at least annually. 
+6. 	 Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken 
+by regulatory authorities on safety of products / services.
+	
+HCLTech has a well-defined, approved Information Cyber Security and Privacy Incident Handling Procedure implemented across 
+all projects and departments. Security incidents, including privacy incidents, are reported to the Information CyberSecurity Incident 
+Handling team, analyzed for the root cause, and corrective and preventive action is taken till the issue is closed. Additionally, 
+HCLTech has developed an online tool for logging security and privacy incidents.
+Leadership Indicators:
+1. 	 Channels / platforms where information on products and services of the entity can be accessed (provide web link, if 
+available). 
+	
+https://www.hcltech.com
+	
+2. 	 Steps taken to inform and educate consumers about safe and responsible usage of products and / or services. 
+	
+Not Applicable.
+3. 	 Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services. 
+	
+Not Applicable.
+4. 	 Does the entity display product information on the product over and above what is mandated as per local laws? (Yes / No /
+Not Applicable) If yes, provide details in brief. 
+	
+Not Applicable.
+5. 	 Did your entity carry out any survey with regard to consumer satisfaction relating to the major products / services of the 
+entity, significant locations of operation of the entity or the entity as a whole? (Yes / No) 
+	
+Yes.
+6. 	 Provide the following information relating to data breaches: 
+a) 	 Number of instances of data breaches along-with impact: 
+       No material breaches.
+b) 	 Percentage of data breaches involving personally identifiable information of customers: 
+       Nil, as there were no material breaches.
+HCL Technologies Annual Report 2022-23
+208
+Independent Assurance Statement
+The Management and Board of Directors  
+HCL Technologies Limited
+Noida (Uttar Pradesh), India
+Scope 
+We have been engaged by HCL Technologies Limited to perform Independent Limited assurance, as defined by International Standards 
+on Assurance Engagements (ISAE 3000), hereafter referred to as the engagement, to report on HCL Technologies Limited BRSR 
+(Business Responsibility and Sustainability Report) Report (the “Subject Matter”) for the period from 1st April 2022 to 31st March 2023.  
+Other than as described in the preceding paragraph, which sets out the scope of our engagement, we did not perform assurance 
+procedures on the remaining information included in the Report, and accordingly, we do not express a conclusion on this information.
+Criteria applied by HCL Technologies Limited
+In preparing the Business Responsibility and Sustainability Report (BRSR) FY 23, HCL Technologies Limited applied Securities and 
+Exchange Board of India (SEBI) BRSR guidelines. As a result, the subject matter information may not be suitable for another purpose.
+HCL Technologies Limited Responsibilities  
+HCL Technologies Limited management is responsible for selecting the Criteria, and for presenting the Business Responsibility and 
+Sustainability Report (BRSR) FY 23 in accordance with that Criteria, in all material respects. This responsibility includes establishing and 
+maintaining internal controls, maintaining adequate records, and making estimates relevant to the preparation of the subject matter, such 
+that it is free from material misstatement, whether due to fraud or error.
+EY’s Responsibilities   
+Our responsibility is to express a conclusion on the presentation of the Subject Matter based on the evidence we have obtained.  
+We conducted our engagement in accordance with the International Standard for Assurance Engagements Other Than Audits or Reviews 
+of Historical Financial Information (‘ISAE 3000’). The terms of reference for this engagement as agreed with HCL Technologies Limited. 
+The Subject Matter is presented in accordance with the Criteria, and to issue a report. The nature, timing, and extent of the procedures 
+selected depend on our judgment, including an assessment of the risk of material misstatement, whether due to fraud or error.  
+We believe that the evidence obtained is sufficient and appropriate to provide a basis for our limited assurance conclusions.  
+Our Independence and Quality Control  
+We have maintained our independence and confirm that we have met the requirements of the Code of Ethics for Professional Accountants 
+issued by the International Ethics Standards Board for Accountants, and have the required competencies and experience to conduct this 
+assurance engagement.  
+EY also applies International Standard on Quality Control 1, Quality Control for Firms that Perform Audits and Reviews of Financial 
+Statements, and Other Assurance and Related Services Engagements, and accordingly maintains a comprehensive system of quality 
+control including documented policies and procedures regarding compliance with ethical requirements, professional standards, and 
+applicable legal and regulatory requirements.  
+Description of procedures performed   
+Procedures performed in a limited assurance engagement vary in nature and timing from and are less in extent than for a reasonable 
+assurance engagement. Consequently, the level of assurance obtained in a limited assurance engagement is substantially lower than the 
+assurance that would have been obtained had a reasonable assurance engagement been performed. Our procedures were designed to 
+obtain a limited level of assurance on which to base our conclusion and do not provide all the evidence that would be required to provide 
+a reasonable level of assurance.  
+Although we considered the effectiveness of management’s internal controls when determining the nature and extent of our procedures, 
+our assurance engagement was not designed to provide assurance on internal controls. Our procedures did not include testing controls 
+or performing procedures relating to checking aggregation or calculation of data within IT systems.  
+A limited assurance engagement consists of making enquiries, primarily of persons responsible for preparing the Business Responsibility 
+and Sustainability Report (BRSR) FY 23 and related information and applying analytical and other appropriate procedures.
+Business Responsibility & Sustainability Report
+209
+Our procedures included:  
+ Conducted interviews with select personnel at corporate teams to understand the process for collecting, collating, and reporting the 
+subject matter as per Standards and Securities and Exchange Board of India (SEBI) BRSR guidelines;
+ Checked that the calculation criteria have been correctly applied in accordance with the methodologies outlined in the Criteria; 
+ Undertook analytical review procedures to support the reasonableness of the data through consultations with the site team and 
+sustainability team;
+ Review of relevant data, on a selective test basis, for the following units/ locations, through consultations with the site team and 
+sustainability team 
+ Review of data on a sample basis, at the above-mentioned locations, pertaining to the following disclosures of the BRSR Guidelines:
+	
+Environmental Topics: Energy (P6.1, P6.9), Water (P6.2), Emissions (P6.4, P6.12), Waste ( P6.5);
+	
+Social Topics: New employee hires and employee turnover (General disclosure), Unions of associations (P3.5), Performance 
+and Career Development Reviews (P3.7), No. of CSR projects in aspirational districts (P8.4), Total beneficiaries of CSR Projects 
+(P8.6)
+ Execution of an audit trail of claims and data streams, on a selective test basis, to determine the level of accuracy in the collection, 
+transcription, and aggregation processes followed. 
+ Review of the Company’s plans, policies, and practices, pertaining to their social, environmental, and sustainable development, to be 
+able to make comments on the fairness of and Integrated Reporting;
+ Review of the Company’s approach towards materiality assessment disclosed in the Report to identify relevant issues;
+ Review of select qualitative statements in various sections of the Business Responsibility and Sustainability Report (BRSR) FY 23.
+We also performed such other procedures as we considered necessary in the circumstances
+Emphasis of matter  
+The assurance scope excludes:   
+ Data and information outside the defined reporting period (1st April 2022 to 31st March 2023)
+ Data and information on the economic and financial performance of the Company
+ Data, statements, and claims already available in the public domain through Annual Report, Integrated Annual Report, or other 
+sources available in the public domain
+ The Company’s statements that describe the expression of opinion, belief, inference, aspiration, expectation, aim, or future intention 
+provided by the Company
+ The Company’s compliance with regulations, acts, and guidelines with respect to various regulatory agencies and other legal matters
+Our Conclusion
+Based on our procedures and the evidence obtained, we are not aware of any material modifications that should be made to the Business 
+Responsibility and Sustainability Report (BRSR) FY 23 for the period from 01st April 2022 to 31st March 2023, in order for it to be in 
+accordance with the Standards and Securities and Exchange Board of India (SEBI) BRSR guidelines.
+Restricted use: This report is intended solely for the information and use of HCL Technologies Limited and is not intended to be and 
+should not be used by anyone other than HCL Technologies Limited.  
+For and on behalf of Ernst & Young Associates LLP 
+Chaitanya Kalia   
+16 June 2023
+Mumbai, India

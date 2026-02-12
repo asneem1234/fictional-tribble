@@ -1,0 +1,3397 @@
+ 
+ 
+ 
+ 
+India Power Corporation Limited  
+CIN: L40105WB1919PLC003263 
+[formerly DPSC Limited] 
+Registered Office: Plot No. X1- 2&3, Block-EP, Sector –V, Salt Lake City, Kolkata – 700 091 
+Tel.: + 91 33 6609 4308/09/10, Fax: + 91 33 2357 2452 
+Central Office: Sanctoria, Dishergarh 713 333, Telephone: (0341) 6600454/457 Fax: (0341) 6600464 
+E: corporate@indiapower.com W: www.indiapower.com 
+ 
+ 
+ 
+ 
+ 
+Ref: IPCL/SE/LODR/2023-24/30  
+ 
+                                                                     31st August, 2023 
+ 
+ 
+The Secretary,
+National Stock Exchange of India Ltd.,  
+Exchange Plaza, Plot No. C/1, G Block 
+Bandra Kurla Complex, Bandra (E),  
+Mumbai- 400 051. 
+Scrip Symbol: DPSCLTD 
+The Vice President
+Metropolitan Stock Exchange of India Ltd 
+4th floor, Vibgyor Towers, Plot No C 62,               
+G Block, Opp. Trident Hotel, Bandra Kurla 
+Complex, Bandra (E), Mumbai- 400098. 
+Scrip Symbol: DPSCLTD 
+ 
+ 
+Dear Sir(s), 
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, please find enclosed herewith the Business Responsibility and 
+Sustainability Report of the Company for the financial year 2022-23, which forms an integral part of the 
+Integrated Annual Report for the financial year 2022-23.   
+This is for your information and records. 
+ 
+ 
+Yours faithfully 
+For India Power Corporation Limited 
+ 
+ 
+ 
+Prashant Kapoor 
+Company Secretary & Compliance Officer 
+ 
+Encl: as above 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRASHAN
+T KAPOOR
+Digitally signed by 
+PRASHANT KAPOOR 
+Date: 2023.09.01 
+12:04:40 +05'30'
+ANNEXURE - VIII
+Business Responsibility  & Sustainability Report
+India Power Corporation Limited (the Company) is one of India’s leading smart-holistic-sustainable power utilities, operating 
+in India’s only parallel licensee distribution area- Asansol-Raniganj. The century old Company dates its roots back to 1919 
+when India was still under the British Raj. One of the core values of the Company’s operational functions is ‘sustainability’ 
+which was ingrained from the moment the Company received its power distribution license in 1935. Over the passage of 
+time, India Power witnessed gargantuan changes in the political, social and business scenarios of the industry; the most 
+impactful one being the Indian Independence. The Company has been exposed to British management, public sector 
+administration and now, private leadership. The legacy of a power utility to survive and expand for 104 years can be attributed 
+to its continuous pursuit of excellence in business, environment protection and social sustainability.
+The Company transformed and adapted to the changing dynamics of the industry by strengthening its distribution 
+network, imbibing disruptive technologies and innovations, dipping its foot in green technology and practicing community 
+development.
+The initial distribution model was aimed at the coal mines and industries, which later expanded to cater to the needs of 
+the railways and the commercial market and eventually, ventured to address the needs of the low tension (LT) domestic 
+segment. The Company continues to maintain a T&D loss of 3% which is the lowest in the country and has been achieved 
+by continuously upgrading technical parameters. The Company has transformed itself into a digital organisation with 
+continuous adoption of smart meters, implementation of SCADA for controlling industrial processes, a GIS equipped sub-
+station etc. Taking the logistical expertise one step ahead, The Company will install, operate and maintain 3.5 lakh smart 
+meters in the cities of Ujjain and Indore.
+The future of power industry is green and the Company has ventured into green initiatives with complete gusto. Out of the 
+total 220 MW of Company’s power procurement, 40 per cent is green energy which the Company plans to expand to 50 per 
+cent over the year. The Company also has a separate wing that deals in renewable energy, under which; it produces wind 
+energy in the states of Gujarat and solar energy in Asansol.
+The Company gives earnest attention to social and community development in its license area. The corporate philosophy of 
+the Company has an unique culture comprising of 3Ds – Discipline, Dedication and Devotion which transcends beyond work 
+and is also reflected in the ‘act of giving back’. For the Company, social sustainability is equivalent to business sustainability 
+and the Company considers its duty to aid in the development of the community and the stakeholders of where it operates. 
+This has led to the development of several signature projects aimed at the benefits of the marginalised communities; such 
+as, Medha – scholarships to promote girl child education, Ananya – to identify and award women achievers, Karigari Mela 
+– to promote cultural heritage, Swastha Samriddhi – to promote health and hygiene, #giftgreen to promote green initiatives 
+and more. The robust social sustainability enterprises are a part of the business module because most of the projects are 
+implemented internally as Company does not believe in outsourcing its responsibility to the society.
+The Business Responsibility & Sustainability Report (BRSR) is provided in lieu of Business Responsibility Report (BRR) 
+published in earlier years and is aligned with the National Guidelines on Responsible Business Conduct (NGRBCs), issued by 
+the Ministry of Corporate Affairs (MCA) in March 2019 and is in accordance with clause (f) of sub-regulation (2) of Regulation 
+34 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as 
+amended from time to time (Listing Regulations). The Company’s Business Performance and Impacts are disclosed based 
+on the 9 Principles as mentioned in the NGRBCs.
+ANNUAL REPORT 2022-23
+80
+Principle 1
+Ethics, Transparency & 
+Accountability
+Principle 4
+Stakeholder Engagement
+Principle 7
+Policy Advocacy
+Principle 3
+Employee 
+Well-Being
+Principle 6
+Environment 
+Principle 9
+Customer Value Creation 
+Principle 2
+Product Life Cycle 
+Sustainability
+Principle 5
+Human Rights
+Principle 8
+Inclusive Growth and 
+Equitable Development
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1.	 Corporate Identification Number (CIN) of the Listed Entity
+L40105WB1919PLC003263
+2.	 Name of the Listed Entity
+India Power Corporation Limited 
+(formerly DPSC Limited)
+3.	 Year of incorporation
+1919
+4.	 Registered office address
+Plot No. X1-2&3, Block-EP, Sector-V, 
+Salt Lake City, Kolkata-700091
+5.	 Corporate address
+Plot No. X1-2&3, Block-EP, Sector-V, 
+Salt Lake City, Kolkata-700091
+6.	 E-mail
+corporate@indiapower.com
+7.	 Telephone
++91 33 6609 4300/08/09/10
+8.	 Website
+www.indiapower.com
+9.	 Financial year for which reporting is being done
+2022-23
+10.	Name of the Stock Exchange(s) where shares are listed
+NSE and MSEI
+11.	Paid-up Capital (` in lakhs)
+9,737.90 
+12.	Name and contact details (telephone, email address) of the person 
+who may be contacted in case of any queries on the BRSR report
+Name: Mr. Somesh Dasgupta
+Designation: Whole-time Director
+Phone: 033 6609 4308-10
+Email: somesh.dasgupta@indiapower.com
+13.	Reporting boundary - Are the disclosures under this report made 
+on a standalone basis (i.e. only for the entity) or on a consolidated 
+basis (i.e. for the entity and all the entities which form a part of its 
+consolidated financial statements, taken together).
+Standalone
+STATUTORY REPORTS   ﻿
+81
+II.	
+Products/services
+	
+14.	 Details of business activities (accounting for 90% of the turnover):
+Sl. 
+No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1
+Distribution
+The Company is engaged in the business of 
+Power Distribution with a Distribution License 
+spread across 798 sq. kms. in the Asansol – 
+Raniganj area of West Bengal
+96.99%
+2 
+Renewable
+The Company has around 24.8 MW of Wind 
+Power Generation
+3.01%
+	
+15.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+Sl. 
+No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1
+Electric Power Distribution
+351
+96.99%
+III.	 Operations
+	
+16.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Total no. 
+of Project 
+Location
+Wind
+Solar
+Thermal
+Distribution
+Installation of 
+Smart Meter
+West Bengal
+3
+-
+1
+1
+1
+-
+Gujarat
+1
+1
+-
+-
+-
+-
+Total National
+4
+1
+1
+1
+1
+1
+International
+1
+	
+17.	 Markets served by the entity:
+	
+	
+a)	
+Number of locations
+Locations
+Number
+National (No. of States)
+2
+International (No. of Countries)
+1
+	
+	
+b)	
+What is the contribution of exports as a percentage of the total turnover of the entity?  NIL
+	
+	
+c)	
+A brief on types of customers: The Company serves B2B and B2C customers meeting their energy 
+requirements across the power value chain.
+IV.	 Employees
+	
+18.	 Details as at the end of Financial Year:
+	
+	
+a)	
+Employees and workers (including differently abled):
+S.
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+171
+152
+89%
+19
+11%
+2.
+Other than Permanent (E)
+12
+12
+100%
+NIL
+NIL
+3.
+Total employees (D + E)
+183
+164
+90%
+19
+10%
+WORKERS
+4.
+Permanent (F)
+225
+221
+98%
+4
+2%
+5.
+Other than Permanent (G)
+170
+164
+96%
+6
+4%
+6.
+Total workers (F + G)
+395
+385
+97%
+10
+3%
+ANNUAL REPORT 2022-23
+82
+	
+	
+b)	
+Differently-abled Employees and workers:
+S.
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+2
+2
+100%
+NIL
+NIL
+2.
+Other than Permanent (E)
+NIL
+NIL
+NIL
+NIL
+NIL
+3.
+Total differently abled employees (D + E)
+2
+2
+100%
+NIL
+NIL
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+4
+4
+100%
+NIL
+NIL
+5.
+Other than Permanent (G)
+NIL
+NIL
+NIL
+NIL
+NIL
+6.
+Total differently abled workers  (F + G)
+4
+4
+100%
+NIL
+NIL
+	
+19.	 Participation/Inclusion/Representation of women
+Particulars
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+8
+1
+12.5%
+Key Managerial Personnel
+4
+NIL
+NIL
+	
+20.	 Turnover rate for permanent employees and workers
+	
+	
+(Disclose trends for the past 3 years)
+Particulars
+FY 2022-23
+(Turnover rate in current FY)
+FY 2021-22
+ (Turnover rate in previous FY)
+FY 2020-21
+(Turnover rate in the year prior 
+to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+9.94%
+1.17%
+11.11%
+13.37%
+1.75%
+15.12%
+10.44%
+1.10%
+11.54%
+Permanent Workers
+5.33%
+1.33%
+6.67%
+10.04%
+1.26%
+11.30%
+6.69%
+0.35%
+7.04%
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+	
+21.	 (a) 	 Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No.
+Name of the holding / Subsidiary / 
+associate companies /  joint ventures (A)
+Indicate whether holding/ 
+Subsidiary/ Associate/ 
+Joint Venture
+% of shares 
+held by  listed 
+entity
+Does the entity 
+indicated at column 
+A, participate in the 
+Business Responsibility   
+initiatives of the listed 
+entity? (Yes/No)
+1.
+MP Smart Grid Private Limited
+Subsidiary  as per 
+Companies Act, 2013
+100%
+No
+2.
+Parmeshi Energy Limited
+Subsidiary  as per 
+Companies Act, 2013
+100%
+No
+3.
+India Uniper Power Services Private 
+Limited 
+Subsidiary  as per 
+Companies Act, 2013
+50%
+No
+4.
+Meenakshi Energy Limited 
+(undergoing Corporate Insolvency 
+Resolution Process under Insolvency 
+and Bankruptcy Code, 2016) 
+Subsidiary  as per 
+Companies Act, 2013
+2.44%
+No
+5.
+IPCL Pte Limited
+Subsidiary  as per 
+Companies Act, 2013
+100%
+No
+6.
+Erstwhile India Power Corporation 
+Limited
+Holding 
+53%
+No
+STATUTORY REPORTS   ﻿
+83
+VI.	 CSR Details
+	
+22.	 (i) 	 Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) : 	
+YES
+	
+	
+(ii)	 Turnover [Including Regulatory Income/(Expenses)] (in ` lakhs): 	
+66,766.81
+	
+	
+(iii)	 Net worth (in ` lakhs): 	
+55,707.66
+VII.	 Transparency and Disclosures Compliances
+	
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Pursuant to the Policies, the Director responsible for Business Report is in charge of addressing the grievances 
+of the Stakeholders. In addition, the Company has also set up vigil mechanism to address the genuine concerns, 
+if any, of the Directors and the Employees.
+Stakeholder 
+group from 
+whom complaint 
+is received
+Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No)
+FY 2022-23
+Current Financial Year
+FY 2021-22
+Previous Financial Year
+(If Yes, then 
+provide web-link 
+for grievance 
+redress policy)
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+NIL
+NIL
+N/A
+NIL
+NIL
+N/A
+Investors 
+(other than 
+shareholders)
+NIL
+NIL
+N/A
+NIL
+NIL
+N/A
+Shareholders
+Yes
+https://www.
+indiapower.com/
+investor-relation-2/
+shareholder-
+information/
+grievance-
+redressal-email-id/
+1
+1
+The 
+complaint 
+has been 
+resolved in 
+the month 
+of April, 
+2023
+NIL
+NIL
+N/A
+Employees and 
+workers
+NIL
+NIL
+N/A
+NIL
+NIL
+N/A
+Customers
+NIL
+NIL
+N/A
+NIL
+NIL
+N/A
+Value Chain 
+Partners
+NIL
+NIL
+N/A
+NIL
+NIL
+N/A
+Other 
+(please specify)
+NIL
+NIL
+N/A
+NIL
+NIL
+N/A
+	
+24.	 Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to 
+adapt or mitigate the risk along-with its financial implications, as per the following format.
+Materiality Assessment is an aspect of Integrated Reporting at the Company. In Company materiality assessment 
+methodology is as per the “Policy for determination of Materiality”.
+The Company has a mechanism to identify and assess potential environmental risks at the plant level. Once risks 
+are identified, steps are taken to measure and mitigate these risks through the Risk Management system. The 
+Company re-visits the material issues to factor in any realignment required due to evolving business environment. 
+The resultant Risk / Opportunity and their due mitigation plans are highlighted to the Risk Management Committee 
+of the Board bi-annually as per the “Risk Management Policy” of the Company and mitigation actions finalised 
+accordingly.
+ANNUAL REPORT 2022-23
+84
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards 
+adopting the NGRBC Principles and Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.	 a.	 Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs. (Yes/
+No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+b. 	 Has the policy been approved by the Board? 
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+c. 	 Web Link of the Policies, if available
+https://www.indiapower.com/investor-relation-2/corporate-
+codes-policies/
+Whether the entity has translated the policy into procedures. 
+(Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3. 	 Do the enlisted policies extend to your value chain 
+partners? (Yes/No)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+4. 	 Name of the national and international codes/
+certifications/labels/ 
+standards 
+(e.g. 
+Forest 
+Stewardship Council, Fairtrade, Rainforest Alliance, 
+Trustea) standards (e.g. SA 8000, OHSAS, ISO, BIS) 
+adopted by your entity and mapped to each principle.
+Indian Electricity Act, 
+2003 & Electricity Supply
+Relevant National 
+Statutes
+Relevant National 
+Statutes
+Relevant National 
+Statutes
+Companies Act, 2013
+Indian Electricity Act, 
+2003 & Electricity Supply
+5. 	 Specific commitments, goals and targets set by the 
+entity with defined timelines, if any.
+No
+No
+No
+No
+No
+No
+No
+No
+No
+6. 	 Performance of the entity against the specific 
+commitments, goals and targets along-with reasons in 
+case the same are not met.
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+Governance, leadership and oversight
+7. 	 Statement by director responsible for the business 
+responsibility 
+report, 
+highlighting 
+ESG 
+related 
+challenges, targets and achievements (listed entity has 
+flexibility regarding the placement of this disclosure).
+The Company overseas / reviews the matters related to 
+ESG and business responsibility activities from time to time 
+to ensure seamless and effective implementation of the 
+parameters given in ESG World as available on the website of 
+the Company.
+8.	 Details of the highest authority responsible for 
+implementation 
+and 
+oversight 
+of 
+the 
+Business 
+Responsibility policy (ies).
+Implementation of the relevant policies of the Company is 
+overseen by the specified committee of the Board/ Director/ 
+Officials. The Company has a Business Responsibility 
+Committee constituted by the Board of Directors.
+9.	 Does the entity have a specified Committee of the 
+Board/ Director responsible for decision making on 
+sustainability related issues? (Yes / No). If yes, provide 
+details.
+Yes. The Business Responsibility Committee constituted by 
+the Board of Directors have the authority for decision making 
+on sustainability related issues.
+STATUTORY REPORTS   ﻿
+85
+10.	Details of Review of NGRBCs by the Company:
+Disclosure Questions
+Indicate whether review was undertaken 
+by Director / Committee of the Board/ Any 
+other Committee
+Frequency
+(Annually/ Half yearly/ Quarterly/ Any 
+other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above 
+policies and follow up action
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Annual
+Annual
+Annual
+Annual
+Annual
+Annual
+Annual
+Annual
+Annual
+Compliance 
+with 
+statutory 
+requirements of relevance to the 
+principles,	and, 
+rectification 
+of 
+any non-compliances
+Complied
+Complied
+Complied
+Complied
+Complied
+Complied
+Complied
+Complied
+Complied
+Complied
+Complied
+Complied
+Complied
+Complied
+Complied
+Complied
+Complied
+Complied
+11.	Has the entity carried out 
+independent assessment/ 
+evaluation of the working of 
+its policies by an external 
+agency? (Yes/No). If yes, 
+provide name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+No
+No
+No
+No
+No
+No
+No
+No
+No
+12.  If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+The entity does not consider the Principles material 
+to its business (Yes/No)
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+The entity is not at a stage where it is in a position 
+to formulate and implement the policies on specified 
+principles (Yes/No)
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No)
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+It is planned to be done in the next financial year 
+(Yes/No)
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+Any other reason (please specify)
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with 
+key processes and decisions. The information sought is categorised as “Essential” and “Leadership”. While the essential 
+indicators are expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may 
+be voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be socially, environmentally 
+and ethically responsible.
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity and in a manner that is Ethical, Transparent 
+and Accountable.
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programs on any of the Principles during the financial year:
+Segment
+Total number of training and 
+awareness programs held
+Topics	 / principles covered 
+under the training and its 
+impact
+%age of persons in 
+respective category covered 
+by the awareness programs
+Board of Directors
+NIL
+N/A
+N/A
+Key Managerial Personnel
+NIL
+N/A
+N/A
+Employees other than BoD and 
+KMPs
+5
+1.	 Value internalisation
+2.	 Harassment free 
+workplace
+ 62.84%
+Workers
+7
+1.	 Values & Corporate 
+Philosophy
+21.01%
+ANNUAL REPORT 2022-23
+86
+2. 	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in 
+the following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 
+of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC
+Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount (In INR)
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty/Fine
+N/A
+Settlement
+N/A
+Compounding fee
+N/A
+Non-Monetary
+NGRBC
+Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount (In INR)
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+N/A
+Punishment
+N/A
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or 
+non-monetary action has been appealed:
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial 
+institutions
+N/A
+N/A
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide 
+a web-link to the policy.
+	
+Yes (Web Link https://www.indiapower.com/about/?policies).
+Adherence to good Corporate Governance and managing its affairs in a fair, honest, ethical, transparent and legal 
+manner is an integral part of the philosophy of the Company.
+Furtherance to its philosophy the Company formulates this Anti-Bribery Policy to ensure that no employee of the 
+Company indulges in and associate with any act of bribery, extortion or corruption with any government official (Public 
+Official) or any person for or on behalf of the Company.
+The Anti-Bribery Policy of the Company is based on the law of Prevention of Corruption Act, 1988 of India and other 
+similar applicable anti-bribery and anti-corruption Laws of India. 
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+FY 2022-23
+FY 2021-22
+Directors
+NIL
+NIL
+KMPs
+NIL
+NIL
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+6. 	
+Details of complaints with regard to conflict of interest:
+Description
+FY 2022-23
+FY 2021-22
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of 
+Conflict of Interest of the Directors
+NIL
+N/A
+NIL
+N/A
+Number of complaints received in relation to issues of 
+Conflict of Interest of the KMPs
+NIL
+N/A
+NIL
+N/A
+STATUTORY REPORTS   ﻿
+87
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest:  
+	
+Not Applicable
+Leadership Indicators
+1. 	
+Awareness programs conducted for value chain partners on any of the Principles during the financial year:
+Total number of awareness programs 
+held
+Topics / principles covered under the 
+training
+%age of value chain partners covered 
+(by value of business done with such 
+partners) under the awareness programs
+NIL
+NIL
+NIL
+2. 	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/
+No) If Yes, provide details of the same.
+	
+Every Director of the Company disclose their interest or concern in other entities on an annual basis or whenever there 
+is any change therein. The said disclosures are placed at the Board Meeting for perusal of Board Members.
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe.
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Current Financial Year
+Previous Financial Year
+Details of improvements in 
+environmental and social 
+impacts
+R&D
+NIL
+NIL
+N/A
+Capex
+NIL
+NIL
+N/A
+2.	
+a. 	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No): Yes
+	
+b. 	
+If yes, what percentage of inputs were sourced sustainably?
+25.14%. Sustainability is extended to suppliers/vendors. The Company lays down the requirements on various 
+aspects of sustainability such as ethics and compliance, Human Rights, Health, Safety and environment protection. 
+Almost entire inputs have been sourced sustainably.
+The Company has entered into an agreement for sourcing of 100MW Hybrid Power per year from Solar Energy 
+Corporation of India (SECI), to be commenced from the third quarter of financial year 2024.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, 
+for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+The thermal power station of the Company generates ash (non-hazardous waste) which is the major waste. The 
+Company’s endeavor is to utilise fly ash at the locations and take initiatives to utilise the bottom ash as well. The 
+utilisation of both fly ash and bottom ash is duly updated in the Central Electricity Authority (CEA) database on 
+regular basis. The waste/used oil which comes under the hazardous waste category and e-waste is disposed through 
+authorised recyclers.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the 
+waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same.
+	
+No
+ANNUAL REPORT 2022-23
+88
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their value chains.
+Essential Indicators
+1. 	
+a. 	
+Details of measures for the well-being of employees:
+Category
+% of Employees covered by
+Total (A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity benefits
+Day Care facilities
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(D)
+% (D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+Permanent Employees
+Male
+152
+152
+100%
+152
+100%
+N/A
+NIL
+152
+100%
+152
+100%
+Female
+19
+19
+100%
+19
+100%
+19
+100%
+-
+-
+19
+100%
+Total
+171
+171
+100%
+171
+100%
+19
+11.11%
+152
+88.89%
+171
+100%
+Other than Permanent Employees
+Male
+12
+12
+100%
+12
+100%
+12
+100%
+12
+100%
+12
+100%
+Female
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+N/A
+NIL
+NIL
+NIL
+Total
+12
+12
+100%
+12
+100%
+12
+100%
+12
+100%
+12
+100%
+	
+b. 	
+Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total (A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity benefits
+Day Care facilities
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(D)
+% (D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+Permanent workers
+Male
+221
+221
+100%
+221
+100%
+N/A
+NIL
+221
+100%
+221
+100%
+Female
+4
+4
+100%
+4
+100%
+4
+100%
+N/A
+NIL
+4
+100%
+Total
+225
+225
+100%
+225
+100%
+4
+100%
+221
+100%
+225
+100%
+Other than Permanent workers
+Male
+164
+164
+100%
+164
+100%
+N/A
+NIL
+164
+100%
+164
+100%
+Female
+6
+6
+100%
+6
+100%
+6
+100%
+N/A
+NIL
+6
+100%
+Total
+170
+170
+100%
+170
+100%
+6
+3.53%
+164
+96.47%
+170
+100%
+2. 	
+Details of retirement benefits, for Current FY and Previous Financial Year
+Benefits
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No.of workers 
+covered as a
+% of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No.of workers 
+covered as a
+% of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Y
+100%
+100%
+Y
+Gratuity
+100%
+100%
+Y
+Y
+100%
+100%
+ESI
+100%
+100%
+Y
+Y
+100%
+100%
+Others
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+3.	
+Accessibility of workplaces
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements 
+of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this 
+regard. Yes
+STATUTORY REPORTS   ﻿
+89
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide 
+a web-link to the policy
+	
+Yes
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave
+Gender
+Permanent Employees
+Permanent Workers
+Return to work Rate
+Retention Rate
+Return to work Rate
+Retention Rate
+Male
+100%
+100%
+100%
+100%
+Female
+100%
+100%
+100%
+100%
+Total
+100%
+100%
+100%
+100%
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief
+Yes / No (If yes then give details of the mechanism in brief)
+Permanent Workers
+Yes
+Other than Permanent Workers
+Yes
+Permanent Employees
+Yes
+Other than Permanent Employees
+Yes
+The Company reaches proactively to the Team members, Managers and the HODs and follows a process driven 
+approach to prevent any adverse consequences due to pending Employee grievances /complaints. In addition to formal 
+and informal methods, lag indicators like Employee Productivity, Grievances, Safety and Employee Attrition rates are 
+also used to gauge employee support climate.
+Employee Grievances are captured online through HRMS and offline through various other open forums. Data from 
+these sources are collated, analyzed and necessary actions are initiated and executed effectively. Voluntary exit of 
+employees and analysis of the reasons for exit provide indicators regarding Employee’s dissatisfaction. Even though 
+absenteeism is negligible, it is tracked. Various data on HR indicators are used to assess and improve employee 
+engagement. Corrective steps taken are like counselling the reporting managers, facilitation in providing better 
+infrastructure and support etc.
+For our workmen Grievance register is maintained at Asansol. There are regular meetings Leadership Team wherein 
+the issues and grievances are addressed by the team. Union Management meetings happens periodically. Grievances 
+of workman and union are resolved jointly by the Union Leaders and the Management representatives.
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 22/23   (Current Financial Year)
+FY 21/22   (Previous Financial Year)
+Total 
+employees 
+/ workers in 
+respective 
+category (A)
+No. of employees 
+/ Workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (B)
+%  (B/A)
+Total 
+employees 
+/ workers in 
+respective 
+category (A)
+No. of employees 
+/ Workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (B)
+%  (B/A)
+Total Permanent 
+Employees
+Male
+152
+NIL
+NIL
+152
+NIL
+NIL
+Female
+19
+NIL
+NIL
+20
+NIL
+NIL
+Total Permanent 
+Workers
+Male
+221
+190
+85.97%
+232
+200
+86.21%
+Female
+4
+3
+75%
+7
+6
+85.71%
+ANNUAL REPORT 2022-23
+90
+8.	
+Details of training given to employees and workers:
+Category
+Total 
+(A)
+FY 2022-23
+(Current Financial Year)
+Total
+(D)
+FY 2021-22
+(Previous Financial Year)
+On Health and safety 
+measures
+On Skill upgradation
+On Health and safety 
+measures
+On Skill upgradation
+No.(B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+152
+94
+61.84%
+129
+84.87%
+152
+82
+53.95%
+  121
+79.61%
+Female
+19
+3
+15.79%
+17
+89.47%
+20
+6
+30.00%
+ 15
+75.00%
+Total
+171
+97
+56.73%
+146
+85.38%
+172
+88
+51.16%
+136
+79.07%
+Workers
+Male
+221
+170
+76.92%
+67
+30.32%
+232
+159
+25.43%
+ 58
+25.00%
+Female
+4
+4
+100%
+4
+100.00%
+7
+3
+42.86%
+7
+100%
+Total
+225
+174
+77.33%
+71
+31.56%
+239
+162
+67.78%
+65
+27.20%
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Total(A)
+No.(B)
+%(B/A)
+Total(A)
+No.(B)
+%(B/A)
+Employees
+Male
+164
+164
+100%
+152
+152
+100%
+Female
+19
+19
+100%
+20
+20
+100%
+Total
+183
+183
+100%
+172
+172
+100%
+Workers
+Male
+221
+221
+100%
+232
+232
+100%
+Female
+4
+4
+100%
+7
+7
+100%
+Total
+225
+225
+100%
+239
+239
+100%
+10.	 Health and safety management system:
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). 
+If yes, the coverage such system?
+	
+	
+Yes. The Safety Management system framework covers all the business objective of the Company for Generation, 
+Transmission & Distribution with consideration of safety as core value. This covers 100 % employees and the 
+same are aligned with West Bengal Factory Rules 1958, Central Electricity authority Regulations 2010 as well the 
+requirement of ISO: 45001: 2018 and yearly certification after surveillance audit.
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis 
+by the entity?
+The safety management system of the Company covers the following processes on safety to identifying the 
+hazards related to work and assessing the risk to minimise level of the associated from the work on routine and 
+non- routine basis.
+	
+	
+•	
+Accountability and leadership with occupational health and safety objective plan.
+	
+	
+•	
+Hazard Identification and Risk assessment with risk management.
+	
+	
+•	
+Emergency arrangements & management plan.
+	
+	
+•	
+Standard Operating Procedures of various electrical operations, Constructions and HSE, Electric Shock charts 
+etc. at all substations.
+	
+	
+•	
+Permit to work process.
+	
+	
+•	
+Awareness, Job specific trainings and consultation.
+STATUTORY REPORTS   ﻿
+91
+	
+	
+•	
+Inspection of workplace, Periodical and random checks, compliances on observations, recording of near 
+misses and incidents, investigations, learnings, corrective and preventive actions.
+	
+	
+•	
+Safety Committee meetings with participation of equal number of management and workers representatives.
+	
+	
+•	
+Contractor Safety management.
+	
+	
+•	
+Use of protective devises.
+	
+	
+•	
+Internal and external audits for review and monitor.
+	
+	
+•	
+Mock drills on regular intervals
+	
+	
+•	
+Fire detection and protection system.
+	
+c.	
+Whether you have processes for workers to report the work related hazards and to remove themselves from such 
+risks. (Y/N) Yes
+	
+d. 	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? 
+(Yes/ No) Yes
+11.	 Details of safety related incidents, in the following format:
+Safety Incident / Number
+Category
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Lost Time Injury Frequency Rate (LTIFR) (per one 
+million-person hours worked)
+Employees
+NIL
+NIL
+Workers
+0.12
+0.04
+Total recordable work-related injuries
+Employees
+NIL
+NIL
+Workers
+3
+1
+No. of fatalities
+Employees
+NIL
+NIL
+Workers
+1
+NIL
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+NIL
+NIL
+Workers
+1
+NIL
+12.	 Describe the measures taken by the entity to ensure a safe and healthy work place
+•	
+India Power Corporation Limited is conducting various trainings to represents a good opportunity for employees 
+on operational safety to grow their knowledge base and improve their job skills to become more effective and 
+secure in the workplace.
+•	
+Hazard Identification and risk assessment process is to evaluate hazards, then remove that hazard or minimise 
+the level of its risk by adding control measures, as necessary.
+•	
+Standard Operating Procedures of various electrical operations, Constructions and HSE, Electric Shock charts 
+etc. at substations.
+•	
+Before issuing the Permit to work ensure for proper isolation and ensure for the hazards control measures.
+•	
+Periodical and random site auditing of the operational and maintenance activity to ensure practicing of the 
+guidelines as per the SOP.
+•	
+Access control to all substations to restrict unauthorised entry.
+•	
+Graphics safety messages.
+•	
+Identification marking- Terminal pole naming, pole numbering, panel name marking from front and back, fixing of 
+Danger boards over the isolated panels and switchgears to avoid operated by mistake by someone.
+•	
+Status and condition monitoring to maintain healthiness of the system.
+ANNUAL REPORT 2022-23
+92
+13.	 Number of Complaints on the following made by employees and workers:
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Filed during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working 
+Conditions
+NIL
+N/A
+-
+NIL
+N/A
+-
+Health	& Safety
+NIL
+N/A
+-
+NIL
+N/A
+-
+14.	 Assessments for the year:
+% of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions
+	
+All safety related incident/ accident has been investigated by the investigation committee and corrective and preventive 
+actions are incorporated in the system based on the fact findings report.
+	
+•	
+Frequent visit of supplementary audit of the workplace to ensure all the control measures are in place during the 
+course of work.
+	
+•	
+A thorough audit of the maintenance contractor’s safety management arrangement has been carried out to check 
+the gaps.
+	
+Prepared End- to- End SLD of feeders starting from Source substation bus with Pole number, Section Points, Isolating 
+arrangements (knife switch, GOAB, Jumper etc.)
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of
+	
+(A) 	 Employees (Y/N) Yes
+	
+(B) 	 Workers (Y/N) Yes
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by 
+the value chain partners
+•	
+At the time of engagement with the value chain partners a contract is signed which includes terms and conditions 
+related to required statutory obligations to be complied with and the SOPs to be followed during executing the 
+contract.
+•	
+At the time of executing the contract/s, all supporting documents related to compliance of statutory dues are 
+validated by the user department.
+•	
+An internal audit team is in place, which further does detailed auditing of the statutory documents before processing 
+the commercials.
+•	
+The user departments interact with the value chain partners on a regular basis to ensure that any change in the 
+statutory guidelines are abided and adhered to.
+STATUTORY REPORTS   ﻿
+93
+3.	
+Provide the number of employees / workers having suffered high consequence work- related injury / ill-health / 
+fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment:
+Total no. of affected 
+employees/ workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose family 
+members have been placed in suitable employment
+FY 2022-23
+(Current Financial Year)
+FY 2021-22 
+(Previous Financial Year)
+FY 2022-23
+(Current Financial Year)
+FY 2021-22 
+(Previous Financial Year)
+Employees
+NIL
+NIL
+NIL
+NIL
+Workers
+1
+1
+1
+NIL
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management of 
+career endings resulting from retirement or termination of employment? (Yes/ No) Yes
+5.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Health and safety practices
+100%
+Working Conditions
+100%
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+	
+i.	
+Covered all the work and arrangement part of the value chain partners for certification of ISO: 45001- 2018.
+	
+ii.	
+Covered them in Safety induction other operational and maintained related awareness session including basic 
+life support and Hazard identification and Risk assessment from the external trainer, Five ‘S’ implementation etc.
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders.
+Essential Indicators
+1. 	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+The Company has mapped its internal and external stakeholders as per the Stakeholder Engagement Policy of the 
+Company.
+2. 	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group
+Stakeholder
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalised 
+Group (Yes / No)
+Channels of communication (Email, 
+SMS, Newspaper, Pamphlets, 
+Advertisement, Community 
+Meetings, Notice Board, Website), 
+Other
+Frequency of 
+engagement (Annually/ 
+Half yearly / Quarterly / 
+others - please specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Communities
+Yes 
+(Affirmative 
+Action)
+On site community meetings
+Regular
+CSR Intervention
+Investors 
+(other than 
+Shareholders)
+No
+Investor Meets
+Annual / Periodic
+Communication
+Shareholders
+No
+Annual General Meeting, E-mails
+Annual / Periodic
+Statutory / 
+Communication
+Employees and 
+Workers
+No
+E-mails, Corporate 
+Communication, Notice Boards, 
+Meets
+Annual / Periodic
+Communication / 
+Employee engagement
+Customers
+No
+Customer Meets, Email, SMS, 
+Advertisement, Website,
+Social Media, Call Centre
+Periodic
+Regulatory / Notice / 
+Offers / Communication
+Value Chain 
+Partners
+No
+E-mail, Vendor meets
+Periodic
+Communication
+ANNUAL REPORT 2022-23
+94
+PRINCIPLE 5 Businesses should respect and promote human rights.
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format:
+Category
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Total (A)
+No. of 
+employees/ 
+workers 
+covered (B)
+% (B/A)
+Total (C)
+No. of 
+employees/ 
+workers 
+covered (D)
+% (D/C)
+Employees
+Permanent
+171
+138
+80.70%
+172
+128
+74.42%
+Other than permanent
+12
+0
+NIL
+10
+8
+80%
+Total Employees
+183
+138
+75.41%
+182
+136
+74.73%
+Workers
+Permanent
+225
+177
+78.67%
+239
+156
+65.27%
+Other than permanent
+170
+87
+51.18%
+178
+94
+52.80%
+Total Workers
+395
+264
+66.84%
+417
+250
+59.95%
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+Total (A)
+FY 2022-23
+(Current Financial Year)
+Total
+(D)
+FY 2021-22
+(Previous Financial Year)
+Equal to
+Minimum Wage
+More than 
+Minimum Wage
+Equal to
+Minimum Wage
+More than Minimum 
+Wage
+No.(B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+Male
+152
+NIL
+N/A
+152
+100%
+152
+NIL
+N/A
+152
+100%
+Female
+19
+NIL
+N/A
+19
+100%
+20
+NIL
+N/A
+20
+100%
+Other than 
+Permanent
+Male
+12
+NIL
+N/A
+12
+100%
+10
+NIL
+N/A
+10
+100%
+Female
+NIL
+NIL
+N/A
+NIL
+NA
+NIL
+NIL
+N/A
+NIL
+NA
+Workers
+Permanent
+Male
+221
+NIL
+N/A
+221
+100%
+232
+NIL
+N/A
+232
+100%
+Female
+4
+NIL
+N/A
+4
+100%
+7
+NIL
+N/A
+7
+100%
+Other than 
+Permanent
+Male
+164
+NIL
+N/A
+164
+100%
+178
+NIL
+N/A
+ 178
+100%
+Female
+6
+NIL
+N/A
+6
+100%
+7
+NIL
+N/A
+  7
+100%
+STATUTORY REPORTS   ﻿
+95
+3.	
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category 
+(` in lakhs)
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+(` in lakhs)
+Executive Directors  
+2
+116.47
+0
+N/A
+Key Managerial Personnel
+2
+66.96
+0
+N/A
+Employees other than BoD and KMP
+160
+ 9.32
+19
+7.18
+Workers
+385
+4.29
+10
+3.59
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No): Yes
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues
+	
+HR department reaches out to all employees, including Managers and the HODs proactively and follows a process 
+driven approach to prevent any adverse consequences to the complainant in discrimination and harassment cases.
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end ofyear
+Remarks
+Sexual Harassment
+NIL
+N/A
+N/A
+NIL
+N/A
+N/A
+Discrimination at workplace
+NIL
+N/A
+N/A
+NIL
+N/A
+N/A
+Child Labour
+NIL
+N/A
+N/A
+NIL
+N/A
+N/A
+Forced Labour / Involuntary 
+Labour
+NIL
+N/A
+N/A
+NIL
+N/A
+N/A
+Wages
+NIL
+N/A
+N/A
+NIL
+N/A
+N/A
+Other human rights related 
+issues
+NIL
+N/A
+N/A
+NIL
+N/A
+N/A
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+HR department reaches out to all employees, including Managers and the HODs proactively and follows a process 
+driven approach to prevent any adverse consequences to the complainant in discrimination and harassment cases.
+8.	
+Do human rights requirements form part of your business agreements and contracts?
+	
+Yes
+9. 	
+Assessments for the year:
+% of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Child labour
+100%
+Forced/involuntary labour
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others – please specify
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above.
+	
+Not applicable
+ANNUAL REPORT 2022-23
+96
+Leadership Indicators
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints.
+As a socially responsible corporate Organisation, the Company protect the human rights of those who work in the 
+company and live in communities in the vicinity of its operations. The Company has a corporate practice to comply with 
+local human rights legislation, wherever its operations are located. Furthermore, through its policies, programs and 
+grievance redressal mechanism it condemns human rights abuses and has successfully created a working environment 
+where human rights are priority above business gains.
+2.	
+Details of the scope and coverage of any Human rights due-diligence conducted.
+	
+The Company adheres to the highest standards human right principle through the below practices –
+	
+•	
+Anti –Discrimination
+	
+•	
+Promoting The Well –Being of All employees
+	
+•	
+Freely Chosen Employment
+	
+•	
+Fair Working Hours
+	
+•	
+Fair Remuneration
+	
+•	
+Safe and Healthy Working Conditions
+	
+•	
+No Harsh or Inhuman Treatment
+	
+•	
+Respect to Human Rights Law
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+	
+Yes 
+4.	
+Details on assessment of value chain partners:
+% of value chain partners 
+(by value of business done with such partners) that were assessed
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Child Labour
+100%
+Forced Labour/Involuntary Labour
+100%
+Wages
+100%
+Others – please specify
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above.
+India power has not received any complaints related to working condition, Health and safety in the financial year 2022-
+23 and 2021-22. However the Company is regularly educating the employees and contract workforce about importance 
+for reporting of unsafe act and conditions of workplace as alert to take immediate corrective and preventive actions.
+STATUTORY REPORTS   ﻿
+97
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment.
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY: 2022-23 
+(Current Financial Year)
+FY: 2021-22 
+(Previous Financial Year)
+Total electricity consumption (A)
+3227967 Giga Joules
+3403523 Giga Joules
+Total fuel consumption (B)
+156552 Giga Joules
+117000 Giga Joules
+Energy consumption through other sources (C)
+0.00
+0.00
+Total energy consumption (A+B+C)
+3384520 Giga Joules
+3520523 Giga Joules
+Energy intensity per rupee of turnover
+(Total energy consumption/ turnover in rupees)
+575450 Giga Joules
+628614 Giga Joules
+Energy intensity (optional) – the relevant metric may be 
+selected by the entity
+--
+--
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme 
+have been achieved. In case targets have not been achieved, provide the remedial action taken, if any. 
+	
+Yes. The entire Power Distribution Network of the Company within the Licensed Area is designated under the PAT 
+Scheme of Government of India.
+	
+In the “Baseline Energy Consumptions norms and standards in percentage of Transmission and Distribution losses 
+for baseline year 2019-20 or as per para 1.4. of schedule 1 of aforesaid Rules” for the Company is 3.46%. Hence, the 
+Target Energy Consumption Norms and Standards in percentage of Transmission and Distribution loss for target year 
+2024-25 is 3.46%. Provisional data for the year 2022-23 suggests T&D would be about 2.8%.
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY: 2022-23 
+(Current Financial Year)
+FY: 2021-22 
+(Previous Financial Year)
+Water withdrawal by source (in kilolitres)
+(i) 	 Surface water
+357598
+381081
+(ii) 	 Groundwater
+0.00
+0.00
+(iii) 	 Third party water
+0.00
+0.00
+(iv) 	 Seawater / desalinated water
+0.00
+0.00
+(v) 	 Others
+0.00
+0.00
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+357598
+381081
+Total volume of water consumption (in kilolitres)
+357598
+381081
+Water intensity per rupee of turnover 
+(Water consumed / turnover)
+0.00006080
+0.00006804
+Water intensity (optional) – 
+the relevant metric may be selected by the entity
+---
+---
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+ANNUAL REPORT 2022-23
+98
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+Yes: The 12MW Power Plant is equipped with an Effluent Treatment Plant. All discharge from the boiler, turbine, DM 
+Plant, Raw Water Plant and their auxiliary system discharges are collected through gravity. Collected discharges are 
+neutralised and send back to the cooling tower as makeup water. Water sampling is carried out on a quarterly basis 
+by State Pollution Control Board. Water quality testing is also carried out annually through Public Health Engineering 
+Department (Govt. of WB).
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Unit
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+NOx
+Mg/Nm3
+126.67
+137.89
+SOx
+Mg/Nm3
+254.89
+244.89
+Particulate matter (PM)
+Mg/Nm3
+43.54
+48.28
+Persistent Organic Pollutants (POP)
+N/A
+N/A
+N/A
+Volatile Organic Compounds (VOC)
+N/A
+N/A
+N/A
+Hazardous air Pollutants (HAP)
+N/A
+N/A
+N/A
+Others-please specify
+N/A
+N/A
+N/A
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.
+Yes: Evaluation is done by State Pollution Control Board. It was also evaluated from an External Agency.  Name of the Agency: Eco Care
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Total Scope 1 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric 
+tonnes 
+of CO2 
+equivalent
+N/A
+N/A
+Total Scope 2 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric 
+tonnes 
+of CO2 
+equivalent
+N/A
+N/A
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover
+N/A
+N/A
+N/A
+Total Scope 1 and Scope 2 emission intensity 
+(optional) – the relevant metric may be selected by 
+the entity
+N/A
+N/A
+N/A
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details. 
+Not Applicable
+STATUTORY REPORTS   ﻿
+99
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY:2022-23 
+(Current Financial Year)
+FY: 2021-22 
+(Previous Financial Year)
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+N/A
+N/A
+E-waste (B)
+N/A
+N/A
+Bio-medical waste (C)
+N/A
+N/A
+Construction and demolition waste (D)
+N/A
+N/A
+Battery waste (E)
+N/A
+N/A
+Radioactive waste (F)
+N/A
+N/A
+Other Hazardous waste. Please
+specify, if any. (G)
+N/A
+N/A
+Other Non-hazardous waste generated (H). Please specify, if 
+any. (Break-up by composition i.e. by materials relevant to the 
+sector)
+Fly Ash and Bottom Ash
+Fly Ash: 14680.2528MT
+Bottom Ash: 
+3670.0632MT
+Fly Ash and Bottom Ash
+Fly Ash: 10499.373
+Bottom Ash: 2624.8432
+Total (A+B + C + D + E + F + G + H)
+Fly Ash: 14680.2528MT
+Bottom Ash: 
+3670.0632MT
+Fly Ash: 10499.373
+Bottom Ash: 2624.8432
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)
+Category of waste
+(i) 	 Recycled
+N/A
+N/A
+(ii) 	Re-used
+N/A
+N/A
+(iii) Other recovery operations
+N/A
+N/A
+Total
+N/A
+N/A
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i)	 Incineration
+N/A
+N/A
+(ii)	 Land filling
+N/A
+N/A
+(iii)	Other disposal operations
+Fly Ash: 14680.2528MT
+Bottom Ash: 
+3670.0632MT
+Fly Ash: 10499.373
+Bottom Ash: 2624.8432
+Total
+Fly Ash: 14680.2528MT
+Bottom Ash: 
+3670.0632MT
+Fly Ash: 10499.373
+Bottom Ash: 2624.8432
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+your company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes.
+In Power Generation Sector- Hazardous and toxic chemicals are Sulphuric Acid and Caustic Soda - which are used for 
+treatment of water for boiler uses. Since we have adopted Zero Discharge Plant, hazardous and toxic chemicals use 
+is minimum.
+For Distribution: Only transformer oil is used for transformers and the same is being filtrated regularly. Once their life 
+cycle gets completed, same is disposed through authorised vendors for re-cycling.
+ANNUAL REPORT 2022-23
+100
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details in the following format:
+S. 
+No.
+Location of operations/offices
+Type of operations
+Whether the conditions of environmental approval / 
+clearance are being complied with? (Y/N)
+If no,   the   reasons   thereof   and corrective action taken, 
+if any.
+Asansol-Raniganj (West 
+Bengal)
+Power Generation & 
+Distribution
+Yes
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year:
+Name and brief 
+details of project
+EIA
+Notification No.
+Date
+Whether conducted	
+by independent external 
+agency (Yes / No)
+Results communicated 
+in public domain
+(Yes / No)
+Relevant Web 
+link
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, and Environment protection 
+act and rules there under (Y/N). If not, provide details of all such non-compliances, in the following format: Yes
+S. 
+No.
+Specify the law / regulation	
+/ guidelines which was not 
+complied with
+Provide details	of the	
+non- compliance
+Any fines / penalties / action taken 
+by regulatory agencies such as 
+pollution control boards or by courts
+Corrective	 action taken, if any
+N/A
+N/A
+N/A
+N/A
+Leadership Indicators
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, 
+in the following format:
+Parameter
+FY: 2022-23 
+(Current Financial Year)
+FY: 2021-22 
+(Previous Financial Year)
+From renewable sources
+Total electricity consumption (A)
+865,808 Giga Joules
+75,800 Giga Joules
+Total fuel consumption (B)
+0.00
+0.00
+Energy consumption through other sources (C)
+0.00
+0.00
+Total energy consumed from renewable sources (A+B+C)
+865,808 Giga Joules
+75,800 Giga Joules
+From non-renewable sources
+Total electricity consumption (D)
+2,362,159 Giga Joules
+3,327,723 Giga Joules
+Total fuel consumption (E)
+156,552 Giga Joules
+117,000 Giga Joules
+Energy consumption through other sources (F)
+0.00
+0.00
+Total energy consumed from non-renewable sources (D+E+F)
+2,518,711 Giga Joules
+3,444,723 Giga Joules
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.  No
+STATUTORY REPORTS   ﻿
+101
+2.	
+Provide the following details related to water discharged:
+Parameter
+FY: 2022-2023
+(Current Financial Year)
+FY: 2021-22 
+(Previous Financial Year)
+Water discharge by destination and level of treatment (in kilolitres)
+(i) 	 To Surface water
+N/A
+N/A
+	
+-	
+No treatment
+N/A
+N/A
+	
+-	
+With treatment – please specify level of treatment
+N/A
+N/A
+(ii)	 To Groundwater
+N/A
+N/A
+	
+-	
+No treatment
+N/A
+N/A
+	
+-	
+With treatment – please specify level of treatment
+N/A
+N/A
+(iii)	To Seawater
+N/A
+N/A
+	
+-	
+No treatment
+N/A
+N/A
+	
+-	
+With treatment – please specify level of treatment
+N/A
+N/A
+(iv) Sent to third-parties
+N/A
+N/A
+	
+-	
+No treatment
+N/A
+N/A
+	
+-	
+With treatment – please specify level of treatment
+N/A
+N/A
+(v)	 Others
+N/A
+N/A
+	
+-	
+No treatment
+N/A
+N/A
+	
+-	
+With treatment – please specify level of treatment
+N/A
+N/A
+Total water discharged (in kilolitres)
+N/A
+N/A
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.  No
+3.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+Not Applicable. The facilities of the Company are not located in any area of water stress.
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area: DVC Command Area
+	
+(ii)	 Nature of operations: Power Generation and Distribution
+	
+(iii)	 Water withdrawal, consumption and discharge in the following format:
+Parameter
+FY: 2022-2023
+(Current Financial Year)
+FY: 2021-22
+(Previous Financial Year)
+Water withdrawal by source (in kilolitres)
+(i) 	 Surface water
+N/A
+N/A
+(ii) 	Groundwater
+N/A
+N/A
+(iii) Third party water
+N/A
+N/A
+(iv) Seawater / desalinated water
+N/A
+N/A
+(v) 	Others
+N/A
+N/A
+Total volume of water withdrawal (in kilolitres)
+N/A
+N/A
+Total volume of water consumption (in kilolitres)
+N/A
+N/A
+Water	 intensity	 per	rupee	 of turnover (Water consumed 
+/ turnover)
+N/A
+N/A
+Water intensity (optional) –	the relevant metric may be 
+selected by the entity
+ANNUAL REPORT 2022-23
+102
+Parameter
+FY: 2022-2023
+(Current Financial Year)
+FY: 2021-22
+(Previous Financial Year)
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 To Surface water
+N/A
+N/A
+	
+-	
+No treatment
+N/A
+N/A
+	
+-	
+With treatment – please specify level of treatment
+N/A
+N/A
+(ii)	 To Groundwater
+N/A
+N/A
+	
+-	
+No treatment
+N/A
+N/A
+	
+-	
+With treatment – please specify level of treatment
+N/A
+N/A
+(iii)	To Seawater
+N/A
+N/A
+	
+-	
+No treatment
+N/A
+N/A
+	
+-	
+With treatment – please specify level of treatment
+N/A
+N/A
+(iv)	Sent to third-parties
+N/A
+N/A
+	
+-	
+No treatment
+N/A
+N/A
+	
+-	
+With treatment – please specify level of treatment
+N/A
+N/A
+(v)	 Others
+N/A
+N/A
+	
+-	
+No treatment
+N/A
+N/A
+	
+-	
+With treatment – please specify level of treatment
+N/A
+N/A
+Total water discharged (in kilolitres)
+N/A
+N/A
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency. Not Applicable
+4.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY: 2022-23
+(Current Financial Year)
+FY:2021-22 
+(Previous Financial Year)
+Total Scope 3 emissions (Break-up of the 
+GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if 
+available)
+Metric 
+tonnes 
+of CO2 
+equivalent
+N/A
+N/A
+Total Scope 3 emissions per rupee of turnover
+N/A
+N/A
+Total Scope 3 emission intensity (optional) – the 
+relevant metric may be selected by the entity
+N/A
+N/A
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.  Not Applicable
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details 
+of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation 
+activities.
+	
+12MW plant is not located in any ecologically sensitive area (such as national parks, wildlife sanctuaries, biosphere 
+reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.), accordingly environmental approvals 
+/ clearances are not required. However we have planted more than 5,000 trees last year and survival rate is more than 
+85%. This has helped in promoting child education and also maintaining biodiversity of local area.
+6.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the 
+same as well as outcome of such initiatives, as per the following format:
+	
+Not Applicable
+7.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+The Company is having a Disaster Management Plan for its 12 MW generation plant, that decide the actions needed to 
+shut down plant, evacuate personnel, carry out emergency repair works, arrange supplies of equipment, personnel etc. 
+Carry out atmosphere tests, provide catering facilities, liaison with police, inform relative of the victims (if any), press 
+STATUTORY REPORTS   ﻿
+103
+media announcements etc. Chief Incident Controller and Works Incident Controller assisted by two support teams shall 
+be in-charge of disaster management.
+	
+Evaluation of Functioning of Disaster Plan: In order to evaluate the functioning and effectiveness of procedures laid in 
+Disaster Management Plan, regular mock drills are conducted. The Mock drills are carried out step by step as stated 
+below:
+First Step
+Test the effectiveness of communication system.
+Second Step
+Test the speed of mobilisation of the Plant emergency teams.
+Third Step
+Test the effectiveness of search, rescue and treatment of casualties.
+Fourth Step
+Test Emergency isolation and shut down and remedial measures taken on the system.
+Fifth Step
+Conduct a full rehearsal of all the actions to be taken during an emergency.
+There are two types of mock drills carried out – Full Mock Drill (conducted at least once in 6 months) and Disaster 
+Management Efficacy Drill (conducted at least once in 3 months).
+8.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation 
+or adaptation measures have been taken by the entity in this regard?
+	
+No. The Company is dealing with power distribution as a licensed authority and Generating capacity is only 3-4 % of 
+total energy sale.
+9.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts.
+	
+Not Applicable
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent.
+Essential Indicators
+1.	
+a. 	
+Number of affiliations with trade and industry chambers/associations - 15
+	
+b. 	
+List the top 10 trade and industry chambers/associations (determined based on the total members of such body) 
+the entity is a member of/affiliated to
+Sl. 
+No.
+Name of trade and industry chambers/ associations 
+Reach 
+(State/National)
+1
+ASSOCHAM
+National
+2
+Federation of Indian Chambers of Commerce (FICCI)
+National
+3
+Confederation of Indian Industry (CII)
+National
+4
+Indian Chamber of Commerce (ICC)
+National
+5
+Bengal Chamber of Commerce & Industry (BCCI)
+State
+6
+Bharat Chamber of Commerce
+National
+7
+Indo-German Chamber of Commerce
+National
+8
+Calcutta Management Association
+State
+9
+Young Presidents Organization US
+National
+10
+Young Presidents Organization (Calcutta Chapter)
+State
+11
+Indo-American Chamber of Commerce
+National
+12
+Coal Consumers Association
+National
+13
+India Infrastructure Publishing Pvt Ltd
+National
+14
+Eastern Regional Power Committee
+Zonal
+15
+Indo-Canadian Chamber of Commerce
+National
+ANNUAL REPORT 2022-23
+104
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development.
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year
+	
+No, there were no material new projects undertaken by the Company during the current financial year.
+2. 	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity, in the following format:
+	
+Not Applicable
+3. 	
+Describe the mechanisms to receive and redress grievances of the community:
+	
+Not Applicable
+4. 	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2023
+Current financial year
+FY 2022
+Previous financial year
+Directly sourced from MSMEs/ small producers
+72%
+42%
+Sourced directly from within the district and neighbouring 
+districts
+70%
+40%
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+	
+Not Applicable
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+Sl. 
+No.
+State
+Aspirational District
+Amount Spent (in INR)
+1
+West Bengal
+West Burdwan
+43,52,250
+2
+West Bengal
+Kolkata
+6,47,000
+3. 	
+(a)	 Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups? (Yes/No)
+	
+	
+No. Raw materials used by the Company are not produced by local and small vendors. They are procured from 
+qualified vendors. However, for the service part, the Company has engaged local authorised contractors.
+	
+(b) 	 From which marginalised /vulnerable groups do you procure?
+Company has engaged local authorised contractors for all Electrical engineering, procurement and construction 
+projects for granting new connections, O&M of lines and substations including 132Kv OH power receiving station 
+related work and erection of equipment holding lattice structures.
+	
+(c) 	 What percentage of total procurement (by value) does it constitute? 19%
+2.	
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the entity, 
+based on adverse orders from regulatory authorities
+	
+There is no action taken or underway against India Power Corporation Limited on any issues related to anti-competitive 
+conduct.
+STATUTORY REPORTS   ﻿
+105
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge:
+	
+Not Applicable
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved:
+	
+Not Applicable
+6. 	
+Details of beneficiaries of CSR Projects:
+Sl. 
+No
+CSR Project
+No. of persons benefitted from 
+CSR Projects
+% of beneficiaries from vulnerable 
+and marginalised groups
+1
+Women Empowerment
+200
+100%
+2
+Education
+200
+100%
+3
+Health and Hygiene
+450
+100%
+4
+Skill Development
+100
+100%
+5
+Promotion of Cultural Heritage
+250
+100%
+6
+Rural & Infrastructural Development
+300000
+50%
+7
+Support to Nationally Acclaimed Sports
+100
+75%
+8
+Relief and Care
+100
+100%
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner.
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback
+	
+Consumer complaints are monitored through - Helpline calls, Call center, Walk-in at our offices, Email, Company 
+Website, GRO and CGRO correspondence.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:
+	
+100% of the turnover corresponds to electricity generated, transmitted and distributed. The Company educates its 
+customers on environmental parameters and for safe and responsible usage of power.
+FY 2023 (Current Financial Year)
+Remarks
+FY 2022 (Previous Financial Year)
+Remarks
+Received 
+during the year
+Pending 
+resolution at 
+end of year
+Received 
+during the year
+Pending 
+resolution at 
+end of year
+Data privacy
+0
+0
+-
+0
+0
+-
+Advertising
+0
+0
+-
+0
+0
+-
+Cyber-security
+0
+0
+-
+0
+0
+-
+Delivery of essential services
+5730
+0
+-
+3244
+0
+-
+Restrictive Trade Practices
+0
+0
+-
+0
+0
+-
+Unfair Trade Practices
+0
+0
+-
+0
+0
+-
+Other
+0
+0
+-
+0
+0
+-
+3.	
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+0
+N/A
+Forced recalls
+0
+N/A
+4.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+	
+Yes (Web link https://www.indiapower.com/about/?privacy )
+ANNUAL REPORT 2022-23
+106
+5.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+	
+We circulate post on Social Media warning our Consumers about Fake messages, as noted below.
+	
+“Dear Consumer, please beware of any FAKE SMS regarding disconnecting of electricity or power supply. India Power 
+Corporation Ltd do not ask for any bank details or card details from Consumers. Our SMS has IPCLCO in the sender name. 
+In case of any confusion call our Customer Care”.
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, if 
+available).
+	
+https://mycare.indiapower.com/#/
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+Messages are published through - Website / Facebook / Linkedin / Twitter
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services
+	
+Through SMS services.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/
+Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer satisfaction 
+relating to the major products / services of the entity, significant locations of operation of the entity or the entity as a 
+whole? (Yes/No)
+	
+Yes on Website / Facebook / Linkedin / Twitter. By display of Flex board in our touch points.
+	
+Recently we have carried out survey on consumer satisfaction by circulating KYC-cum- Feedback Form among our 
+consumers.
+5.	
+Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches along-with impact : No
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers: Nil
+For and on behalf of the Board of Directors
+Raghav Raj Kanoria 
+Somesh Dasgupta
+Place: Kolkata
+Managing Director
+Whole-time Director
+Date: 25th May, 2023
+DIN: 07296482
+DIN: 01298835
+STATUTORY REPORTS   ﻿
+107

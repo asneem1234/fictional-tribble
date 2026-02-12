@@ -1,0 +1,3422 @@
+ 
+ 
+Date: 02-09-2023 
+ 
+To 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street 
+Mumbai- 400001 
+To 
+National Stock Exchange of India Limited 
+Exchange Plaza  
+Bandra Kurla Complex 
+Bandra (E) 
+Mumbai-400051 
+Security Code: 540596  
+Symbol: ERIS 
+ 
+ 
+SUBJECT: SUBMISSION PURSUANT TO REGULATION 34(2)(f) OF THE SEBI (LISTING 
+OBLIGATIONS AND DISCLOSURE REQUIREMENTS) REGULATIONS, 2015 - BUSINESS 
+RESPONSIBILITY AND SUSTAINABILITY REPORT FOR THE FY 2022-23 OF THE COMPANY  
+ 
+Dear Sirs, 
+ 
+Pursuant to Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find enclosed the Business Responsibility and Sustainability Report 
+(‘BRSR’) of the company for the Financial Year 2022-23 which is also part of the Annual Report of 
+the Company for FY 2022-23. 
+  
+Kindly take the above information on your records. 
+ 
+Yours faithfully, 
+ 
+Eris Lifesciences Limited 
+ 
+ 
+ 
+ 
+______________________ 
+Milind Talegaonkar  
+Company Secretary and Compliance Officer 
+ 
+ 
+Encl : A/a 
+ 
+ 
+ 
+MILIND 
+TALEGAONKAR
+Digitally signed by MILIND TALEGAONKAR 
+DN: c=IN, postalCode=380055, st=GUJARAT, street=E42 SHRI SADAN 
+SHAHWADI VASNAAHMEDABADOPP SWAMINARAYAN2BEHIND GB 
+SHAH COLLEGE 380055, l=AHMEDABAD, o=Personal, title=6609, 
+serialNumber=a508a80d3a9231304a5bf4e4182bcd5ae3ec1d08a10919
+025e2d5daa95b04426, pseudonym=660920220924180430743, 
+2.5.4.20=57785628ba3ced9959cf93cf3cf172cf4a41a51eb72e155a16f1b
+8fb6276b3d4, email=MILIND.TALEGAONKAR@ERISLIFESCIENCES.COM, 
+cn=MILIND TALEGAONKAR 
+Date: 2023.09.02 18:58:03 +05'30'
+134
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING 
+SECTION A: GENERAL DISCLOSURES
+I.
+Details of the listed entity 
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L24232GJ2007PLC049867
+2
+Name of the Listed Entity
+Eris Lifesciences Limited
+3
+Year of incorporation
+25-01-2007
+4
+Registered office address
+Shivarth Ambit, Plot No 142/2, Ramdas Road, Off SBR, Near 
+Swati Bungalows, Bodakdev, Ahmedabad, Gujarat-380054
+5
+Corporate address
+Shivarth Ambit, Plot No 142/2, Ramdas Road, Off SBR, Near 
+Swati Bungalows, Bodakdev, Ahmedabad, Gujarat-380054
+6
+E-mail
+complianceofficer@erislifesciences.com
+7
+Telephone
+07969661000
+8
+Website
+https://eris.co.in/
+9
+Financial year for which reporting is being done
+2022-23
+10
+Name of the Stock Exchange(s) where shares are 
+listed
+BSE Limited
+National Stock Exchange of India Limited
+11
+Paid-up Capital (In Rs)
+Rs. 13,59,92,238/-
+12
+Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on 
+the BRSR report
+Name
+Milind Talegaonkar
+Contact
+07969661000
+E mail
+complianceofficer@erislifesciences.com
+13
+Reporting boundary 
+Reporting is done on a Standalone basis
+II. 
+Products/services
+14
+Details of business activities (accounting for 90% of the turnover)
+Sr. 
+No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+01.
+Pharmaceutical
+manufacturing and marketing of 
+pharmaceutical products
+100.00%
+15
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover)
+Sr. 
+No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+01.
+manufacturing of pharmaceuticals
+2100
+100.00%
+135
+III. 
+Operations
+16
+Number of locations where plants and/or operations/offices of the entity are situated
+Location
+Number of plants
+Number of offices
+Total
+National
+ 1
+ 3
+ 4
+International
+ 0
+ 0
+ 0
+17
+ Markets served by the entity
+A
+Number of locations 
+Locations
+Number
+National (No. of States)
+ 27
+International (No. of Countries)
+ 0
+B
+What is the contribution of exports as a percentage of the total turnover of the entity?
+Our Company follows “pure play domestic branded formulations” business model. There are, therefore, no exports.
+C
+A brief on types of customers
+The Company serves across all segments of customers. At the core, the final customers are the patients who buy the 
+products of the Company based on the prescriptions from the Doctors. The primary channel of distribution is through the 
+wholesale drug distributors, stockist and retail pharmacies. 
+IV. 
+ Employees
+18
+Details as at the end of Financial Year
+A.
+Employees and workers (including differently abled)
+S. No.
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C/A)
+EMPLOYEES 
+1
+Permanent (D)
+2588
+2513
+97.10%
+75
+2.90%
+2
+Other than permanent (E)
+867
+850
+98.04%
+17
+1.96%
+3
+Total employees (D + E)
+3455
+3363
+97.34%
+92
+2.66%
+136
+WORKERS
+4
+Permanent (F)
+ 93
+89
+95.70%
+ 4
+ 4.30 %
+5
+Other than permanent (G)
+0
+0
+0
+0
+0
+6
+Total workers (F + G)
+ 93
+89
+95.70%
+ 4
+ 4.30 %
+B.
+Differently abled Employees and workers:
+S. No.
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+0
+0
+0
+0
+0
+2
+Other than Permanent (E)
+0
+0
+0
+0
+0
+3
+Total differently abled employees (D + E)
+0
+0
+0
+0
+0
+DIFFERENTLY ABLED WORKERS
+4
+Permanent (F)
+0
+0
+0
+0
+0
+5
+Other than Permanent (G)
+0
+0
+0
+0
+0
+6
+Total differently abled workers (F + G)
+0
+0
+0
+0
+0
+19
+Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+8
+ 1
+ 12.50%
+Key Management Personnel
+2
+ 0
+ 0.00%
+20
+Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+FY 2022-23
+(Turnover rate in current FY)
+FY 2021-22
+(Turnover rate in previous FY)
+FY 2020-21
+(Turnover rate in the year prior to 
+the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+ 24.3%
+30.40%
+24.50%
+23.80%
+30.00%
+ 24%
+17.60%
+ 21.50%
+17.70% 
+Permanent 
+Workers
+33.66%
+0
+33.66%
+ 35.69%
+0
+ 35.69%
+ 36.08%
+0
+36.08%
+137
+V. 
+Holding, Subsidiary and Associate Companies (including joint ventures)
+21
+Names of holding / subsidiary / associate companies / joint ventures
+Sr. 
+No.
+Name   of   the holding/ subsidiary/
+associate companies / joint ventures 
+Indicate whether  
+holding/ 
+Subsidiary/ 
+Associate/  
+Joint Venture
+% of shares 
+held by 
+listed entity
+Does the entity indicatedat 
+column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1.
+Aprica Healthcare Limited  
+(Previously known as  
+UTH Healthcare Limited)
+Wholly Owned  
+Subsidiary
+100%
+Yes
+2.
+Eris M. J. Biopharm Private Limited 
+(Previously known as Kinedex  
+Healthcare Private Limited)
+Subsidiary
+70%
+Yes
+3.
+Eris Therapeutics Limited
+Wholly Owned  
+Subsidiary
+100%
+Yes
+4.
+Eris Oaknet Healthcare Private Limited 
+(Previously known as Oaknet  
+Healthcare Private Limited)
+Wholly Owned  
+Subsidiary
+100%
+Yes
+5.
+Eris Healthcare Private Limited (“EHPL”)
+Wholly Owned  
+Subsidiary
+100%
+Yes
+6.
+Eris Pharmaceuticals Private Limited
+Subsidiary  
+of EHPL
+76%
+Yes
+VI. 
+CSR Details
+ 
+22
+(i) Whether CSR is applicable as per section 135 of Companies Act, 2013:
+Yes
+ 
+ 
+(ii) Turnover (Rs. in Millions)
+Rs. 13,071.20
+(iii) Net worth (Rs. in Millions)
+Rs.  22,218.84
+138
+VII.
+Transparency and Disclosures Compliances
+23
+Complaints/ Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct
+Stakeholder group 
+from whom com-
+plaint is received
+Grievance  
+Redressal  
+Mechanism 
+in Place 
+(Yes/No) (If 
+Yes, then 
+provide  
+web-link for 
+grievance  
+redress  
+policy)
+FY 2022-23  
+Current Financial Year 
+FY 2021-22  
+Previous Financial Year 
+Number of 
+complaints 
+filed during 
+the year
+Number 
+of com-
+plaints 
+pending 
+resolution  
+at close of 
+the year
+Re-
+marks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution  
+at close of 
+the year
+Remarks
+Communities
+ Yes*
+0
+0
+ -
+0
+0
+-
+Investors (other than 
+shareholders)
+Yes*
+0
+0
+-
+0
+0
+-
+Shareholders
+Yes*
+0
+0
+-
+0
+0
+-
+Employees and 
+workers
+Yes*
+0
+0
+-
+0
+0
+-
+Customers
+Yes*
+0
+0
+-
+0
+0
+-
+Value Chain Partners
+Yes*
+0
+0
+-
+0
+0
+-
+Other (please specify)
+Yes*
+0
+0
+-
+0
+0
+-
+*Some of the policies guiding the Company’s conduct with all its stakeholders, including grievance mechanisms are placed on the 
+Company’s website at the link mentioned below: - 
+https://eris.co.in/corporate-governance/
+Also, the Company has in place separate teams for handling the queries of different stakeholders the email Ids for them are as 
+mentioned below:
+a)	 Investor Queries- investor.relations@eris.co.in
+b)	 HR related queries- hr.communication@erislifesciences.com
+c)	 Secretarial- complianceofficer@erislifesciences.com
+d)	 Legal- legal@erislifesciences.com
+In addition, there are internal policies placed on the intranet platform of the Company.
+139
+24
+Overview of the entity’s material responsible business conduct issues
+Sr. 
+No.
+Material 
+issue  
+identified 
+Indicate  
+whether risk  
+or opportunity 
+(R/O) 
+Rationale for 
+identifying the risk / 
+opportunity 
+In case of risk, approach 
+to adapt or mitigate 
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications) 
+1.
+ESG and  
+Regulatory  
+Compliances 
+Risk 
+The risk of financial 
+and reputational 
+damage that 
+arises from non-
+compliance with 
+environmental, social, 
+and governance 
+(ESG) standards and 
+regulations. 
+1.	Identify potential ESG 
+Risks
+2.	Implement the ESG 
+compliance program 
+and monitor the 
+ESG compliance 
+performance.
+•	 Stronger positioning 
+with investors;
+•	 Better ability to attract 
+capital
+•	 Operations become 
+more sustainable
+•	 Reduced risk of fines 
+and penalties 
+•	 Improved reputation 
+2.
+Product 
+quality  
+and safety
+Risk 
+Product quality 
+issues could have 
+serious patient safety 
+issues along with 
+product liability 
+and regulatory 
+ramifications. 
+A lapse in product 
+quality can have a 
+cascading effect, 
+leading to product 
+withdrawals, recalls, 
+decreased sales, and 
+reputational damage.
+1.	Implement effective 
+quality control 
+procedures. 
+2.	Use robust data 
+management 
+processes 
+3.	Provide training to  
+employees 
+4.	Strengthen the system 
+in place for reporting 
+and investigating 
+incidents. 
+5.	 Conduct regular audits 
+•	 Patient safety and 
+hence reputational 
+damage
+•	 Legal liability 
+•	 Fines and penalties  
+•	 Increased costs due to 
+recall and destruction 
+of products, change 
+in manufacturing 
+processes and loss of 
+sale. 
+3.
+Supply chain  
+management 
+Risk 
+The entire product 
+life cycle relies heavily 
+on the supply chain, 
+necessitating a robust 
+contingency plan to 
+address unforeseen 
+circumstances that 
+could potentially 
+disrupt the supply 
+chain. Moreover, the 
+Company extends its 
+responsible business 
+principles throughout 
+the value chain, 
+expecting suppliers 
+to comply with these 
+principles.  
+1.	 Create a strong 
+evaluation system to 
+analyse the effects 
+of unprecedented 
+disruptions on the 
+supply chain and 
+formulate a thorough 
+contingency strategy 
+to minimize significant 
+consequences on the 
+business. 
+2.	 Conduct a supplier 
+evaluation following 
+standard practices and 
+requirements as guided 
+by sector-specific 
+responsible supply 
+chain initiatives. 
+Positive: 
+Through the adoption 
+of responsible supply 
+chain practices, the 
+company look forward 
+to effectively manage 
+disruptions in the supply 
+chain that may arise from 
+unexpected events. 
+Negative: 
+Any disruptions occurring 
+throughout Eris’s 
+supply chain can have a 
+detrimental effect on its 
+operations, leading to 
+hindered product supply 
+and increased costs. 
+140
+4.
+Occupational 
+Health and 
+safety 
+Risk 
+Consistent with 
+the Organisational 
+philosophy of 
+putting-’Safety before 
+everything else’
+Any organization 
+with an unsafe or 
+unhealthy work 
+environment is very 
+vulnerable to low 
+employee satisfaction 
+and retention.
+1.	Continuous 
+improvement in safety 
+standards 
+2.	Employee training and 
+establishing protocols. 
+3.	Corrective action plans 
+post the identification 
+and assessment of 
+safety incidents. 
+Positive:
+•	 Employee satisfaction
+•	 Decrease in employee 
+turnover.
+•	 Increased reputation 
+Negative: 
+•	 Operational 
+disruptions 
+•	 Imposition of fines and 
+penalties 
+•	 Decrease in morale 
+and productivity.
+5.
+Human 
+Resource 
+retention 
+Risk & 
+opportunity 
+Risk:
+1.	Loss of institutional 
+experience. 
+2.	Increased costs 
+3.	Reduced 
+productivity 
+4.	Damage to morale. 
+  
+Opportunities: 
+1.	Increased employee 
+engagement 
+2.	Reduced costs 
+3.	Improved 
+reputation.
+1.	Identify the root causes 
+of employee turnover. 
+2.	Create a positive work 
+environment. 
+3.	Offer competitive 
+compensation and 
+benefits. 
+4.	Provide opportunities 
+for learning, 
+development, and 
+advancement. 
+5.	Celebrate success. 
+6.	Address employee 
+concerns. 
+7.	Create a culture of trust 
+and respect. 
+8.	Conduct employee 
+engagement surveys 
+Positive:
+•  Reduced costs
+•  Reduced risk of  
+    accidents
+•   Enhanced reputation
+Negative:
+•  Cost of recruiting and  
+   hiring 
+•  Cost of training 
+•  Loss of productivity
+•  Damage to morale
+141
+6.
+Technology 
+and 
+digitalisation 
+Risk and 
+Opportunity 
+Risk: 
+The risks associated 
+with technology have 
+a direct impact on the 
+security and integrity 
+of the entire business 
+operations. It is 
+crucial to periodically 
+assess the criticality 
+of technology and 
+cyber security 
+to prevent data 
+privacy breaches, 
+safeguarding 
+the confidential 
+information of the 
+Company and its 
+stakeholders. 
+ Opportunity: 
+By establishing robust 
+governance practices 
+regarding data 
+integrity, technology, 
+digitalization, 
+and innovation, 
+the Company can 
+create a secure 
+and impenetrable 
+network. This allows 
+for the smooth 
+execution of business 
+transactions on a 
+global scale, while 
+ensuring the ability to 
+adapt and grow at a 
+rapid pace. 
+1.	Strengthening 
+perimeter security 
+2.	Enhancing IT and 
+monitoring systems 
+3.	Implementing anti-
+virus software 
+4.	Effectively managing 
+software patches 
+5.	Regular trainings on 
+cyber security 
+Positive: 
+•	 Compliance with data 
+security and privacy 
+regulations 
+•	 Prevent data loss 
+ Negative: 
+•	 Increased number of 
+data breaches 
+•	 Loss of valuable data 
+•	 Network outages, or 
+technical glitches 
+7.
+Community 
+development 
+- CSR
+Opportunity
+By actively 
+participating in 
+Corporate Social 
+Responsibility (CSR) 
+endeavours that 
+give preference to 
+preventive health 
+screenings the 
+company improves 
+its perception in the 
+community that it 
+operates in.
+NA
+Positive: 
+The enhanced image 
+improves the willingness 
+of the medical 
+fraternity to trust the 
+pharmaceutical offerings 
+of the company w.r.t. 
+their effectiveness in 
+curing the patients.
+142
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+The National Guidelines for Responsible Business Conduct (NGRBC) as prescribed by the Ministry of Corporate Affairs advocates 
+nine principles referred as P1-P9 as given below:
+Principle 1
+Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent 
+and Accountable
+Principle 2
+Businesses should provide goods and services in a manner that is sustainable and safe
+Principle 3
+Businesses should respect and promote the well-being of all employees, including those in their value chains
+Principle 4
+Businesses should respect the interests of and be responsive towards all its stakeholders
+Principle 5
+Businesses should respect and promote human rights
+Principle 6
+Businesses should respect, protect and make efforts to protect and restore the environment
+Principle 7
+Businesses when engaging in influencing public and regulatory policy, should do so in a manner that is re-
+sponsible and transparent
+Principle 8
+Businesses should promote inclusive growth and equitable development
+Principle 9
+Businesses should engage with and provide value to their consumers in a responsible manner
+Disclosure 
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1. a. Whether 
+your entity’s 
+policy/policies 
+cover each 
+principle and its 
+core elements 
+of the NGRBCs. 
+(Yes/No)
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+b. Has the 
+policy been 
+approved by the 
+Board? (Yes/No)
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+c. Web Link of 
+the Policies, if 
+available
+Yes. All policies which are mandatorily required to be disclosed under various governing regulations have 
+been placed on the website https://eris.co.in/corporate-governance/ and other policies have been placed 
+on the intranet of the Company for its employees.
+143
+2. Whether 
+the entity has 
+translated 
+the policy into 
+procedures. (Yes 
+/ No)
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+3. Do the 
+enlisted policies 
+extend to your 
+value chain 
+partners? (Yes/
+No)
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+4. Name of the 
+national and 
+international 
+codes/
+certifications/
+labels/ 
+standards 
+(e.g. Forest 
+Stewardship 
+Council, 
+Fairtrade, 
+Rainforest 
+Alliance, 
+Trustea) 
+standards 
+(e.g. SA 8000, 
+OHSAS, ISO, 
+BIS) adopted by 
+your entity and 
+mapped to each 
+principle.
+National 
+Guidelines  
+on 
+Responsible 
+Business 
+Conduct 
+(NGBRC)
+NGBRC
+NGBRC
+Global 
+Reporting 
+Initiative 
+Standards,  
+NGBRC
+United
+Nations 
+Guiding 
+Principles 
+on 
+Business 
+and 
+Human 
+Rights, 
+NGBRC
+Global 
+Reporting 
+Initiative 
+Standards, 
+NGBRC
+NGBRC
+NGBRC
+WHO GMP 
+guidelines 
+compliant,  
+Product
+quality-
+ISO 9001:
+2015, 
+NGBRC 
+5. Specific 
+commitments, 
+goals and 
+targets set 
+by the entity 
+with defined 
+timelines, if any.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+144
+6. Performance 
+of the entity 
+against the 
+specific 
+commitments, 
+goals and 
+targets along-
+with reasons in 
+case the same 
+are not met.
+ -
+-
+-
+-
+-
+-
+-
+-
+-
+Governance, leadership and oversight
+7. Statement by director responsible for the business responsibility 
+report, highlighting ESG related challenges, targets and 
+achievements 
+We believe that concerns for Society and Environment 
+along with the business existence and its expansion 
+are the core values of any organisation. This belief 
+has always kept us thoughtful to align our business 
+practices with the ESG related guidelines. We strive 
+to adopt best environmental practices and protocols 
+within the paradigm of our operations and create value 
+for all stakeholders whilst growing responsibly and 
+sustainably. 
+During the year, a host of initiatives were undertaken 
+at the manufacturing plant to step up our game on 
+the ESG front. We always prioritize contributing to 
+Environment Health and Safety issues. In line with 
+the said view, we have set-up an effluent treatment 
+plant with Zero Liquid Discharge (ZLD) treatment 
+process, designed for the removal of liquid waste 
+from the system. The emphasis of the process is to 
+manage wastewater economically and produce clean 
+water. We have installed Electricity Meters and VFDs 
+(Variable Frequency Devices) at all energy-intensive 
+points in the facility to monitor and reduce specific 
+energy consumption. We have set and implemented 
+specific targets for use of recycled water in areas such 
+as gardening, cooling tower, boiler and washrooms. 
+We endeavour to maintain healthy relationship and 
+engagement with local communities and work with 
+them as partners. In that spirit, we have initiated and 
+adopted social and community welfare undertakings 
+which include a wide spectrum of development 
+activities.
+145
+8. Details of the highest authority responsible for implementation 
+and oversight of the Business Responsibility policy (ies).
+Name: Mr. Krishnakumar Vaidyanathan 
+DIN: 08976508
+Designation: Wholetime Director & Chief Operating 
+Officer
+9. Does the entity have a specified Committee of the Board/ Director 
+responsible for decision making on sustainability related issues? 
+(Yes / No).
+ Yes
+If yes, provide details.
+The Executive Committee of the Company oversees the 
+ESG initiatives of the Company. The Committee supports 
+the Board on all matters relating to sustainability and 
+inter alia reviews the progress of sustainability strategies 
+and defines action plan as may be appropriate from 
+time to time to achieve the same.
+10. Details of Review of NGRBCs by the Company
+Subject for 
+Review
+Indicate whether review was undertaken by Director/
+Committee of the Board/Any other Committee
+Frequency (Annually / Half yearly /
+Quarterly/ Any other-please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance 
+against above 
+policies and  
+follow up action
+Yes, Committee of the Board 
+Periodic/Need base
+Compliance 
+with statutory 
+requirements 
+of relevance to 
+the principles 
+and rectification 
+of any non-
+compliances
+Yes, Committee of the Board 
+Ongoing basis
+11. Has the 
+entity carried 
+out independent 
+assessment/ 
+evaluation of 
+the working 
+of its policies 
+by an external 
+agency? (Yes/
+No). If yes, 
+provide name of 
+the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+No.  The working of the policies are monitored by the executive management of the Company and any 
+deviations therefrom are deliberated at the Board level.
+12. If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: NA
+146
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity,  
+and in a manner that is Ethical, Transparent and Accountable.
+Essential Indicators
+1. Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number of training and aware-
+ness programmes held
+Topics/principles covered 
+under the training and its 
+impact
+%age of persons in 
+respective category 
+covered by the awareness 
+programmes
+Board of Directors
+Familiarisation/ awareness program 
+for the Board of Directors/ KMPs of 
+the Company is done periodically. The 
+topics cover business, regulations, 
+code of business conduct and ethics, 
+economy and environmental, social and 
+governance parameters. In addition, 
+frequent updates are shared with all the 
+Board members/ KMPs apprising them 
+on developments in the Company, key 
+regulatory changes, risks, compliances 
+and legal cases.
+ Principles 1-9
+ 100%
+Key Managerial  
+Personnel
+ Principles 1-9
+ 100%
+Employees other 
+than BoD and 
+KMPs
+The employees/ workers of the Company 
+undergo various training programmes 
+throughout the year.  The training 
+programmes include:- Prohibition of 
+Insider Trading, Prevention of Sexual 
+Harassment at work place, Cyber 
+security and awareness, code of conduct 
+and ESG
+Principles 1-9
+100%
+Workers
+ Principles 1-9
+ 100%
+2. Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings 
+During the financial year, no penalty / fine, settlement, compounding fee, imprisonment, or any kind of punishment has been 
+imposed on the Company or its Directors and KMPs.
+Monetary
+NGRBC  
+Principle
+Name of the regulatory/
+enforcement agencies/
+judicial institutions
+Amount (In INR)
+Brief of the Case
+Has an 
+appeal been 
+preferred?
+(Yes/No)
+Penalty/ Fine
+-
+-
+-
+-
+-
+Settlement
+-
+-
+-
+-
+-
+Compounding fee
+-
+-
+-
+-
+-
+147
+Non-Monetary
+NGRBC Principle
+Name of the
+regulatory/
+enforcement  
+agencies/judicial 
+institutions
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+-
+-
+-
+-
+Punishment
+-
+-
+-
+-
+3. Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or 
+non-monetary action has been appealed: Not Applicable.
+4. Does the entity have an anti-corruption or anti-bribery policy?  If yes, provide details in brief Provide a web-link to the 
+policy, if available
+Yes.
+The policy reiterates that the Company is committed to maintain the highest ethical standards of business conduct and does 
+not tolerate corruption of any kind at any level. The policy is applicable to our employees, agents and such other persons or 
+entities that act on behalf of the Company.
+The Company has placed the policy on its intranet and is made available to the Company’s representatives including third 
+parties.   
+5. Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption: 
+During the financial year, no disciplinary action was taken by any law enforcement agency for the charges of bribery/   corruption 
+against the Directors, KMPs, employees or workers of the Company.
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Directors
+-
+-
+KMPs
+-
+-
+Employees
+-
+-
+Workers
+-
+-
+6. Details of complaints with regard to conflict of interest: During the financial year, no complaints were received in relation 
+to Conflict of Interest of the Directors or KMPs.
+ 
+FY 2022-23
+FY 2021-22
+Number
+Remarks
+Number
+Remarks
+Number of complaints 
+received in relation to 
+issues of Conflict of 
+Interest of the Directors
+-
+-
+-
+-
+148
+Number of complaints 
+received in relation to 
+issues of Conflict of 
+Interest of the KMPs
+-
+-
+-
+-
+7. Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+Not applicable
+Leadership Indicators
+1. Awareness programmes conducted for value 
+chain partners on any of the Principles during the 
+financial year
+The Company has a ‘Supplier Code of Conduct’ (SCoC) that provides 
+guidance to value chain partners. The SCoC contains critical information 
+on applicable laws, regulations, policies and procedures. It also provides 
+direction on the behavioural and ethical standards to be met.
+2. Does the entity have processes in place to 
+avoid/ manage conflict of interests involving 
+members of the Board?
+ Yes. The Company has the following processes in place to avoid/ manage 
+conflict of interest: 
+•	 Yearly processes like assessment of independence, where applicable, 
+and disclosure of interested entities. 
+•	 Insulating the deliberations involving consideration of transactions with 
+related entities from the directors identified to be interested.
+•	 Greater consideration towards establishment of arms-length nature of 
+the transactions.
+•	 Continuous monitoring of adherence to the code of conduct for Directors 
+and Senior Management Personnel.
+ 
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1. Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively.
+ 
+FY (2022-23)
+PY (2021-22)
+Details of improvements in 
+environmental and social impacts
+R&D*
+-
+-
+-
+Capex#
+-
+-
+-
+* Companies adopts the innovations available in the market and hence has no R&D expenditure in this regard.
+# As the capital expenditure for reducing effluent discharge, air pollutants, energy and water conservation incurred in the 
+earlier years continue to serve the Company hence no expenditure in this regard was necessary.
+149
+2.  a. Does the entity have procedures in place 
+for sustainable sourcing? (Yes/No)
+Measures like preference for/commitment to:
+•	 local content in the supplies
+•	 geographically closer vendors
+•	 vendors who are more integrated backwards
+•	 vendors with demonstrated commitment towards compliance with 
+regulatory requirements and reduction of their carbon footprint 
+(formalized through a Supplier Code of Conduct)
+•	 ethical, fair and transparent vendor selection processes
+b. If yes, what percentage of inputs were 
+sourced sustainably?
+100% of inputs were sourced sustainably in terms of the company’s 
+sustainable sourcing programme.
+3. Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for
+(a) Plastics (including packaging)
+Plastic waste, if any, is disposed by Eris in a way 
+that is safe and healthy to the environment
+(b) E-waste
+NA
+(c) Hazardous waste
+NA
+(d) other waste (Expired Products)
+Expired products are handed over to the 
+authorised incineration agency for being disposed 
+of in accordance with the requirements of the Bio-
+Medical Waste Management Rules, 2016.
+4. Whether Extended Producer Responsibility (EPR) is applicable to the 
+entity’s activities (Yes / No).
+No
+If yes, whether the waste collection plan is in line with the Extended 
+Producer Responsibility (EPR) plan submitted to Pollution Control Boards? Not Applicable
+If not, provide steps taken to address the same.
+As the expired medicines are required to be 
+disposed of in accordance with the requirements 
+of the Bio-Medical Waste Management Rules, 
+2016, the EPR is inapplicable to that extent.
+Leadership Indicators
+1. Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) 
+or for its services (for service industry)? If yes, provide details
+No, the inputs or products of the company do not have the potential to have a significant negative influence on the environment. 
+Further, Authorised incineration facilities dispose of the waste produced during product manufacture, packaging, or expiration 
+in a safe manner.
+2. If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly 
+describe the same along-with action taken to mitigate the same.- Not applicable
+150
+3. Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+As the Company is engaged in the business of manufacturing and marketing of pharmaceuticals, the Company cannot recycle 
+or reuse input materials in the manufacturing process due to the legal requirements forbidding the recycling/reuse and 
+mandating their disposal in accordance with applicable law.
+4. Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and 
+safely disposed, as per the following format:
+ 
+FY 2022-23
+FY 2021-22
+Re-Used
+Recycled
+Safely 
+Disposed
+Re-Used
+Recycled
+Safely 
+Disposed
+Plastics (including packaging)
+ NA
+NA 
+NA
+NA 
+NA 
+NA
+E waste
+ NA
+NA 
+NA 
+NA 
+NA 
+NA 
+Hazardous waste
+ NA
+NA 
+NA 
+NA 
+NA 
+NA 
+Other waste (Expired products)
+ NA
+NA 
+172.054
+NA 
+NA 
+103.977
+5. Reclaimed products and their packaging materials (as percentage of products sold) for each product category
+Not applicable.
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees,  
+including those in their value chains
+Essential Indicators
+1. a. Details of measures for the well-being of employee
+% of employees covered by
+Category
+Total 
+(A)
+Health  
+insurance
+Accident  
+insurance
+Maternity  
+benefits
+Paternity  
+Benefits
+Day Care  
+facilities
+Number
+(B)
+%
+(B/A)
+Number
+(C)
+%
+(C/A)
+Number
+(D)
+%
+(D/A)
+Number
+(E)
+%
+(E/A)
+Number
+(F)
+%
+(F/A)
+Permanent employees
+Male
+2513
+2513
+100%
+2513
+100%
+-
+-
+-
+-
+-
+-
+Female
+75
+75
+100%
+75
+100%
+75
+100%
+-
+-
+75
+100%
+Total
+2588
+2588
+100%
+2588
+100%
+75
+2.90%
+-
+-
+75
+2.90%
+Other than Permanent employees
+Male
+850
+850
+100%
+850
+100%
+-
+-
+-
+-
+-
+-
+Female
+17
+17
+100%
+17
+100%
+17
+100%
+-
+-
+17
+100%
+Total
+867
+867
+100%
+867
+100%
+17
+1.96%
+-
+-
+17
+1.96%
+151
+b. Details of measures for the well-being of workers:
+% of employees covered by
+Category
+Total 
+(A)
+Health  
+insurance
+Accident  
+insurance
+Maternity  
+benefits
+Paternity  
+Benefits
+Day Care  
+facilities
+Number
+(B)
+%
+(B/A)
+Number
+(C)
+%
+(C/A)
+Number
+(D)
+%
+(D/A)
+Number
+(E)
+%
+(E/A)
+Number
+(F)
+%
+(F/A)
+Permanent workers
+Male
+89
+68
+76.40%
+68
+76.40%
+-
+-
+-
+-
+-
+-
+Female
+4
+2
+50.00%
+2
+50.00%
+4
+100%
+-
+-
+4
+100%
+Total
+93
+70
+75.27%
+70
+75.27%
+4
+4.30%
+-
+-
+4
+4.30%
+Other than Permanent workers
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+2. Details of retirement benefits, for Current Financial Year and Previous Financial Year.
+Benefits
+FY 2022-23
+FY 2021-22
+No. of  
+employees  
+covered as a  
+% of total  
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and depos-
+ited with the 
+authority
+(Y/N/N.A.)
+No. of  
+employees  
+covered as a  
+% of total  
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and depos-
+ited with the 
+authority
+(Y/N/N.A.)
+PF
+100%
+100%
+Y
+100%
+100%
+Y
+Gratuity
+100%
+100%
+Y
+100%
+100%
+Y
+ESI
+9.31%
+46.43%
+Y
+13.88%
+51.00%
+Y
+Others- Please specify
+152
+3. Accessibility of workplaces
+Are the premises / offices of the entity accessible to 
+differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities 
+Act, 2016?
+Yes, we are committed to providing a workplace that is accessible to 
+all employees, regardless of their abilities. By taking the following 
+steps, the entity is creating a more inclusive and welcoming 
+environment for all employees:
+•	 Placement of ramps/elevators along with stairs which makes it 
+easier for people with mobility impairments to move around.
+•	 Providing accessible toilet facilities throughout the entity’s 
+premises, which includes wheelchair-accessible stalls, grab bars, 
+and accessible sinks.
+•	 Allowing employees to work in more easily accessible places 
+such as by transferring a wheelchair user’s workstation from an 
+inaccessible upper floor to the ground floor.
+If not, whether any steps are being taken by the entity in 
+this regard.
+NA
+4. 
+Does the entity have an equal opportunity policy as per 
+the Rights of Persons with Disabilities Act, 2016?
+Yes, the Company provides an inclusive work culture and a 
+discrimination-free environment for all its employees. The Company 
+values and embraces diversity and does not discriminate against 
+anyone based on race, gender, religion / beliefs, disability, marital 
+or civil partnership status, age, sexual orientation, gender identity, 
+gender expression, caring responsibilities, or any other protected 
+class of person in the country, and have a Diversity, Equity and 
+inclusion policy in place to ensure the same.
+If so, provide a web-link to the policy.
+The Company has placed its policy on the company’s website at 
+https://eris.co.in/corporate-governance/
+5. Return to work and Retention rates of permanent employees and workers that took parental leave.
+Permanent employees
+Permanent workers
+Gender
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+100%
+100%
+Female
+100%
+100%
+100%
+100%
+Total
+100%
+100%
+100%
+100%
+153
+6. Is there a mechanism available to receive and redress grievances for the following categories 
+of employees and worker?
+Yes
+If yes, give details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent Workers
+The Company has a Whistle Blower Policy in place that provides a grievance redressal 
+mechanism and encourages its employees and workers to report without fear any 
+instance of actual or suspected violation, wrongdoings or any illegal or unethical or 
+improper practice which may adversely impact the image and / or the financials of the 
+Company.
+Any reports or queries can be referred to the Audit Committee’s Chairperson.
+Additionally, the employees and workers can also write to the HR Team at the email 
+ID-  hr.communication@erislifesciences.com regarding their grievance.
+Other than Permanent Worker
+Permanent Employees
+Other than Permanent Employees
+7. Membership of employees and worker in association(s) or Unions recognised by the listed entity: Not Applicable
+Category
+FY 2022-23
+FY 2021-22
+Total  
+employees  
+/ workers in 
+respective  
+category (A)
+No. of  
+employees / 
+workers in  
+respective  
+category, 
+who  
+are part of  
+associa-
+tion(s) or 
+Union (B)
+%(B/A)
+Total  
+employees / 
+workers in  
+respective  
+category (C)
+No. of  
+employees 
+/ workers in 
+respective  
+category, 
+who are part 
+of associ-
+ation(s) or 
+Union (D)
+%(D/C)
+Total Permanent Employees
+-
+-
+-
+-
+-
+-
+Male
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+Total Permanent Workers
+-
+-
+-
+-
+-
+-
+Male
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+154
+8. Details of training given to employees and workers:
+Category
+FY 2022-23
+FY 2021-22
+Total
+(A)
+On Health and  
+safety measures
+On Skill  
+upgradation
+Total
+(D)
+On Health and  
+safety measures
+On Skill  
+upgradation
+No.
+(B)
+%
+(B/A)
+No.
+(C)
+%
+(C/A)
+No.
+(E)
+%
+(E/D)
+No.
+(F)
+%
+(F/D)
+Employees
+Male
+3363
+242
+7.20%
+78
+2.32%
+3207
+-
+-
+123
+3.83%
+Female
+92
+15
+16.30%
+4
+4.35%
+93
+-
+-
+15
+16.12%
+Total
+3455
+257
+7.44%
+82
+2.37%
+3300
+-
+-
+138
+4.18%
+Workers
+Male
+89
+89
+100%
+40
+44.94%
+86
+86
+100%
+40
+46.51%
+Female
+4
+4
+100%
+2
+50.00%
+4
+4
+100%
+2
+50.00%
+Total
+93
+93
+100%
+42
+45.16%
+90
+90
+100%
+42
+46.67%
+9. Details of performance and career development reviews of employees and worker:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+3363
+3363
+100%
+3207
+3207
+100%
+Female
+92
+92
+100%
+93
+93
+100%
+Total
+3455
+3455
+100%
+3300
+3300
+100%
+Workers
+Male
+89
+89
+100 %
+86
+86
+100%
+Female
+4
+4
+100%
+4
+4
+100%
+Total
+93
+93
+100%
+90
+90
+100%
+155
+10. Health and safety management system:
+a.
+Whether an occupational health and safety 
+management system has been implemented 
+by the entity?
+Yes, we have effectively implemented an occupational health and 
+safety management system across the organisation including its 
+group companies. 
+If yes, the coverage such system?
+Our health and safety management system covers all the units and 
+employees of our organisation. Hence the coverage is 100%.  
+b.
+What are the processes used to identify 
+work-related hazards and assess risks on a 
+routine and non-routine basis by the entity?
+Well documented work related hazards that are applicable to 
+Pharma industry are available in the public domain and are relied 
+upon for the identification of such hazards. 
+The processes used to assess risks:
+Routine basis:
+•	
+Conducting regular inspections of our workplaces to identify 
+potential hazards. These inspections are conducted by trained 
+safety professionals who look for hazards such as unsafe 
+equipment, poor housekeeping, and inadequate training.
+•	
+Conducting regular medical check-ups for all employees
+Non-routine basis:
+Incident based assessments are done for identification of risks and 
+measures needed for their mitigation.
+c.
+Whether you have processes for workers to 
+report the work related hazards and to remove 
+themselves from such risks.
+Yes, we have a well-established SOPs for reporting and 
+handling work-related hazards which covers various aspects like 
+identification of hazards, hazard control, incident reporting, and 
+training to workers for handling the hazards.
+The SOPs are reviewed periodically for addition of new hazards 
+and mitigation measures.
+d.
+Do the employees/ worker of the entity have 
+access to non-occupational medical and 
+healthcare services?
+Yes. For instance, with a view to promoting physical and mental 
+wellbeing for all our employees and workers we have organised 
+several health programs / camps at the corporate office, like:
+	y
+Administration of all the Covid Vaccination dose to employees 
+and their family members.
+	y
+Health camp for identification of Anaemia among the 
+employees.
+	y
+Health camp for testing Iron deficiency in the employees
+	y
+Free distribution of Medications for employees and their family 
+members.
+156
+11. Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2022-23
+FY 2021-22
+Lost Time Injury Frequency Rate (LTIFR) 
+(per one million-person hours worked)
+Employees
+-
+-
+Workers
+-
+-
+Total recordable work-related injuries
+Employees
+-
+-
+Workers
+-
+-
+No. of fatalities
+Employees
+-
+-
+Workers
+-
+-
+High consequence work-related injury or 
+ill-health (excluding fatalities)
+Employees
+-
+-
+Workers
+-
+-
+12. Describe the measures taken by the entity to ensure a safe and healthy work place.
+We endeavour to maintain a safe and healthy workplace while offering our workers and staff the best care possible. We ensure 
+that the following measures are taken care of to create a safe and healthy workplace:
+•	
+Safety Culture: We aim to create a safe work culture by ensuring that everyone recognises the value of safety and is dedicated 
+to maintaining a safe and healthy workplace.
+•	
+Providing Safe Resources: We ensure that all the equipment and resources used / available at the workplace are safe to 
+use and handle.
+•	
+Providing Suitable Training: We routinely train our employees on how to properly operate the equipments safely and further 
+guiding them to perform operations in a safe manner, including general safety topics.
+•	
+Conduct routine safety checks: We perform routine safety checks to ensure all the processes are at place and followed for 
+the well being of everyone, this also help us in identifying any potential hazards before they cause any disaster.
+13. Number of Complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working Conditions
+0
+0
+-
+1
+0
+-
+Health & Safety
+0
+0
+-
+0
+0
+-
+14. Assessments for the year:
+% of your plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+Health and safety practices
+100% of the locations are audited internally by the entity.
+Working Conditions
+100% of the locations are audited internally by the entity.
+157
+15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks / concerns arising from assessments of health & safety practices and working conditions. 
+No corrective action plan has been necessitated on the above-mentioned parameters. 
+Leadership Indicators
+1. Does the entity extend any life insurance or any compensatory package in the event of death of
+(A) Employees
+Yes
+(B) Workers
+Yes
+The Company has Personal Accident Policy under which the benefits are granted to the family members of the deceased 
+employee.
+2. Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the 
+value chain partners. 
+The Company requires its value chain partners to abide by the principles of the Company’s Supplier Code of Conduct and 
+implement responsible business conduct principles in its operating practices. 
+3. Provide the number of employees / workers having suffered high consequence work-related injury / ill-health / fatalities 
+(as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment or 
+whose family members have been placed in suitable employment:
+Total no. of affected employees/ workers
+No. 
+of 
+employees/workers 
+that 
+are 
+rehabilitated 
+and 
+placed 
+in 
+suitable 
+employment or whose family members have 
+been placed in suitable employment
+FY 2022-23
+FY 2021-22
+FY 2022-23
+FY 2021-22
+Employees
+-
+-
+-
+-
+Workers
+-
+-
+-
+-
+4. Does the entity provide transition assistance programs to facilitate continued employability and the management of 
+career endings resulting from retirement or termination of employment? (Yes/ No)
+Yes
+The Company provides skill upgradation trainings to all its employees during their employment. The skills acquired by the 
+employees as a part of his role and responsibility and by virtue of the periodic trainings enable the individuals to pursue 
+employment post their retirement or termination of employment.
+5. Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were 
+assessed
+Health and safety practices
+100%
+Working Conditions
+100%
+The value chain partners are expected to adhere to the principles of Health and safety practices, working conditions as per 
+extant regulations and report non-compliances/deviations, if any, in accordance with the contractual obligation agreed by 
+them.
+158
+6. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners. 
+Few recommendations were received during the assessments, which have been addressed internally. 
+However, no significant risks / concerns were observed under scoring the effectiveness of the efforts put on health and safety 
+within the Company.
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1. Describe the processes for identifying key stakeholder groups of the entity.
+Our stakeholder engagement is based on seamless dialogue, empathy and a focus on value creation, which forms the 
+foundation of our engagement approach at Eris. The Company relies on various individuals, groups, institutions or entities that 
+contributes to its success and strong foundation for the future years to come for its continued and steady growth and success. 
+The stakeholders can be internal or external and can be further divided into primary (Groups that are directly impacted) and 
+secondary (groups that are indirectly impacted). 
+The Company cannot exist without its stakeholders and to identify the key stakeholders the Company resorts to the following 
+parameters: 
+a)	 The fundamental impact that a stakeholder has on the performance of the Company.
+b)	 How dynamic the relationship is and can the Company exist without the stakeholder
+c)	 How much interest does the Stakeholder has in the Company.
+2. List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder  
+Group
+Whether  
+identified  
+as Vulnerable  
+& Marginalized  
+Group (Yes/No)
+Channels of 
+communication (Email, 
+SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of 
+engagement 
+(Annually/ 
+Half yearly/ 
+Quarterly / 
+others – please 
+specify)
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during such engagement
+Employees
+No
+Email, Town halls, 
+Employee Engagement 
+Surveys, HR Portal
+Ongoing
+Employee wellbeing and satisfaction 
+is an integral part of the Company’s 
+growth model. Employee engagement 
+through various means of 
+communication provides an insight 
+into the key action areas for employee 
+wellbeing and growth. The key areas 
+of interest for employees are: 
+•	 Training, professional growth and 
+development 
+•	 Well-being initiatives 
+•	 Employee recognition 
+•	 Fair remuneration 
+•	 Work-life balance
+•	 Aagman/E-Aagman of employees
+159
+Investors/ 
+Shareholders 
+No
+Emails, Annual Reports,
+Earning / Investor calls, 
+General Meetings
+Quarterly/ 
+Based on 
+investor 
+requirement
+Investors/ Shareholders form an 
+integral part of the stakeholder 
+group, influencing the decisions 
+of the Company. The key areas 
+of interest for the investors/ 
+shareholders are: 
+•	 Corporate governance
+•	 ESG disclosures
+•	 Regulatory compliance
+•	 Responsible supply chain 
+management
+•	 Product responsibility
+•	 Cost competitiveness
+•	 Overall Company performance
+Suppliers/ 
+Vendors/ 
+Manufacturers
+No
+Email, telephones, 
+personal visits
+Ongoing
+Responsible supply chain practices 
+are critically important for ensuring 
+the business continuity in a 
+sustainable manner. Engagement 
+with suppliers, vendors enable the 
+Company to identify the key material 
+issues impacting the supply chain. 
+The key areas of interest for the 
+suppliers are:
+•	 Timely payments
+•	 Collaboration
+Customers 
+No
+Physical meetings, virtual 
+meetings 
+Ongoing
+The Company gathers information 
+through permissible means 
+to understand the end users’ 
+expectations and experience with 
+our pharmaceutical products and 
+counselling them about the lifestyle 
+changes needed for effective 
+management of the treatment.
+Community
+Yes
+Physical meets and digital 
+channels
+Ongoing
+As a conscientious corporate entity, 
+we firmly believe in reciprocating 
+the society’s years of care, support, 
+and nurturing bestowed upon our 
+organization. From conducting 
+community needs assessments and 
+resolving grievances to implementing 
+robust CSR initiatives, we actively 
+contribute to the development of 
+the community. Furthermore, we 
+prioritize hiring individuals from 
+the local area where our business 
+operates to meet our manpower 
+requirements whenever feasible.
+160
+Regulator
+No
+Emails, submissions, 
+personal meetings 
+Need based
+Our Company upholds a strong 
+commitment to adhere to all 
+Regulations in their entirety. In the 
+dynamic realm of sustainability-
+related regulations and laws, we 
+actively engage with government 
+bodies and regulators to gain 
+comprehensive insights into the 
+specific requirements applicable 
+to our Company, as well as the 
+pharmaceutical sector as a whole.
+Leadership Indicators
+1. Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social 
+topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+The business and functional heads are responsible for interactions with the stakeholders and the Board is updated about the 
+expectations and outcomes of the interactions on a periodic basis through its meeting with the business and functional heads 
+and through periodic meetings with respective functions.
+2. Whether stakeholder consultation is used to support the identification and management of environmental, and social 
+topics (Yes / No).
+Yes.
+If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into 
+policies and activities of the entity.
+•	
+Access road has been constructed, which equally serve the community residing in the neighbourhood.
+•	
+Adoption of zero liquid discharge policy for preserving ground water quality. 
+3. Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized 
+stakeholder groups.
+Our engagements like “on call initiatives” make available advanced point of care devices to patients who could ill afford to 
+buy those. Our screening initiatives greatly help in identifying co-morbidities and thereby sensitize the vulnerable patient 
+populations towards their fragile medical condition and the importance of scrupulously following the prescription regimen 
+and lifestyle modifications recommended by his/her practitioner. 
+161
+PRINCIPLE 5: Businesses should respect and promote human rights
+Essential Indicators
+1. Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format:
+Category
+FY 2022-23
+FY 2021-22
+Total
+(A)
+No. of 
+employees 
+/ workers 
+covered (B)
+% 
+(B/A)
+Total
+(C)
+No. of 
+employees 
+/ workers 
+covered (D)
+% 
+(D/C)
+Employees
+Permanent
+2588
+850
+32.84%
+2485
+475
+19.11%
+Other than permanent
+867
+815
+94.00%
+815
+665
+81.59%
+Total Employees
+3455
+1665
+48.19%
+3300
+1140
+34.54%
+Workers
+Permanent
+93
+93
+100%
+90
+90
+100%
+Other than permanent
+-
+-
+-
+-
+-
+-
+Total Workers
+93
+93
+100%
+90
+90
+100%
+162
+2. Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+Equal to  
+Minimum Wage
+More than  
+Minimum Wage
+Total (D)
+Equal to  
+Minimum Wage
+More than  
+Minimum Wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+Male
+2513
+-
+-
+2513
+100%
+2410
+-
+-
+2410
+100%
+Female
+75
+-
+-
+75
+100%
+75
+-
+-
+75
+100%
+Other than Permanent
+Male
+850
+-
+-
+850
+100%
+797
+-
+-
+797
+100%
+Female
+17
+-
+-
+17
+100%
+18
+-
+-
+18
+100%
+Workers
+Permanent
+Male
+89
+-
+-
+89
+100%
+86
+-
+-
+86
+100%
+Female
+4
+-
+-
+4
+100%
+4
+-
+-
+4
+100%
+Other than Permanent
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3. Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median remuneration/ salary/ wages 
+of respective category
+Board of Directors (BOD)
+7
+69,92,136
+1
+45,25,000
+Key Managerial Personnel
+2
+93,24,117
+Employees other than BOD 
+and KMP
+3357
+4,11,823
+92
+4,32,572
+Workers
+89
+2,42,490
+4
+1,65,647
+163
+4. Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business?
+Yes, the head of HR department is the focal point for addressing and assessing the issues related to Human Rights. It is 
+ensured that the company’s policies remain in line with the international human rights standards and can assist in resolving 
+any potential problems.
+5. Describe the internal mechanisms in place to redress grievances related to human rights issues
+The Company has a grievance redressal mechanism in place and any employee can reach out to the HR at the email 
+ID- hr.communication@erislifesciences.com. The contact details are also mentioned on the Company’s website at 
+https://eris.co.in/corporate-governance/.
+Apart from this the Company also has a whistle blower policy in place and the identity of the whistle blower is maintained 
+confidential by taking due care.
+6. Number of Complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Sexual Harassment
+-
+-
+-
+-
+-
+-
+Discrimination at workplace
+-
+-
+-
+-
+-
+-
+Child Labour
+-
+-
+-
+-
+-
+-
+Forced Labour/ Involuntary Labour
+-
+-
+-
+-
+-
+-
+Wages
+-
+-
+-
+-
+-
+-
+Other human rights related issues
+-
+-
+-
+-
+-
+-
+7. Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+The identity of the complainant is kept confidential and the investigations in respect of the complaints received are carried 
+out strictly in a confidential manner. The Company ensures that the complaints received are dealt with as per the Company’s 
+policy on Prevention of Sexual Harassment at workplace for the cases pertaining to harassment and as per the Company’s 
+other policies such as the Whistle Blower Policy, Diversity, Equity and inclusion policy or Equal opportunity policy for any other 
+matters. These policies ensure protection of the identity of the complainant or whistle blower.
+8. Do human rights requirements form part of your business agreements and contracts?
+Yes, in certain business agreements and contracts where relevant.
+164
+9. Assessments for the year:
+% of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Child Labour
+100% of the locations are audited internally by the entity.
+Forced/involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others - please specify
+10. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above.
+Not applicable.
+Leadership Indicators
+1. Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints.
+By implementing the human rights policy through the conduct of numerous training sessions and maintaining a vigilant 
+system, our Company ensures that our workforce is highly conscious and responsive to human rights issues. It is worth noting 
+that no complaints were received throughout the year, indicating the effectiveness of these measures.
+2. Details of the scope and coverage of any Human rights due-diligence conducted.
+The entity avails technological tools facilitating surveillance over premises together with the nurturing of a culture which 
+reassure and encourage all persons to come forward and report the instances of any human rights abuse which they come 
+across with absolute guarantee against any possible vindictiveness as a consequence of such reporting.
+3. Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+Yes, the office premises of the Company has ramps, elevators, dedicated toilets and other amenities as per the requirement of 
+the Rights of Persons with Disabilities Act, 2016 which are accessible to differently abled visitors. 
+4. Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) 
+that were assessed
+Sexual harassment
+100%*
+*The Company requires its value chain partners to abide by the principles of the Company’s Supplier Code 
+of Conduct and implement responsible business conduct principles in its operating practices and report 
+instances of any deviations therefrom. No deviations have been reported during the reporting year.
+Discrimination at workplace
+Child Labour
+Forced/involuntary labour
+Wages
+Others – please specify
+165
+5. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above.
+Not applicable
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1. Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+(in KWH)
+Parameter
+FY 2022-23
+FY 2021-22
+Total electricity consumption (A)
+32,06,710
+32,16,464
+Total fuel consumption (B)
+24,698
+35,135
+Energy consumption through other sources (C)
+0
+0
+Total energy consumption (A+B+C)
+32,31,408
+32,51,599
+Energy intensity per rupee of turnover
+0.02%
+0.02%
+(Total energy consumption/ turnover in rupees)
+0.02%
+0.02%
+Energy intensity (optional) - the relevant metric may be 
+selected by the entity
+-
+-
+2. Does the entity have any sites / facilities identified as 
+designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of 
+India? (Y/N) 
+No, the company is not identified as designated consumer 
+under the Performance, Achieve and Trade (PAT) Scheme of 
+the Government of India.
+If yes, disclose whether targets set under the PAT scheme 
+have been achieved. In case targets have not been 
+achieved, provide the remedial action taken, if any.
+Not Applicable
+166
+3. Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+-
+-
+(ii) Groundwater
+13,545
+13,950
+(iii) Third party water
+0
+0
+(iv) Seawater / desalinated water
+0
+0
+(v) Others
+0
+0
+Total volume of water withdrawal  (in kilolitres) (i + ii + iii + iv + v)
+13,545 
+13,950 
+Total volume of water consumption (in kilolitres)
+13,545
+13,950 
+Water intensity per rupee of turnover (Water consumed / turnover)
+0.0001%
+0.0001%
+4. Has the entity implemented a mechanism for Zero Liquid Discharge? 
+If yes, provide details of its coverage and implementation
+Yes, with respect to our contribution in Environment Health and Safety, we have set-up an effluent treatment plant with Zero 
+Liquid Discharge (ZLD) treatment process at our manufacturing plant, designed for the removal of liquid waste from the 
+system. The emphasis of the process is to manage wastewater economically and produce clean water.
+5. Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2022-23
+FY 2021-22
+NOx
+Metric Tonnes
+0.21
+0.23
+SOx
+Metric Tonnes
+0.78
+As the State PCB was 
+not equipped with the 
+appropriate Testing 
+equipment the emission 
+cannot be calculated.
+Particulate matter (PM)
+Metric Tonnes
+0.01
+0.01
+Persistent organic pollutants (POP)
+NA
+NA
+NA
+Volatile organic compounds (VOC)
+NA
+NA
+NA
+Hazardous air pollutants (HAP)
+NA
+NA
+NA
+Others – please specify
+167
+6. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 1 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+NA
+NA
+Total Scope 2 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+NA
+NA
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover
+-
+-
+-
+Total Scope 1 and Scope 2 emission intensity (optional) - 
+the relevant metric may be selected by the entity
+-
+-
+-
+7. Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+Yes, we do constantly attempt to minimise the amount of an impact that a business has on the environment including reduction 
+of greenhouse gases for which we have taken the following measures:  
+	y Optimizing compressed air generation by installing an air reservoir to store and maintain air pressure
+	y Insulation of hot water tanks to minimize energy loss
+	y Optimisation of energy efficiency through preventive maintenance activities of systems like HVAC, plant and utility 
+equipment at regular intervals
+8. Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+50.05
+45.03
+E-waste (B)
+0
+0
+Bio-medical waste (C)
+0
+0
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+0
+0
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any. (G)
+Process Waste
+ETP Sludge
+Spent Oil
+2.75
+0.05
+0.02
+1.67
+0.02
+0.01
+Other Non-hazardous waste generated (H). Please specify, if any.
+(Break-up by composition i.e. by materials relevant to the sector)
+NA
+NA
+Total (A+B + C + D + E + F + G + H)
+52.87
+46.73
+168
+Parameter
+FY 2022-23
+FY 2021-22
+For each category of waste generated, total waste recovered through recycling,  
+re-using or other recovery operations (in metric tonnes)
+Category of waste
+(i) Recycled
+0
+0
+(ii) Re-used
+0
+0
+(iii) Other recovery operations
+0
+0
+Total
+0
+0
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) Incineration
+172.054
+103.977
+(ii) Landfilling
+NA
+NA
+(iii) Other disposal operations
+NA
+NA
+Total
+172.054
+103.977
+9. Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted 
+by your company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes.
+We have implemented an organised waste management system, where expired products are handed over to the 
+authorised incineration agency for being disposed of in accordance with the requirements of the Bio-Medical 
+Waste Management Rules, 2016.
+10. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details in the following format: 
+The Company does not have operations around ecologically sensitive areas. 
+11. Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year:
+The Company has not undertaken environmental impact assessment during the current financial year.
+12. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and 
+rules thereunder (Y/N).
+Yes, all our units operate in compliance with the applicable environmental laws/ regulations/ guidelines and rules made 
+thereunder.
+169
+Leadership Indicators
+1. Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, in 
+the following format:
+(in KWH)
+Parameter
+FY 2022-23
+FY 2021-22
+From renewable sources
+Total electricity consumption (A)
+13,47,702
+12,82,659
+Total fuel consumption (B)
+0
+0
+Energy consumption through other sources (C)
+0
+0
+Total energy consumed from renewable sources (A+B+C)
+13,47,702
+12,82,659
+From non-renewable sources
+Total electricity consumption (A)
+18,59,008
+19,33,805
+Total fuel consumption (B)
+24,698
+35,135
+Energy consumption through other sources (C)
+0
+0
+Total energy consumed from non-renewable sources (A+B+C)
+18,83,706
+19,68,940
+2. Provide the following details related to water discharged:
+Parameter
+FY 2022-23
+FY 2021-22
+Water discharge by destination and level of treatment (in kilolitres)
+(i) To Surface water
+No treatment
+0
+0
+With treatment - please specify level of treatment
+0 
+0  
+(ii) To Groundwater
+No treatment
+0
+0
+With treatment – please specify level of treatment
+0
+0
+(iii) To Seawater
+No treatment
+0
+0
+With treatment – please specify level of treatment
+0
+0
+(iv) Sent to third-parties
+No treatment
+0
+0
+With treatment – please specify level of treatment
+0
+0
+(v) Others
+No treatment
+0
+0
+With treatment – please specify level of treatment
+Total water discharged (in kilolitres)
+0
+0
+170
+3. Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+For each facility / plant located in areas of water stress, provide the following information:
+(i) Name of the area: ERIS LIFESCIENCES LTD
+(ii) Nature of operations: PHARMACEUTICALS MEDICINE MANUFACTURING UNIT
+(iii) Water withdrawal, consumption and discharge in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres)
+(i) To Surface water
+0
+0
+(ii) To Groundwater
+13,545 
+13,950 
+(iii) Third-party water
+0
+0
+(iv) Seawater / desalinated water
+0
+0
+(v) Others
+0
+0
+Total volume of water withdrawal (in kilolitres)
+13,545
+13,950
+Total volume of water consumption (in kilolitres)
+13,545
+13,950
+Water intensity per rupee of turnover (Water consumed / turnover)
+0.0001%
+0.0001%
+Water intensity (optional) – the relevant metric may be selected by the entity
+Water discharge by destination and level of treatment (in kilolitres)
+(i) To Surface water
+No treatment
+0
+0
+With treatment – please specify level of treatment
+0
+0
+(ii) To Groundwater
+No treatment
+0
+0
+With treatment – please specify level of treatment
+0
+0
+(iii) To Seawater
+No treatment
+0
+0
+With treatment – please specify level of treatment
+0
+0
+(iv) Sent to third-parties
+No treatment
+0
+0
+With treatment – please specify level of treatment
+0
+0
+(v) Others
+No treatment
+0
+0
+With treatment – please specify level of treatment
+0
+0
+Total water discharged (in kilolitres)
+0
+0
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.
+171
+4. Please provide details of total Scope 3 emissions & its intensity, in the following format: 
+The Company is progressing year on year in emission monitoring. Going forward, we aim to conduct scope 3 emission 
+calculations across the value chain.
+5. With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details 
+of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation 
+activities.- Not applicable
+6. If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same 
+as well as outcome of such initiatives, as per the following format:
+Please refer the Management Discussion and Analysis Report.
+7. Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link:
+Yes. We have a Disaster Management Plan that covers crucial information like factory layout plan, objectives, process, process 
+hazards and their control measures, natural disasters control measures, Environment Impact Assessment Plan, Emergency 
+Evacuation plan, Emergency declaration procedures, Plant safe shut down procedures, and Emergency action plan.
+The company has also specified necessary roles, medical arrangements, training programs and crucial mutual help telephone 
+numbers to ensure smooth operation in the event of an emergency.
+8. Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation 
+or adaptation measures have been taken by the entity in this regard.
+Not applicable
+9. Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts.
+None of the value chain partners have been assessed for environmental impacts during the financial year under review.
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy,  
+should do so in a manner that is responsible and transparent
+Essential Indicators
+1. a. Number of affiliations with trade and industry chambers/ associations.
+We are not affiliated to any trade and Industry chambers / associations.
+b. List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the 
+entity is a member of/ affiliated to. – Not applicable.
+2. Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, 
+based on adverse orders from regulatory authorities.
+We are committed to conduct our business in a fair and transparent manner. We operate in a way that does not violate any laws 
+or regulations and also promote fair competition in the industry. No such adverse orders were received from any regulatory 
+authorities based on anti-competitive conduct in the reporting year.
+172
+Leadership Indicators
+1. Details of public policy positions advocated by the entity: 
+•	 India-specific studies to generate relevant evidence
+•	 Patient care initiatives for precision diagnosis 
+•	 Evidence based treatment
+•	 Early detection and regular monitoring
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1. Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current 
+financial year.
+During the year under review, the Company was not required under applicable laws to undertake any Social Impact Assessment.
+2. Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity, in the following format:
+As none of the green field or other projects of the company resulted in the displacement of any local residents, no Rehabilitation 
+or Resettlement was necessary during the year under review.
+3. Describe the mechanisms to receive and redress grievances of the community.
+The Company has a grievance mechanism in place and any member in the community can reach out to the Company by 
+writing their grievances on the email IDs placed on the Company’s website at the link mentioned below: - 
+https://eris.co.in/corporate-governance/ 
+4. Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2022-23
+FY 2021-22
+Directly sourced from MSMEs/ small producers
+35.38%
+28.09%
+Sourced directly from within the district and neighbouring districts
+5.25%
+4.65%
+Leadership Indicators
+1. Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above): Not applicable.
+2. Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+During the year under review, the Company did not undertake any CSR projects in designated aspirational districts.
+173
+3. (a) Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups? (Yes/No)
+The entity is keen to procure from marginalised / vulnerable groups. However, the nature of the pharmaceutical industry and 
+strict emphasis of the regulators on the quality, mechanisations of manufacturing processes make the upstream manufacturing 
+processes extremely capital and technology intensive. The entry barrier resulting thereby keeps marginalised / vulnerable 
+groups away from the API industry. As and when such an opportunity will arise in future, the entity will be receptive towards 
+considering it.
+(b) From which marginalized /vulnerable groups do you procure? – Not Applicable
+(c) What percentage of total procurement (by value) does it constitute? Not Applicable
+4. Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge:
+Though difficult to quantify, the insights and supports provided in the traditional knowledge is immensely useful in the 
+evaluation of commercial in-licensing proposals that are related to phytopharmaceuticals or in proprietary formulations with 
+such plant-based ingredients.  
+5. Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved: Not applicable
+6. Details of beneficiaries of CSR Projects/Programs: 
+Sr. No.
+CSR Project/Programs
+No. of persons benefitted from 
+CSR Projects / Programs
+% of beneficiaries from vulnerable 
+and marginalized groups
+Refer Management Discussion and Analysis Report starting from page no 30.
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1. Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+The Company possesses a comprehensive mechanism to handle complaints regarding product quality. Upon receiving a 
+complaint, it is duly recorded in the system, and the person filing the complaint is promptly acknowledged. Subsequently, an 
+initial evaluation is conducted, followed by the initiation of a sample investigation. This investigation takes place concurrently 
+with the initial risk assessment and inquiry process. Once the investigation concludes, a plan for corrective action is set in 
+motion, and a summary report detailing the complaint is submitted. A final risk assessment is then performed, and a response 
+is sent to the complainant. Finally, the complaint is closed.
+We have both online and offline mechanisms to receive feedbacks and address complaints.
+Online mechanisms include:
+•	
+Dedicated email id - patientsafety@erislifesciences.com 
+•	
+Dedicated customer care toll free number – 18002700390
+•	
+Dedicated web page on our website for Adverse Event Reporting 
+•	
+Web link: https://eris.co.in/adverse-event-reporting/
+For offline reporting of adverse events, we have placed a form on our website where it can be downloaded and posted at our 
+corporate office address.
+174
+2. Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+NA
+Safe and responsible usage
+100%
+Recycling and/or safe disposal
+NA
+3. Number of consumer complaints in respect of the following:
+FY 2022-23
+Remarks
+FY 2021-22
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data privacy
+-
+-
+-
+-
+-
+-
+Advertising
+-
+-
+-
+-
+-
+-
+Cyber-security
+-
+-
+-
+-
+-
+-
+Delivery of essential 
+services
+-
+-
+-
+-
+-
+-
+Restrictive Trade Practices
+-
+-
+-
+-
+-
+-
+Unfair Trade Practices
+-
+-
+-
+-
+-
+-
+Other
+-
+-
+-
+-
+-
+-
+4. Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+05
+The products were recalled owing to our commitment for upholding the 
+highest standards of quality.
+Forced recalls
+0
+Not applicable
+5. Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No). If available, 
+provide a web-link of the policy.
+Yes, we have established a comprehensive framework and policy to effectively manage cyber security and mitigate risks 
+related to data privacy. Through proactive measures, such as stringent protocols, guidelines, and regular security audits, it 
+ensures the protection of sensitive information from unauthorized access and potential cyber threats. 
+Additionally, we have also prioritized employee training programs, encryption techniques, access controls, and incident 
+response plans to uphold the confidentiality, integrity, and availability of valuable data assets. Our information security 
+policy is available to all our employees through our intranet platform.
+175
+6. Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+No such incidents were reported.
+Leadership Indicators
+1. Channels / platforms where information on products and services of the entity can be accessed (provide web link, if 
+available).
+The information on products of the Company can be accessed on its website at: https://eris.co.in/
+2. Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+The Company complies with applicable regulatory obligations by providing stakeholders with information regarding the 
+safe and responsible use of its products. Products are usually accompanied by an informative label that informs consumers 
+about various aspects, including pharmacokinetics, safe usage instructions, composition, mechanism of action, clinical 
+pharmacology, product interactions, side effects, and recommended storage conditions, among others.
+Furthermore, the Company organizes various programs aimed at educating healthcare professionals (HCPs) ad patients on 
+the responsible utilization of our products.
+3. Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+Since the Company operates in the pharmaceutical industry, there are several other pharmaceutical companies offering 
+similar products. Therefore, the discontinuation of any of the Company’s products does not have a significant impact on the 
+larger communities.
+4. Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/
+No/Not Applicable) If yes, provide details in brief. 
+The label contents being highly regulated, it is not feasible to provide more product information over and above the mandate 
+of law.
+Did your entity carry out any survey with regard to consumer satisfaction relating to the major products / services of the 
+entity, significant locations of operation of the entity or the entity as a whole? (Yes/No)
+The Company maintains continuous engagement with its Consumers, Doctors and other Healthcare professionals and takes 
+their feedback on the products.
+5. Provide the following information relating to data breaches:
+a. Number of instances of data breaches along-with impact- We have not witnessed any data breaches.
+b. Percentage of data breaches involving personally identifiable information of customers- NA

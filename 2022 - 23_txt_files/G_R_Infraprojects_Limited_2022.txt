@@ -1,0 +1,4216 @@
+ 
+ 
+1st September 2023 
+To, 
+ 
+BSE Limited 
+National Stock Exchange of India Limited 
+Phiroze Jeejeebhoy Towers 
+Exchange Plaza, Plot No. C‐1 
+Dalal Street, Fort 
+G Block, Bandra‐Kurla Complex, Bandra(E) 
+Mumbai – 400001 
+Mumbai ‐400051 
+Scrip Code: 543317 
+Symbol: GRINFRA 
+ 
+Sub: Business Responsibility and Sustainability Report (“BRSR”) for the Financial Year 2022‐23. 
+Dear Sir, 
+Pursuant to Regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, please find enclosed herewith the BRSR for the Financial Year 2022‐23, which forms part of the 
+Annual Report for the Financial Year 2022‐23. 
+This is for your information and record. 
+Thanking you, 
+Yours sincerely, 
+For G R Infraprojects Limited 
+ 
+ 
+Sudhir Mutha 
+Company Secretary 
+ICSI Membership No. ACS18857 
+ 
+Enclosed: As above. 
+ 
+ 
+ 
+ 
+ 
+Sudhir 
+Mutha
+Digitally signed by Sudhir Mutha 
+DN: c=IN, o=Personal, postalCode=313002, l=Udaipur, 
+st=Rajasthan, street= India- 313002- New Vidya Nagar, 
+title=7505, 
+2.5.4.20=8dc9717ada7c505877f3575c1d24166aae01c6
+c3d4af522948d3120b0749847a, 
+serialNumber=b29d4782e827b5571867c5351eb5e9cf7
+5ab8673d58b6d9226bbb923a0ce41bf, 
+email=sudhir.mutha@gmail.com, cn=Sudhir Mutha 
+Date: 2023.09.01 15:46:11 +05'30'
+Annual Report 2022-23
+86
+Annexure I
+Business Responsibility & Sustainability Reporting
+SECTION A: GENERAL DISCLOSURES
+I. 
+Details of the listed entity
+1. Corporate Identity Number (CIN) of the Listed Entity
+L45201GJ1995PLC098652
+2. Name of the Listed Entity
+G R Infraprojects Limited (GRIL)
+3. Year of Incorporation
+22-12-1995
+4. Registered Office Address
+Revenue Block No. 223, Old Survey No. 384/1, 384/2 
+Paiki and 384/3, Khata No. 464, Kochariya, Ahmedabad, 
+Gujarat - 382220, India
+5. Corporate Address
+G R Infraprojects Limited 
+2nd Floor, Novus Tower, Plot No. 18, Sector 18, 
+Gurugram, Haryana - 122015, India
+6. E-mail
+Info@grinfra.com
+7. Telephone
+91-124-6435000
+8. Website
+https://www.grinfra.com
+9. Financial year for which reporting is being done
+2022-23
+10. Name of the Stock Exchange(s) where shares are listed
+BSE Limited and National Stock Exchange of India 
+Limited
+11. Paid-up Capital
+H 4834.45 lakhs
+12. Name and contact details (telephone, email address) of 
+the person who may be contacted in case of any queries 
+on the BRSR report
+Mr. Sudhir Mutha 
+cs@grinfra.com 
++91-2942487370
+13. Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e. only for the entity) 
+or on a consolidated basis (i.e. for the entity and all the 
+entities which form a part of its consolidated financial 
+statements, taken together).
+Standalone Basis
+II. Products/Services
+ 
+14. Details of business activities (accounting for 90% of the turnover)
+S. No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1
+Infrastructure Development
+GRIL 
+executes 
+a 
+diverse 
+range 
+of 
+infrastructure 
+projects 
+using 
+various models such as Engineering 
+Procurement and Construction (EPC), 
+Built Operate and Transfer (BOT), 
+and Hybrid Annuity Mode (HAM). 
+The infrastructure portfolio includes 
+projects in the road sector, railways, 
+metros, tunnels, power transmission, 
+ropeways and Optic Fibre Cable (OFC) 
+infrastructure.
+93.15%
+G R Infraprojects Limited
+Statutory Reports
+87
+ 
+15. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1
+The 
+design, 
+building 
+and 
+maintenance 
+of 
+transportation 
+infrastructure, 
+including 
+roads, 
+railways, bridges, tunnels, ropeways, ports, power 
+transmission lines and runways, among others.
+45203
+93.15%
+III.	 Operations
+ 
+16. Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+6
+86*
+92
+International
+0
+0
+0
+	
+	
+* Number of offices includes all office locations and ongoing construction sites as on 31st March 2023.
+ 
+17. Markets served by the entity:
+ 
+ 
+a. 
+Number of locations
+Locations
+Number
+National (No. of States)
+23
+International (No. of Countries)
+0
+b.  What is the contribution of exports as a 
+percentage of the total turnover of the entity?
+ 0%
+c. A brief on types of customers
+1.	
+Government and semi-government organizations such as 
+the National Highways Authority of India (NHAI), Bihar State 
+Road Development Corporation (BSRDC), and Uttar Pradesh 
+Education for Development of Industries and Agriculture 
+(UPEDIA) are potential customers for goods or services. 
+2.	
+GRIL manufacturing plants produce goods like emulsion, 
+ad mixture, electric panels, metal crash barriers, etc. 
+These products are produced for captive consumption as 
+well as purchased by external customers.
+IV.	 Employees
+ 
+18. Details as at the end of Financial Year:
+ 
+ 
+a. 
+Employees and workers (including differently abled):
+S. No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)*
+EMPLOYEES
+1.
+Permanent (D)
+5,175
+5,114
+98.82%
+61
+1.18%
+2.
+Other than Permanent (E)
+13
+13
+100.00%
+0
+0%
+3.
+Total employees (D + E)
+5,188
+5,127
+98.82%
+61
+1.18%
+WORKERS
+4.
+Permanent (F)
+10,966
+10,964
+99.98%
+2
+0.02%
+5.
+Other than Permanent (G)
+963
+963
+100.00%
+0
+0%
+6.
+Total workers (F + G)
+11,929
+11,927
+99.98%
+2
+0.02%
+	
+	
+	
+*The low gender diversity in our workforce may be due to physical demands and safety concerns of certain roles which may discourage 
+some women from pursuing careers in this field. However, gender diversity is crucial for a successful business as it brings diverse 
+perspectives and ideas, enhances creativity and innovation, and improves overall performance. We are committed to building a more 
+inclusive and diverse workforce and will track our progress through regular diversity metrics and feedback from employees.
+Annual Report 2022-23
+88
+ 
+ 
+b. 
+Differently abled Employees and workers:
+S. No
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Differently Abled Employees
+1.
+Permanent (D)
+8
+8
+100%
+0
+0%
+2.
+Other than Permanent (E)
+0
+0
+0%
+0
+0%
+3.
+Total differently abled employees (D + E)
+8
+8
+100%
+0
+0%
+Differently Abled Workers
+4.
+Permanent (F)
+6
+6
+100%
+0
+0%
+5.
+Other than permanent (G)
+0
+0
+0%
+0
+0%
+6.
+Total differently abled workers (F + G)
+6
+6
+100%
+0
+0%
+ 
+19. Participation/Inclusion/Representation of women
+ 
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+8
+1
+12.50%
+Key Management Personnel*
+5
+0
+0.00%
+	
+	
+*Total KMP is inclusive of the Managing Director and Whole Time Directors.
+ 
+20. Turnover rate for permanent employees and workers(Disclose trends for the past 3 years)
+FY 22-23 
+(Turnover rate in current FY)
+FY 21-22 
+ (Turnover rate in previous FY)
+FY 20-21  
+(Turnover rate in the year prior 
+to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+29.46%
+36.52%
+29.53%
+21.59%
+24.44%
+21.61%
+20.49%
+39.02%
+20.66%
+Permanent 
+Workers
+47.27%
+40.00%
+47.27%
+38.47%
+0.00%
+38.47%
+34.22%
+0.00%
+34.22%
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+ 
+21. (a) Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No.
+Name of the holding /subsidiary/ 
+associate companies / joint ventures (A)
+Indicate 
+whether 
+holding/ 
+Subsidiary/ 
+Associate/ Joint 
+Venture
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity indicated 
+at column A, participate 
+in the Business 
+Responsibility initiatives 
+of the listed entity? (Yes/
+No)
+1
+Reengus Sikar Expressway Limited
+Subsidiary
+100%
+No
+2
+Nagaur Mukundgarh Highways Private 
+Limited
+Subsidiary
+100%
+No
+3
+Varanasi Sangam Expressway Private Limited
+Subsidiary
+100%
+No
+4
+GR Aligarh Kanpur Highway Private Limited
+Subsidiary
+100%
+No
+5
+GR Shirsad Masvan Expressway Private 
+Limited
+Subsidiary
+100%
+No
+6
+GR Govindpur Rajura Highway Private 
+Limited
+Subsidiary
+100%
+No
+7
+GR Ujjain Badnawar Highway Private Limited
+Subsidiary
+100%
+No
+8
+GR Bhimasar Bhuj Highway Private Limited
+Subsidiary
+100%
+No
+9
+GR Phagwara Expressway Limited
+Subsidiary
+100%
+No
+G R Infraprojects Limited
+Statutory Reports
+89
+S. 
+No.
+Name of the holding /subsidiary/ 
+associate companies / joint ventures (A)
+Indicate 
+whether 
+holding/ 
+Subsidiary/ 
+Associate/ Joint 
+Venture
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity indicated 
+at column A, participate 
+in the Business 
+Responsibility initiatives 
+of the listed entity? (Yes/
+No)
+10
+GR Sangli Solapur Highway Private Limited
+Subsidiary
+100%
+No
+11
+GR Akkalkot Solapur Highway Private Limited
+Subsidiary
+100%
+No
+12
+GR Dwarka Devariya Highway Private Limited
+Subsidiary
+100%
+No
+13
+GR Bilaspur Urga Highway Private Limited 
+Subsidiary
+100%
+No
+14
+GR Galgalia Bahadurganj Highway Private 
+Limited
+Subsidiary
+100%
+No
+15
+GR Bahadurganj Araria Highway Private 
+Limited
+Subsidiary
+100%
+No
+16
+GR Ludhiana Rupnagar Highway Private 
+Limited
+Subsidiary
+100%
+No
+17
+GR Bandikui Jaipur Expressway Private 
+Limited
+Subsidiary
+100%
+No
+18
+Porbandar Dwarka Expressway Private 
+Limited 
+Subsidiary
+100%
+No
+19
+GR Gundugolanu Devarapalli Highway 
+Private Limited
+Subsidiary
+100%
+No
+20
+GR Ena Kim Expressway Private Limited
+Subsidiary
+100%
+No
+21
+GR Amritsar Bathinda Highway Private 
+Limited
+Subsidiary
+100%
+No
+22
+GR Madanapalli Pileru Highway Private 
+Limited
+Subsidiary
+100%
+No
+23
+GR Bamni Highway Private Limited
+Subsidiary
+100%
+No
+24
+Rajgarh Transmission Limited 
+Subsidiary
+100%
+No
+25
+GRIL - MSKEL (JV)
+Joint Venture
+60%
+No
+26
+GR-TRIVENI (JV)
+Joint Venture
+No
+A
+ - Hata - Musabani Road Project
+Joint Venture
+51%
+No
+B
+ - Rites NTPC Lara PKG IV-B
+Joint Venture
+49%
+No
+C
+ - Chaibasa -Tonto -Roam Road
+Joint Venture
+45%
+No
+27
+SBEPL - GRIL (JV)
+Joint Venture
+35%
+No
+28
+RAVI INFRA - GRIL - SHIVAKRITI (JV)
+Joint Venture
+10%
+No
+29
+GRIL - Cobra - KIEL (JV)
+Joint Venture
+No
+A
+- Dholpur- Antri - NC Railway, Madhya       
+Pradesh & Rajasthan
+Joint Venture
+51%
+No
+B
+- Vijaywada - SC Railway, Andhra Pradesh
+Joint Venture
+67%
+No
+30
+GR-Gawar (JV):
+Joint Venture
+No
+A
+ - Rohtak Project
+Joint Venture
+25%
+No
+B
+- Nepal Project
+Joint Venture
+51%
+No
+C
+- Jhajjar Project
+Joint Venture
+51%
+No
+D
+- Faridabad Project
+Joint Venture
+54%
+No
+E
+- Sonepat Project
+Joint Venture
+25%
+No
+F
+- Rohtak Gohana - Panipat Section
+Joint Venture
+30%
+No
+31
+M/s. DIBANG POWER (LOT 4) CONSORTIUM
+Joint Venture
+50%
+No
+Annual Report 2022-23
+90
+VI.	 CSR Details
+22. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+Yes
+(ii) Turnover (H in Lakhs)
+8,14,758.83
+(iii) Net worth (H in Lakhs)
+5,21,516.11
+VII. Transparency and Disclosures Compliances
+ 
+23. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism 
+in Place 
+(Yes/No) 
+(If Yes, then 
+provide 
+web-link for 
+grievance 
+redress 
+policy)*
+FY 22-23 
+Current Financial Year
+FY 21-22 
+Previous Financial Year
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes
+0
+0
+NA
+0
+0
+NA
+Investors 
+(other than 
+shareholders)
+Yes
+0
+0
+NA
+0
+0
+NA
+Shareholders
+Yes
+38
+0
+NA
+9417
+0
+NA
+Employees and 
+workers
+Yes
+0
+0
+NA
+0
+0
+NA
+Customers
+Yes
+0
+0
+NA
+0
+0
+NA
+Value Chain 
+Partners
+Yes
+0
+0
+NA
+0
+0
+NA
+Other (please 
+specify)
+No
+0
+0
+NA
+0
+0
+NA
+	
+	
+* https://www.grinfra.com/
+ 
+24. Overview of the entity’s material responsible business conduct issues
+	
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt 
+or mitigate the risk along-with its financial implications, as per the following format
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+1
+Circular 
+Economy
+Opportunity
+The Circular Economy model of 
+production 
+and 
+consumption 
+promotes 
+the 
+reusing, 
+refurbishing and recycling of 
+existing materials and products. 
+The transition to a circular 
+economy will affect a change 
+in building design and material 
+usage. A shift in regulations and 
+demand, combined with new 
+technology, has the potential to 
+reduce costs.
+We have undertaken initiatives 
+that help reduce generation 
+of waste, to identify waste 
+that can be reused and to 
+dispose the waste generated 
+in an environmentally friendly 
+manner.
+Positive
+G R Infraprojects Limited
+Statutory Reports
+91
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+2
+Emissions and 
+Pollutants
+Risk
+Building infrastructure is an 
+energy-intensive 
+activity 
+and 
+generates significant direct and 
+indirect greenhouse gas (GHG) 
+emissions, 
+including 
+carbon 
+dioxide and methane from fuel 
+use. Uncontrolled pollutants and 
+emissions during operation and 
+associated activities impose legal 
+and environmental risks for the 
+company. 
+We have focused interventions 
+towards monitoring and 
+reducing energy consumption 
+through various energy and 
+emission saving 
+initiatives like:
+- decrease in energy intensity 
+ratio
+- increased use of renewable 
+energy
+- to implement Internet of 
+Things for plants
+- increased use of technology 
+such as Video Conferencing, 
+Electric Vehicle to commute
+Positive
+3
+Climate 
+Change 
+Risk and 
+Adaptation
+Risk
+Climate 
+Change 
+can 
+have 
+adverse impact on our business 
+and not having a correct strategy 
+or its right implementation will 
+severely affect the business 
+continuity.
+GRIL’s mission is to achieve a 
+sustainable society by taking 
+on the challenges of climate 
+change and the efficient use 
+of 
+resources. 
+In 
+response 
+to climate change, which is 
+particularly an urgent issue. 
+We will work on solutions for 
+targeting 
+decarbonization, 
+carbon neutrality through the 
+value chain. As a responsible 
+company in the creation of 
+environmental value, we will 
+further accelerate our initiatives 
+aimed at realizing these goals.
+Positive
+4
+Water 
+Management
+Risk
+Water is a critical resource 
+required during construction, 
+operation 
+and 
+maintenance. 
+Water use for various business 
+activities impacts the quality and 
+quantity of local water resources. 
+Improper discharge of water can 
+result in contamination of water 
+bodies. This in turn increases the 
+operating cost and imposes a 
+legal risk to the company. 
+We are undertaking initiatives 
+that help to reduce, reuse 
+and recycle water to minimize 
+freshwater consumption.
+Positive
+5
+Consumer 
+Experience
+Opportunity
+To 
+distinguish 
+ourselves 
+as 
+market leaders and as the best 
+infrastructure company.
+GRIL 
+has 
+always 
+ensured 
+the 
+timely 
+and 
+quality 
+delivery in all its projects. It 
+has helped us to build trust 
+amongst our customers and 
+the final consumers of the 
+infrastructure we build. We are 
+also diversifying to take our 
+experience into other sectors 
+and help build a better India. 
+Negative
+Annual Report 2022-23
+92
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+6
+Diversity & 
+Inclusion
+Opportunity
+A company’s high diversity and 
+inclusion rate reflects employees’ 
+sense of belonging and fairness 
+within the company. Improving 
+diversity and inclusion helps 
+companies to support vulnerable 
+groups resulting in community, 
+brand image creation for the 
+company.
+GRIL is managing its workplaces 
+and maximizing the potential 
+of its diverse talent pool in line 
+with our basic philosophy that 
+“Health and Safety Always Come 
+First.” We respect all people, 
+including co-creation partners 
+and those who support the 
+value chain, contributing to 
+a society in which everyone 
+can 
+work 
+safely 
+and 
+with 
+peace of mind. Continuous 
+efforts are being put in place 
+to maintain healthy ratio of 
+female employees across levels 
+and also employment of people 
+with dis-abilities.
+Positive
+7
+Impact 
+on Local 
+Community
+Opportunity
+A 
+Needs 
+Assessment 
+done 
+prior to project execution gives 
+us the voice and stance of the 
+community along with their 
+consent to operate
+The focus of GRIL is to create a 
+long-term sustainable impact 
+on the community through 
+regular interactions, increased 
+CSR spend, etc.
+Positive
+8
+Employee 
+Satisfaction 
+and Retention
+Risk
+A higher employee retention rate 
+reflects good company policies 
+and practices that lead to higher 
+employee satisfaction. However, 
+a high attrition rate indicates 
+low employee satisfaction. High 
+attrition also increases the cost 
+of replacing and training the 
+employees, increases the risk 
+of business getting impacted 
+in case of critical roles and may 
+reflect negatively on investors.
+We are developing mechanisms 
+to gauge employee sentiments 
+and feedback. To drive change 
+across the organization, we have 
+established a digitally enabled 
+and transparent Performance 
+Management System to provide 
+feedback to employees which 
+enable them to engage with 
+their teams better and address 
+any concerns. These insights 
+have led us to create focus 
+areas for action on a quarterly 
+basis which is socialized with 
+the 
+leadership 
+team 
+and 
+progress on the same is updated 
+periodically.
+Positive
+9
+Product 
+Quality and 
+Design
+Risk
+Companies in this industry have 
+a vital commitment to safeguard 
+their 
+projects 
+through 
+the 
+provision of engineering, design, 
+architectural and other services. 
+Only by ensuring compliance 
+with safety standards can they 
+demonstrate 
+professional 
+excellence 
+and 
+guarantee 
+top-tier results. Poor design 
+and construction of buildings 
+or 
+infrastructure 
+can 
+have 
+devastating consequences- from 
+loss of life, to decreased property 
+value, to economic insecurity.
+Our endeavour is to deliver 
+the 
+projects 
+with 
+highest 
+quality, 
+design 
+and 
+safety 
+standards. Our proactive risk 
+prevention 
+approach 
+during 
+the designing phase, rapid and 
+effective mitigation of safety 
+and quality risks identified in 
+the field and our governance 
+and coordination among our 
+projects helps to deliver quality 
+output.
+Negative
+G R Infraprojects Limited
+Statutory Reports
+93
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+Taking the time for proper 
+planning 
+is 
+essential 
+in 
+order 
+to 
+prevent 
+these 
+disasters 
+from 
+occurring. 
+When it comes to structural 
+integrity and safety, companies 
+that don’t do well can face 
+high 
+costs 
+for 
+redesigning 
+or repair, as well as legal 
+liabilities 
+and 
+damage 
+to 
+their reputation, which could 
+harm their growth prospects. 
+As a consequence of climate 
+change, 
+companies 
+in 
+the 
+construction and infrastructure 
+industry must now consider 
+how changing weather patterns 
+could damage their projects – 
+potentially endangering public 
+safety. Compliance with the 
+minimum codes and standards 
+may not be enough to retain 
+reputational value.
+The Quality Assurance and 
+Quality Control teams ensure 
+that work done is as per quality 
+assurance 
+plan 
+and 
+non-
+conformances are reported and 
+actioned upon timely.
+Negative
+10
+Human Rights 
+and Labor 
+Management
+Risk
+Changing 
+regulations 
+around human rights pose as a 
+challenge.
+GRIL is committed to good 
+citizenship 
+and 
+promoting 
+better 
+working 
+conditions 
+for all. We take robust and 
+thorough measures to protect 
+our employees. We can also 
+promote positive change by 
+encouraging 
+our 
+business 
+partners and communities to 
+respect human rights as well. 
+We ensure safe, healthy and 
+sustainable working conditions; 
+require 
+a 
+respectful, 
+harassment-free 
+workplace; 
+prohibit discrimination; deliver 
+employee compensation and 
+benefits to attract and retain 
+strong talent; prohibit child or 
+forced labor and ensure our 
+business partners share this 
+commitment; 
+and 
+promote 
+responsible sourcing practices 
+for our suppliers.
+Negative
+11
+Operational 
+Health and 
+Safety
+Risk
+This 
+can 
+lead 
+to 
+loss 
+of 
+human life and can hamper 
+productivity for the company.
+Our 
+Zero 
+Tolerance 
+Policy, 
+strict 
+adherence 
+to 
+Safety 
+norms, employee health and 
+safety initiatives help protect 
+our employees and ensure our 
+compliance 
+with 
+applicable 
+laws and regulations. Periodic 
+trainings both for employees 
+and 
+workers 
+and 
+regular 
+monitoring at sites provide 
+assurance to the stakeholders.
+Negative
+Annual Report 2022-23
+94
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+12
+Sustainable 
+Supply Chain/
+Responsible 
+Purchasing
+Risk
+Setting 
+up 
+a 
+resilient 
+supply chain, due diligence of 
+suppliers 
+before 
+onboarding, 
+continuous 
+interaction 
+and 
+discussion on related topics.
+GRIL has developed general 
+terms & conditions including 
+suppliers’ 
+responsibility 
+to 
+comply with the environment, 
+safety 
+and 
+other 
+related 
+regulations. 
+The 
+Company 
+has developed a process of 
+conducting 
+due 
+diligence 
+and technical evaluation of 
+suppliers before onboarding. 
+Through 
+this 
+process 
+GRIL 
+tries 
+to 
+communicate 
+and 
+emphasise on the importance 
+of responsible sourcing to the 
+suppliers. However, considering 
+the industry, it’s a long way to 
+go through continuous dialogue 
+and education to the suppliers. 
+Positive
+13
+Compliance 
+and Business 
+Ethics
+Risk
+The 
+key 
+issues 
+relevant 
+to 
+business ethics are management 
+of business ethics issues such 
+as fraud, executive misconduct, 
+corrupt 
+practices, 
+money 
+laundering, 
+or 
+anti-trust 
+violations. Ethics violations can 
+lead to investigations, hefty fines, 
+settlement costs, and damage to 
+reputation.
+GRIL is committed to the highest 
+standards of compliance – in all 
+places, at all times. We ensure 
+strict adherence with GRIL Code 
+of conduct through periodic 
+communication, trainings and 
+review.
+Negative
+14
+Corporate 
+Governance
+Risk
+Businesses are assessed based 
+on their performance across all 
+key governance issues, which 
+include ownership & control, 
+Board pay, accounting, business 
+ethics, and tax transparency. 
+This topic examines the effect 
+that 
+a 
+company’s 
+corporate 
+governance 
+and 
+business 
+ethics 
+practices 
+have 
+on 
+its 
+shareholders 
+and 
+other 
+investors.
+GRIL Board of Directors oversees 
+the strategic direction of the 
+company to advance the long-
+term interests of the company 
+and its various stakeholders. 
+Our Board, Audit Committee 
+and Risk Managing Committee 
+are unitedly responsible for the 
+Enterprise Risk Management 
+Framework, 
+Department 
+Policies and Standard Operating 
+Procedures, 
+maintaining 
+segregation 
+of 
+duties. 
+The 
+Board and various Committees 
+regularly review major risks.
+Positive
+15
+Data Security, 
+Privacy and 
+Cybersecurity
+Risk
+Companies are assessed based 
+on the amount of personal data 
+they collect, their exposure to 
+evolving or increasing privacy 
+regulations, their vulnerability 
+to potential data breaches, and 
+their data protection systems.
+GRIL 
+respects 
+the 
+privacy 
+of the people from whom it 
+collects and processes personal 
+information and ensures the 
+same through data privacy 
+policy 
+and 
+various 
+control 
+mechanisms. 
+Protecting 
+our 
+company, 
+employees 
+and 
+customers 
+begins with our Cybersecurity 
+approach. As part of our Digital 
+Roadmap and through cyber 
+defence 
+strategy 
+we 
+detect, 
+mitigate 
+and 
+respond 
+to 
+cyberthreats. We engage industry 
+experts to continually improve 
+our 
+cyber 
+capabilities 
+and 
+processes. 
+We 
+conduct 
+regular 
+assessments 
+to 
+validate 
+defensive 
+measures, 
+employing 
+a 
+comprehensive 
+risk management framework to 
+enable effective escalation and 
+management.
+Negative
+G R Infraprojects Limited
+Statutory Reports
+95
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.	
+a. Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs. 
+(Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+Y
+b.	
+Has the policy been approved by the Board? (Yes/
+No)
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+Y
+c. 	 Web Link of the Policies, if available
+https://www.grinfra.com/policies/
+2. 	 Whether the entity has translated the policy into 
+procedures. (Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+Y
+3.  Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+Y
+N
+N
+Y
+Y
+N
+N
+N
+Y
+4. 
+Name of the national and international codes/
+certifications/labels/ 
+standards 
+(e.g. 
+Forest 
+Stewardship 
+Council, 
+Fairtrade, 
+Rainforest 
+Alliance, Trustea) standards (e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity and mapped to 
+each principle.
+ISO 
+9001
+ISO 
+45001
+ISO 
+14001
+ 
+5. 
+Specific commitments, goals and targets set by 
+the entity with defined timelines, if any.
+Our organization acknowledges the significance of establishing 
+targets to assess advancement towards achieving all the 
+principles of the NGRBC. Considering that we are in our initial 
+year of ESG adoption, we intend to specify our objectives and 
+targets in the upcoming reporting period. We recognize the 
+need to align our ESG efforts with our business goals, and we 
+are committed to implementing a comprehensive and effective 
+ESG strategy that ensures sustainability and creates long-term 
+value for all our stakeholders. We are dedicated to enhancing 
+our ESG practices and performance and look forward to sharing 
+our progress in the future.
+6. 
+Performance of the entity against the specific 
+commitments, goals and targets along-with 
+reasons in case the same are not met.
+NA
+ 
+Governance, leadership and oversight
+7. 	 Statement by director responsible for the business responsibility report, highlighting ESG related challenges, 
+targets and achievements (listed entity has flexibility regarding the placement of this disclosure)
+As an organization, we understand the significance of environmental, social, and governance practices in fostering a better 
+future for our community. Our operations are centered around the integration of ESG practices through various initiatives 
+aimed at achieving our sustainability goals. 
+We are proud to uphold eco-friendly practices, such as incorporating GPS-enabled vehicles and solar panels, to effectively 
+reduce carbon emissions and minimize fuel consumption. Furthermore, our planned green building in Gurugram, Haryana 
+demonstrates our commitment to promoting green construction practices and driving the green building movement in the 
+country.
+Our CSR initiatives cover various sectors such as education, animal healthcare, sports, and rural development. All CSR 
+initiatives of the Company are being undertaken either by Company on its own or through G R Infra Social Welfare Trust. 
+We hold our employees and workers in the highest regard, acknowledging them as invaluable assets fundamental to our 
+success. We maintain a culture of fairness and equality by providing consistent food standards, conducting regular health 
+check-ups, health awareness campaigns, and employee engagement activities. We also prioritize their professional growth 
+and development through timely training programs on safety, quality, behavioural and functional aspects.
+Annual Report 2022-23
+96
+Corporate governance is a top priority for us and we aim to achieve transparency and governance goals. We provide the 
+opportunity for all shareholders to attend our quarterly meetings with investors. We also follow standard compliance 
+practices as per applicable laws, which are reviewed and assessed by our audit mechanism. This helps our organization 
+accomplish its objectives by bringing a systematic and disciplined approach to evaluate and improve the effectiveness of risk 
+management, control, and regulatory compliance processes.
+As an organization, we are committed to building upon our progress and making further positive contributions to the 
+environment, society, and governance in the years to come. We believe that by integrating ESG practices into our operations, 
+we can create a sustainable future.
+Ajendra Kumar Agarwal 
+Managing Director
+8. 
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy(ies).
+1-	
+Mr. Bharat Aggarwal
+	
+Senior Vice President- HR and Admin
+2- 	 Mr. Balakrishnan Biju
+	
+Senior General Manager- Safety
+9. 
+Does the entity have a specified Committee of the 
+Board/ Director responsible for decision making on 
+sustainability related issues? (Yes / No). If yes, 
+provide details.
+Yes, the company has the following committees:
+1. 	 Corporate Social Responsibility Committee
+2.	
+Environmental Social and Governance Committee
+10. Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate 
+whether 
+review 
+was 
+undertaken by Director / Committee of 
+the Board/Any other Committee
+Frequency 
+(Annually/ 
+Half 
+yearly/ 
+Quarterly/ Any other – please specify)
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+Performance against 
+above policies and follow up 
+action
+Committee of Board
+Quarterly
+Compliance with statutory 
+requirements of relevance 
+to the principles, and, 
+rectification of any 
+non-compliances
+Committee of Board
+Quarterly
+11.
+Has the entity carried out independent 
+assessment/ evaluation of the working of its 
+policies by an external agency? (Yes/No). If yes, 
+provide name of the agency.
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+ All policies are listed and approved by the Board and reviewed by 
+our chartered accountant firm (Mahajan and Aibara and Protiviti 
+India) as well as by internal audit team.
+12. If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+The entity does not consider the Principles 
+material to its business (Yes/No)
+No
+No
+No
+No
+No
+No
+Yes
+No
+No
+The entity is not at a stage where it is in a 
+position to formulate and implement the 
+policies on specified principles (Yes/No)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+The entity does not have the financial or/
+human and technical resources available for 
+the task (Yes/No)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+It is planned to be done in the next financial 
+year (Yes/No)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Any other reason (please specify)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+G R Infraprojects Limited
+Statutory Reports
+97
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1: BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY, AND IN A 
+MANNER THAT IS ETHICAL, TRANSPARENT AND ACCOUNTABLE
+Essential Indicators
+1. 
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics/ principles covered under the 
+training and its impact
+%age of persons in 
+respective category 
+covered by the 
+awareness programmes
+Board of 
+Directors
+3
+Awareness 
+session 
+on 
+corporate 
+governance, BRSR awareness, code of 
+conduct
+100%
+Key Managerial 
+Personnel
+3
+Awareness 
+session 
+on 
+corporate 
+governance, BRSR awareness, code of 
+conduct
+100%
+Employees other 
+than BoD and 
+KMPs
+114
+Quality, Health and safety, technical 
+(system and software), Behavioural, BRSR 
+awareness, Onboarding, Code of conduct
+100%
+Workers
+228
+Quality, Health and safety, code of 
+conduct
+97.43%
+2. 
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by 
+the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial 
+year, in the following format.
+ 
+Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing 
+Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC 
+Principle
+Name of the 
+regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount (In J)
+Brief of the 
+Case
+Has an 
+appeal been 
+preferred?  
+(Yes/No)
+Penalty/ Fine
+NA
+NA
+0
+NA
+NA
+Settlement
+NA
+NA
+0
+NA
+NA
+Compounding 
+fee
+NA
+NA
+0
+NA
+NA
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Brief of the 
+Case
+Has an appeal 
+been  
+preferred?  
+(Yes/No)
+Imprisonment
+NA
+NA
+NA
+NA
+Punishment
+NA
+NA
+NA
+NA
+3.  Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where monetary 
+or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+NA
+NA
+Annual Report 2022-23
+98
+4.	
+Does the entity have an anti-corruption or anti-
+bribery policy? If yes, provide details in brief and if 
+available, provide a web-link to the policy.
+Yes
+Section 4 and 5 of the Code of Conduct Policy covers anti-
+corruption and anti-bribery. Additionally, we have a Gift 
+Policy which prohibits corruption and bribery. It is an internal 
+HR policy, applicable to all employees.
+Web-link: https://www.grinfra.com/policies/
+5. 
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption:
+FY 22-23 
+(Current  
+Financial Year)
+FY 21-22 
+(Previous 
+Financial Year)
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+       3*
+0
+Workers
+0
+0
+	
+* FIR no. RC 216 2022 A 007 dated June 12, 2022 has been filed by the Central Bureau of Investigation, Anti-Corruption Unit – I under Section 120-B 
+of the IPC and Sections 7, 8, 9, 10 and 12 of the Prevention of Corruption Act, 1988 against certain employees and representatives of GRIL (the 
+“Representatives”), GRIL, certain officials of the NHAI and others. It has been alleged that the Representatives along with certain unknown public 
+servants have been involved in suspected offences such as criminal conspiracy, bribing of public servants, bribing of public servants by commercial 
+organization. GRIL has received a summon to appear before the Court of Special Judge, CBI, Assam. CBI has filed its report u/s 173 of the CrPC. 
+Matter pending adjudication before CBI Court.
+6. 
+Details of complaints with regard to conflict of interest:
+FY 22-23 
+(Current Financial 
+Year)
+FY 21-22 
+(Previous Financial 
+Year)
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of Conflict of Interest 
+of the Directors
+0
+NA
+0
+NA
+Number of complaints received in relation to issues of Conflict of Interest 
+of the KMPs
+0
+NA
+0
+NA
+Provide details of any corrective 
+action 
+taken or underway on 
+issues related to fines / penalties 
+/ action taken by regulators/ law 
+enforcement 
+agencies/ 
+judicial 
+institutions, on cases of corruption 
+and conflicts of interest.
+On June 12, 2022, CBI took into custody, two NHAI officials on certain 
+allegations related to demanding & accepting bribe after registering the FIR 
+under sections 7, 8, 9, 10 and 12 of the Prevention of Corruption Act, 1988 
+read with section 120B of the Indian Penal Code, 1860 dated June 12, 2022. In 
+relation to above, CBI also took into custody three employees of the Company. 
+All the 3 employees of our Company have been granted bail from Ld. Court in 
+the month of September 2022.
+The Ld. CBI Court has taken cognizance of report filled under Section 173 of 
+Criminal Procedure Code, 1973 (CrPC) in this matter on 11.08.2022 by CBI and 
+issued summons. Company appeared through its authorized representative 
+and received the copy of the report filed under Section 173 of CrPC along with 
+the set of documents which were filed by CBI.
+The Management had reviewed all documents obtained from Ld. Court and 
+performed its detail assessment on the matter and basis of the same, they believe 
+that there would not be any significant impact on the operation and financial 
+position of the Company. Currently, the matter is pending with Ld. Court and the 
+company is appearing in the Ld. court through authorised representative.
+7.
+G R Infraprojects Limited
+Statutory Reports
+99
+Leadership Indicators
+1.	
+Does the entity have processes in place to avoid/ manage conflict of interests 
+involving members of the Board? (Yes/No) If Yes, provide details of the same.
+Yes, 
+Via the Code of Conduct for Senior 
+Management Policy
+PRINCIPLE 2: BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS SUSTAINABLE 
+AND SAFE
+Essential Indicators
+1. 	 Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+FY 22-23         
+(Current Financial Year)
+FY 21-22         
+(Previous Financial Year)
+Details of improvements in  
+environmental and social impacts
+R&D
+0%
+0%
+NA
+Capex
+27.20%
+25.82%
+1- 	 Installed sewage plant
+2- 	 Shifted from diesel to electricity for 
+lighting source
+3- 	 Procured electric welding machine
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No) 
+No
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+NA
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the 
+end of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+NA
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, 
+whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted 
+to Pollution Control Boards? If not, provide steps taken to address the same.
+No
+PRINCIPLE 3: BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EMPLOYEES, 
+INCLUDING THOSE IN THEIR VALUE CHAINS
+Essential Indicators
+1. a. Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health  
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care  
+facilities
+Number 
+ (B)
+%  
+(B / A)
+Number 
+(C)
+%  
+(C / A)
+Number 
+(D)
+%  
+(D / A)
+Number 
+(E)
+%  
+(E / A)
+Number 
+ (F)
+%  
+(F / A)
+Permanent employees
+Male
+5,114
+5,114
+100%
+5,114
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+61
+61
+100%
+61
+100%
+61
+100%
+0
+0%
+0
+0%
+Total
+5,175
+5,175
+100%
+5,175
+100%
+61
+1%
+0
+0%
+0
+0%
+Other than Permanent employees
+Male
+13
+13
+100%
+13
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+13
+13
+100%
+13
+100%
+0
+0%
+0
+0%
+0
+0%
+Annual Report 2022-23
+100
+b.	
+Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total 
+(A)
+Health insurance
+Accident 
+insurance
+Maternity benefits
+Paternity 
+Benefits
+Day Care facilities
+Number 
+ (B)
+%  
+(B / A)
+Number 
+(C)
+%  
+(C / A)
+Number  
+(D)
+%  
+(D / A)
+Number 
+(E)
+%  
+(E / A)
+Number 
+ (F)
+%  
+(F / A)
+Permanent workers
+Male
+10,964
+10,964
+100%
+10,964
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+2
+2
+100%
+2
+100%
+2
+100%
+0
+0%
+0
+0%
+Total
+10,966
+10,966
+100%
+10,966
+100%
+2
+0%
+0
+0%
+0
+0%
+Other than Permanent workers
+Male
+963
+0
+0%
+963
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+963
+0
+0%
+963
+100%
+0
+0%
+0
+0%
+0
+0%
+2. 
+Details of retirement benefits, for Current Financial Year and Previous Financial Year
+Benefits
+FY 22-23 
+(Current Financial Year)
+FY 21-22 
+(Previous Financial Year)
+No. of 
+employees 
+covered 
+as a % 
+of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered 
+as a % 
+of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+Provident Fund (PF)
+100%
+100%
+Yes
+100%
+100%
+Yes
+Gratuity
+100%
+100%
+Yes
+100%
+100%
+Yes
+Employee’s State 
+Insurance (ESI)* 
+1.04%
+2.33%
+Yes
+1.12%
+2.25%
+Yes
+Others – Please Specify
+0%
+0%
+NA
+0%
+0%
+NA
+	
+* All personnel who are eligible for ESI have been covered by the ESI Scheme.
+3.
+Accessibility of workplaces
+Are the premises / offices of the entity accessible to 
+differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities 
+Act, 2016? If not, whether any steps are being taken by 
+the entity in this regard.
+No.
+However, steps are being undertaken to progressively 
+enable the office premises and physical infrastructure 
+more conducive and accessible to differently abled 
+employees.
+4.
+Does the entity have an equal opportunity policy as 
+per the Rights of Persons with Disabilities Act, 2016? If 
+so, provide a web-link to the policy.
+Yes 
+https://www.grinfra.com/policies/
+5.  Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+0%
+0%
+0%
+0%
+Female
+100%
+0%
+0%
+0%
+Total
+100%
+0%
+0%
+0%
+G R Infraprojects Limited
+Statutory Reports
+101
+6. 
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent Workers
+Yes,
+We have an online grievance redressal mechanism called “Sahyog”. 
+This is an online portal where any employee can raise their 
+grievances. Raised grievances will be routed through central HR to 
+respective project location to close the employee grievances.
+Other than Permanent Workers
+Permanent Employees
+Other than Permanent Employees
+7. 
+Membership of employees and worker in association(s) or Unions recognised by the listed entity
+Category
+FY 22-23 
+(Current Financial Year)
+FY 21-22 
+(Previous Financial Year)
+Total 
+employees 
+/ workers in 
+respective  
+category (A)
+No. of employees 
+ / workers in 
+respective  
+category, who 
+are part of  
+association(s) or 
+Union (B)
+% (B / 
+A)
+Total 
+employees 
+/ workers 
+ in respective 
+category (C)
+No. of 
+employees/ 
+workers in  
+respective 
+category, who 
+are part of 
+association 
+(s) or Union(D)
+% (D / 
+C)
+Total Permanent 
+Employees
+5,175
+0
+0%
+5,556
+0
+0%
+- Male
+5,114
+0
+0%
+5,503
+0
+0%
+- Female
+61
+0
+0%
+53
+0
+0%
+Total Permanent 
+Workers
+10,966
+0
+0%
+12,153
+0
+0%
+- Male
+10,964
+0
+0%
+12,150
+0
+0%
+- Female
+2
+0
+0%
+3
+0
+0%
+8. 
+Details of training given to employees and workers:
+Category
+FY 22-23 
+(Current Financial Year)
+FY 21-22 
+(Previous Financial Year)
+Total 
+(A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total 
+(D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+%  
+(B/ A)
+No. (C)
+%  
+(C /A)
+No. (E)
+%  
+(E / D)
+No. (F)
+%  
+(F / D)
+Employees
+Male
+5,127
+2,650
+51.69%
+1,425
+27.79%
+5,515
+2,831
+51.33%
+1,966
+35.65%
+Female
+61
+41
+67.21%
+2
+3.28%
+53
+30
+56.60%
+0
+0.00%
+Total
+5,188
+2,691
+51.87%
+1,427
+27.51%
+5,568
+2,861
+51.38%
+1,966
+35.31%
+Workers
+Male
+10,964
+10,964
+100.00%
+0
+0.00%
+12,150
+4,265
+35.10%
+0
+0%
+Female
+2
+0
+0.00%
+0
+0.00%
+3
+0
+0.00%
+0
+0%
+Total
+10,966
+10,964
+99.98%
+0
+0.00%
+12,153
+4,265
+35.09%
+0
+0%
+	
+For employees both permanent and other than permanent categories were provided the trainings. For workers only 
+permanent category were provided the trainings.
+Annual Report 2022-23
+102
+9.  Details of performance and career development reviews of employees and worker:
+Category
+FY 22-23 
+(Current Financial Year)
+FY 21-22 
+(Previous Financial Year)
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees
+Male
+5,114
+2,139
+41.83%
+5,503
+2,150
+39.07%
+Female
+61
+40
+65.57%
+53
+35
+66.04%
+Total
+5,175
+2,179
+42.11%
+5,556
+2,185
+39.33%
+Workers
+Male
+10,964
+0
+0%
+12,150
+0
+0%
+Female
+2
+0
+0%
+3
+0
+0%
+Total
+10,966
+0
+0%
+12,153
+0
+0%
+10.  Health and safety management system:
+a.	
+Whether an occupational health and safety 
+management system has been implemented by 
+the entity? (Yes/ No). If yes, the coverage such 
+system?
+Yes, the safety plan includes establishing hazard identification, 
+risk assessment and controls. Checklist are developed to 
+ensure safe practices.
+The Health, Safety and Environment policy (HSE policy) 
+upholds the company’s goal to protect the health and safety 
+of all those associated with our business activities and to 
+minimize adverse impact on the environment. 
+GRIL has implemented management systems in accordance 
+with ISO 45001:2018 to ensure compliance with our HSE 
+Policy, reflecting our vision and philosophy. These systems 
+define mandatory requirements for systematic management 
+and execution within our organization.
+b.	
+What are the processes used to identify work-
+related hazards and assess risks on a routine and 
+non-routine basis by the entity?
+The company has various levels of site inspection checklist 
+which are prepared for each project. It includes night works, 
+launching gantry, accommodation camp inspection, monthly 
+first aid, jackup platform, piling inspection, excavation, 
+confined space, traffic management, work permit, lifting 
+permit, all these have questionnaire related to work related 
+hazards and risk assessment.
+c.	
+Whether you have processes for workers to 
+report the work related hazards and to remove 
+themselves from such risks. (Y/N)
+Yes
+d.	
+Do the employees/ worker of the entity have 
+access to non-occupational medical and healthcare 
+services? (Yes/ No)
+Yes
+11. Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 22-23 
+(Current Financial 
+Year)
+FY 21-22 
+(Previous Financial 
+Year)
+Lost Time Injury Frequency Rate(LTIFR) (per one million-
+person hours worked)
+Employees
+0.010
+0.004
+Workers
+0.200
+0.092
+Total recordable work-related injuries
+Employees
+14
+17
+Workers
+29
+41
+No. of fatalities
+Employees
+0
+0
+Workers
+6
+3
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+2
+17
+Workers
+16
+35
+G R Infraprojects Limited
+Statutory Reports
+103
+12.	 Describe the measures taken by the entity 
+to ensure a safe and healthy workplace.
+GRIL has developed standard checklist, standard operating procedures, 
+regular training programs and site inspection to create awareness and 
+ensure the safety of both own employees /workers and sub-contractors. 
+It includes guidelines on night works, launching gantry, working at height, 
+accommodation for employees/workers, camp inspection, monthly first 
+aid, availability of Ambulance, Tie-up with nearby hospitals, necessary 
+licences and work permits, canteen facility, etc. The above measures are 
+also ensured through regular audits.
+Also the company has Integrated Management system (Quality, 
+Environment, Health & Safety) Policy for employees and workers which 
+includes zero tolerance towards any non-compliance. 
+13. Number of complaints on the following made by employees and workers:
+FY 22-23 
+(Current Financial Year)
+FY 21-22 
+(Previous Financial Year)
+Filed 
+during the 
+year
+Pending 
+resolution 
+ at the end  
+of year
+Remarks
+Filed 
+during the 
+ year
+Pending 
+resolution 
+ at the end  
+of year
+Remarks
+Working Conditions
+1
+1
+NIL
+0
+0
+NIL
+Health & Safety
+0
+0
+NIL
+0
+0
+NIL
+14. Assessments for the year:
+% of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+	
+Health and safety practices
+63%
+	
+Working Conditions
+63%
+15.	 Provide details of any corrective action taken or 
+underway to address safety-related incidents (if 
+any) and on significant risks / concerns arising 
+from assessments of health & safety practices and 
+working conditions.
+At our organization, we place a high priority on incident 
+reporting and investigation as a means of identifying potential 
+areas for improvement. We conduct thorough investigations 
+to establish appropriate corrective and preventative actions, 
+and we believe in sharing the lessons learned across all 
+project sites to promote a culture of safety and continuous 
+improvement. As part of this effort, we also regularly revise 
+our Hazard Identification, Risk Assessment, and Control 
+(HIRAC) and Standard Operating Procedure (SOP) protocols 
+to ensure that our procedures are up to date and reflective 
+of the latest best practices in the industry.
+The Company also ensures the adequate insurance cover 
+and motivate the sub-contractors to ensure the labour 
+related statutory compliances.
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event 
+of death of
+	
+(A) Employees (Y/N)
+Yes, as per the Workmen’s 
+Compensation Act, 1923 
+	
+(B) Workers (Y/N)
+Annual Report 2022-23
+104
+PRINCIPLE 4: BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO ALL ITS 
+STAKEHOLDERS
+Essential Indicators
+1. 
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+As an infrastructure company, we recognize the importance of stakeholder identification in the success of our projects. 
+The process begins with a comprehensive analysis of our operations to identify key stakeholders, including employees, 
+customers, shareholders, suppliers, vendors, government entities, and regulatory authorities. We also consider the impact 
+of our projects on the local communities where we operate, and strive to engage with them as valuable stakeholders in our 
+communication efforts. By understanding the needs and concerns of our stakeholders, we can proactively address their 
+expectations, minimize potential risks, and foster long-term relationships that are essential to our success. Our stakeholder 
+identification process is an ongoing effort that helps us to stay informed, engaged, and responsive to the evolving needs 
+of our stakeholders.
+2. 
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group.
+Stakeholder 
+Group
+Whether 
+identified 
+ as Vulnerable 
+& 
+ Marginalized 
+Group 
+ (Yes/No)
+Channels of  
+communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website),  
+Other
+Frequency of  
+engagement 
+(Annually/ 
+Half yearly/ 
+Quarterly/ 
+others 
+– please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Employees and 
+Workers
+No
+Email, SMS, Meetings, Website, 
+Social Media, Circulars, etc
+Regular
+Employee Engagement: Various 
+initiatives related to employees’ 
+growth, benefits, professional 
+development, 
+learning 
+& 
+development, 
+internal 
+communication, etc
+Customers
+No
+Email, SMS, Meetings, Website, 
+Business 
+interactions, 
+Advertisement
+Regular
+Pertaining to projects (delivery, 
+timeline, challenges, etc)
+Shareholders and 
+Investors
+No
+General Meeting, Investors 
+Meet, 
+Email, 
+Website, 
+Newspaper, Stock Exchange 
+Filings
+Annual, 
+Periodic
+GRIL Performance
+Suppliers & 
+Vendors
+No
+Email, SMS, Business Meetings
+Regular
+Delivery 
+status, 
+supply 
+chain 
+issues, 
+compliance, 
+development
+Government and 
+Regulatory Bodies
+No
+Email, 
+Meetings, 
+Website, 
+Annual 
+Report, 
+Stock 
+Exchange 
+Filings, 
+Industry 
+Body Representations
+As and when 
+required
+Statutory compliance, reporting 
+requirements, engaging with 
+the government for the growth 
+and benefit of the Infrastructure 
+Industry, etc
+Local 
+Communities
+May be (in 
+some cases)
+Onsite Community Meetings, 
+Direct engagement through 
+project teams
+Regular
+Corporate Social 
+Responsibilities
+G R Infraprojects Limited
+Statutory Reports
+105
+PRINCIPLE 5: BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+Essential Indicators
+1.  Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in 
+the following format:
+Category
+FY 22-23 
+(Current Financial Year)
+FY 21-22 
+(Previous Financial Year)
+Total (A)
+No. employees 
+workers 
+covered (B)
+% (B / A)
+Total 
+(C)
+No. employees 
+workers 
+covered (D)
+% (D / C)
+Employees
+Permanent
+5,175
+0
+0%
+5,556
+0
+0%
+Other than permanent
+13
+0
+0%
+12
+0
+0%
+Total Employees
+5,188
+0
+0%
+5,568
+0
+0%
+Workers
+Permanent
+10,966
+0
+0%
+12,153
+0
+0%
+Other than permanent
+963
+0
+0%
+740
+0
+0%
+Total Workers
+11,929
+0
+0%
+12,893
+0
+0%
+2.  Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 22-23 
+(Current Financial Year)
+FY 21-22 
+(Previous Financial Year)
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+No.(B)
+% (B/A)
+No. (C)
+% (C/A)
+No.(E)
+% (E/D)
+No.(F)
+% (F/D)
+Employees
+Permanent 
+Male
+5,114
+0
+0%
+5,114
+100%
+5,503
+0
+0%
+5,503
+100%
+Female
+61
+0
+0%
+61
+100%
+53
+0
+0%
+53
+100%
+Other than permanent 
+Male
+13
+0
+0%
+13
+100%
+12
+0
+0%
+12
+100%
+Female
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+Workers
+Permanent 
+Male
+10,964
+0
+0%
+10,964
+100%
+12,150
+0
+0%
+12,150
+100%
+Female
+2
+0
+0%
+2
+100%
+3
+0
+0%
+3
+100%
+Other than permanent
+Male
+963
+963
+100%
+0
+0%
+740
+740
+100%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0 
+0%
+0
+0%
+3.  Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD)
+7
+3,20,000
+1
+3,60,000
+Key Managerial Personnel*
+5
+3,89,41,583
+0
+0
+Employees otherthan BoD and KMP
+5,125
+3,84,000
+61
+6,96,000
+Workers
+10,964
+2,56,800
+2
+1,69,776
+	
+*Total KMP is inclusive of the Managing Director and Whole Time Directors.
+Annual Report 2022-23
+106
+Do you have a focal point (Individual/ Committee) 
+responsible for addressing human rights impacts 
+or issues caused or contributed to by the business? 
+(Yes/No)
+Yes, we have the Internal Complaints Committee (ICC) as 
+required for Sexual Harassment of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 (PoSH).
+Describe the internal mechanisms in place to redress 
+grievances related to human rights issues.
+At GRIL, we are proud to offer the Sahyog mechanism, a 
+highly efficient and user-friendly online portal designed 
+to address any employee grievances. With Sahyog, our 
+valued team members can voice their concerns securely 
+and confidentially. Once a grievance is raised, our central 
+HR team will promptly route the matter to the respective 
+project location, ensuring a swift and satisfactory resolution. 
+We are committed to fostering a positive work environment 
+where our employees feel heard, valued, and respected.
+6. 
+Number of Complaints on the following made by employees and workers:
+FY 22-23 
+(Current Financial Year)
+FY 21-22 
+(Previous Financial Year)
+Filed 
+during 
+ the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Filed 
+during 
+ the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Sexual Harassment
+0
+0
+NA
+0
+0
+NA
+Discrimination at workplace
+0
+0
+NA
+0
+0
+NA
+Child Labour
+0
+0
+NA
+0
+0
+NA
+Forced Labour/Involuntary Labour
+0
+0
+NA
+0
+0
+NA
+Wages
+7
+3
+NA
+0
+0
+NA
+Other human rights related issues
+0
+0
+NA
+0
+0
+NA
+Mechanisms 
+to 
+prevent 
+adverse 
+consequences 
+to 
+the 
+complainant in discrimination and harassment cases.
+In Sahyog, if any grievance is raised by the employee, 
+then it comes directly to Single point of contact 
+(SPOC) of Central HR in the Corporate Office. If any 
+grievance has some sensitivity and there is need 
+to maintain the confidentiality of the names of 
+concerned persons, the Human Resources Business 
+Partner (HRBP) and Chief Human Resources Officer 
+(CHRO) deals with those grievances accordingly.
+Do human rights requirements form part of your business 
+agreements and contracts?(Yes/No)
+Yes
+7.
+4.
+5.
+10.
+8.
+9. 
+Assessments for the year:
+ 
+%age of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Child labour
+70%
+Forced/involuntary labour
+70%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others – please specify
+0%
+Provide details of any corrective actions 
+taken or underway to address significant 
+risks / concerns arising from the assessments 
+at Question 9 above.
+1.	
+Subcontractor Work Order Terms & Conditions includes the 
+clause to comply with all applicable statutory rules & regulations.
+2.	
+Compliance to ensure the same is done by the site Human 
+Resource department through regular site visit and inspection of 
+ID cards of the labour deployed.
+G R Infraprojects Limited
+Statutory Reports
+107
+PRINCIPLE 6: BUSINESSES SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE THE 
+ENVIRONMENT
+Essential Indicators
+1. 
+Details of total energy consumption (in Gigajoules) and energy intensity, in the following format:
+Parameter
+FY 22-23 
+(Current  
+Financial Year)
+FY 21-22 
+(Previous 
+Financial Year)
+Total electricity consumption (A)
+87,625.96 (GJ)
+94,263.70 (GJ) 
+Total fuel consumption (B)
+30,93,318.88 (GJ)
+35,24,995.96 (GJ)
+Energy consumption through other sources (C) 
+0
+0
+Total energy consumption (A+B+C)
+31,80,944.84 (GJ)
+36,19,259.66 (GJ)
+Energy intensity per rupee of turnover (Total energy consumption/turnover 
+in lakhs)
+3.81
+4.49
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N) If yes, name of the external 
+agency.
+No
+2.	
+Does the entity have any sites / facilities identified as designated 
+consumers (DCs) under the Performance, Achieve and Trade (PAT) 
+Scheme of the Government of India? (Y/N) If yes, disclose whether 
+targets set under the PAT scheme have been achieved. In case 
+targets have not been achieved, provide the remedial action taken, 
+if any.
+No
+3. 
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 22-23 
+(Current  
+Financial Year)
+FY 21-22 
+(Previous 
+Financial Year)
+(i) 	 Surface water
+30,963.00
+43,617.00
+(ii) 	 Groundwater
+3,57,807.20
+2,31,627.13
+(iii) 	Third party water
+1,55,859.36
+1,13,743.74
+(iv) 	 Seawater / desalinated water
+0
+0
+(v) 	 Others
+0
+0
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+5,44,629.56
+3,88,987.87 
+Total volume of water consumption (in kilolitres)
+7,10,563.16 
+5,30,471.47
+Water intensity per rupee of turnover (Water consumed / turnover in lakhs)
+0.85
+0.66
+Water intensity (optional) – the relevant metric may be selected by the entity
+ 
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N) If yes, name of the external 
+agency.
+No
+4. 
+Has the entity implemented a mechanism for Zero Liquid Discharge? If 
+yes, provide details of its coverage and implementation.
+No
+5. 
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 22-23*
+(Current  
+Financial Year)
+FY 21-22* 
+(Previous 
+Financial Year)
+Nox
+Parts per million by volume
+0.02
+0.02
+Sox
+Parts per million by volume
+0.02
+0.02
+Particulate matter (PM)
+Microgram per cubic metre
+75.07
+70.15
+Persistent organic pollutants (POP)
+Microgram per cubic metre
+0.00
+0.00
+Annual Report 2022-23
+108
+Parameter
+Please specify unit
+FY 22-23*
+(Current  
+Financial Year)
+FY 21-22* 
+(Previous 
+Financial Year)
+Volatile organic compounds (VOC)
+Microgram per cubic metre
+0.00
+0.00
+Hazardous air pollutants (HAP)
+Microgram per cubic metre
+0.00
+0.00
+Others– PM 2.5
+ Microgram per cubic metre
+36.30
+42.39
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N) If yes, name of the external 
+agency.
+No
+	
+*We do not continuously monitor the above-mentioned emissions. However, we conduct periodic monitoring of other emissions. The data presented 
+above represents the averages obtained from our most recent monitoring.
+6. 
+Provide details of greenhouse gas emissions* (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format:
+Parameter
+Unit
+FY 22-23 
+(Current  
+Financial Year)
+FY 21-22 
+(Previous 
+Financial Year)
+Total Scope 1 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+ 2,07,208.54 
+ 2,43,431.23 
+Total Scope 2 emissions (Break-up of the GHG  into 
+CO2, CH4, N2O, HFCs, PFCs,SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+19,287.93
+21,209.33
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover in lakhs
+ 
+ 0.27 
+ 0.33 
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N) If yes, name of the external 
+agency.
+No
+	
+* EPA’s GHG Emission Factors Hub has been used for the purpose of Scope 1 GHG Emissions calculations. CEA’s CDM - CO2 Baseline Database User 
+Guide Version 18 has been used for the purpose of Scope 2 GHG Emissions calculations.
+7.	
+Does the entity have any project related to reducing 
+Green House Gas emission? If Yes, then provide details.
+Yes
+1. 	 500 KW solar Roof top Solar Power plant installed. Of 
+which 40000KWH is consumed in-house.
+2. 	 We have developed a portable solar power source 
+product of 400 Watts, which will replace the need for 
+DG set for lighting at remote locations. This would 
+result in diesel savings of 10Ltr per day.
+3. 	 Sand Conservation.
+4. 	 Adblue fluid to reduce/ remove carbon emissions. 
+ADBLUE/AUS32 is a liquid used to reduce the air 
+pollution created by a diesel engine. We installed a 
+new Unit for inhouse production of AdBlue which is 
+used with diesel to reduce emissions of the Company.
+8. 
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 22-23 
+(Current  
+Financial Year)
+FY 21-22 
+ (Previous 
+Financial Year)
+Plastic waste (A)
+37.28
+95.07
+E-waste (B)
+4.22
+4.32
+Bio-medical waste (C)
+6.56
+4.33
+Construction and demolition waste (D)
+11,942.62
+6,054.03
+Battery waste (E)
+61.43
+53.20
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any. (G)
+974.57
+1,041.06
+G R Infraprojects Limited
+Statutory Reports
+109
+Parameter
+FY 22-23 
+(Current  
+Financial Year)
+FY 21-22 
+ (Previous 
+Financial Year)
+Other Non-hazardous waste generated (H)
+- Scrap
+8,858.71
+ 10,565.1 
+Total (A+B + C + D + E + F + G + H)
+21,885.39
+17,817.11
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in metric tonnes)
+Category of waste
+(i) 	 Recycled
+13,054.98
+10,628.19
+(ii) 	 Re-used
+6,414.56
+3,959.48
+(iii) 	Other recovery operations
+24.61
+0.85
+Total
+19,494.15
+14588.52
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) 	 Incineration
+0.06
+0
+(ii) 	 Landfilling
+1,074.42
+442.14
+(iii) 	Other disposal operations
+1108.4
+2,477.66
+Total
+2,182.88
+2,919.21
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N) If yes, name of the external 
+agency.
+No
+9. 	 Briefly describe the waste management practices 
+adopted in your establishments. Describe the strategy 
+adopted by your company to reduce usage of hazardous 
+and toxic chemicals in your products and processes and 
+the practices adopted to manage such wastes.
+1)	
+Plastic waste, E-waste and hazardous waste 
+generated at operation sites are stored at dedicated 
+warehouse and details are sent to the Head Office 
+(HO) for further action.
+2)	
+In some cases the HO sells to registered vendors 
+where reuse is not possible and in other cases, as 
+per policy the waste is reused and recycled. 
+10. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details in the following format:
+S.No.
+Location of 
+operations/offices
+Type of operations
+Whether the conditions of environmental approval /
+clearance are being complied with? (Y/N) If no, the 
+reasons thereof and corrective action taken, if any.
+1
+Govindpur Rajura 
+Construction activities
+Yes
+2
+Bilaspur Urga
+Construction activities
+Yes
+3
+Mej River-Junction
+Construction activities
+Yes
+Annual Report 2022-23
+110
+11. Details of environmental impact assessments* of projects undertaken by the entity based on applicable laws, in 
+the current financial year:
+Name and brief details of project
+EIA 
+Notification 
+No.
+Date
+Whether 
+conducted by 
+independent 
+external 
+agency (Yes 
+/ No)
+Results 
+communicated 
+in  public 
+domain  
+(Yes / No)
+Relevant Web 
+link
+Name – Shirsad Masvan Expressway
+Details – Construction of Eight lane 
+access controlled Expressway from 
+Km 26.582 to Km 50.700 of Main 
+Expressway and Km 0+0 to Km 3+000 
+of SPUR (Shirsad to Masvan Section 
+of Vadodara Mumbai Expressway) in 
+the State of Maharashtra on Hybrid 
+Annuity Mode under Bharatmala 
+Pariyojana (Phase II-Package XIII)
+MoEFCC 
+F. No. No 
+10-80/2016-IA-
+III (Proposal 
+No. IA/MH/
+MIS/59976/ 
+2016)
+06-07-2020
+Yes
+Yes
+ NA
+Name 
+– 
+Metro 
+Construction, 
+Bangalore Metro Rail Project Phase 
+II – Reach 6
+Details – Construction of elevated 
+structures of length 7.50 kms 
+(approx.) From Gottigere to Swagath 
+road cross including Kothnur depot 
+entry line, road widening & allied 
+works and 5 numbers of metro 
+stations of Bangalore metro rail 
+project, phase-2 (balance works)
+ -
+01-08-2017
+Yes
+Yes
+ NA
+Name – Ganga Path
+Details – Construction of 4-lane 
+elevated road as part of under 
+construction Ganga path (Digha to 
+Deedarganj) from Dulli Ghat (km 
+13+525.79) to Nuruddin Ghat (km 
+16+975.79) 
+from 
+Dharamshala 
+Ghat (km 19+890) to old NH-30 (km 
+20+530.5) along with connectivity 
+to Ashok Rajpath to Kangan Ghat 
+(km 15+700) and Patna Ghat (km 
+16+600) with facilities at Patna in 
+the state of Bihar on EPC mode
+ -
+ 27-11-
+2011
+No
+ No
+ NA
+Name – Mej river
+Details – Construction of eight lane 
+carriageway starting near major 
+bridge on Mej river to junction with 
+SH-37a ch:331+030 to 359+170) 
+section of Delhi - Vadodara access 
+controlled green field alignment 
+(NH-148n) on EPC mode under 
+Bharatmala Pariyojana in the state 
+of Rajasthan. (package –12).
+(As amended 
+on 04/05/1994, 
+10/04/1997, 
+27/1/2000 and 
+13/12/2000)
+01-05-2021
+No
+Yes
+Environmental 
+Impact 
+Assessment 
+Notification – 
+2006 Archive 
+| The Official 
+Website of 
+Ministry of 
+Environment, 
+Forest and 
+Climate 
+Change, 
+Government 
+of India (moef.
+gov.in)
+G R Infraprojects Limited
+Statutory Reports
+111
+Name and brief details of project
+EIA 
+Notification 
+No.
+Date
+Whether 
+conducted by 
+independent 
+external 
+agency (Yes 
+/ No)
+Results 
+communicated 
+in  public 
+domain  
+(Yes / No)
+Relevant Web 
+link
+Name – Naviganj – Mitrasen
+Details – Four laning of Aligarh-
+Kanpur section from Km 289.000 
+(Design Chainage 302.108) to Km 
+356.000 (Design Chainage 373.085) 
+(Package-IV 
+from 
+Naviganj 
+- 
+Mitrasen) of NH-91 in state of Uttar 
+Pradesh on Hybrid Annuity Mode 
+under Bharatmala Pariyojana
+(As amended 
+on 04/05/1994, 
+10/04/1997, 
+27/1/2000 and 
+13/12/2000)
+18-02-2021
+No
+Yes
+Environmental 
+Impact 
+Assessment 
+Notification – 
+2006 Archive 
+| The Official 
+Website of 
+Ministry of 
+Environment, 
+Forest and 
+Climate 
+Change, 
+Government 
+of India (moef.
+gov.in)
+*The EIA listed above have been conducted by the NHAI or the respective authority. We begin our projects post environmental clearance.
+12. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection 
+act and rules thereunder (Y/N).  Yes
+ 
+If not, provide details of all such non-compliances, in the following format: 
+S. No.
+Specify the  law/  
+regulation/ guidelines 
+which  was not 
+complied with
+Provide details of the 
+non- compliance
+Any fines / penalties/
+action taken by 
+regulatory agencies 
+such as pollution 
+control boards or by 
+courts
+Corrective action 
+taken, if any
+NA
+Leadership Indicators
+1. 
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable 
+sources, in the following format:
+Parameter
+FY 22-23 
+(Current  
+Financial Year)
+FY 21-22 
+(Previous 
+Financial Year)
+From renewable sources
+Total electricity consumption (A)
+1,901.84
+0.00
+Total fuel consumption (B)
+0.00
+0.00
+Energy consumption through other sources (C)
+0.00
+0.00
+Total energy consumed from renewable sources (A+B+C)
+1,901.84
+0.00
+From non-renewable sources
+Total electricity consumption (D)
+85,724.12
+94,263.70
+Total fuel consumption (E)
+30,93,318.88
+35,24,995.96
+Energy consumption through other sources (F)
+0.00
+0.00
+Total energy consumed from non-renewable sources (D+E+F)
+31,79,043.00
+36,19,259.66
+Note: Indicate if any independent assessment/ evaluation/assurance 
+has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency.
+No
+Annual Report 2022-23
+112
+PRINCIPLE 7 BUSINESSES, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, 
+SHOULD DO SO IN A MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+Essential Indicators
+1. 
+a. 
+Number of affiliations with trade and industry chambers/ associations. 1 (One)
+ 
+b. 
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such 
+body) the entity is a member of/ affiliated to.
+S.No.
+Name of the trade and industry chambers/ 
+associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1
+Construction Industry Development Council
+National
+2. 
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the 
+entity, based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+NA
+NA
+NA
+PRINCIPLE 8: BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVELOPMENT
+Essential Indicators
+1.   Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+Name   and   
+brief details of 
+project
+SIA  
+Notification No.
+Date of 
+notification
+Whether conductedby 
+independent external 
+agency (Yes/No)
+Results
+communicated 
+in public domain 
+(Yes / No)
+Relevant 
+Web link
+NA
+2. 
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your 
+entity, in the following format:
+S. 
+No.
+Name of 
+Project for 
+which R&R is 
+ongoing
+State
+District
+No. of Project 
+Affected 
+Families  
+(PAFs)
+% of PAFs 
+covered by  
+R&R
+Amounts paid 
+to  PAFs in the 
+FY (In J)
+NA
+3.
+Describe the mechanisms to receive and redress 
+grievances of the community.
+Stakeholder Engagement Plan - We engage with the local 
+community through various means like onsite community 
+meetings and direct engagement through project teams. The 
+community members can reach out to us through letters, email 
+and in person for any of their concerns or grievances.
+4. 
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 22-23 
+(Current  
+Financial Year)
+FY 21-22 
+(Previous 
+Financial Year)
+Directly sourced from MSMEs/ small producers
+17%
+10%
+Sourced directly from  within  the  district  and neighbouring districts
+46%
+42%
+G R Infraprojects Limited
+Statutory Reports
+113
+Leadership Indicators
+1. 
+Provide the following  information on CSR projects  undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+S. No.
+State
+Aspirational District
+Amount spent (In J)
+1
+Rajasthan
+Baran
+1,40,00,000
+2
+Uttarakhand
+Haridwar
+21,00,000
+2. 
+Details of beneficiaries of CSR Projects:
+S. No.
+Name of CSR Project
+No. of persons 
+benefitted from CSR 
+projects
+% of beneficiaries from 
+vulnerable and marginalized 
+groups
+1
+Construction of Hospital Block for Cows at Shri Mahaveer 
+Gaushala Kalyan Sansthan at Baran, Rajasthan
+Not available
+Not available
+2
+Construction of Godown to store Dry husk at Sri 
+Krishan Gau Sewa Samiti at Churu, Rajasthan
+Not available
+Not available
+3
+Construction of Gaushala at Sidhmukh (Shri Shiv 
+Gaurakshak Gaushala) at Churu, Rajasthan
+Not available
+Not available
+4
+Financial Support for promotion of Education at New Delhi
+Not available
+Not available
+5
+Financial Support by providing Annual Education Fees for 
+10 Students of Gyan Mandir Samiti at Udaipur, Rajasthan
+Not available
+Not available
+6
+Contribution by providing venue and distributing 
+educational materials at Udaipur, Rajasthan
+Not available
+Not available
+7
+Construction 
+of 
+Classrooms 
+at 
+Chanani 
+Senior 
+Secondary Govt. School at Sidhmukh, Churu, Rajasthan
+Not available
+Not available
+8
+Contribution of land for setting up a school at 
+Bahadurpur, Ujjaina, Kannauj, Uttar Pradesh
+Not available
+Not available
+9
+Financial Support for Construction of Academic Block, 
+Shree Prakhar Paropkar Mission Trust at Haridwar, 
+Uttarakhand
+Not available
+Not available
+10
+Construction of Smt. Shakuntala Devi Govt. College 
+Sidhmukh at Churu, Rajasthan 
+Not available
+Not available
+11
+Financial support provided to Society for Education 
+of the Differently Abled (SEDA) for procurement of 
+various necessary items at Udaipur, Rajasthan
+Not available
+Not available
+12
+Construction of Room at Govt. Girls Sr. Sec. School at 
+Udaipur, Rajasthan
+Not available
+Not available
+13
+Financial Support for Construction and Building of 
+Infrastructure for Education and Hostel Facilities for 
+students (Sri Aurobindo Divine Life Trust) at Jhunjhunu, 
+Rajasthan
+Not available
+Not available
+14
+Maintenance of Children Ward at Maharana Bhupal 
+(MB) Government Hospital at Udaipur, Rajasthan
+2,954
+Not available
+15
+Maintenance 
+of 
+Mohini 
+Devi 
+Chachan 
+Rajkiya 
+Samudayik Kendra at Churu, Rajasthan
+77,881
+Not available
+16
+Installation of Oxygen Generator Plant at Seth Baldev 
+Das District Hospital and District Women's Hospital at 
+Saharanpur, Uttar Pradesh
+Not available
+Not available
+17
+Support to Old Age Persons through Sewa Samiti at 
+Pali, Rajasthan
+Not available
+Not available
+18
+Installation of Inverter & Fan in community centres at 
+various rural locations at Muzaffarnagar, Uttar Pradesh
+Not available
+Not available
+19
+The excavation of pond under Amrit Sarovar Scheme 
+for water conservation at Ratlam, Madhya Pradesh
+Not available
+Not available
+20
+Reconstruction of Pond at Sidhmukh for water 
+conservation at Churu, Rajasthan
+Not available
+Not available
+21
+Financial support to Scouts & Guides for sports 
+activities at Udaipur, Rajasthan
+Not available
+Not available
+22
+Installation of Gym Equipments and Kabaddi Mats at 
+Muzaffarnagar, Uttar Pradesh
+Not available
+Not available
+23
+Contribution for promotion of sports (Kabaddi) at 
+Chandrapur, Maharashtra
+Not available
+Not available
+Annual Report 2022-23
+114
+PRINCIPLE 9: BUSINESSES SHOULD ENGAGE  WITH  AND  PROVIDE  VALUE  TO THEIR CONSUMERS IN A 
+RESPONSIBLE MANNER
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and 
+respond to consumer complaints and feedback.
+All the complaints raised in form of Non Conformance Reports 
+(NCR) are received at site office. Upon receipt of such complaints, 
+concerned person appointed takes necessary action within 
+given timeline which is witnessed jointly with consumer. At the 
+end of each month, summary of complaints prepared including 
+actions taken and reviewed for any lapses. Lapses, if any, are 
+followed up on weekly basis for earliest closure.
+2. 
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:
+Total number of training and 
+awareness programmes held
+Environmental and social parameters relevant to the product
+0%
+Safe and responsible usage
+1.07%
+Recycling and/or safe disposal
+0%
+3. 
+Number of consumer complaints in respect of the following:
+Benefits
+FY 22-23 
+(Current Financial Year)
+Remarks
+FY 21-22 
+(Previous Financial Year)
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution 
+at end of      
+year
+Received 
+during the 
+year
+Pending 
+resolution 
+ at end of    
+year
+Data privacy
+0
+0
+NA
+0
+0
+NA
+Advertising
+0
+0
+NA
+0
+0
+NA
+Cyber-security
+0
+0
+NA
+0
+0
+NA
+Delivery of essential services
+0
+0
+NA
+0
+0
+NA
+Restrictive Trade Practices
+0
+0
+NA
+0
+0
+NA
+Unfair Trade Practices
+0
+0
+NA
+0
+0
+NA
+Other
+0
+0
+NA
+0
+0
+NA
+4. 
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+0
+0
+Forced recalls
+0
+0
+5.
+Does the entity have a framework/ policy on cyber security and risks 
+related to data privacy? (Yes/No) If available, provide a web-link of the 
+policy.
+Yes 
+https://www.grinfra.com/policies/
+6.
+Provide details of  any corrective actions taken or underway on issues relating 
+to advertising, and delivery of essential  services; cyber security and data 
+privacy of customers; re-occurrence of instances of product recalls; penalty / 
+action  taken  by regulatory authorities on safety of products / services.
+NA

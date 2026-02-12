@@ -1,0 +1,3439 @@
+Cyient Ltd. 
+ 4th Floor, A Wing, 11 Software 
+ CIN: L72200TG1991PLC013134 
+ Units Layout, Madhapur 
+  www.cyient.com 
+ Hyderabad -500 081      
+ Company.secretary@cyient.com 
+ India      
+  T +91 40 6764 1000  
+ F +91 40 2311 0352 
+ The National Stock Exchange of India Ltd   
+  Exchange Plaza,       
+  Bandra-Kurla 
+Complex, 
+Bandra 
+(E) 
+  Mumbai-400 051.  
+06 October 2023 
+The BSE Limited        
+PJ Towers, 25th Floor, 
+Dalal Street   
+Mumbai 400001. 
+Scrip Code: 532175 
+  Scrip Code: CYIENT 
+Dear Sir/Madam, 
+Sub: Submission of Business Responsibility and Sustainability Report 
+Pursuant to Regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we submit herewith the Business Responsibility and Sustainability Report 
+for the Financial Year 2022-23. 
+We request you to take this on record. 
+Thanking you, 
+For Cyient Limited 
+Ravi Kumar Nukala 
+Dy. Company Secretary 
+Ravi Kumar 
+Nukala
+Digitally signed by 
+Ravi Kumar Nukala 
+Date: 2023.10.06 
+11:57:48 +05'30'
+Annual Report 2022-23
+75
+Annexure – A
+Business Responsibility & Sustainability Reporting (BRSR)
+SECTION A: GENERAL DISCLOSURES 
+I.	
+Details of the listed entity 
+1. 	 Corporate Identity Number (CIN) of the Listed Entity
+L72200TG1991PLC013134
+2.	
+Name of the Listed Entity 
+Cyient Limited
+3.	
+Year of incorporation 
+1991
+4.	
+Registered office address 
+4th Floor, ‘A’ Wing, Plot .11, Software, Units Layout, 
+Infocity, Madhapur Hyderabad, Telangana - 500 081
+5.	
+Corporate address
+4th Floor, ‘A’ Wing, Plot .11,  Software, Units Layout, 
+Infocity, Madhapur Hyderabad, Telangana - 500 081
+6.	
+E-mail 
+company.secretary@cyient.com
+7.	
+Telephone
++91 40 6764 1000
+8.	
+Website
+www.cyient.com
+9.	
+Financial year for which reporting is being done
+FY 2022-2023
+10.	 Name of the Stock Exchange(s) where shares are listed 
+National Stock Exchange (NSE: CYIENT) and the Bombay 
+Stock Exchange (BSE: 532175))
+11.	 Paid-up Capital
+INR 55,28,75,030
+12.	 Name and contact details (telephone, email address) of 
+the person who may be contacted in case of any queries 
+on the BRSR report 
+PNSV Narasimham
+President – Corporate Functions
+Phone: +91-40-67641000
+Email: pnsv.narasimham@cyient.com
+13.	 Reporting boundary 
+Are the disclosures under this report made on a standalone 
+basis (i.e. only for the entity) or on a consolidated basis 
+(i.e. for the entity and all the entities which form a part of 
+its consolidated financial statements, taken together).
+Standalone 
+(Engineering Services, India)
+II.	
+Products/services 
+	
+ 14. 	Details of business activities (accounting for 90% of the turnover): 
+S. 
+No. 
+Description of 
+main activity 
+Description of business activity
+% of turnover of the 
+entity (FY23)
+1
+Engineering 
+Services
+Comprises the Group service and solutions offerings across the 
+of Aerospace & Defense, Transportation, Semiconductor, Medical 
+& Healthcare, Communications, Energy & Utilities, HiTech and 
+Automotive business units.
+ 100%
+	
+15. 	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No.
+Product/Service
+NIC Code
+% of total turnover contributed
+1
+Engineering Services 
+62099
+100%
+III.	 Operations 
+	
+ 16.	 Number of locations where plants and/or operations/offices of the entity are situated: 
+Details of locations of the company’s offices / plants are listed elsewhere in the Annual Report.
+Annual Report 2022-23
+76
+	
+17. 	 Markets served by the entity: 
+	
+	
+a. 	 Number of locations 
+Locations 
+Number
+National (No. of States)
+5 states
+International (No. of Countries)
+19 countries
+	
+	
+b. 	 What is the contribution of exports as a percentage of the total turnover of the entity?
+•	
+Revenue - Outside India - INR 17,786 Mn
+•	
+Exports a percentage of the total turnover – 79.83%
+	
+	
+c. 	 A brief on types of customers 
+Cyient is proud to be a trusted partner to a wide range of B2B customers across multiple industries. We 
+collaborate with leading companies in aerospace and defense, rail transportation, communications, utilities, 
+hi-tech, semiconductor, energy, industrial and plant engineering, geospatial, medical technology and healthcare, 
+automotive and mobility, mining and natural resources, and digital sectors. By understanding their specific needs, 
+we deliver tailored solutions that drive their success and contribute to their growth. Our customer-centric 
+approach and commitment to excellence enable us to foster strong and long-lasting partnerships.
+IV.	 Employees 
+	
+18. 	 Details as at the end of Financial Year: 
+	
+	
+a. 	 Employees and workers (including differently abled):
+S. 
+No.
+Particulars
+Total
+(A)
+Male*
+Female*
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+12,042
+9,068
+75.30
+2,947
+24.47
+2.
+Other than Permanent (E) 
+873
+467
+53.49
+328
+37.57
+3.
+Total employees (D + E)
+12,915
+9,535
+73.83
+3,275
+25.36
+WORKERS
+4.
+Permanent (F)
+0
+0
+0
+0
+0
+5.
+Other than Permanent (G) 
+316
+216
+68.35
+86
+27.22
+6.
+Total workers (F + G)
+316
+216
+68.35
+86
+27.22
+	
+	
+	
+*At Cyient, the choice of revealing the gender and age is left to the associates hired.
+	
+	
+b.	
+Differently abled Employees and worker
+S. 
+No
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+107
+75
+70.09
+32
+29.91
+2.
+Other than Permanent (E) 
+3
+3
+100
+0
+0
+3.
+Total differently abled 
+employees (D + E)
+110
+78
+70.91
+32
+29.09
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+0
+0
+0
+0
+0
+5.
+Other than permanent (G)
+4
+3
+75
+1
+25
+6.
+Total differently abled 
+workers (F + G)
+4
+3
+75
+1
+25
+Annual Report 2022-23
+77
+	
+19. 	 Participation/Inclusion/Representation of women 
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+8
+1
+13
+Key Management Personnel
+14
+1
+7
+	
+20. 	 Turnover rate for permanent employees and workers 
+FY 2022-23
+FY 2021-22
+FY 2020-21
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+32.6
+29.1
+31.8 
+26.50
+27.70
+54
+25.8
+25.2
+25.6
+Permanent Workers
+N.A
+N.A
+N.A
+N.A
+N.A
+N.A
+N.A
+N.A
+N.A
+V. 	 Holding, Subsidiary and Associate Companies (including joint ventures)
+	
+21. 	 (a) 	 Names of holding / subsidiary / associate companies / joint ventures 
+S. 
+No. 
+Name of the holding / subsidiary 
+/ associate companies / joint 
+ventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares 
+held by 
+listed 
+entity
+Does the entity indicated at column 
+A, participate in the Business 
+Responsibility initiatives of the 
+listed entity? (Yes/No) 
+1
+Cyient, Inc. [CI]
+Subsidiary
+100
+No
+2
+Cyient Europe Limited [CEL] 
+Subsidiary
+100
+No
+3
+Cyient GmbH (CG)
+Subsidiary
+100
+No
+4
+Cyient Australia Pty Limited 
+(CAPL)
+Subsidiary
+100
+No
+5
+Cyient KK [CKK]
+Subsidiary
+14*
+No
+6
+Cyient Singapore Pte Limited 
+(CSPL)
+Subsidiary
+100
+No
+7
+Cyient Israel India Limited (CIIL)
+Subsidiary
+100
+No
+8
+Cyient DLM Limited (CDLML)
+Subsidiary
+100
+No
+9
+Cyient Insights Private Limited 
+(CIPL)
+Subsidiary
+100
+No
+10
+Cyient Urban Micro Skill Centre 
+Foundation (CUMSCF)
+Subsidiary
+100
+No
+11
+Citec Engineering India Private 
+Limited (CEIPL)
+Subsidiary
+100
+No
+12
+Cyient Solutions and Systems 
+Private Limited (CSSPL)
+Subsidiary
+51
+No
+13
+Infotech HAL Limited (IHL)
+Joint Venture
+50
+No
+* Remaining 86% is held by CAPL
+VI. 	 CSR Details 
+	
+22.	 (i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) - Yes
+	
+	
+(ii) 	 Turnover ` -  22,279 Mn
+	
+	
+(iii) 	Net worth ` – 27,029 Mn
+Annual Report 2022-23
+78
+VII. 	Transparency and Disclosures Compliances 
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+redressal 
+mechanism 
+in place
+(Yes/No)
+FY  2021-22
+Previous Financial Year
+FY  2022-23
+Current Financial Year
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Investors 
+(other than 
+shareholders)
+Shareholders
+Yes
+141
+Nil
+150
+Nil
+Employees 
+and workers
+Customers
+Value Chain 
+Partners
+1
+Other (please 
+specify)
+	
+24. 	 Overview of the entity’s material responsible business conduct issues 
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach 
+to adapt or mitigate the risk along-with its financial implications, as per the following format
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+(R/O)
+Rationale for identifying
+the risk / opportunity
+In case of risk,
+approach to adapt 
+or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+1
+Renewable 
+Energy
+Opportunity
+Adopting renewable energy sources 
+such as solar, wind power can reduce 
+dependency on non-renewable sources 
+of energy like fossil fuels resulting in cost 
+savings and a more stable energy supply. 
+Renewable energy helps us significantly 
+reduce our emissions which eventually 
+results into reduced cost
+-
+Positive
+Annual Report 2022-23
+79
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+(R/O)
+Rationale for identifying
+the risk / opportunity
+In case of risk,
+approach to adapt 
+or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+2
+Sustainable 
+Supply Chain
+Risk
+The sustainability of Cyient’s supply 
+chain has been recognized as a potential 
+risk, influenced by a range of factors. 
+Noncompliance with sustainable 
+practices by suppliers could directly 
+affect Cyient’s Scope 3 emissions. 
+Furthermore, if any of Cyient’s suppliers 
+fail to comply with regulations, it could 
+have negative impacts on the company’s 
+operations and reputation.
+Our Vendor Code 
+of Conduct (VCoC), 
+Sustainable Supplier 
+Assessment 
+Framework guides 
+us in mitigating the 
+risks from supply 
+chain.  Periodic 
+“Vendor Meets” 
+enable us align our 
+partners with our 
+sustainability goals.
+Negative
+3
+Inclusion and 
+Diversity
+Opportunity
+Diversity and inclusion within our 
+workforce enable us to leverage diverse 
+perspectives, experiences, and ideas, 
+driving innovation, problem-solving, and 
+decision-making. Inclusive practices 
+foster a supportive environment, 
+enhancing employee engagement, 
+productivity, and retention. Additionally, 
+a diverse and inclusive workplace boosts 
+our reputation, attracts top talent, 
+expands our customer base, and fuels 
+business growth and success.
+-
+Positive
+4
+Corporate 
+Social 
+Responsibility
+Opportunity
+Empowering the communities in which 
+we operate provides us an opportunity 
+to contribute to the well-being of 
+society and the environment through 
+various initiatives
+-
+Positive
+5
+Business 
+Ethics
+Risk
+Unethical business practices can lead 
+to legal and regulatory repercussions, 
+including fines and disputes, 
+jeopardizing our financial stability and 
+damaging our reputation. Moreover, 
+they can undermine stakeholder trust, 
+resulting in decreased sales, market 
+share, and ultimately, a bad reputation. 
+Corporate 
+Governance Manual 
+serves as a roadmap 
+for the Board, 
+management, 
+and employees, 
+providing guidance 
+and direction as 
+we pursue our 
+vision, mission, and 
+ESG-driven growth 
+strategy to create 
+long-term value for 
+all stakeholders
+Negative
+Annual Report 2022-23
+80
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+(R/O)
+Rationale for identifying
+the risk / opportunity
+In case of risk,
+approach to adapt 
+or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+6
+Data Privacy
+Risk
+Data privacy violations can lead to 
+legal and financial penalties, damage a 
+company’s reputation, and result in loss 
+of customer and other stakeholder trust 
+and business
+Our robust ‘Data 
+Leak Prevention’ 
+(DLP) tool protects 
+the 
+intellectual property 
+of our customers 
+and us
+Negative
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1. 	 a. 	 Whether your entity’s policy/policies 
+cover each principle and its core 
+elements of the NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+b. 	 Has the policy been approved by the 
+Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+-
+Yes
+Yes
+c. 	 Web Link of the Policies, if available
+Link to Corporate Governance Policies: https://www.cyient.com/investors/corporate-governance/
+2. 	 Whether the entity has translated the 
+policy into procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+-
+Yes
+Yes
+3. 	 Do the enlisted policies extend to your 
+value chain partners? (Yes/No)
+Yes, Cyient and its subsidiaries enforce a Vendor Code of Conduct that 
+applies to all vendors, including sub-vendors and subcontractors, who 
+engage in business relationships with us or represent us. This code 
+encompasses clauses related to governance, environmental practices, and 
+social responsibility.
+4. 	 Name of the national and international 
+codes/certifications/labels/standards 
+(e.g. 
+Forest 
+Stewardship 
+Council, 
+Fairtrade, Rainforest Alliance, Trustea) 
+standards (e.g. SA 8000, OHSAS, ISO, 
+BIS) mapped to each principle.
+Cyient has received certifications for quality management systems aligned 
+with ISO 9001:2015, ISO 27001:2013, AS 9100 DQMS for Aviation, Space 
+& Defense Organizations, ISO 13485:2016 for Medical devices QMS, ISO 
+22163:2017 for International Railway Industry Standards, TL 9000 R 6.0/R 
+5.5V for Telecom QMS, ISO 14001:2015 for Environmental Management 
+System, certified Gold under Indian Green Building Council Leadership in 
+Energy and Environment Design, ISO 45001-2018 for Occupational Health & 
+Safety Management System, and CMMI-DE.
+Annual Report 2022-23
+81
+5.	
+Specific commitments, goals and targets 
+set by the entity with defined timelines, if 
+any.
+Cyient has set ambitious goals that it strives to achieve by 2025 as part 
+of its sustainability framework. These goals are aligned with the pillars of 
+Responsible, Equitable, and Accountable, and reflect our commitment to 
+making a positive impact in the areas covered by our framework.
+Responsible Pillar
+•	
+Carbon and water neutral operations 
+•	
+Zero Waste to Landfill
+•	
+100% Suppliers to be assessed on VCoC
+•	
+To define and measure our success on sustainable solutions designed to 
+support clients, communities, and countries in meeting their sustainable 
+development objectives
+Accountable Pillar
+•	
+Top quartile in stakeholders satisfaction survey
+•	
+Highest levels of governance – beyond compliance
+•	
+Safe and secure stakeholder data
+Equitable Pillar
+•	
+Achieve Gender Balance
+•	
+Continuous employee training & development
+•	
+ZERO loss time incidents across operations
+•	
+To impact 10,000 girl children through education initiatives, 5000 
+youth through skill development programs, over 5000 impacted through 
+community development programs, 25000 impacted through IT literacy 
+initiatives, 5000 beneficiaries through healthcare programs
+6.	
+Performance of the entity against the 
+specific commitments, goals and targets 
+along-with reasons in case the same are 
+not met.
+Yes, the performance related and other relevant details will be disclosed in our 
+Sustainability Report FY 23.
+	
+Governance, leadership and oversight
+7. 	 Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets 
+and achievements (listed entity has flexibility regarding the placement of this disclosure) 
+Cyient is dedicated to its role in creating a better world and upholding its sustainability framework. We prioritize 
+being a responsible, equitable, and accountable organization, with a focus on the well-being of our associates, clients, 
+shareholders, and communities.
+To fulfil our responsibility, we have implemented measures to reduce energy consumption and increase the use of 
+renewable energy sources. We are actively working towards minimizing our carbon footprint through sustainable 
+operational practices. Our efforts also extend to achieving water neutrality by optimizing water usage, implementing 
+recycling and reuse methods, and significantly reducing our reliance on freshwater. We embrace integrated waste 
+management principles, emphasizing the reduction, recycling, and reuse of waste materials to lower both hazardous and 
+non-hazardous waste across our operations.
+Empowering our communities in various aspects, including education, upskilling, healthcare, environmental protection, IT 
+literacy, and social innovation, is an integral part of our growth story. We strive to make a positive impact on the holistic 
+development of our communities.
+Cyient has demonstrated its dedication to sustainability by participating in the Dow Jones Sustainability Index (DJSI), 
+a renowned benchmark for sustainable business practices that generate long-term shareholder value. Our inaugural 
+submission earned us an impressive score of 66, surpassing the industry average in all categories. Within the next two 
+years, we aim to become an industry leader by further enhancing our focus on equality, data transparency, and advocating 
+for human rights.
+Annual Report 2022-23
+82
+We have intensified our efforts in climate strategy and supporting our customers with sustainable offerings, including 
+exploring opportunities in carbon capture technologies. While we have achieved significant progress, we acknowledge 
+that there is still much more to accomplish. Our unwavering commitment to accountability, equity, and responsibility 
+motivates us to persist in our sustainability journey with unwavering determination.
+8. 	 Details 
+of 
+the 
+highest 
+authority 
+responsible 
+for 
+implementation 
+and 
+oversight of the Business Responsibility 
+policy/ policies 
+The Company monitors the implementation of the business responsibility 
+policies through a leadership team chaired by the President – Corporate 
+Functions, PNSV Narasimham. Regular discussions are conducted to discuss 
+the Environment, Social and Governance aspects
+9. 	 Does 
+the 
+entity 
+have 
+a 
+specified 
+Committee of the Board/ Director 
+responsible for decision making on 
+sustainability related issues? (Yes / No). 
+If yes, provide details.
+Yes, at Cyient, we have an ESG Committee that meets at least twice a year 
+to review the company’s performance related to sustainability, diversity 
+and inclusion, and corporate social responsibility matters. The committee 
+is composed of three board members. Its purpose is to support Cyient’s 
+ongoing efforts around environmental, health and safety, inclusion and 
+diversity, sustainability, and other public policy matters.
+10. 	 Details of Review of NGRBCs by the Company: 
+Subject for Review  
+Indicate whether review was 
+undertaken by Director / 
+Committee of the Board/
+Any other Committee
+Frequency
+(Annually/ 	 Half yearly/ Quarterly/  
+Any other – please specify)
+P1 P2 P3 P4 P5 P6 P7 P8 P9 P1 P2 P3 P4 P5 P6 P7 P8 P9
+Performance against above policies and 
+follow up action 
+Committee of the Board:
+ESG Committee, and Risk 
+Management Committee 
+ESG Committee – 
+meets on a need basis 
+Risk Management Committee – 
+meets 3 times in a year
+Compliance with statutory requirements 
+of relevance to the principles, and 
+rectification of any non-compliances 
+Committee of the Board:
+ESG Committee, and Risk 
+Management Committee 
+ESG Committee – 
+meets on a need basis 
+Risk Management Committee – 
+meets 3 times in a year
+11. 	 Has the entity carried out independent 
+assessment/ evaluation of the working of 
+its policies by an external agency? (Yes/
+No). If yes, provide name of the agency. 
+Yes
+12. 	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: 
+Questions 
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles material to its 
+business (Yes/No) 
+No
+The entity is not at a stage where it is in a position to formulate 
+and implement the policies on specified principles (Yes/No) 
+Yes
+The entity does not have the financial or/human and technical 
+resources available for the task (Yes/No) 
+Yes
+It is planned to be done in the next financial year (Yes/No) 
+Yes
+Any other reason (please specify) 
+-
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE 
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key 
+processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential indicators 
+are expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily 
+disclosed by entities which aspire to progress to a higher level in their quest to be socially, environmentally and ethically 
+responsible. 
+Annual Report 2022-23
+83
+Principle 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent 
+and Accountable. 
+Essential Indicators
+1. 	 Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment 
+Total number 
+of training and 
+awareness 
+programmes 
+held
+Topics / principles 
+covered under the training and its impact
+%age of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Board of Directors (BoD)
+1
+Code of Conduct affirmation
+100%
+Key 
+Managerial Personnel 
+(KMPs)
+9
+Training on various topics like Compliance ,Anti-
+trust, Software licenses, Information Security, 
+Cybersecurity, Code of Conduct affirmation, POSH 
+training, sustainability workshop and DEI workshop
+100 %
+Employees other than 
+BoD and KMPs
+22
+Some of the Trainings and awareness programs 
+conducted were listed below:  
+•	
+Business Ethics
+•	
+Diversity and Inclusion
+•	
+Quality, Environmental and Health & Safety 
+(QEHS)
+•	
+Cyber Security 
+•	
+Information 
+Security 
+Awareness 
+Program 
+Intellectual Property Awareness Training
+•	
+Overview of EOHS Management System
+•	
+Prevention of Sexual Harassment (POSH) Quality 
+Management System
+•	
+Sustainable 
+Energy 
+Solutions 
+and 
+Clean 
+Technologies
+100%
+Workers
+-
+-
+-
+2. 	 Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/judicial institutions, in the financial year, in 
+the following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of 
+SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC 
+Principle
+Name of the regulatory/ Enforcement 
+agencies/ judicial institutions
+Amount 
+(In INR)
+Brief of the 
+Case 
+Has an appeal  been 
+preferred? (Yes/No)
+Penalty/ Fine
+NIL
+Settlement
+Compounding fee
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Brief of the 
+Case 
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+NIL
+Punishment
+3. 	 Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or 
+non-monetary action has been appealed. 
+Not Applicable
+Annual Report 2022-23
+84
+4. 	 Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a 
+web-link to the policy. 
+Cyient has a zero-tolerance policy towards bribery, which is in place to comply with anti-corruption laws such as the FCPA 
+and UK Act. We have put in place measures to detect, prevent, and respond to any violations of anti-bribery laws and 
+regulations. Our policy clearly states the consequences for companies and individuals found guilty of engaging in corrupt 
+practices. Our policy is available at: Anti_Corruption_Policy_-_Version_2_0_0704161.pdf (hubspot.net)
+5. 	 Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption.
+FY 2022-23 Current Financial Year
+FY 2021-22 Previous Financial Year
+Directors
+0
+0
+KMPs
+0
+0
+Employees 
+0
+0
+Workers
+0
+0
+6. 	 Details of complaints with regard to conflict of interest:
+FY 2022-23 Current Financial Year
+FY 2021-22Previous Financial Year
+Number 
+Remarks 
+Number 
+Remarks
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+0
+NA
+0
+NA
+Number of complaints received in relation to 
+issues of Conflict of Interest of the KMPs
+0
+NA
+0
+NA
+7. 	 Provide details of any corrective action taken or underway on issues related to fines / penalties /action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.?
+Not Applicable
+Leadership Indicators
+	
+1. 	 Awareness programmes conducted for value chain partners on any of the Principles during the financial year: 
+Total number of awareness 
+programmes held
+Topics / principles covered 
+under the training
+%age of value chain partners covered (by value of business 
+done with such partners) under the awareness programmes
+1
+ESG sensitization work-
+shop for critical suppliers
+Top 100 suppliers*
+* Suppliers shortlisted basis 70 % of total spend
+2. 	 Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? 
+(Yes/No) If Yes, provide details of the same. 
+Yes. Cyient has implemented procedures to prevent or manage conflicts of interest among its Board members. 
+Associates are required to notify local management of any situation that could potentially be a conflict of interest 
+or create the impression of one. In case of any uncertainty, it is recommended to disclose such situations. 
+Moreover, Cyient receives an annual declaration from its board members about their interests in entities, 
+which may change over time. To prevent conflicts of interest, the company ensures that appropriate approvals 
+are obtained in such cases.  Our policy which covers the conflict of interests related clause is available at: 
+(CODE_OF_ETHICS_AND_BUSINESS_CONDUCT).pdf@cyient.com)
+Annual Report 2022-23
+85
+Principle 2:  Businesses should provide goods and services in a manner that is sustainable and safe 
+Essential Indicators
+1. 	 Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively. 
+FY 2022-23
+Current 
+Financial Year
+FY 2021-22
+Previous 
+Financial Year
+Details of improvements in environmental and social impacts
+R&D
+5%
+-
+Our emphasis on digitizing operations, leads to a reduced carbon 
+footprint and enhanced efficiency, thus reflecting our intent to make 
+a positive contribution to the environment and society
+Capex
+4.33%
+4.5%
+Capital expenditures have been allocated towards implementing 
+certain technologies to enhance the environmental sustainability of 
+our operations. These technologies include the installation of solar 
+power systems, EV charging stations, and organic waste composters
+2. 	 Does the entity have procedures in place for sustainable sourcing? (Yes/No) b. If yes, what percentage of inputs 
+were sourced sustainably? 
+We have developed a Sustainable Supplier Assessment Framework. To begin, we identified the suppliers critical 
+to our operations and sensitized them about sustainability and ESG aspects. Subsequently, we distributed 
+sustainable supplier questionnaires to all suppliers. Their responses will undergo thorough auditing before being 
+assessed and rated. Our supply chain strategy at Cyient focuses on minimizing our impact on the environment and 
+the community. By localizing material sourcing, we have significantly reduced our carbon footprint while fostering 
+inclusive economic opportunities for community development.
+3. 	 Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end 
+of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+This metric is not relevant to Cyient as our main business is providing engineering services, and it does not involve 
+the manufacturing of any product.
+4. 	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). 
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan 
+submitted to Pollution Control Boards? If not, provide steps taken to address the same.
+Not Applicable
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format? 
+No, we have not conducted Life Cycle Assessment for any of our services.
+NIC Code 
+Name of 
+Product /
+Service
+% of total 
+Turnover 
+contributed
+Boundary for which the 
+Life Cycle Perspective 
+/ Assessment was 
+conducted 
+Whether conducted by 
+independent external 
+agency 
+(Yes/No)
+Results communicated 
+in public domain (Yes/
+No) If yes, provide the 
+web-link. 
+Not Applicable
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, 
+briefly describe the same along-with action taken to mitigate the same. 
+Not Applicable
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry). 
+This metric is not relevant to Cyient as our main business is providing engineering services, and it does not involve the 
+manufacturing of any product.
+Annual Report 2022-23
+86
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tons) reused, recycled, and 
+safely disposed of. 
+This metric is not relevant to Cyient as our main business is providing engineering services, and it does not involve the 
+manufacturing of any product.
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+This metric is not relevant to Cyient as our main business is providing engineering services, and it does not involve the 
+manufacturing of any product.
+Principle 3: Businesses should respect and promote the well-being of all employees, including those in their value chains 
+Essential Indicators
+1.	
+a. 	 Details of measures for the well-being of employees.
+Category
+% of employees covered by 
+Total
+(A)
+Health insurance Accident insurance Maternity benefits Paternity  Benefits Day Care facilities 
+No.
+(B)
+%
+(B/ A)
+No.
+(C)
+%
+(C/A)
+No.
+(D)
+% (D/A)
+No.
+(E)
+%
+(E/ A)
+No.
+(F)
+%
+(F/ A)
+Permanent employees
+Male
+9068
+8354
+92
+9068
+100
+-
+-
+9068
+100
+-
+-
+Female
+2947
+2300
+78
+2947
+100
+2947
+100
+-
+-
+-
+-
+Total
+12042
+10654
+88
+12042
+100
+2947
+100
+9068
+100
+-
+-
+Other than Permanent employees
+Male
+467
+22
+5
+24
+5
+-
+-
+-
+-
+-
+-
+Female
+328
+11
+3
+13
+4
+-
+-
+-
+-
+-
+-
+Total
+873
+33
+4
+37
+4
+-
+-
+-
+-
+-
+-
+b. 	 Details of measures for the well-being of workers: 
+Category 
+% of workers covered by
+Total
+(A)
+Health
+insurance
+Accident
+insurance
+Maternity
+benefits
+Paternity
+Benefits
+Day Care
+facilities
+No. (B) 
+% 
+(B/A)
+No. 
+(C)
+% 
+(C/A)
+No. 
+(D)
+% 
+(D/A)
+No. 
+(E)
+% 
+(E/A)
+No. 
+ (F)
+%
+ (F/A)
+Permanent workers
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other than Permanent workers
+Male
+216
+216
+100
+216
+100
+-
+-
+216
+100
+-
+-
+Female
+86
+86
+100
+86
+100
+86
+100
+-
+-
+-
+-
+Total
+316
+316
+100
+316
+100
+86
+100
+216
+100
+-
+-
+2. 	 Details of retirement benefits.
+Benefits
+FY 2021-22
+(Previous Financial Year)
+FY 2022-23
+(Current Financial Year)
+No.of employees 
+covered as a % of 
+total 
+employees 
+No.of workers 
+covered as a % 
+of total 
+workers 
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No.of employees 
+covered as a % of 
+total 
+employees
+No. of workers 
+covered as a % 
+of total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+98.74
+0
+Y
+96.63
+0
+Y
+Gratuity
+98.74
+0
+Y
+96.63
+0
+Y
+ESI
+24.06
+0
+Y
+18.13
+0
+Y
+Others - pls specify
+-
+-
+-
+-
+-
+-
+Annual Report 2022-23
+87
+3.	
+Accessibility of workplaces: Are the premises / offices of the entity accessible to differently abled employees and 
+workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are 
+being taken by the entity in this regard.
+Yes, our offices are accessible to differently abled employees and workers, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016. We conduct sensitization and awareness programs for our managers and senior 
+leaders to facilitate the inclusion of such employees within our organization and cater to their specific requirements, 
+such as accessibility and accommodation.
+4. 	 Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy. 
+At Cyient, we believe in providing equal opportunities to all individuals. We do not discriminate against employees, 
+associates, or job applicants based on characteristics such as age, race, color, religion or creed, sex (including pregnancy), 
+marital status, military or veteran status, disability (mental or physical), national or ethnic origin, citizenship status, 
+social origin (including caste), gender identity or expression, sexual orientation, protected genetic information, or any 
+other characteristic protected by law. Our Code of Ethics and Business Conduct includes a section that emphasizes 
+our commitment to Equal Employment Opportunities and Anti-Discrimination. Additionally, we have partnered with an 
+external agency to provide employment opportunities for people with disabilities, which is an institutionalized initiative 
+at Cyient. This agency trains and connects potential employers, including Cyient, with skilled individuals. The Equal 
+Employment Opportunities related policy can be accessed on our website -  
+	
+	
+Code of Ethics and Business Conduct, 
+	
+	
+Human Rights Policy
+5. 	 Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender 
+Permanent employees 
+Permanent workers
+Return to work rate
+Retention rate 
+Return to work rate
+Retention rate
+Male
+100%
+92.50%
+-
+-
+Female
+99.10%
+58.02%
+-
+-
+Total
+99.82%
+81.32%
+-
+-
+6. 	 Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+workers? If yes, give details of the mechanism in brief. 
+(If Yes, then give details of the mechanism in brief) 
+Permanent Workers
+An efficient grievance redressal system has been set up at Cyient. We also 
+have an efficient whistleblower mechanism that empowers associates of the 
+company, 
+including subsidiaries, to approach the Ombudsperson of the company and 
+make protective disclosures about unethical behavior and actual or suspected 
+fraud. Further, an Internal Complaints Committee is also present, as required by 
+law Cyient conducts regular site visits by management and undertakes annual 
+opinion surveys with its associate community, which provides a mechanism 
+for individual issues to be reported. We also have an anonymous, confidential, 
+external whistleblowing hotline through which specific concerns can be raised.
+Other than Permanent Workers
+Permanent Employees
+Other than Permanent Employees
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2021-22 Previous Financial Year
+FY 2022-23 Current Financial Year
+Total
+employees 
+/ workers in 
+respective 
+category
+(A) 
+No. of employees 
+/ workers in 
+respective category, 
+who are part of 
+association(s) or
+Union (B)
+% 
+(B/A)
+Total 
+employees / 
+workers in
+respective 
+category
+(C)   
+No. of employees 
+/ workers in 
+respective category, 
+who
+are part of
+association(s) or 
+Union (D)
+% 
+(D/C)
+Annual Report 2022-23
+88
+Total  Permanent 
+Employees
+10,955
+0
+-
+12,042
+0
+-
+Male
+8,396
+0
+-
+9,068
+0
+-
+Female
+2,512
+0
+-
+2,947
+0
+-
+Total Permanent 
+Workers
+-
+0
+-
+0
+-
+-
+Male
+-
+0
+-
+0
+-
+-
+Female
+-
+0
+-
+0
+-
+-
+8. 	 Details of training given to employees and workers: 
+Category 
+FY 2021-22
+Previous Financial Year 
+FY 2022-23
+Current Financial Year
+Total 
+(A)
+On Health and 
+safety measures 
+On Skill 
+upgradation
+Total 
+(D)
+On Health and 
+safety measures 
+On Skill 
+upgradation
+No. 
+(B)
+% (B/A)
+No. 
+(C)
+% (C/A)
+No. 
+(E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+9,285
+130
+1.40
+6,043
+65.08
+9,535
+3,947
+41.39
+8,498
+89.12
+Female
+3,122
+17
+0.54
+1,941
+62.17
+3,275
+1,306
+39.88
+2,393
+73.07
+Total
+12,518
+147
+1.17
+7,977
+63.72
+12,915
+5,257
+40.70
+10,891
+84.33
+Workers*
+Male
+157
+-
+-
+-
+-
+216
+-
+-
+-
+-
+Female
+63
+-
+-
+-
+-
+86
+-
+-
+-
+-
+Total
+311
+-
+-
+-
+-
+316
+-
+-
+-
+-
+*During FY 22, most of our associates were working from home due to pandemic, hence minimal number of health and 
+safety trainings were conducted
+(i) At Cyient, the choice of revealing the gender and age is left to the associates hired
+(ii) Project specific skill trainings are provided to workers
+9. 	 Details of performance and career development reviews of employees and worker:
+Category
+FY 2021-22 Previous Financial Year 
+FY 2022-23 Current Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+9,285
+5,597
+60
+9,535
+7,253
+76
+Female
+3,122
+1,662
+53
+3,275
+2,300
+70
+Total
+12,518
+7,344
+59
+12,915
+9,553
+74
+Workers
+Male
+157
+-
+-
+216
+-
+-
+Female
+63
+-
+-
+86
+-
+-
+Total
+311
+-
+-
+316
+-
+-
+*At Cyient, the choice of revealing the gender and age is left to the associates hired
+10. 	 Health and safety management system: 
+a. 	 Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If 
+yes, what is the coverage of such a system?
+Yes. 80% of our offices have implemented occupational health and safety management system and are 
+EMS ISO 45001:2018  certified. 
+Annual Report 2022-23
+89
+b. 	 What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis 
+by the entity? 
+Cyient identifies hazards and risks in accordance with the Aspect Impact, Hazard Identification, and Risk Assessment 
+(AIHIRA) Process to fulfil applicable environmental standards and any other compliance requirements. The process 
+assesses potential environmental risks and their impacts on our operations and prescribes measures to prevent or 
+minimize them. It includes mechanisms for reviewing the effectiveness of our efforts in line with our organizational 
+objectives.
+c. 	 Whether you have processes for workers to report the work-related hazards and to remove themselves from such 
+risks. 
+Yes. We have updated the incident management process and online EHS incident reporting tool to strengthen the 
+system and make reporting easier. The fire and safety teams receive immediate notifications of any incidents. Individuals 
+or teams reporting the incidents receive emails at the outset of the investigation and are continuously updated on the 
+measures taken. The procedure is concluded only after informing the relevant individuals of the outcome.
+d. 	 Do the employees/ workers of the entity have access to non-occupational medical and healthcare services? 
+We provide free medical checkups for our associates on a regular basis to make sure they are in excellent health and 
+in the right frame of mind to give Cyient and our stakeholders their very best work. It is mandatory for our vendors to 
+adopt similar measures in their operational settings to ensure a safe and healthy value chain with minimal disruptions. 
+We have enhanced our transportation and security systems to provide additional protection to our associates during 
+their commutes to work.
+11. 	 Details of safety related incidents, in the following format: 
+Safety Incident/Number
+Category
+FY 2022-23 (Current 
+Financial Year) 
+FY 2021-22 (Previous 
+Financial Year) 
+Lost Time Injury Frequency Rate (LTIFR)  
+(per one million-person hours worked)
+Employees
+Nil
+Nil
+Workers
+Total recordable work-related injuries
+Employees
+Workers
+No. of fatalities 
+Employees
+Workers
+High consequence work-related injury or ill-
+health (excluding fatalities)
+Employees
+Workers
+12. 	 Describe the measures taken by the entity to ensure a safe and healthy workplace. 
+Every Cyient facility is equipped with essential emergency equipment, including automated external defibrillators (AEDs) 
+and fire evacuation chairs designed for navigating stairs. Our associates have access to the EOHS incident report tool on 
+MyCyient.com, enabling them to anonymously report health and safety concerns or incidents. We provide an e-learning 
+module on Environmental, Occupational Health and Safety (EOHS) and actively encourage associates to complete it. 
+Regular communication mailers on various health and safety topics such as heat stress, ergonomics, road safety, and 
+holiday safety are released. HR Business Partners organize Well-Being-Wednesday programs focusing on health-related 
+issues for all associates. Additionally, significant Health and Safety communication posters are prominently displayed 
+across our facilities.
+13. 	 Number of complaints on the following made by employees and workers
+FY 2021-22
+Previous Financial Year 
+FY 2022-23
+Current Financial Year 
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of year 
+Remarks
+Working Conditions
+0
+N.A
+N.A
+0
+N.A
+N.A
+Health & Safety
+0
+N.A
+N.A
+0
+N.A
+N.A
+Annual Report 2022-23
+90
+14. 	 Assessments for the year
+At Cyient for every facility we conduct Internal Environmental, Health and Safety Audits at a frequency of every 6 months. 
+And once in a year we have external certification/ surveillance audits.
+% of your plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks / concerns arising from assessments of health & safety practices and working conditions.
+During the audit three minor nonconformity reports were raised. Those were duly addressed
+Leadership Indicators
+1. 	 Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) 
+Workers (Y/N).  
+	
+Yes, we provide support to our employees in the event of death.
+2. 	 Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the 
+value chain partners. 
+Our Vendor Business Code of Conduct incorporates a provision that obligates suppliers to comply with all pertinent laws 
+and regulations, as well as our extensive Vendor Business Code of Conduct. Vendors must maintain accurate books and 
+records that comply generally accepted accounting principles and applicable laws and regulations.
+3.	
+Provide the number of employees / workers having suffered high consequence work related injury / ill-health / fatalities 
+(as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable employment or 
+whose family members have been placed in suitable employment: 
+Total no. of affected employees/ workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose family 
+members have been placed in suitable employment
+FY 2021-22
+Previous Financial Year
+FY 2022-23
+Current Financial Year
+FY 2021-22
+Previous Financial Year
+FY 2022-23
+Current Financial Year
+Employees
+0
+0
+0
+0
+Workers
+0
+0
+0
+0
+4. 	 Does the entity provide transition assistance programs to facilitate continued employability and the management of 
+career endings resulting from retirement or termination of employment? (Yes/ No) 
+	
+Yes, we provide transition assistance programs.
+5. 	 Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that 
+were assessed
+Health and safety conditions
+—
+Working conditions 
+—
+6. 	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+	
+Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity. 
+Cyient has identified its key internal and external stakeholders through a deliberate and comprehensive process, 
+involving both the board and management team. This process involved assessing various stakeholder groups and 
+evaluating their potential impact on the company. The importance of each group was carefully considered through a 
+series of deliberations, taking into account factors such as their influence and potential impact.
+Annual Report 2022-23
+91
+To ensure the long-term success of the company and build strong relationships with stakeholders, continuous 
+engagement and monitoring is critical. By doing so, Cyient was able to better identify and meet the needs and 
+expectations of its key stakeholders and adapt to changing circumstances. This approach helps Cyient to maintain a 
+strong reputation and build trust with its stakeholders, while also positioning the company for long-term growth and 
+success.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group. 
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group 
+(Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of engagement 
+(Annually/ Half yearly/ 
+Quarterly / others – 
+please specify)
+Purpose and scope 
+of engagement 
+including key topics 
+and concerns 
+raised during such 
+engagement
+Investors
+No
+•	
+Annual General Meeting 
+•	
+Quarterly Meetings 
+•	
+Annual Report & 
+Sustainability Report
+•	
+Shareholder information 
+•	
+on website 
+•	
+Timely response to 
+shareholder queries
+•	
+Cyient’s Internal Newsletter 
+‘Communique’
+•	
+Press release
+Annually/ Half yearly/ 
+Quarterly/ Need Basis
+Financial and 
+Sustainability 
+performance of the 
+organisation
+Employees
+No
+•	
+Associate surveys
+•	
+Cyient’s Internal Newsletter 
+‘Communique’
+•	
+Annual Report & 
+Sustainability Report
+•	
+Press release
+Quarterly, Half yearly/ 
+Continuous
+Associate 
+Engagement, 
+Learning & 
+development
+Senior 
+Management
+No
+•	
+Associate surveys
+•	
+Cyient’s Internal Newsletter 
+‘Communique’
+•	
+Annual Report & 
+Sustainability Report
+Annually/ Half yearly/ 
+Quarterly/ Need Basis
+Board Evaluation, 
+Discussions
+Local
+Community
+Yes
+•	
+Community workshops
+•	
+Press releases
+Annually/ Half yearly/ 
+Quarterly/ Need Basis/ 
+Continuous
+Education & IT
+Literacy, Skill 
+Development,
+Innovation & 
+Infrastructure, 
+Healthcare, 
+Community 
+Development
+Suppliers
+No
+•	
+Supplier Workshops
+•	
+Annual 
+Report 
+& 
+Sustainability Report
+•	
+Cyient’s Internal Newsletter 
+‘Communique’
+•	
+Social media platforms such 
+as LinkedIn, and Twitter
+Annually/ Half yearly/ 
+Quarterly/ Need Basis/ 
+Continuous
+Business related 
+discussions, 
+awareness 
+workshop on 
+sustainability 
+Annual Report 2022-23
+92
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and 
+social topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+At Cyient, we prioritize stakeholder consultation on economic, environmental, and social topics to ensure a 
+comprehensive approach to our Environmental, Social, and Governance (ESG) framework. We engage in careful 
+deliberations with the Cyient board and management to identify our key internal and external stakeholders, which 
+include Investors, Employees, Clients, Senior Management, Leadership, Community, and Suppliers. Through this 
+inclusive approach, we gather valuable insights and feedback from our stakeholders. These inputs are integrated 
+into our decision-making processes, allowing us to align our business imperatives with the critical needs of our 
+stakeholders and the broader society. This information serves as a crucial input for informed decision-making, 
+enabling us to navigate economic, environmental, and social considerations responsibly and sustainably.
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and 
+social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on 
+these topics were incorporated into policies and activities of the entity.
+Yes, to support the identification and management of material topics related to environment and social, we utilize 
+stakeholder consultation in a 5-step process:
+1.	
+Universe of Issues: We prepared an exhaustive list of environmental, economic, and social issues aligned with 
+industry specific ESG standards.
+2.	
+Business Objectives: We examined broad issues relevant to revenue goals, business continuity, operating 
+costs, brand equity, and overall business goals.
+3.	
+Risk Assessment: We evaluated the universe of issues in the context of inherent and external risks, prioritizing 
+them by potential impact on the business and our preparedness to address them.
+4.	
+Stakeholder Engagement: We sought opinions from internal and external stakeholders about the criticality of 
+identified issues and weighted stakeholder responses vis-à-vis their influence on our business.
+5.	
+External Requirements: We benchmarked listed issues against other reporting frameworks, such as UN 
+SDGs, National Voluntary Guidelines (NVGs), and Dow Jones Sustainability Index.
+Our sustainability interventions focus on material issues identified through this calibrated approach, helping 
+us achieve our sustainability goals and better understand our stakeholders’ needs.
+3. 	 Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups. 
+Cyient actively engages with the community on a regular basis, focusing on areas such as community development, 
+environmental initiatives, skill development, and IT literacy programs. Any concerns that arise are promptly addressed 
+and discussed in a timely manner.
+	
+	
+Principle 5: Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, 
+in the following format: 
+While formal Human Rights training has not been conducted, we prioritize human rights principles within our code 
+of conduct affirmation.
+Annual Report 2022-23
+93
+Category
+FY 2022-2023
+FY 2021-2022
+Total 
+(A)
+No. of employees 
+/ workers cov-
+ered (B)
+% (B/A) 
+Total (C)
+No. of employees 
+/ workers covered 
+(D)
+% 
+(D/C)
+Employees
+Permanent
+12,042
+12,042
+100
+10,955
+10,955
+100
+Other than permanent 
+873
+873
+100
+1,563
+1,563
+100
+Total employees
+12,915
+12,915
+100
+12,518
+12,518
+100
+Workers
+Permanent
+0
+0
+100
+0
+0
+100
+Other than permanent 
+316
+316
+100
+311
+311
+100
+Total workers 
+316
+316
+100
+311
+311
+100
+	
+	
+	
+CoC affirmation, updated every year based on regulatory changes etc.,
+2. 	 Details of minimum wages paid to employees and workers, in the following format
+Category
+FY 2022-2023 Current Financial Year
+FY 2021-22 Previous Financial Year
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to 
+Minimum Wage
+More than
+Minimum Wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% 
+(E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+Male
+9068
+-
+-
+9068
+100
+8396
+-
+-
+8396
+100
+Female
+2947
+-
+-
+2947
+100
+2512
+-
+-
+2512
+100
+Other than
+Permanent
+Male
+467
+-
+-
+467
+100
+889
+-
+-
+889
+100
+Female
+328
+-
+-
+328
+100
+610
+-
+-
+610
+100
+Workers
+Permanent
+Male
+0
+-
+-
+0
+100
+0
+-
+-
+0
+100
+Female
+0
+-
+-
+0
+100
+0
+-
+-
+0
+100
+Other than
+Permanent
+Male
+216
+216
+100
+-
+-
+157
+157
+100
+-
+-
+Female
+86
+86
+100
+-
+-
+63
+63
+100
+-
+-
+	
+3. 	 Details of remuneration/salary/wages, in the following format: 
+Employees other than BoD and KMP:
+Male
+Female
+Number
+Median remu-
+neration/ salary/ 
+wages of respective 
+category
+Number
+Median remu-
+neration/ salary/ 
+wages of respective 
+category 
+Board of Directors (BoD)
+7
+as per Board’s report
+1
+as per Board’s report
+Key Managerial Personnel*
+6
+2,56,41,400
+1
+-
+Employees other than BoD 
+and KMP
+9,476
+7,45,626
+3,019
+4,57,724
+Workers**
+216
+-
+86
+-
+Annual Report 2022-23
+94
+*We are reporting the median remuneration of Key Management Personnel’s (KMP) operating from India only. Due to 
+confidentiality and the presence of only one female KMP, we are unable to disclose the median remuneration
+**As our workers are paid by a third-party, we do not engage in active tracking of their remuneration
+4. 	 Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No) 
+Yes, our head of ESG and DEI monitors these issues.  Also, we have a panel of leaders that manages and reports on all 
+whistleblower complaints.  These complaints are also tracked by the board.
+5. 	 Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+At Cyient, an effective grievance redressal procedure has been established to ensure that compliance guidelines and 
+human rights concerns are upheld throughout the company. Additionally, we have a successful whistleblower procedure 
+that enables our employees , including subsidiaries, to contact the Ombudsperson and make confidential disclosures 
+regarding unethical behaviour and actual or suspected fraud. Also, there is an internal complaints committee, as 
+mandated by law. There is a whistleblower hotline outside of Cyient that is anonymous, confidential, and accessible.
+	
+6. 	 Number of Complaints on the following made by employees and workers:  
+FY 2022-2023
+Current Financial Year
+FY 2021-2022
+Previous Financial Year
+Filed during 
+the year
+Pending 
+Resolution 
+at the end of 
+year
+Remarks 
+Filed during 
+the year
+Pending 
+Resolution 
+at the end of 
+year
+Remarks
+Sexual Harassment
+0
+N.A
+N.A
+0
+N.A
+N.A
+Discrimination at 
+workplace
+0
+N.A
+N.A
+0
+N.A
+N.A
+Child Labour
+0
+N.A
+N.A
+0
+N.A
+N.A
+Forced Labour/
+Involuntary Labour
+0
+N.A
+N.A
+0
+N.A
+N.A
+Wages
+0
+N.A
+N.A
+0
+N.A
+N.A
+Other human rights 
+related issues
+-
+-
+N.A
+0
+N.A
+N.A
+7. 	 Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases. 
+We undertake efforts to ensure that all relevant stakeholders are aware of the Cyient Business Code of Conduct 
+and Human Rights Policies and are aware that any complaint that violates those policies will be investigated. We are 
+dedicated to fostering an environment at work where associates can do their jobs without fearing discrimination, 
+gender bias, or sexual harassment. 
+All employees have the right to be treated with respect, and if sexual harassment occurs at work or elsewhere that 
+involves employees, it is a serious offence that must be punished. A committee has been established by management 
+to investigate and address sexual harassment complaints. At each of the company’s locations, the Chairman and 
+Managing Director may establish the committees that may be necessary to fulfil the requirements of the Act.
+	
+8. 	 Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+Yes, human rights requirements are part of our business and contracts, through our Vendor Code of Conduct. We 
+expect of our vendors that they uphold and advocate the protection of the internationally recognized principles of 
+human rights and that they refrain from engaging in violations of those principles. 
+Annual Report 2022-23
+95
+	
+9. 	 Assessments of the year
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labour 
+-	
+Forced/involuntary labour 
+Sexual harassment 
+Discrimination at workplace 
+Wages 
+Others – please specify
+10. 	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above. 
+Not Applicable
+Leadership Indicators
+1.	
+ Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints. 
+Modifications were made in our talent management process to ensure we represent all of our associates. Cyient has an 
+effective grievance redressal system that ensures compliance with human rights issues and regulatory requirements 
+throughout the organization.
+	
+2. 	 Details of the scope and coverage of any Human rights due diligence conducted
+Cyient intends to conduct a comprehensive human rights assessment with global coverage in the upcoming years.
+3.	
+ Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+Yes, the company comply with the Rights of persons with disabilities act. This indicates the company’s commitment to 
+fostering inclusive workplaces that are accommodating to every individual. In order to incorporate these associates into 
+the organisation and address their unique needs, such as accessibility and accommodation, we conduct sensitization 
+and awareness exercises for our managers and senior leaders.
+	
+4. 	 Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were 
+assessed 
+Sexual harassment  
+100% of our suppliers were evaluated in FY23 basis our Vendor Code of Conduct 
+which has several clauses on Labor Practices and Human Rights like Child Labour, 
+Freedom of Association, Working hours, Wage and Benefits, Forced or compulsory 
+labour, Lawful Employment, Non-Discrimination and Harassment
+Discrimination at workplace 
+Child labour 
+Forced/involuntary labour 
+Wages 
+Others – please specify
+5. 	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above. 
+We conducted evaluations of all our suppliers in accordance with our Vendor Code of Conduct. Suppliers who did not 
+meet the compliance requirements are provided with support and assistance to help them align with the code.
+Principle 6:  Businesses should respect and make efforts to protect and restore the environment 
+Essential Indicators
+1. 	 Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format: 
+Parameter 
+FY 2022-23 (Current 
+Financial Year)
+FY 2021-22 (Previous 
+Financial Year)
+Total electricity consumption (A)
+45,637 GJ
+33,545
+Total fuel consumption (B)
+3,310 GJ
+2,568 GJ
+Annual Report 2022-23
+96
+Energy consumption through other sources (C)
+22,722 GJ
+17,992 GJ
+Total energy consumption (A+B+C)
+71,670 GJ
+54,107 GJ
+Energy intensity per Crore of turnover 
+(Total energy consumption (Kilo Joules) / turnover in crore rupees)
+32 GJ/INR Cr
+30 GJ/INR Cr
+Note : Row C indicates the Roof Top Solar Energy.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency. 
+Yes, our FY22 data has received a limited assurance from TUVI, and we are currently in the process of obtaining the same 
+for FY23.
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have 
+been achieved. In case targets have not been achieved, provide the remedial action taken, if any. 
+No, the organization is not classified as a designated consumer for the Performance, Achieve, and Trade (PAT) program 
+administered by the Bureau of Energy Efficiency (BEE).
+3. 	 Provide details of the following disclosures related to water, in the following format:
+Parameter 
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Water withdrawal by source (in kilolitres)
+(i) 	 Surface water
+0
+0
+(ii) 	 Groundwater*
+5891
+-
+(iii)    Third party water (Municipal water supplies)
+68,355
+51,418
+(iv)   Seawater / desalinated water
+0
+0
+(v)   Others 
+-
+-
+Total volume of water withdrawal (in kiloliters) (i + ii + iii + iv + v)
+74,246
+51,418
+Total volume of water consumption (in kiloliters) *
+74,246
+51,418
+Water intensity per crore of turnover (Water consumed / turnover 
+in crores)
+33/KL ` Cr
+29 KL/ ` Cr
+*Flowmeter for water withdrawal from borewell was installed at Warangal office during FY 23
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.
+Yes, our FY22 data has received a limited assurance from TUVI, and we are currently in the process of obtaining the same 
+for FY23.
+4. 	 Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation. 
+No, however, the wastewater generated at our sites is treated through the sewage treatment plants (STPs) and the recycled 
+water is used for sanitation and gardening purposes.
+5. 	 Please provide details of air emissions (other than GHG emissions) by the entity, in the following format: 
+Parameter 
+Please specify unit 
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+NOx 
+kg/yr
+374
+-
+SOx 
+kg/yr
+141
+-
+Particulate matter
+-
+-
+-
+Persistent organic pollutants (POP) 
+-
+-
+-
+Volatile organic compounds (VOC) 
+-
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.   No
+Annual Report 2022-23
+97
+6. 	 Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its  intensity, in the following format: 
+Parameter
+Unit
+FY 2022-23 (Current 
+Financial Year)
+FY 2021-22 (Previous 
+Financial Year)
+Total Scope 1 emissions (Break-up of 
+the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tons of CO2 
+equivalent
+2409
+1150
+Total Scope 2 emissions (Break-up of 
+the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tons of CO2 
+equivalent
+10502.56
+7381
+Total Scope 1 and Scope 2 emissions 
+per Crore of turnover
+tCO2 /INR Cr
+5.79
+4.87
+As a service company, Cyient does not consider air emissions to be of substantial concern because they occur from the 
+DG set intermittently.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+Yes, our air emissions data is evaluated and certified by Vison Labs.
+7. 	 Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details. 
+Yes, we are committed to reducing greenhouse gas (GHG) emissions in our operations. To achieve this goal, we have 
+implemented several projects aimed at increasing our utilization of renewable energy sources. For example, we have installed 
+solar panels with capacities of 100kWp in Kakinada, 240 kWp in Vizag, 100kWp in Warangal, and 140 kWp in Madhapur. At our 
+Bangalore and Manikonda locations, over 80% of the energy consumed is derived from solar power. Additionally, we have 
+set up EV charging stations for both two-wheelers and four-wheelers at our Manikonda, Madhapur, and Bangalore locations 
+to encourage our associates to use electric vehicles. These projects are a testament to our commitment to reducing GHG 
+emissions and promoting sustainable practices.
+8. 	 Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Total Waste generated (in metric tons)
+Plastic waste (A)
+0.09
+0.50
+E-waste (B)
+7.83
+10.96
+Bio-medical waste (C)
+0
+0
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+21.28
+22.38
+Radioactive waste (F)
+0
+0
+Other Hazardous waste  (G) (DG set lube oil)
+0.6
+0.77
+Other Non-hazardous waste generated (H) (Paper 
+waste, Food waste, Metal & scrap, miscellaneous scarp)
+61.30
+20.60
+Total (A+B + C + D + E + F + G + H) 
+91.09
+55.21
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tons)
+Category of waste
+(i) 	 Recycled
+(ii) 	 Re-used
+(iii) 	 Other recovery operations
+Total 
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tons)
+Annual Report 2022-23
+98
+Category of waste
+(i) 	 Incineration
+(ii) 	 Landfilling
+(iii) 	 Other disposal operations* 
+91.09
+55.21
+Total
+* Hazardous, Non- Hazardous, E-waste and Battery waste generated are safely disposed to PCB authorized vendors.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.
+Yes, our FY22 data has received a limited assurance from TUVI, and we are currently in the process of obtaining the same 
+for FY23.
+9.  	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+your company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes.
+At our organization, we prioritize waste management practices to minimize our impact on the environment. 
+We have established a system of segregated bins for different types of waste, including recyclable materials, organic 
+waste, and non-recyclable waste. Our primary sources of waste, such as e-waste and computer peripherals, are collected 
+and safely stored for three years before being disposed of through Pollution Control Board (PCB) authorized vendors. We 
+also work with authorized vendors for paper waste management practices and use notepads made from recycled papers. 
+Additionally, we have installed organic waste converters (OWCs) to manage food and garden waste, which process the waste 
+and convert it into compost used for gardening and landscaping. Our associates are encouraged to avoid using hazardous 
+and non-biodegradable products, and we periodically send awareness emails to reinforce this message.
+To ensure that we comply with our waste management practices, we have implemented strict security measures at our 
+main gate. Vendors are checked and stopped if they do not follow our waste management practices, and we encourage the 
+use of biodegradable products. Finally, we treat wastewater generated at our establishments through a Sewage Treatment 
+Plant (STP) to ensure it meets the necessary standards before being discharged.
+Cyient minimizes the usage of toxic chemicals, including those in STP and cleaning processes. We dilute chemicals to 
+reduce their concentrations, ensuring safer handling. Furthermore, all chemicals used at Cyient are certified by authorized 
+agencies, providing assurance of their quality and compliance.
+10. 	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details in the following format: 
+As a responsible organization, we are aware of the importance of environmental conservation and are committed to 
+minimizing our impact on the environment and protecting natural habitats. Therefore, we do not conduct any activities or 
+operations in areas that are considered ecologically sensitive.
+S. 
+No.
+Location of  
+operations/offices
+Type of 
+operations
+Whether the conditions of environmental approval / clearance are 
+being complied with? (Y/N) If no, the reasons thereof and corrective 
+action taken, if any.
+NA
+11. 	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year: 
+We have not conducted the environmental impact assessments (EIA) of our operations and as per the Environmental 
+Impact Assessment (“EIA”) notification 2006, the company is not required to comply with certain environmental regulations 
+or assessments. 
+12. 	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and 
+rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format: 
+Yes, Cyient is fully compliant with all applicable environmental laws, regulations, and guidelines in India. 
+Annual Report 2022-23
+99
+S.  
+No. 
+Specify the law / regulation 
+/ guidelines which was not 
+complied with
+Provide details of the 
+non-compliance
+Any fines / penalties / action taken 
+by regulatory agencies such as 
+pollution control boards or by courts
+Corrective action 
+taken, if any
+NA
+Leadership Indicators
+1. 	 Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, 
+in the following format:
+Parameter
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+From renewable sources
+Total electricity consumption (A)
+22722 GJ
+17992 GJ
+Total fuel consumption (B)
+0
+0
+Energy consumption through other sources (C)
+0
+0
+Total energy consumed from renewable sources (A+B+C)
+22722 GJ
+17992 GJ
+From non-renewable sources
+Total electricity consumption (D)
+45637 GJ
+33545 GJ
+Total fuel consumption (E)
+3310 GJ
+2568 GJ
+Energy consumption through other sources (F)
+0
+0
+Total energy consumed from non-renewable sources (D+E+F)
+48947 GJ
+36113 GJ
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+Yes, our FY22 data has received a limited assurance from TUVI, and we are currently in the process of obtaining the 
+same for FY23.
+	
+2. 	 Provide the following details related to water discharged: 
+Parameter
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Water discharge by destination and level of treatment (in kilo liters)
+(i) 	 To Surface water
+0
+0
+- No treatment
+- With treatment – please specify level of treatment
+(ii) 	 To Groundwater
+- No treatment
+- With treatment – please specify level of treatment
+(iii) 	 To Seawater
+0
+0
+- No treatment
+- With treatment – please specify level of treatment
+(iv) 	 Sent to third-parties 
+Water discharge in the majority of our sites is 
+directed to Centralized Sewage Treatment Plants 
+(CSTPs).
+- No treatment
+- With treatment – please specify level of treatment
+(v) 	 Others
+- No treatment
+- With treatment – Tertiary treatment at our in house STP*
+18,286
+12,316
+Total water discharged (in kilo liters) 
+18,286
+12,316
+*For FY 22, the data is reported for three locations whereas for FY 23, the data is reported for four locations.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+Yes, our FY22 data has received a limited assurance from TUVI, and we are currently in the process of obtaining the 
+same for FY23.
+Annual Report 2022-23
+100
+	
+3.	
+ Water withdrawal, consumption and discharge in areas of water stress (in kilo liters): 
+	
+	
+For each facility / plant located in areas of water stress, provide the following information: 
+(i)	
+Name of the area: 
+(ii)	 Nature of operations 
+(iii)	 Water withdrawal, consumption, and discharge in the following format:
+According to the Central Groundwater classification, our sites are not located in areas classified as “Critical” or 
+“Over-exploited” with regards to groundwater. Hence, the question isn’t applicable.
+	
+4. 	 Please provide details of total Scope 3 emissions & its intensity, in the following format: 
+Parameter 
+Unit 
+FY 2022-23
+(Current Financial Year)
+FY 2021-22
+(Previous Financial Year)
+Total Scope 3 emissions (Break-up of the GHG 
+into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if 
+available)
+Metric tonnes 
+of CO2 
+equivalent 
+-
+-
+Total Scope 3 emissions per Crore of 
+turnover
+-
+-
+*We are currently in the process of monitoring and measuring our Scope 3 emissions.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+No, we didnot obtain assurance on our Scope 3 emissions data
+5. 	 With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities. 
+None of our operations and offices are not situated in ecologically sensitive areas.
+6. 	 If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the 
+same as well as outcome of such initiatives, as per the following format:
+S. 
+No 
+Initiative 
+undertaken 
+Details of the initiative (Web-link, if any, may be provided 
+along-with summary)
+Outcome of the initiative
+1.
+Installation 
+of rooftop 
+solar panels
+As part of our efforts to promote the adoption of sustainable 
+energy practices throughout the organization, we have been 
+deliberately increasing the proportion of renewable energy in 
+our energy mix. 
+Significant 
+reduction 
+in 
+the 
+energy costs, decreased carbon 
+footprint, and improved overall 
+environmental performance. 
+2.
+Setting 
+up of EV 
+charging 
+stations
+We have set up EV charging stations for both two-wheelers 
+and four-wheelers at our Manikonda, Madhapur, and Bangalore 
+locations. These projects are a testament to our commitment 
+to reducing GHG emissions and promoting sustainable 
+practices.
+Promoting the use of electric 
+vehicles among our associates.
+3.
+Resource 
+efficiency 
+initiatives
+Several resource efficiency initiatives have been undertaken 
+by a company, such as maximum demand reduction in Lanco, 
+Uppal, Bangalore, and Manikonda, replacement of air-cooled 
+chillers in Madhapur, MD reduction in Kakinada and Vizag, 
+Madhapur - 11 KV merging, and UPS room consolidation.
+These 
+resource 
+efficiency 
+initiatives, 
+have 
+significantly 
+reduced energy consumption 
+and carbon footprint, leading to 
+cost savings.
+*The relevant details will be published in our Sustainability Report FY 23
+Annual Report 2022-23
+101
+	
+7.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link. 
+Cyient recognizes the criticality of its Corporate IT infrastructure in supporting global delivery models and maintaining 
+seamless communication with clients. To mitigate potential disruptions, Cyient has developed a comprehensive 
+business continuity and disaster management plan. This plan involves identifying essential functions and transactions, 
+conducting Business Impact Analysis, and dividing services into independent activities. In the event of a disaster, a 
+Crisis Management Team (CMT) oversees recovery efforts, while an Emergency Response Team (ERT) handles on-
+site emergencies. The Chief Information Officer (CIO) plays a key role in building resilience within the Corporate IT 
+infrastructure. By implementing these measures, Cyient aims to ensure continuity, minimize downtime, and safeguard 
+its business reputation and growth.
+8. 	 Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard.
+No, there weren’t any significant adverse impact to the environment, arising from the value chain of the entity.
+9.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts.
+We have assessed our top 100 supplier (70% of spend) on ESG parameter through third party assessment. 
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent 
+Essential Indicators
+	
+	
+1. 	 a.	
+ Number of affiliations with and industry chambers/ associations. 
+	
+The Company is a member of 7 trade and industry chambers/ associations.
+b.	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such 
+a body) the entity is a member of/ affiliated to.
+S. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ associations 
+(State/National)
+1
+Confederation of Indian Industry (CII)
+National
+2
+National Association of Software and Service Companies
+National
+3
+Global Compact Network India
+National
+4
+Indo-American Chamber of Commerce
+National
+5
+National HRD Network
+National
+6
+The Federation of Telangana Chambers of Commerce and Industry
+State
+7
+Hyderabad Management Association
+State
+2. 	 Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the 
+entity, based on adverse orders from regulatory authorities. 
+No adverse orders received from regulatory authorities for anti-competitive conduct.
+Name of authority
+Brief of the case
+Corrective action taken
+-
+-
+-
+-
+-
+-
+Leadership Indicators
+	
+	
+1.	
+Details of public policy positions advocated by the entity:
+S. 
+No.
+Public policy 
+advocated 
+Method 
+resorted for 
+such advocacy
+Whether information 
+available in the public 
+domain? (Yes/No)
+Frequency of Review by Board 
+(Annually/ Half yearly/ Quarterly 
+/ Others – please specify) 
+Web Link, 
+if available
+-
+Annual Report 2022-23
+102
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development 
+Essential Indicators
+1. 	 Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current 
+financial year. 
+Name and 
+brief details 
+of project
+SIA 
+Notification No.
+Date of 
+notification
+Whether 
+conducted by 
+independent 
+external 
+agency (Yes 
+/ No)
+Results 
+commu-
+nicated 
+in public 
+domain 
+(Yes / No)
+Relevant Web 
+Link
+Quality School 
+Education & 
+IT Literacy 
+Initiatives
+CF/ CSR00004617/2023/
+EDU/ITL/WEMP/ENV
+03-01-2023
+Yes
+Yes
+https://www.cyient.com/about-us/
+social-responsibility
+Environmental 
+Development 
+Initiatives
+CF/ CSR00004617/2023/
+WC/GE
+03-08-2023
+Yes
+Yes
+https://www.cyient.com/about-us/
+social-responsibility
+Community 
+Development 
+Initiatives
+CF/ CSR00004617/2023/
+EDU/ITL/WEMP/ENV
+03-01-2023
+Yes
+Yes
+https://www.cyient.com/about-us/
+social-responsibility
+Skill De-
+velopment 
+Initiatives
+CF/ CSR00004617/2023/
+VS/ITS
+03-03-2023
+Yes
+Yes
+https://www.cyient.com/about-us/
+social-responsibility
+2. 	 Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your 
+entity, in the following format:   
+S. 
+No.
+Name of Project for 
+which R&R is ongoing 
+State 
+District 
+No. of Project 
+Affected 
+Families (PAFs) 
+% of PAFs 
+covered by 
+R&R 
+Amounts 
+paid to PAFs in the 
+FY 2023 (In INR)
+NA
+3. 	 Describe the mechanisms to receive and redress grievances of the community. 
+The Cyient Foundation has conceived and facilitated a wide range of social initiatives aimed at enhancing access to high-
+quality education, fostering skill development, promoting socially innovative business practices, and making substantial 
+investments in environmental development projects. We maintain registers at each center which enables us record and 
+resolve the grievances of the community.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers: 
+FY 2023
+Current Financial Year
+FY 2022
+Previous Financial Year
+Directly sourced from MSMEs/ small producers
+INR 467.52 million
+-
+Sourced directly from within the district and neighboring districts
+INR 197.74 million
+-
+Leadership Indicators
+1. 	 Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+Nil
+Not Applicable
+Annual Report 2022-23
+103
+2. 	 Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies: 
+S. 
+No.
+State
+Aspirational District 
+Amount spent
+1
+Andhra Pradesh
+Visakhapatnam
+INR 18,00,000 
+2
+Telangana
+Warangal (Rural)
+ INR 29,00,000
+	
+3. 	 (a) 	 Do you have a preferential procurement policy where you give preference to purchase from suppliers 
+comprising marginalized /vulnerable groups? (Yes/No) 
+No
+	
+	
+(b) 	 From which marginalized /vulnerable groups do you procure? 
+	
+	
+	
+Not Applicable
+	
+	
+(c) 	 What percentage of total procurement (by value) does it constitute? 
+	
+	
+	
+Not Applicable
+4. 	 Details of the benefits derived and shared from the intellectual properties owned or acquired by  your entity (in the 
+current financial year), based on traditional knowledge: 
+S. 
+No. 
+Intellectual Property based on 
+traditional knowledge
+Owned/Acquired 
+(Yes/No) 
+Benefit shared 
+(Yes / No)
+Basis of calculating 
+benefit share 
+ NA
+5. 	 Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved. 
+Name of authority 
+Brief of the Case 
+Corrective action taken 
+NA 
+6. 	 Details of beneficiaries of CSR Projects: 
+S. 
+No.
+CSR Project
+No. of persons benefited from CSR Projects
+% of beneficiaries 
+from vulnerable and 
+marginalized groups
+1
+ School Education and Digital / IT 
+Literacy:
+Adopted 30 Government Schools 
+and providing Quality Education 
+to vulnerable and marginalized 
+communities
+•	
+Supporting 30 schools with 20658 children.
+•	
+Girl Child enrollment is 56.80%
+•	
+Until FY22-23, 21615 adults gained access 
+to IT Literacy
+•	
+11904 adult women trained and certified.
+62%
+2
+ Community development 
+ skills & employment: Operating Cyient 
+Urban Micro Skill Center and Cyient 
+IT / ITES Skill Center to provide skills 
+and employment to unemployed youth 
+from low-income families. 
+•	
+As on date trained 4106 community 
+members on IT / Vocational skills
+•	
+Over 85% of the total trainees gained 
+potential employment / self-sustained.
+•	
+In the village providing access to safe 
+drinking water, sanitation, healthcare & 
+education to 3093 households 
+•	
+Achieved 100%ODF free and 0% school 
+dropouts and infant deaths.
+54.5%
+Annual Report 2022-23
+104
+S. 
+No.
+CSR Project
+No. of persons benefited from CSR Projects
+% of beneficiaries 
+from vulnerable and 
+marginalized groups
+3
+Preventive health care and health care: 
+Provide quality low-cost health care to 
+community people in Cyient Adopted 
+Village, Extend support to research in 
+health care
+•	
+  Supported the Anganwadis located in 
+Cyient Adopted Village & Anganwadis in 
+Cyient Adopted Schools
+•	
+Children between 3 to 6 Years were 
+given nutritional support and preliminary 
+healthcare 
+•	
+1098 children are getting access to the 
+facilities in 18 Anganwadis
+•	
+Continue to support Asian Healthcare 
+Foundation on the research on affordable 
+healthcare , the aid will support research 
+on 
+“Pathogenesis 
+of 
+Human 
+Acute 
+Pancreatitis”
+56.7%
+4
+Plantation – go green initiatives
+Water conservation & Rainwater 
+harvesting: To protect the environment 
+and preserve the natural resources, 
+maintain quality air and water our 
+initiatives are centered in and around 
+Cyient Offices, Cyient Schools, Cyient 
+Skill centers and Cyient adopted 
+villages.
+•	
+ Planted over 79,828 samplings in the last 7 
+Years. (Including current year)
+•	
+The survival rate is progressed from 82% 
+to 86%.
+•	
+Developed 31,042 Square Meters of Land 
+in and around Telangana and AP.
+•	
+Received Haritha Haram award for the 
+7th Consecutive year from Minister for 
+MU&AD and IT of Telangana State
+•	
+In 
+12 
+schools 
+developed 
+rainwater 
+conservation from schools, community, 
+centers roof top.
+NA
+5
+Environmental Protection – green 
+energy / renewable energy: To protect 
+the environment and preserve the 
+natural resources, use and produce the 
+renewable energy in Cyient Schools 
+and excess units generated helps the 
+local community.
+•	
+The excess green energy generated is 
+distributed to the community
+•	
+Cyient Rajbhavan School is producing 
+energy over and above the usage and is 
+certified by IGBC with green building
+•	
+The school is awarded by IGBC and received 
+appreciation from the CII Telangana.
+28%
+Annual Report 2022-23
+105
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner 
+Essential Indicators
+1. 	 Describe the mechanisms in place to receive and respond to consumer complaints and feedback. 
+Cyient has a dedicated microsite for customers to provide feedback and lodge complaints, if any. 
+http://www.cyient.com/contact-us
+5.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information about: 
+Parameter
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+-
+Safe and responsible usage
+-
+Recycling and/or safe disposal
+-
+This metric is not relevant to Cyient as our main business is providing engineering services, and it does not involve the 
+manufacturing of any product which would carry the information.
+3. 	 Number of consumer complaints in respect of the following: 
+There have been xx complaints and none pending against the Company regarding unfair trade practices, irresponsible 
+advertising and/or anti-competitive behavior during the last five years as of March 31, 2023.
+FY 2022-23
+(Current Financial Year)
+Remarks 
+FY 2021-22 
+(Previous Financial Year)
+Remarks
+Received 
+during 
+the year
+Pending 
+resolution at 
+end of year
+Received 
+during the year
+Pending 
+resolution at 
+end of year
+Data privacy
+0
+0
+N.A
+-
+-
+N.A
+Advertising
+0
+0
+N.A
+-
+-
+N.A
+Cyber-security
+0
+0
+N.A
+-
+-
+N.A
+Delivery of essential  services
+-
+-
+N.A
+-
+-
+N.A
+Restrictive Trade Practices
+0
+0
+N.A
+-
+-
+N.A
+Unfair Trade  Practices
+0
+0
+N.A
+-
+-
+N.A
+Other 
+-
+-
+N.A
+-
+-
+N.A
+4. 	 Details of instances of product recalls on account of safety issues: 
+This metric is not relevant to Cyient as our main business is providing engineering services, and it does not involve the 
+manufacturing of any product which would carry the information.
+5. 	 Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+Cyient follows the General Data Protection Regulations (GDPR) and has an Information Security Management System 
+(ISMS) aligned with ISO/IEC 27001:2013 for Information Technology and Security techniques and ISO/IEC 27002:2013 for 
+information security management and protection of information assets from all internal and external threats. 
+The CEO, CIO, and Finance teams oversee the Cyber security strategy and align the roadmap with organizational priorities. 
+The Risk Management Committee is responsible for the oversight of cybersecurity and the CEO is a member of the Risk 
+Management Committee. Additionally, Cyient has a data loss prevention policy and a Data Retention policy specifies a 
+period after which personal data is deleted permanently. It is answerable to the respective data protection authorities of 
+the different countries in which they are present.
+Annual Report 2022-23
+106
+6. 	 Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+We stand firm to our reputation for providing our clients with world class quality through an effective Quality Management 
+system in place and best practices that are aligned with the internationally renowned quality standards and models like ISO 
+9001:2015 Quality Management Systems, ISO 27001:2013 Information Security Management Systems, AS 9100 DQMS 
+requirements for Aviation, Space and Defense Organizations, ISO 13485:2016 Medical devices QMS, ISO 22163:2017 
+International Railway Industry Standards, TL 9000 R 6.0/R 5.5V the Telcom QMS, ISO 14001:2015 Environmental 
+Management System, ISO 45001-2018 Occupational Health and Safety Management System and CMMI-DEV Version 2.0 
+Level 5, Capability Maturity Model Integration.
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, if 
+available). 
+Information relating to all the products provided by the Company are available on the Company’s website. 
+https://www.cyient.com/
+2. 	 Steps taken to inform and educate consumers about safe and responsible usage of products and/or services — N.A
+	
+3. 	 Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services — N.A
+4. 	 Does the entity display product information on the product over & above what Is mandated as per local laws? (Yes/
+No/Not Applicable) If yes, provide details in brief? Did your entity carry out any survey with regard to consumer 
+satisfaction relating to the major products / services of the entity, significant locations of operation of the entity or 
+the entity as a whole? (Yes/No) 
+This metric is not relevant to Cyient as our main business is providing engineering services, and it does not involve the 
+manufacturing of any product.
+	
+5. 	 Provide the following information relating to data breaches: 
+	
+	
+a. 	 Number of instances of data breaches along-with impact — There were no instances of data breaches.
+	
+	
+b. 	 Percentage of data breaches involving personally identifiable information of customers — N.A
