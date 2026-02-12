@@ -1,0 +1,3877 @@
+ 
+ 
+            23 June 2022 
+ 
+The Manager                                                                       
+BSE Limited                                                                          
+Phiroze Jeejeebhoy Towers 
+Dalal Street, MUMBAI -400 001 
+The Manager 
+National Stock Exchange of India Limited 
+ Exchange Plaza, Plot No.C/1, G Block,  
+Bandra-Kurla Complex, Bandra (E),  
+Mumbai – 400 051 
+ 
+Dear Sir, 
+ 
+        Sub:- Business Responsibility and Sustainability Report for the year ended 31 March 2022  
+ 
+We refer to the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (Listing 
+Regulations) and enclose the Business Responsibility and Sustainability Report under Regulation 34(2)(f) 
+of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 for year ended                          
+31 March 2022. 
+ 
+         We request you to kindly take the above on record as per the provisions of Listing Regulations. 
+ 
+Thanking You, 
+                             
+Yours faithfully, 
+ 
+For Mphasis Limited   
+                                        
+ 
+Subramanian Narayan 
+Senior Vice President and Company Secretary 
+ 
+Encl: As above 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+Business 
+Responsibility and 
+Sustainability 
+Report  
+2021-22 
+Mphasis Limited 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+2 
+ 
+Contents 
+Section A 
+General disclosures 
+Section B 
+Management and process disclosures 
+Section C 
+Principle-wise performance disclosure 
+Principle 01 
+Businesses should conduct and govern themselves with integrity, and in a manner that is 
+ethical, transparent, and accountable 
+Principle 02 
+Businesses should provide goods and services in a manner that is sustainable and safe 
+Principle 03 
+Businesses should respect and promote the well-being of all employees, including those in 
+their value chains 
+Principle 04 
+Businesses should respect the interests of and be responsive to all their stakeholders 
+Principle 05 
+Businesses should respect and promote human rights 
+Principle 06 
+Businesses should respect and make efforts to protect and restore the environment 
+Principle 07 
+Businesses when engaging in influencing public and regulatory policy should do so in a 
+manner that is responsible and transparent 
+Principle 08 
+Businesses should promote inclusive growth and equitable development 
+Principle 09 
+Businesses should engage with and provide value to their consumers in a responsible manner 
+ 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+3 
+ 
+Section A: General Disclosures 
+Details  
+ 
+1. Corporate Identity Number (CIN) of Company 
+L30007KA1992PLC025294 
+2. Name of the Company 
+Mphasis Limited 
+3. Year of incorporation 
+1992 
+4. Registered office address 
+Bagmane World Technology Center, Marathahalli Outer 
+Ring Road, Doddanakundi Village, Mahadevapura, 
+Bengaluru- 560 048, India 
+5. Corporate address 
+Bagmane World Technology Center, Marathahalli Outer 
+Ring Road, Doddanakundi Village, Mahadevapura, 
+Bengaluru- 560 048, India 
+6. E-mail 
+subramanian.narayan@mphasis.com  
+7. Telephone 
++91 8067504613 
+8. Website 
+www.mphasis.com 
+9. The financial year for which reporting is being done 
+2021-22 
+10. Name of the stock exchange(s) where shares are listed  
+NSE & BSE 
+11. Paid-up capital 
+₹ 1,878.18 million 
+12. Name and contact details of the person who may be 
+contacted in case of any queries on the BRSR report  
+Mr. Subramanian Narayan 
+Senior Vice President & Company Secretary  
+Telephone: +91 9916580808 
+E-mail id: Subramanian.Narayan@mphasis.com   
+13. Reporting boundary  
+Disclosures made in this report are on a standalone 
+basis and pertain to Mphasis Limited. 
+ 
+Products/services 
+14. Details of business activities (accounting for 90% of the turnover): 
+ 
+Description of the main activity 
+Description of business activity 
+% of turnover 
+Computer programming and related 
+activities 
+Computer programming and related activities (IT consultancy, 
+Information and communication services, etc.) 
+100% 
+15. Products/services sold by the entity (accounting for 90% of the entity’s turnover): 
+ 
+S. No. 
+Description of the main activity  
+NIC Code 
+% of turnover contributed 
+1 
+Computer programming and related activities 
+6,201 
+100% 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+4 
+ 
+ 
+ 
+Operations 
+16. Number of locations where plants and/or operations/offices of the entity are situated: 
+ 
+Location 
+Number of plants 
+Number of offices 
+Total 
+National 
+Not applicable 
+21 
+7 
+International 
+39 
+20 
+*Please note these facilities/offices and locations include Mphasis Ltd and all its subsidiaries. 
+ 
+17. Markets served: 
+a. Number of locations: 
+Locations 
+Number 
+National (No. of states) 
+7 
+International (No. of countries) 
+20 
+ 
+• 
+Mphasis has business activities in 7 National locations: Bengaluru, Chennai, Hyderabad, Mangalore, Mumbai, Noida, and Pune 
+• 
+Mphasis has business activities in 20 International locations: Australia, Belgium, Canada, China, Costa Rica, France, Germany, Hungary, 
+Ireland, Japan, Malaysia, Mexico, Netherlands, Poland, Singapore, Sweden, Switzerland, Taiwan, United Kingdom, and The United States of 
+America. 
+ 
+b. What is the contribution of exports as a percentage of the total turnover of the entity? 
+ 
+Mphasis Limited's export sales percentage is 92% for FY22. 
+ 
+c. A brief on types of customers 
+Mphasis purposes to be the “Driver in Driverless Car”, by providing next-generation design, architecture, and 
+engineering services, to deliver scalable and sustainable software and technology solutions to clients. Mphasis’ service 
+transformation approach helps ‘shrink the core’ through the application of digital technologies across legacy 
+environments within an enterprise, enabling businesses to stay ahead in a changing world. We provide our services to 
+clients from banking and capital markets, insurance, healthcare & life sciences, airlines, and more. 
+ 
+• 
+Note: For more information on our customers is available on our company website: www.mphasis.com 
+ 
+Employees  
+ 
+18. Details as of the end of the financial year: 
+  
+a. Employees and workers (including differently-abled): 
+ 
+S.No 
+Particulars 
+Total 
+(A) 
+Male 
+Female 
+No. (B) 
+% (B/A) 
+No. (C) 
+% (C/A) 
+Employees 
+1.  
+Permanent (D) 
+12,749 
+9,619 
+75.45% 
+3,130 
+24.55% 
+2.  
+Other than permanent (E)  
+- 
+- 
+- 
+- 
+- 
+3.  
+Total employees (D + E) 
+12,749 
+9,619 
+75.45% 
+3,130 
+24.55% 
+Workers 
+4.  
+Permanent (F) 
+14,421 
+8,169 
+56.65% 
+6,252 
+43.35% 
+5.  
+Other than permanent (G)  
+644 
+440 
+68.32% 
+204 
+31.68% 
+6.  
+Total workers (F + G) 
+15,065  
+8,609 
+ 57.15% 
+6,456 
+42.85% 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+5 
+ 
+ 
+b. Differently-abled employees and workers 
+S. No 
+Particulars 
+Total 
+(A) 
+Male 
+Female 
+No. (B) 
+% (B/A) 
+No. (C) 
+% (C/A) 
+Differently abled employees 
+1.  
+Permanent (D) 
+23 
+19 
+82.61% 
+4 
+17.39% 
+2.  
+Other than permanent (E)  
+0 
+0 
+0 
+0 
+0 
+3.  
+Total employees (D + E) 
+23 
+19 
+82.61% 
+4 
+17.69% 
+Differently abled workers 
+4.  
+Permanent (F) 
+24 
+19 
+79.17% 
+5 
+20.83% 
+5.  
+Other than permanent (G)  
+ 0 
+0 
+0 
+0 
+0 
+6.  
+Total workers (F + G) 
+47 
+38 
+80.85% 
+9 
+19.15% 
+ 
+19. Participation/inclusion/representation of women  
+ 
+ 
+Total (A) 
+No. and % of females 
+No. (B) 
+% (B/A) 
+Board of Directors 
+12 
+3 
+25% 
+Key Management Personnel refer note  
+3 
+0 
+0% 
+• 
+Note: Mphasis executive committee has one woman member. 
+ 
+20. Turnover rate for permanent employees and workers 
+ 
+Mphasis has taken a multi-pronged approach towards workforce retention. To retain and attract the workforce, we 
+provide upskilling opportunities, promotions, benefits and rewards, and long-term incentives to all. The turnover rate of 
+Mphasis is par with the Indian IT sector turnover rate. 
+ 
+Holding, subsidiary and associate companies (including joint ventures) 
+ 
+21. (a) As of March 31, 2022  
+ 
+S. No. 
+Name 
+Holdings/subsidiary/associate/ 
+joint venture 
+% of shares held  
+1 
+BCP Topco IX Pte. Ltd 
+Holding 
+55.80% 
+2 
+Mphasis Software and Services (India) Private Ltd. 
+Subsidiary 
+100% 
+3 
+Msource (India) Private Limited 
+Subsidiary 
+100% 
+4 
+Mphasis Corporation 
+Subsidiary 
+100% 
+5 
+Mphasis Deutschland GmBH 
+Subsidiary 
+91% 
+6 
+Mphasis Australia Pty. Ltd 
+Subsidiary 
+100% 
+7 
+Mphasis (Shanghai) Software and Services Co. Ltd. 
+Subsidiary 
+100% 
+8 
+Mphasis Consulting Limited 
+Subsidiary 
+100% 
+9 
+Mphasis Europe B.V. 
+Subsidiary 
+100% 
+10 
+Mphasis UK Limited 
+Subsidiary 
+100% 
+11 
+Mphasis Pte Ltd 
+Subsidiary 
+100% 
+12 
+Msource Mauritius Inc. 
+Subsidiary 
+100% 
+13 
+Mphasis Ireland Ltd 
+Subsidiary 
+100% 
+14 
+Mphasis Belgium BVBA 
+Subsidiary 
+100% 
+15 
+Mphasis Lanka (Private) Limited 
+Subsidiary 
+100% 
+16 
+Mphasis Poland Sp.zoo 
+Subsidiary 
+100% 
+17 
+Mphasis Infrastructure Services Inc. 
+Subsidiary 
+100% 
+18 
+PT. Mphasis Indonesia 
+Subsidiary 
+100% 
+19 
+Mphasis Wyde Inc 
+Subsidiary 
+100% 
+20 
+Wyde Corporation 
+Subsidiary 
+100% 
+21 
+Wyde Solutions Canada Inc. 
+Subsidiary 
+100% 
+22 
+Mphasis Wyde SASU 
+Subsidiary 
+100% 
+23 
+Mphasis Philippines Inc. 
+Subsidiary 
+100% 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+6 
+ 
+24 
+Digital Risk, LLC 
+Subsidiary 
+100% 
+25 
+Digital Risk Mortgage Services, LLC 
+Subsidiary 
+100% 
+26 
+Digital Risk Valuation Services, LLC 
+Subsidiary 
+100% 
+27 
+Investor Services, LLC 
+Subsidiary 
+100% 
+28 
+Stelligent Systems LLC 
+Subsidiary 
+100% 
+29 
+Datalytyx Limited 
+Subsidiary 
+100% 
+30 
+Dynamyx Limited 
+Subsidiary 
+100% 
+31 
+Datalytyx MSS Limited 
+Subsidiary 
+100% 
+32 
+Mphasis Digi Information Technology Services (Shanghai) 
+Limited 
+Subsidiary 
+100% 
+33 
+Blink Interactive, Inc. 
+Subsidiary 
+100% 
+34 
+Redshift Digital, Inc. 
+Subsidiary 
+100% 
+35 
+Mrald Limited 
+Subsidiary 
+51% with 100% 
+economic benefits 
+36 
+Mrald Services Limited 
+Subsidiary 
+100% 
+37 
+Mphasis Solutions Services Corporation  
+Subsidiary 
+100% 
+ 
+(b) Do the entities indicated in the above table participate in the business responsibility initiatives of the listed entity? 
+(Yes/No) 
+Yes, Mphasis's business responsibility and sustainability policies extend to its subsidiary companies, and they 
+participate in our business responsibility and sustainability initiatives in line with our policies. Mphasis subsidiaries are 
+integrated within the core culture of ‘One Mphasis’, which ensures the same belief system at all levels while engaging 
+in the business. 
+ 
+CSR details  
+22. 
+ (i) Whether CSR is applicable as per section 135 of Companies Act, 2013 
+: Yes 
+(ii) Turnover (in ₹) 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+: 73,895.54 million 
+(iii) Net worth (in ₹) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+: 44,476.49 million 
+ 
+Transparency and disclosures compliances 
+23. Complaints/grievances on any of the principles (principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct (NGBRC): 
+Stakeholder group from 
+whom the complaint is 
+received 
+Grievance Redressal Mechanism 
+in Place (Yes/No) 
+FY 2021-22 
+FY 2020-21 
+If Yes, then provide web-link for the 
+grievance redress policy 
+Number of 
+complaints filed 
+during the year 
+Number of 
+complaints 
+pending 
+resolution at 
+the close of the 
+year 
+Number of 
+complaints filed 
+during the year 
+Number of 
+complaints 
+pending 
+resolution at 
+the close of the 
+year 
+Communities* 
+Yes 
+Nil 
+Nil 
+Nil 
+Nil 
+Investors  
+(other than 
+shareholders) 
+Yes, Shareholder’s grievance can 
+be sent through email to the 
+following designated email id: 
+investor.relations@mphasis.com   
+Nil 
+Nil 
+Nil 
+Nil 
+Shareholders  
+Yes 
+3 
+Nil 
+Nil 
+Nil 
+Employees and workers  Yes, Mphasis has a Whistleblower 
+Policy to enable our stakeholders 
+who observe unethical practices 
+(whether or not a violation of the 
+law), to approach the 
+whistleblower custodian without 
+revealing their identity if they 
+choose to do so. 
+There are various channels to 
+report actual or suspected fraud or 
+25 
+Nil 
+9 
+Nil 
+Customers** 
+Nil 
+Nil 
+2 
+Nil 
+Value chain partners  
+2 
+Nil 
+1 
+Nil 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+7 
+ 
+Stakeholder group from 
+whom the complaint is 
+received 
+Grievance Redressal Mechanism 
+in Place (Yes/No) 
+FY 2021-22 
+FY 2020-21 
+If Yes, then provide web-link for the 
+grievance redress policy 
+Number of 
+complaints filed 
+during the year 
+Number of 
+complaints 
+pending 
+resolution at 
+the close of the 
+year 
+Number of 
+complaints filed 
+during the year 
+Number of 
+complaints 
+pending 
+resolution at 
+the close of the 
+year 
+violation of the company’s Code of
+Conduct or Ethics Policy i.e.,
+through: 
+• 
+E-mail to the whistleblower office at: 
+whistleblower@mphasis.com 
+• 
+Written complaints can be dropped 
+off at the whistleblower drop box at 
+the respective company location 
+• 
+Complaints can be recorded through 
+the whistleblower hotline 
+The policy is available on the 
+Mphasis website: 
+https://www.mphasis.com/home/co
+rporate/whistleblower.html 
+Others  
+(violation of code of 
+business conduct and 
+ethics) 
+Mphasis has an empowered 
+corporate investigation team that 
+supports 
+all 
+the 
+above 
+functionaries in investigating most 
+of the complaints thoroughly and 
+professionally. The investigation 
+team is staffed with qualified 
+investigators and has its forensic 
+lab. 
+Nil 
+Nil 
+4 
+Nil 
+ 
+• 
+*Mphasis directly works with the implementation partners who address grievances of the communities we work with. 
+• 
+**Mphasis conducts regular CSAT surveys. We also have a contact us form on the website, where we can receive feedback or requests for 
+responses. 
+ 
+24. Overview of the entity’s material responsible business conduct issues.  
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along with its financial implications, as per the following format: 
+ 
+Mphasis conducted its first comprehensive materiality assessment in FY 2020-21 to identify our ESG related material 
+topics. The main goal of the identification of material issues is to understand ESG parameters that could have a potential 
+impact on our business as well as our stakeholders. This outcome guides our company in further improving our 
+stakeholder agenda, disclosures, and informs our ESG strategy development. 
+ 
+S. No. Material issue 
+identified 
+Indicate whether 
+risk or opportunity 
+(R/O) 
+The rationale for identifying the 
+risk/opportunity 
+In case of risk, approach to 
+adapt or mitigate 
+Financial implications 
+of the risk or 
+opportunity (Indicate 
+positive or negative 
+implications) 
+1 
+Diversity at 
+workplace 
+Opportunity 
+• 
+A diverse workplace is an 
+inclusive environment that 
+provides equal rights and 
+opportunities 
+for 
+all 
+employees and helps in 
+building an equitable society.  
+• 
+A greater diversity across 
+genders and ethnicity is 
+strongly 
+correlated 
+to 
+a 
+greater level of inclusiveness 
+(broadening 
+mindset 
+on 
+acceptance 
+of 
+the 
+third 
+gender, 
+unconventional 
+biases in ethnicity, race and 
+Not a risk 
+Positive: 
+A pool of diverse 
+workforce of different 
+genders, ages and 
+ethnicities, 
+nationalities, 
+socio-
+economic 
+backgrounds, 
+religious 
+beliefs, 
+cultural 
+practices, 
+and 
+sexual 
+orientation will enable 
+Mphasis to develop 
+its services further 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+8 
+ 
+equality while transforming 
+our thoughts and actions at a 
+personal and professional 
+level), improved propositions 
+and 
+productivity 
+enabling 
+value creation.  
+• 
+At Mphasis, our true north is 
+to build an inclusive and 
+diverse workplace using 3 
+tenets- Invest, Inspire and 
+Involve to attract, develop, 
+and retain the best talent in 
+an environment that fosters 
+high performance. 
+and 
+mitigate 
+operational risks. 
+Diversity 
+in 
+the 
+workforce brings new 
+perspectives, 
+experiences 
+and 
+ideas which enables 
+innovation, increases
+performance 
+and 
+enables a positive 
+culture 
+in 
+the 
+organization. 
+2 
+Digitization 
+Opportunity 
+• 
+It is imperative to implement 
+digital technologies to go 
+green, remain efficient, boost 
+productivity, be competitive 
+in the market, and raise profit 
+margins. 
+• 
+Digitization of Company 
+operations contributes to 
+increased efficiency and 
+productivity, reduction in 
+paper consumption, lower 
+operational 
+costs, 
+increased transparency, 
+and 
+faster 
+decision 
+making. 
+This 
+in 
+turn 
+enhances 
+customer 
+experience and increases 
+employee morale. 
+• 
+At Mphasis, digitization 
+has 
+improved 
+our 
+approach to employee 
+skill 
+development 
+(TalentNext) 
+and 
+Infragraph solution and 
+service 
+transformation 
+(Intelligent 
+automation 
+framework and software). 
+• 
+Additionally, Mphasis has 
+expanded 
+its 
+digital 
+offerings to address the 
+evolving customer needs 
+and 
+expectations 
+to 
+accelerate 
+end-to-end 
+digitization and provide 
+them 
+with 
+modern 
+applications 
+and 
+infrastructure to improve 
+cybersecurity, 
+significantly 
+accelerate 
+automation and reduce 
+overall costs 
+Not a risk 
+Positive: 
+Digitization can lead 
+to improved sales, 
+productivity 
+and 
+employment 
+which 
+impact 
+the 
+company’s 
+performance 
+and 
+impact compared to 
+its peers 
+3 
+Cyber /IT 
+System Security 
+and Resilience 
+Risk 
+• 
+The IT services sector is a 
+highly targeted sector year 
+after year. 
+• 
+Improper data and systems 
+management can have a 
+major reputational impact on 
+companies such as Mphasis, 
+as employees and other 
+stakeholders lose trust in the 
+Company’s 
+ability 
+to 
+safeguard 
+sensitive 
+Risk mitigation 
+approach: 
+1. Data Privacy Officer 
+(DPO) 
+addresses 
+queries with regards to 
+the 
+Data 
+Subject 
+Access 
+Requests 
+(DSAR), 
+stakeholder 
+grievances 
+and 
+Negative: 
+Mphasis has access 
+to 
+sensitive 
+data, 
+such 
+as 
+personal 
+information 
+of 
+stakeholders, 
+customer data etc. 
+Poor data security 
+management 
+could 
+thus result in legal 
+and reputational risks 
+for Mphasis. 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+9 
+ 
+information. 
+Additionally, 
+data breaches can have 
+significant financial impacts. 
+• 
+IBM's Cost of a Data 
+Breach 
+report 
+(2021) 
+estimates 
+that 
+the 
+average total cost of a 
+data breach increased by 
+10%, from 3.86 to USD 
+4.24 Million, the highest 
+average total cost in the 
+17-year history of this 
+report. 
+breaches 
+regarding 
+personal data. 
+2. Independent audits are 
+conducted periodically 
+by 
+internal 
+and 
+external 
+bodies 
+to 
+validate 
+the 
+effectiveness of data 
+privacy 
+controls 
+deployed. 
+3. Annual 
+training 
+is 
+made available to all 
+the 
+employees 
+to 
+raise awareness on 
+safeguarding 
+their 
+information 
+and 
+company-wide 
+practices. 
+ 
+4 
+Customer 
+centricity/satisfa
+ction 
+Risk and 
+Opportunity 
+• 
+The transparency, accuracy, 
+and 
+comprehensibility 
+of 
+marketing 
+statements, 
+/service descriptions, service 
+terms and processes play an 
+important 
+role 
+in 
+the 
+relationship 
+between 
+customers and companies. 
+• 
+Customers should have 
+access to accurate and 
+adequate information to 
+make 
+an 
+informed 
+purchasing decision. In 
+the case of Mphasis, this 
+is linked to the disclosure 
+of 
+reliable 
+information 
+regarding the services. 
+ 
+Risk mitigation 
+approach: 
+The company has put in 
+place 
+proactive 
+measuring mechanisms 
+to gauge the levels of 
+customer 
+satisfaction 
+and obtain feedback from 
+various 
+perspectives, 
+including, the satisfaction 
+of the customer with the 
+present work, growth of 
+the 
+account, 
+and 
+innovative 
+and 
+cost-
+effective 
+solutions 
+offered by the Company. 
+The CSAT surveys are 
+conducted and closely 
+monitored 
+by 
+the 
+Company Board. 
+Positive: 
+Customer 
+satisfaction 
+and 
+loyalty 
+have 
+a 
+significant 
+positive 
+influence 
+on 
+the 
+Company’s 
+profitability. Improved 
+customer satisfaction 
+can 
+also 
+lead 
+to 
+better 
+business 
+opportunities 
+and 
+growth. 
+ 
+Negative: 
+Consumers can lose 
+trust 
+in 
+Mphasis’s 
+reliability to provide 
+proposed 
+quality 
+services, which can 
+lead 
+to 
+loss 
+of 
+business 
+opportunities. 
+5 
+Talent attraction 
+and retention 
+Risk and 
+opportunity 
+• 
+The attrition rate of the 
+IT/tech 
+sector 
+is 
+14.6%, 
+which is higher than the 
+country's average of 13.1% 
+(Salman P, 2021). A higher 
+attrition rate can lead to a 
+higher cost incurred from the 
+onboarding and recruitment 
+of 
+replacement 
+talent. 
+Training 
+the 
+replacement 
+hires to the same level of 
+productivity 
+as 
+the 
+employees who left requires 
+additional 
+resource 
+investment. 
+The 
+retention 
+report by the Work Institute 
+(2017) finds that the cost of 
+turnover can be as high as 
+33% of an employee's annual 
+salary. 
+• 
+On the contrary, investing 
+in people development 
+can enable organizations 
+to realize the skills and 
+abilities 
+of 
+their 
+Risk mitigation 
+approach: 
+1. Mphasis categorizes 
+employees into Critical 
+Risk, High Risk, and 
+Low-Risk profiles. The 
+Company has well-
+established mitigation 
+plans like role/project 
+change, and onsite 
+assignments, in case 
+of a change of 
+assigned staff. 
+2. Promotions encourage 
+the retention of a 
+capable workforce. 
+3. Mphasis has 
+developed a 
+remuneration policy 
+with the main objective 
+to attract and retain 
+excellent talent. 
+Positive: 
+A lower attrition rate 
+will lead to reduced 
+costs incurred from 
+hiring and training 
+new recruits. 
+Negative: 
+Mphasis 
+relies 
+heavily 
+on 
+human 
+capital 
+for 
+the 
+development of its 
+products 
+and 
+services that require 
+software developers 
+and 
+continuous 
+research 
+and 
+development. 
+Therefore, Mphasis’s 
+ability to attract and 
+retain talent and train 
+them has a direct 
+impact on the quality 
+of 
+Mphasis's 
+services. 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+10 
+ 
+workforce, and internal 
+capabilities 
+to 
+further 
+expand the business and 
+create value. 
+• 
+Mphasis has a platform 
+that has grown to become 
+the bedrock of our talent 
+development 
+initiatives. 
+Over the years, Talent 
+Next has matured into a 
+cognitive automation tool 
+with 
+a 
+‘learning 
+recommendation engine’ 
+and resources for over 
+750 skills and hosts over 
+12,000 courses.  
+6 
+Energy and 
+emissions 
+management 
+Risk and 
+Opportunity 
+• 
+Digital infrastructure such as 
+data 
+centres 
+consume 
+significant 
+resources 
+- 
+including water and energy - 
+and are large emitters of 
+carbon 
+emissions. 
+It 
+is 
+estimated that by 2040, data 
+centres would emit ~ 6.3% of 
+global 
+GHG 
+emissions 
+compared to the 2016 level 
+(Belkhir and Elmegli, 2017). 
+• 
+This 
+could 
+make 
+ICT 
+companies face operational 
+and reputational issues in the 
+coming years. 
+• 
+Other 
+risks 
+(such 
+as 
+exposure to physical risks 
+of climate change), could 
+also 
+have 
+significant 
+operational impacts on 
+data centres. 
+We 
+ensure 
+managing 
+our 
+customer’s 
+IT 
+Infrastructure 
+seamlessly 
+with 
+unmatched 
+efficiency. Our offerings help our 
+customers in optimizing production, 
+create decarbonized ecosystems, 
+and increase the throughput of 
+existing assets. 
+Risk mitigation 
+approach: 
+1. Mphasis is investing 
+increasing its 
+renewable energy 
+portfolio by investing 
+in green technologies, 
+such as its solar 
+plants(10KW) at its 
+Mangaluru facility. 
+2. Rallying stakeholders 
+towards a low-
+emission, climate-
+resilient future 
+3. Mphasis has 
+accelerated its efforts 
+to phase out ozone-
+depleting pollutants 
+[NO6]. 
+4. The 
+company 
+has 
+also 
+invested 
+in 
+energy-saving 
+interventions such as 
+replacing its current 
+equipment such as 
+UPS 
+and 
+air 
+conditioning units with 
+those 
+with 
+higher 
+energy efficiency. 
+Positive: 
+Identifying, 
+designing, 
+building
+and 
+implementing
+newer 
+business 
+models to achieve 
+decarbonized energy 
+systems 
+for 
+our 
+customers which also 
+improve 
+efficiency 
+and 
+productivity, 
+leading 
+to 
+better 
+customer satisfaction 
+and 
+business 
+outcomes. 
+Negative: 
+Mphasis’s impact is 
+mainly in the form of 
+data storage centres, 
+E-waste, 
+and 
+electricity used in its 
+offices, 
+and 
+direct 
+and 
+indirect 
+GHG 
+emissions (scope 1, 
+2, and 3) from its 
+activities. 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+11 
+ 
+Section B: Management and Process 
+Disclosures 
+This section is aimed at helping businesses demonstrate the structures, policies, and 
+processes put in place towards adopting the NGRBC principles and core elements. 
+S. No. 
+Principle description 
+P1 
+Businesses should conduct and govern themselves with integrity, and in a manner that is ethical, 
+transparent, and accountable 
+P2 
+Businesses should provide goods and services in a manner that is sustainable and safe 
+P3 
+Businesses should respect and promote the well-being of all employees, including those in their value 
+chains 
+P4 
+Businesses should respect the interests of and be responsive to all their stakeholders 
+P5 
+Businesses should respect and promote human rights 
+P6 
+Businesses should respect and make efforts to protect and restore the environment 
+P7 
+Businesses when engaging in influencing public and regulatory policy should do so in a manner that is 
+responsible and transparent 
+P8 
+Businesses should promote inclusive growth and equitable development 
+P9 
+Businesses should engage with and provide value to their consumers in a responsible manner 
+ 
+Disclosure questions 
+P 1 
+P 2 
+P 3 
+P 4 
+P 5 
+P 6 
+P 7 
+P 8 
+P 9 
+Policy and management processes 
+1. a. Whether your entity’s 
+policy/policies cover each principle 
+and its core elements of the NGRBCs. 
+(Yes/No) 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+NA 
+Yes 
+Yes 
+b. Has the policy been approved by 
+the Board? (Yes/No) 
+Yes 
+c. Web-link of the policies, if available. 
+(i) 
+CSR policy: https://bit.ly/corporate-social-responsibility-policy 
+(ii) Remuneration and nomination policy (Directors): 
+https://bit.ly/directors-remuneration-policy 
+(iii) Remuneration and nomination policy (Executive): 
+https://bit.ly/executive-remuneration-policy 
+(iv) Whistle-blower policy: https://bit.ly/whistleblower-policy 
+(v) Standard of business ethics: https://bit.ly/code-of-business-
+conduct-policy 
+(vi) EHS policy: https://bit.ly/EHS-policy 
+(vii) Data privacy policy: https://bit.ly/dataprivacy-policy 
+2. Whether the entity has translated 
+the policy into procedures. (Yes/No) 
+Yes 
+3. Do the enlisted policies extend to 
+your value chain partners? (Yes/No) 
+Yes, adherence to Mphasis policy requirements such as COBC is included 
+in their agreements with their value chain partners. 
+4. Name of the national and international codes/certifications/labels/standards (e.g. Forest stewardship council, 
+Fairtrade, Rainforest Alliance, Trustee) standards (e.g. SA 8000, OHSAS, ISO, BIS) mapped to each principle. 
+Principle 1: Ethics, transparency 
+Our publicly available Code of Business Conduct (COBC) encourages 
+our people to conduct business lawfully, ethically and in the best interest 
+of Mphasis. 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+12 
+ 
+Addressing Anti-bribery and Corruption: To protect the value of 
+shareholders and tangible and intangible assets of the organization, 
+Mphasis has implemented an anti-bribery and anti-corruption policy and 
+training to manage these risks effectively. 
+ISO Standards: Mphasis is certified with ISO 22301 (International 
+Standard for Business continuity management system), ISO 37001 (Anti-
+bribery management systems), ISO 31000 (Risk management), and the 
+Indian prevention of corruption act (PCA). 
+Principle 2: Product and service 
+responsibility 
+Mphasis designs develops, modernizes, and maintains applications for its 
+clients worldwide. We interact with our customers to ensure that the 
+products are of the utmost quality. Our Quality Management System is 
+ISO 9001 certified. 
+Principle 3: Human resources 
+Mphasis complies with the standard COBC, Diversity and Inclusion 
+Policy, POSH, Health and safety of Employees and ISO 45001(OHS) 
+certified. 
+Mphasis also has pioneering policies and initiatives such as gender-neutral 
+bathrooms, health insurance for same-gender couples and women in 
+technology 
+Principle 4: Responsive to 
+stakeholders, particularly the 
+marginalized 
+Our COBC encourages our people to conduct business lawfully, ethically 
+and in the best interest of Mphasis. 
+Principle 5: Respect for human rights 
+Our publicly available COBC encourages our people to conduct business 
+lawfully, ethically and in the best interest of Mphasis. It explicitly forbids 
+violations of human rights. 
+Mphasis takes corporate responsibility to address workplace issues such 
+as working hours, child labour, forced labour, non-discrimination, health 
+and safety, and the environment. 
+Principle 6: Environmental 
+responsibility 
+ISO Standards: Mphasis is certified with ISO 14001:15 certification for the 
+facility to strengthen our commitment to reducing the environmental 
+impacts within the operations. Also, the building is Leadership in Energy 
+and Environmental Design (LEED) Gold standard certified. 
+Principle 7: Public policy advocacy 
+Our COBC complies with Principle 7.  
+Principle 8: Inclusive growth 
+CSR policy/Health safety and environment policy 
+Principle 9: Customer engagement 
+Our Information Security Management System (ISMS) complies with ISO 
+27001 standard and paves a systematic approach to managing and 
+securing information at Mphasis. This certification assures all concerned 
+stakeholders that the company has implemented adequate data protection 
+and information security measures to mitigate information and cyber 
+security threats. 
+5. Specific commitments, goals, and 
+targets set by the entity 
+Our environmental commitments: 
+a) To reduce carbon footprint value year on year 
+b) To reduce electricity consumption year on year 
+c) To accelerate efforts on improving energy efficiency and phasing out 
+ozone-depleting substances 
+Our social commitments: 
+a) To build an inclusive and diverse workplace that attracts, develops, and 
+retains the best talent in an environment that fosters high performance 
+b) To recruit as well as empower women, veterans, LGBTQ+ and persons 
+with disabilities across the organization 
+Our governance commitments: 
+a) To reduce the risk of liability of improper conduct such as bribery and 
+corruption at all levels within our company 
+b) 
+To proactively assess vulnerabilities and deploy plans to minimize 
+cyber security incidents. 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+13 
+ 
+6. Performance of the entity against 
+the specific commitments, goals, and 
+targets along with reasons in case the 
+same are not met. 
+1. In FY 2020-21, the total Scope 1 and Scope 2 emissions per rupee of 
+turnover were 19,061. The value has been reduced to 18,085 in the 
+current reporting period 
+2. In FY 2020-21, the total electricity consumption was 23,199.91 MWh 
+and reduced to 21,692.92 MWh in the current reporting period.  
+3. In FY 2020-21, the total energy consumption was 23,380.30 MWh and 
+reduced to 21,807 MWh in the current reporting period. 
+4. Mphasis has achieved a much more balanced gender ratio in this 
+reporting year 35:65 (F: M) as considered to last reporting year. 
+5. Zero bribery and corruption cases during this reporting year 
+6. Zero cyber security breaches during this reporting year. 
+Governance, leadership, and oversight 
+7. Executive chairperson’s statement 
+Refer to the ‘Message from our CEO’ page- Mphasis - ESG  
+8. Details of the highest authority 
+responsible for implementation and 
+oversight of the business responsibility 
+policy/policies  
+Nitin Rakesh 
+Chief Executive Officer and Managing Director 
+DIN:00042261 
+9. Does the entity have a specified 
+committee of the Board/ Director 
+responsible for decision-making on 
+sustainability-related issues? 
+(Yes/No). If yes, provide details. 
+Yes. Mr. Nitin Rakesh’ CEO and MD drive the ESG Vision of the Company. 
+All the ESG related issues/risks are addressed by the Enterprise Risk 
+Management Committee while the Audit Committee/Board reviews aspects 
+such as complaints on Sexual Harassment, whistle-blower concerns and 
+related issues. The status update of the ESG risk is reported to the Audit 
+Committee and the Risk Governance and Management Committee. 
+10. Details of review of NGRBCs by the Company: 
+Subject for review  
+- 
+Indicate whether the review was undertaken by the Director/committee 
+of the board/ any other committee 
+- 
+Frequency (Annually/half-yearly/quarterly any other – please specify)  
+Performance against the 
+above policies and follow 
+up action 
+Business responsibility and sustainability policies of the Company are periodically
+reviewed by department/division heads, business heads and the Managing Director. 
+During these assessments, the efficacy of the company policies is reviewed and 
+adequate changes to policies, procedures and internal controls are also implemented. 
+Compliance with statutory 
+requirements of relevance 
+to the principles, and the 
+rectification of any non-
+compliances 
+The Company complies with the existing regulations as applicable. There have been no 
+instances of non-compliance. 
+11. Has the entity carried out an independent assessment/ evaluation of the working of its policies by an 
+external agency? (Yes/No). If yes, provide the name of the agency. 
+No, Mphasis does not conduct an independent assessment by external agencies. But all company policies are regularly 
+monitored and reviewed by respective policy owners. 
+ 
+ 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+14 
+ 
+12. If the answer to question (1) above is “No” i.e., not all principles are covered by a policy, reasons to be 
+stated: 
+Questions  
+P 1 
+P 2 
+P 3 
+P 4 
+P 5 
+P 6 
+P 7 
+P 8 
+P 9 
+The entity does not consider the 
+principles material to its business 
+(Yes/No)  
+Mphasis considers all the principles material to the business. 
+The entity is not at a stage where it 
+is in a position to formulate and 
+implement the policies on specified 
+principles (Yes/No)  
+No 
+The entity does not have the 
+financial or/human and technical 
+resources available for the task 
+(Yes/No)  
+No 
+It is planned to be done in the next 
+financial year (Yes/No)  
+Any other reason (please specify)  
+NA 
+ 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+15 
+ 
+Section C: Principle-wise 
+Performance Disclosure 
+ 
+ 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+16 
+ 
+Principle 1: Businesses should 
+conduct and govern themselves with 
+integrity, and in a manner that is 
+ethical, transparent, and accountable 
+Essential Indicators 
+1. Percentage coverage by training and awareness programmes on any of the principles during the 
+financial year: 
+Segment 
+Total number of training and 
+awareness programmes 
+held 
+Topics/principles covered under the training and 
+its impact 
+% of persons in the 
+respective 
+category covered 
+by the awareness 
+programmes 
+Board of directors 
+The 
+directors 
+have 
+attended training programs 
+covering 
+roles, 
+rights, 
+responsibilities, 
+and 
+the 
+Business 
+model 
+of 
+the 
+Company for an average of 
+3.5 hours per director. 
+(The cumulative hours 
+since FY 2016 is 42.5 
+hours) 
+Training on strategies, statutory duties and 
+responsibilities and, compliance updates are 
+provided to the directors. 
+100% 
+ 
+Key managerial 
+personnel, 
+Employees other 
+than BoD and 
+KMPs, Workers 
+The 
+below-mentioned 
+pieces 
+of 
+training 
+are 
+provided to all mentioned 
+segments annually. 
+ 
+COBC (1 Hour) 
+ 
+The Mphasis COBC serves to guide our actions, 
+which is governed by integrity, honesty, fair 
+dealing, and compliance with all applicable 
+laws.  
+ 
+The mandatory certification on COBC is 
+designed to provide a framework against which 
+conduct, and behaviour can be measured. It 
+covers in detail the expected code such as but 
+is not limited to equal opportunity employer, 
+data and people privacy, conflict of interest, 
+insider trading, bribery, and improper payment, 
+compliance 
+and 
+sanction 
+obligations, 
+intellectual property, human rights, safe and 
+secure work environment, POSH, etc. 
+ 
+100% 
+POSH (1 Hour) 
+ 
+Training on POSH covers Mphasis commitment 
+to 
+providing 
+a 
+safe 
+and 
+secure 
+work 
+environment, what is sexual harassment, types 
+of sexual harassment, workplace and extended 
+workplace, various case studies, redressal 
+mechanisms, 
+the 
+principles/Values, 
+consequences and roles and responsibilities of 
+employees and employer. 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+17 
+ 
+Intellectual Property (IP) 
+IP is a legal concept that refers to creations of 
+the mind for which exclusive rights are 
+recognized. 
+This 
+training 
+on 
+IP 
+asset 
+management familiarizes employees with the 
+definition of IP, their various elements, and 
+business benefits. This course covers those 
+forms of IP, that are relevant to an information 
+technology organization. 
+Information Security 
+Management System 
+(ISMS) 
+Mphasis provides training to all the employees 
+to raise awareness on safeguarding their 
+information and company-wide practices. The 
+training 
+covers 
+aspects 
+such 
+as 
+the 
+management’s commitment to information 
+security, information classification, data privacy, 
+social media policy guidelines, phishing, 
+password security, social engineering, business 
+continuity 
+management, 
+Mphasis 
+security 
+incident management tool, Mphasis Work from 
+Home (WFH) – Security policy and overview. 
+Data Privacy 
+Mphasis data privacy training covers data 
+privacy statement, key business drivers, types 
+of personal information, Mphasis privacy 
+principles, privacy consideration in information 
+lifecycle, GDPR, data transfer to another 
+country, data transfer to data processors (third 
+parties), data subject access right, data 
+protection impact assessment, privacy by 
+design and California Consumer Privacy Act 
+(CCPA) and California Privacy Rights Act 
+(CPRA). 
+BCMS 
+BCMS course is a mandatory course that 
+educates employees on the Mphasis BCM 
+framework and their R & R. This is part of the 
+COBC mandatory training that employees need 
+to undergo upon joining and yearly. 
+Objectives of the training are to understand the 
+concept of business continuity, comprehend the 
+significance of BCMS for Mphasis, understand 
+the BCMS framework in our organization, 
+implications of non-adherence to BCMS, 
+employee’s role during an outage/disaster, 
+Covid 19 awareness and business continuity 
+during the Covid 19 pandemic. 
+2. Details of fines/penalties/punishment/award/compounding fees/settlement amount paid in proceedings (by 
+the entity or by directors/KMPs) with regulators/law enforcement agencies/judicial institutions, in FY21. 
+There have been no instances of fines and penalties imposed by the Statutory Authorities on the Company. 
+3. Of the instances disclosed in Question 2 above, details of the Appeal/Revision are preferred in cases where 
+monetary or non-monetary action has been appealed.  
+Not applicable. 
+ 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+18 
+ 
+4. Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web link to the policy.  
+Yes, Mphasis has an Anti-Corruption and Anti-Bribery Policy. The policy articulates our commitment to counter bribery 
+and corruption risks. Mphasis Anti-Bribery and Corruption Policy enables us to reduce the risk of liability for improper 
+conduct such as bribery and corruption at all levels within our Company. 
+• 
+Link to the policy: https://bit.ly/anti-bribery-and-anti-corruption-policy. 
+5. Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/corruption. 
+FY 2021-22 
+FY 2020-21 
+Directors 
+Nil 
+ 
+Nil 
+KMPs 
+Employees  
+Workers 
+ 
+6. Details of complaints with regard to conflict of interest: 
+There are no complaints received in relation to the conflict of interest against directors and KMPs in the current as well 
+as in the previous financial year. 
+7. Provide details of any corrective action taken or underway on issues related to fines/penalties/action taken 
+by regulators/law enforcement agencies/judicial institutions, on cases of corruption and conflicts of interest. 
+Not applicable. 
+Leadership Indicators 
+1. Awareness programmes conducted for value chain partners on any of the Principles during the financial year. 
+Mphasis does not have specific training programs for its value chain partners. We communicate with our value chain 
+partners on our company’s responsible practice and Code of Business Conduct. Additionally, Mphasis supplier 
+communication letter sent to the suppliers which provide details on ethical and legal dealings, POSH Policy and Whistle 
+Blower Policy. 
+2. Does the entity have processes in place to avoid/ manage conflict of interests involving members of the 
+Board? (Yes/No) If Yes, provide details of the same. 
+Yes, the Mphasis COBC including the Code of Conduct for the directors, mandates adherence to laws and regulations, 
+including anti-bribery, anti-corruption, and ethical handling of conflicts of interest. The publicly available COBC 
+encourages our people to conduct business lawfully, ethically and in the best interest of Mphasis. It is a guide that 
+provides broad direction on how our company must operate and uphold integrity at all times 
+• 
+Link to the policy: https://bit.ly/code-of-business-conduct-policy .
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+19 
+ 
+Principle 2: Businesses should 
+provide goods and services in a 
+manner that is sustainable and safe 
+ 
+Essential Indicators 
+1. Percentage of R&D and capital expenditure (CAPEX) investments in specific technologies to improve 
+product and processes' environmental and social impacts to total R&D and capex investments made by the 
+entity, respectively. 
+Mphasis has an R&D practice with an objective to contribute to increased efficiency of operations and delivery to the 
+Clients and to ensure sustainability through digitization. Mphasis currently does not measure the percentage of R&D 
+and capital expenditure investments in specific technologies to improve product and processes' environmental and 
+social impacts. 
+2. Does the entity have procedures in place for sustainable sourcing? (Yes/No) 
+Yes, Mphasis has a procedure in place for sustainable sourcing. We look at the following sustainability factors while 
+procuring IT assets from their suppliers: 
+(i) 
+Vendor diversity 
+(ii) MSMED status 
+(iii) Yearly revenue 
+(iv) Quality certification 
+(v) POSH policies  
+(vi) ISO certification 
+(vii) Policy on anti-slavery and human trafficking 
+(viii) Environmental management 
+(ix) Policy on the prohibition of child labour 
+While empanelment of our suppliers, we ensure that all the above-mentioned factors are thoroughly checked. This is 
+done through a supplier registration form which the vendor must complete. 
+ b. If yes, what percentage of inputs were sourced sustainably? 
+100% of our suppliers undergo the sustainable procurement procedure of Mphasis. 
+3. Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the 
+end of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste. 
+Waste type 
+Waste management procedure in place 
+Plastic (including packaging) 
+Plastic waste is sent to ITC for recycling. 
+Mphasis has a “Say no to plastic program” which helps to divert waste and 
+reduce our effects on the local community and, as a result, the climate. It will 
+necessitate a few minor adjustments to everyday routines, both at home and 
+at work. Our leadership team, the administration SPOC’s and the CEO took 
+the challenge to ban single-use plastic at all offices with each one of our 
+employees to support in becoming the poster child for a plastic-free 
+organization.  
+All Mphasis facilities have also resorted to using 100% biodegradable plastic 
+garbage bags to collect and dispose of wet waste, diverting thousands of 
+disposable plastic waste in the process. 
+E-waste 
+Disposed of as per E-waste Management Rules, 2016 
+Hazardous waste 
+Disposed of as per Batteries (Management and Handling) Amendment 
+Rules, 2010 
+Other waste (wastepaper and paper products) 
+Sent to ITC Paper Mills for recycling 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+20 
+ 
+Mphasis has implemented a visitor management tool to reduce the consumption of paper and waste generation resulting 
+from security visitor management. The Company’s transport tool ETMS has been integrated with the mobile app for 
+reducing the paper consumption which is being used to maintain and monitor trip details. 
+4. Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/No). If yes, 
+whether the waste collection plan is in line with the EPR plan submitted to Pollution Control Boards?  
+Yes, EPR applies to the Company’s activities. As a bulk consumer of electronic equipment, the company disposes and 
+manages the E-waste generated from operations in alignment with the E-waste Management Rules, 2016. 
+Leadership Indicators  
+1. Has the entity conducted Life Cycle Perspective/Assessments (LCA) for any of its products (for 
+manufacturing industry) or its services (for service industry)? If yes, provide details in the following format? 
+Not applicable to Mphasis. 
+2. If there are any significant social or environmental concerns and/or risks arising from the production or 
+disposal of your products/services, as identified in the Life Cycle Perspective/Assessments (LCA) or through 
+any other means, briefly describe the same along-with action taken to mitigate the same.  
+Not applicable to Mphasis. 
+3. Percentage of recycled or reused input material to total material (by value) used in production (for 
+manufacturing industry) or providing services (for service industry).  
+Not applicable to Mphasis. 
+4. Of the products and packaging reclaimed at end of life of products, the amount (in metric tonnes) reused, 
+recycled, and safely disposed of.  
+ 
+FY 2021-22 
+FY 2020-21 
+Re-used 
+Recycled 
+Safely 
+disposed 
+Re-used 
+Recycled 
+Safely 
+disposed 
+Plastics (including 
+packaging) 
+Not applicable to Mphasis 
+ 
+E-waste 
+Hazardous waste 
+Other waste 
+5. Reclaimed products and their packaging materials (as a percentage of products sold) for each product 
+category. 
+Not applicable.
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+21 
+ 
+Principle 3: Businesses should 
+respect and promote the well-being 
+of all employees, including those in 
+their value chains  
+Essential Indicators  
+1. a. Details of measures for the well-being of employees. 
+Category 
+% of employees covered by 
+Total 
+(A) 
+Health insurance 
+Accident 
+insurance 
+Maternity 
+benefits 
+Paternity benefits 
+Daycare facilities 
+Number 
+(B) 
+% 
+(B/A) 
+Number 
+(C) 
+% 
+(C/A) 
+Number 
+(D) 
+% 
+(D/A) 
+Number 
+(E) 
+% 
+(E/A) 
+Number 
+(F) 
+% (F/A) 
+Permanent employees 
+Male 
+9,619 
+9,619 
+100% 
+9,619 
+100% 
+NA 
+NA 
+9,600 
+99.8% 
+Mphasis provides 
+daycare facilities 
+for its employees. 
+Considering 100% 
+remote work for 
+the past 2 years 
+due to the covid-
+19 pandemic, the 
+company has not 
+tracked the 
+utilization of this 
+benefit. 
+Female 
+3,130 
+3,130 
+100% 
+3,130 
+100% 
+3,127 
+99.9% 
+NA 
+NA 
+Total 
+12,749 
+12,749 
+100% 
+12,749 
+100% 
+3,127 
+24.5% 
+9,600 
+75% 
+Other than permanent employees  
+Male 
+NA 
+Female 
+Total 
+• 
+Maternity benefits are provided to Mphasis employees as per the Maternity Benefits Act 1961. 
+• 
+As per the classification of employees and workers under Mphasis, we do not have employee classification as “other than permanent 
+employees. 
+b. Details of measures for the well-being of workers:  
+Category 
+% of workers covered by 
+Total 
+(A) 
+Health 
+insurance 
+Accident 
+insurance 
+Maternity 
+benefits 
+Paternity 
+benefits 
+Day care 
+facilities 
+Number 
+(B) 
+% 
+(B/A) 
+Number 
+(C) 
+% 
+(C/A) 
+Number 
+(D) 
+% 
+(D/A) 
+Number 
+(E) 
+% (E/A) 
+Number 
+(F) 
+% 
+(F/A) 
+Permanent workers 
+Male 
+8,165 
+8,165 
+100% 
+8,165 
+100% 
+NA 
+NA 
+8,165 
+100% 
+Yes  
+Refer Note below  
+Female 
+6,252 
+6,252 
+100% 
+6,252 
+100% 
+6,252 
+100% 
+NA 
+NA 
+Total 
+14,421 
+14,421 
+100% 
+14,421 
+100% 
+14,421 
+100% 
+14,421 
+100% 
+Other than permanent workers 
+Male 
+Health and accidental insurance coverage, parental benefits and other facilities are provided by the 
+contractors hiring the workers (Other than permanent workers). 
+Female 
+Total 
+Note: Mphasis provides daycare facilities for its employees. Considering 100% remote work for the past 2 years due to the covid-19 pandemic, 
+the company has not tracked the utilization of this benefit. 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+22 
+ 
+2. Details of retirement benefits. 
+ 
+Benefits 
+FY 2021-22 
+FY 2020-21 
+No. of employees 
+covered as a % of 
+total employees 
+No. of 
+workers 
+covered as a 
+% of total 
+workers 
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.) 
+No. of 
+employees 
+covered as a % 
+of total 
+employees 
+No. of 
+workers 
+covered as a 
+% of total 
+workers 
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.) 
+PF 
+100% of India-
+based employees 
+100% of 
+India-based 
+employees 
+Yes 
+100% of India-
+based 
+employees 
+100% of 
+India-based 
+employees 
+Yes 
+Gratuity 
+100% of India-
+based employees 
+100% of 
+India-based 
+employees 
+Yes 
+100% of India-
+based 
+employees 
+100% of 
+India-based 
+employees 
+Yes 
+ESI 
+NA 
+6,493 
+employees are 
+covered based 
+on eligibility. 
+Yes 
+NA 
+4379 
+employees 
+are covered 
+based on 
+eligibility. 
+Yes 
+Others – 
+please 
+specify 
+Nil 
+3. Accessibility of workplaces  
+Yes, Mphasis offices are accessible to employees with disabilities, and we conduct regular facility audits to ensure 
+that the workplace is accessibility friendly.  
+4. Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? 
+If so, provide a web link to the policy.  
+Mphasis complies with all rules and regulations concerning accommodating disabilities associated with the workplace. 
+Such aspects are covered under the company’s diversity policy. 
+Relevant policies can be accessed at the Board Diversity Policy, Diversity and Inclusion Policy and: Code of Business 
+Conduct 
+5. Return to work and retention rates of permanent employees and workers that took parental leave.  
+ 
+Gender 
+Permanent employees 
+Permanent workers 
+Return to work rate 
+Retention rate 
+Return to work rate 
+Retention rate 
+Male 
+86.78% 
+55.21% 
+76.56% 
+62.26% 
+Female 
+95.35% 
+61.83% 
+92.25% 
+47.87% 
+Total 
+91.06% 
+58.52% 
+84.40% 
+55.06% 
+6. Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+workers (Permanent workers, Other than permanent workers, Permanent employees, Other than permanent 
+employees)? If yes, give details of the mechanism in brief.  
+Yes, Mphasis has a mechanism available to receive and redress grievances for all the categories of employees and 
+workers. The mechanism is explained below: 
+Individuals who believe they have been the victims of conduct prohibited by this Policy or believe they have witnessed 
+such conduct should discuss their concerns with their immediate supervisor, HRBP, or write to the I&D office at 
+inclusion.diversity@mphasis.com  
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+23 
+ 
+Any employee who feels or believes that he or she has been subjected to or witnessed sexual harassment in the 
+company and/or extend workplace (such term being as defined in the POSH policy of the Company) has an obligation 
+and duty to report the same to posh@mphasis.com. Any reported allegations of harassment, discrimination or 
+retaliation are dealt with in accordance with the provisions of law and are investigated promptly. The investigation may 
+include individual interviews with the parties involved and, where necessary, with individuals who may have observed 
+the alleged conduct or may have other relevant knowledge. 
+The company maintains confidentiality throughout the process to the extent consistent with adequate investigation and 
+appropriate corrective action. Retaliation against an individual for reporting harassment or discrimination or for 
+participating in an investigation of a claim of harassment or discrimination is a serious violation of this Policy and, like 
+harassment or discrimination itself, will be subject to disciplinary action. Acts of retaliation should be reported 
+immediately and will be promptly investigated and addressed. In case of non-compliance by employees, it can lead to 
+termination of services/penalties extend to monetary fines/ imprisonment (where permitted by law). False and malicious 
+complaints of harassment, discrimination, or retaliation (as opposed to complaints that, even if erroneous, are made in 
+good faith) may be the subject of appropriate disciplinary action. For additional details on sexual harassment please 
+refer to POSH policy (Unified access >>Policy Documents >>HR Corner >>Corporate Policies >> POSH). 
+Hiring agencies take care of redress grievances for contract employees and workers (other than permanent employees 
+and workers). 
+Mphasis whistle blower policy enables our employees, associates, and business partners to raise and report all 
+allegations of suspected improper activities that are in breach of our COBC. The complainant can lodge actual or 
+suspected fraud or any violation of the company’s COBC at whistleblower@mphasis.com or a written complaint can 
+be dropped into the whistle blower drop box at the respective company’s location. 
+7. Membership of employees and workers in association(s) or Unions recognized by the listed entity: 
+No. There is no such employee association that is officially recognized by the company  
+8. Details of training given to employees and workers:  
+ 
+Category 
+FY 2021-22 
+FY 2021-20 
+Total 
+(A) 
+On health and safety 
+measures 
+On skill 
+upgradation 
+Total 
+(D) 
+On health and safety 
+measures 
+On skill 
+upgradation 
+No. (B) % (B/A) No. (C) 
+% (C/A) 
+ 
+No. (E) 
+% (E/D) 
+No.(F) 
+% 
+(F/D) 
+Employees 
+Male 
+9219 
+8870 
+96.2% 
+3,965 
+43% 
+7521 
+7396 
+98.3% 
+5,563 
+74% 
+Female 
+2860 
+2778 
+97.1% 
+1,198 
+42% 
+2142 
+2120 
+98.9% 
+1,469 
+69% 
+Total 
+12079 11648 
+96.4% 
+5,163 
+43% 
+9663 
+9516 
+98.4% 
+7,032 
+74% 
+Workers 
+Male 
+5450 
+5197 
+95.3% 
+3,740 
+69% 
+5198 
+5088 
+97.8% 
+1,555 
+30% 
+Female 
+7168 
+6783 
+94.6% 
+2,917 
+41% 
+3799 
+3719 
+97.9% 
+1,283 
+34% 
+Total 
+12618 11980 
+94.9% 
+6,657 
+53% 
+8997 
+8807 
+97.8% 
+2,838 
+32% 
+Note: Data provided is for those workers/employees who are eligible for on skill upgradation through our “Talent Next”. Other employees receive 
+on the job training or external trainings based on the training process of the Company which also contributes to skill upgrades. 
+     9.Details of performance and career development reviews of employees and workers: 
+Periodic assessment of performance helps us to better equip ourselves to meet our goals and thereby make a 
+significant contribution to the organization’s goals. The annual performance appraisal is conducted in April. The 
+objective of the Annual Appraisal is to facilitate a fair and transparent system of performance review and discussions 
+of the annual goals between employee and manager. It involves reviewing the past, analyzing the present, and planning 
+for the future. Furthermore, the Nomination and Remuneration Committee of the Board evaluates the performance of 
+the members of the executive management on an annual basis.  
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+24 
+ 
+Category  
+FY 2021-22 
+FY 2020-21 
+Total (A) 
+No. (B)  
+% (B/A)  
+Total (C) 
+No. (D) 
+% (D/C) 
+Employees 
+Male 
+For the year 2021-22 performance and career 
+development reviews of employees have not 
+started 
+8,718 
+6,203 
+71% 
+Female 
+2,707 
+1,821 
+67% 
+Total 
+11,425 
+8,024 
+70% 
+Workers 
+Male 
+For the financial year, 2021-22 performance and 
+career development reviews of workers have not 
+started. 
+4,737 
+3,772 
+80% 
+Female 
+6,259 
+2,906 
+46% 
+Total 
+10,996 
+6,678 
+60% 
+10. Health and safety management system:  
+a. Whether an occupational health and safety management system been implemented by the entity? (Yes/No). 
+If yes, what is the coverage of such a system? 
+Yes, Mphasis has a dedicated Environmental, Health, and Safety (EHS) Policy in place, which addresses the EHS 
+related concerns involved with our business operations. The policy also helps in bringing EHS awareness. The policy 
+addresses the concerns related to the environment through the following commitments outlined below: 
+(i) Meeting all the environment-related compliance requirements (like hazardous waste annual returns, 
+environmental audit statements, battery returns and e-waste returns) across their business locations in the 
+country in a timely manner 
+(ii) Enhancing sustainability initiatives to reduce the company’s carbon footprint and thereby continuously monitor 
+the carbon data 
+(iii) Conserving natural resources by minimizing usage, reusing, and recycling material and by purchasing recycled 
+material 
+(iv) Ensuring the optimum consumption of energy throughout our business, including conserving energy, improving 
+energy efficiency by use of energy-efficient devices and giving preference to renewable over non-renewable 
+energy sources wherever feasible 
+(v) Striving to prevent pollution and minimize the environmental impacts 
+(vi) Educating our suppliers to operate consistently with our Supplier code of conduct and applicable environmental 
+standards 
+(vii) Setting targets for continuous improvements on environmental performance indicators and reporting our 
+performance to our stakeholders 
+b. What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity?  
+Mphasis has an Aspect-Impact register, in accordance with ISO standards, in which all work-related hazards are 
+identified. 
+c. Whether you have processes for workers to report the work-related hazards and to remove themselves from 
+such risks.  
+Mphasis has a procedure in place, the purpose is to identify work-related hazards that can be controlled and those that 
+can influence the overall environmental performance of the company and determine the significance of the associated 
+environmental impacts. 
+d. Do the employees/workers of the entity have access to non-occupational medical and healthcare services?  
+Yes. All employees of the company are covered under the company’s health insurance policy and at all the company 
+facilities paramedical facilities are available. 
+11. Details of safety-related incidents. 
+Not applicable to Mphasis as our corporate security function has not received any information/complaints pertaining to 
+the category of incidents given in the table for FY 2020-2021 & 2021-2022. 
+ 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+25 
+ 
+Safety Incident/Number 
+Category 
+FY 2021-22 
+FY 2020-21 
+Lost Time Injury Frequency Rate (LTIFR)  
+(per one million-person hours worked) 
+Employee 
+Nil 
+Nil 
+Worker 
+Total recordable work-related injuries 
+Employee 
+Worker 
+No. of fatalities 
+Employee 
+Worker 
+High consequence work-related injury or ill-health  
+(excluding fatalities) 
+Employee 
+Worker 
+12. Describe the measures taken by the entity to ensure a safe and healthy workplace.  
+Measures were taken by Mphasis to ensure a safe and healthy workplace are listed below: 
+(i) Collating the EHS data from PAN India facilities such as energy consumption, paper consumption, transportation 
+distance, waste inventory, water consumption, etc. monthly in order to assess the data and for preparing quarterly 
+reports on the same 
+(ii) Organizing EHS activities such as health check-ups and awareness camps, wellness camps and health sessions 
+across PAN India facilities 
+(iii) Organizing first aid training, fire safety training, chemical safety training across PAN India facilities along with 
+environmental awareness events and circulating the relevant communications 
+(iv) Providing necessary support for external EHS audits and participating in various EHS award categories 
+(v) Conducting EHS calls for PAN India facilities regularly  
+13. Number of complaints on the following made by employees and workers 
+ 
+FY 2021-22 
+FY 2020-21 
+ 
+Filed during the 
+year 
+Pending 
+resolution at the 
+end of year 
+Remarks 
+Filed during 
+the year 
+Pending 
+resolution at the 
+end of year 
+Remarks 
+Working  
+conditions 
+Nil 
+Health & safety 
+14. Assessments for the year 
+% of offices that were assessed (by entity or statutory authorities or third 
+parties) 
+Health and safety practices 
+40% 
+Working conditions 
+100% 
+15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) and 
+on significant risks/concerns arising from assessments of health & safety practices and working conditions. 
+Against the backdrop of the pandemic, the Company has been following procedures to comply with the state/local 
+regulations/directives and ensure safety and hygiene protocols and social distancing on the premises of the Company. 
+Self-sanitizing dispensers have been installed at the locations for use of employees. The Company set up a 24x7 
+COVID War Room (SANJEEVANI) aimed at providing relevant, accurate and verified information related to COVID 
+services to the employees and their families in need of immediate support besides extending assistance to the infected 
+employees and their families for quarantine facilities, medical emergencies and hospitalization. COVID vaccination 
+campaigns were organized at the major locations of the Company to help the employees to stay vaccinated.  
+ 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+26 
+ 
+Leadership Indicators  
+1. Does the entity extend any life insurance or any compensatory package in the event of death of (A) 
+Employees (Y/N) (B) Workers (Y/N) 
+I. 
+Employees 
+:  
+Yes 
+II. 
+Workers 
+:  
+Yes 
+ 
+2. Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and 
+deposited by the value chain partners.  
+The Company ensures that statutory dues have been deducted and deposited by the value chain partners in accordance 
+with applicable laws and regulations. Mphasis expects all its value chain partners to align with the company’s code of 
+conduct, business responsibility principles and values. 
+ 
+When an order is placed, Mphasis pays the vendor the cost including GST. They are supposed to deposit GST with the 
+Government which the Mphasis Tax team monitors, because unless they deposit the GST Mphasis cannot claim the 
+amount from the Government 
+3. Provide the number of employees/workers having suffered high consequence work-related injury/ill-
+health/fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in 
+suitable employment or whose family members have been placed in suitable employment:  
+Not applicable, as there are no work-related injuries in FY22 and FY21.  
+4. Does the entity provide transition assistance programs to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment? (Yes/No)  
+No, we do not have a specific transition assistance program for retired or terminated employees as the employees are 
+mostly highly skilled and do not have a compelling requirement for transition assistance. 
+5. Details on assessment of value chain partners: 
+ 
+% of value chain partners (by value of business done with such partners) that 
+were assessed 
+Health and safety conditions 
+The Company expects all its value chain partners to follow the applicable 
+regulations including health and safety and working conditions. Mphasis 
+currently does not assess its value chain partners on specific health and safety 
+and working conditions. To ensure responsible business conduct throughout 
+our value chain, suppliers are contractually bound to adhere to Mphasis 
+sustainability 
+policies 
+in 
+the 
+mentioned 
+link- 
+https://www.mphasis.com/home/corporate/investors.html under the section ‘ 
+Corporate Governance’ These policies mandate to ensure healthy working 
+conditions for employees and has zero-tolerance for human rights violations. 
+Working conditions  
+6. Provide details of any corrective actions taken or underway to address significant risks/concerns arising 
+from assessments of health and safety practices and working conditions of value chain partners. 
+Nil
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+27 
+ 
+Principle 4: Businesses should 
+respect the interests of and be 
+responsive to all its stakeholders 
+Essential Indicators  
+1. Describe the processes for identifying key stakeholder groups of the entity. 
+Priority stakeholder groups are identified by understanding their relative importance and their ability to provide value to 
+our business. The stakeholder identification and prioritization process has been conducted during the materiality 
+assessment in FY 2020-2021.  By considering the parameters and stakeholder attributes defined by global standards 
+such as GRI Sustainability Reporting Guidelines and National Guideline for Responsible Business Conduct (NGBRC) 
+we have mapped our stakeholders. To finalize the list of key stakeholders, we looked into the parameters such as 
+stakeholder impact, diversity, influence, urgency and legitimacy.  
+In keeping with the above criteria, we have identified six key stakeholder groups customers, shareholders and investors, 
+government institutions and regulators, business partners and vendors, employees and communities. 
+2. List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group. 
+ 
+Stakeholder 
+group 
+Whether identified as 
+vulnerable & marginalized 
+group 
+(Yes/No) 
+Channels of 
+communication (Email, 
+SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community meetings, 
+Notice board, Website), 
+Other 
+Frequency of 
+engagement 
+(Annually/half-
+yearly/quarterly/others – 
+please specify) 
+Purpose and scope 
+of engagement 
+including key topics 
+and concerns 
+raised during such 
+engagement 
+Employees 
+Mphasis have identified 
+specific groups of 
+employees to provide 
+support 
+Email, SMS, Townhalls, 
+Intranet 
+Ongoing activities 
+planned over the year 
+Ongoing 
+Society 
+Through Mphasis CSR, 
+specific groups are 
+identified and supported 
+by partnering with various 
+NGOs 
+Email, Social Media, SMS, 
+Website, In-person events, 
+Community meetings 
+Ongoing activities 
+planned over the year 
+Ongoing 
+Suppliers 
+Yes, Mphasis have diverse 
+vendors as well as MSME 
+businesses from where 
+they source 
+Email, Meetings 
+As and when required 
+As and when 
+required 
+Clientele and 
+partners 
+No 
+Email, Social Media, SMS, 
+Website, In-person events, 
+External events 
+As and when required 
+As and when 
+required 
+Investors or 
+external 
+channels 
+No 
+Email, Meetings 
+Quarterly 
+Quarterly 
+Shareholders 
+No 
+Email, Meetings 
+Annual 
+Annual 
+Regulators 
+and policy 
+makers 
+No 
+Statutory reporting to the 
+regulators, Participation in 
+seminars, webinars, etc. 
+organized 
+by 
+various 
+regulators 
+As 
+per 
+the 
+defined 
+frequency in the law. 
+Timely disclosure of 
+information to the 
+stock 
+exchanges 
+and other regulators 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+28 
+ 
+Leadership Indicators 
+3. Provide the processes for consultation between stakeholders and the board on economic, environmental, 
+and social topics or if consultation is delegated, how is feedback from such consultations provided to the 
+board. 
+Our stakeholders are central to our business growth and value creation. We are committed to necessitate meaningful 
+and proactive engagement with them throughout the year to ensure that our interests, concerns, and competing 
+expectations are addressed responsibly. Our inclusive approach to stakeholder engagement enables us to 
+communicate material ESG matters to concerned personnel and the board is kept informed and development and 
+feedback are received periodically.  
+4. Whether stakeholder consultation is used to support the identification and management of environmental, 
+and social topics (Yes/No). If so, provide details of instances as to how the inputs received from stakeholders 
+on these topics were incorporated into the policies and activities of the entity.  
+Yes, we have conducted a materiality assessment with all key stakeholders (leadership, customers, investors, and 
+suppliers) to identify Mphasis' material issues. Details can be found on the website, ESG report. 
+5. Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups.  
+Our CSR initiatives are targeted toward marginalized groups. No vulnerable or marginalized groups among other 
+stakeholders.
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+29 
+ 
+Principle 5: Businesses should 
+respect and promote human rights 
+Essential Indicators  
+1. Employees and workers who have been provided training on human rights issues and policy(ies) of the 
+entity, in the following format:  
+Category 
+FY 2021-22 
+FY 2020-21 
+Total (A) 
+No. of 
+employees/workers 
+covered (B) 
+% (B/A) 
+Total (C) 
+No. of 
+employees/workers 
+covered (D) 
+% (D/C) 
+ 
+ 
+Employees 
+Permanent 
+12,079 
+11,648 
+96.4% 
+9,663 
+9,516 
+98.5% 
+Other than 
+permanent  
+- 
+- 
+- 
+- 
+- 
+- 
+Total employees 
+12,079 
+ 
+11,648 
+ 
+96.4% 
+ 
+9,663 
+ 
+9,516 
+ 
+98.5% 
+Workers 
+Permanent 
+12,618 
+11,980 
+94.9% 
+8,997 
+8,807 
+98% 
+Other than 
+permanent  
+- 
+- 
+- 
+- 
+- 
+- 
+Total workers  
+12,618 
+11,980 
+94.9% 
+8,997 
+8,807 
+98% 
+• 
+*100% of Mphasis employees are trained on COBC which explicitly forbids violations of human rights. The COBC, which outlines the approach 
+and commitment to human rights, covers all Mphasis employees. 
+2. Details of minimum wages paid to employees and workers 
+Category 
+FY 2021-22 
+Total (A) 
+Equal to minimum wage 
+More than minimum wage 
+No. (B) 
+% (B/A) 
+No. (C) 
+% (C/A) 
+Employees 
+Permanent 
+Male 
+9,619 
+0 
+0% 
+9,619 
+100% 
+Female 
+3,130 
+0 
+0% 
+3,130 
+100% 
+Workers 
+Permanent 
+Male 
+8,165 
+0 
+0% 
+8,165 
+100% 
+Female 
+6,252 
+0 
+0% 
+6,252 
+100% 
+3. Details of remuneration/salary/wages 
+Male 
+Female 
+Number 
+Median 
+remuneration/salary/wages of 
+respective category 
+Number 
+Median 
+remuneration/salary/wages of 
+respective category 
+Board of Directors 
+(BoD) 
+9 
+INR 5.31 million 
+3 
+INR 5.11 million 
+Key managerial 
+personnel 
+3 
+INR 44.96 million 
+Nil 
+Nil 
+Employees other than 
+BoD and KMP 
+9,619 
+INR 1,500,000 
+3,130 
+INR 1,300,000 
+Workers 
+8,165 
+INR 3,40,000 
+6,252 
+INR 3,25,000 
+• 
+The Director’s remunerations are paid on a defined matrix that is uniformly applicable to all the Directors. The difference in the median 
+remuneration of the Directors is due to attendance at the meetings and the committees served by the Directors. 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+30 
+ 
+4. Do you have a focal point (individual/committee) responsible for addressing human rights impacts or 
+issues caused or contributed to by the business? (Yes/No)  
+Yes, Mphasis has appointed multiple personnel to address human rights impacts or issues caused or contributed to by 
+the business. The issues are resolved/addressed basis the nature of the matter. 
+5. Describe the internal mechanisms in place to redress grievances related to human rights issues.  
+Mphasis has a grievance redressal mechanism related to the policy/policies to address stakeholders’ grievances 
+related to the policies and the human rights issues. 
+6. Number of complaints on the following made by employees and workers: 
+ 
+ 
+FY22 
+FY21 
+Filed 
+during the 
+year 
+Pending 
+resolution at 
+the end of 
+year 
+Remarks 
+Filed during 
+the year 
+Pending 
+resolution at 
+the end of year 
+Remarks 
+Sexual harassment 
+30 
+0 
+Nil 
+18 
+0 
+Nil 
+Discrimination at 
+workplace 
+No complaints 
+No complaints 
+Child labour 
+No complaints 
+No complaints 
+Forced labour/Involuntary 
+labour 
+Wages 
+No complaints 
+No complaints 
+Other human rights-
+related issues 
+No complaints 
+No complaints 
+7. Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.  
+Mphasis is committed to ensuring a workplace free from all kinds of discrimination and sexual harassment. The 
+company has an Anti-discriminatory policy and POSH policy in place to prevent and address such issues. 
+The above-mentioned policies provide a mechanism for redressal of complaints of sexual harassment without fear or 
+threat of reprisals in any form or manner to all its employees irrespective of their gender and sexuality. We have zero-
+tolerance for sexual harassment. 
+Mphasis is aware that sexual harassment can occur and when reported, we are committed to redressing all such cases. 
+The Internal Committee have been constituted to investigate every complaint thoroughly and ensure adequate 
+reparative action is taken. For a detailed process refer to POSH Policy and FAQ. 
+8. Do human rights requirements form part of your business agreements and contracts? (Yes/No) 
+Yes, Mphasis includes human rights requirements as a part of business agreements and contracts. 
+9. Assessments of the year 
+Mphasis do not conduct such assessment, however, we perform internal checks and reviews periodically to ensure 
+compliance. 
+ 
+Remarks  
+Child labour  
+Mphasis abides by the law of land, as applicable, and do not have such hiring/instances 
+under child labour/forced labour. 
+Forced/involuntary labour*  
+Sexual harassment** 
+• 
+A quarterly update on sexual harassment is presented to the Board.  
+• 
+India- Annual report comprising complaints filed, disposed of, penal consequences 
+and awareness initiatives for every location is submitted to the district offices. 
+• 
+The Company Annual report includes a report on sexual harassment. 
+Discrimination at workplace  
+There is an anti-discriminatory policy in place 
+Multiple awareness sessions are conducted at regular intervals on anti-discrimination. 
+Recently concluded a campaign #THEREALME on anti-discrimination. 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+31 
+ 
+Any reported allegations of harassment, discrimination or retaliation will be investigated 
+promptly. The investigation may include individual interviews with the parties involved 
+and, where necessary, with individuals who may have observed the alleged conduct or 
+may have other relevant knowledge. 
+Mphasis will maintain confidentiality throughout the investigatory process to the extent 
+consistent with adequate investigation and appropriate corrective action. 
+Retaliation against an individual for reporting harassment or discrimination or for 
+participating in an investigation of a claim of harassment or discrimination is a serious 
+violation of this Policy and, like harassment or discrimination itself, will be subject to 
+disciplinary action. Acts of retaliation should be reported immediately and will be 
+promptly investigated and addressed. 
+In case of non-compliances by employees, it can lead to termination of 
+services/penalties extend to monetary fines/ imprisonment (where permitted by law).  
+False and malicious complaints of harassment, discrimination, or retaliation (as opposed 
+to complaints that, even if erroneous, are made in good faith) may be the subject of 
+appropriate disciplinary action 
+Wages  
+Adhere to minimum wages, robust process in place internally. HR audits, client-specific 
+audits regularly 
+Others – Please specify 
+NA 
+10. Provide details of any corrective actions taken or underway to address significant risks/concerns arising 
+from the assessments at Question 9 above. 
+Not applicable  
+Leadership Indicators  
+11. Details of a business process being modified/introduced as a result of addressing human rights 
+grievances/complaints.  
+We respect each of our employees as individuals and value their differences. The company is committed to ensuring 
+equal opportunities for all its employees and creating an environment that is fair and flexible, promotes learning and 
+growth and reflects the diversity of the world. and it applies to all officers, directors, employees, and contract employees 
+in Mphasis. 
+Employees shall strive to create a workplace that is free from discrimination in their employment practices against any 
+potential or existing employees, and shall not discriminate on a person’s age or other circumstances, colour, cultural or 
+social beliefs such as religion, educational background, race, ethnicity or nationality, spiritual, traditional or customary 
+beliefs, political opinion, physical features/appearances, gender identity and expression, marital status, judging the 
+impacts of potential pregnancy on decisions, sexual orientation, physical disability or impairment. 
+ 
+12. Details of the scope and coverage of any human rights due diligence conducted 
+No. Currently, Mphasis does not conduct human rights due diligence. 
+13. Is the premise/office of the entity accessible to differently-abled visitors, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016? 
+Yes, Mphasis premise/offices are accessible to Persons with Disabilities (PwDs), as per the requirements of the Rights 
+of Persons with Disabilities Act, 2016. Mphasis provide below facilities at their premises/offices: 
+(i) Wheelchair 
+(ii) PWD friendly washrooms equipped with required spares 
+(iii) Foldable stretcher 
+(iv) Evacuation chair 
+(v) Dedicated parking with signages 
+(vi) Workspace – Customized workstation for PWD employees as per their request 
+(vii) Ramps and swing gates (while entering the floor) 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+32 
+ 
+14. Details on assessment of value chain partners: 
+100 % of the value chain partners are reviewed based on the below-mentioned parameters. 
+Remarks 
+Sexual harassment 
+Mphasis only empanels vendors who comply with our COBC. 
+POSH Policy is applicable to Mphasis Limited and its subsidiary, affiliate and or 
+group companies (“Mphasis”). The Policy applies to all officers, directors, 
+employees, visitors, suppliers, contract labour, agents and representatives of 
+Mphasis, and or any third party with whom an employee may have to interact with 
+or in connection with employment in Mphasis. All Contractor for empanelment 
+requires to be compliant with POSH law. Specifically, for India, all vendors that are 
+empaneled are required to be compliant with the provision of The Sexual 
+Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 
+2013 
+Discrimination at workplace  
+Mphasis only empanels vendors who comply with our COBC The Guiding Principles 
+of the Code of Conduct are listed below: Provide a safe, healthy, tolerant and 
+disciplined work environment that respects individuals and is free from 
+discrimination. 
+Child labour  
+Mphasis has zero-tolerance for slavery and human trafficking. We ensure that child 
+labour, forced labour, verbal or any other form of harassment and physical 
+punishment is not permitted in any of our related business with Supply chain 
+partners. We do not engage in any activities that would jeopardize safety or security. 
+Forced/involuntary labour  
+Wages  
+Mphasis ensure to pay all its workforce wages that are equal to or above the 
+minimum wage as per legal requirements. 
+Others – please specify 
+Nil 
+15. Provide details of any corrective actions taken or underway to address significant risks/concerns arising 
+from the assessments at Question 4 above.  
+Mphasis have taken preventive measures to address significant risks and concerns that may arise from the value chain 
+assessments. 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+33 
+ 
+Principle 6: Businesses should 
+respect and make efforts to protect 
+and restore the environment 
+Essential Indicators  
+1. Details of total energy consumption (in MWh) and energy intensity 
+Parameter 
+FY 2021-22 
+FY 2020-21 
+Total electricity consumption (A) 
+21775.076 
+23,199.91  
+Total fuel consumption (B) 
+109.247 
+175.15  
+Energy consumption through other sources (C) 
+7.74 
+5.23  
+Total energy consumption (A+B+C) 
+21892.063 
+23,380.30  
+Energy intensity per rupee of turnover  
+(Total energy consumption/turnover in INR million) 
+MWh/INR million 
+0.31 
+0.41 
+Energy intensity (Total energy consumption/FTE) in 
+MWh/FTE 
+1.72 
+2.29 
+ 
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, the name of the external agency. 
+No independent assessment/ evaluation/assurance has been carried out by an external agency. 
+2. Does the entity have any sites/facilities identified as designated consumers (DCs) under the performance, 
+achieve, and trade (PAT) scheme of the Government of India? (Y/N) If yes, disclose whether targets set under 
+the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action 
+taken if any.  
+Not applicable 
+3. Provide details of the following disclosures related to water: 
+Water is provided by the facility operator under maintenance charges. Water consumption is part of the maintenance 
+charges of the company as we lease our facilities. We do not track our water consumption as per the BRSR 
+requirements.  
+The usage of water by the Company is only on account of human consumption. Efforts have been made to ensure that 
+the water is consumed judiciously in Company’s premises. Water aerators are installed to reduce our water 
+consumption. 
+4. Has the entity implemented a mechanism for zero liquid discharge? If yes, provide details of its coverage 
+and implementation.  
+No, there is no mechanism for zero liquid discharge. A Sewage Treatment Plant (STP) is in place where used water is 
+recycled (treated) and a water test is conducted. If the water test results are within an acceptable range, then water is 
+reused in washrooms and for landscaping purposes.  
+5. Please provide details of air emissions (other than GHG emissions) by the entity: 
+Parameter 
+Unit 
+FY 2021-22 
+FY 2020-21 
+NOx 
+Mphasis does not monitor the air emissions other than the GHG 
+emissions. 
+SOx 
+Particulate matter (PM) 
+Persistent organic pollutants (POP) 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+34 
+ 
+Volatile organic compounds (VOC) 
+Hazardous air pollutants (HAP) 
+Others – ozone-depleting substances 
+(HCFC - 22 or R-22) 
+Mphasis being an IT sector organization, the SOX, NOX and other air emissions do not apply to the firm. 
+6. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) and its intensity: 
+Parameter 
+Unit 
+FY 2021-22 
+FY 2020-21 
+Total Scope 1 emissions  
+(Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available) 
+Metric tonnes of 
+CO2 equivalent 
+83 
+137 
+Total Scope 2 emissions  
+(Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available) 
+Metric tonnes of 
+CO2 equivalent 
+18,072 
+18,924 
+Total Scope 1 and Scope 2 emissions 
+Metric tonnes of 
+CO2 equivalent 
+18,155 
+19,061 
+Total Scope 1 and Scope 2 emissions 
+per turnover in million 
+tCO2 eq/Revenue in 
+Million INR 
+0.25 
+0.34 
+Total Scope 1 and Scope 2 emission 
+intensity  
+tCO2 eq/FTE 
+1.42 
+1.86 
+7. Does the entity have any project related to reducing greenhouse gas emissions? If Yes, then provide details.  
+(i) To reduce carbon footprint value by 1% year on year 
+(ii) To reduce electricity consumption by 5% year on year 
+(iii) Replacement of old AC to R410a refrigerant 
+8. Provide details related to waste management by the entity, in the following format: 
+Parameter 
+FY 2021-22 
+FY 2020-21 
+Total waste generated (in metric tonnes) 
+Plastic waste (A) 
+0.99 
+0.45 
+E-waste (B) 
+0.00 
+0.00 
+Bio-medical waste (C) 
+5.46 
+2.64 
+Construction and demolition waste (D) 
+0.00 
+0.00 
+Battery waste (E) 
+8.95 
+0.37 
+Radioactive waste (F) 
+0.00 
+0.00 
+Other Hazardous waste. Please specify, if any. (G) 
+0.16 
+1.50 
+Other Non-hazardous waste generated (H). Please 
+specify, if any.  
+(Break-up by composition i.e. by materials relevant to the 
+sector) 
+22.35 
+30.16 
+Total (A+B + C + D + E + F + G + H)  
+37.91 
+35.12 
+For each category of waste generated, total waste recovered through recycling, re-using or other 
+recovery operations (in metric tonnes) 
+Category of waste 
+(i) Recycled 
+21.62 
+16.03 
+(ii) Re-used 
+8.95 
+0.37 
+(iii) Other recovery operations 
+- 
+- 
+Total  
+30.57 
+16.48 
+For each category of waste generated, total waste disposed of by nature of disposal method (in metric 
+tonnes) 
+Category of waste 
+ 
+ 
+(i) Incineration 
+Nil 
+Nil 
+(ii) Landfilling 
+(iii) Other disposal operations  
+Total 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+35 
+ 
+9. Briefly describe the waste management practices adopted in your establishments. Describe the strategy 
+adopted by your company to reduce the usage of hazardous and toxic chemicals in your products and 
+processes and the practices adopted to manage such wastes. 
+Batteries are the only hazardous waste Mphasis generated in the facility. This waste is disposed of whenever generated 
+as per Batteries (Management and Handling) Amendment Rules, 2010; wherein the used batteries are disposed to the 
+PCB authorized vendor and Filed half-yearly return in Form VIII to the State Pollution Control Board. 
+10. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones, etc.) 
+where environmental approvals/clearances are required, please specify details in the following format: 
+Not applicable to Mphasis. 
+11. Details of Environmental Impact Assessments of projects undertaken by the entity based on applicable 
+laws, in the current financial year:  
+As a part of fit-outs in new facilities, Mphasis uses raw materials and follows the process that have the least 
+environmental impact, which includes identifying energy efficient cooling and lighting solutions 
+12. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the 
+Water (prevention and control of pollution) Act, Air (prevention and control of pollution) Act, Environment 
+Protection Act, and rules there under (Y/N). If not, provide details of all such non-compliances: 
+Yes, Mphasis is compliant with the applicable environmental law/ regulations/ guidelines in India. 
+Leadership Indicators  
+1. 
+Provide a break-up of the total energy consumed (in MWh) from renewable and non-renewable sources: 
+Parameter 
+FY 2021-22 
+FY 2020-21 
+From renewable sources 
+Total electricity consumption (A) 
+7.74 
+5.23 
+Total fuel consumption (B) 
+- 
+- 
+Energy consumption through other sources (C) 
+- 
+- 
+Total energy consumed from renewable sources (A+B+C) 
+7.74 
+5.23 
+ 
+From non-renewable sources 
+Total electricity consumption (D) 
+21,775.076 
+23,199.91 
+Total fuel consumption (E) 
+109.247 
+175.16 
+Energy consumption through other sources (F) 
+- 
+- 
+Total energy consumed from non-renewable sources (D+E+F) 
+21,884.323 
+23,375.07 
+ 
+2. 
+Provide the following details related to water discharged:  
+Parameter 
+FY 2021-22 
+FY 2020-21 
+Water discharge by destination and level of treatment (in kiloliters) 
+(i) To surface-water 
+Not applicable 
+Not applicable 
+- No treatment 
+- With treatment – please specify the level of treatment 
+(ii) To groundwater 
+- No treatment 
+- With treatment – please specify the level of treatment 
+(iii) To seawater 
+- No treatment 
+- With treatment – please specify the level of treatment 
+(iv) Sent to third parties  
+- No treatment 
+- With treatment – please specify the level of treatment 
+(v) Others 
+- No treatment 
+- With treatment – please specify the level of treatment 
+Total water discharged (in kiloliters)  
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+36 
+ 
+3. 
+Water withdrawal, consumption and discharge in areas of water stress (in kiloliters):  
+For each facility/plant located in areas of water stress, provide the following information:  
+(i) Name of the area: NA 
+(ii)  Nature of operations: NA 
+(iii) Water withdrawal, consumption and discharge: - 
+ 
+Parameter 
+FY 2021-22 
+FY 2020-21 
+Water withdrawal by source (in kiloliters) 
+(i) Surface water 
+Not applicable 
+Not applicable 
+(ii) Groundwater 
+(iii) Third-party water 
+(iv) Seawater/desalinated water 
+(v) Others  
+Total volume of water withdrawal (in kiloliters) 
+Total volume of water consumption (in kiloliters)  
+Water intensity per rupee of turnover (Water 
+consumed/turnover) 
+Water intensity (optional) – the relevant metric may be selected 
+by the entity 
+Water discharge by destination and level of treatment (in kiloliters) 
+(i) Into surface water 
+Not applicable 
+Not applicable 
+- No treatment 
+- With treatment – please specify the level of treatment 
+(ii) Into groundwater 
+- No treatment 
+- With treatment – please specify the level of treatment 
+(iii) Into seawater 
+- No treatment 
+- With treatment – please specify the level of treatment 
+(iv) Sent to third- parties  
+- No treatment 
+- With treatment – please specify the level of treatment 
+(v) Others 
+- No treatment 
+- With treatment – please specify the level of treatment 
+Total water discharged (in kiloliters)  
+ 
+4. 
+Please provide details of total Scope 3 emissions & their intensity: 
+Parameter 
+Unit 
+FY 2021-22 
+FY 2020-21 
+Total Scope 3 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available) 
+Metric tonnes of 
+CO2 equivalent 
+2,756 
+1,986 
+Total Scope 3 emissions per turnover in million 
+tCO2 
+eq/Revenue 
+in 
+Million INR 
+0.039 
+0.0351 
+Total Scope 3 emission intensity  
+tCO2 eq/FTE 
+0.216 
+0.194 
+ 
+5. 
+With respect to the ecologically sensitive areas reported at Question 10 of essential indicators above, 
+provide details of significant direct & indirect impact of the entity on biodiversity in such areas along with 
+prevention and remediation activities.  
+Mphasis Limited does not operate in ecologically sensitive areas. 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+37 
+ 
+6. 
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve 
+resource efficiency, or reduce impact due to emissions/effluent discharge/waste generated, please provide 
+details of the same as well as the outcome of such initiatives 
+Not applicable  
+ 
+7. 
+Does the entity have a business continuity and disaster management plan? 
+Yes, Mphasis has a well-defined BCMS Framework that is in alignment with ISO 22301:2019 standard and is on 
+par with other industry best practices. The BCMS framework covers service delivery functions as well as 
+supporting functions across all Mphasis facilities in India and other countries. Mphasis delivery centres in India 
+are certified to ISO 22301:2019 standard (including its subsidiaries).  
+Mphasis Business Continuity Management System (BCMS) is a fit-for-purpose, business-owned and driven 
+activity that unifies a broad spectrum of business and management disciplines, including crisis management, risk 
+management and technology recovery. BCM is directly linked to corporate governance and establishes a strategic 
+and operational framework to implement, proactively.  
+Mphasis approach to assure continuity of client services follows a two-pronged approach: 
+(i) Site-level Incident Management Plan (IMP): The IMP documented each of the delivery centres/facilities 
+describing the most suitable responses to various disruptive events (E.g., natural calamities, manmade 
+threats, geopolitical issues and technology disruptions). The primary objective of the IM Plan is the safety of 
+human life and assets.  
+(ii) Business Continuity Plan (BCP): A separate, independent, and customized BC Plan is documented for each 
+of the client services delivered from Mphasis delivery centres and support functions. Once the safety of staff, 
+and visitors is ensured, the account-specific BC Plan is executed by respective BCMS coordinators. 
+ 
+8. 
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard?  
+Not applicable to Mphasis. 
+ 
+9. 
+Percentage of value chain partners (by the value of business done with such partners) that were assessed 
+for environmental impacts. 
+Mphasis does not assess its value chain partners for environmental impacts.
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+38 
+ 
+Principle 7: Businesses, when 
+engaging in influencing public and 
+regulatory policy, should do so in a 
+manner that is responsible and 
+transparent 
+Essential Indicators 
+1. a. Number of affiliations with trade and industry chambers/associations. 
+The Company is a member of 4 trade and industry chambers/associations. 
+b. List the top 10 trade and industry chambers/associations (determined based on the total members of such 
+a body) the entity is a member of/affiliated to. 
+Engaging with industry associations offers a great opportunity to stay abreast enabling Mphasis to be prepared in a 
+volatile environment. As a leading player in the service industry, they are often involved in various dialogues with the 
+members of the below-mentioned associations. We amplify our mission by investing our time in participating in various 
+forums and other channels of engagement. 
+ 
+S. No. 
+Name of the trade and 
+industry 
+chambers/associations 
+Reach of trade and industry 
+chambers/associations 
+(State/National) 
+ 
+1 
+The National Association 
+of Software and 
+Service Companies 
+(NASSCOM) 
+National 
+NASSCOM, a not-for-profit industry association, is 
+the apex body for the IT-BPM industry in India. 
+NASSCOM is focused on building the architecture 
+integral to the development of the IT-BPM sector 
+through policy advocacy and helps in setting up the 
+strategic direction for the sector to unleash its 
+potential. 
+NASSCOM’s members, 3000+, constitute 90% of the 
+industry’s revenue and have enabled the association 
+to spearhead initiatives at local, national, and global 
+levels. 
+2 
+Confederation of India 
+Industries (CII) 
+National 
+The Confederation of Indian Industry (CII) works to 
+create and sustain an environment conducive to the 
+development of India, partnering with industry, 
+government, and civil society, through advisory and 
+consultative processes. 
+3 
+American Chamber of 
+Commerce (AMCHAM) 
+Global 
+The American Chamber of Commerce in India 
+(AMCHAM India) is an association of American 
+business organizations operating in India. AMCHAM 
+India is a member of the U.S. Chamber of Commerce 
+in Washington DC and the AMCHAMS of Asia Pacific. 
+The chamber’s mission is to assist member 
+companies to succeed in India through advocacy, 
+information, networking, and business support 
+services. 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+39 
+ 
+S. No. 
+Name of the trade and 
+industry 
+chambers/associations 
+Reach of trade and industry 
+chambers/associations 
+(State/National) 
+ 
+4 
+US- India Strategic 
+Partnership Forum 
+(USISPF) 
+Global 
+The US-India Strategic Partnership Forum (USISPF) 
+is committed to creating the most powerful strategic 
+partnership between the U.S. and India. Promoting 
+bilateral trade is an important part of their work, but 
+their mission reaches far beyond this. It is about 
+business and government coming together in new 
+ways to create meaningful opportunities that have the 
+power to change the lives of citizens. 
+ 
+2. Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by 
+the entity, based on adverse orders from regulatory authorities.  
+No corrective actions were taken as we received no complaints on this matter. 
+Leadership Indicators 
+1. Details of public policy positions advocated by the entity: 
+ 
+S. No. 
+Public policy 
+advocated 
+Method resorted for such 
+advocacy 
+Whether 
+information 
+available in the 
+public domain? 
+(Yes/No) 
+Frequency of review 
+by board 
+(Annually/half 
+yearly/quarterly/others 
+– please specify) 
+Web-link,  
+if available 
+1 
+NASSCOM 
+NASSCOM is the premier trade 
+body 
+and 
+chamber 
+of 
+commerce of the tech industry 
+in India and comprises over 
+3000 
+member 
+companies 
+including 
+both 
+Indian 
+and 
+multinational organizations that 
+have a presence in India. Their 
+membership spans the entire 
+spectrum of the industry from 
+start-ups to multinationals and 
+from products to services, 
+global 
+service 
+centres 
+to 
+engineering firms. Guided by 
+India’s vision to become a 
+leading 
+digital 
+economy 
+globally, NASSCOM focuses 
+on accelerating the pace of 
+transformation of the industry 
+to emerge as the preferred 
+enabler 
+for 
+global 
+digital 
+transformation. 
+Yes 
+Annually 
+https://nassc
+om.in/  
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+40 
+ 
+S. No. 
+Public policy 
+advocated 
+Method resorted for such 
+advocacy 
+Whether 
+information 
+available in the 
+public domain? 
+(Yes/No) 
+Frequency of review 
+by board 
+(Annually/half 
+yearly/quarterly/others 
+– please specify) 
+Web-link,  
+if available 
+2 
+NCPEDP 
+The 
+National 
+Center 
+for 
+Promotion of Employment for 
+Disabled People (NCPEDP) is 
+a cross-disability, non-profit 
+organization, working as an 
+interface 
+between 
+the 
+government, 
+industry, 
+international agencies, and the 
+voluntary 
+sector 
+for 
+the 
+empowerment of persons with 
+disabilities. 
+Yes 
+Annually 
+https://ncped
+p.org/  
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+41 
+ 
+Principle 8: Businesses should 
+promote inclusive growth and 
+equitable development 
+Essential Indicators 
+1. Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in 
+the current financial year.  
+Not applicable. As we are a service-based industry, SIAs do not apply to us. Mphasis strongly focuses on strengthening 
+our community engagement, for which we conduct SIAs for the CSR projects conducted in the operational geographies. 
+2. Provide information on the project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity: 
+Not applicable  
+ 
+3. Describe the mechanisms to receive and redress the grievances of the community. 
+Mphasis works directly with implementation partners who address the grievances of the communities we work with. The 
+company gathers regular feedback from the on-ground stakeholders to assess participation, and satisfaction levels and 
+to document the experience of change. For all CSR projects, implementation partners are actively in touch with the local 
+communities right throughout the project lifecycle. The CSR committee reviews the: 
+(i) grant recommendations made by the CSR head; and  
+(ii) review the annual action plan made in pursuance of the policy including amendments thereto as required from 
+time to time; and  
+(iii) approve and monitor the implementation of the ongoing projects and make appropriate recommendations to the 
+board for its approval. 
+4. Percentage of input material (inputs to total inputs by value) sourced from suppliers: 
+ 
+ 
+ 
+FY 2021-22 
+FY 2020-21 
+Directly sourced from MSMEs/small producers  
+8.57% 
+5.78% 
+Sourced directly from within the district and 
+neighboring districts 
+90.90% 
+92.00% 
+Leadership Indicators 
+1. Provide details of actions taken to mitigate any negative social impacts identified in the social impact 
+assessments (Reference: Question 1 of essential indicators above): 
+Not applicable  
+2. Provide the following information on CSR projects undertaken by your entity in designated aspirational 
+districts as identified by government bodies:  
+S. No. 
+State 
+Aspirational district 
+Amount spent (In INR) 
+1 
+Bihar 
+Navada 
+We have supported COVID-19 pandemic relief efforts through a 
+CSR grant to Kaushalya Foundation, whose work covered above 
+listed Aspirational districts. Mphasis has allocated and utilized its 
+pandemic relief funds for specific programs in these select areas. 
+2 
+Sheikhpura 
+3 
+Jamui 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+42 
+ 
+3. (a) Do you have a preferential procurement policy where you give preference to purchases from suppliers 
+comprising marginalized/vulnerable groups? 
+Yes, our company considered a diverse set of suppliers when performing a sourcing case. This approach to sourcing 
+has enabled us to support local suppliers, minority-owned, women-owned, veteran-owned, LGBT owned, disabled 
+owned, SMEs, etc. across our supply chain.  
+(b) From which marginalized/vulnerable groups do you procure?  
+Diverse suppliers are given priority, thus encouraging the use of suppliers who are owned by minorities, women-owned, 
+veterans, LGBT, people with disabilities (PwD), small to medium enterprises (SME), etc.  
+(c) What percentage of total procurement (by value) does it constitute? 
+8.57% 
+4. Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity 
+(in the current financial year), based on traditional knowledge: 
+Mphasis, plan and develop intellectual property. There is no traditional knowledge that is applied.  
+5. Details of corrective actions taken or underway, based on any adverse order in intellectual property-related 
+disputes wherein usage of traditional knowledge is involved.  
+Mphasis, plan and develop intellectual property. There is no traditional knowledge that is applied. 
+6. Details of beneficiaries of CSR projects:  
+S. No 
+CSR project 
+No. of persons benefited from CSR 
+projects 
+% of beneficiaries from vulnerable 
+and marginalized groups 
+1. 
+Kaushalya Foundation 
+(Covid Relief) 
+  9,000+ 
+100% 
+2. 
+Give India  
+(Covid Relief) 
+9,595 
+100% 
+3. 
+American India Foundation 
+(Covid Relief) 
+1,15,460 
+100% 
+4 
+NASSCOM Foundation 
+(Covid Relief) 
+  30,000+ 
+100% 
+5 
+United Way Bengaluru 
+(Covid Relief) 
+10,374 
+100% 
+6 
+Akanksha Foundation 
+(Support to 2 Akanksha Schools in 
+Pune) 
+1,452 
+100% 
+7 
+The/Nudge Institute  
+(Centre for Skill Development & 
+Entrepreneurship) 
+1,200 
+100% 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+43 
+ 
+Principle 9: Businesses should 
+engage with and provide value to 
+their consumers in a responsible 
+manner 
+Essential Indicators 
+1. Describe the mechanisms in place to receive and respond to consumer complaints and feedback. 
+Mphasis conducts regular CSAT surveys. We also have a contact us form on the website, where we can receive 
+feedback or requests for responses.  
+2. Turnover of products and/or services as a percentage of turnover from all products/services that carry 
+information about:  
+Not applicable to Mphasis. 
+3. Number of consumer complaints in respect of the following: 
+ 
+ 
+FY 2021-22 
+Remarks 
+FY 2020-21 
+Remarks 
+Receive 
+during the 
+year 
+Pending 
+resolution at 
+end of year 
+Received 
+during the 
+year 
+Pending 
+resolution at 
+end of year 
+Data privacy 
+No consumer complaints concerning data 
+privacy, cyber security, etc. were received 
+by our organization in 2021-22. 
+No consumer complaints concerning data 
+privacy, cyber security, etc. were received 
+by our organization in 2020-21. 
+Advertising 
+Cyber-security 
+Delivery of essential services 
+Restrictive trade practices 
+Unfair trade practices 
+Other  
+4. Details of instances of product recalls on account of safety issues. 
+Not applicable to Mphasis. 
+5. Does the entity have a framework/policy on cyber security and risks related to data privacy? If available, 
+provide a web link to the policy.  
+Yes, Mphasis has a privacy policy in place.  
+• 
+Link to policy: https://www.mphasis.com/home/privacy.html 
+6. Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty/action taken by regulatory authorities on the safety of products/ services. 
+Not applicable  
+ 
+ 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898
+ 
+44 
+ 
+Leadership Indicators 
+1. Channels/platforms where information on products and services of the entity can be accessed. 
+The Mphasis website hosts all our services and offerings: https://www.mphasis.com 
+Any communication to promote these offerings that are done on digital media also links back to the website. 
+All brochures and case studies that provide more information are also hosted on the website:  
+• 
+https://www.mphasis.com/home/corporate/thought-leadership.html 
+2. Steps taken to inform and educate consumers about safe and responsible usage of products and/or 
+services.  
+Not applicable to Mphasis. 
+3. Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.  
+Increased disruptions due to manmade and natural calamities pose a risk to business operations. Recovery and 
+availability of enterprise applications and infrastructure, post any such disruptions, have become critical for uninterrupted 
+service delivery. In addition to implementing Disaster Recovery for the identified critical enterprise applications, Mphasis 
+is certified on ISO 22301 which is an international standard for Business Continuity Management Systems (BCMS) and 
+which provides reasonable assurance of continuity of service to clients. 
+4. Does the entity display product information on the product over and above what is mandated as per local 
+laws?  
+Not applicable to Mphasis as it is not involved in the manufacturing sector.  
+5. Did your entity carry out any survey with regard to consumer satisfaction relating to the major 
+products/services of the entity, significant locations of operation of the entity, or the entity as a whole? (Yes/No)  
+Yes, Mphasis conducts CSAT survey on a half-yearly basis with our clients concerning consumer satisfaction. 
+6. Provide the following information relating to data breaches:  
+a. Number of instances of data breaches along-with impact.  
+None 
+b. Percentage of data breaches involving personally identifiable information of customers. 
+None 
+ 
+ 
+ 
+**** 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 0CDFA5D2-39C1-4FCE-B596-D0A716D2E898

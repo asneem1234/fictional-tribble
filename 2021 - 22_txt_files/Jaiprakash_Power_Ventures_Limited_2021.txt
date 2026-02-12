@@ -1,0 +1,2793 @@
+Ref: JPVL:SEC:2022 
+The Manager 
+Listing Department 
+JAIPRAKASH 
+POWER VENTURES LIMITED 
+27th August, 2022 
+National Stock Exchange of India Ltd. 
+"Exchange Plaza", C-1, Block G 
+Bandra-Kurla Complex 
+The Manager 
+Listing Department 
+BSE Limited 
+25th Floor, New Trading Ring 
+Rotunda Building 
+Bandra (E) 
+Mumbai - 400 051 
+Scrip Code: JPPOWER 
+P J Towers, Dalal Street, Fort 
+Mumbai - 400 001 
+Scrip Code: 532627 
+Sub: Submission of Business Responsibility and Sustainability Report 
+(BRSR) for the FY 2021-22 
+Dear Sirs, 
+In terms of Regulation 34 (2) 
+of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended from time to time, please find the 
+Business Responsibility and Sustainability Report for the FY 2021-22. 
+May kindly take the same on your records please. 
+Thanking you, 
+Yours faithfully, 
+for Jaiprakash Power Ventures Limited 
+~" 
+(Mahesh Chaturvedi) 
+G.M. & Company Secretary 
+FCS:3188 
+~YPEE 
+---G R 0 U po--
+Corp. Office: 'JA House' 63, 6asant Lok, Vasant Vihar, New Delhi-1l0057 (India) 
+Ph. :+91 (11) 26141358 Fax: +91(11) 26145389, 26143591 
+Regd. Office: Complex of Jaypee Nigrle Super Thermal Power Plant, Nigrle Tehsil Sarai, 
+Distt. Slngraull-486669, (M.P.) Ph. : +91 (7801) 286021-39 Fax: +91 (7801) 286020 
+E-mail: jpvl.lnvestor@jallndla.co.ln, Website : www.jppowerventures.com 
+CIN : L40101MP1994PLC042920 
+69
+ANNUAL REPORT 2021-22
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L40101MP1994PLC042920
+2
+Name of the Listed Entity
+Jaiprakash Power Ventures Limited 
+3
+Year of incorporation
+1994
+4
+Registered office address
+Complex of Jaypee Nigrie Super Thermal Power Plant 
+Tehsil Sarai, Nigrie, Singrauli, Madhya Pradesh 486669
+5
+Corporate address
+JA House -63, Basant Lok, Vasant Vihar, New Delhi-110057 
+6
+E-mail
+jpvl.investor@jalindia.co.in
+7
+Telephone
+011-49828500
+8
+Website
+www.jppowerventures.com
+9
+Financial year for which reporting is being done
+2021-2022
+10
+Name of the Stock Exchange(s) where shares are listed
+BSE / NSE
+11
+Paid-up Capital
+Rs. 1,06,86,00,88,270
+12
+Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report
+Mahesh Chaturvedi, Company Secretary 
+Telephone No – 011-49828500,  
+Email- jpvl.investor@jalindia.co.in
+13
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e. only for the 
+entity) or on a consolidated basis (i.e. for the entity and 
+all the entities which form a part of its consolidated 
+financial statements, taken together).
+Consolidated Basis
+II	
+Products / Services
+14
+Details of business activities (accounting for 90% 
+of the turnover):
+S. 
+No.
+Description of Main Activity
+Description of Business 
+Activity
+% of Turnover of the entity
+1
+Power Generation and coal mining
+Electric power generation, 
+transmission and distribution 
+100
+15
+Products/Services sold by the entity (accounting 
+for 90% of the entity’s Turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1
+Hydro and Thermal Power Generation
+35101 and 35102
+99.50%
+2
+Captive Coal mining
+5101
+0.50%
+3
+Cement Grinding
+23941
+0
+III	
+Operations
+No. of locations where plants and/or operations/ offices of the entity are situated
+Location
+No. of plants
+No. of offices
+Total
+National
+4
+2
+6
+International
+NIL
+70
+17
+Markets served by the entity
+a
+No. of Locations
+ 
+Location
+Number
+ 
+National  (No. of States)
+28 (All India)
+ 
+International  (No. of States)
+NIL
+b
+What is the contribution of exports as a 
+percentage of the total turnover of the entity?
+NIL
+c
+A brief on types of customers
+The Company has a Power Purchase Agreement (PPA) with Madhya 
+Pradesh Power Management Company Ltd. (MPPMCL) to supply 
+65% of installed capacity at tariff determined by MPERC guidelines 
+and with Government of Madhya Pradesh (GoMP) & to supply 5% 
+of actual generation at variable cost which is also to be supplied to 
+MPPMCL on behalf of (GoMP). Thus the Plant supplies 70% of the 
+installed capacity on long-term basis to MPPMCL in terms of the 
+Power Purchase Agreements executed with them. 
+The Plant has long term PPAs with MPPMCL to supply 30% of installed 
+capacity at tariffdetermined by MPERC guidelines and with GoMP to 
+supply 7.5% of actual generation at variable cost which is also to be 
+supplied to MPPMCL on behalf of GoMP. 
+Balance power is sold as merchant power, either on Energy 
+Exchanges or under Bilateral Arrangements.
+PPA is in place for 100% ex-bus energy of Jaypee Vishnuprayag 
+Hydro Power Plant with the Government of Uttar Pradesh, 12% of 
+which is supplied free of cost to Government of Uttarakhand.
+IV	
+Employees
+18
+Details as at the end of Financial Year:
+2021-22
+a
+Employees and workers (including 
+differently abled):
+3822
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% ( B/A)
+No. (C)
+% ( C/A)
+Employees
+ 
+Permanent (D)
+1164
+1150
+98.8%
+14
+1.2%
+ 
+Other than Permanent (E)
+116
+115
+99.1%
+1
+0.9%
+ 
+Total employees (D + E)
+1280
+1265
+98.8%
+15
+1.2%
+Workers
+ 
+Permanent (F)
+778
+776
+100%
+2
+0%
+ 
+Other than Permanent (G)
+1764
+1708
+97%
+56
+3%
+ 
+Total workers ( F+ G)
+2542
+2484
+98%
+58
+2%
+b
+Differently abled Employees and 
+workers:
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% ( B/A)
+No. (C)
+% ( C/A)
+Differently-abled Employees
+ 
+Permanent (D)
+1
+1
+100%
+-
+-
+ 
+Other than Permanent (E)
+-
+-
+-
+-
+-
+ 
+Total employees (D + E)
+1
+1
+100%
+-
+-
+Differently-abled Workers
+ 
+Permanent (F)
+4
+3
+75%
+1
+25%
+ 
+Other than Permanent (G)
+1
+1
+100%
+-
+-
+ 
+Total employees ( F+ G)
+5
+4
+80%
+1
+20%
+71
+ANNUAL REPORT 2021-22
+19
+Participation/Inclusion/Representation 
+of women
+ 
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+ 
+Board of Directors
+2
+16.66%
+ 
+Key Management Personnel
+0
+0
+20
+Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+Category
+FY (2021-22) 
+(April-December) (Turnover 
+rate  in current FY)
+FY (2020-21)
+(Turnover rate in 
+previous FY)
+FY (2019-20) 
+(Turnover rate in year prior 
+to previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+ 
+Permanent 
+Employees
+11.12
+0.10
+11.22
+9.65
+0.13
+9.78
+8.38
+0.06
+8.44
+ 
+Permanent 
+Workers
+1.60
+0.00
+1.60
+0.96
+0.00
+0.96
+0.96
+0.00
+0.96
+V	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+a
+Names of holding / subsidiary 
+/ associate companies / joint 
+ventures
+4
+S. 
+No.
+Name of the holding / 
+subsidiary / associate 
+companies / joint ventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares 
+held by listed 
+entity
+Does the entity indicated at 
+column A, participate in the 
+Business Responsibility initiatives 
+of the listed entity? (Yes/No)
+1
+Jaypee Arunachal Power Limited
+Wholly owned 
+Subsidiary Company 
+100
+No
+2
+Sangam Power Generation 
+Company Limited
+Wholly owned 
+Subsidiary Company 
+100
+No
+3
+Jaypee Meghalaya Power 
+Limited
+Wholly owned 
+Subsidiary Company 
+100
+No
+4
+Bina Mines and Supply Limited
+Wholly owned 
+Subsidiary Company 
+100
+No
+VI	
+CSR Details
+22
+a
+Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+Yes
+b
+Turnover (in Rs.)
+4,624.55 Crore
+c
+Net worth (in Rs.)
+107,21.98 Crore
+VII	 Transparency and Disclosures Compliances
+23
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+S. 
+No.
+Grievance Redressal 
+Mechanism in Place 
+(Yes/No) (If Yes, then 
+provide web-link for 
+grievance redress 
+policy)
+FY 2021-22 Current Financial Year
+FY 2020-21 Previous Financial Year
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+ 
+Communities
+-
+-
+-
+-
+-
+-
+72
+ 
+Investors 
+(other 
+than 
+shareholders)
+-
+-
+-
+-
+-
+-
+ 
+Stakeholder group from 
+whom 
+complaint 
+is 
+received
+-
+-
+-
+-
+-
+-
+ 
+Shareholders
+2
+-
+-
+-
+-
+-
+ 
+Employees and workers
+-
+-
+-
+-
+-
+-
+ 
+Customers
+-
+-
+-
+-
+-
+-
+ 
+Value Chain Partners
+-
+-
+-
+-
+-
+-
+ 
+Other (please specify)
+-
+-
+-
+-
+-
+-
+24
+Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format.
+S. 
+No.
+Material issue identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for 
+identifying the 
+risk / opportunity
+In case of 
+risk, approach 
+to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1
+Economy
+Risk
+ 
+ 
+The Organisation is in 
+the process of assessing 
+implications of the identified 
+risks/opportunities
+2
+Labour Management
+Risk
+ 
+ 
+3
+Waste Management
+Opportunity
+ 
+ 
+4
+Renewable Energy
+Opportunity
+ 
+ 
+5
+Raw Material Sourcing
+Risk
+ 
+ 
+6
+Emissions
+Risk
+ 
+ 
+7
+Local Community
+Opportunity
+ 
+ 
+8
+Supply Chain
+Opportunity
+ 
+ 
+9
+Environmental Regulation Change Risk
+ 
+ 
+Section B : MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements	
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1
+Whether your entity’s 
+policy/policies cover 
+each principle and its 
+core elements of the 
+NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+ 
+Has the policy been 
+approved by the 
+Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+-
+ 
+Web Link of the 
+Policies, if available
+https://jppower
+ventures.com/
+policies/
+https://jppower
+ventures.com/
+policies/
+https://jppower
+ventures.com/
+policies/
+https://jppower
+ventures.com/
+policies/
+https://jppower
+ventures.com/
+policies/
+https://jppower
+ventures.com/
+policies/
+https://jppower
+ventures.com/
+policies/
+https://jppower
+ventures.com/
+policies/
+-
+2
+Whether the entity has 
+translated the policy 
+into procedures. (Yes 
+/ No)
+Yes. 
+Guidelines and 
+procedures 
+have been 
+issued
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+-
+3
+Do the enlisted policies 
+extend to your value 
+chain partners? (Yes/
+No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+73
+ANNUAL REPORT 2021-22
+4
+Name of the national 
+and international 
+codes/certifications/
+labels/ standards (e.g. 
+Forest Stewardship 
+Council, Fairtrade, 
+Rainforest Alliance, 
+Trustea) standards 
+(e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted 
+by your entity and 
+mapped to each 
+principle.
+Yes ISO 9001, 
+ISO 14001, 
+IS45001, 
+IS27001
+ISO 9001, ISO 
+45001
+IS45001
+ISO 14001 and 
+ISO 45001
+IS45001
+ISO 14001
+IS27001
+IS45001
+ISO 9001
+5
+Specific commitments, 
+goals and targets 
+set by the entity with 
+defined timelines, 
+if any.
+Not Applicable
+6
+Performance of the 
+entity against the 
+specific commitments, 
+goals and targets 
+along-with reasons 
+in case the same are 
+not met.
+Not Applicable
+Governance, leadership and oversight
+ 
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+7
+Statement by director 
+responsible for the 
+business responsibility 
+report, highlighting 
+ESG related 
+challenges, targets 
+and achievements 
+(listed entity has 
+flexibility regarding 
+the placement of this 
+disclosure)
+Not Applicable
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8
+Details of the highest 
+authority responsible 
+for implementation 
+and oversight 
+of the Business 
+Responsibility policy 
+(ies).
+Board of 
+Directors
+9
+Does the entity have a 
+specified Committee 
+of the Board/ Director 
+responsible for 
+decision making on 
+sustainability related 
+issues? (Yes / No). If 
+yes, provide details.
+Risk 
+Management 
+Committee
+10
+Details of Review of NGRBCs by the Company:
+ 
+Subject for Review
+Indicate whether review was undertaken by Director / 
+Committee of the Board/ Any other Committee
+Frequency (Annually/ Half yearly/ Quarterly/ Any 
+other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+ 
+Performance against above policies 
+and follow up action
+As a practice, the policies of the Company are reviewed periodically or on need basis by respective 
+department heads, business heads and executive directors.  
+ 
+Compliance 
+with 
+statutory 
+requirements of relevance to the 
+principles, and, rectification of any 
+non-compliances
+The Company is in compliance with extant regulations as applicable
+ 
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+11
+Has the entity carried out independent assessment/ evaluation of 
+the working of its policies by an external agency? (Yes/No). If yes, 
+provide name of the agency.
+Yes. These processes and compliances are being subjected to scrutiny by Internal 
+Auditors, ISO auditors and relevant Regulatory Authorities.
+12
+If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated, as below:
+74
+ 
+Question
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+ 
+The entity does not consider the Principles material to its business 
+(Yes/No)
+NA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The entity is not at a stage where it is in a position to formulate and 
+implement the policies on specified principles (Yes/No)
+NA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The entity does not have the financial or/human and technical 
+resources available for the task (Yes/No)
+NA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It is planned to be done in the next financial year (Yes/No)
+NA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Any other reason (please specify)
+NA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section C : PRINCIPLE WISE PERFORMANCE DISCLOSURE
+P1	
+Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent and Accountable
+ESSENTIAL INDICATORS
+1
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+ 
+Segment
+Total 
+number 
+of 
+training and awareness 
+programmes held
+Topics / principles covered under the training 
+and its impact
+% 
+of 
+persons 
+in 
+respective 
+category covered by the awareness 
+programmes
+ 
+Board of Directors
+ 1
+Orientation Programme
+100
+ 
+Key Managerial Personnel
+ 3
+General Orientation Programme, awareness 
+of Prevention of Insider Trading
+100
+ 
+Employees other than BoD and 
+KMPs
+ 385
+Being ISO 14000 and 45000 certified 
+Company, Trainings on environmental and 
+safety aspect, and occupational health and 
+safety are being regularly provided
+69.99
+ 
+Workers
+ 385
+General Orientation Programme, awareness 
+on Safety, Fire Fighting Training, Electrical 
+Safety
+90
+2
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by directors / KMPs) with 
+regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the following format (Note: the entity shall make disclosures on the basis 
+of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s 
+website
+Monetary
+ 
+Category
+NGRBC Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount (In INR)
+Brief of 
+the Case
+Has an 
+appeal been 
+preferred? 
+(Yes/No)
+ 
+Penalty/ Fine
+NIL
+ 
+Settlement
+NIL
+ 
+Compounding fee
+NIL
+Non-Monetary
+ 
+Category
+NGRBC Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount (In INR)
+Brief of 
+the Case
+Has an 
+appeal been 
+preferred? 
+(Yes/No)
+ 
+Imprisonment
+NIL
+ 
+ 
+ 
+ 
+ 
+Punishment
+NIL
+ 
+ 
+ 
+ 
+3
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-monetary action has been 
+appealed.
+ 
+Case Details
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+ 
+NA
+NA
+ 
+NA
+NA
+75
+ANNUAL REPORT 2021-22
+4
+Does the entity have an anti-
+corruption 
+or 
+anti-bribery 
+policy? If yes, provide details 
+in brief and if available, 
+provide a web-link to the 
+policy.
+The Company has developed and 
+implemented a robust policy on Code 
+of Conduct to be followed by Directors 
+and Senior Managers to ensure that 
+all employees conduct themselves in 
+accordance with the highest standard 
+of honesty, integrity and fairness, 
+excersing utmost good faith. 
+Policies ensure the reporing of unethical 
+behaviour, actual or suspected fraud, 
+https://jppowerventures.com/wp-content/
+uploads/2015/01/Code-of-Conduct.pdf
+5
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the charges of bribery/ 
+corruption
+ 
+Category
+FY 2021-22 
+(Current Financial 
+Year)
+FY 2020-21 
+(Previous 
+Financial Year)
+Amount (In 
+INR)
+Brief of the 
+Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+ 
+Directors
+Nil
+Nil
+ 
+KMPs
+Nil
+Nil
+ 
+Employees
+Nil
+Nil
+ 
+Workers
+Nil
+Nil
+6
+Details of complaints with regard to conflict of interest
+ 
+Category
+FY 2021-22 (Current Financial Year)
+FY 2020-21 (Previous 
+Financial Year)
+Number
+Remarks
+Number
+Remarks
+ 
+Number of complaints received in relation to issues of 
+Conflict of Interest of the Directors
+Nil
+Nil
+Nil
+Nil
+ 
+Number of complaints received in relation to issues of 
+Conflict of Interest of the KMPs
+Nil
+Nil
+Nil
+Nil
+7
+Provide details of any corrective action taken or 
+underway on issues related to fines / penalties / action 
+taken by regulators/ law enforcement agencies/ judicial 
+institutions, on cases of corruption and conflicts of 
+interest.
+NA
+P2	 Businesses should provide goods and services in a manner that is sustainable and safe
+ESSENTIAL INDICATORS
+1
+Percentage of R&D and capital expenditure (CapEx) investments in specific technologies to improve the environmental and social impacts of product and 
+processes to total R&D and CapEx investments made by the entity, respectively.
+ 
+Category
+FY 2021-22 (Current 
+Financial Year)
+FY 2020-21 (Previous 
+Financial Year)
+Details of improvements 
+in environmental and 
+social impacts
+ 
+R&D
+-
+-
+-
+ 
+CapEx
+-
+5.20%
+CapEx is spent for Plant 
+Automation 
+which 
+is 
+energy efficient.
+2
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+No
+If yes, what percentage of inputs were sourced sustainably?
+ 
+3
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for:
+Plastics (including packaging)
+E-waste
+Hazardous waste
+Other waste
+FLY ASH
+4
+Whether Extended Producer Responsibility (EPR) is applicable to the 
+entity’s activities (Yes / No). If yes, whether the waste collection plan is in 
+line with the Extended Producer Responsibility (EPR) plan submitted to 
+Pollution Control Boards? If not, provide steps taken to address the same.
+No, it is not 
+applicable
+76
+P3	
+Businesses should respect and promote the well-being of all employees, including those in their value chains
+ESSENTIAL INDICATORS
+1a
+Details of measures for the well-being of employees:
+ 
+Category
+% of employees covered by
+Total (A)
+Health insurance
+Accident insurance
+Number (B)
+% (B / A)
+Number (C)
+% (C / A)
+Permanent Employees
+Male 
+1150
+185
+15.90%
+1150
+100%
+Female
+14
+-
+-
+14
+100%
+Total
+1164
+185
+15.79%
+1164
+100%
+Other than Permanent Employees
+Male 
+115
+7
+1%
+115
+100%
+Female
+1
+-
+-
+1
+100%
+ 
+Total
+116
+7
+1%
+116
+100%
+1b
+Details of measures for the well-being of workers:
+ 
+Category
+% of employees covered by
+Total (A)
+Health insurance
+Accident insurance
+Number (B)
+% (B / A)
+Number (C)
+% (C / A)
+Permanent Workers
+Male 
+776
+39
+4.00%
+776
+100%
+Female
+2
+-
+-
+2
+100%
+Total
+778
+39
+3.48%
+778
+97%
+Other than Permanent Workers
+Male 
+1418
+-
+-
+1418
+100%
+Female
+53
+-
+-
+53
+100%
+ 
+Total
+1471
+-
+-
+1471
+100%
+ 
+2
+Details of retirement benefits, for Current and Previous FY
+ 
+Benefits
+FY 2021-22 (Current Financial Year)
+FY 2020-21 (Previous Financial Year)
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as a % 
+of total workers
+Deducted and 
+deposited with the 
+authority (Y/N/N.A.)
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as a % of 
+total worker
+Deducted and 
+deposited with the 
+authority (Y/N/N.A.)
+ 
+PF
+95%
+80%
+Y
+94%
+79%
+Y
+ 
+Gratuity
+95%
+37%
+-
+74%
+20%
+-
+ 
+ESI
+-
+15%
+-
+NA
+18%
+-
+ 
+Others - please 
+specify
+-
+-
+-
+-
+-
+-
+3
+Accessibility of workplaces
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights 
+of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+Yes
+4
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link to 
+the policy.
+Yes
+5
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+ 
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+ 
+Male
+100%
+100%
+100%
+100%
+ 
+Female
+100%
+100%
+100%
+100%
+77
+ANNUAL REPORT 2021-22
+ 
+Total
+100%
+100%
+100%
+100%
+6
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? If yes, give details of 
+the mechanism in brief
+ 
+Category
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent Workers
+Yes, Redressal can be sought from Team Leaders right up to 
+the level of the Head of Project
+ 
+Other than Permanent Workers
+ 
+Permanent Employees
+ 
+Other than Permanent Employees
+7
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+ 
+Category
+FY 2021-22 (Current Financial Year)
+FY 2020-21 (Previous Financial Year)
+Total employees/ 
+workers in 
+respective category 
+(A)
+No. of employees / 
+workers in respective 
+category, who are part 
+of association(s) or 
+Union (B)
+% (B / A)
+Total employees/
+workers in 
+respective category 
+(C)
+No. of employees / 
+workers in respective 
+category, who are part 
+of association(s) or 
+Union (D)
+% (D / C)
+Total Permanent Employees
+ 
+Male
+-
+-
+-
+-
+-
+-
+ 
+Female
+-
+-
+-
+-
+-
+-
+Total Permanent Workers
+ 
+Male
+-
+-
+-
+-
+-
+-
+ 
+Female
+-
+-
+-
+-
+-
+-
+8
+Details of training given to employees and workers:
+ 
+Category
+FY (April 2021 - March2022) (Current Financial Year)
+FY 2020-21 (Previous Financial Year)
+Total (A)
+On Health and safety 
+measures
+On Skill upgradation
+Total (D)
+On Health and safety 
+measures
+On Skill upgradation
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (E)
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+ 
+Male
+1150
+865
+75%
+758
+66%
+1089
+1079
+99%
+977
+90%
+ 
+Female
+14
+4
+29%
+1
+4%
+12
+9
+75%
+5
+42%
+ 
+Total
+1164
+869
+75%
+759
+65%
+1101
+1088
+99%
+982
+89%
+Workers
+ 
+Male
+1727
+776
+45%
+475
+28%
+1564
+797
+51%
+464
+86%
+ 
+Female
+44
+4
+9%
+5
+11%
+59
+46
+78%
+10
+22%
+ 
+Total
+1771
+780
+44%
+480
+27%
+1623
+843
+52%
+474
+86%
+9
+Details of performance and career development reviews of employees and worker:
+ 
+Category
+FY 2021-22 (Current Financial Year)
+FY 2020-21 (Previous Financial Year)
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Total Permanent Employees
+ 
+Male
+1150
+1150
+100%
+1089
+903
+83%
+ 
+Female
+14
+14
+100%
+12
+9
+75%
+ 
+Total
+1164
+1164
+100%
+1101
+912
+83%
+78
+Total Permanent Workers
+ 
+Male
+776
+753
+97%
+472
+472
+100%
+ 
+Female
+2
+1
+50%
+3
+3
+100%
+ 
+Total
+778
+754
+97%
+475
+475
+100%
+10
+Health and safety management system:
+a
+Whether an occupational health and safety management system 
+has been implemented by the entity? (Yes/ No). If yes, the 
+coverage such system?
+Yes, occupational health and safety management system coverage is as per ISO 
+45001. The Jaypee Group endeavours to prevent all injuries and work-related 
+illnesses. It recognises health and safety as an integral part of its operations by 
+promoting “Zero Harm” in its operations. It aspires to set the highest standards 
+required to comply and exceed applicable statutory health and safety requirements. 
+It provides appropriate trainings to employees, associates and suppliers to help 
+them work safely. The system helps in assessing risks and provide controls on health 
+and safety hazards in operations and activities. Regular assurance programs are 
+conducted and timely actions are taken. The systems ensures that incidents are 
+reported timely, investigated for root causes and deployment of lessons learnt across 
+the Group companies.
+b
+What are the processes used to identify work-related hazards and 
+assess risks on a routine and non-routine basis by the entity?
+A well-defined safety observation system, hazard identification and risk assessment 
+procedures is in place.  The Company adheres to 
+1. Hazard identification and assessment  
+2. Inspections  
+3. Audits   
+4. Safety observations systems.   
+5. Risk Assessment and control measures  
+11
+Details of safety related incidents, in the following format:
+ 
+Safety Incident/Number
+Category
+FY 2021-22 Current 
+Financial Year
+FY 2020-21 Previous 
+Financial Year
+ 
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours 
+worked)
+Employees
+-
+-
+Workers
+0.264
+-
+ 
+Total recordable work-related injuries
+Employees
+-
+-
+Workers
+-
+-
+ 
+No. of fatalities
+Employees
+-
+-
+Workers
+1
+ 
+ 
+High consequence work-related injury or ill-health (excluding fatalities)
+Employees
+-
+-
+Workers
+-
+-
+12
+Describe the measures taken by the entity to ensure a safe and 
+healthy work place.
+The entity is ISO 45001 (2018) Certified for Health and Safety. 
+Preventive measures include:  
+•	
+Proper training and counselling to fitters before start to shutdown work 
+•	
+Additional expert training shall be provided to the identified workman 
+•	
+Behaviour based safety training shall be provided to all workmen.
+13
+Number of Complaints on the following made by employees and workers:
+ 
+Category
+FY 2021-22 Current Financial Year
+FY 2020-21 Previous Financial Year
+Filed during the 
+year
+Pending resolution 
+at the end of year
+Remarks
+Filed during the 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+ 
+Working Conditions
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+ 
+Health & Safety
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+79
+ANNUAL REPORT 2021-22
+14
+Assessments for the year:
+ 
+Category
+% of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties
+ 
+Health & Safety Practices
+100%
+ 
+Working Conditions
+100%
+15
+Provide details of any corrective action taken or underway to address safety-related 
+incidents (if any) and on significant risks / concerns arising from assessments of 
+health & safety practices and working conditions.
+Corrective Action: Special training was given to the workmen with 
+demonstration to execute the shutdown work.
+P4 	 Businesses should respect the interests of and be responsive to all its stakeholders
+ESSENTIAL INDICATORS
+1
+Describe the processes for identifying key stakeholder groups of the 
+entity.
+The Company maintains a dynamic and strategic stakeholder engagement 
+process where it identifies keystakeholder groups from the larger universe of all 
+possible stakeholders. This is done after considering the material influence each 
+group has on the Company’s ability to create value (and vice-versa).
+2
+List stakeholder groups identified as key for your entity and the 
+frequency of engagement with each stakeholder group.
+Banks, Power purchasers, Employees, Shareholders, Regulatory Authorities, 
+Communities, civil society& suppliers.
+S. 
+No.
+Stakeholder Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of communication (Email, 
+SMS, Newspaper, Pamphlets, 
+Advertisement, Community Meetings, 
+Notice Board, Website), Other
+Frequency of 
+engagement 
+(Annually/Half yearly/ 
+Quarterly/others – 
+please specify)
+Purpose and scope of 
+engagement including key topics 
+and concerns raised during such 
+engagement
+ 
+Banks and Institutions
+NO
+Through meetings, e mails, regular reports
+On regular basis
+Financing, 
+Bank 
+guarantees, 
+working capital requirement and 
+CapEx  
+ 
+Customers
+NO
+Official communication channel, website, 
+social media, emails and meetings
+On regular basis
+Power Supply and Billing
+ 
+Employees
+NO
+Website, Circulars, Notification etc on 
+Notice Boards, e mails
+On regular basis
+Training, 
+orientation, 
+employee 
+well-being, health care, safety
+ 
+Suppliers
+NO
+Official communication channel, website, 
+social media, emails and meetings
+Frequent as and when 
+required
+Timely supply of inputs, Quality 
+Assurance, 
+Development 
+of 
+potential suppliers
+ 
+Regulatory Authorities
+NO
+Official communication channel, website, 
+social media, emails and meetings
+Frequent as and when 
+required
+Compliances, Suggesting, Policy 
+improvements, 
+ 
+Investors/Shareholders
+NO
+General 
+Meetings, 
+News 
+Paper 
+publications, Websites, Social Media
+Quarterly/Half 
+yearly/ 
+Annually
+To 
+educate 
+about 
+Company’s 
+growth prospects and present 
+working
+ 
+Civil Society
+NO
+Newspapers, Meetings in the locality, 
+website
+Frequent as and when 
+required
+CSR, Local area development, 
+Help in cultural activities,
+P5  Businesses should respect and promote human rights
+ESSENTIAL INDICATORS
+1
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following format:
+ 
+Category
+FY 2021-22 Current Financial Year
+FY 2020-21 Previous Financial Year
+Total (A)
+No. of employees / 
+workers covered (B)
+% (B / A)
+Total (C)
+No. of employees / 
+workers covered (D)
+% (D / C)
+Employees
+ 
+Permanent
+1164
+Nil due to Covid -19 Pandemic
+1089
+Nil due to Covid -19 Pandemic
+ 
+Other than permanent
+116
+12
+ 
+Total
+1280
+ 
+ 
+1101
+ 
+ 
+Workers
+ 
+Permanent
+778
+Nil due to Covid -19 Pandemic
+673
+Nil due to Covid -19 Pandemic
+ 
+Other than permanent
+1764
+671
+ 
+Total
+2542
+ 
+ 
+1344
+ 
+ 
+80
+2
+Details of minimum wages paid to employees and workers, in the following format:
+ 
+Category
+FY 2021-22 Current Financial Year
+FY 2020-21 Previous Financial Year
+Total (A)
+No. of employees / 
+workers covered (B)
+% (B / A)
+Total (C)
+No. of employees / 
+workers covered (D)
+% (D / C)
+Employees
+ 
+Permanent
+1164
+1164
+100%
+1089
+1089
+100%
+ 
+Other than permanent
+116
+116
+100%
+12
+12
+100%
+ 
+Total
+1280
+1280
+100%
+1101
+1101
+100%
+Workers
+ 
+Permanent
+778
+778
+100%
+673
+673
+100%
+ 
+Other than permanent
+1764
+1764
+100%
+671
+671
+100%
+ 
+Total
+2542
+2542
+100%
+1344
+1344
+100%
+3
+Details of remuneration/salary/wages, in the following format:
+ 
+Category
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median 
+remuneration/salary/ 
+wages of respective 
+category
+ 
+Board of Directors (BoD)
+10
+3,20,000
+2
+5,20,000
+ 
+Key Managerial Personnel
+4
+1,19,10,615
+0
+0
+ 
+Employees other than BoD and KMP
+1933
+3,18,440
+12
+2,72,968
+ 
+Workers
+1453
+1,29,228
+129
+93,168
+4
+Do you have a focal point (Individual/ Committee) responsible 
+for addressing human rights impacts or issues caused or 
+contributed to by the business? (Yes/ No)
+Yes, Top management is sensitive to Human Rights violation issues and cognizance is 
+taken whenever there is such instance. 
+In such eventuality the top management is prepared to form a committee of responsible 
+executives, depending on the severity of the instance, to investigate in to the matter. 
+The Company has always been committed to developing an organizational culture 
+that supports internationally recognized human rights, as well as the human rights 
+enumerated in the Constitution. 
+The Company takes steps to ensure that human rights principles are upheld within its 
+workplaces. 
+The Company is committed to its cherished value ‘Growth with a Humane Face’ while 
+dealing with people, whether internal or external to the organization. The policy covers 
+the Company, its subsidiaries.
+5
+Describe the internal mechanisms in place to redress 
+grievances related to human rights issues
+There is a robust Grievance Redressal Process and Code of Conduct and Service Rules 
+are followed. All employees have access to Team Leaders right up to the level of Director, 
+complaint box, accessible to all employees and villagers in the vicinity to lodge their 
+complaint which is attended on top priority.
+6
+Number of Complaints on the following made by employees and workers:
+ 
+Category
+FY (Jan 2021 to Dec 2021) Current Financial Year
+FY 2020-21 Previous Financial Year
+Filed during the 
+year
+Pending resolution 
+at the end of year
+Remarks
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+ 
+Sexual Harassment
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+ 
+Discrimination at workplace
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+ 
+Child Labour
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+ 
+Forced 
+Labour/Involuntary 
+Labour
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+ 
+Wages
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+81
+ANNUAL REPORT 2021-22
+ 
+Other human rights related 
+issues
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+7
+Mechanisms to prevent adverse consequences to the complainant in discrimination 
+and harassment cases.
+The identity of complainant is kept secret and only top management 
+interacts with him/her.  
+Specifically the Confidentiality of complainant is maintained. 
+https://jppowerventures.com/wp-content/uploads/2021/01/Sexual-
+Harrasment-Policy.pdf
+8
+Do human rights requirements form part of your business agreements and 
+contracts? (Yes/ No)
+Yes
+9
+Assessments for the year:
+ 
+Category
+% of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+ 
+Child labour
+100% - Competent Labour Law Authority
+ 
+Forced/involuntary labour
+100% - Competent Labour Law Authority
+ 
+Sexual harassment
+100% - Competent Authority
+ 
+Discrimination at workplace
+100% - Competent Labour Law Authority
+ 
+Wages
+100% - Competent Labour Law Authority
+ 
+Others – please specify
+ 
+10
+Provide details of any corrective actions taken or underway to address significant 
+risks / concerns arising from the assessments at Question 9 above.
+Not applicable
+P6	 Businesses should respect and make efforts to protect and restore the environment
+ESSENTIAL INDICATORS
+1
+Details of total energy consumption (in Joules or multiples) and energy intensity, 
+in the following format:
+(KILOJOULES)
+ 
+Parameter
+FY 2021-22
+(Current Financial Year)
+FY 2020-21
+(Previous Financial Year)
+ 
+Total electricity consumption (A)
+28,40,40,43,200
+44,27,11,04,400
+ 
+Total fuel consumption (B)
+62,30,32,80,164
+45,20,97,55,997
+ 
+Energy consumption through other sources (C) – fuel for power generation
+10,31,02,01,59,19,177
+9,11,67,91,47,66,640
+ 
+Total energy consumption (A+B+C)
+10,31,92,72,32,42,541
+9,12,57,39,56,27,037
+ 
+Energy intensity per rupee of turnover (Total energy consumption/ turnover in rupees)
+2,231
+2,778
+ 
+Energy intensity (optional) – the relevant metric may be selected by the entity
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried 
+out by an external agency? (Y/N) If yes, name of the external agency.
+No, independent assessment/ evaluation has not been carried 
+out by external agency 
+2
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade (PAT) Scheme 
+of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been 
+achieved, provide the remedial action taken, if any.
+BINA
+PAT CYCLE
+TARGET (Kcal/Kwh)
+ACTUAL (Kcal/Kwh)
+PAT Cycle III
+2715.81
+2667.61
+JNSTPP NIGRIE
+PAT CYCLE
+TARGET (Kcal/Kwh)
+ACTUAL (Kcal/Kwh)
+PAT Cycle V
+2303.34
+2294.74
+3
+Provide details of the following disclosures related to water, in the following format:
+S.
+ No.
+Parameter
+FY 2021-2022
+FY 2020-2021
+ 
+Water withdrawal by source (in kilolitres)
+i
+Surface water
+2,06,90,872
+2,30,46,622
+ii
+Groundwater
+33,929
+33,981
+iii
+Third party water
+-
+-
+82
+iv
+Seawater / desalinated water
+-
+-
+v
+Other
+56,765
+56,765
+ 
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+2,07,81,566
+2,31,37,368
+ 
+Total volume of water consumption (in kilolitres)
+2,04,29,615
+2,25,69,375
+ 
+Water intensity per rupee of turnover (Water consumed / turnover)
+0.0004417
+0.000687
+ 
+Water intensity (optional) – the relevant metric may be selected by the entity
+ 
+ 
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out 
+by an external agency? (Y/N) If yes, name of the external agency.
+National productivity Council, New Delhi for Amelia coal 
+mines
+4
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide 
+details of its coverage and implementation
+All effluents inside the plants situated in MP are collected 
+in Effluent Treatment Plant (ETP) and after treatment being 
+reused in our ash slurry preparation, coal dust suppression 
+and in makeup to Cooling Water system. Plants are aligned 
+with the principle of zero liquid discharge (ZLD).
+5
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+ 
+Parameter
+Please specify 
+unit
+FY 2021-22 (Current 
+Financial Year)
+FY 2020-21 (Previous 
+Financial Year)
+ 
+NOx
+MT
+15,464 
+14,829 
+ 
+SOx
+MT
+ 69,873 
+65,852 
+ 
+Particulate Matter (PM)
+MT
+2,659 
+2,244 
+ 
+Persistent organic pollutants (POP)
+Nil
+Nil
+ 
+Volatile organic compounds (VOC)
+Nil
+Nil
+ 
+Hazardous air pollutants (HAP)
+Nil
+Nil
+ 
+Others – please specify
+Nil
+Nil
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N) If yes, name of the external 
+agency.
+Yes
+Yes, The on-line real time data is transmitted to 
+Pollution Control Board, Bhopal
+Yes
+M/s. Vardan Envirolab 
+(BINA)  
+M/s. Vardan Envirolab 
+(JNSTPP)
+M/s. J.M Envirolab 
+(BINA) 
+M/s. Vardan Envirolab 
+(JNSTPP)
+6
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+ 
+Parameter
+Unit
+FY 2021-22 (Current 
+Financial Year)
+FY 2020-21 (Previous 
+Financial Year)
+ 
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+CO2 in MT
+69,41,549
+61,46,611
+ 
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+ 
+Not Monitored
+Not Monitored
+ 
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+ 
+ 
+ 
+ 
+Total Scope 1 and Scope 2 emission intensity (optional) – the relevant metric 
+may be selected by the entity
+ 
+ 
+ 
+7
+Does the entity have any project related to reducing Green House 
+Gas emission? If Yes, then provide details.
+JPVL has conducted multiple initiatives that align with GHG emission projects 
+which include the Nigrie Plant the operation that are running on Super Critical 
+Based Technology and intensity of CO2 generation is less than sub-critical 
+based technology Thermal Power Plant. Low NOx Burners have been installed 
+at top elevation of Boiler for NOx reduction. Less Specific Coal Consumption. 
+Managementhas purchased Electric Vehicles for transportation purposes with in 
+plant site.
+8
+Provide details related to waste management by the entity, in the following format:
+ 
+Parameter
+FY 2021-22 
+(Current Financial Year)
+FY 2020-21 
+(Previous Financial Year)
+Total Waste generated (in metric tonnes)
+ 
+Plastic waste (A)
+-
+0.58
+ 
+E-waste (B)
+5.03
+0.99
+ 
+Bio-medical waste (C)
+0.14
+0.21
+ 
+Construction and demolition waste (D)
+-
+-
+ 
+Battery waste (E)
+6.53
+7.66
+83
+ANNUAL REPORT 2021-22
+ 
+Radioactive waste (F)
+-
+-
+ 
+Other Hazardous waste. Please specify, if any. (G)
+76.58
+92.59
+ 
+Other Non-hazardous waste generated (H). Please specify, if any.
+(Break-up by composition i.e. by materials relevant to the sector) Fly and Bottom Ash
+22,66,661.55
+18,71,483.08
+ 
+Total (A+B + C + D + E + F + G + H)
+22,66,749.83
+18,71,585.11
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in metric tonnes)
+ 
+Category of waste
+i
+Recycled
+-
+-
+ii
+Reused
+13,15,772.37
+12,49,655.26
+iii
+Other recovery operations
+7,85,824.26
+6,22,421.82
+ 
+Total
+21,01,596.63
+18,72,077.08
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried 
+out by an external agency? (Y/N) If yes, name of the external agency.
+No
+No
+9
+Briefly describe the waste management practices adopted in your 
+establishments. Describe the strategy adopted by your company to 
+reduce usage of hazardous and toxic chemicals in your products and 
+processes and the practices adopted to manage such wastes.
+The reception, collection & Storage of Hazardous waste is being done as per 
+Hazardous and other Waste (Management and Trans Boundary Movement) 
+Rules-2016. The generated hazardous waste is being collected in 210 litres 
+capacity drums/barrels or similar collection bins and stored at the identified 
+covered storage shed with impervious lining at isolated.
+The persons working at site are provided with PPE. Fire fighting arrangement 
+is provided at site. Our Hazardous and Non-Hazardous generated waste are 
+deposited at our central store and being disposed as per MPPCB consent 
+condition for the plants situated in MP.
+Waste of plant of Uttrakhand is disposed through Nagar Palika, Joshimath as per 
+their existing norms.
+10
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere reserves, 
+wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are required, please specify 
+details in the following format:
+S. 
+No.
+Location of operations/ offices
+Type of operations
+Whether 
+the 
+conditions 
+of 
+environmental approval / clearance are 
+being complied with? (Y/N) If no, the 
+reasons thereof and corrective action 
+taken, if any.
+1
+Amelia Coal Mine : 
+Village -Majhauli P.O. Bandha  Dist. Singrauli MP-486886
+Coal Mines
+Y
+2
+Jaypee Bina Thermal Power Plant
+RAJEEV NAGAR, JAYPEE THERMAL POWER PLANT, BINA, SIRCHOPI, Sagar, 
+Madhya Pradesh, 470113
+Power Generation
+Y
+3
+Vishnuprayag Hydroelectric plant
+Vishnupuram, Post – Joshimath- 246443 District – Chamoli (Uttarakhand)
+Power Generation
+Y
+4
+Jaypee Nigrie Super Thermal Power Plant
+(A Division of Jaiprakash Power Ventures Ltd.) COMPLEX OF JNSTPP, NIGRIE, 
+Tehsil Sarai, District Singrauli, Madhya Pradesh, 286020.P)
+Power Generation
+Y
+11
+Details of environmental impact assessments of projects 
+undertaken by the entity based on applicable laws, in the 
+current financial year:
+No EIA conducted 
+S.
+No.
+Name and brief details of project
+EIA 
+Notification 
+No.
+Date
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results 
+communicated in 
+public domain
+(Yes / No)
+Relevant 
+Web link
+ 
+Monitoring of daily Hydrological data
+-
+Daily
+No
+No
+NA
+ 
+Monitoring of Air Quality date 
+-
+Yearly
+Yes
+No
+NA
+ 
+Monitoring of Slide at Three Location
+-
+Yearly
+No
+No
+NA
+ 
+Project is operational since 2013
+ 
+N A
+N A
+N A
+ 
+84
+12
+Is the entity compliant with the applicable environmental law/ 
+regulations/ guidelines in India; such as the Water (Prevention and 
+Control of Pollution) Act, Air (Prevention and Control of Pollution) 
+Act, Environment protection act and rules thereunder (Y/N). If not, 
+provide details of all such non-compliances, in the following format:
+Yes, all plants of JPVL comply applicable environmental laws/ regulations. 
+Clearances from the MOEF are in place. 
+S. 
+No.
+Specify the law / regulation / guidelines which was not 
+complied with
+Provide details of the 
+non-compliance
+Any fines / penalties / action 
+taken by regulatory agencies 
+such as pollution control 
+boards or by courts
+Corrective action 
+taken, if any
+ 
+NIL
+NIL
+NIL
+NIL
+P7	 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible 
+and transparent
+ESSENTIAL INDICATORS
+1a
+Number of affiliations with trade and industry chambers/ associations.
+1
+1b
+List the top 10 trade and industry chambers/ associations (determined 
+based on the total members of such body) the entity is a member of/ 
+affiliated to, in the following format
+S. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ 
+associations (State/ National)
+1
+Association of Power Producers (APP)
+National
+2
+Provide details of corrective action taken or underway on any issues 
+related to anti-competitive conduct by the entity, based on adverse 
+orders from regulatory authorities.
+There is no action taken or underway against the 
+Jaiprakash Power Ventures Limited (JPVL) on any 
+issues related to anti-competitive conduct
+S. 
+No.
+Name of authority
+Brief of the case
+Corrective action taken
+ 
+-
+Not applicable
+ -
+P8	 Businesses should promote inclusive growth and equitable development
+ESSENTIAL INDICATORS
+1
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial year.
+S. No.
+Name and brief details 
+of project
+SIA Notification 
+No.
+Date of notification
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results 
+communicated 
+in public domain 
+(Yes / No)
+Relevant Web link
+ 
+Not Applicable
+2
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity, in the 
+following format
+S. No.
+Name of Project for 
+which R&R is ongoing
+State
+District
+No. of Project Affected 
+Families (PAFs)
+% of PAFs 
+covered by R&R
+Amounts paid to 
+PAFs in the FY (In 
+INR)
+ 
+Not Applicable
+Not Applicable
+ 
+ 
+ 
+  
+3
+Describe the mechanisms to receive and redress grievances of the 
+community.
+Mechanism is provided for grievance redressal through integrated email 
+address - jpvl.investor@jalindia.co.in
+4
+Percentage of input material (inputs to total inputs by value) sourced from suppliers
+ 
+Category
+FY 2021-22 
+Current Financial Year
+FY 2020-2021 
+Previous Financial Year
+ 
+Directly sourced from MSMEs/ small producers
+3.02%
+3.46%
+ 
+Sourced directly from within the district and 
+neighbouring districts
+80.20%
+99.43%
+P9	 Businesses should engage with and provide value to their consumers in a responsible manner
+ESSENTIAL INDICATORS
+1
+Describe the mechanisms in place to receive and respond to consumer 
+complaints and feedback.
+The Company is a Power Generator and State Governments are its 
+main customers with whom, the Company is directly connected through 
+emails and hotlines
+85
+ANNUAL REPORT 2021-22
+2
+Turnover of products and/ services as a percentage of turnover from all 
+products/service that carry information about:
+ 
+ 
+As a percentage to total turnover
+ 
+Environmental and social parameters relevant to the product
+100%
+ 
+Safe and responsible usage
+100%
+Category
+FY _____ (Current Financial Year)
+FY _____ (Previous Financial Year)
+Received during 
+the year
+Pending resolution 
+at end of year
+Remarks
+Received 
+during the year
+Pending 
+resolution at 
+end of year
+Remarks
+ 
+Data privacy
+Not Applicable
+ 
+ 
+ 
+ 
+ 
+ 
+Advertising
+Not Applicable
+ 
+ 
+ 
+ 
+ 
+ 
+Cyber-security
+Not Applicable
+ 
+ 
+ 
+ 
+ 
+ 
+Delivery of essential services
+Not Applicable
+ 
+ 
+ 
+ 
+ 
+ 
+Restrictive Trade Practices
+Not Applicable
+ 
+ 
+ 
+ 
+ 
+ 
+Unfair Trade Practices
+Not Applicable
+ 
+ 
+ 
+ 
+ 
+Other
+Not Applicable
+ 
+ 
+ 
+ 
+ 
+4
+Details of instances of product recalls on account of safety issues:
+ 
+ 
+Number
+Reasons for recall
+ 
+Voluntary recalls
+Not Applicable
+ 
+ 
+Forced recalls
+Not Applicable
+5
+Does the entity have a framework/ policy on cyber security and risks related to 
+data privacy? (Yes/No) If available, provide a web-link of the policy.
+Yes, Jaiprakash Power Ventures Limited (JPVL) has a Cyber Security 
+Policy which helps in preserving the security of its Data and Technology 
+infrastructure.
+https://jppowerventures.com/wp-content/uploads/2021/01/Cyber-
+Security-Policy-for-JPVL-its-Subsidiaries.pdf
+6
+Provide details of any corrective actions taken or underway on issues relating 
+to advertising, and delivery of essential services; cyber security and data 
+privacy of customers; re-occurrence of instances of product recalls; penalty / 
+action taken by regulatory authorities on safety of products / services.
+Not Applicable

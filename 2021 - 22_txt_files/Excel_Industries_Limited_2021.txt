@@ -1,0 +1,151 @@
+3.
+Provide details of the following disclosures related to water, in the following format:
+Parameters 
+FY 2021-22 
+Water withdrawal by source (in kilolitres) 
+(i) Surface water
+0 
+(ii) Groundwater
+0 
+(iii) Third party water
+613410KL 
+(iv) Seawater / desalinated water
+0 
+(v) Others
+306519 KL 
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v) 
+919929 KL 
+Total volume of water consumption (in kilolitres) 
+613410KL 
+Water intensity per rupee of turnover (Water consumed / turnover) 
+=0.052 litre/rupee 
+Water intensity (optional) - the relevant metric may be selected by the entity Not Applicable 
+FY 2020-21 
+0 
+0 
+476611 KL 
+0 
+16296 KL 
+492907 KL 
+476611 KL 
+=0.062 litre/rupee 
+Not Applicable 
+Note: Indicate if any independent assessmenV evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency. 
+- No
+4.
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.
+Yes, the Company has implemented zero liquid discharge mechanism at its Visakhapatnam plant and the same is in process
+for the Roha plant.
+5.
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameters 
+Please specify unit 
+FY 2021-22 
+FY 2020-2021 
+NOx 
+Tons 
+44.45 
+37.10 
+SOx 
+Tons 
+276.60 
+237.68 
+Particulate matter (PM) 
+µg/m3 
+71.07 
+60.97 
+Persistent organic pollutants (POP) 
+-
+Not Applicable 
+Not Applicable 
+Volatile organic compounds (VOC) 
+-
+Not Applicable 
+Not Applicable 
+Hazardous air pollutants (HAP) 
+-
+Not Applicable 
+Not Applicable 
+Others -please specify 
+-
+Not Applicable 
+Not Applicable 
+Note: Indicate if any independent assessmenVevaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency. 
+- No.
+6.
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameters 
+Unit 
+FY 2021-22 
+FY 2020-21 
+Total Scope 1 emissions (Break-up of the 
+Metric tonnes of CO2 
+GHG into CO2, CH4, N20, HFCs, PFCs, 
+equivalent 
+SF6, NF3, if available) 
+(Scope 1: Direct emission) 
+68300 
+44700 
+Total Scope 2 emissions (Break-up of the 
+Metric tonnes of CO2 
+GHG into CO2, CH4, N20, HFCs, PFCs, 
+equivalent 
+SF6, NF3, if available) 
+(Scope 2: Indirect emission) 26700 
+28400 
+Total Scope 1 and Scope 2 emissions per 
+rupee of Turnover 
+MT C02 /INR 
+=0.000008 
+=0.0000097 
+Total Scope 1 and Scope 2 emission 
+intensity (optional) - the relevant metric 
+may be selected by the entity 
+Not Applicable 
+Not Applicable 
+Not Applicable 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency. 
+- No.
+7.
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+Yes. While Roha site purchases 30% of its electricity requirements from Renewable resources, plan is in progress to replicate
+the same for other manufacturing sites as well. The Company has established the roadmap for carbon emission reductions
+and is working on renewable source of energy along with technological intervention to meet its carbon reduction plan.
+Biomass co-firing trails have been conducted and different combinations are in progress.
+8.
+Provide details related to waste management by the entity, in the following format:
+Parameters 
+FY 2021-22 
+Total waste generated (in metric tons) 
+Plastic waste (A) 
+142 
+E-waste (B)
+Nil 
+Bio-medical waste (C) 
+Nil 
+Construction and demolition waste (D) 
+Nil 
+Battery waste (E) 
+Nil 
+Radioactive waste (F) 
+Nil 
+Other Hazardous waste. Please specify, if any. (G) 
+16743 
+Other Non-hazardous waste generated (H). Please specify, if any. 
+2299
+(Break-up by composition i.e. by materials relevant to the sector) 
+Total (A+B + C + D + E + F + G + H) 
+19184 
+FY 2020-21 
+153 
+Nil 
+Nil 
+Nil 
+Nil 
+Nil 
+14748 
+1719 
+16620 

@@ -1,0 +1,3134 @@
+69
+Business Responsibility and Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details
+1.
+Corporate Identity Number (CIN) of the Company
+L64202KA2000PLC027860
+2.
+Name of the Company
+ONMOBILE GLOBAL LIMITED
+3.
+Year of Incorporation
+2000
+4.
+Registered office address
+Tower #1, 94/1 C & 94/2, Veerasandra Village, Attibele Hobli,
+Anekal Taluk, Electronic City, Phase 1, Bengaluru  - 560100,
+Karnataka, India
+5.
+Corporate office address
+Tower #1, 94/1 C & 94/2, Veerasandra Village, Attibele Hobli,
+Anekal Taluk, Electronic City, Phase 1, Bengaluru  - 560100,
+Karnataka, India
+6.
+E-mail id
+Investors@onmobile.com
+7.
+Telephone
++91 80 4009 6000
+8.
+Website
+www.onmobile.com
+9.
+Financial year for which reporting is being done
+FY2022
+10.
+Name of the Stock Exchange(s) where shares are listed
+BSE Limited, National Stock Exchange of India Limited
+11.
+Paid-up capital
+` 1056 million
+12.
+Name and contact details of the person who may be 
+contacted in case of any queries on the BRSR report
+Francois-Charles Sirois
+Executive Chairman
+T: + 91 80 4009 6000
+E: Investors@onmobile.com
+13.
+Reporting boundary
+Disclosures made in this report are on a standalone basis and 
+pertain only to OnMobile Global Limited.
+II.	
+Products/services
+14.	
+Details of business activities (accounting for 90% of the turnover):
+ S. 
+No.
+Description of main activity
+Description of business activity
+% Of turnover of the 
+Company
+1.
+Mobile Entertainment Services
+Mobile entertainment and Content Services
+1.	
+Ring Back Tones
+2.	
+Converged Value-Added Services
+3.	
+Games
+91%
+15.	
+Products/services sold by the company (accounting for 90% of the company’s turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% Of total turnover 
+contributed
+1.
+Mobile Entertainment Services -Ring Back Tones
+61900
+42%
+2.
+Mobile Entertainment Services - Converged Value-Added Services
+61900
+42%
+3.
+Mobile Entertainment Services - Games
+61900
+7%
+70
+III.	
+Operations
+16.	
+Number of locations where plants and/or operations/offices of the Company are situated
+Location
+Number of plants
+Number of offices
+Total
+National
+NA
+1
+1
+International
+19
+19
+17.	
+Markets served by the Company
+a.	
+Number of locations
+Locations
+Number
+National (No. of states/union territories)
+ 32*
+International (No. of countries)
+16#
+	
+ * Includes 28 states and 4 union territories
+	
+# captured only overseas branch locations of the Company here, excluded 41 overseas subsidiaries and their branch locations 
+since BRSR is prepared on standalone basis.
+b.	
+What is the contribution of exports as a percentage of the total turnover of the Company?
+	
+The contribution to export is 24% of total turnover of the company.
+c.	
+A brief on types of customers
+	
+The Company products are distributed to customers that comprise of private telecom operators, public telecom operators, 
+direct consumers, business users and enterprises.
+IV.	
+Employees
+18.	
+Details as at the end of the Financial Year: March 31, 2022
+a.	
+Employees and workers (including differently abled)
+S.
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1.
+Permanent (D)
+583
+479
+82%
+104
+18%
+2.
+Other than permanent (E)1
+59
+50
+85%
+9
+15%
+3.
+Total employees (D + E)
+642
+529
+82%
+113
+18%
+WORKERS*
+4.
+Permanent (F)
+NIL
+NIL
+NIL
+NIL
+NIL
+5.
+Other than permanent (G)
+NIL
+NIL
+NIL
+NIL
+NIL
+6.
+Total employees (F + G)
+NIL
+NIL
+NIL
+NIL
+NIL
+	
+*Note: The Company does not have any workers as defined in the guidance note on BRSR.
+	
+	
+1Fixed Term Employees under the definition of ‘Other than permanent employees’ since full-time consultants on 
+contract will not be covered under PF, gratuity, Group term etc. which is being reported subsequently in the BRSR.
+71
+	
+b.	
+Differently abled employees and workers:
+S.
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+ DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+NIL
+NIL
+NIL
+NIL
+NIL
+2.
+Other than permanent (E)
+NIL
+NIL
+NIL
+NIL
+NIL
+3.
+Total differently abled employees (D + E)
+NIL
+NIL
+NIL
+NIL
+NIL
+	
+*Note: The Company does not have any workers as defined in the guidance note on BRSR.
+19.	
+Participation/inclusion/representation of women
+Total (A)
+        No. and percentage of females
+No. (B)
+% (B/A)
+Board of Directors
+7
+1
+14%
+Key Management Personnel
+4
+0
+0
+20.	
+Turnover rate for permanent employees
+FY22
+FY21
+FY20
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+32%
+38%
+33%
+11%
+15%
+12%
+26%
+37%
+28%
+Permanent Workers
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+V.	
+Holding, subsidiary and associate companies (including joint ventures)
+21.	
+ (a) Names of Holding/subsidiary/associate companies/joint ventures
+S. 
+No.
+Name of the holding/ subsidiary / 
+associate companies / joint ventures (A)
+Indicate whether 
+holding/subsidiary/
+Associate/Joint 
+Venture
+% Of shares 
+held
+Does the company indicated 
+at Column A, participate in 
+the Business Responsibility 
+initiatives 
+of 
+the 
+listed 
+company? (Yes/No)
+1.
+OnMobile Singapore Pte. Ltd.
+Subsidiary
+100
+The 
+Company’s 
+business 
+responsibility 
+initiatives 
+are mainly focused on the 
+parent company in India. 
+However, subsidiaries of the 
+Company share the initiatives 
+to the extent relevant and in 
+accordance with the law of 
+the Country in which they 
+operate.
+2.
+OnMobile Europe BV
+Subsidiary
+100
+3.
+OnMobile USA LLC
+Subsidiary
+100
+4.
+Servicios De Telefonia OnMobile SA De 
+CV
+Subsidiary
+100
+5.
+OnMobile Global SA
+Subsidiary
+100
+6.
+OnMobile De Venezuela CA
+Subsidiary
+100
+7.
+OnMobile Brasil Sistemas De Valor 
+Agregado Para Comunicacoes Moveis 
+Ltda.
+Subsidiary
+100
+8.
+OnMobile Global for Telecommunication 
+Services
+Subsidiary
+100
+72
+S. 
+No.
+Name of the holding/ subsidiary / 
+associate companies / joint ventures (A)
+Indicate whether 
+holding/subsidiary/
+Associate/Joint 
+Venture
+% Of shares 
+held
+Does the company indicated 
+at Column A, participate in 
+the Business Responsibility 
+initiatives 
+of 
+the 
+listed 
+company? (Yes/No)
+9.
+OnMobile Uruguay SA
+Subsidiary
+100
+10.
+OnMobile Senegal SARL
+Subsidiary
+100
+11.
+OnMobile Mali SARL
+Subsidiary
+100
+12.
+OnMobile Bangladesh Private Limited
+Subsidiary
+100
+13.
+OnMobile Kenya Telecom Limited
+Subsidiary
+100
+14.
+OnMobile Telecom Limited
+Subsidiary
+100
+15.
+OnMobile Costa Rica OBCR, SA
+Subsidiary
+100
+16.
+OnMobile Global Spain, S.L.
+Subsidiary
+100
+17.
+OnMobile Tanzania Telecom Limited
+Subsidiary
+100
+18.
+OnMobile Zambia Telecom Limited
+Subsidiary
+100
+19.
+OnMobile Uganda Limited
+Subsidiary
+100
+20.
+OnMobile Madagascar Telecom Limited
+Subsidiary
+100
+21.
+OnMobile Rwanda Telecom Limited
+Subsidiary
+100
+22.
+OnMobile Nigeria Telecom Limited
+Subsidiary
+100
+23.
+OnMobile Ghana Telecom Limited
+Subsidiary
+100
+24.
+OnMobile Global Solutions Canada 
+Limited
+Subsidiary
+100
+25.
+OnMobile Telecom (SL) Limited
+Subsidiary
+100
+26.
+OnMobile Global Italy SRL
+Subsidiary
+100
+27.
+OnMobile Turkey Telekomunikasyon 
+Sistemleri Limited Şirketi
+Subsidiary
+100
+28.
+OnMobile Portugal SGPS, Unipessoal LDA
+Subsidiary
+100
+29.
+OnMobile Telecom Burkina Faso, SARL
+Subsidiary
+100
+30.
+ONMO, Inc. (formerly known as 
+“OnMobile Live Inc.”)
+Subsidiary
+100
+31.
+2DayUK Limited
+Subsidiary
+100
+32.
+OnMobile Global Limited Colombia SAS
+Subsidiary
+100
+33.
+OnMobile Global South Africa (PTY) Ltd.
+Subsidiary
+100
+34.
+Appland AB
+Subsidiary
+100
+35.
+OnMobile Bangladesh Technologies 
+Private Limited
+Subsidiary
+100
+36.
+9447-9029 Quebec Inc.
+Subsidiary
+100
+37.
+Technologies rob0 Inc.
+Subsidiary
+100
+38.
+OnMobile South Africa Technologies 
+(PTY) Ltd.
+Subsidiary
+100
+39.
+Mobile Voice Konnect 
+Private Limited
+Associate
+50
+73
+VI.	
+ CSR Details
+22.	
+(i) 	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+	
+(ii)	
+Turnover:  ` 1981.93 million
+	
+(iii)	
+Net worth: ` 7234.79 million
+	
+(iv)	
+Total Spent on CSR: ` 3.8 million
+VII.	
+Transparency and Disclosures Compliances
+23.	
+Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct (NGRBC)
+Stakeholder 
+group from whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanisms in Place (Yes/
+No)
+FY22
+FY21
+(If yes, then provide web-link 
+for grievance redress policy)
+Number of 
+complaints filed 
+during the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes
+Investors@onmobile.com
+-
+-
+-
+-
+-
+-
+Investors (other than 
+shareholders)
+Yes
+Investors@onmobile.com
+-
+-
+-
+-
+-
+-
+Shareholders
+Yes
+(Complaints are sent to Kfin 
+Technologies Limited, RTA 
+at einward.ris@kfintech.
+com/ Company at Investors@
+onmobile.com. The queries 
+are resolved within statutory 
+prescribed timelines.)
+34
+-
+All 
+resolved
+29
+-
+All 
+resolved
+Employees and 
+workers
+Yes
+Employees can send their 
+complaints to whistleblower 
+or POSH id or raise an EA
+Mechanism is available on 
+Company’s Intranet
+-
+-
+-
+1
+(POSH)
+1
+Resolved
+Customers*
+Yes
+-
+-
+-
+-
+-
+-
+Value Chain Partners*
+Yes
+-
+-
+-
+-
+-
+-
+Others*
+Yes
+-
+-
+-
+-
+-
+-
+	
+*Note: The Company sells white-labelled product to Telecom operators. Since the end consumer is a customer of telecom 
+operator which operates as a customer care service and is a link between the company and the end user, all customer 
+complaints are managed and resolved by telecom operator, through different channels including call centers, interactive 
+voice response systems, SMS and web/app User Interface. In case of technical issues that need the company’s interventions, 
+are reported to operations team via a ticketing mechanism. These tickets are resolved by operations team as per the agreed 
+SLAs. Grievances pertaining to ONMO can be sent to info@onmo.com, grievance.officer@onmo.com.
+24.	
+Overview of the company’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk, as per the following format:
+	
+Since the company is still moving forward towards developing the guide for ESG’s strategy, a formalized Materiality 
+assessment has not taken place during the year. However, for the future years the company commits to formulate the process 
+of identifying, refining and assessing the potential issues covering environmental, social and governance aspects that could be 
+influencing the business and other stakeholders including shareholders/investors.
+74
+S. 
+No.
+Material issue 
+identified
+Indicate whether 
+risk or opportunity
+Rationale for identifying 
+the risk/opportunity
+Approach to 
+adapt or mitigate
+Positive/ Negative 
+Implications
+1
+-
+-
+-
+-
+-
+2
+-
+-
+-
+-
+-
+3
+-
+-
+-
+-
+-
+4
+-
+-
+-
+-
+-
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+The National Guidelines for Responsible Business Conduct (NGRBC) as prescribed by the Ministry of Corporate Affairs advocates 
+nine principles referred as P1-P9 as given below:
+P1
+Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent and 
+Accountable.
+P2
+Businesses should provide goods and services in a manner that is sustainable and safe.
+P3
+Businesses should respect and promote the well-being of all employees, including those in their value chains.
+P4
+Businesses should respect the interests of and be responsive to all its stakeholders.
+P5
+Businesses should respect and promote human rights.
+P6
+Businesses should respect and make efforts to protect and restore the environment.
+P7
+Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible and 
+transparent.
+P8
+Businesses should promote inclusive growth and equitable development.
+P9
+Businesses should engage with and provide value to their consumers in a responsible manner.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.	
+a. 	
+Whether your company’s 
+policy/policies cover each 
+principle and its core 
+elements of the NGRBCs. 
+(Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+b. 	
+Has the policy been 
+approved by the Board? 
+(Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+c. 	
+Web Link of the Policies, if 
+available
+Refer 
+Note 1 
+below
+Refer 
+Note 2 
+below
+Refer 
+Note 1 
+below
+Refer 
+Note 1 
+below
+POSH 
+Policy 
+(internally 
+published)
+Refer 
+Note 1 
+below
+ Refer 
+Note 2 
+below
+Refer 
+Note 1 
+below
+Refer 
+Note 1 
+below
+Refer 
+Note 1 
+below
+Refer 
+Note 3 
+below
+Refer 
+Note 1 
+below
+2. 	
+Whether the company has 
+translated the policy into 
+procedures. (Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3. 	
+Do the enlisted policies extend 
+to your value chain partners? 
+(Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+OnMobile Code specifies that Every stakeholder is expected to be aware, understand 
+and comply with this Code, uphold these standards in day-to-day activities and comply 
+with all applicable policies and procedures.
+75
+4.	
+Name 
+of 
+the 
+national 
+and 
+international 
+codes/
+certifications/labels/ standards 
+(e.g., Forest Stewardship Council, 
+Fairtrade, 
+Rainforest 
+Alliance, 
+and Trustee) standards (e.g., SA 
+8000, OHSAS, ISO, BIS) adopted 
+by your company and mapped to 
+each principle.
+ All the policies are to the extent in compliance with the standard Acts, rules and 
+regulations that govern the subject matter in India.
+To mention specifically, the Company’s code of conduct which addresses the Anti-
+bribery requirements is also in conformity to a. The Foreign Corrupt Practices Act, 1977 
+(FCPA) & b. The Bribery Act, 2010 (UKBA) (Principle 1).
+The POSH policy is governed by Sexual harassment of Women at Workplace (Prevention, 
+Prohibition & Redressal) Act,2013 and is in conformity thereto (Principle 3).
+The Code of Conduct with respect to Human Rights specific to child labour/ forced 
+labour is governed as per International Labor Organisation’s (ILO) Declaration on 
+Fundamental Principles and Rights at Work (Principle 5).
+5.	
+Specific commitments, goals and 
+targets set by the company with 
+defined timelines, if any.
+This is Company’s voluntary disclosure and further the process of refinement by way 
+of setting function wise targets to merge the ESG considerations into the business 
+strategies would be a futuristic journey and same would be disclosed in the public 
+domain at appropriate time.
+6. 	
+Performance of the 
+company against the specific 
+commitments, goals and targets 
+along-with reasons in case the 
+same are not met.
+Governance, leadership and oversight
+7.	
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and 
+achievements (listed company has flexibility regarding the placement of this disclosure)
+	
+Our Company’s vision is to build an enduring institution focused at content monetization that has global presence in 
+delivering audio, video and interactive content with cutting edge technology on safe and secure digital platforms. However, 
+in today’s times, when enterprises are increasingly seen as critical components of the social system, they are accountable 
+not merely to their shareholders from a revenue and profitability perspective but also to the larger society which is also 
+its stakeholder. Towards building an enduring institution, sustainable value creation for all stakeholders is of paramount 
+importance. Our aim is to adopt sustainability principles across our business activities.
+	
+With sustainable development and the climate change movement gaining momentum, the sustainability reporting landscape 
+is changing rapidly around the globe. The sustainability framework is built on the three pillars of: Environmental – leaving 
+the planet a better place for our next generation, Social – giving back to the society, and Governance – transparency in 
+functioning.
+	
+Our Company is cognizant of the social risks peculiar to the industry involving data privacy, data security, content regulation, 
+social media activism, etc. These risks have increased multifold and so is the necessity for ESG implementation. This is of 
+utmost importance as the gaming industry has the perfect demography for this generation with potential to change the 
+world with high-level of engagement and their voices. People now are becoming increasingly engaged to gaming in order to 
+remain socially connected and proactive in staying together as a community via social gaming, play and esports. It would not 
+be wrong to say that this generation of millennials and generation Z, is the audience which will carry and influence the future 
+generations to bring the sustainable change in the society.
+	
+The Company is committed to identify, monitor and mitigate the risks pertaining to environmental, social, and governance 
+(ESG) issues and their potential impact for our stakeholders. With this report, as a start, we are making an attempt to make 
+our disclosures on ESG practices, and strive to put in place initiatives to address the areas of improvement. In this process, we 
+will be interacting with ESG experts, analysts and our stakeholders on a continuous basis to understand their expectations 
+and incorporate the same within our ESG framework.
+8. 	
+Details of the highest authority 
+responsible for implementation 
+and oversight of the Business 
+Responsibility policy (ies).
+Name: Francois-Charles Sirois
+Designation: Executive Chairman
+9.  	
+Does the company have a 
+specified Committee of the 
+Board/ Director responsible for 
+decision making on Sustainability 
+related issues? (Yes / No). If yes, 
+provide details.
+Yes, for the Company, the overall responsibility of governance, ethics and sustainability 
+rests with the Board, and the Board Committees play a key role in identifying and 
+addressing the sustainability aspects related to the business.
+The Risk Management Committee assists the Board with risk identification, evaluation 
+and mitigation of internal and external risks. Sustainability risk governing particularly 
+Environmental, Social and Governance related risks forms a part of Risk management 
+policy.
+76
+Note 1: https://www.onmobile.com/sites/default/files/Code_of_Conduct.pdf
+Note 2: https://www.onmobile.com/sites/default/files/policy/OnMobile_Whistle_Blower_Policy.pdf
+Note 3: https://www.onmobile.com/sites/default/files/cg_policy/Corporate_Social_Responsibility_Policy.pdf
+10.   Details of review of NGRBCs by the Company:
+Subject for review
+Indicate whether review was undertaken by 
+the Director/Committee of the Board/Any 
+other Committee
+Frequency
+(Annually/ Half-yearly/ Quarterly/ 
+Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and 
+follow up action
+Policies wherever stated have been approved by the Board/ Committee of the Board/
+Senior management of the Company or as required by extant regulations.
+The Board of Directors/ Committees of the Board / CEO assess the BR performance 
+of the Company periodically.
+Compliance with statutory requirements 
+of relevance to the principles and 
+rectification of any non – compliance
+11.	
+Has the Company carried out independent assessment/evaluation of the working of its policies by an external agency? 
+(Yes/ No) If yes, provide the name of the agency.
+	
+No. All policies and processes are subject to audits and internal reviews done within the Company by respective policy owners.
+12.	
+If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated:
+ Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The Company does not consider the Principles material to its business 
+(Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+The Company is not at a stage where it is in a position to formulate and 
+implement the policies on specified principles (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+The Company does not have the financial or/human and technical 
+resources available for the task (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+It is planned to be done in the next financial year (Yes/No)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Any other reason (please specify)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURES
+Principle 1: Businesses should conduct and govern themselves with integrity and in a manner that is ethical, transparent and 
+accountable
+ESSENTIAL INDICATORS:
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics/ principles covered under the 
+training and its impact
+% Of persons in respective 
+category covered by the 
+awareness programmes
+Board of Directors/Key 
+Managerial Personnel (KMP)
+Refer Note 1 below
+Refer Note 1 below
+Refer Note 1 below
+Employees other than Board 
+of Directors or KMPs
+2
+1.	
+Prevention of Sexual 
+Harassment (POSH) – 
+e-module & Vernacular ILT
+2. 	
+Infosec Awareness e-module
+1.   94%
+2.  97%
+Note 	 1.	
+During the year the Company’s held several Board meetings for directors and KMPs, discussions were held around 
+update on the overall performance of the Company. These presentations covered the entire range of business activities 
+including macro-economic and market review, equity performance, earnings outlook, Company’s strategy, business 
+model, operations, service and product offerings, CSR Funds. Senior Function Heads also participate periodically in the 
+meetings with the Board members for deeper understanding of various aspects of the business.
+77
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+company or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in 
+the following format [Note: the company shall make disclosures on the basis of materiality as specified in Regulation 30 of 
+SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the Company’s website]:
+	
+There were no fines/ penalties/ punishment/ award/ compounding fees/settlement levied on the Company. Similarly, there 
+were no non-monetary action by way imprisonment and/ other punishment given to any of the employees/ directors during 
+the year.
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-
+monetary action has been appealed.
+	
+Not applicable.
+4.	
+Does the Company have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a 
+web-link to the policy.
+	
+Yes, the Company has a policy on Anti-Bribery in place which is part of the Code of Conduct document. The Company being 
+a global citizen, recognizes the importance of complying with the applicable laws and regulations, including anti-bribery 
+regulations. OnMobile has formulated the Anti-Bribery Policy in the course of achieving this. The Policy extends to all the 
+stakeholders including employees, contracted employees, sub- contracted employees, agents & third parties, vendors, 
+consultants, venture partners, business partners, Board of Directors, customers, clients, associates, subsidiaries and 
+affiliated entities. Due to the company’s global presence, the provisions governing the policy are not only applicable to Indian 
+regulatory authorities like The Central Vigilance Commission (CVC), The Central Bureau of Investigation (Anti-Corruption 
+Enforcement), The Anti-Corruption Bureau and Securities and Exchange Board of India (SEBI) but also extends to FCPA for 
+US operations and The Bribery Act for its UK operations. The policy prohibits accepting any gifts from clients’ vendors or any 
+of the third parties. This policy exhibits the importance of Anti Bribery policy to the company, role of management, FCPA and 
+UKBA provisions components, consequences of violations/offences and penalties. It also touches upon the key risk areas and 
+role of each department with respect to compliance thereon.
+	
+The Company’s Code of Conduct also prohibits stakeholders with respect to offering or accepting of gifts, hospitality and 
+entertainment to/ from third parties. It prohibits the stakeholder to offer to pay, give, accept, receive, make payment, 
+promise to pay, or issue authorization to pay /receive/accept any money, gift, or anything of value –
+	
+1.	
+To or from any government officials, agent and authority with or without intent to derive any benefit in return
+	
+2.	
+Frequent in nature
+	
+3.	
+Violates or is prohibited any local law or regulation
+	
+4.	
+More than nominal value like INR 500 in India/USD 100 for international employees.
+	
+5.	
+Creating an impression or implied obligation that the gift offeror or receiver is entitled to a preferential treatment, or 
+has influenced the business decision in some way
+	
+6.	
+Not within the limits set forth in Code
+	
+7.	
+Prohibited by the gift givers’ or gift receivers’ organizations
+	
+8.	
+Not appropriate in the context of the business occasion
+	
+9.	
+More than 4 times in a year
+	
+The Web link to the Policy is https://www.onmobile.com/sites/default/files/Code_of_Conduct.pdf.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+FY 2022
+FY 2021
+Directors
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil
+Workers
+Not applicable
+Not applicable
+78
+6.	
+Details of complaints with regard to conflict of interest:
+FY 2022
+FY 2021
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+Nil
+N. A.
+Nil
+N. A.
+Number of complaints received in relation to 
+issues of Conflict of Interest of the KMPs
+Nil
+N. A.
+Nil
+N. A.
+7.	
+Details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law 
+enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+Not Applicable
+LEADERSHIP INDICATORS:
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total number of awareness 
+programmes held
+Topics / principles covered 
+under the training
+%age of value chain partners covered (by value 
+of business done with such partners) under the 
+awareness programmes
+NIL
+2.	
+Company’s processes in place to avoid/ manage conflict of interests involving members of the Board
+	
+Company’s ‘Code of Business Conduct and Ethics’ is applicable to all employees of the Company, Board of Directors, agents, 
+vendors, subsidiaries, venture partners, business partners, customers/ clients, associates, contract/ sub-contractors, and 
+other third parties/ affiliates (collectively referred to as stakeholders) of the OnMobile Global Limited and all its subsidiaries 
+and affiliated entities.
+	
+Hierarchy for Regulating the Code:
+	
+1. Global Head – Human Resource
+	
+2. CEO
+	
+3. Audit Committee
+	
+4. Board of Directors and code is available at https://www.onmobile.com/sites/default/files/Code_of_Conduct.pdf
+	
+Every stakeholder is responsible to the Company, investors and each other. Although this duty does not prevent the 
+stakeholders from engaging in personal transactions and investments, it does demand that the stakeholders avoid situations 
+where a conflict of interest might occur or appear to occur in the best interest of the Company. As a legal entity the Company 
+is subject to scrutiny from many different individuals and organizations. The Company always strives to avoid even the 
+appearance of impropriety.
+	
+The Code expects all stakeholders to avoid situations like personal or romantic involvement with a competitor, supplier, or 
+subordinate employee of the Company, which impairs a stakeholder’s ability to exercise good judgment on behalf of the 
+Company, and creates an actual or potential conflict of interest.
+	
+A stakeholder involved in any conflict of interest should immediately fully disclose the relevant circumstances to his or 
+her immediate supervisor, or any other appropriate supervisor, to determine whether a potential or actual conflict exists. 
+If an actual or potential conflict is established, then the Company may take necessary corrective action according to the 
+circumstances. Failure to disclose facts shall constitute grounds for disciplinary action. A stakeholder’s duty to the Company 
+demands that he or she avoids and discloses actual conflicts of interest.
+79
+Principle 2: Businesses should provide goods and services in a manner that is sustainable and safe
+ESSENTIAL INDICATORS:
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and 
+social impacts of product and processes to total R&D and capex investments made by the company, respectively.
+INR (millions)
+FY22
+FY21
+Details of improvement in 
+environmental and social 
+impacts
+R&D
+Nil
+Nil
+NA
+Capex
+Nil
+Nil
+NA
+	
+The Company’s Capex and R&D expenditures over the years have been mainly limited to product developments and migration 
+to digital space/ cloud computing.
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing?
+	
+	
+As the nature of the business is providing services, consumption of resources is limited to running its operations. In 
+view of the limited scope of considering sustainability in sourcing, the Company does not have defined procedures to 
+incorporate sustainability in whatever limited sourcing is done. However, the Company will explore the possibility of 
+sustainable sourcing to the extent possible in the coming years as relevant to its  requirements.
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+Given the limited scope, the company has not been focusing on this aspect but would want to explore the opportunity 
+in the coming years to the extent possible.  However, through the vendor registration  form, the company assesses 
+the basic criteria of inputs sourced sustainably depending on the entity performance, financial trends and operational 
+details.
+3.	
+The processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for
+Type of Product
+Process
+Plastics (including packaging)
+Separate bins have been placed
+E-waste
+Managed by Registered third party vendor
+Hazardous waste
+Not applicable
+Other waste
+Wet and Dry separate bins have been placed
+	
+Since the sector in which company operates is categorized as service industry, there is limited scope for using recycled 
+material as processed inputs. However, the company is regularly looking for chances to recycle waste.
+	
+For minimising usage of single use plastic, several initiatives have been taken like using paper cups, replacing plastic bottles by 
+glass bottles in meeting rooms and other office spaces.
+	
+E-waste such as computers, printers, switches, scanners form the main e-waste generated.
+	
+The organisation has e-waste collection bins for employees and visitors to deposit their e-waste so that same can be disposed 
+through certified E-waste handlers for disposal which is in line with guidelines of local regulatory authority.
+	
+Other wet and dry waste is segregated in separate bins and sent for recycling by the municipal authorities.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the Company’s activities (Yes / No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same.
+	
+Not applicable.
+LEADERSHIP INDICATORS:
+1.	
+Has the Company conducted Life Cycle Perspective / Assessments (LCA) for its services (for service industry)?
+	
+The primary business of OnMobile is provision of mobile entertainment products and solutions such as tones and videos & 
+editorial to telecom operators and media companies. Although the Company has not conducted an LCA for its services, it 
+endeavors to have such assessments in the coming years to the extent possible/ applicable.
+2.	
+Significant social or environmental concerns and/or risks arising from production or disposal of your products / services, as 
+80
+identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same along-
+with action taken to mitigate the same.
+	
+Not applicable.
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) 
+or providing services (for service industry).
+	
+Not Applicable, considering the peculiar business nature of the Company.
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely 
+disposed, as per the following format:
+	
+Not Applicable, considering the peculiar business nature of the Company.
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+	
+Not applicable.
+Principle 3: Businesses should respect and promote the well-being of all employees, including those in their value chains
+ESSENTIAL INDICATORS
+1.	
+a. 	
+Details of measures for the well-being of employees
+Category
+% Of employees covered by
+Total 
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity benefits
+Day care facilities
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (D)
+% (D/A)
+No. (E)
+% (E/A)
+No. (F)
+% (F/A)
+PERMANENT EMPLOYEES
+Male
+479
+479
+100
+479
+100
+N.A.
+N.A.
+479
+100
+0
+0
+Female
+104
+104
+100
+104
+100
+104
+100
+N.A.
+N.A.
+0
+0
+Total
+583
+583
+583
+104
+479
+0
+OTHER THAN PERMANENT EMPLOYEES
+Male
+53
+53
+100
+53
+100
+N.A.
+N.A.
+53
+100
+0
+0
+Female
+9
+9
+100
+9
+100
+9
+100
+N.A.
+N.A.
+0
+0
+Total
+62
+62
+62
+9
+53
+0
+	
+Note: The source of the above data is the Insurance database as at the end of the FY 22.
+	
+b. 	
+Details of measures for the well-being of workers
+	
+	
+Not applicable
+2.	
+Details of retirement benefits for the current and previous financial year
+Benefits
+FY 22
+FY 21
+No. of employees 
+covered as a % of 
+total employees
+Deducted and 
+deposited with the 
+authority (Y/N/N.A.)
+No. of employees 
+covered as a % of 
+total employees
+Deducted and 
+deposited with the 
+authority (Y/N/N.A.)
+PF
+100%*
+Y
+100%*
+Y
+Gratuity
+100%
+Y
+100%
+Y
+Employee State II(ESI)
+NA
+NA
+NA
+NA
+Others
+International benefits 
+in line with local 
+statutory regulations
+Y
+International benefits 
+in line with local 
+statutory regulations
+Y
+	
+*PF applicable only for employees working in India
+81
+3.	
+Accessibility of workplaces
+	
+Are the premises/offices accessible to differently abled employees as per the requirements of the Rights of Persons with 
+Disabilities Act, 2016? If not, whether any steps are being taken by the company in this regard.
+	
+Yes, the premises/office of Bengaluru  EC are accessible to differently abled employees/third parties.
+4.	
+Does the Company have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide 
+a web-link to the policy.
+	
+The company follows and encourages equality through its Code of Conduct.
+	
+The Company firmly believes in offering equal employment opportunity and is committed towards following employment 
+practices like recruiting, hiring, promoting, transfer, layoffs, termination, compensation and training without any 
+discrimination. The Company is committed to support equal employment opportunity for all individuals, without regard to 
+race, color, religion, creed, caste, economic or social status, gender, nationality, citizenship, age, sexual orientation, physical 
+disability, pregnancy, childbirth, marital status, medical condition, ancestry, language, sexual orientation or any other 
+characteristic. The Company’s commitment to equal employment opportunity extends to any other protected classes which 
+may exist under applicable law. The Company opposes any discrimination whether direct or indirect. The Equal Employment 
+Opportunity Commission is an independent government agency of the United States that promotes equal opportunity in 
+employment through administrative and judicial enforcement of the civil rights laws. The rules and guidelines need to be 
+mandatorily followed in the US and the same are adhered to in the true spirit elsewhere also, by the Company.
+	
+The Equal Employment Opportunity Commission covers this objective through various rules and guidelines as covered in:
+	
+1.	
+Equal Pay Act of 1963-eliminate sex discrimination in the payment of wages.
+	
+2.	
+Civil Rights Act of 1964- bars employment discrimination based on race, color, national origin, religion, gender, genetic 
+information, or retaliation with respect to applicants or employees of the Federal government.
+	
+3.	
+The Age Discrimination in Employment Act of 1967- employment discrimination against persons who are age40 or 
+older.
+	
+4.	
+The Pregnancy Discrimination Act of 1978, Public Law 95-555 (Pregnancy Act) prohibits discrimination based on 
+pregnancy.
+	
+Web-link: https://www.onmobile.com/sites/default/files/Code_of_Conduct.pdf
+5.	
+Return to work and retention rates of permanent employees that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+NA
+NA
+Female
+100%
+100%
+NA
+NA
+Total
+100%
+100%
+NA
+NA
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees? If yes, give 
+details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent Workers
+Not applicable
+Other than Permanent Workers
+Not applicable
+Permanent Employees
+Yes, the Company has an internal employee portal as ‘Jira’, where employees can raise 
+or report any concerns, queries by raising tickets. The tickets are then addressed by 
+the concerned person/department and resolved. Employees can also reach out to 
+the HR business partners (HRBP) for grievance resolution. The HRBP raises the issue 
+with the concerned parties, facilitates necessary actions, discussions and provides the 
+resolution for the same.
+Other than Permanent 
+Employees
+Yes, the mechanism explained above is applicable to other than permanent employees 
+as well.
+82
+7.	
+Membership of employees and workers in association(s) or Unions recognized by the listed company:
+Category
+FY2022 (Current Financial Year)
+FY2021 (Previous Financial Year)
+Total 
+employees/ 
+workers in 
+respective 
+category (A)
+No. of 
+employees/ 
+workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (B)
+% (B/A)
+Total 
+employees/ 
+workers in 
+respective 
+category (A)
+No. of 
+employees/ 
+workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (B)
+% (B/A)
+Total Permanent 
+Employees
+NA
+NA
+NA
+NA
+NA
+NA
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+Total Permanent 
+workers
+NA
+NA
+NA
+NA
+NA
+NA
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+8.	
+Details of training given to employees and workers:
+Category
+FY22
+FY21
+Total 
+(A)
+On Health and 
+safety measures
+On skill 
+upgradation
+Total 
+(D)
+On Health and 
+safety measures
+On skill 
+upgradation
+No. (B)
+% (B/A)
+No. (C) 
+% (C/A)
+No. (D)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+EMPLOYEES
+Male
+479
+479
+100%
+332
+69%
+563
+563
+100%
+459
+82%
+Female
+104
+104
+100%
+50
+48%
+123
+123
+100%
+65
+52%
+Total
+583
+583
+100%
+382
+65%
+686
+686
+100%
+524
+76%
+WORKERS
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Total
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY22 Current Financial Year
+FY21 Previous Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+EMPLOYEES
+Male
+477
+431
+90%
+395
+395
+100
+Female
+99
+91
+92%
+84
+84
+100
+Total
+576
+522
+91%
+479
+479
+100
+WORKERS
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+Total
+NA
+NA
+NA
+NA
+NA
+NA
+	
+All employees of the Company undergo an annual performance appraisal process as determined by the Company. The 
+Company has an established performance and talent management framework. The objectives of the framework which weighs 
+the said KPIs against the performance.
+	
+The Company has a structured performance management process starting with goal setting through the Company KPIs set by 
+the Board being cascaded to functional KPIs through the Balanced Scorecard process and further to individual KPIs.
+83
+10.	
+Health and safety management system
+	
+a.	
+Implementation of occupational health and safety management system by the Company along with the coverage
+	
+	
+The Company values its people – the keepers of its values, as the fundamental component for its success. The safety of 
+people in the workplace is a primary concern of the Company. The Company has taken steps to provide the employees 
+with a safe and healthy work environment by implementing safety measures like emergency exits, fire alarms, fire 
+extinguishers, smoke detectors, etc. It is the responsibility of each stakeholder to adhere to all applicable health and 
+safety policies in order to maintain secure and healthy work surroundings. It is further the duty of the all stakeholders 
+to educate and create awareness amongst them.
+	
+	
+Further, in light of the pandemic, the organisation recognized the risks of infections that could take place in the office 
+premises. To minimise these risks, the organisation took necessary precautions at the offices, which included:
+	
+	
+•	
+Sanitisation of meeting & training rooms & hotspots.
+	
+	
+•	
+Glass partitions wherever required.
+	
+	
+•	
+Thermal screening of employees.
+	
+	
+•	
+Installation of hands-free sanitizer dispenser.
+	
+	
+•	
+Rostering of employees in office.
+	
+	
+•	
+Social distancing
+	
+	
+The organisation also adhered to all the government directives and issued travel and health advisories to its employees 
+and advised all its employees to work from home as required or on a rotational basis to ensure employee safety and 
+business continuity.
+	
+b.	
+Processes for workers to report the work-related hazards and to remove themselves   from such risks.
+	
+	
+Given the nature of business, this is not directly applicable.
+	
+	
+However, in light of the pandemic, the organization has necessary protocols and systems in place to ensure employees’ 
+safety is not compromised at the workplace and intimation of symptoms/infections by employees/their family is done. 
+The organization also has organized vaccination camps for its employees and their families in an endeavor to urge all 
+employees and their families to get vaccinated.
+	
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such 
+risks.
+	
+	
+There are no direct work-related hazards to employees owning to the nature of operations of the company. However, 
+with pandemic several efforts were taken by the company to take necessary precautions by following the Covid-19 
+related protocols and restrictions.
+	
+d.	
+Do the employees have access to non-occupational medical and healthcare services?
+	
+	
+Yes, all employees of the organization are covered under the company’s health insurance and accident policy. The 
+Company has a well-defined medical and health care policies and allied services. Health checkup is done for employees 
+wherever required or mandated as per the terms of policies. Employees & families are covered under the Insurance 
+policies for hospitalization through Mediclaim cover for any uncertain medical emergencies.
+11.	
+Details of safety related incidents, in the following format;
+Safety Incident/Number
+Category
+FY22
+FY21
+Lost Time Injury Frequency Rate (LTIFR) (per 
+one million-person hours worked)
+Employees
+NIL
+NIL
+Workers
+Total recordable work-related injuries
+Employees
+Workers
+No. of fatalities (safety incident)
+Employees
+Workers
+High consequence work-related injury or ill-
+health (excluding fatalities)
+Employees
+Workers
+84
+12.	
+Measures taken by the company to ensure a safe and healthy work place.
+	
+The organization accentuates on the importance of maintaining a safe and healthy workplace for all employees and third-
+party employees who work on its premises. The Company has taken steps to provide the employees with a safe and healthy 
+work environment by implementing safety measures like emergency exits, fire alarms, fire extinguishers, smoke detectors, 
+etc. It is the responsibility of each stakeholder to adhere to all applicable health and safety policies in order to maintain 
+secure and healthy work surroundings. With respect to pandemic, all Covid protocols and emergency response protocols are 
+adhered by the respective teams. The organisation also assesses the health, safety and environmental performance across all 
+its offices.
+	
+To prevent the spread of COVID-19, the organisation took necessary precautions at its office, which included:
+	
+•	
+Sanitisation of meeting & training rooms & hotspots
+	
+•	
+Glass partitions wherever required
+	
+•	
+Thermal screening of employees
+	
+•	
+Installation of hands-free sanitizer dispenser
+	
+•	
+Rostering of employees in office
+	
+•	
+Social distancing
+	
+•	
+Avoidance of large gatherings.
+	
+The organisation adhered to directives issued by the government/local authorities pertaining to COVID-19.
+13.	
+Number of complaints on the following made by employees and workers:
+FY22
+FY21
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+ Remarks
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+  Remarks
+Working conditions
+Nil
+Nil
+-
+Nil
+Nil
+-
+Health and safety
+Nil
+Nil
+-
+Nil
+Nil
+-
+14.	
+Assessments for the year
+% Of your plants and offices that were assessed (by company or statutory 
+authorities or third parties)
+Health and safety practices
+No assessment has been done by statutory authorities or third parties.
+Working Conditions
+15.	
+Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks / concerns arising from assessments of health and safety practices and working conditions.
+	
+Not applicable.
+LEADERSHIP INDICATORS
+1.	
+Details of life insurance or any compensatory package extended by the Company in the event of death of employees:
+	
+Yes, the company has the coverage of life insurance and compensatory package for the employees during the uncertain event 
+of death. This coverage shall be five times the fixed pay to the employees’ dependent families.
+2.	
+The measures undertaken by the Company to ensure that statutory dues have been deducted and deposited by the value 
+chain partners.
+	
+The Company is compliant to statutory dues of employees towards income tax, provident fund, professional tax, ESIC etc. 
+as applicable from time to time. Automated tool & system is in place to ensure that statutory dues have been deducted and 
+deposited to the value chain partners.
+	
+Value chain partners (vendors) are expected to be equally responsible to comply with the contract.
+85
+3.	
+The number of employees/workers having suffered high consequence work-related injury / ill-health / fatalities (as 
+reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable employment or whose 
+family members have been placed in suitable employment:
+Total no. of affected employees
+No. of employees that are rehabilitated and 
+placed in suitable employment or whose 
+family members have been placed in suitable 
+employment
+FY22
+FY21
+FY22
+FY21
+Employees
+NIL
+NIL
+NIL
+NIL
+Workers
+NA
+NA
+NA
+NA
+4.	
+The Company’s transition assistance programmes to facilitate continued employability and the management of career 
+endings resulting from retirement or termination of employment?
+	
+Yes, the company has appointed a third-party agency which deals with the task of supporting employees that have been laid 
+off due to redundancy. The third-party agency undertakes the job of upskilling the employees wherever required and assist 
+them in new placements. However, there is no such plan that is extended to employees who retire.
+5.	
+Assessment of value chain partners
+% Of value chain partners (by value of business done with such partners) that were 
+assessed
+Health and safety practices
+Given the nature of the business, consumption of resources is limited to running 
+its operations. The Company expects all its value chain partners to follow extant 
+regulations, including health and safety practices and working conditions.
+Although, no specific assessment was carried out by the Company, it conducts periodic 
+inspections of material value chain partners where data is being shared or systems 
+have been extended to the value chain partners from data security, cyber security and 
+business continuity perspective.
+Working conditions
+6.	
+Corrective actions taken or underway to address significant risks/concerns arising from assessments of health and safety 
+practices and working conditions of value chain partners.
+	
+No corrective action plan has been necessitated on the above-mentioned parameters.
+Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders
+ESSENTIAL INDICATORS:
+1.	
+The processes followed for identifying key stakeholder groups of the Company.
+	
+The Company considers stakeholders as key who can reasonably be expected to be significantly affected by the organization’s 
+activities, products, or services; or whose actions can reasonably be expected to affect the ability of the organization to 
+implement its strategies or achieve its objectives.
+	
+The Company Code of conduct identifies the key stakeholders as follows:
+	
+1.	
+Directors
+	
+2.	
+Shareholders
+	
+3.	
+Telecom Businesses
+	
+4.	
+Employees
+	
+5.	
+Channel Partners & Distributors
+	
+6.	
+Vendors
+	
+7.	
+Community
+86
+2.	
+List of stakeholder groups identified as key for the Company and the frequency of engagement with each stakeholder 
+group.
+Stakeholder group
+Whether identified 
+as vulnerable & 
+marginalized group
+(Yes/ No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website, others)
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly/ 
+others- please 
+specify)
+Purpose and scope 
+of engagement 
+including key 
+topics raised 
+during such 
+engagement
+Directors
+No
+Board/ Committee meetings
+Notices through emails
+Documents are disseminated 
+through portal Meetings are 
+conducted through Zoom 
+Video Conference
+Quarterly
+Statutory 
+/ business 
+requirements
+Shareholders
+No
+Annual General Meeting
+Notices through emails / 
+Newspaper publication
+Annually
+Statutory 
+/ business 
+requirements
+Telecom Businesses
+No
+Email and SMS
+Quarterly
+Business and 
+Operational 
+Reviews
+Employees
+No
+Townhall meetings through 
+Zoom video conference
+Quarterly
+Part of employee 
+engagement 
+and address the 
+grievances
+Channel partners and 
+distributor
+No
+Emails
+As and when 
+required
+For discussing 
+the various 
+contractors, terms 
+& Conditions
+Vendors
+No
+Emails
+As and when 
+required
+For discussing 
+the various 
+contractors, terms 
+& Conditions
+Community i.e., 
+Beneficiaries through CSR 
+partners
+Yes
+Websites
+Regular
+CSR activities for 
+Promoting health 
+care including 
+preventive health 
+care
+LEADERSHIP INDICATORS:
+1.	
+The processes for consultation between stakeholders and the Board on economic, environmental and social topics or if 
+consultation is delegated, how is such feedback from such consultations provided to the Board.
+	
+This is Company’s inaugural year when it is attempting to bring in ESG considerations into its business strategies. OnMobile’s 
+endeavour is to further develop the consultative process between the stakeholders and Board on ESG parameters from the 
+next financial year.
+2.	
+Whether the stakeholder consultation is used to support the identification and management of environmental and social 
+topics. If so, provide details of instances as to how inputs received from stakeholders on these topics were incorporated 
+into policies and activities of the company.
+	
+This is Company’s inaugural year when it is attempting to bring in ESG considerations into its business strategies. OnMobile’s 
+endeavour is to further develop the consultative process between the stakeholders and Board on ESG parameters from the 
+next financial year.
+3.	
+Instances of engagement with and actions taken to, address the concerns of vulnerable /marginalized stakeholder groups.
+	
+NA
+87
+Principle 5: Businesses should respect and promote human rights.
+ESSENTIAL INDICATORS:
+1.	
+Employees who have been provided training on human rights issues and policy(ies)
+Category
+FY22
+FY21
+Total (A)
+No. of 
+employees 
+covered (B)
+% (B/A)
+Total (C)
+No. of 
+employees 
+covered (D)
+% (D/C)
+EMPLOYEES
+Permanent
+Other than permanent
+Total Employees
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+WORKERS
+Permanent
+Other than permanent
+Total Workers
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+2.	
+Details of minimum wages paid to employees
+Category
+FY22
+FY21
+Total 
+(A)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+No. (B)
+% (B/A)
+No. (C)
+% 
+(C/A)
+No. (E)
+% 
+(E/D)
+No. (F)
+% (F/D)
+EMPLOYEES
+Permanent
+Male
+479
+0
+0%
+479
+100%
+563
+0
+0%
+563
+100%
+Female
+104
+0
+0%
+104
+100%
+123
+0
+0
+123
+100%
+Other than 
+Permanent
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+WORKERS
+Permanent
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Other than 
+Permanent
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+88
+3.	
+ Details of remuneration/salary
+Male
+Female
+Number
+Median 
+remuneration/ 
+salary/ wages 
+of respective 
+category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BOD)*
+4
+16,50,000
+1
+20,50,000
+Key Managerial Personnel
+4
+1,24,27,511
+0
+NA
+Employees other than BOD and KMP
+479
+9,88,176
+104
+6,37,897
+Workers
+NA
+NA
+NA
+NA
+ 
+* François-Charles Sirois, Executive Chairman and Sanjay Baweja, Managing Director and Global CEO are included in Key 
+Managerial Personnel Category.
+4.	
+Focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed to by 
+the business
+	
+The Company’s HR department guided by the Company’s Code of conducts covers the human rights responsibility and 
+reinforces the same.
+5.	
+Internal mechanisms in place to redress grievances related to human rights issues
+	
+The Company’s code of conduct covers any grievances that can be reported through local HR grievances reporting process. 
+The company has appointed a committee for that purpose as Internal Complaints Committee (ICC). ICC has been empowered 
+with the powers of civil court for gathering evidences as vested under the Code of Civil Procedure (1908).
+	
+As per the terms of reference of Audit Committee, the Committee shall periodically review the functioning of the Whistle 
+blower mechanism – Quarterly basis. Also, the Audit Committee takes note of complaints under prohibition, prevention and 
+redressal of sexual harassment of women at the workplace (POSH policy) on a quarterly basis even in case of ‘Nil’ complaints.
+	
+The company’s concerns regarding violations whether actual or suspected, pertaining to fraudulent financial activity, 
+harassment, grave misconduct i.e., conduct which results in a violation of law by the Company /substantial mismanagement of 
+company resources, conduct which is otherwise in violation of any law or the Company’s policies or any other rare situations, 
+any such concerns are reported by either of the following modes:
+	
+•	
+Reporting to immediate superior, or
+	
+•	
+Sending an email to whistleblower@onmobile.com. The email will be acknowledged through an auto mailer, or
+	
+•	
+Mails can be also sent to email ids of: - Audit Committee Chairman sanjaykapoor2802@gmail.com, or
+	
+•	
+Writing a letter to the following postal address to the Audit Committee Tower-1, No. 94/1C and 94/2, Veerasandra 
+Village, Attibele Hobli, Anekal Taluk, Electronic city Phase-1. Bengaluru -560100, Karnataka – India
+6.	
+Number of complaints on the following made by employees
+FY22
+FY21
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+the year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+the year
+Remarks
+Sexual Harassment
+0
+0
+-
+1
+0
+-
+Discrimination at workplace
+0
+0
+-
+0
+0
+-
+Child Labour
+0
+0
+-
+0
+0
+-
+Forced Labour/ Involuntary 
+Labour
+0
+0
+-
+0
+0
+-
+Wages
+0
+0
+-
+0
+0
+-
+Other human rights related 
+issues
+0
+0
+-
+0
+0
+-
+89
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+The mechanisms are governed under the Company Whistleblower Policy whereby it articulates its stakeholders to report any 
+concerns or issues, without fear of retaliation to make known any inappropriate act or conduct, whether actual, potential or 
+suspected.
+	
+Also, the Company’s Code provide the company’s commitment towards providing a work environment that is free of unlawful 
+harassment. The Code prohibits harassment based on pregnancy, childbirth or related medical conditions, race, religion, 
+creed, gender, color, national origin or ancestry, physical or mental disability, medical condition, marital status, age, sexual 
+orientation, or any other basis protected by local law or regulation.
+	
+Through this clause, the Company desires to reemphasize the significance of human resource to the Company, its stand on 
+such mistreatment or misconduct and the intolerance towards such misconduct. It is the responsibility of every stakeholder 
+to ensure that this goal of the Company is achieved by lending their support by treating fellow workers and all other individuals 
+with dignity and respect.
+	
+It is also every stakeholder’s responsibility, to be aware of their role in making such a harassment free environment by being 
+supportive, encouraging and sensitive to employees who have been subjected to any harassment.
+	
+Complaints about any sexual harassment shall be made to the Internal Complaints Committee (ICC) constituted under the 
+Sexual Harassment of Women at Workplace (Prevention, Prohibition, and Redressal) Act, 2013. As per the requirement 
+the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 and in compliance with 
+the Supreme Court guidelines, the Company has set up a committee to handle any complaints or concerns with respect 
+to sexual harassment. The Committee also covers any other form of harassment as the Company strictly prohibits and has 
+zero tolerance attitude towards harassment of any mode. The Committee is presided by a woman employee and comprises 
+of 50% of women members. This section of the Code is read in conjunction with the Company’s Sexual Harassment Policy 
+available on the Company intranet, amended and updated from time to time.
+8.	
+Human rights requirements as part of the Company’s business agreements and contracts
+	
+The Company’s Code extends to all its stakeholders. The Company’s conduct in global operations is consistent with the 
+spirit and intent of the United Nations’ Universal Declaration of Human Rights; the International Labor Organization (ILO) 
+Declaration on Fundamental Principles and Rights at Work, where applicable to business; and other applicable international 
+principles, including the Voluntary Principles on Security and Human Rights. These cover prohibition of child labor, forced 
+labor, freedom of association, right to collective bargaining and protection from discrimination. Prohibits any kind of 
+discrimination on the grounds of race, color, religion, creed, caste, economic or social status gender, nationality, citizenship, 
+age, sexual orientation, disability, pregnancy, childbirth, marital status, medical condition, ancestry, language or any other 
+characteristic.
+9.	
+Assessments for the year
+% Of offices that were assessed (by company or statutory 
+authorities or third parties)
+Child labour
+NIL*
+Forced/involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others – please specify
+	
+*Note: Although no assessment was done by the Company, no complaints were received.
+10.	
+Corrective actions taken or underway to address significant risks / concerns arising from the assessments at Question 9 
+above.
+	
+Not applicable.
+90
+LEADERSHIP INDICATORS:
+1.	
+Business process being modified/introduced as a result of addressing human rights grievances/ complaints.
+	
+Employees are encouraged to raise any grievance that they may have regarding any breach/violation in any policy or process, 
+breach of professional etiquette or standards of acceptable behavior by any colleague, vendor, advisor or any third party 
+associated with the Company in a professional capacity or report any other act which is in contravention of the breach of 
+the Company’s Code, The Prevention of Sexual Harassment at the Workplace policy, Anti-Bribery Policy, Anti-Money 
+Laundering Policy, Compliance Policy, Framework for Managing Conflict of Interest, Insider Trading Code, Whistle Blower 
+Policy, Information and Cyber Security Policy, Fraud Risk Management Policy, HR Policies and any other policy governing 
+employee conduct at the workplace that may be defined from time to time and also any statutory or regulatory laws as may 
+currently be there.
+2.	
+Scope and coverage of any human rights due-diligence conducted
+	
+Not applicable.
+3.	
+Is the premise/office of the company accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+	
+Yes, the premises are accessible to differently abled visitors and third parties.
+4.	
+Details on assessment of value chain partners
+% of value chain partners (by value of business done with 
+such partners) that were assessed
+Sexual Harassment
+ NIL
+Discrimination at workplace
+Child Labour
+Forced Labour/Involuntary Labour
+Wages
+Others – please specify
+5.	
+Corrective actions taken or underway to address significant risks / concerns arising from the assessments at Question 4 
+above.
+	
+NIL
+Principle 6: Businesses should respect and make efforts to protect and restore the environment
+ESSENTIAL INDICATORS
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity
+Parameter
+UOM
+FY2022
+FY2021
+Total electricity consumption (A)
+KWH
+14,68,230.02*
+16,60,526.94*
+Total fuel consumption (B)
+Diesel used for generators- Liters
+91,733.07
+51,337.31
+Energy consumption through other sources (C)
+N.A.
+Nil
+Nil
+	
+*Of the Total Electricity consumed, 27,797.9 KWH in FY22 and 15,5556.76 KWH in FY21 was generated through the use of 
+Diesel generators.
+	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? If yes, name of 
+the external agency.
+	
+No, there has been no independent assessment/ evaluation/assurance carried out by an external agency. The above figures 
+are generated from electricity bills/BESCOM bills. The details of consumption are shared by the landlord as the company 
+office is operating in multi tenanted building.
+91
+2.	
+Does the Company have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have 
+been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+Not applicable.
+3.	
+Details of the disclosures related to water.
+	
+The organization’s water usage is restricted to human consumption purpose only.
+	
+As the nature of the business is service industry, the data requirement does not apply to our organization. Our offices are in 
+rental premises whereby the water usage and recycling are handled by the landlord. The Recycled Water is used in the offices 
+for non-potable purposes (such as toilets and urinal flushing) while fresh water is used for other potable purposes. There is no 
+mechanism installed to track water utilization. However efforts have been made to ensure that water is utilized judiciously by 
+installing aerator taps and sensor-based taps.
+4.	
+Has the Company implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+The Company’s office is a rented space and housed in a multi-tenanted premises. Water discharged from the premises is 
+treated in a common Sewage Treatment Plant (STP) wherein it is recycled and used for other domestic purposes within the 
+premises.
+5.	
+Details of air emissions (other than GHG emissions) by the Company.
+	
+Not applicable.
+6.	
+Details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity
+	
+Currently, the Company does not have the requisite mechanism to capture this data. However, OnMobile’s endeavor is to 
+further collect such relevant data in the required format for scope calculations for futuristic purposes.
+Parameter
+Unit
+FY2022 
+(Current 
+Financial Year)
+FY2021 
+(Previous 
+Financial Year)
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)*
+-
+-
+-
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)#
+-
+-
+-
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+-
+-
+-
+Total Scope 1 and Scope 2 emission intensity (optional) – the 
+relevant metric may be selected by the company
+-
+-
+-
+7.	
+Company’s project related to reducing Green House Gas emission
+	
+The company has supported the reduction in GHG emission by deploying Energy capacitor panel, energy efficient equipment 
+like LED lighting and LED signage. This results in 5% saving of energy consumption.
+8.	
+Details related to waste management by the company
+Parameter (in metric tonnes)
+FY2022
+FY2021
+Waste generated
+Plastic waste
+Not quantified
+Not quantified
+E-waste generated and recycled
+1.7
+9.35
+	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+No external agency assessment is done as we belong to service industry.
+9.	
+Waste management practices adopted in the Company along with the strategy adopted by the Company to reduce usage 
+of hazardous and toxic chemicals in the products and processes and the practices adopted to manage such wastes.
+	
+As the operation of the business in which organization operates are services oriented, there is no usage of hazardous and toxic 
+chemicals by the organization. However, the organization’s e-waste generated is recycled and handled by the third-party 
+contract agency which is registered under Pollution Control board. The organization engages with certified e-waste recycling 
+company for handling and for disposal of e-waste.
+92
+10.	
+If the company has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals 
+/ clearances are required, please specify details.
+	
+Not applicable. The company’s Office is located in premises which have requisite multi-tenanted building permission, 
+compliant to local municipal norms.
+11.	
+Details of environmental impact assessments of projects undertaken by the company based on applicable laws, in the 
+current financial year.
+	
+Not applicable.
+12.	
+Is the company compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and 
+rules thereunder (Y/N). If not, provide details of all such non-compliances
+	
+The Company abides by all the sector specific laws, regulations and guidelines to comply with environment protection.
+LEADERSHIP INDICATORS
+1.	
+Break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources
+Parameter
+Unit of Measurement
+FY 2022
+FY 2021
+From renewable sources
+Total electricity consumption (A)
+N.A.
+N.A.
+N.A.
+Total fuel consumption (B)
+N.A.
+N.A.
+N.A.
+Energy consumption through other sources (C)
+N.A.
+N.A.
+N.A.
+Total energy consumed from renewable sources (A+B+C)
+N.A.
+N.A.
+N.A.
+From non-renewable sources
+Total electricity consumption (D)
+KWH
+14,68,230.02*
+16,60,526.94*
+Total fuel consumption (E)
+Diesel used for 
+generators- Liters
+91,733.07
+51,337.31
+Energy consumption through other sources (F)
+N.A.
+-
+-
+Total energy consumed from non-renewable sources 
+(D+E+F)
+	
+*Of the Total Electricity consumed, 27,797.9 KWH in FY22 and 15,5556.76 KWH in FY21 was generated through the use of 
+Diesel generators.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+No.
+2.	
+Details related to water discharged:
+	
+Not applicable.
+3.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area
+	
+(ii)	
+Nature of operations
+	
+(iii)	
+Water withdrawal, consumption and discharge in the following format:
+	
+Not applicable.
+4.	
+Details of total Scope 3 emissions & its intensity
+	
+Not applicable. The Company is not presently tracking Scope 3 emissions.
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details of 
+significant direct & indirect impact of the company on biodiversity in such areas along-with prevention and remediation 
+activities.
+	
+Not applicable.
+93
+6.	
+If the Company has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as 
+well as outcome of such initiatives, as per the following format:
+	
+Not applicable.
+7.	
+Does the company have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+Yes, the Company has a Business Continuity Plan framework formulated under risk management policy to ensure resilience 
+and continuity of key products and services at minimum acceptable level to achieve business-as usual presence in the market 
+place and safety of human resources.
+	
+Business impact analysis and risk assessment is conducted to assess the likely impact on the Company’s business processes 
+due to adverse events like, natural disaster, pandemic, technical disruption like cyber-attack, administrative decisions like 
+lockdown, etc. In the light of pandemic, the Company supported the business continuity by supporting work from home and 
+granting the access of special passes to employees in critical situations to visit offices during the Covid.
+8.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the company. What mitigation 
+or adaptation measures have been taken by the company in this regard?
+	
+Given the nature of business, there has been no adverse impact on environment.
+9.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts.
+	
+No assessment done.
+Principle 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible 
+and transparent
+ESSENTIAL INDICATORS
+1.	
+a.	
+Number of affiliations with trade and industry chambers/ associations.
+	
+	
+ The Company is a member of one trade and industry chambers/ associations.
+	
+b.	
+List of top 10 trade and industry chambers/ associations (determined based   on the total members of such body) the 
+company is a member of/affiliated to:
+S. No.
+Name of the trade and industry chambers / associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1.
+Bangalore Chamber of Industry and Commerce
+State (Karnataka)
+2.	
+Corrective action taken or underway on any issues related to anti-competitive conduct by the company, based on adverse 
+orders from regulatory authorities.
+	
+Not applicable.
+LEADERSHIP INDICATORS
+1.	
+Details of public policy positions advocated by the company
+	
+The Company through its membership contributes towards public policy advocacy for the greater good of the sectorial 
+progress.
+Principle 8: Businesses should promote inclusive growth and equitable development
+ESSENTIAL INDICATORS
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the company based on applicable laws, in the current 
+financial year.
+Name and brief 
+details of the 
+project
+SIA notification 
+no.
+Date of 
+notification
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes / No)
+Results 
+communicated 
+in public domain 
+(Yes / No)
+Relevant web 
+link
+Not Applicable. The Company has not received any SIA notification during the financial year.
+94
+2.	
+Information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your company.
+	
+Not applicable.
+3.	
+Mechanisms to receive and redress grievances of the community.
+	
+The Company interacts with the community through its CSR teams. Grievances received, if any are addressed by the CSR 
+team.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers.
+	
+The company is into mobile entertainment business and input materials is not relevant.
+LEADERSHIP INDICATORS
+1.	
+Details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments (Reference: 
+Question 1 of Essential Indicators above)
+	
+Not applicable.
+2.	
+CSR projects undertaken by the Company in designated aspirational districts as identified by government bodies
+Sr. No.
+State
+Aspirational District
+Amount spent in INR
+Not Applicable as none of the CSR projects were undertaken by the Company in an aspirational district.
+3.	
+a.	
+Does the Company have a preferential procurement policy where the Company gives preference to purchase from 
+suppliers comprising marginalized/vulnerable groups?
+	
+	
+Although, the company believes in equal opportunity to vendors including suppliers comprising marginalized /vulnerable 
+groups for the inclusive growth and equitable development. The Company is engaged in various CSR activities towards 
+social and economic well-being of marginalized /vulnerable groups.
+	
+	
+Given the nature of business of the Company, it requires customized procurement which is usually forte of established 
+suppliers, giving a minimum or no scope for local procurement.
+	
+b.	
+From which marginalized/vulnerable groups do you procure?
+	
+	
+Not applicable.
+	
+c.	
+What percentage of total procurement (by value) does it constitute?
+	
+	
+Not Applicable
+4.	
+Benefits derived and shared from the intellectual properties owned or acquired by your company (in the current financial 
+year), based on traditional knowledge
+	
+Not Applicable.
+5.	
+Corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein usage 
+of traditional knowledge is involved.
+	
+Not Applicable.
+6.	
+Beneficiaries of CSR Projects
+Sr. 
+No.
+CSR Projects
+No. of persons 
+benefited from 
+CSR projects
+% of 
+beneficiaries 
+from vulnerable 
+and marginalized 
+groups
+1.
+Contribution to VAANI Deaf Children’s Foundation to support early 
+identification of hearing loss in new born children.
+4680
+100
+2.
+Contribution to VAANI Deaf Children’s Foundation to support early 
+educational and vocational intervention for children with hearing 
+impairment, and their parents.
+420
+100
+3.
+Contribution to VAANI Deaf Children’s Foundation to conduct ear screening 
+camps in remote areas for hear loss prevention in children and young adults.
+1423
+100
+4.
+Contribution to Sankara Eye Hospital, Bengaluru for purchase of equipment 
+for identifying Pediatric Glaucoma.
+4000
+100
+95
+Principle 9: Businesses should engage with and provide value to their consumers in a responsible manner
+ESSENTIAL INDICATORS:
+1.	
+Mechanisms in place to receive and respond to consumer complaints and feedback
+	
+Since the end consumer is a customer of telecom operator, all customer complaints are managed and resolved by telecom 
+operator. In case of technical issues that need OnMobile intervention they are reported to OnMobile operations team via a 
+ticketing mechanism. These tickets are resolved by operations team as per the agreed SLAs.
+2.	
+Turnover of products/services as a percentage of turnover from all products/service that carry information
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+N.A.
+Safe and responsible usage
+100%
+Recycling and/or safe disposal
+N.A.
+	
+As the services provided pertain to the digital space, environmental/ social parameters and recycling information is not 
+directly applicable to the Company.
+3.	
+Number of consumer complaints in respect of the following: 
+FY2022
+Remarks
+FY2021
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Received 
+during the year
+Pending 
+resolution 
+at the end of 
+year
+Data privacy
+NIL
+NIL
+N.A.
+NIL
+NIL
+N.A.
+Advertising
+NIL
+NIL
+Refer Note 1 
+below
+NIL
+NIL
+Refer Note 1 
+below
+Cyber-security
+NIL
+NIL
+N.A.
+NIL
+NIL
+N.A.
+Delivery of essential 
+services
+NIL
+NIL
+N.A.
+NIL
+NIL
+N.A.
+Restrictive Trade Practices
+NIL
+NIL
+N.A.
+NIL
+NIL
+N.A.
+Unfair Trade Practices
+NIL
+NIL
+N.A.
+NIL
+NIL
+N.A.
+Other
+Facebook - 2, 
+LinkedIn -1
+NIL
+Refer Note 2 
+below
+Facebook – 1
+NIL
+Refer Note 2 
+below
+	
+Note 1: White labelled products advertising per-se is not in our purview. But we pass on queries to our customer support 
+team for further action.
+	
+Note 2: We take care of Facebook queries from consumers by passing them on to the customer support team. The queries 
+were all resolved.
+4.	
+  Details of instances of product recalls on account of safety issues:
+	
+Not Applicable
+5.	
+Company’s framework/ policy on cyber security and risks related to data privacy along with the web-link of the Policy
+	
+With regards to safeguarding data, protection, security and to prevent unauthorized and unlawful usage of personal identifiable 
+information, OnMobile has put in place reasonable and appropriate physical, organizational and technical solutions, practices 
+and measures in place. OnMobile is committed to implement such further controls and technical measures in place from time 
+to time as may be mandated by any regulatory authority or as may be required by the internal policies, practices and business 
+requirements.
+	
+The purpose of Data Protection Policy (“this Policy”) is to set out the process and the framework within which OnMobile can 
+collect, use and protect Personal Data of Individuals. The Policy states how OnMobile collects, uses, processes and safeguards 
+the Personal Data that it possesses, holds, and deals with respect to Individuals.
+96
+	
+Web link of the Policy is https://www.onmobile.com/home/privacy_policy, https://www.onmobile.com/sites/default/files/
+privacy/Data_Protection_Policy.pdf
+	
+The Company ensures that all information assets are safeguarded by establishing comprehensive management processes 
+throughout the organization and business information is protected adequately through appropriate controls and proactive 
+measures.
+	
+The Company’s controls include deployment of security solutions like firewall, intrusion prevention system, anti-malware 
+solutions and dynamic URL (uniform resource locator) filtering.
+6.	
+Corrective actions taken or underway on issues relating to advertising, and delivery of essential services; cyber security and 
+data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory authorities 
+on safety of products / services.
+	
+No issues are reported.
+LEADERSHIP INDICATORS
+1.	
+Channels / platforms where information on products and services of the company can be accessed (provide web link, if 
+available).
+	
+Information relating to all the products and services provided by the Company are available on the Company’s website. In 
+addition, the Company actively uses various social media and digital platforms to disseminate information on its products and 
+services. Following are the links for the same:
+	
+https://www.onmobile.com/products/challengesarena
+	
+https://www.onmobile.com/products/videos
+	
+https://www.onmobile.com/products/tones
+	
+https://www.onmobile.com/products/contests
+	
+https://www.onmo.com/
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+As the company is into mobile entertainment and digital industry, the information and education with regards to the products 
+and services are provided on the company’s website, terms and conditions, refund policy and FAQs thereon. For White-
+labelled B2B products, end consumer interactions are done by telecom operators. Hence, this mechanism forms the part of 
+communication or education provided by the company to the consumers.
+	
+ONMO- Mobile gaming space, was open to the public only since this April 2022. For ONMO, these pages inform consumers 
+about our policies.
+	
+https://www.onmo.com/privacy-policy/
+	
+https://www.onmo.com/terms-conditions/
+	
+https://www.onmo.com/refund-policy/
+	
+https://www.onmo.com/faqs/
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/ discontinuation of essential services.
+	
+During the year, there were no major disruptions of critical services of the Company. Planned disruptions (maintenance) are 
+communicated minimum of 7 days in advance to the telecom operators. Any unplanned disruptions are communicated to 
+operators through phone, email, SMS and other communication channels to the relevant stakeholders, with in the agreed time 
+frame. Based on the criticality, severity and duration of disruptions, the relevant telecom operators choose to communicate 
+to the end consumer, using established channels like phone, Emails, SMS, etc.
+4.	
+Does the company display product information on the product over and above what is mandated as per local laws? If yes, 
+provide details in brief. Did your company carry out any survey with regard to consumer satisfaction relating to the major 
+products / services of the company, significant locations of operation of the company or the company as a whole?
+	
+The Company products include web applications, games, and tones etc. It provides services to the telecom operators. 
+Interactions with end-user consumers is only done by telecom operators. The company does not conduct any direct consumer 
+survey.
+5.	
+Information relating to data breaches:
+	
+a.	
+Number of instances of data breaches along-with impact
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers
+	
+	
+No such incidents were reported in the FY2022.

@@ -1,0 +1,4221 @@
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  186
+Business 
+Responsibility 
+& Sustainability 
+Report
+Integrated Annual Report 2021-22
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity1
+	
+1.	
+Corporate Identity Number 
+(CIN) of the Listed Entity: 
+L22210MH1995PLC084781
+	
+2.	
+Name of the Listed Entity:  
+Tata Consultancy Services Limited
+	
+3.	
+Year of incorporation: 1995
+	
+4.	
+Registered office address: 9th Floor, Nirmal 
+Building, Nariman Point, Mumbai - 400 021, 
+India
+	
+5.	
+Corporate address: TCS House, Raveline 
+Street, Fort, Mumbai 400 001, India.
+	
+6.	
+E-mail: corporate.sustainability@tcs.com
+	
+7.	
+Telephone: +91 22 6778 9595
+	
+8.	
+Website: www.tcs.com
+1 GRI 2-1, GRI 2-3
+	
+9.	
+Financial year for which reporting is 
+being done: Financial year 2021-22 (April 
+1, 2021 to March 31, 2022)
+	
+10.	 Name of the Stock Exchange(s) where 
+shares are listed: NSE (National Stock 
+Exchange of India Limited) and BSE 
+(formerly Bombay Stock Exchange)
+	
+11.	 Paid-up Capital: ` 366 crores
+	
+12.	 Name and contact details (telephone, 
+email address) of the person who may be 
+contacted in case of any queries on the 
+BRSR report:
+	
+	
+Name: Milind Lakkad
+	
+	
+Designation: Chief Human Resources 
+Officer
+	
+	
+Telephone number: +91 22 6778 9999
+	
+	
+E-mail id: corporate.sustainability@tcs.com
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  187
+	
+13.	 Reporting boundary - Are the disclosures under this report made 
+on a standalone basis (i.e. only for the entity) or on a consolidated 
+basis (i.e. for the entity and all the entities which form a part of its 
+consolidated financial statements, taken together).2
+Data
+Basis
+Exclusions
+Financial
+TCS’ consolidated global 
+operations
+None
+Human 
+Resources
+TCS’ global operations, including 
+wholly owned subsidiaries.
+< 0.2% of the consolidated 
+headcount.
+Disclosures pertaining to 
+employee benefits, performance 
+appraisals and statutory topics 
+are specific to the workforce 
+based in India.
+Workforce outside India
+Environmental
+TCS’ Global operations (using 
+operational control approach).
+Other TCS’ operations 
+accounting for < 4% 
+headcount
+	
+	
+The data measurement techniques used, and the basis of calculations 
+and estimates have been mentioned in the relevant areas of this report. 
+TCS does not believe there is any substantial divergence from the GRI 
+Indicator Protocols. The scope, boundaries, and methodology for data 
+analysis in this document remain the same as in the prior year and are 
+mentioned above. There has been no restatement3 of information or 
+changes in the material topics or boundaries since the prior year. The 
+data is sourced from Ultimatix, TCS’ core enterprise platform. Other 
+supporting data is reviewed by relevant third-party assurers as part of 
+2 GRI 2-2
+3 GRI 2-4
+ISO and financial audit.
+	
+	
+GRI Assurance4: Ernst & Young has assured the data presented under 
+GRI Standards disclosures as specified in their Assurance Statement. 
+The scope and basis of assurance have been described in their assurance 
+letter. The Board was not involved in seeking this assurance.
+II.	
+Products/services5
+	
+14.	 Details of business activities (accounting for 90% of the turnover):
+	
+	
+TCS provides IT services, consulting and business solutions to many of 
+the world’s largest businesses in their transformational journeys. Further 
+details are provided in the Management Discussion and Analysis section 
+of this Integrated Annual Report.
+	
+15.	 Products/Services sold by the entity (accounting for 90% of the 
+entity’s Turnover):
+	
+	
+Application Development and Maintenance, Consulting and Service 
+Integration, Digital Transformation Services, Cognitive Business 
+Operations and Products and Platforms. 
+	
+	
+Some of the services broadly map to NIC classes 6201, 6202, 6209 and 
+6311.
+4 GRI 2-5
+5 GRI 2-6
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  188
+III.	 Operations6
+	
+16.	 Number of locations where plants and/or operations/offices of the 
+entity are situated:
+Location
+Number of 
+plants
+Number of offices (Delivery 
+offices)
+Total
+National
+NA
+Delivery centers – 113, Offices - 9 
+122
+International
+NA
+Delivery centers – 71, Offices - 107
+178
+	
+17.	 Markets served by the entity:
+	
+	
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+28 States and 8 Union Territories
+International (No. of Countries)
+54
+	
+	
+b.	
+What is the contribution of exports as a percentage of the total 
+turnover of the entity?
+	
+	
+	
+The contribution of exports as a percentage of total turnover of TCS 
+Standalone is 94.0%.
+	
+	
+c.	
+A brief on types of customers
+	
+	
+	
+TCS works with leading corporations across the world - typically 
+Fortune 1000 or Global 2000 corporations and the public sector. 
+In India, TCS works with departments of the Government of India, 
+various state governments, systemically important entities and the 
+private sector.
+6 GRI 2-6
+IV.	 Employees
+	
+18.	 Details as at the end of Financial Year: FY 2021-22
+	
+	
+a.	
+Employees (including differently abled)7:
+S.
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+1.
+Permanent (D)
+590,662
+379,942
+64.3
+210,720
+35.7
+2.
+Other than Permanent (E)
+17,609
+9,924
+56.4
+7,685
+43.6
+3.
+Total employees (D + E)
+608,271
+389,866
+64.1
+218,405
+35.9
+Note:
+•	
+TCS’ global headcount excludes employees of non-wholly owned subsidiaries.
+•	
+All of TCS’ workforce is categorized as ‘Employees’ and none as ‘Workers’. 
+Hence in all the sections, details sought of the ‘Workers’ category are Not 
+Applicable to TCS.
+•	
+Other than Permanent category includes contractors and interns.
+	
+b.	
+Differently abled Employees:
+S.
+No
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+921
+706
+76.7
+215
+23.3
+2.
+Other than Permanent (E)
+11
+8
+72.7
+3
+27.3
+3.
+Total differently abled 
+employees (D + E)
+932
+714
+76.6
+218
+23.4
+Note:
+•	
+Differently abled type includes Hearing, Visual, Locomotor, Orthopedic and 
+Others
+7 GRI 2-7
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  189
+19.	 Participation/Inclusion/Representation of women8
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+9
+2
+22.2
+Key	 Management Personnel
+4
+0
+0.0
+Senior Management
+29,966
+3,980
+13.3
+Note:
+•	
+Key Management Personnel (KMP) are Chief Executive Officer and Managing 
+Director (CEO&MD), Chief Operating Officer and Executive Director (COO), 
+Chief Financial Officer (CFO) and Company Secretary (CS).
+•	
+Senior Management excludes Directors and KMP.
+20.	 Turnover rate for permanent employees9
+FY 2021-22 
+FY 2020-21 
+FY 2019-20
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+17.3%
+17.8%
+17.5%
+7.5%
+7.5%
+7.5%
+12.8%
+14.2%
+13.3%
+Note:
+•	
+Turnover rates mentioned above are for TCS’ global headcount (including IT 
+and business services), excluding non-wholly owned subsidiaries.
+8 GRI 405-1
+9 GRI 401-1
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+	
+21.	 (a)	 Names of holding / subsidiary10
+S. 
+No.
+Name of the  holding / subsidiary/  (A)
+Indicate 
+whether 
+holding/ 
+Subsidiary
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity 
+indicated at 
+column A, 
+participate in 
+the Business 
+Responsibility 
+initiatives of the 
+listed entity? 
+(Yes/No)
+1. 
+Tata Sons Private Limited
+Holding 
+72.3
+Yes
+2.
+APTOnline Limited
+Subsidiary
+89
+Yes
+3.
+C-Edge Technologies Limited
+Subsidiary
+51
+Yes
+4.
+MP Online Limited
+Subsidiary
+89
+Yes
+5.
+TCS e-Serve International Limited
+Subsidiary
+100
+No
+6.
+MahaOnline Limited
+Subsidiary
+74
+Yes
+7.
+TCS Foundation
+Subsidiary
+100
+Yes
+8. 
+Diligenta Limited
+Subsidiary
+100
+Yes
+9.
+Tata Consultancy Services Canada Inc.
+Subsidiary
+100
+Yes
+10. 
+Tata America International Corporation
+Subsidiary
+100
+Yes
+11.
+Tata Consultancy Services Asia Pacific 
+Pte Ltd.
+Subsidiary
+100
+Yes
+10 GRI 2-2
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  190
+S. 
+No.
+Name of the  holding / subsidiary/  (A)
+Indicate 
+whether 
+holding/ 
+Subsidiary
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity 
+indicated at 
+column A, 
+participate in 
+the Business 
+Responsibility 
+initiatives of the 
+listed entity? 
+(Yes/No)
+12.
+Tata Consultancy Services (China) Co., 
+Ltd.
+Subsidiary
+93.2
+Yes
+13.
+Tata Consultancy Services Japan, Ltd.
+Subsidiary
+66
+No
+14.
+Tata Consultancy Services Malaysia Sdn 
+Bhd
+Subsidiary
+100
+Yes
+15.
+PT Tata Consultancy Services Indonesia
+Subsidiary
+100
+No
+16.
+Tata Consultancy Services (Philippines) 
+Inc.
+Subsidiary
+100
+Yes
+17.
+Tata Consultancy Services (Thailand) 
+Limited
+Subsidiary
+100
+No
+18.
+Tata Consultancy Services Belgium
+Subsidiary
+100
+Yes
+19.
+Tata Consultancy Services Deutschland 
+GmbH
+Subsidiary
+100
+Yes
+20.
+Tata Consultancy Services Sverige AB
+Subsidiary
+100
+Yes
+21.
+Tata Consultancy Services Netherlands 
+BV
+Subsidiary
+100
+Yes
+22.
+Tata Consultancy Services Italia s.r.l.
+Subsidiary
+100
+Yes
+S. 
+No.
+Name of the  holding / subsidiary/  (A)
+Indicate 
+whether 
+holding/ 
+Subsidiary
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity 
+indicated at 
+column A, 
+participate in 
+the Business 
+Responsibility 
+initiatives of the 
+listed entity? 
+(Yes/No)
+23.
+Tata Consultancy Services  Luxembourg 
+S.A.
+Subsidiary
+100
+Yes
+24.
+Tata Consultancy Services  Switzerland 
+Ltd.
+Subsidiary
+100
+Yes
+25.
+Tata Consultancy Services  Osterreich 
+GmbH
+Subsidiary
+100
+No
+26
+Tata Consultancy Services Danmark ApS
+Subsidiary
+100
+Yes
+27.
+Tata Consultancy Services  De Espana 
+S.A.
+Subsidiary
+100
+Yes
+28.
+Tata Consultancy Services (Portugal) 
+Unipessoal, Limitada
+Subsidiary
+100
+Yes
+29.
+Tata Consultancy Services  France
+Subsidiary
+100
+Yes
+30. 
+Tata Consultancy Services  Saudi Arabia
+Subsidiary
+100
+Yes
+31.
+Tata Consultancy Services  (Africa) (PTY) 
+Ltd.
+Subsidiary
+100
+Yes
+32.
+Tata Consultancy Services  (South Africa) 
+(PTY) Ltd.
+Subsidiary
+100
+No
+33.
+TCS FNS Pty Limited
+Subsidiary
+100
+Yes
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  191
+S. 
+No.
+Name of the  holding / subsidiary/  (A)
+Indicate 
+whether 
+holding/ 
+Subsidiary
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity 
+indicated at 
+column A, 
+participate in 
+the Business 
+Responsibility 
+initiatives of the 
+listed entity? 
+(Yes/No)
+34.
+TCS Financial Solutions Beijing Co., Ltd.
+Subsidiary
+100
+Yes
+35.
+TCS Financial Solutions Australia Pty 
+Limited 
+Subsidiary
+100
+Yes
+36.
+TCS Iberoamerica SA
+Subsidiary
+100
+Yes
+37.
+TCS Solution Center S.A.
+Subsidiary
+100
+Yes
+38.
+Tata Consultancy Services  Argentina 
+S.A.
+Subsidiary
+100
+Yes
+39.
+Tata Consultancy Services  Do Brasil 
+Ltda
+Subsidiary
+100
+Yes
+40.
+Tata Consultancy Services  De Mexico 
+S.A., De C.V.
+Subsidiary
+100
+Yes
+41.
+Tata Consultancy Services  Chile S.A.
+Subsidiary
+100
+Yes
+42.
+TCS Inversiones Chile Limitada
+Subsidiary
+100
+Yes
+43.
+TATASOLUTION CENTER S.A.
+Subsidiary
+100
+Yes
+44.
+TCS Uruguay S.A.
+Subsidiary
+100
+Yes
+45.
+MGDC S.C.
+Subsidiary
+100
+Yes
+46.
+Tata Consultancy Services Qatar L.L.C.
+Subsidiary
+100
+No
+S. 
+No.
+Name of the  holding / subsidiary/  (A)
+Indicate 
+whether 
+holding/ 
+Subsidiary
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity 
+indicated at 
+column A, 
+participate in 
+the Business 
+Responsibility 
+initiatives of the 
+listed entity? 
+(Yes/No)
+47.
+Tata Consultancy Services  UK Limited 
+(formerly W12 Studios Limited)
+Subsidiary
+100
+Yes
+48.
+TCS Business Services GmbH
+Subsidiary
+100
+Yes
+49.
+Tata Consultancy Services Ireland 
+Limited
+Subsidiary
+100
+Yes
+50.
+TCS Technology Solutions AG (formerly 
+Postbank Systems AG)
+Subsidiary
+100
+No
+51. 
+Saudi Desert Rose Holding B.V.
+Subsidiary
+100
+Yes
+52.
+Tata Consultancy Services Bulgaria 
+EOOD
+Subsidiary
+100
+Yes
+53.
+Tata Consultancy Services Guatemala, 
+S.A.
+Subsidiary
+100
+No
+VI.	 CSR Details
+22.	 (i)	
+Whether CSR is applicable as per section 135 of Companies Act, 
+2013: (Yes/No) Yes
+	
+(ii)	 Turnover (in `) ` 191,754 crore
+	
+(iii)	 Net worth (in `) ` 89,139 crore
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  192
+VII.	 Transparency and Disclosures Compliances
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct:
+Stakeholder group 
+from whom complaint 
+is received
+Grievance Redressal Mechanism in 
+Place (Yes/No)
+FY  2021-22 
+FY  2020-21 
+(If Yes, then provide web-link for 
+grievance redress policy)11 
+Number of 
+complaints filed 
+during the year
+Number of complaints 
+pending resolution at 
+close of the year
+Remarks
+Number of complaints 
+filed during the year
+Number of complaints 
+pending resolution at 
+close of the year
+Remarks
+Communities
+Yes
+https://on.tcs.com/Global-CSR-Policy
+0
+0
+-
+0
+0
+-
+Investors (other than 
+shareholders)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Shareholders
+Yes
+As per SEBI Listing Regulations.
+87
+-
+-
+86
+-
+-
+Employees 
+Yes
+190
+14
+287
+33
+Customers
+Yes.
+Escalation mechanisms are defined 
+in individual client contracts and 
+addressed as per TCS Quality Policy.
+65
+9
+59
+4
+-
+Value Chain Partners
+https://on.tcs.com/WhistleBP
+0
+0
+-
+0
+0
+-
+11 GRI 2-25	
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  193
+24.	 Overview of the entity’s material responsible business conduct issues12
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity 
+to your business, rationale for identifying the same, approach to adapt or mitigate the risk along-with its financial implications, as per the following format
+S. No.
+Material issue identified
+Indicate 
+whether 
+risk   or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt 
+or mitigate13 
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1
+Talent management:
+The company’s ability to attract, 
+develop, motivate, and retain talent is 
+critical to business success.
+Risk
+Risk of failure in any of the elements of talent management 
+can impact the Company’s ability to fulfill demand and grow 
+its revenues.
+Kindly refer the Enterprise 
+Risk Management section in 
+Management Discussion and 
+Analysis
+Negative
+2
+Social responsibility: Health and 
+Wellness of TCS employees and 
+associates
+Risk
+Has a direct impact on the health of TCS employees 
+besides productivity impact.
+Kindly refer to the Employee 
+Health and Wellbeing section 
+of Management Discussion and 
+Analysis
+Negative
+3
+Environmental Footprint:
+Climate change
+Risk 
+Extreme weather events due to climate change pose a 
+physical risk of disruption to the company’s operations, 
+and the safety and wellbeing of its employees. Additionally, 
+economic disruptions due to transition risks can impact the 
+company’s growth and profitability.
+Kindly refer to the Enterprise 
+Risk Management section in 
+Management Discussion and 
+Analysis.
+Negative
+Opportunity
+As TCS’ customers respond to climate change actions, the 
+company is seeing opportunities to provide technology-led 
+solutions to help them achieve their sustainability goals. 
+Kindly refer the Enterprise 
+Risk Management section in 
+Management Discussion and 
+Analysis
+Positive
+12	
+GRI 3-2
+13	
+GRI 3-3
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  194
+S. No.
+Material issue identified
+Indicate 
+whether 
+risk   or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt 
+or mitigate 
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+4
+Environmental Footprint -Water 
+management
+Risk
+Water scarcity can impair the company’s operations and 
+disrupt business. 
+Employee education around 
+saving water, more efficient use 
+of water in campuses, Rain water 
+harvesting, recycling of waste 
+water.
+Negative
+5
+Environmental Footprint -Waste 
+management
+Risk
+Inadvertent non-compliance to existing and emerging 
+regulations around recycling and the circular economy can 
+result in economic penalties and reputation damage.
+Reduction in waste generation, 
+maximization of recycling and 
+reuse.
+Negative
+6
+Social Responsibility – Alignment with 
+Local Communities 
+Risk
+The business must be rooted in community and be aligned 
+with the community’s larger interests. Any
+adversarial relationship can hurt the company’s ability to 
+create longer term value.
+Fostering local communities, 
+job creation, skill development, 
+supporting local relief efforts 
+where required in times of crisis 
+and paying taxes
+Negative 
+Opportunity
+Structural interventions around generating greater interest 
+in STEM education and STEM careers in the younger 
+generation, can address talent scarcity issues in the future 
+and help build TCS’ brand reputation for alignment with 
+local communities.
+Positive
+7
+Corporate Governance – Board 
+oversight, Conflict of Interest, Ethics, 
+Risk and Compliance, Succession 
+Planning
+Risk
+Strong corporate governance is core to achieving the 
+organization’s mission and any risks can undermine 
+stakeholder trust, damage reputation and disrupt business.
+Kindly refer to “Material aspects  
+and TCS’ approach to them” in 
+Corporate Governance Report 
+Negative
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  195
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and 
+processes put in place towards adopting the NGRBC Principles and Core Elements.
+The National Voluntary Guidelines on Social, Environmental and Economic 
+Responsibilities of Business (NVGs) released by the Ministry of Corporate Affairs 
+has adopted nine areas of Business Responsibility. These briefly are as follows:
+P1 Business should conduct and govern themselves with Ethics, Transparency and 
+Accountability
+P2 Businesses should provide goods and services that are safe and contribute to 
+sustainability throughout their life cycle
+P3 Businesses should promote the wellbeing of all employees
+P4 Businesses should respect the interests of, and be responsive towards all 
+stakeholders, especially those who are disadvantaged, vulnerable and marginalized
+P5 Businesses should respect and promote human rights
+P6 Business should respect, protect, and make efforts to restore the environment
+P7 Businesses, when engaged in influencing public and regulatory policy, should do 
+so in a responsible manner
+P8 Businesses should support inclusive growth and equitable development
+P9 Businesses should engage with and provide value to their customers and 
+consumers in a responsible manner
+Disclosure Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Policy and management processes
+1.	
+a.	
+Whether your entity’s 
+policy/policies cover each 
+principle and its core 
+elements of the NGRBCs. 
+(Yes/No)14 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+b.	
+Has the policy been approved 
+by the Board? (Yes/No)14
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+c.	
+Web Link of the Policies, if 
+available14
+P1 to P9: Tata Code of Conduct15 (TCoC)
+P1: Whistleblower Policy16
+P2 – Sustainable Supply chain Policy17 – 
+P3 and P5 – Employees related Policies18
+P4 and P8: CSR Policy19
+P6 – HSE Policy and ESG Policy20 
+2.	
+Whether the entity has translated 
+the policy into procedures. (Yes / 
+No)21 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.	
+Do the enlisted policies extend to 
+your value chain partners? (Yes/
+No)22 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+14	
+GRI 2-23
+15	
+https://on.tcs.com/Tata-Code-Of-Conduct
+16	
+https://on.tcs.com/WhistleBP
+17	
+https://www.tcs.com/sustainability-strategy
+18	
+HR policies available to employees on Ultimatix, TCS Intranet
+19	
+https://on.tcs.com/Global-CSR-Policy
+20	
+https://on.tcs.com/Environmental-Policy
+21	
+GRI 2-24
+22	
+GRI 2-23
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  196
+Disclosure Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+4.	
+Name of the national and 
+international codes/certifications/
+labels/ standards (e.g. Forest 
+Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trustea) 
+standards (e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity 
+and mapped to each principle.
+Y23 
+Y24 
+Y25 
+NA
+Y26 
+Y27 
+NA
+NA
+NA
+5.	
+Specific commitments, goals and 
+targets set by the entity with 
+defined timelines, if any.28 
+N
+N
+N
+N
+N
+Y29 
+N
+N
+N
+6.	
+Performance of the entity against 
+the specific commitments, goals 
+and targets along-with reasons in 
+case the same are not met.30
+NA
+NA
+NA
+NA
+NA
+Y30 
+NA
+NA
+NA
+23	
+TATA Code of Conduct
+24	
+iQMSTM, TCS’ Integrated Quality Management System, comprehensively integrates the 
+requirements and best practices of the latest industry models, frameworks and standards 
+such as ISO 9001:2015, ISO 20000:2018, ISO 27001:2013, ISO 22301:2019, ISO 
+27701:2019, ISO 20017:2015, ISO 27018:2019, CMMI® DEV v 2.0 and CMMI® SVC 
+v2.0; Health Safety and Environment Standards ISO 14001, ISO 45001; as well as 
+industry domain specific standards such as AS9100 (Aerospace), TL9000 (Telecom) and 
+ISO 13485 (Medical Devices).
+25	
+ISO 45001:2018
+26	
+TCS is aligned with international laws, principles, and norms, including those contained in 
+the Universal Declaration of Human Rights, ILO Declaration on Fundamental Principles 
+and Rights at Work, United Nations Guiding Principles on Business and Human Rights 
+and are a signatory to the UN Global Compact (UNGC) since 2006.
+27	
+ISO 14001:2015, ISO 50001:2018
+28	
+GRI 3-3
+29	
+70% Reduction in absolute Scope 1 + Scope 2 emissions (vs base year 2016), Net zero 
+by 2030
+30	
+25% Reduction in absolute carbon emissions Y-o-Y; Renewable energy use at 37.2%
+Disclosure Questions
+Governance, leadership and oversight
+7.	
+Statement by director responsible for the business responsibility report, 
+highlighting ESG  related challenges, targets and achievements (listed entity has 
+flexibility regarding the placement of this disclosure)31
+	
+TCS has set forth its new carbon reduction goal to reduce its absolute greenhouse 
+gas emissions across Scope 1 and Scope 2 by 70% by 2025 (over 2016 base year), 
+and to achieve net zero emissions by 2030. The new goal is after having achieved 
+the previous target of reducing its specific carbon footprint by half by 2020 (versus 
+baseline year FY 2008), ahead of schedule.
+	
+N G Subramaniam, COO & Executive Director, TCS32: “Our net zero goal underlines 
+our renewed commitment to environmental stewardship. To curb emissions and 
+limit global warming to well below 2, preferably to 1.5 degrees Celsius, compared to 
+pre-industrial levels, all organizations will have to reimagine existing business models 
+and aim for sustainable growth. We are in a unique position to combine our purpose-
+driven world view with digital innovation to not only drive our own sustainability, but 
+also partner with customers, civil society and governments to lead and shape solutions 
+for a sustainable future,” 
+	
+At the core of TCS’ strategy to reduce its carbon footprint is improved energy 
+efficiency through the addition of more green buildings to the company’s real estate 
+portfolio, reduction of IT system power usage, and the use of TCS Clever Energy™, 
+which leverages IoT, machine learning and AI to optimize energy consumption across 
+campuses. TCS’ Vision 25x25 is a strategic lever that delinks TCS’ business growth 
+from campus expansion, and brings down emissions related to employee commutes 
+and business travel. Other elements of the company’s net zero aspiration include 
+greater use of renewable sources of energy and carbon removal offsets.
+	
+Enivronmental targets and achievements are part of Natural Capital section, which is 
+on Page 31 of Integrated Annual Report.
+31	
+GRI 2-22
+32	
+https://www.tcs.com/tcs-targets-net-zero-emissions-by-2030
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  197
+Disclosure Questions
+8.	
+Details of the highest authority responsible for implementation and oversight 
+of the Business Responsibility policy (ies).33 
+Name: Milind Lakkad 
+Designation: Chief Human Resources Officer 
+Telephone number: 022 67789999 
+E-mail id: corporate.sustainability@tcs.com 
+9.	
+Does the entity have a specified Committee of the Board/ Director responsible 
+for decision making on sustainability related issues? (Yes / No). If yes, provide 
+details.34 
+The Stakeholders’ Relationship Committee (SRC) of the Board of Directors is responsible for decision 
+making on sustainability related issues.
+DIN
+Name
+Designation
+03611983
+Dr. Pradeep Kumar Khosla
+Chairman
+00008886
+Keki Mistry
+Member
+06365813
+Rajesh Gopinathan
+Member
+10. Details of Review of NGRBCs by the Company:
+Subject for Review
+ 
+Indicate whether review was undertaken by Director / 
+Committee of the Board/ Any other Committee
+Frequency:Annually (A) / Half yearly (H) / Quarterly 
+(Q) / Any other – please specify
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and follow up action
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Q
+H
+Q
+Q
+Q
+H
+H
+Q
+Q
+Compliance with statutory requirements of relevance to the 
+principles, and, rectification of any non-compliances
+ Statutory Compliance Certificate on applicable laws is 
+provided by the CEO to the Board of Directors.
+Quarterly
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+11.	 Has the entity carried out independent assessment/ evaluation 
+of the working of its policies by an external agency? (Yes/No). 
+If yes, provide name of the agency.35 
+N
+Y
+Y
+N
+N
+Y
+N
+N
+N
+Annual where applicable
+12.	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: Not Applicable 
+33 GRI 2-13	
+34 GRI 2-9	
+35 GRI 2-5
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  198
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in 
+integrating the Principles and Core Elements with key processes and decisions. 
+The information sought is categorized as “Essential” and “Leadership”. While the 
+essential indicators are expected to be disclosed by every entity that is mandated 
+to file this report, the leadership indicators may be voluntarily disclosed by 
+entities which aspire to progress to a higher level in their quest to be socially, 
+environmentally and ethically responsible.
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, 
+and in a manner that is Ethical, Transparent and Accountable.
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the 
+Principles during the financial year36:
+Segment
+Total number 
+of training 
+and awareness 
+programmes 
+held
+Topics / 
+principles 
+covered under 
+the training 
+and its impact
+%age of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Board of Directors
+10
+All
+100.0%
+Key Managerial Personnel
+10
+All
+100.0%
+Employees other than BoD and 
+KMPs
+17,969
+All
+98.5%
+Note:
+•	
+All the principles laid down in BRSR are covered by TCS mandatory trainings 
+and Tata Code of Conduct (TCoC), which is adhered to by all employees. 
+36	
+ GRI 2-17 
+•	
+Awareness programs covering  the applicable principles were held and 
+attended by all respective committee members of the Board and/or the  Board 
+of Directors.
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ 
+settlement amount paid in proceedings (by the entity or by directors / 
+KMPs) with regulators/ law enforcement agencies/ judicial institutions, 
+in the financial year, in the following format (Note: the entity shall make 
+disclosures on the basis of materiality as specified in Regulation 30 of SEBI 
+(Listing Obligations and Disclosure Obligations) Regulations, 2015 and as 
+disclosed on the entity’s website)37:
+Monetary
+ 
+NGRBC 
+Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount 
+(In INR)
+Brief of 
+the Case
+Has an 
+appeal 
+been 
+preferred? 
+(Yes/No)
+Penalty/ Fine
+NIL
+NIL
+NIL
+NA
+NA
+Settlement
+NIL
+NIL
+NIL
+NA
+NA
+Compounding fee
+NIL
+NIL
+NIL
+NA
+NA
+ 
+Non-Monetary
+ 
+NGRBC 
+Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Brief 
+of the 
+Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+NIL
+NIL
+NA
+NA
+Punishment
+NIL
+NIL
+NA
+NA
+37	
+ GRI 2-27
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  199
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ 
+Revision preferred in cases where monetary or non-monetary action has 
+been appealed.
+Case Details
+Name of the regulatory / enforcement agencies / 
+judicial institutions
+NA
+NA
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, 
+provide details in brief and if available, provide a web-link to the policy.38
+	
+Yes. The TCoC contains guidelines on anti-bribery and anti-corruption. TCS 
+is committed to upholding the highest moral and ethical standards, and does 
+not tolerate bribery or corruption in any form. The policy is available on the 
+company website at: https://on.tcs.com/Tata-Code-Of-Conduct
+5.	
+Number of Directors/KMPs/employees against whom disciplinary action 
+was taken by any law enforcement agency for the charges of bribery/ 
+corruption39:
+ 
+FY 2021-22
+FY 2020-21
+Directors
+NIL
+NIL
+KMPs
+NIL
+NIL
+Employees
+3 (Under fraud)
+2 (under Fraud)
+Note:
+•	
+Data specific to India. Cases pertain to employees in continued employment, 
+where investigation by law enforcement agencies is underway, pending 
+conclusion.
+38 GRI 2-23
+39 GRI 205-3
+6.	
+Details of complaints with regard to conflict of interest:
+FY 2021-22
+FY 2020-21
+Number
+Remarks
+Number
+Remarks
+Number of complaints received 
+in relation to issues of Conflict 
+of Interest of the Directors
+NIL
+NIL
+NIL
+NIL
+Number of complaints received 
+in relation to issues of Conflict 
+of Interest of the KMPs
+NIL
+NIL
+NIL
+NIL
+7.	
+Provide details of any corrective action taken or underway on issues 
+related to fines / penalties / action taken by regulators/ law enforcement 
+agencies/ judicial institutions, on cases of corruption and conflicts of 
+interest. 
+	
+Not Applicable
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  200
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social impacts of product and 
+processes to total R&D and capex investments made by the entity, respectively.
+Amount 
+in ` crore
+FY 2021-22
+FY 2020-21
+Details of improvements in environmental and social impacts
+R&D
+2,242
+1,917
+TCS’ investments in research and innovation have resulted in solutions like Envirozone™, Clever Energy and IP2™. TCS has been using Clever 
+Energy for the last few years to reduce its energy consumption, and is now commercially selling it and the other two solutions to clients to 
+help them achieve their sustainability goals. Additionally, TCS has been investing in building green campuses (IGBC certified). All of this, along 
+with greater use of renewable energy has helped TCS bring down its carbon footprint by 66% versus base year 2016.40 
+Capex
+2,964
+3,139
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing41? (Yes/No)
+	
+	
+Yes. TCS’ Sustainable Supply Chain policy and Green Procurement policy outline its commitment to making its supply chain more responsible and sustainable. The 
+policies are available on our website:
+TCS Policy
+Web link
+Sustainable Supply Chain policy
+https://on.tcs.com/SSCP
+Green Procurement policy
+https://on.tcs.com/GPP
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+100% of TCS’ suppliers are covered in the responsible sourcing program.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) Plastics (including packaging) (b) 
+E-waste (c) Hazardous waste and (d) other waste42.
+	
+TCS is an IT Consulting Services and Business Solutions company and does not manufacture any products hence this question is not applicable to the company’s 
+operations. TCS has defined processes in place for reuse, recycle and safe end-of-life disposal for the products used in its operations. TCS conducts audit on waste 
+recycling vendors for the safe disposal of e-waste, used lube oil, battery waste and other hazardous waste. 
+40 TCS Energy Management Solution – TCS AR FY 2016-17
+41	
+ GRI 308-1
+42	
+ GRI 306-2
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  201
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste collection plan is in line with the 
+Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, provide steps taken to address the same.
+	
+No. EPR is not applicable to TCS.
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their value chains
+Essential Indicators
+1.	
+a.	
+Details of measures for the well-being of employees43:
+Category
+% of employees covered by
+Total (A)
+Health Insurance
+Accident Insurance
+Maternity benefits
+Paternity benefits
+Day care facilities
+Number (B)
+% (B/A)
+Number (C)
+% (C/A)
+Number (D)
+% (D/A)
+Number (E)
+% (E/A)
+Number (F)
+% (F/A)
+Permanent Employees
+Male
+325,241
+325,241
+100
+325,241
+100
+NA
+NA
+57
+0.02
+NA
+NA
+Female
+182,945
+182,945
+100
+182,945
+100
+182,945
+100
+0
+0
+NA
+NA
+Total
+508,186
+508,186
+100
+508,186
+100
+182,945
+36
+57
+0.01
+NA
+NA
+Other than Permanent Employees
+Male
+Vendors and Contractors are required to adhere with the statutory compliance as per the state rules. 
+Female
+Total
+Note:
+•	
+Data specific to India.
+•	
+Paternity Leave benefit is applicable only to employees of the erstwhile eServe.
+•	
+There are no day-care facilities on TCS premises. TCS has location wise tie-ups with third-party run day care centers, which employees can avail of.
+43 GRI 401-2
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  202
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year44.
+Benefits
+FY 2021-22
+FY 2020-21
+No. of employees covered as a % of 
+total employees
+Deducted and deposited with the 
+authority (Y/N/N.A.)
+No. of employees covered as a % of 
+total employees
+Deducted and deposited with the 
+authority (Y/N/N.A.)
+PF
+100
+Y
+100
+Y
+Gratuity
+100
+Y
+100
+Y
+ESI
+6
+Y
+8
+Y
+SA
+6
+Y
+7
+Y
+NPS
+1
+Y
+1
+Y
+	
+Note:
+	
+•	
+Data specific to India.
+3.	
+Accessibility of workplaces: Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights 
+of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+	
+Yes
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link to the policy. – 
+	
+Yes. The Tata Code of Conduct can be accessed at: https://www.tcs.com/tata-code-of-conduct. Additionally, there is a Disability Inclusion Policy governing TCS’ India 
+operations, available to employees on the company’s local intranet.
+44 GRI 201-3
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  203
+5.	
+Return to work and Retention rates of permanent employees that took 
+parental leave45.
+Gender
+Permanent employees
+Return to work rate
+Retention rate
+Male
+89%
+88%
+Female 
+89%
+93%
+Total
+89%
+93%
+	
+Note:
+	
+•	
+Data specific to India.
+6.	
+Is there a mechanism available to receive and redress grievances46 for the 
+following categories of employees and worker? If yes, give details of the 
+mechanism in brief.
+Yes/No
+(If Yes, then give details of the mechanism in brief)
+Permanent Employees
+Yes, the employees can use the “Employee Concerns” 
+application to log their grievances in TCS internal portal, which 
+will be addressed by the respective stakeholders within the 
+stipulated timelines
+Other than Permanent 
+Employees
+Non-Permanent employees can raise the grievances via Email 
+to the concerned stakeholders. 
+45 GRI 401-3
+46 GRI 2-25
+7.	
+Membership of employees and worker in association(s) or Unions 
+recognised by the listed entity47:
+Category
+FY 2021-22 
+FY 2020-21 
+Total 
+employees 
+in 
+respective 
+category 
+(A)
+No. of 
+employees 
+in respective 
+category, 
+who are  
+part of 
+association(s)
+or Union (B)
+% (B / A)
+Total 
+employees 
+in 
+respective 
+category 
+(C)
+No. of
+Employees 
+in respective 
+category, 
+who   are 
+part of 
+association(s) 
+or Union (D)
+% (D/ 
+C)
+Total 
+Permanent 
+Employees
+508,186
+55
+0.01
+415,649
+61
+0.01
+-Male
+325,241
+55
+0.02
+263,178
+61
+0.02
+-Female
+182,945
+0
+0.0
+152,471
+0
+0.0
+Note: 
+Data specific to India.
+8.	
+Details of training given to employees and workers48:
+	
+Training and engagement are an important element for safety awareness. 
+Health and safety training is imparted to employees as a part of the 
+induction module at the time of joining to achieve minimum mandatory 
+health and safety (H&S) competence combined with an annual refresher web 
+based training. Further, TCS engages employees on H&S through various 
+47 GRI 2-30
+48 GRI 404-1
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  204
+communication channels like webinars trainings, posters, events, emails, floor meetings, skits, videos, and blog/posts on TCS intranet. Several campaigns like the Road 
+Safety Awareness, Ergonomics Awareness, Fire Safety awareness, Incident reporting engage employees to make them more aware and safety conscious.   
+	
+The number of employees who have completed the refresher training is given below: 
+Category
+FY 2021-22
+FY 2020-21
+Total (A)
+On Health and Safety Measures
+On Skill Upgradation
+Total (D)
+On Health and Safety Measures
+On Skill Upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+379,942
+374,645
+98.6
+367,461
+96.7
+304,327
+297,601
+97.8
+288,473
+94.8
+Female
+210,720
+205,656
+97.6
+201,314
+95.5
+171,367
+164,608
+96.1
+160,297
+93.5
+Total 
+590,662
+580,301
+98.2
+568,775
+96.3
+475,694
+462,209
+97.2
+448,770
+94.3
+	
+Note:
+	
+•	
+The above data includes all Mandatory Policies related training including Health and Safety.
+	
+•	
+The above data is based on Globally reported training and excludes employees on Leave Without Pay.
+	
+•	
+Based on TCS’ global headcount of permanent employees. Excludes employees of non-wholly owned subsidiaries.
+9.	
+Details of performance and career development reviews of employees and worker49:
+Category
+FY 2021-22
+FY 2020-21
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+251,176
+248,972
+99.1
+274,310
+271,546
+99.0
+Female
+131,896
+130,857
+99.2
+153,413
+151,473
+98.7
+Total
+383,072
+379,829
+99.2
+427,723
+423,019
+98.9
+	
+Note:
+	
+•	
+Data specific to India.
+49 GRI 404-3
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  205
+10.	 Health and safety management system:
+	
+a.	
+Whether an occupational health and safety management system has 
+been implemented by the entity? (Yes/ No). If yes, the coverage such 
+system50?
+	
+	
+Yes. TCS is certified to ISO 45001:2018 Occupational Health and Safety 
+(OHS) Management System standard across 124 of its facilities worldwide 
+in FY 2022. These certified locations constitute 82% of office footprint 
+and >96% of people footprint operating from these locations.
+	
+	
+TCS has a well-defined Occupational Health and Safety (OHS) policy 
+and supporting processes to ensure the safety and well-being of its 
+employees. Safety lead and lag indicators are measured across the 
+organization and reported. The board-level Stakeholders’ Relationship 
+Committee reviews the company’s health and safety performance on 
+a half yearly basis. Over 96% of the workforce is represented in joint 
+management-employee health and safety committees that monitor, 
+advise and drive occupational, health and safety initiatives.
+	
+b.	
+What are the processes used to identify work-related hazards and 
+assess risks on a routine and non-routine basis by the entity51?
+	
+	
+As a part of ISO 45001:2018 Occupational Health and Safety 
+Management System, TCS has a documented procedure to carry out 
+assessment of work-related hazards and risks for all routine and non-
+routine activities carried out at any location. Hazard and risk identification 
+is carried out by the process owners in consultation with the safety 
+experts. The process owners are responsible to ensure adequate controls 
+are identified and implemented to control the identified OHS risks. 
+50 GRI 403-1
+51 GRI 403-2
+Mitigation plan and controls are provided to eliminate the identified 
+hazards and risks. 
+	
+c.	
+Whether you have processes for employees to report the work 
+related hazards and to remove themselves from such risks. (Y/N)52
+	
+	
+Yes. TCS has a safety incident reporting and management process to 
+ensure that all work-related incidents (which include accidents, near-
+misses, unsafe conditions and unsafe acts) are reported and closed after 
+taking necessary corrective actions. This is enabled through an online 
+safety incident reporting tool which is accessible to all TCS employees 
+to facilitate transparent reporting. The platform also supports incident 
+investigation and corrective action with the perspective of eliminating 
+hazards and preventing incidents.
+	
+d.	
+Do the employees/ worker of the entity have access to non-
+occupational medical  and healthcare services? (Yes/ No)53
+	
+	
+Yes. TCS recognizes that overall physical and mental wellbeing of its 
+employees is integral to its success and growth aspirations. TCS has a 
+people focus approach by involving consulting and training employees on 
+physical health, mental health, and wellbeing. 
+	
+	
+TCS has taken a holistic approach to well-being and redefined them 
+to be relevant in these trying times of pandemic. These well-being 
+programs were reimagined to look at various aspects such as COVID-19 
+support, mental health, ergonomic health, physical health, and safety at 
+home, delivered through digital channels, hospital insurance services, 
+occupational health services and through seamless integration of all 
+stakeholders. TCS Cares initiative has instituted programs for associates 
+52 GRI 403-2
+53 GRI 403-6
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  206
+and their families to help cope with the mental stress and anxiety.  TCS 
+has been promoting health and wellbeing of employees through Yoga, 
+Fit4Life and similar initiatives.
+	
+	
+TCS has occupational health centers (OHC) at TCS facilities in India. 
+The employees and contractors who are working at these facilities have 
+access to non-occupational medical and healthcare services as well. 
+Beyond the OHCs, TCS provides comprehensive medical and healthcare 
+services to employees through the company provided medical insurance 
+to employees and their dependents. In overseas geographies, non-
+occupational medical and healthcare services are provided as per the 
+country regulations. To ensure physical fitness, TCS also has recreational 
+facilities and gymnasiums at many of its facilities for the benefit of the 
+employees. 
+	
+	
+TCS, through its TCS Cares initiative, instituted programs for employees 
+and their families to help cope with the mental stress and anxiety. Online 
+counselling sessions and self-help resources saw an increase in usage. 
+Interactive sessions for grief support as well as extending individual grief 
+counselling to employees through proactive HR connects and reach 
+outs were conducted to extend support to employees battling with 
+losses. Also, a special series of burnout support offerings were deployed 
+to increase awareness and create support strategies for burnout. HR 
+connects were strengthened through Emotional Wellbeing SOPs. Special 
+sessions were organized for stress management for leadership teams for 
+managing the new normal Peer counselling for HRs was done to equip 
+them to handle mental health cases coming from employees. A special 
+series of “Respond with Care“ offerings, highlighting hope and positive 
+psychology, providing basic emotional first aid skills is also being provided 
+to HRs, Managers and employees.
+11.	 Details of safety related incidents54, in the following format:
+	
+Typical to any service sector company operating out of office-based premises, 
+most common injuries occur due to slips, trips and falls or being struck by 
+stationary objects, road accidents in company provided transport. TCS ensures 
+capturing all types of incidents including accidents, near-misses and safety 
+observations and ensuring 100% closure of the reported incidents with 
+appropriate corrective and preventive actions.
+	
+The safety incident statistics is given below –  
+Safety Incident/Number
+Category
+FY 2021-22
+FY 2020-21 
+Lost Time Injury Frequency Rate 
+(LTIFR) (per one million-person hours 
+worked)
+Employees
+0.0032
+0.0044
+Total	recordable work-related injuries
+4
+5
+No. of fatalities
+0
+0
+High consequence work-related injury 
+or ill-health (excluding fatalities)
+0
+0
+12.	 Describe the measures taken by the entity to ensure a safe and healthy 
+work place55.
+	
+TCS recognizes that occupational, health & safety (OHS) and overall physical 
+and mental wellbeing of its employees is integral to its success and growth 
+aspirations as spelled out in its OHS Policy. TCS is committed to provide safe 
+workplaces focusing on preventing injuries, illnesses, and continuously strives 
+to eliminate hazards and reduce OHS risks. 
+54 GRI 403-9, GRI 403-10
+55 GRI 403-2, GRI 3-3, GRI 403-9, GRI 403-10 
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  207
+	
+Key occupational health related risks are associated with the key generic 
+H&S risks identified typical to TCS’ nature of operations include workplace 
+ergonomics risks arising due to computer usage, indoor air quality, workplace 
+illumination and noise and fire risk typical to an office building and general 
+office risks including slips, trips, falls, electrical shock, etc. Hazard identification 
+and risk assessment process is conducted to has helped identify each such 
+risk and ensure that proper mitigation measures are put in place to create a 
+healthy and safe work environment. 
+	
+Some of the mitigation measures to prevent or mitigate significant 
+occupational health & safety impacts include,
+	
+•	
+Provision and maintenance of fire detection, alarm and suppression 
+systems 
+	
+•	
+Regular site review, inspections and audits to assess safety preparedness
+	
+•	
+Regular mock drills for fire as well as medical emergencies 
+	
+•	
+Provision of ergonomically designed chairs and workstations to prevent 
+musculoskeletal disorders (MSD’s) and low radiation computer monitors 
+for better visual health 
+	
+•	
+Digital monitoring of indoor air quality and periodic cleaning of the HVAC 
+ducts to avoid sick building syndrome
+	
+•	
+Regular training on occupational health & safety training to sensitize 
+employees on OHS aspects to inculcate a culture of safety
+	
+•	
+Employee engagement campaigns on health & safety topics such as fire 
+safety, road safety, emergency evacuation, ergonomics among others 
+	
+There are no major H&S risks associated with TCS services as the company 
+provides customized software solutions and IT services.
+13.	 Number of Complaints on the following made by employees56:
+FY 2021-22
+FY 2020-21
+Filed 
+during 
+the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during 
+the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Working 
+Conditions
+40
+0
+44
+0
+Health & 
+Safety
+14.	 Assessments for the year57:
+% of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Health and safety 
+practices
+TCS has 124 locations globally certified with ISO 45001:2018, 
+Occupational Health & Safety Standards. 100% of offices have 
+been audited during FY 2022 by qualified internal auditors at TCS.
+Every year, one third of TCS’ locations are identified to be sampled 
+for external/ third party audits. In FY 2022 about 30% of TCS’ 
+offices have undergone ISO 45001:2018 audits by External 
+Auditors / third parties. Hence, out of 124 locations globally, 
+TCS has 38 of them undergo external audits by TUV Nord for 
+occupational health & safety.
+There were no statutory audits conducted on health and safety 
+practices in FY 2022 for any of the offices in India.
+56 GRI 2-25
+57 GRI 3-3
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  208
+% of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Working 
+Conditions
+TCS locations are subject to site safety inspections and reviews 
+periodically by internal health & safety team with the perspective 
+of checking any health, hygiene and safety hazards and mitigating 
+them. 
+As a part of ISO 45001:2018 audits, TCS locations undergo a 
+site review and assessment to check deployment of operational 
+controls. 100% of TCS’ sites get checked and inspected for health 
+and safety aspects during each year.
+15.	 Provide details of any corrective action taken or underway to address 
+safety-related incidents (if any) and on significant risks / concerns arising 
+from assessments of health & safety practices and working conditions.58
+	
+There were a few road/transport, slip, trip and fall related incidents during 
+the year which have been investigated and closed with necessary corrective 
+and preventive actions. Defensive driving focus and behavioral based safety 
+practices have been emphasized as corrective measures.
+58 GRI 403-10
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to 
+all its stakeholders
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the 
+entity59.
+	
+TCS engages with a broad spectrum of stakeholders, to deepen its insights 
+into their needs and expectations, and to develop sustainable strategies for the 
+short, medium and long term. Stakeholder engagement also helps to manage 
+risks and opportunities in business operations. The key stakeholders identified 
+in consultation with the company’s management are: customers, employees, 
+shareholders, academic institutions, head-hunters, staffing firms, other 
+suppliers, partners and collaborators, industry bodies such as NASSCOM and CII, 
+governments, NGOs, local communities, regulators and society at large. 
+	
+Some other stakeholders that TCS closely engages with – such as industry 
+analysts, equity analysts, and the news media –are proxies for other named 
+stakeholders – i.e. customers, shareholders, and society at large, respectively. 
+	
+Stakeholder interactions might be structured (e.g. surveys, account 
+statements) or unstructured (town halls, 1x1 meetings). Based on mutual 
+convenience and need, the engagement maybe scheduled as needed, or 
+pre-scheduled on a periodic basis (fortnightly/ monthly/ quarterly/ annual) or 
+continuous (e.g. website, social media).
+59 GRI 2-29
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  209
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group60
+Stakeholder Group
+Whether identified as 
+Vulnerable & Marginalized 
+Group (Yes/No)
+Channels of Communication
+(Email, SMS, Newspaper, Pamphlets, 
+Advertisement, Community Meetings, 
+Notice Board, Website), Other 
+Frequency of Engagement (Annually/ 
+Half yearly/ Quarterly / others – 
+please specify)
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during such engagement
+Customers
+No
+As needed: Project-related calls and 
+meetings; project management reviews; 
+relationship meetings and reviews; 
+executive meetings and briefings; 
+customer visits; responses to RFIs/
+RFPs; sponsored events; mailers; 
+newsletters; brochures
+•	
+Continuous: TCS website; 
+social media (LinkedIn, Twitter, 
+Facebook, Instagram, YouTube)
+•	
+Half-yearly: Customer 
+satisfaction surveys
+•	
+Annual: Customer summits; 
+Innovation days; Executive 
+customer surveys; Sponsored 
+Community events
+•	
+Understanding client, industry and 
+business challenges
+•	
+Identifying opportunities to 
+improve TCS’ service and products 
+for cross-selling 
+•	
+Deciding on investments and 
+capabilities required to fulfil 
+demand
+•	
+Understanding client’s data privacy 
+and security requirements
+Shareholders
+No
+As needed: Press releases and press 
+conferences; email advisories; facility 
+visits; in-person meetings; investor 
+conferences; non-deal roadshows; 
+conference calls
+•	
+Quarterly: Financial statements 
+in IndAS and IFRS; earnings call; 
+exchange notifications; press 
+conferences
+•	
+Half Yearly: CEO message on 
+half-yearly financial performance 
+and summary of significant events
+•	
+Continuous: Investors page on 
+the TCS website
+•	
+Annual: Annual General Meeting; 
+Annual Report
+•	
+Educating the investor community 
+about TCS integrated value 
+creation model and business 
+strategy for the long term
+•	
+Helping investors voice their 
+concerns regarding company 
+policies, reporting, strategy, etc.
+•	
+Understanding shareholder 
+expectations
+60 GRI 2-29
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  210
+Stakeholder Group
+Whether identified as 
+Vulnerable & Marginalized 
+Group (Yes/No)
+Channels of Communication
+(Email, SMS, Newspaper, Pamphlets, 
+Advertisement, Community Meetings, 
+Notice Board, Website), Other 
+Frequency of Engagement (Annually/ 
+Half yearly/ Quarterly / others – 
+please specify)
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during such engagement
+Employees
+No
+As needed: Town halls; roadshows; 
+project or operations reviews; video 
+conferences; audio conference calls; 
+one-on-one counselling
+•	
+Monthly: @TCS (in-house 
+magazine) 
+•	
+Continuous: TCS website; 
+Ultimatix Notice Board; CEO 
+Connect; CTO Blog; Corporate 
+Corner;  Knome; dipstick surveys; 
+grievance redressal system
+•	
+Annual: PULSE (employee 
+feedback survey); long-service 
+awards; sales meets; Blitz 
+(business planning meet)
+•	
+Career Management and Growth 
+Prospects
+•	
+Learning opportunities
+•	
+Compensation structure
+•	
+Building a safety culture and 
+inculcating safe work practices 
+among employees
+•	
+Ongoing desire for more flexible 
+working hours
+•	
+Improving Diversity and Inclusion
+Partners and Collaborators
+No
+As needed: Meetings/calls; COINTM 
+meetings; visits; partner events
+•	
+Monthly: Conference calls
+•	
+Quarterly: Business reviews
+•	
+Annual: Partner events
+•	
+Stronger partnerships
+•	
+Demand Sustainability
+•	
+Credit worthiness
+•	
+Ethical Behavior
+•	
+Fair Business Practices
+•	
+Governance
+Academic Institutions
+No
+As needed: Academic Interface 
+Program; Co-Innovation Network 
+(COIN™) meetings
+•	
+Continuous: TCS website; 
+academic portal
+•	
+Annual: Sangam (high-level 
+academic conference); campus 
+recruitment
+•	
+Knowledge-exchange 
+collaboration
+•	
+Advancing the academic’s 
+research program / curriculum 
+enhancement
+•	
+Job creation
+•	
+Internship opportunities
+•	
+Faculty development
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  211
+Stakeholder Group
+Whether identified as 
+Vulnerable & Marginalized 
+Group (Yes/No)
+Channels of Communication
+(Email, SMS, Newspaper, Pamphlets, 
+Advertisement, Community Meetings, 
+Notice Board, Website), Other 
+Frequency of Engagement (Annually/ 
+Half yearly/ Quarterly / others – 
+please specify)
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during such engagement
+Head-hunters; staffing firms; 
+other suppliers
+No
+One-time: RFIs/RFPs; empanelment 
+process
+As needed: Transactional meetings; 
+periodic reviews; surveys
+•	
+Diversity hiring initiatives and what 
+are the biggest challenges 
+Industry bodies, Regulators
+No
+As needed (need basis / usually 1-2 
+meetings in 3 months’ basis): 
+•	
+Conferences and seminars,
+•	
+working committee meetings, 
+•	
+surveys, 
+•	
+other meetings
+Annual: Conferences; summits
+•	
+Ensure 100% compliance to all 
+local laws
+Governments; NGOs; local 
+communities; media, industry 
+analysts, society at large
+No
+As needed: Governance RFIs/RFPs; 
+presentations; project meetings; 
+reviews; calls and meetings; surveys; 
+consultative sessions; field visits; 
+due diligence; calls and meetings; 
+conferences and seminars; surveys; 
+press releases; press conferences; 
+media interviews and quotes; sponsored 
+events, Analyst Days
+Continuous: TCS website
+•	
+Understand areas for sustainable 
+development 
+•	
+Communicate TCS’ performance 
+and strategy; 
+•	
+Manage TCS’ brand and 
+reputation; 
+•	
+Share and contribute to  thought 
+leadership and insight into public 
+and business concerns; 
+•	
+Discuss TCS’ response to 
+responsible business issues
+•	
+Work in partnership to develop 
+solutions to global challenges
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  212
+PRINCIPLE 5 Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees who have been provided training on human rights issues and  policy(ies) of the entity, in the following format61:
+Category
+FY 2021-22
+FY 2020-21
+Total (A)
+No. of employees covered (B)
+% (B / A)
+Total (C)
+No. of employees covered (D)
+% (D / C)
+Employees
+Permanent
+590,662
+580,335
+98.3
+475,694
+462,172
+97.2
+Other than permanent
+17,609
+15,333
+87.1
+12,393
+10,826
+87.4
+Total Employees
+608,271
+595,668
+97.9
+488,087
+472,998
+96.6
+	
+Note:
+	
+•	
+Training details for TCS Global headcount. 
+61 GRI 2-24
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  213
+2.	
+Details of minimum wages paid to employees in the following format62:
+Category
+FY 2021-22 
+FY 2020-21 
+Total (A)
+Equal to Minimum Wage
+More than Minimum Wage
+Total (D)
+Equal to Minimum Wage
+More than Minimum Wage
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (E)
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+Permanent
+Male
+325,241
+726
+0.2
+324,515
+99.8
+263,178
+373
+0.1
+262,805
+99.9
+Female
+182,945
+557
+0.3
+182,388
+99.7
+152,471
+282
+0.2
+152,189
+99.8
+Other than Permanent
+Male
+9.924
+NA
+NA
+NA
+NA
+7,231
+NA
+NA
+NA
+NA
+Female
+7,685
+NA
+NA
+NA
+NA
+5,162
+NA
+NA
+NA
+NA
+	
+Note:
+	
+•	
+Data specific to India
+	
+•	
+Other than Permanent category consists of contractors and interns. The professional fees / stipends paid to them are not comparable to the salaries paid to 
+employees.
+62 GRI 405-2
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  214
+3.	
+Details of remuneration/salary/wages, in the following format63:
+Male
+Female
+Number
+Median remuneration/ salary/ wages of 
+respective category (₹ Lakh per annum)
+Number
+Median remuneration/ salary/ wages of 
+respective category (₹ Lakh per annum)
+Board of Directors (BoD)
+Distribution provided below
+(a)	
+Executive Directors
+2
+2,322.8
+- 
+NA 
+(b)	
+Non-Executive Non-Independent Directors
+1
+Nil
+1
+Nil
+(c)	
+Non-Executive Independent Directors
+4
+237.5
+1
+225.0
+Key Managerial Personnel
+4
+-
+- 
+NA 
+Employees other than BoD and KMP
+Distribution provided below
+(a)	
+Junior
+161,708
+3.6
+112,476
+3.7
+(b)	
+Middle
+144,162
+12.8
+67,274
+10.2
+(c)	
+Senior
+19,234
+34.3
+3,195
+32.4
+	
+Notes:
+	
+•	
+At TCS, remuneration is the same for men and women working full-time, in the same grade, in the same role, and at the same location64. Gaps in median salary 
+between genders at middle and senior levels is due to a higher proportion of women at the junior ends of each cohort. TCS’ focused diversity and inclusion 
+programs are expected to narrow this gap over time.
+	
+•	
+Data is specific to India.
+	
+•	
+The median remuneration of Non-Executive Directors is Nil (refer serial no. III(iv)(a) of the Corporate Governance Report)
+	
+•	
+Key Managerial Personnel includes CEO, COO, CFO, CS, erstwhile CFO and CS, who relinquished their offices with effect from April 30, 2021 and October 31, 
+2021 respectively. The median remuneration of the Executive Directors are covered as a part of BoD. Since the remuneration of CFO and CS is only for part of the 
+year, their median remuneration has not been stated
+	
+•	
+Remuneration details of BoD and KMPs are as published in Integrated Annual Report FY 2022.
+63 GRI 2-19, GRI 2-21 
+64 GRI 405-2
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  215
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed to by the business65? (Yes/
+No) - Yes
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues66.
+	
+Reporting avenues have been provided for TCS’ employees, customers, suppliers and other stakeholders to raise concerns or make disclosures when they become aware 
+of any actual or potential violation of the Company Code, policies or law including human rights violation. Representations made in the reporting avenues are reviewed 
+and appropriate action is taken on substantiated violations.  
+6.	
+Number of Complaints on the following made by employees and workers67:
+FY  2021-22 
+FY  2020-21 
+Filed during the 
+year
+Pending resolution at 
+the end of year
+Remarks
+Filed during the year
+Pending resolution at 
+the end of year
+Remarks
+Sexual Harassment
+36
+16
+Review in progress
+27
+8
+Closed
+Discrimination at workplace
+1
+0
+Closed
+1
+0
+Closed
+Child Labour
+0
+0
+0
+0
+0
+0
+Forced Labour/Involuntary Labour
+0
+0
+0
+0
+0
+0
+Wages
+0
+0
+0
+0
+0
+0
+Other human rights related issues
+0
+0
+0
+0
+0
+0
+	
+Notes:
+	
+•	
+Data specific to India 
+	
+•	
+The above data is as on March 31, 2022
+65 GRI 2-13
+66 GRI 2-25
+67 GRI 406-1
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  216
+7.	
+Mechanisms to prevent adverse consequences to the complainant in 
+discrimination and harassment cases68.
+	
+Concerns on discrimination and harassment are dealt with confidentially. TCS 
+does not tolerate any form of retaliation against anyone reporting good faith 
+concerns. Anyone involved in targeting such a person raising such complaints 
+will be subject to disciplinary action.
+8.	
+Do human rights requirements form part of your business agreements and 
+contracts? (Yes/No)69
+	
+Yes.
+9.	
+Assessments for the year:
+ 
+% of your plants and offices that were assessed (by 
+entity or statutory authorities or third parties)
+Child labour
+TCS internally monitors compliance for all relevant 
+laws and policies pertaining to these issues. There 
+have been no observations by local statutory / third 
+parties in India in FY 2022.
+Forced/involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others – please specify
+10.	 Provide details of any corrective actions taken or underway to address 
+significant risks / concerns arising from the assessments at Question 9 
+above.
+	
+Not Applicable
+68 GRI 2-25
+69 GRI 2-23, GRI 2-24
+PRINCIPLE 6: Businesses should respect and make efforts to protect and 
+restore the environment
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy 
+intensity, in the following format70:
+	
+TCS uses multiple energy sources in its daily operations, electricity being the 
+primary source. Majority of the electricity comes from conventional sources, 
+but TCS has increased the share of renewable electricity (RE) over the 
+years through onsite rooftop solar generation, third party procurement and 
+purchase of Energy Attribute Certificate (EAC) (in select geographies). Other 
+sources of energy include natural gas (mainly used for space heating/cooling), 
+district heating and cooling, fuel used in company owned vehicles, cooking gas 
+used in cafeteria and diesel used in diesel generators (mainly used as a back-
+up source for power shortages). The RE consumption as a % of total electricity 
+consumption has increased from 15.6% in FY 2021 to 37.2% in FY 2022 The 
+electricity used across India operations reduced by 6.5% Y-o-Y. For global 
+operations, there is an increase in total electricity use by 2.7% Y-o-Y due to 
+the increased reporting boundary in FY 2022 covering operations in North 
+America (NA), Asia Pacific (APAC), Europe and Middle East.
+70 GRI 302-1, GRI 302-3
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  217
+	
+Details of total energy consumption (in Mega Joules) and energy intensity are 
+provided in the table below:
+Parameter
+FY 2021-22 
+FY 2020-21 
+From renewable sources
+Total electricity consumption 
+(A)
+401,662,127
+163,892,956
+Total fuel consumption (B)
+0
+0
+Energy consumption 
+through other sources (C)
+8,482,654 
+0
+Total	energy	
+consumed 
+from renewable sources 
+(A+B+C)
+410,144,781
+163,892,956
+From non-renewable sources
+Total electricity consumption 
+(D)
+672,917,518
+880,609,895
+Total fuel consumption (E)
+41,303,253
+38,154,387
+Energy consumption 
+through other sources (F)
+0
+0
+Total energy consumed 
+from non-renewable 
+sources (D+E+F)
+714,220,770
+918,764,282
+Energy intensity per rupee 
+of turnover (Total energy 
+consumption/turnover in 
+rupees)
+0.00058
+0.00066
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N) If yes, name of the external 
+agency.
+	
+Yes. This data has been subject to independent assurance by Ernst & Young 
+Associates LLP (EY).
+2.	
+Does the entity have any sites / facilities identified as designated 
+consumers (DCs) under the Performance, Achieve and Trade (PAT) Scheme 
+of the Government of India? (Y/N) If yes, disclose whether targets set 
+under the PAT scheme have been achieved. In case targets have not been 
+achieved, provide the remedial action taken, if any.  
+	
+Not Applicable
+3.	
+Provide details of the following disclosures related to water71, in the 
+following format:
+	
+The sources of freshwater at TCS includes third party water (86.4%), 
+groundwater (8.4%) and rainwater harvested (5.2%). TCS optimizes water 
+consumption through conservation, sewage treatment and reuse, and 
+rainwater harvesting. All new campuses have been designed for higher 
+water efficiencies, 100% treatment and recycling of sewage, and rainwater 
+harvesting. The detailed break up is given below:
+Parameter
+FY 2021-22 
+FY 2020-21 
+Water withdrawal by source (in kiloliters)
+(i)	
+Surface water
+NIL
+NIL
+(ii)	
+Groundwater
+121,756
+116,126
+(iii)	 Third party water
+1,243,889
+1,209,121
+(iv)	 Seawater / desalinated water
+NIL
+NIL
+(v)	
+Others – Rainwater utilized
+75,314
+76,034
+Total volume of water withdrawal
+(in kiloliters) (i + ii + iii + iv + v)
+1,440,959
+1,401,280
+Total volume of water 
+consumption (in kiloliters)
+1,319,696
+1,268,191
+Water intensity per rupee of 
+turnover (Water consumed / 
+turnover)
+0.0000007
+0.0000008
+71 GRI 303-3, GRI 303-5
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  218
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N) If yes, name of the external 
+agency.Yes. This data has been subject to independent assurance by Ernst 
+& Young Associates LLP (EY).
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If 
+yes, provide details of its coverage and implementation72.
+	
+Yes, TCS has achieved zero liquid discharge across all the campuses. TCS 
+optimizes water consumption through conservation, sewage treatment and 
+reuse, and rainwater harvesting. All new campuses have been designed for 
+100% treatment and recycling of sewage, and rainwater harvesting.
+5.	
+Please provide details of air emissions (other than GHG emissions) by the 
+entity, in the following format:
+	
+TCS being a service sector company does not have significant air emissions 
+other than those arising from operation of DG sets during power outages. 
+	
+TCS’s operations in India have necessary consent under the Air (Prevention 
+& Control of Pollution) Act (1981), for operation of DG set and ensures 
+compliance to the conditions which includes stack emission parameters like 
+nitrous oxide, non-methane hydrocarbons, carbon monoxide, particulate 
+matter, etc. Stack emission monitoring is conducted as per the frequency 
+required under the Consent To Operate (CTO) the DG.
+Parameter
+Please 
+specify 
+unit
+FY 2021-22
+FY 2020-21 
+NOx
+NA
+NA
+NA
+SOx
+NA
+NA
+NA
+Particulate matter (PM)
+NA
+NA
+NA
+72 GRI 303-1, GRI 303-2
+Parameter
+Please 
+specify 
+unit
+FY 2021-22
+FY 2020-21 
+Persistent organic pollutants (POP)
+NA
+NA
+NA
+Volatile organic compounds (VOC)
+NA
+NA
+NA
+Hazardous air pollutants (HAP)
+NA
+NA
+NA
+Others–please specify
+NA
+NA
+NA
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N) If yes, name of the external 
+agency.
+	
+The DG stack emissions are sampled and analyzed by government approved 
+laboratories and the reports are reviewed by the internal team to ensure 
+compliance to the CTO conditions.  These stack emission reports are 
+submitted to government authorities (State Pollution Control Boards) as per 
+consent conditions. These reports are also verified during internal and external 
+audits to check compliance.
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 
+emissions) & its intensity, in the following format73:
+	
+The Scope 1 emissions are from direct GHG sources like fuel used in company 
+owned vehicles, diesel generators and cafeteria, fugitive emissions from 
+refrigerants and fuel used for space heating. These amount to about 10.6% 
+73 GRI 305-1; GRI 305-2, GRI 305-4. Scope 1 emissions have been calculated using the 
+emissions factors published by the DEFRA conversion factors 2021. For Scope 2 emissions 
+– for India, the source is the emissions factor in the CO2 Baseline Database for the Indian 
+Power Sector, User Guide, Version 16.0, March 2021, published by the Central Electricity 
+Authority of India. For Australia, Canada, Europe, North America, New Zealand, Hong Kong 
+and UK emission factors specific to the region published by local authorities are used. For 
+other countries IEA v4 emission factors 2021 and GHG protocol/ IEA 2021 have been used.
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  219
+of the Scope 1 + Scope 2 carbon footprint in FY 2022. The remaining 89.4% 
+is from indirect emissions, referred to as Scope 2 emissions, associated with 
+purchased electricity. The breakup is provided as required in below table.
+Parameter
+Unit
+FY 2021-22  
+FY 2020-21 
+Total Scope 1 emissions (Break-up 
+of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes 
+of CO2
+16,684
+16,284
+- CO2
+tCO2e
+2,813
+2,789
+- CH4
+tCO2e
+1.38
+8.6
+- N20
+tCO2e
+28.3
+4.7
+- HFC
+tCO2e
+13,841
+13,505
+Total Scope 2 emissions (Break-up 
+of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes 
+of CO2
+equivalent
+141,045
+193,994
+Total Scope 1 and Scope 2 
+emissions per rupee of turnover
+tCO2e/INR
+0.00000008
+0.00000013
+Total Scope 1 and Scope 2 
+emission intensity (optional)74
+– the relevant metric may be
+selected by the entity
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N) If yes, name of the external 
+agency.
+	
+Yes. This data has been subject to independent assurance by Ernst & Young 
+Associates LLP (EY).
+74 TCS has not calculated the emission intensity per full time employee (FTE) during the 
+pandemic years as the employees working out of offices was very less.
+7.	
+Does the entity have any project related to reducing Green House Gas 
+emission? If Yes, then provide details75.
+	
+Yes. TCS has taken up the target to reduce its absolute Scope 1 and Scope 2 
+carbon footprint by 70% by 2025 and become net zero by 2030. To achieve 
+these targets, the green-house gas management approach has four key 
+levers – green infrastructure, green IT, IT-enabled operational efficiencies, 
+and renewable energy. These energy efficiency initiatives have resulted in 
+avoidance of GHG emissions of approximately 3,200 tCO2e in FY 2022.
+	
+Green Infrastructure and IT enabled operational efficiency:
+	
+All new campuses owned by TCS are designed according to green building 
+standards for energy and resource efficiency. They have roof top solar 
+photovoltaic installations to reduce the carbon footprint. Currently, 34 TCS 
+offices spanning across over 28.2 million sq. ft of office area, are certified 
+green buildings by Indian Green Building Council (IGBC). These make up over 
+64.4% of TCS’ total real estate portfolio in India.
+	
+In FY 2022, projects were taken up to improve the energy efficiency in 
+existing buildings as well through retrofits. Cooling systems were upgrade to 
+efficient energy star rated appliances. UPS resizing and consolidation. Modular 
+UPS were adopted where feasible. Other auxiliaries like pumps, cooling towers, 
+etc. were also replaced. TCS’ resource optimization center continues to help 
+monitor the energy use on real time basis to optimize it further by leveraging 
+AI and ML.
+	
+Green IT:
+	
+Green IT initiatives include a) IT Energy optimization in Data center and 
+Equipment rooms and b) IT energy optimization in the delivery centers. Data 
+center and Equipment room efficiency projects included replacement of over 
+75 GRI 305-5
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  220
+20 UPSs and 30 cooling units with more efficiency systems. The company 
+achieved PUE of 1.65 at the two owned-premise TCS data centers at Yantra 
+Park and Siruseri. Looking forward, the company is incorporating next-gen 
+green data center practices with futuristic and modular technologies like 
+Modular UPS, Cold Aisle Containment, real time monitoring of temperature 
+and energy consumption, etc​. For IT energy optimization in the delivery 
+center, the energy efficiency initiatives are through switching off/replacement 
+of excess capacity/inefficient UPSs, replacement of desktops with laptops​ and 
+improved rack per user ratio.
+	
+Renewable Energy 
+	
+The company continued to augment the roof top solar photo voltaic 
+installations this year as well taking the total installed capacity to 10.2 MWp 
+contributing to 3.76 percent of total electricity use in the reporting year. 
+Solar roof top installations at Adibatla Hyderabad (2,154 kWp) and TCS 
+Center Kochi (207 kWp) was completed within the reporting year. The 
+company increased the renewable energy procurement through third party 
+PPA for solar energy at TCS Siruseri office and switch over to green tariff 
+for its operations in the states of Karnataka and Maharashtra. This resulted 
+in an increase in the renewable energy use to 37.2% of the company’s total 
+energy use in FY 2022. TCS is committed to improve the RE mix in its energy 
+portfolio further in the coming years.
+	
+Carbon Neutrality:
+	
+The company has become carbon neutral across Scope 1 and Scope 2 carbon 
+footprint for its operations in Asia Pacific (APAC)76 , Europe and North 
+America (NA) for FY 2022 in line with PAS 2060:2014 standards assured by 
+Bureau Veritas India Limited. 
+76 Excluding Japan
+8.	
+Provide details related to waste management by the entity, in the following 
+format77:
+Parameter
+FY 2021-22 
+FY 2020-21
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+42.9
+10.4
+E-waste (B)
+563
+16678 
+Bio-medical waste (C)
+1.61
+-
+Construction and demolition waste (D)
+62.4
+-
+Battery waste (E)
+286
+175
+Radioactive waste (F)
+NA
+NA
+Other Hazardous waste. Please
+specify, if any. (G)
+27.6
+28.7
+Other Non-hazardous waste generated 
+(H). Please specify, if any. (Break-up by 
+composition i.e. by materials relevant to the 
+sector)
+2,351
+1,794
+Total (A+B + C + D + E + F + G + H)
+3,384.5
+2,174.2
+For each category of waste generated, total waste recovered through recycling, re-
+using or other recovery operations (in metric tonnes)
+Category of waste
+(i) Recycled **
+- Battery
+258
+190
+77 GRI 306-3; 306-4; 306-5
+78 The value of e-waste generated in MT in FY 2021 pertains only to the consumer e-waste. 
+FY 2022 value includes consumer and IT e-waste in MT
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  221
+Parameter
+FY 2021-22 
+FY 2020-21
+-E-waste
+583
+11579 
+-Hazardous waste
+27.0
+20.6
+-Non-Hazardous waste
+1,077
+703
+-Plastic Waste
+38
+8.47
+-Construction & Demolition waste
+61.6
+(ii) Re-used
+(iii) Other recovery operations
+Total
+2,044.6
+1,037.1
+For each category of waste generated, total waste disposed by nature of disposal 
+method (in metric tonnes)
+Category of waste
+(i) Incineration
+-Biomedical waste
+1.61
+-Non-hazardous waste
+36.4
+(ii) Landfilling
+-Non-hazardous waste
+1,112
+813
+(iii) Other disposal operations
+Total
+1,150
+813
+	
+** 100% of the regulated waste (hazardous wastes, e-waste, battery waste), 
+plastic wastes, paper & packaging wastes are disposed through recycling. The 
+generated quantities, if remaining at the end of the financial year for disposal, 
+are stored at the facilities and recycled through approved/ authorized vendors. 
+79 The value for e-waste disposed in MT in FY 2021 pertains only to the consumer e-waste, 
+as IT e-waste disposed was recorded in numbers in FY 2021 (26,479 units). FY 2022 value 
+includes consumer and IT e-waste in MT.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N) If yes, name of the external 
+agency.
+	
+Yes. This data has been subject to independent assurance by Ernst & Young 
+Associates LLP (EY).
+9.	
+Briefly describe the waste management practices adopted in your 
+establishments. Describe   the strategy adopted by your company to 
+reduce usage of hazardous and toxic chemicals in your products and 
+processes and the practices adopted to manage such wastes80.
+	
+TCS being an IT services and consulting organization, does not manufacture 
+physical products and therefore does not use any hazardous or toxic chemicals 
+in any of its processes. The company has offices and facility operations, and 
+the waste is generated from the auxiliary processes used to run these facilities. 
+Based on the nature of services, TCS’ facilities mostly generate electronic, 
+electrical, and municipal solid waste, and generate very less hazardous waste 
+and do not use toxic chemicals. Potentially hazardous and regulated wastes 
+such as lead-acid batteries and waste lube oil are generated in relatively 
+smaller proportions which are disposed through government approved 
+recyclers as per regulations. E-waste is disposed to government approved 
+e-waste recyclers. 
+	
+TCS is committed to sustain the best practices that have already been 
+institutionalized like segregation of all recyclable wastes, 100% compliance to 
+management practices for regulated wastes like hazardous and e-waste and 
+100% recycling on printer and toner cartridges, paper and packaging wastes. 
+TCS also ensures 100% disposal of biomedical waste (BMW) through govt 
+authorized BMW disposal agencies in India as per regulatory requirements. 
+The company targets to maximize the recycling and reuse of all waste 
+categories to divert waste from landfill.
+80 GRI 306-2 
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  222
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere reserves, wetlands, biodiversity 
+hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are required, please specify details in the following format81:
+S.
+No.
+Location of operations/offices
+Type of operations
+Whether the conditions of environmental approval / clearance are being complied with? (Y/N)
+If no, the reasons thereof and corrective action taken, if any.
+1
+TCS Kalinga Park, Chandaka Industrial 
+Estate, Bhubanewar, Odisha
+Software Consultancy Services 
+Yes, the company has obtained environmental clearance for the premises. TCS office is located in 
+the Special Economic Zone (SEZ) developed by the Odisha Industrial Infrastructure Development 
+Corporation (IDCO). 
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current financial year82:
+Name and brief details of project
+EIA
+Notification No.
+Date
+Whether conducted 
+by independent 
+external agency (Yes 
+/ No)
+Results 
+communicated in 
+public domain
+(Yes / No)
+Relevant Web link
+Technocity, Trivandrum
+Located at Pallipuram, Trivandrum, Kerala.  
+It is situated at about 22 Kms from 
+Trivandrum International airport and about 
+10 Kms from the existing TCS campus at 
+Technopark.  The land for the project is 
+leased from Technopark (a society wholly 
+controlled by Kerala Government)
+SIA/KL/
+MIS/209935/2021, 
+1896/EC1/2021/SEIAA
+Oct 07, 2021
+ Yes
+Yes
+http://www.seiaakerala.in/uploads/
+doc/373f52abc888c38849b69c77235b200d.pdf
+TCS Siruseri New Tech Park SEZ is located 
+at Egattur, Chennai, SIPCOT IT Park, 
+Siruseri with built-up area of 3.2 Million sq. 
+ft and with 20,000 no. of Employees.  It 
+is located at about 30 Kms from Chennai 
+airport.
+SEIAA-TN/F.No:7790/
+EC/8(b)-770/20-21 
+dated 30.06.2021
+Jun 30, 2021
+ Yes
+Yes
+http://environmentclearance.nic.
+in/writereaddata/FormB/EC/EC_
+Letter/07232021655485357790ec.pdf
+81 GRI 304-1
+82 GRI 413-1, GRI 303-1
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  223
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention and Control of Pollution) Act, Air 
+(Prevention and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the 
+following format83:
+	
+Yes, TCS has complied with applicable environmental law/regulations / guidelines applicable in India. No fine/penalty/action was initiated against the entity under any of 
+the applicable environmental laws/regulation/guidelines.
+S. 
+No.
+Specify the law / regulation / guidelines 
+which was not complied with
+Provide details of the non- 
+compliance
+Any fines / penalties / action taken by regulatory agencies such as 
+pollution control boards or by courts
+Corrective action taken, if any
+NA
+NA
+NA
+NA
+Leadership Indicators
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, in the following format:
+	
+This information has been covered in Principle 6, Q1 of the Essential Indicators84.
+83 GRI 2-27
+84 GRI 302-1
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  224
+2.	
+Provide the following details related to water discharged85:
+Parameter
+FY 2021-22 
+FY 2020-21
+Water discharge by destination and level of treatment (in kiloliters)
+(i)	
+To Surface water
+-	
+No treatment
+0
+0
+-	
+With treatment – please specify level of Treatment
+0
+0
+(ii)	 To Groundwater
+-	
+No treatment
+0
+0
+-	
+With treatment – please specify level of Treatment
+0
+0
+(iii)	 To Seawater
+-	
+No treatment
+0
+0
+-	
+With treatment – please specify level of Treatment
+0
+0
+(iv)	 Sent to third-parties
+-	
+No treatment
+	
+Note: Wastewater sent for municipal treatment
+19,216
+17,565
+-	
+With treatment – please specify level of Treatment 
+a)	
+Treated at TCS facilities (Tertiary treatment)
+31,075
+22,835
+b)	
+Sent to builder STP for treatment (Tertiary 
+treatment)
+54,998
+57,452
+(v)	
+Others
+-	
+No treatment
+0
+0
+-	
+With treatment – please specify level of Treatment
+0
+0
+Total water discharged (in kiloliters)
+105,289
+97,851
+Above data covers details pertaining to India geography only.
+85 GRI 303-4
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has 
+been carried out by an external agency? (Y/N) If yes, name of the external 
+agency.
+	
+Yes. This data has been subject to independent assurance by Ernst & Young 
+Associates LLP (EY).
+3.	
+Water withdrawal, consumption and discharge in areas of water stress (in 
+kiloliters):
+	
+For each facility / plant located in areas of water stress, provide the 
+following information86:
+	
+This section covers details pertaining to India geography only
+	
+(i)	
+Name of the area Data provided for 14 areas as per CGWB (Central 
+Ground Water Board) in individual tabs
+	
+(ii)	 Nature of operations IT Services, Products and Platforms
+	
+(iii)	 Water withdrawal, consumption and discharge in the following format:
+Parameter
+FY 2021-22
+FY  2020-21
+Water withdrawal by source (in kiloliters)
+(i)	
+Surface water
+0
+0
+(ii)	
+Groundwater
+0
+0
+(iii)	 Third party water
+531,427
+526,066
+(iv)	 Seawater / desalinated water
+0
+0
+(v)	
+Others
+0
+0
+Total volume of water withdrawal
+(in kiloliters)
+531,427
+526,066
+86 GRI 303-3, 303-4
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  225
+Parameter
+FY 2021-22
+FY  2020-21
+Total volume of water consumption
+(in kiloliters)
+520,733
+516,889
+Water intensity per rupee of turnover (Water 
+consumed / turnover)
+0.00000027
+0.00000031
+Water discharge by destination and level of treatment (in kiloliters)
+(i)	
+Into Surface water
+-	
+No treatment
+0
+0
+-	
+With	treatment – please specify level of 
+treatment
+0
+0
+(ii)	
+Into Groundwater
+-	
+No treatment
+0
+0
+-	
+With treatment – please specify level of 
+treatment
+0
+0
+(iii)	 Into Seawater
+-	
+No treatment
+0
+0
+-	
+With	treatment – please specify level of 
+treatment
+0
+0
+(iv)	 Sent to third-parties
+-	
+No treatment
+Note: Wastewater sent for municipal treatment
+7,622
+6,145
+-	
+With	treatment–please specify level of 
+treatment
+Note: Tertiary treatment
+3,071
+3,033
+(v)	
+Others
+-	
+No treatment
+0
+0
+Parameter
+FY 2021-22
+FY  2020-21
+-	
+With treatment – please specify level of 
+treatment
+0
+0
+Total water discharged (in kiloliters)
+10,694
+9,178
+Note: Indicate if any independent assessment/ evaluation/assurance has been 
+carried out by an external agency? (Y/N) If yes, name of the external agency.
+Yes. This data has been subject to independent assurance by Ernst & Young 
+Associates LLP (EY).
+4.	
+Please provide details of total Scope 3 emissions & its intensity, in the 
+following format87:
+Parameter
+Unit
+FY  2021-22
+FY 2020-21
+Total Scope 3 emissions (Break-
+up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if 
+available)
+Metric tonnes 
+of CO2 
+equivalent
+358,452
+234,614
+Category 1 – Purchased goods & 
+services 
+tCO2e
+12,020
+13,184
+Category 2 – Capital goods 
+tCO2e
+111,290
+128,230
+Category 3 Fuel and energy 
+related activities (not included in 
+Scope 1 or 2) 
+tCO2e
+52,415
+60,022
+Category 4 – Upstream 
+transportation and distribution 
+tCO2e
+7,542
+9,030
+87 GRI 305-3; GRI 305-4
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  226
+Parameter
+Unit
+FY  2021-22
+FY 2020-21
+Category 5 – Waste generated in 
+operations 
+tCO2e
+639
+492
+Category 7 – Employee 
+commuting
+(Work from home (WFH) emission 
+is included in this category as 
+per GHG protocol since both are 
+pandemic years)
+tCO2e
+139,50488 
+135,66789 
+Category 6 – Business travel 
+tCO2e
+35,043
+15,458
+Total Scope 3 emissions
+per rupee of turnover
+tCO2e/INR
+0.00000019
+0.00000022
+Total Scope 3 emission intensity 
+(optional)90 – the relevant metric 
+may be selected by the entity
+-
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been 
+carried out by an external agency? (Y/N) If yes, name of the external agency.
+Yes. This data has been subject to independent assurance by Ernst & Young 
+Associates LLP (EY).
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 
+of Essential Indicators above, provide details of significant direct & indirect 
+impact of the entity on biodiversity in such areas along-with prevention 
+and remediation activities91.
+88 This includes WFH emissions of 131,761 tCO2e for FY22
+89 Recalculated the FY 2021 values by including WFH emissions (127,469 tCO2e)
+90 Not calculated the emission intensity per full time employee (FTE) during the pandemic 
+years as very few employees were working out of offices.
+91 GRI 304-2; GRI 304-3
+Sr. 
+No
+Initiative undertaken
+Details of the initiative 
+(Web-link, if any, may 
+be provided along-with 
+summary)
+Outcome of the 
+initiative
+1
+Chandaka Wildlife sanctuary 
+authority has developed the 
+trench followed by 5 feet 
+wall with fencing along the 
+border of the sanctuary 
+so that the possibility 
+of elephants crossing 
+the trench is eliminated 
+hence, any impact of TCS 
+operations on wildlife is not 
+expected. However, TCS 
+has undertaken following 
+initiatives:
+●  Minimizing light pollution 
+around the wildlife sanctuary 
+●  Internal initiatives 
+within its campus towards 
+biodiversity conservation 
+and enhancement
+●  Internal initiatives 
+towards water and waste 
+management
+●  Installation of inward 
+facing low intensity 
+peripheral lights
+●  Plantation of native/ 
+indigenous plants, 
+medicinal and spice 
+garden, butterfly garden
+●  Provision of organic 
+waste technologies - 
+Vermicomposting and 
+organic waste converter 
+●  Provision of rainwater 
+harvesting structure and 
+sewage treatment plant 
+(STP)
+●  Inward direction 
+peripheral lights of 
+low intensity to avoid 
+any impact on wildlife 
+movement. High mast 
+lights in TCS parking area 
+are switched off after 
+11 pm.
+●  Protection of native/
+medicinal, plant species as 
+well as butterfly species.
+●  Garden and food waste 
+vermicomposting and 
+organic waste composting 
+technology has been 
+installed to generated 
+organic manure and it is 
+reused for landscaping. 
+●  100% treatment and 
+recycling of wastewater 
+inside the premises.
+●  Groundwater 
+recharging pits for 
+enriching the water table.
+	
+As a proactive initiative, TCS has included ‘Urban Biodiversity’ conservation 
+as an integral part of TCS Environmental Policy and its long-term plan for 
+sustainable development. Biodiversity action plan is implemented across 
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  227
+19 TCS campuses in India to conserve and enhance urban biodiversity. 
+Biodiversity mapping for various flora and fauna species is conducted on an 
+annual basis. TCS campuses across India are home to over 600 flora species 
+and 180+ fauna species. 10 species of IUCN category trees i.e., Endemic, 
+Endangered, Threatened, Vulnerable and Rare species, are protected within 
+TCS campuses.
+6.	
+If the entity has undertaken any specific initiatives or used innovative 
+technology or solutions to improve resource efficiency, or reduce impact 
+due to emissions / effluent discharge / waste generated, please provide 
+details of the same as well as outcome of such initiatives, as per the 
+following format:
+Sr. 
+No
+Initiative 
+undertaken
+Details of the initiative (Web-link, 
+if any, may be provided along-with 
+summary)
+Outcome of the 
+initiative
+1
+HVAC energy 
+efficiency projects
+Aged / inefficient air conditioners 
+upgraded with BEE star rated 
+equipment
+1,374,439 kWh 
+energy savings
+2
+UPS based energy 
+efficiency projects
+UPS resizing / consolidation/ upgrades 
+of old UPSs with Modular UPS /Energy 
+efficient UPS
+1,681,454 kWh 
+energy savings
+3
+Roof top solar 
+projects
+Completed the roof top solar projects 
+in Adi Balta (2,154 kWp) in Nov 21 and 
+TCS center (207 kWp) Kochi in Oct 21
+1,030,766 kWh 
+generation through 
+solar roof top
+7.	
+Does the entity have a business continuity and disaster management plan? 
+Give details in 100 words/ web link.
+	
+TCS has a well-established business continuity and disaster management 
+framework that is fully aligned to ISO 22301:2019, CMMI-SVC and is 
+integrated with other quality management systems for consistent deployment 
+across the organization. The function is governed by a trained pool of 
+subject matter experts (Crisis Management Leaders) at various levels of the 
+organization ensuring upkeep of business continuity plans, planning and 
+executing drills to achieve seamless resumption, in case of any disruption. The 
+entire process is integrated with other business processes through  
+in-house developed tools that support planning and communication with all 
+stakeholders. 
+8.	
+Disclose any significant adverse impact to the environment, arising from 
+the value chain of the entity. What mitigation or adaptation measures 
+have been taken by the entity in this regard92.
+	
+No significant adverse impact envisaged from TCS’ value chain.
+9.	
+Percentage of value chain partners (by value of business done with such 
+partners) that were assessed for environmental impacts93.
+	
+100% of the value chain partners were assessed for environmental impacts.
+92 GRI 308-2
+93 GRI 308-1, GRI 308-2
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  228
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory 
+policy, should do so in a manner that is responsible and transparent
+Essential Indicators
+1.	
+a.	
+Number of affiliations with trade and industry chambers/ associations94
+	
+	
+Ans. 10 in India. In addition, TCS also works through some of the 
+bilateral/ multilateral international chambers based out of India.  
+	
+b.	
+List the top 10 trade and industry chambers/ associations (determined 
+based on the total members of such body) the entity is a member of/ 
+affiliated to95
+Sr. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade 
+and industry 
+chambers/ 
+associations 
+(State/National)
+1
+NASSCOM
+National
+2
+Confederation of Indian Industry (CII)
+National
+3
+Federation of Indian Chambers of Commerce & Industry (FICCI)
+National
+4
+ASSOCHAM
+National
+5
+Public Affairs Forum of India 
+National
+6
+The Institute of Management Consultants of India
+National
+7
+British Business Promotion Association
+International
+8
+Indo American Chamber of Commerce
+National
+9
+All India Management Association
+National
+10
+Indo-Belgian-Luxembourg Chamber of Commerce and 
+Industry
+International
+94 GRI 2-28
+95 GRI 2-28
+2.	
+Provide details of corrective action taken or underway on any issues 
+related to anti-competitive conduct by the entity, based on adverse orders 
+from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+Not Applicable (No adverse order received in last Financial Year)
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable 
+development
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the 
+entity based on applicable laws, in the current financial year.96 
+Name and brief details 
+of project
+Whether conducted 
+by independent 
+external agency 
+(Yes/No)
+Results 
+communicated 
+in public domain 
+(Yes/No)
+Relevant web 
+link
+Tata Translational 
+Cancer Research Centre 
+(TTCRC) - Setting 
+up a cancer R&D 
+centre at Tata Medical 
+Cancer, Kolkata, where 
+researchers are working 
+together for developing/
+enhancing personalized 
+solutions for cancer 
+patients.
+Yes
+Yes
+https://on.tcs.
+com/IAR
+96 413-1
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  229
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and 
+Resettlement (R&R) is being undertaken by your entity, in the following 
+format:
+	
+Not applicable 
+3.	
+Describe the mechanisms to receive and redress grievances of the 
+community97.
+	
+All agreements between TCS and the stakeholders, contain clauses on 
+handling of grievances, disputes etc. Additionally, TCS’ Regional Leaders are 
+connected at the ground level and provide feedback for implementation if 
+any. Post program implementation, surveys and questionnaires capture the 
+feedback which is duly implemented.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from 
+suppliers98:
+ 
+FY 2021-22 
+FY 2020-21 
+Directly sourced from MSMEs / small 
+producers
+ -
+- 
+Sourced directly from within the district and 
+neighboring districts
+ -
+- 
+	
+Note:
+	
+•	
+The periodic exercise to validate the MSME status of existing vendors in 
+the empaneled list is currently underway. This data will be available from 
+the next reporting year.
+97 GRI 2-25, GRI 413-1
+98 GRI 204-1
+PRINCIPLE 9 Businesses should engage with and provide value to their 
+consumers in a responsible manner
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer 
+complaints and feedback99.
+	
+TCS’ customers are provided with multiple mechanisms to report complaints 
+or feedback. 
+	
+For privacy specific complaints, they can also raise incidents with TCS’ Data 
+Protection or Privacy Officers. The contact details of the data protection and 
+privacy officers is available in TCS website at https://www.tcs.com/privacy-policy 
+or as otherwise notified to the customers from time to time.
+	
+Each customer concern is addressed with utmost care at all levels. TCS teams 
+acknowledge, analyze the incidents and develop an action plan to resolve it. 
+The team engages with the customer, to validate the action plan and regularly 
+updates customers about the progress of action taken. Any feedback from 
+the customer is taken positively and action plans are refined to ensure utmost 
+customer satisfaction.
+2.	
+Turnover of products and/ services as a percentage of turnover from all 
+products/service that carry information about:
+	
+Not Applicable
+ 
+As a % to total 
+turnover
+Environmental and social parameters relevant to the product
+NA
+Safe and responsible usage
+NA
+Recycling and / or safe disposal
+NA
+99 GRI 2-25
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  230
+3.	
+Number of consumer complaints in respect of the following:
+ 
+FY 2021-22
+Remarks
+FY 2020-21 
+Remarks
+Received 
+during the year
+Pending resolution 
+at end of year
+Received during 
+the year
+Pending resolution 
+at end of year
+Data privacy
+ 6
+2
+TCS treats Customers as consumers;
+The breaches as confirmed by 
+customer was due to accidental data 
+sharing with unintended recipients
+ 13
+ 0
+TCS treats Customers as 
+consumers; The breaches as 
+confirmed by customer was 
+due to accidental data sharing 
+with unintended recipients
+Advertising
+NA
+NA
+NA
+NA
+NA
+NA
+Cyber-security
+NIL
+NIL
+NIL
+NIL
+ NIL
+NIL
+Delivery of essential services
+NA
+NA
+NA
+NA
+NA
+NA
+Restrictive Trade Practices
+NA
+NA
+NA
+NA
+NA
+NA
+Unfair Trade Practices
+NA
+NA
+NA
+NA
+NA
+NA
+4.	
+Details of instances of product recalls on account of safety issues:
+	
+Not applicable as TCS does not have any products that can entail safety issues 
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a web-link of the policy100.
+	
+Yes. 
+	
+From data privacy aspects, TCS’ commitment to privacy is espoused in its TCS Global Privacy Policy. This is accessible at https://www.tcs.com/privacy-policy-commitment.
+	
+TCS has defined and implemented a Global Privacy policy that is applicable to all its legal entities, branches, lines of businesses and functions. The global privacy policy is 
+a “gold standard of privacy” addressing applicable privacy regulations and based on inputs from industry bodies dealing with privacy. 
+100 GRI 2-23
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  231
+	
+The Global Privacy policy covers all stakeholders 
+across the value chain 	including – employees 
+(full-time and contracted), customers, partners, 
+vendors/suppliers, and any other stakeholder 
+whose Personal Data is processed. All third 
+parties (vendors/suppliers) are engaged / 
+contracted with adequate due diligence, and 
+commitment towards privacy obligations.
+	
+From a cyber security aspect, TCS has 
+implemented cutting edge security tools to 
+protect itself from external as well as internal 
+threats.
+	
+TCS has moved to a proactive early detection 
+approach. Any approach to protect an 
+organization from threats, needs to focus 
+on all the risks and learnings from various 
+attacks, understanding the modus operandi 
+of the attacker and ensure that adequate 
+processes and latest in technology are 
+implemented to protect and provide proactive 
+detection capabilities. TCS has implemented a 
+comprehensive threat intelligence framework 
+to proactively identify external threats as they 
+unfold globally, be it a ransomware propagation, 
+a nation state actor group, attackers for purely 
+monetary gain etc. The threat intelligence 
+framework includes gathering intel on external 
+threats by means of commercial, government, 
+open source and vendor security feeds, threat 
+hunting in dark web, analyse new attack patterns 
+and constantly monitoring the publication of 
+vulnerabilities or various tools and software 
+in use in the organization. The threat intel 
+information is processed in TCS’ AI/ML based 
+correlation tools and automated scripts ensure 
+that the indicators of compromise from the 
+threat feeds are automictically blocked on the 
+perimeter devices.
+	
+TCS has also rearchitected its network and 
+has implemented tools in tandem to work in 
+a defence in depth model to provide a holistic 
+protection against threat vectors/actors. 
+The defence in depth model has a strong 
+multi-layered perimeter setup consisting 
+of Next Gen Firewalls, Intrusion Prevention 
+Systems, DDoS attack protection for critical 
+resources, Web Application Firewalls, Advanced 
+malware protection and other email gateway 
+security controls. TCS network design is 
+compartmentalized for every customer and 
+critical resources to ensure that the services 
+provided to each customer remains isolated. 
+This network design ensures that if there is an 
+impact at one customer end, say a ransomware 
+attack on a customer network, the segregated 
+network along with the company’s incident 
+response process ensures that there is no 
+impact to other network segments.
+	
+In addition to the perimeter defences, TCS has 
+implemented technical controls and processes 
+within the network to protect the information 
+resources. Tools based on machine learning that 
+can detect and prevent known and unknown 
+ransomware, malware and active intruder 
+attempts to exploit like lateral movement, 
+privilege escalation or credential dumping in 
+addition to many other malicious actions. AI/
+ML tools that can detect behaviour anomalies 
+of users. Tools that can correlate audit logs 
+from various sources. Alerts from these tools 
+are monitored 24x7x365 by the TCS Cyber 
+Security Operations Center.
+	
+TCS has also implanted a strong vulnerability 
+management program which includes 
+proactively identifying vulnerabilities in its 
+network and systems by conducting periodic 
+vulnerability assessments, penetration tests and 
+red team exercises.
+6.	
+Provide details of any corrective actions 
+taken or underway on issues relating to 
+advertising, and delivery of essential services; 
+cyber security and data privacy of customers; 
+re-occurrence of instances of product 
+recalls; penalty / action taken by regulatory 
+authorities on safety of products / services.
+	
+Please refer to the answer to Q.5 above. All the 
+initiatives explained above has ensured that TCS 
+did not have any incidents leading to regulatory 
+issues / penalties. 
+Integrated Annual Report 2021-22
+Business Responsibility & Sustainability Report  |  232
+Leadership Indicators
+1.	
+Channels / platforms where information on 
+products and services of the entity can be 
+accessed (provide web link, if available).
+	
+www.tcs.com
+2.	
+Steps taken to inform and educate consumers 
+about safe and responsible usage of products 
+and/or services.
+	
+Not applicable, as TCS does not have any 
+products/services that can entail safety issues or 
+a usage abuse.
+3.	
+Mechanisms in place to inform consumers 
+of any risk of disruption/discontinuation of 
+essential services.
+	
+Each customer relationship in TCS has a 
+business continuity mechanism to handle any 
+disruption of services/products and a suitable 
+communication plan.
+4.	
+Does the entity display product information 
+on the product over and above what is 
+mandated as per local laws? (Yes/No/Not 
+Applicable) If yes, provide details in brief. Did 
+your entity carry out any survey with regard 
+to consumer satisfaction relating to the major 
+products / services of the entity, significant 
+locations of operation of the entity or the 
+entity as a whole? (Yes/No)
+	
+Not Applicable
+5.	
+Provide the following information relating to 
+data breaches:
+	
+Number of instances of data breaches along-
+with impact : As a data fiduciary, TCS has not 
+had any data breach incidents in FY 2022.
+	
+a.	
+Percentage of data breaches involving 
+personally ide3ntifiable information of 
+customers : 0%

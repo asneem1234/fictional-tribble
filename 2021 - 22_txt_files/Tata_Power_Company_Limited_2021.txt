@@ -1,0 +1,2726 @@
+Business Responsibility & Sustainability Report
+The Tata Power Company Limited (Tata Power/the Company) is one of India’s largest integrated power companies with presence 
+across the power value chain viz. generation of renewable and conventional power including hydro and thermal energy; transmission, 
+distribution and trading. Tata Power is committed to sustainable and clean energy development and is shaping the power sector 
+transformation through new business models in EV charging, Solar rooftop and pumps, Microgrids, storage solutions, ESCO, Home 
+automation and smart meters.
+Tata Power believes in conducting its business activities in a responsible and sustainable manner and is aligned to the United Nations 
+Sustainable Development Goals (SDGs). In consonance with the Materiality assessment, 9 SDGs, 4 business SDGs and 5 CSR SDGs have 
+been prioritized for focused action in achieving Tata Power's vision to ‘Empower a billion lives through sustainable, affordable 
+and innovative energy solutions’. 
+On March 31, 2022, Tata Power together with its subsidiaries and jointly controlled entities, had an installed/managed capacity of 
+13,515 MW based on various fuel sources - thermal (coal, oil, gas), hydroelectric power, renewable energy (wind and solar PV) and waste 
+heat recovery. The Company (including its subsidiaries) has 34% of its capacity (in MW terms) in clean and green generation sources 
+(hydro, wind, solar and waste heat recovery). Tata Power is currently serving more than 12 million consumers via its Discoms, under 
+public-private partnership model viz. Tata Power Delhi Distribution Limited with the Government of National Capital Territory of Delhi 
+in North and North West Delhi, TP Northern Odisha Distribution Limited, TP Central Odisha Distribution Limited, TP Western Odisha 
+Distribution Limited and TP Southern Odisha Distribution Limited with Government of Odisha.
+The Business Responsibility & Sustainability Report (BRSR) is provided in lieu of Business Responsibility Report (BRR) and is aligned with 
+the National Voluntary Guidelines (NVGs) on Social, Environmental and Economic Responsibilities of Business, issued by the Ministry 
+of Corporate Affairs (MCA) and is in accordance with clause (f) of sub-regulation (2) of Regulation 34 of the Securities and Exchange 
+Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended from time to time (Listing Regulations). 
+Your Company's Business Performance and Impacts are disclosed based on the 9 Principles as mentioned in the NVGs.
+Principle 3
+Employee  
+Well-Being
+Principle 1
+Ethics, Transparency 
+& Accountability
+Principle 2
+Product Life 
+Cycle Sustainability
+Principle 4
+Stakeholder 
+Engagement
+Principle 5
+Human Rights
+Principle 6
+Environment
+Principle 7
+Policy Advocacy
+Principle 8
+Inclusive Growth 
+and Equitable 
+Development
+Principle 9
+Customer 
+Value 
+Creation
+Integrated Annual Report 2021-22
+More Power to you
+194
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+II.	 Products/services
+14.	
+Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of 
+Main Activity
+Description of Business Activity
+% of Turnover 
+of the entity
+1
+Generation
+Comprises generation of power from hydroelectric sources and thermal sources (coal, gas and oil) 
+from plants owned and operated under lease arrangement and related ancillary services. It also 
+comprises coal - mining, trading, shipping and related infra business.
+17.5
+2
+Renewables
+Comprises generation of power from renewable energy sources i.e. wind and solar. It also comprises 
+EPC and maintenance services with respect to solar.
+17.1
+3
+Transmission & 
+Distribution
+Comprises transmission and distribution network, sale of power to retail customers through 
+distribution network and related ancillary services.
+It also comprises power trading business.
+64.7
+15.	
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% of total 
+Turnover 
+contributed
+1
+Electric Power Generation, Transmission and Distribution
+351
+99.3
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1.	
+Corporate Identity Number (CIN) of the Listed Entity: 
+L28920MH1919PLC000567
+2.	
+Name of the Listed Entity: The Tata Power Company Limited
+3.	
+Year of incorporation: 1919 
+4.	
+Registered office address: Bombay House, 24, Homi Mody 
+Street, Mumbai - 400 001, Maharashtra, India
+5.	
+Corporate address: Corporate Center, 34 Sant Tukaram 
+Road, Carnac Bunder, Mumbai - 400 009, Maharashtra, India
+6.	
+E-mail: tatapower@tatapower.com 
+7.	
+Telephone: 022-6665 8282
+8.	
+Website: www.tatapower.com 
+9.	
+Financial year for which reporting is being done: April 
+2021 - March 2022
+10.	
+Name of the Stock Exchange(s) where shares are listed: 
+BSE Limited and National Stock Exchange of India Limited 
+11.	
+Paid-up Capital:  ₹ 319.56 crore
+12.	
+Name and contact details (telephone, email address) of 
+the person who may be contacted in case of any queries 
+on the BRSR report: Ms. Jyoti Kumar Bansal, Chief-Branding, 
+Corp Communication, CSR & Sustainability
+	
+Email – jyotikumar.bansal@tatapower.com
+	
+Contact Number: 022-6717 1666
+13.	
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e. only for the 
+entity) or on a consolidated basis (i.e. for the entity and 
+all the entities which form a part of its consolidated 
+financial statements, taken together): Consolidated basis
+Integrated Annual Report 2021-22
+More Power to you
+195
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+Business Responsibility & Sustainability Report
+III.	 Operations
+16.	 Number of locations where plants and/or operations/offices of the entity are situated:
+State
+Total
+Hydro
+Wind
+Solar
+Thermal
+Transmission
+Distribution
+Andhra Pradesh
+6
+Nil
+1 
+5 
+Nil
+Nil
+Nil
+Andaman & Nicobar
+1
+Nil   
+Nil
+1 
+Nil
+Nil
+Nil
+Bihar
+2
+Nil   
+Nil
+2 
+Nil
+Nil
+Nil
+Delhi
+30
+Nil  
+Nil
+27 
+1 
+1 
+1 
+Goa
+1
+Nil   
+Nil
+1 
+Nil
+Nil
+Nil
+Gujarat
+14
+Nil
+5 
+8 
+1 
+Nil
+Nil
+Haryana
+2
+Nil
+Nil
+2 
+Nil
+Nil
+Nil
+Jharkhand
+10 
+Nil
+Nil
+7 
+3 
+Nil
+Nil
+Karnataka
+14 
+Nil
+1 
+13 
+Nil
+Nil
+Nil
+Madhya Pradesh
+2 
+Nil
+1 
+1 
+Nil
+Nil
+Nil
+Maharashtra
+48 
+3 
+9 
+33 
+1 
+1 
+1 
+Odisha
+5 
+Nil
+Nil
+Nil
+1 
+Nil
+4 
+Punjab
+1 
+Nil
+Nil
+1 
+Nil
+Nil
+Nil
+Rajasthan
+12 
+Nil
+4 
+7 
+Nil
+Nil
+1 
+Tamil Nadu
+9 
+Nil
+2 
+7 
+Nil
+Nil
+Nil
+Telangana
+5 
+Nil
+Nil
+5 
+Nil
+Nil
+Nil
+Uttar Pradesh
+6 
+Nil
+Nil
+5 
+1 
+Nil
+Nil
+Uttarakhand
+6 
+Nil
+Nil
+6 
+Nil
+Nil
+Nil
+West Bengal
+5 
+Nil
+Nil
+4 
+1 
+Nil
+Nil
+Total
+179 
+Nil
+23 
+135 
+9 
+2 
+7 
+	
+Location
+Total number of plants 
+and/or operations/offices
+National
+179
+International
+7
+17.	
+Markets served by the entity:
+	
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+19 (including 4 license areas -Ajmer, Delhi, Odisha and Mumbai)
+International (No. of Countries)
+7 (Bhutan, Georgia, Indonesia, Singapore, Zambia, South Africa and Mauritius)
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity? Nil
+c.	
+A brief on types of customers:  Tata Power serves B2G, B2B and B2C customers meeting their energy requirements across 
+the power value chain. Please refer the Customer section of the Integrated Report FY22 (Pages 52-59). 
+Integrated Annual Report 2021-22
+More Power to you
+196
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+IV.	 Employees
+18.	 Details as at the end of Financial Year:
+	
+a.	
+Employees and workers (including differently abled): 
+S No.
+Particulars
+Total  
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C )
+% (C/A)
+EMPLOYEES
+1.
+Permanent (D)
+ 19,495 
+ 18,009 
+92.38
+ 1,486 
+7.62
+2.
+Other than Permanent (E )
+ 2,141 
+ 1,875 
+87.58
+ 266 
+12.42
+3.
+Total Employees (D + E)
+ 21,636 
+ 19,884 
+91.90
+ 1,752 
+8.10
+WORKERS
+4.
+Permanent (F)
+Nil
+Nil
+NA
+Nil
+NA
+5.
+Other than Permanent (G )
+ 44,311 
+ 43,408 
+97.96
+ 903 
+2.04
+6.
+Total Employees (F + G)
+ 44,311 
+ 43,408 
+97.96
+ 903 
+2.04
+	
+b.	
+Differently abled Employees and workers: 
+S No.
+Particulars
+Total  
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C )
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent
+ 34 
+ 31 
+91.18
+ 3 
+8.82
+19.	
+Participation/Inclusion/Representation of women 
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+10
+2
+20
+Key	Management Personnel
+3
+Nil
+Nil
+20.	 Turnover rate for permanent employees and workers (Disclose trends for the past 3 years): 
+FY22
+FY21
+FY20
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+1.89%
+5.92%
+2.20%
+1.82%
+3.59%
+1.95%
+4.26%
+10.12%
+4.82%
+V.	 Holding, Subsidiary and Associate Companies (including joint ventures)
+21.	
+Names of holding / subsidiary / associate companies / joint ventures: As on March 31, 2022, the Company had 61 subsidiaries, 
+32 Joint Ventures (JVs) and 5 Associates. Of the subsidiaries, 3 companies have been classified as JVs under Indian Accounting 
+Standards (Ind AS). Please refer page nos. 350 and 437 of the Integrated Report FY22.
+VI.	 CSR Details
+22.	 Tata Power, in alignment to its CSR policy, Schedule VII to the Companies Act, 2013 and the 5 prioritised CSR SDGs undertakes 
+initiatives across three themes viz. Education (including Financial and Digital Literacy), Employability and Employment (Skilling 
+for Livelihoods) and Entrepreneurship. Tata Power has covered 13.67 lakh beneficiaries in 65+ operating sites across 15 states 
+utilizing ` 32.8 crore CSR funds.
+	
+(i) 	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+	
+(ii)	
+Turnover (in `): ₹ 42,576 crore
+	
+(iii)	 Net worth (in `): ₹ 26,028 crore
+	
+The highlights of Tata Power Group entities’ CSR interventions are reported in the Integrated Report FY22 (Pages 62-67). 
+Integrated Annual Report 2021-22
+More Power to you
+197
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+Business Responsibility & Sustainability Report
+VII.	Transparency and Disclosures Compliances
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+	
+Being a Tata Group company, Tata Power abides by the Tata Code of Conduct (TCoC), which is a comprehensive document for 
+ethical conduct for all internal and external stakeholders of the  Company, thus, covering 100% of its operations. TCoC consists 
+10 sections with sub-clauses that cover employees, customers, communities and the environment, value chain partners, financial 
+stakeholders, governments and group companies. The TCoC extends to Group JVs/Subsidiaries/Suppliers/Contractors. There are 
+defined channels for receiving complaints/grievances from stakeholders and these are addressed with expediency in upholding 
+the ethical standards practiced in the Group.
+Stakeholder 
+group from whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place (Yes/
+No) (If Yes, then provide 
+web-link for grievance 
+redress policy)
+FY22
+FY21
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+ Yes 
+https://www.tatapower.
+com/contact/
+community-relations.
+aspx 
+2
+Nil
+NA
+Nil
+Nil
+NA
+Investors 
+(other	 than 
+Shareholders)
+Yes
+https://www.tatapower.
+com/contact/registered-
+office.aspx  
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Shareholders
+Yes 
+https://www.tcplindia.
+co.in/InvestorCharter.
+html  
+39
+1
+Complaint of Mr. J. 
+P. Balasubramanian, 
+received through 
+SEBI and brought 
+forward from 
+last year, remains 
+pending for closure 
+at SEBI's end.
+13
+Nil
+NA
+Employees and 
+workers
+Yes
+https://www.tatapower.
+com/pdf/aboutus/
+whistle-blower-policy-
+and-vigil-mechanism.
+pdf
+85
+Nil
+NA
+63
+2
+The 
+complaints 
+pending have 
+been duly 
+resolved.
+Customers
+13
+Nil
+NA
+1
+Nil
+NA
+Value Chain 
+Partners
+28
+Nil
+NA
+15
+Nil
+NA
+Other (including
+contract workers, 
+anonymous, 
+trainees, etc)
+1
+Nil
+NA
+Nil
+Nil
+NA
+	
+    Above complaints of various stakeholders are only relating to concerns raised through the TCoC channel.
+24.	 Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications: 
+Materiality Assessment is a foundational aspect of Integrated Reporting at Tata Power given the influence material issues have 
+on the business activities, stakeholders and their ability to create sustainable value. In FY20, the Company undertook a new 
+materiality assessment methodology in accordance with the IIRC framework to gain a detailed understanding of the most 
+Integrated Annual Report 2021-22
+More Power to you
+198
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+relevant matters that could impact the Company's business in the short, medium and long term and the Company re-visits the 
+material issues annually to factor in any realignment due to evolving business environment. Please refer section on Materiality 
+assessment in Integrated Report FY22 (Pages 44-45).
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the 
+NGRBC Principles and Core Elements.
+Tata Power has a well-established Sustainability Governance Structure to benchmark, implement and monitor sustainability aligned 
+decisions and actions. The sustainability performance funnels into the Apex Leadership team and the CSR Committee at Board 
+for guidance. 
+Apex 
+leadership
+SBU Heads
+Corporate 
+Sustainability Team
+Sustainability  SPOCs 
+Thermal, T&D, Hydros, Renewables, HR,  
+CSR, Ethics, IA&RM,  Environment, etc.
+SUSTANABILITY GOVERNANCE STRUCTURE
+Disclosure Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Policy and management processes
+1. a.    Whether your entity’s policy/policies cover each principle and its core 
+elements of the NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+     b.   Has the policy been approved by the Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+     c.   Web Link of the Policies, if available
+https://www.tatapower.com/corporate/policies.aspx
+2.        Whether the entity has translated the policy into procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.        Do the enlisted policies extend to your value chain partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4.     	 Name of the national and international codes/certifications/labels/ 
+standards (e.g. Forest Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustea) standards (e.g. SA 8000, OHSAS, ISO, BIS) adopted by 
+your entity and mapped to each principle.
+Tata Power policies are based on the NVG principles and conform 
+to the International standards like ISO 9000, 14000, and 45001, 
+UNGC principles, ILO principles and United Nations SDGs. Tata 
+Power follows GRI standards for measuring and reporting its 
+sustainability performance, reports to Carbon Disclosure Project 
+(CDP) on Climate Change and Water and has also committed to 
+Science Based Targets initiative (SBTi)
+5.	
+   Specific commitments, goals and targets set by the entity with defined 
+timelines, if any.
+Please refer 'Embedding ESG factors in business' section on Page 
+23 of the Integrated Report FY22
+6.        Performance of the entity against the specific commitments, goals and 
+targets along-with reasons in case the same are not met.
+Please refer 'Strategy' section on Pages 20-22 of the 
+Integrated Report FY22
+Governance, leadership and oversight
+7.	
+   Statement by director responsible for the business responsibility 
+report, highlighting ESG related challenges, targets and achievements 
+(listed entity has flexibility regarding the placement of this disclosure)
+Please refer 'Message from the CEO & MD' on Pages 8-9 of the 
+Integrated Report FY22
+Integrated Annual Report 2021-22
+More Power to you
+199
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+Business Responsibility & Sustainability Report
+Disclosure Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+8.        Details of the highest authority responsible for implementation and 
+oversight of the Business Responsibility policy (ies).
+Dr. Praveer Sinha, CEO & Managing Director (DIN: 01785164) 
+9.         Does the entity have a specified Committee of the Board / Director 
+responsible for decision making on sustainability related issues? (Yes / 
+No). If yes, provide details.
+Corporate Social Responsibility Committee (CSR Committee). 
+For composition of CSR Committee, please refer Page 169 of the 
+Integrated Report FY22. 
+10.      Details of Review of NGRBCs by the Company*
+            Performance against above policies and follow up action
+            - Indicate whether review was undertaken by Director / Committee of the 
+Board / Any other Committee
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+            - Frequency **
+A
+A
+A
+A
+A
+A
+A
+Q
+A
+Compliance with statutory requirements of relevance to the principles, 
+and, rectification of any non-compliances
+            - Indicate whether review was undertaken by Director / Committee of the 
+Board / Any other Committee
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+            - Frequency** 
+A
+A
+A
+A
+A
+A
+A
+Q
+A
+11.      Has the entity carried out independent assessment / evaluation of the 
+working of its policies by an external agency? (Yes/No). If yes, provide 
+name of the agency.***
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+*	
+Reviews are conducted periodically, however specific issues on NGRBCs are also addressed on a need to need basis.
+	
+** 	 A - Annually, Q - Quarterly
+	 *** 	The policies and performance on its working is part of the Tata Business Excellence Model (TBEM) assessments of Tata Power. Any opportunities for 
+improvement are addressed through implementation of TBEM action plan.
+12. 	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+	
+Not Applicable since the policies of the Company cover all Principles on NGRBCs.
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key 
+processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential indicators are 
+expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed by 
+entities which aspire to progress to a higher level in their quest to be socially, environmentally and ethically responsible.
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Tata Power is guided by the principles of the TCoC and TBEM. The Company requires its employees to be aware of the TCoC 
+and conduct themselves in line with the principles outlined therein. There are regular training sessions for new inductees and 
+annual online certification/re-certification on the learning platform which are required to be completed to ensure thorough 
+dissemination of what is considered ethical conduct and the repercussions of non-adherence.
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics / principles covered under the training and 
+its impact
+% age of persons in 
+respective category 
+covered by the awareness
+programmes
+Board of Directors
+During the year, the Board engaged in various updates pertaining to 
+business, regulatory, safety, ESG matters, etc. These topics provided 
+insights on the said Principles.
+100
+Key Managerial Personnel
+2
+TCoC, ESG
+100
+Employees other than BoD and KMPs
+254
+TCoC, Business Ethics and values
+100
+Workers
+195
+TCoC, Business Ethics and values
+100
+Integrated Annual Report 2021-22
+More Power to you
+200
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+2.	
+Details of fines / penalties / punishment / award / compounding fees / settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies / judicial institutions, in the financial year. (Note: 
+the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of the Listing Regulations, 2015 
+and as disclosed on the entity’s website):  
+	
+For FY22, there were no cases pending pertaining to unfair trade practices, irresponsible advertising and/or anti-competitive 
+behavior. Additionally, there were no cases of corruption, with reference to the employees or the business partners.
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or 
+non-monetary action has been appealed: 
+	
+Not Applicable
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a 
+web-link to the policy:
+	
+In the TCoC, clause 10, section D: Our Employees, the guidance on Bribery and Corruption is outlined as: Our employees and 
+those representing us, including agents and intermediaries, shall not, directly or indirectly, offer or receive any illegal or improper 
+payments or comparable benefits that are intended or perceived to obtain undue favours for the conduct of our business.
+	
+Emphasis is laid on violation by even a single employee of any law relating to anti-bribery, anti-corruption, anti-competition, data 
+privacy, etc. resulting in severe financial penalties and irreparable reputational damage to the Company.
+	
+https://www.tatapower.com/pdf/aboutus/Tata-Code-of-Conduct.pdf 
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+	
+No Directors/KMPs/employees/workers were involved in bribery/corruption both in FY22 and FY21. On above grounds, no action 
+was taken by any law enforcement agency.
+6.	
+Details of complaints with regard to conflict of interest:
+	
+No complaints were received with regard to conflict of interest against Directors/KMPs in FY22 and FY21.
+7. 	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators / law enforcement agencies / judicial institutions, on cases of corruption and conflicts of interest: 
+	
+Not applicable
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively:
+FY22
+(%)
+FY21
+(%)
+Details of improvements in environmental and social impacts
+R&D
+100
+100
+Please refer section on Research and Development in Annexure III to the Board's 
+Report (Page no. 133 of the Integrated Report FY22)
+Capex
+63
+41
+Capex represents spend on clean and green business
+Integrated Annual Report 2021-22
+More Power to you
+201
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+Business Responsibility & Sustainability Report
+2.	
+a. 	
+Does the entity have procedures in place for sustainable sourcing? 
+	
+	
+Yes
+	
+b. 	
+If yes, what percentage of inputs were sourced sustainably? 
+	
+Tata Power has policies and robust process to ensure sustainable sourcing from Business Associates. The Company's 
+Responsible Supply Chain Management Policy (RSCM) governs all the engagements with Business Associates. The Company 
+also evaluates Business Associates commitment to the Company's RSCM policy during selection / award of any material 
+contracts. The Business Associates share same commitment as enunciated in Tata Power Corporate Environment policy, 
+Energy Conservation and Corporate Sustainability Policy.  The terms and conditions of business are structured and uniform 
+across divisions to ensure business process standardization and governance. 
+	
+Tata Power practices responsible sourcing with respect to environment, safety, human rights and ethics, apart from 
+economic considerations. Strict conformation to labour principles and related laws are mandatory requirements for all 
+suppliers to qualify. Work method and standards, along with performance of supply and services, form a critical part of 
+technical evaluation. In addition, safety evaluation and qualification are an integral part for the award and online vendor 
+registration process. Please refer page nos. 60 and 61 of the Integrated Report FY22.
+	
+100% of the non-fuel inputs sourced from Corporate Contracts are sourced sustainably.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, 
+for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste: 
+Tata Power believes in going beyond compliance and has taken numerous steps to improve waste management practices across 
+its operations. All businesses are optimized to minimise waste generation through evaluation of various options of resources, 
+technologies and processes. These processes are also continuously reviewed and improvement initiatives are suitably undertaken 
+and monitored for effectiveness. There are policies in place to ensure effective waste management including: 
+https://www.tatapower.com/pdf/aboutus/ash-policy.pdf
+https://www.tatapower.com/pdf/aboutus/e-waste-mgmt-policy.pdf
+The major waste for Tata Power is the Fly Ash generated from thermal power stations. This is redirected towards construction (Ready 
+Mix Concrete as per Fly Ash Notification) and Quarry filling (as per SPCB No Objection Certificate). Tata Power’s endeavour is to utilize 
+the bottom ash as well in line with MoEFCC guidelines. For the renewable operations, Tata Power conducted a study on end-of-life 
+considerations for photovoltaic solar panels. The study portrays future projections with respect to PV panel waste quantum, disposal 
+problems and how to address them through technology and advocacy. Please refer page no. 81 of the Integrated Report FY22.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the 
+waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same. 
+Extended Producer Responsibility is currently not applicable to Tata Power’s activities. However, waste management plan of the 
+Company considers the evolving regulations both from a waste minimization and recycling/reuse perspective. Tata Power also 
+engages its communities to propagate plastic reuse through its energy and resource conservation programs.
+Integrated Annual Report 2021-22
+More Power to you
+202
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their 
+value chains
+Essential Indicators
+1. 	
+a. Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total (A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number 
+(B)
+% (B / A)
+Number 
+(C)
+% (C / A)
+Number 
+(D)
+% (D / A)
+Number 
+(E)
+% (E / A)
+Number 
+(F)
+% (F / A)
+Permanent employees
+Male
+ 18,009 
+ 18,009 
+100
+ 18,009 
+100
+ 18,009 
+100
+ 18,009 
+100
+ 18,009 
+100
+Female
+ 1,486 
+ 1,486 
+100
+ 1,486 
+100
+ 1,486 
+100
+ 1,486 
+100
+ 1,486 
+100
+Total
+ 19,495 
+ 19,495 
+100
+ 19,495 
+100
+ 19,495 
+100
+ 19,495 
+100
+ 19,495 
+100
+Other than Permanent employees
+Male
+ 1,875 
+ 1,875 
+100
+ 1,875 
+100
+ 1,875 
+100
+Nil
+NA
+ 1,875 
+100
+Female
+ 266 
+ 266 
+100
+ 266 
+100
+ 266 
+100
+Nil
+NA
+ 266 
+100
+Total
+ 2,141 
+ 2,141 
+100
+ 2,141 
+100
+ 2,141 
+100
+Nil
+NA
+ 2,141 
+100
+	
+b. Details of measures for the well-being of workers:
+	
+The Company ensures that all statutory benefits are extended to contract workforce.
+2. 	
+Details of retirement benefits, for Current FY and Previous Financial Year:
+Benefits
+FY22
+FY21
+No. of employees 
+covered as a % of
+total employees
+No. of workers 
+covered as a % of
+total workers
+Deducted and 
+deposited with the
+authority (Y/N/N.A.)
+No. of employees 
+covered as a % of
+total employees
+No. of workers 
+covered as a % of
+total workers
+Deducted and 
+deposited with the
+authority (Y/N/N.A.)
+PF
+100
+100
+Y
+100
+100
+Y
+Gratuity
+100
+100
+Y
+100
+100
+Y
+ESI
+100
+100
+Y
+100
+100
+Y
+3.	
+Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements 
+of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard. 
+	
+Yes
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide 
+a web-link to the policy. 
+	
+In line with Tata Power's philosophy of holistic and inclusive development, TPCDT, partnered with the Center for Autism and 
+other Disabilities Rehabilitation Research and Education (CADRRE) to launch 'PAY AUTENTION - A different mind is a gifted mind', 
+India's first bridgital Autism support network:
+	
+https://www.tatapower.com/sustainability/social-capital/pay-autention.aspx
+	
+https://www.tatapower.com/pdf/aboutus/Tata-Code-of-Conduct.pdf
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave: 
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+        (%)
+Retention rate
+(%)
+Return to work rate
+ (%)
+Retention rate
+ (%)
+Male
+93.39
+91.00
+There are no permanent workers in the 
+Company.   
+Female
+48.33
+92.00
+Total
+84.44
+91.00
+Integrated Annual Report 2021-22
+More Power to you
+203
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+Business Responsibility & Sustainability Report
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? 
+If yes, give details of the mechanism in brief:
+If yes, give details of the mechanism in brief
+Permanent Workers
+Yes, the Company has multiple mechanisms to redress grievances such as 
+Suraksha (safety), TCoC (ethics) and Connect to Solve (HR and admin) platforms 
+on Sangam, an internal portal.
+Other than Permanent Workers
+Permanent Employees
+Other than Permanent Employees
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity: 
+Category
+FY22
+FY21
+Total
+employees / workers 
+in respective 
+category
+(A)
+No. of employees /
+workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union
+(B)
+% (B/A)
+ 
+Total
+employees / workers 
+in respective 
+category
+(C)
+No. of employees /
+workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union
+(D)
+% (D/C)
+ 
+Total Permanent Employees
+Male
+ 18,009 
+ 9,911 
+55.03
+ 15,584 
+ 9,273 
+59.50
+Female
+1,486
+ 401 
+26.99
+ 1,227
+ 377
+30.73
+8.	
+Details of training given to employees and workers*:
+Category
+FY22
+FY21
+Total (A)
+On Health and safety 
+measures
+On Skill 
+upgradation
+Total (D)
+On Health and safety 
+measures
+On Skill 
+upgradation
+No. 
+(B)
+% 
+(B / A)
+No. 
+(C)
+% 
+(C / A)
+No.
+(E)
+% 
+(E / D)
+No.
+(F)
+% 
+(F / D)
+Permanent employees
+Male
+4,437
+3,286
+74.06
+3,583
+80.75
+4,247
+2,205
+51.92
+3,025
+71.23
+Female
+538
+443
+82.34
+481
+89.41
+425
+266
+62.59
+369
+86.82
+Total
+4,975
+3,729
+74.95
+4,064
+81.69
+4,672
+2,471
+52.89
+3,394
+72.65
+	
+	 *Includes Tata Power, Mundra, TPTCL, IEL, MPL, TPREL, TPRMG, PTL, TPCDT, TPSSL, TPADL, WREL, TERPL, TPIPL and FENR
+	
+All the employees have access to relevant learning and development opportunities. The Company has a robust e-learning 
+platform which is coupled with other online and offline interventions. The learning needs are identified by a combination of self, 
+manager and department head and classified under functional, behavioral and organizational needs.
+9.	
+Details of performance and career development reviews of employees and worker:	
+Category
+FY22
+FY21
+Total 
+(A)
+No.  
+(B)
+% (B/A)
+ 
+Total 
+(C)
+No.  
+(D)
+% (D/C)
+ 
+Employees
+Male
+ 19,884 
+ 19,884 
+100
+ 17,134 
+ 17,134 
+100
+Female
+ 1,752 
+ 1,752 
+100
+ 1,492 
+ 1,492 
+100
+Total
+ 21,636 
+ 21,636 
+100
+ 18,626 
+ 18,626 
+100
+	
+All the employees undergo Performance and Career Development Reviews. The Company has a robust IT tool to conduct the 
+same. Discussions are carried out periodically and feedback for development is provided.
+	
+Performance review of workers are determined on the basis of Productivity Linked Performance Based Contract (PLPBC).
+Integrated Annual Report 2021-22
+More Power to you
+204
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+10.	
+Health and safety management system:
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). 
+If yes, the coverage such system? 
+	
+Yes, safety is a core value over which no business objective can have a higher priority. Tata Power Safety Management 
+Framework covers all the business activities and the same are aligned with the Tata Group Health and Safety Management 
+System as well as ISO 45001:2018 requirements. The coverage is 100% and includes all employees and workers.
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis 
+by the entity? 
+	
+Tata Power Safety Management System (TPSMS) comprises followings safety processes for identifying Work related hazards 
+and assess risks on routine and non-routine basis-
+i.	
+Safety Leadership and accountability with OH&S Objective Planning 
+ii.	
+Hazard Identification Risk Assessment and Risk Management 
+iii.	
+Design, Construction, Operational planning and control 
+iv.	
+People Competency Behaviours 
+v.	
+Communication, Consultation and Participation
+vi.	
+Observation Incident Nonconformity reporting, Investigation and Learning 
+vii.	 Change Management Process 
+viii.	 Contractor Safety Management 
+ix.	
+Measurement, monitoring and review 
+x.	
+Fire Detection Protection System Management
+c.	
+Whether you have processes for workers to report the work related hazards and to remove themselves from such 
+risks.  
+	
+Yes, the Company has an established Hazard Identification and Risk Assessment (HIRA) process for both routine and non-
+routine jobs and routinely provides HIRA and Job Safety Assessment (JSA) trainings to operation, maintenance and service 
+engineers. The process of incident reporting and investigation is digitalized through the SAP-EHSM platform and through 
+the Suraksha mobile application.
+	
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? 
+	
+Yes, all the sites have access to non-occupational medical and healthcare services either on-site or through tie-ups with 
+reputed medical entities in close proximity. In addition, personnel are being trained to respond appropriately to medical 
+emergencies on-site.
+11.	
+Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY22
+FY21
+Lost Time Injury Frequency Rate (LTIFR) (per one million-
+person hours worked)
+Employees
+Nil
+0.14
+Workers
+0.15
+0.14
+Total recordable work-related injuries
+Employees
+Nil
+4
+Workers
+4
+4
+No. of fatalities
+Employees
+Nil
+Nil
+Workers
+1
+2
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+Nil
+2
+Workers
+8
+7
+Integrated Annual Report 2021-22
+More Power to you
+205
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+Business Responsibility & Sustainability Report
+12.	
+Describe the measures taken by the entity to ensure a safe and healthy work place: 
+i.	
+Hazard identification, Risk Assessment and Management is done in accordance with Hazard Identification and Risk 
+Assessment (HIRA) Procedure and Job Safety Analysis (JSA) Procedure.
+ii.	
+ Hierarchy of controls is followed for application of risk control measures, Control Plans commensurate to risk are deployed 
+before execution of job. No job is executed until risks are brought to acceptable range. 
+iii.	
+Safety Committees are in place at various levels to review the adequacy of resources for safety and to provide support for 
+safety management system deployment. 
+iv.	
+Deployment of Safe and Healthy system of work is assured through periodic safety audits and inspections across sites.
+13.	
+Number of Complaints on the Working Conditions and Health and Safety made by employees and workers:
+	
+Tata Power has not received any complaint on "Health & Safety" and "Working Conditions" in FY22 and FY21. However, the 
+Company encourages its employees and contractor workers to proactively submit safety observations and report unsafe acts 
+and conditions at workplace as a preventive action.
+14.	
+Assessments for the year:
+% of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Working Conditions
+100
+Health and Safety
+100
+15.	
+Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions. 
+i.	
+All safety related accidents are being investigated and learnings from investigation reports are shared across organization 
+for deployment of corrective actions to stop recurrence of such incidents. Effectiveness of Corrective actions deployment 
+being checked during safety Audits.
+ii.	
+Significant risks/concerns arising from assessment of Health and Safety Practices are addressed through elimination of 
+manual job by use of Technology/Digitization, Safety Capability Building, Monitoring and supervision, etc.
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of 
+	
+(A) Employees: Yes
+	
+(B) Workers: Yes
+2.	
+Details on assessment of value chain partners:
+% of value chain partners 
+(by value of business done with such partners) that were assessed
+Health and safety practices
+100
+Working Conditions
+100
+3.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+i.	
+ISO 45001 /OHSAS 18001 certification is mandatory for all Value chain partners involved with High-Risk jobs execution 
+with organization
+ii.	
+Ensured 100% Safety Training of Workforce of Service providers by approved Training Institute
+iii.	
+Periodic safety performance Evaluation of Service providers.
+iv.	
+Safety performance linked incentive schemes for service providers.
+Integrated Annual Report 2021-22
+More Power to you
+206
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Tata Power identifies its stakeholder groups through the Stakeholder Engagement and Materiality Assessment (SEMA) process.
+2.	
+List of stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group.
+Stakeholder Group
+Whether identified as 
+Vulnerable & Marginalized 
+Group (Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of engagement 
+(Annually/ Half yearly /  
+Quarterly / others - please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Communities
+Yes (Affirmative Action)
+On site community 
+meetings, sms
+Regular
+CSR interventions
+Investors (other	
+than Shareholders)
+No
+Investor meet, email
+Annual, periodic
+Tata Power performance
+Shareholders
+No
+Annual General Meeting, 
+email
+Annual, periodic
+Tata Power performance
+Employees and 
+workers
+No
+Sangam portal, Yammer, 
+email, MD communication 
+meet, Business wise town 
+halls
+Regular
+Employee engagement
+Customers
+No
+Email, sms, advertisement, 
+website, social media
+Regular
+Offers
+Value Chain 
+Partners
+No
+Email, vendor meet
+Annual, periodic
+Process refresh, 
+engagement
+PRINCIPLE 5 Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format*:
+Category
+FY22
+FY21
+Total 
+(A)
+No. of 
+employees / 
+workers
+covered (B)
+% (B/A)
+ 
+Total 
+(C)
+No. of 
+employees / 
+workers
+covered (D)
+% (D/C)
+ 
+Employees
+Permanent
+4,424
+1,985
+44.87
+4,402
+2,949
+66.99
+Other than Permanent
+551
+14
+2.54
+270
+Nil
+Nil
+Total Employees
+4,975
+1,999
+40.18
+4,672
+2,949
+63.12
+	
+	 *Includes Tata Power, Mundra, TPTCL, IEL, MPL, TPREL, TPRMG, PTL, TPCDT, TPSSL, TPADL, WREL, TERPL, TPIPL and FENR
+Integrated Annual Report 2021-22
+More Power to you
+207
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+Business Responsibility & Sustainability Report
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY22
+FY21
+Total (A)
+Equal to  
+Minimum Wage
+More than
+Minimum Wage
+Total (D)
+Equal to  
+Minimum Wage
+More than
+Minimum Wage
+Number 
+(B)
+%  
+(B/A)
+No. 
+(C)
+% 
+(C / A)
+Number 
+ (E)
+%  
+(E/D)
+Number 
+(F)
+% 
+(F / D)
+Employees
+Permanent
+Male
+ 18,009 
+Nil
+NA
+ 18,009 
+100
+ 15,584 
+Nil
+NA
+ 15,584 
+100
+Female
+ 1,486 
+Nil
+NA
+ 1,486 
+100
+ 1,227 
+Nil
+NA
+ 1,227 
+100
+Other than 
+Permanent
+Male
+ 1,875 
+Nil
+NA
+ 1,875 
+100
+ 1,550 
+Nil
+NA
+ 1,550 
+100
+Female
+ 266 
+Nil
+NA
+ 266 
+100
+ 265 
+Nil
+NA
+ 265 
+100
+Workers
+Permanent
+Male
+ Nil 
+Nil
+NA
+ Nil 
+NA
+ Nil 
+Nil
+NA
+ Nil 
+NA
+Female
+ Nil 
+Nil
+NA
+ Nil 
+NA
+ Nil 
+Nil
+NA
+ Nil 
+NA
+Other than 
+Permanent
+Male
+ 43,408 
+Nil
+NA
+ 43,408 
+100
+ 40,025 
+Nil
+NA
+ 40,025 
+100
+Female
+ 903 
+Nil
+NA
+ 903 
+100
+ 1,792 
+Nil
+NA
+ 1,792 
+100
+3.	
+Details of remuneration/salary/wages, in the following format*:
+Male
+Female
+Number
+Median remuneration / 
+salary / wages of respective 
+category
+Number
+Median remuneration / 
+salary / wages of respective 
+category
+Board of Directors (BoD)**
+8
+67,00,000
+2
+75,85,000
+Key Managerial Personnel
+2
+ 2,45,32,310 
+Nil
+Nil
+Employees other than BoD and KMP (including 
+Workmen)
+3,969
+10,97,718
+452
+8,49,390
+	
+	 *Includes Tata Power, Mundra, TPTCL, IEL, MPL, TPREL, TPRMG, PTL, TPCDT, TPSSL, TPADL, WREL, TERPL, TPIPL and FENR
+	
+	 **Includes commission and sitting fees
+4.	
+Do you have a focal point (Individual / Committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business? 
+	
+Human rights is the basic tenet at Tata Power and is guided by Human Rights Policy. Focal points of contacts are:
+	
+Dr. Praveer Sinha - CEO & Managing Director
+	
+Mr. Himal Tewari - CHRO
+	
+Ms. Jyoti Kumar Bansal - Chief-Branding, Corporate Communications, CSR, Sustainability
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+	
+The Human Rights Policy elaborated on the grievance mechanism. Refer link - https://www.tatapower.com/pdf/sustainability/
+human-rights-policy.pdf
+6.	
+Number of Complaints on the Sexual Harassment, Discrimination at workplace, Child Labour, Forced Labour/Involuntary 
+Labour, Wages and Other human rights related issues made by employees and workers:
+	
+Please refer Employee and Worker section in response 23 on Section A.
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases. 
+	
+Refer TCoC at https://www.tatapower.com/pdf/aboutus/Tata-Code-of-Conduct.pdf
+Integrated Annual Report 2021-22
+More Power to you
+208
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+8.	
+Do human rights requirements form part of your business agreements and contracts? 
+	
+Yes 
+9. 	
+Assessments for the year: 
+	
+Human Rights assessment is being undertaken in FY23.
+10. 	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above. 
+	
+Not applicable
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY22
+FY21
+Total electricity consumption (Giga Joules) (A)
+1,23,319
+2,39,432
+Total fuel consumption (Giga Joules) (B)
+27,79,48,920
+36,17,59,315
+Total energy consumption (Giga Joules) (A+B)
+27,80,72,239
+36,19,98,747
+Energy intensity per crore rupee of turnover (Total energy consumption (Giga Joules) / 
+turnover in crore rupees)
+6,531.20
+10,890.78
+	
+	Note: Data verification is carried out through 3rd party assurance each year for Integrated Report and CDP Climate and CDP Water 
+reports. For FY22, the assurance on Integrated Report has been carried out by Deloitte and for FY21, the assurance was carried 
+out by S R B C & Co LLP.
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have 
+been achieved. In case targets have not been achieved, provide the remedial action taken, if any. 
+	
+Yes, all thermal operating divisions of Tata Power were part of PAT cycle II (2016-17 to 2018-19) notified on March 31, 2016 and 
+aims to achieve an overall energy consumption reduction of 8.869 MTOE. PAT cycle II Target details along with action plan is as 
+outlined below. New targets will be taken in alignment with PAT cycle VII which is awaited in FY24.
+Divisions
+PAT Cycle II Notified 
+Target (Kcal/kwh)
+Achieved (Kcal/kwh)
+Remedial Action in case target not achieved
+Mundra
+2,256
+2,257
+Unit 30 & 50 HP Heaters replacement along with installation of Variable 
+Frequency Drive in Condensate Extraction pump variable was planned 
+and commissioned.
+Maithon
+2,460
+2,445
+Better than Notified Target
+Trombay (coal, 
+oil and gas)
+2,652
+2,566
+Better than Notified Target
+Trombay (Gas)
+2,006
+2,047
+This was not achieved due to lower Plant load factor in view of low APM 
+gas availability. This has been taken up with BEE, however it was not 
+considered for normalization.
+Jojobera
+2,839
+2,836
+Better than Notified Target
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY22
+FY21
+Water withdrawal by source (in million litres)
+(i) Surface water
+13,17,592
+12,39,352
+(ii) Groundwater
+271
+194
+(iii) Third party water
+13,065
+17,709
+(iv) Seawater / desalinated water
+28,58,396
+53,66,791
+Total volume of water withdrawal (in million litres) (i + ii + iii + iv)
+41,89,324
+66,24,046
+Total volume of fresh water consumption (in million litres)
+64,721
+33,437
+Water intensity	per	rupee of turnover (litre/rupee)
+0.15
+0.10
+Integrated Annual Report 2021-22
+More Power to you
+209
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+Business Responsibility & Sustainability Report
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage 
+and implementation. 
+	
+The Company's major thermal power plants has Zero-Liquid Discharge (ZLD) wherein the waste water is treated and reused. - 
+Maithon, Jojobera, Waste Heat Recovery units. Trombay and Mundra use sea water.
+	
+The quality of effluent discharge where applicable is ensured as per regulatory requirements at all applicable locations.
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY22
+FY21
+NOx
+Tonnes
+72,784
+93,461
+SOx
+Tonnes
+1,33,209
+1,49,441
+Particulate matter (PM)
+Tonnes
+6,904
+6,696
+Persistent organic pollutants (POP)
+NA
+NA
+NA
+Volatile	 organic compounds (VOC)
+NA
+NA
+NA
+Hazardous air pollutants (HAP)
+NA
+NA
+NA
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY22
+FY21
+Total Scope 1 emissions (Break-up of the GHG into CO2,  CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Million Metric 
+tonnes of CO2 
+equivalent
+27.330
+34.500
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Million Metric 
+tonnes of CO2 
+equivalent
+0.285
+0.031
+Total Scope 1 and Scope 2 emissions per rupee of
+turnover
+6.486 x 10(-5)
+10.389 x 10(-5)
+Total Scope 1 and Scope 2 emission intensity (optional)
+– the relevant metric may be selected by the entity
+tCO2e/MWh
+0.794* 
+0.675**
+0.687**
+	
+	 *In FY22, PPGCL and IEL units have been included. Calculations are as per equity-based approach.
+	
+	 **The calculations are as per operational basis approach as carried out in FY21 and PPGCL and IEL are not included.
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details. 
+	
+Tata Power is committed to climate action and to create a positive impact for the community and environment in which it 
+operates. The Company is India’s first power utility to publicly pledge to Carbon Net Zero before 2045. In line with the aspirations, 
+Tata Power has committed to SBTi to provide the pathway to develop integrated solutions for becoming carbon neutral. This 
+includes phasing out coal-based power plants and ramping up renewables and other forms of clean energy, investments in 
+improvement measures and operational efficiency technology for Station Heat Rate and Auxiliary Power Consumption to reduce 
+GHG emissions. Please refer to the key collaborations section on page no 61 of the Integrated Report FY22.
+Integrated Annual Report 2021-22
+More Power to you
+210
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+8.	
+Provide details related to waste management by the entity, in the following format*: 
+Parameter
+FY22
+FY21
+Total Waste generated (in metric tonnes)
+Hazardous waste generated
+ 1,095
+ 314
+Non-hazardous waste generated 
+60,50,898
+ 32,60,147
+Total
+60,51,993
+ 32,60,461
+Waste diverted from disposal
+Category of waste  (Hazardous)
+(i) Recycled
+ Nil
+63
+(ii) Re-used
+ Nil
+ Nil
+(iii) Other recovery operations
+ 1,095
+45
+Total
+ 1,095
+108
+Category of waste  ( Non Hazardous) 
+(i) Recycled
+ Nil
+19,82,181
+(ii) Reused
+ Nil
+8
+(iii) Other recovery options
+52,85,220
+19
+Total
+ 52,85,220
+19,82,208
+	
+	 *	 Increase in Waste from the previous year is due to addition of PPGCL.
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+your company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes. 
+	
+Tata Power has robust waste management practices and aims to be Zero Waste to Landfill before 2030. The major 
+waste stream at Tata Power is ash (fly ash +bottom ash) and the Company has achieved 100% fly ash utilization in FY22. 
+In addition, measures are being taken up to increase the bottom ash utilization to reach the Company's stated intent. 
+Tata Power has also conducted a study on end-of-life considerations for Solar PV panels in preparedness for dealing 
+with future waste streams. 100% of the hazardous and toxic waste is treated/discarded responsibly. For further details, 
+please refer Waste Management section on page no. 81 of the Integrated Report FY22.
+10.	
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details in the following format:
+S.
+No.
+Location of operations/offices
+Type of operations
+Whether the conditions of environmental approval / clearance are being 
+complied with? (Y/N).  If no, the reasons hereof and corrective action taken, if 
+any.
+1.
+Hydro Power Plants like Bhira, 
+Bhivpuri and Khopoli are in 
+the region of northern western 
+ghats which is one of the major 
+biodiversity hotspots in the 
+world
+Generation
+These hydro plants have been in operation for over 100 years. Tata Power 
+has taken up afforestion program in the catchment area by planting 
+species which are native to this area. Company also took up conservation 
+breeding program for endangered species Deccan Mahseer (Tor khudree) . 
+This program helped to increase population of the species and brought the 
+fish from IUCN red list of endangered species to the least concern category.
+11.	
+Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year: 
+	
+Tata Power has added 707 MW clean and green capacity in FY22 for which EIA notification 2006 is not applicable.
+12.	
+Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act 
+and rules thereunder (Y/N). If not, provide details of all such non-compliances. 
+	
+Not Applicable as Tata Power is 100% compliant.
+Integrated Annual Report 2021-22
+More Power to you
+211
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+Business Responsibility & Sustainability Report
+Leadership Indicators
+1.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres): For each facility / plant located in 
+areas of water stress?, provide the following information: 
+	
+i.	
+Name of the area - Specific projects in Rajasthan, Gujarat, Karnataka, Maharashtra, Tamil Nadu (~16% of projects)
+	
+ii.	
+Nature of operations - Solar generation
+	
+Water Stress Classification :  Ref : CGWA Document  titled “ Block Wise Ground Water Resource Assessment -2020”
+2.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY22
+FY21
+Total Scope 3 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Million Metric tonnes of 
+CO2 equivalent
+0.001
+0.003
+Total Scope 3 emissions per rupee of turnover
+2.349 x 10(-9)
+9.026 x 10(-9)
+	
+Note: FY22 Scope 3 emissions include only Business travel. T&D emissions (power purchase and losses) have been recategorized 
+from Scope 3 in FY21 to Scope 2 in FY22.
+3.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities. 
+ 	
+a.	
+Afforestation Drive and Mahseer Conservation Program at Hydros: 
+	
+Since 1972, Tata Power have been arranging mega afforestation drive of native plants in the Hydros which is situated in the 
+northern western ghat area.  
+	
+In FY22, more than 9 lakh trees were planted and seeds were sowed in the catchment area of Hydros.  
+	
+In order to increase survival rate of plantation and to save forests from forest fires, the Company has been organizing 
+educational programs to create an awareness among children with the help of Bharati Vidyapeeth. 
+ 	
+Mahseer conservation program was taken up in the year 1970 for ecological enrichment of the hydel lakes and to rehabilitate 
+the Deccan Mahseer which had been decimated in their natural habitat. After the five decades of efforts, Deccan Mahseer 
+is finally declared as ‘ least concern’ species in the IUCN red list.  
+4.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated , please provide details of the same 
+as well as outcome of such initiatives, as per the following format: 
+Sr. 
+No 
+Initiative undertaken 
+Outcome of the initiative 
+  1
+FGD and De-NOx systems are under implementation
+ Reduction of emissions (SO2, NOx)
+7.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+Tata Power has a robust Business Continuity and Disaster Management Plan (BCDMP) and is certified as per ISO 22301:2012 from 
+the British Standards Institute (BSI). In addition, workforce are continuously trained by carrying out mock drills and disaster 
+management exercises for possible emergency situations. The Company also as a comprehensive BCDMP policy which can be 
+found at https://www.tatapower.com/pdf/aboutus/bcp-policy.pdf.
+Integrated Annual Report 2021-22
+More Power to you
+212
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner 
+that is responsible and transparent:
+Essenti00al Indicators
+1. 	
+a. 	
+Number of affiliations with trade and industry chambers/ associations: Five
+b. 	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) 
+the entity is a member of/ affiliated to.
+S.
+No.
+Name of the trade and industry chambers/ 
+associations
+Reach of trade and industry chambers/ associations
+(State/National)
+1
+Bombay Chamber of Commerce and Industry
+State
+2
+CII Corporate Governance Council 
+National
+3
+CII Western Region Council 
+National
+4
+The Committee for International Council on Large 
+Electric Systems (CIGRE)
+International
+5
+CII National Committee of Power
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the entity, 
+based on adverse orders from regulatory authorities.
+	
+There is no action taken or underway against the Tata Power Company Limited on any issues related to anti-competitive conduct.
+PRINCIPLE 8 Businesses should	promote	inclusive growth and equitable development:
+Essential Indicators
+1. 	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current 
+financial year.
+	
+As per applicable laws, SIA is not applicable for any of the projects undertaken by the Company. However, the Company assesses 
+the effectiveness of all projects undertaken voluntarily as a part of Tata way of giving back to society. 
+2. 	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity:
+S 
+No.
+Name of project for which 
+R&R is ongoing
+State
+District
+No. of Project Affected 
+Families (PAFs)
+% of PAFs covered 
+by R&R
+Amounts paid to PAFs in 
+FY22 (In crore)
+1
+Dr Babasaheb Ambedkar 
+SRA CHSL
+Maharashtra
+Mumbai 
+Suburban
+ 1,003* 
+100
+19.95
+	
+	 * No. of slum dwellers identified as per the approval of Government Authorities
+3. 	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+There is regular engagement with key community institutions and representatives from key neighbourhoods across India. 
+Stakeholder suggestions can also be emailed to the company through the following link-
+	
+https://www.tatapower.com/contact/community-relations.aspx
+4. 	
+Percentage of inputs directly sourced from MSMEs / small producers
+Parameter
+FY22
+FY21
+Directly sourced from MSMEs / small producers
+13.51%
+4%
+Sourced directly from within the district and neighbouring districts
+*
+*
+13.51% of spend is from MSME vendors.
+* Tata Power is one of India’s largest integrated power companies present at multiple locations across the country. The enterprise 
+resource planning structure does not differentiate sourcing from within or outside a particular area/district/locality. Tata 
+Power stands by its responsibility towards upliftment of the society/ communities in and around its operating environment. 
+The workforce deployed in various Tata Power Generating plants include a noteworthy proportion of local youth as a mandate. 
+Tata Power is committed to local sourcing across the value chain.
+In FY22, 99.30% of Non-fuel procurement at Tata Power was sourced locally i.e. from domestic / indigenous suppliers. On an 
+overall basis 54.29% of the overall procurement including fuel was sourced from Indigenous sources.
+Integrated Annual Report 2021-22
+More Power to you
+213
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+Business Responsibility & Sustainability Report
+Leadership Indicators
+1. 	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+	
+Not Applicable
+2. 	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+S.
+No.
+State
+Aspirational District
+Amount spent (In `)
+1.
+Andhra Pradesh
+YSR Cuddapah
+ 4,29,000
+2.
+Rajasthan
+Jaisalmer
+ 5,32,117
+3.
+Bihar
+Gaya
+ 27,87,324
+4.
+Odisha
+Kalahandi
+ 20,00,000
+3.	
+(a) 	 Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups? 
+	
+	
+Yes
+(b)	
+What percentage of total procurement (by value) does it constitute?
+	
+Tata Power has policies and guidelines in place for vendor enlistment and ordering to encourage and provide growth 
+opportunities to entrepreneurs among the marginalized /vulnerable groups or communities. 
+	
+Tata Power Affirmative Action’s Policy (Affirmative Action.pdf) emphasis on empowering and encouraging socio-
+economically derived communities for entrepreneurship and quality-based inclusion in supply chain. 
+	
+Tata Power is committed to help people from SC/ST background either by promoting them to become entrepreneurs or by 
+engaging workforce from SC/ST community under contracts. Tata Power on merit basis considers incentives in payment for 
+contractors engaging more than 30% of total deployment from the SC/ST community. In order to motivate entrepreneurs 
+from this community, Tata Power considers preferential treatment in commercial parameters if the company is owned by a 
+person from SC/ST community having minimum 50% holding in the company. This motivates the community to be a part 
+of business ecosystem.
+	
+In FY22, business (only direct orders) worth ` 12.18 crore were given to SC/ST Business Associates against more than 300 
+orders which is 0.4% of the Company’s total annual non-fuel procurement value.
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge: Not applicable
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved. Not applicable
+6.	
+Details of beneficiaries of CSR Projects:
+S.
+No.
+CSR Project
+No. of persons benefitted 
+from CSR Projects
+% of beneficiaries 
+from vulnerable and 
+marginalized groups
+1.
+Education 
+19,01,476
+19.00
+2.
+Employability and Employment 
+3,77,677
+11.64
+3.
+Entrepreneurship
+2,182
+44.00
+4.
+Others - Stakeholder Engagement Sports, Volunteering & social inclusion 
+55,92,486
+2.25
+Integrated Annual Report 2021-22
+More Power to you
+214
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner:
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+Mumbai Distribution - “Keeping the Customer at the Centre of All We Do”, Tata Power’s mission is embedded in every customer 
+team member and is the foundation for excelling in customer service. The Company has following touch points to engage with 
+its customers to build trust and strengthen transparency, while addressing their queries and concerns.
+i.
+10 Customer Relationship Centres
+vii.
+SMS
+ii.
+Call Centre offering 24/7 support
+viii.
+WhatsApp
+iii.
+E-Care (email response)
+ix.
+Twitter
+iv.
+Customer Web portal
+x.
+Facebook
+v.
+Customer Chat bot - TINA
+xi.
+Microsoft Kaizala
+vi.
+Mobile App
+xii.
+Facebook
+‘We listen’, - Customer feedback across touch points is received through ‘Post Transactional Feedback’ system.  Post transaction 
+closure, customers have the option to rate the services offered by the Company and give their feedback  through a system 
+generated link.  This feedback system gives the opportunity to the team to do an in-depth analysis and adopt corrective actions 
+and measures to restore consumer confidence and delight.  The Customer Satisfaction Survey conducted every year is another 
+mechanism which captures customer confidence and feedback on the service parameters adopted by Tata Power in its customer 
+service journey.  
+TPDDL
+TPDDL always strives to provide the customers seamless connectivity to resolve their concerns at various platforms with quick 
+response time. Tata Power-DDL’s customer interactions are primarily ensured through 24x7 Call Centre. The Call Centre handles 
+approx. 50 lakh interactions per annum for Commercial and Operational services comprising of Queries, requests, complaint 
+notifications and Follow Ups through IVRS and the executives deployed based on manpower contract.
+2.	
+Turnover of products and / services as a percentage of turnover from all products/service that carry information about: 
+	
+99.3% of the turnover corresponds to electricity generated, transmitted and distributed. The Company educates its customers 
+on environmental parameters and for safe and responsible usage of power.
+3.	
+Number of consumer complaints in respect of the Data privacy, Advertising, Cyder-security, Delivery of essential 
+services, Restrictive Trade Practices, Unfair Trade Practices, other:
+	
+In FY22, total 13 complaints were received and all of them were resolved within the expected timelines. No complaints are pending.
+4.	
+Details of instances of product recalls on account of safety issues: 
+	
+Not applicable
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy. 
+	
+https://www.tatapower.com/pdf/aboutus/information-security-policy.pdf 
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+	
+TPDDL is certified for ISO 27001:2018 (Information Security Management System) and Risk Management Guidelines (31000). 
+Accordingly, the organization also has rolled out corporate policies to ensure necessary compliance at all stakeholder’s end.
+Integrated Annual Report 2021-22
+More Power to you
+215
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
+Business Responsibility & Sustainability Report
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, 
+if available).
+i.
+Customer Care Email ID 
+v.
+TPDDL connect Mobile application
+ii.
+CCAG Email ID 
+vi.
+Customer care centres 
+iii.
+24X7 Sampark kendra
+vii.
+Letters
+iv.
+Websites 
+viii.
+Social Media
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+Awareness on safety through:
+i.
+Social Media (LinkedIn, Facebook, 
+Instagram)
+iii.
+Outreaches
+ii.
+Safety SMS
+iv.
+News letters
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+i.
+24X7 Sampark kendra 
+iv.
+TPDDL connect Mobile application
+ii.
+Website
+v.
+SMS/Emailer 
+iii.
+Social Media 
+vi.
+Customer care centres
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/
+Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer satisfaction 
+relating to the major products / services of the entity, significant locations of operation of the entity or the entity as a 
+whole? (Yes/No) Not applicable
+5.	
+Provide the following information relating to data breaches: 
+	
+a.	
+Number of instances of data breaches along-with impact: Not applicable as no data breaches occured
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers Not applicable
+Integrated Annual Report 2021-22
+More Power to you
+216
+Overview
+Introduction 
+to Tata Power
+Statutory 
+Reports
+Financial 
+Statements
+Trends, Opportunities 
+and Risks
+Value Creation
