@@ -1,0 +1,4481 @@
+Varroc Engineering Limited 
+Regd. & Corp. Office 
+ 
+ 
+L‐4, MIDC, Industrial Area 
+Waluj, Aurangabad 431 136, 
+Maharashtra, India 
+Tel   + 91 240 6653700 
+Fax   + 91 240 2564540 
+email: varroc.info@varroc.com 
+www.varroc.com 
+CIN: L28920MH1988PLC047335 
+ 
+VARROC/SE/INT/2024-25/61 
+ 
+ 
+ 
+ 
+August 21, 2024 
+To, 
+ 
+The Manager- Listing 
+The Listing Department, 
+National Stock Exchange of India 
+Limited 
+Exchange Plaza, Plot No. C/1, G 
+Block,        
+Bandra-Kurla Complex, 
+Bandra (East), Mumbai-400 051. 
+NSE Symbol: VARROC 
+  
+The Manager – Listing 
+The 
+Corporate 
+Relation 
+Department, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Fort, 
+Mumbai-400 001. 
+BSE Security Code: 541578 
+[Debt: 975062] 
+ 
+Dear Sir/ Madam, 
+ 
+Sub: Business Responsibility and Sustainability Report for the 
+Financial Year 2023-24 
+ 
+Ref.: Regulation 34(2)(f) and other applicable Regulations of SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+as amended (“Listing Regulations”). 
+ 
+Pursuant to the Listing Regulations, please find enclosed the Business 
+Responsibility and Sustainability Report for the Financial Year 2023-24. 
+Aforesaid Report is also available on the website of the Company at 
+www.varroc.com. 
+ 
+We request you to take the same on record. 
+ 
+Yours faithfully, 
+For Varroc Engineering Limited 
+                       
+ 
+ 
+ 
+Ajay Sharma 
+Group General Counsel and Company Secretary  
+Encl: a/a 
+ 
+ 
+ 
+ 
+Ajay Kumar 
+Sharma
+Digitally signed by Ajay Kumar 
+Sharma 
+Date: 2024.08.21 22:26:28 +05'30'
+Indicator 
+No.
+Description
+Response
+1
+Corporate Identity Number (CIN) of the Listed 
+Entity:
+L28920MH1988PLC047335
+2
+Name of the Listed Entity: 
+Varroc Engineering Limited
+3
+Year of incorporation: 
+05/11/1988
+4
+Registered office address: 
+Plot No. L-4, MIDC, Waluj, Aurangabad (M.S.) - 431136
+5
+Corporate Address:
+Plot No. L-4, MIDC, Waluj, Aurangabad (M.S.) - 431136
+6
+E-mail:
+investors@varroc.com
+7
+Telephone:
+0240-26653700
+8
+Website:
+www.varroc.com
+9
+Financial year for which the reporting is done:
+FY 2023-24
+10
+Name of the Stock Exchange(s) where shares are listed: 
+NSE Limited, Mumbai BSE Limited, Mumbai
+11
+Paid-up Capital:
+H15,27,86,400
+12
+Name and contact details (telephone, email 
+address) of the person who may be contacted in 
+case of any queries on the BRSR report: 
+Mr. Ajay Kumar Sharma
+Group General Counsel & Company Secretary
+Email: investors@varroc.com 
+13
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e., only for 
+the entity) or on a consolidated basis (i.e., for the 
+entity and all the entities which form a part of its 
+consolidated financial statements, taken together):
+Standalone Basis
+14
+Name of assurance provider:
+Not Applicable
+15
+Type of assurance obtained:
+Not Applicable
+Business Responsibility & 
+Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+II.	
+Products/services
+16.	 Details of business activities (accounting for 90% of the turnover):
+S.  
+No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1
+Manufacture and sale of 
+automotive components
+Electrical & electronics including lighting, metallic 
+(transmissions & valves) supplying to Indian as well as 
+Global OEMs and also in After Market
+100%
+166
+Location
+Number of plants
+Number of offices
+Total
+National
+19
+3
+22
+International
+0
+0
+0
+S. No.
+Product / Service
+NIC Code
+% of total Turnover contributed
+1
+Magneto, Regulator Rectifier CDI, Traction Motor 
+and Traction Motor Controller
+3607
+21.08
+2
+Starter Motor
+3609
+5.42
+3
+Lighting, PCB, Dashboard, Switches, EV (TCMU, 
+BMS, DC-DC), Catalytic convertor, ECU, sensors, 
+Crankpin, Engine Valve, Handlebar Assembly, 
+Seat Assembly, Air filter (2 & 3 wheelers)
+3758
+18.44
+4
+Automotive Lamps
+29304
+23.78
+5
+Steel Forged Products
+3440
+12.56
+6
+Plastic Moulded Parts
+3139
+4.21
+7
+Automobile parts in aftermarket
+-
+13.87
+17.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover): 
+III.	
+Operations
+18.	 Number of locations where plants and/or operations/offices of the entity are situated: 
+Locations
+Number
+National (No. of States)
+7
+International (No. of Countries)
+30
+19.	 Markets served by the entity:
+	
+a. 	
+Number of locations
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity? 5.31%
+	
+c. 	
+A brief on types of customers: 
+	
+	
+Varroc’s customers can broadly be classified into domestic and international OEMs and aftermarkets. Our 
+customer base spans across various segments, including passenger cars, commercial vehicles, two-wheelers, 
+three-wheelers, and off-highway vehicles. Our strong domestic and global presence allows us to efficiently meet 
+the unique needs and requirements of our customers across various markets.
+IV.	 Employees
+20.	 Details as at the end of Financial Year:  
+	
+a. 	
+Employees and workers (including differently abled):
+S.  
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+%  (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+2546
+2391
+94%
+155
+6%
+2.
+Other than Permanent (E)
+9
+9
+100%
+0
+0%
+3.
+Total employees (D + E)
+2555
+2400
+94%
+155
+6%
+Corporate Overview
+Statutory Report
+Financial Statement
+167
+Annual Report 2023-24
+S.  
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+%  (B / A)
+No. (C)
+% (C / A)
+WORKERS
+4.
+Permanent (F)
+1361
+1316
+97%
+45
+3%
+5.
+Other than Permanent (G)
+7274
+5755
+79%
+1519
+21%
+6.
+Total workers (F+G)
+8635
+7071
+82%
+1564
+18%
+	
+b.	
+Differently abled Employees and workers:
+S.  
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+%  (B / A)
+No. (C)
+% (C / A)
+Differently Abled Employees
+1.
+Permanent (D)
+0
+0
+-
+0
+-
+2.
+Other than Permanent (E)
+0
+0
+-
+0
+-
+3.
+Total differently abled 
+employees (D+E)
+0
+0
+-
+0
+-
+Differently Abled Workers
+4.
+Permanent (F)
+0
+0
+-
+0
+-
+5.
+Other than Permanent (G)
+0
+0
+-
+0
+-
+6.
+Total differently abled  
+workers (F+G)
+0
+0
+-
+0
+-
+21.	 Participation/Inclusion/Representation of women   
+22.	 Turnover rate for permanent employees and workers
+	
+(Disclose trends for the past 3 years)
+Particulars
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+8
+1
+12.50%
+Key Management Personnel
+2
+0
+0%
+Particulars
+FY 2023-24 
+(Turnover rate in current FY)
+FY 2022-23 
+(Turnover rate in previous FY)
+FY 2021-22 
+(Turnover rate in the year 
+prior to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+15.81%
+23.87%
+16.30%
+32.22%
+61.40%
+34.38%
+33.45%
+54.21%
+34.97%
+Permanent Workers
+0.19%
+0.00%
+0.18%
+0.60%
+0.00%
+0.58%
+1.19%
+0.00%
+1.15%
+168
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+23.	 (a)	 Names of holding / subsidiary / associate companies / joint ventures  
+S.
+No.
+Name of the holding / 
+subsidiary / associate 
+companies / joint ventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint Venture
+% of shares held 
+by listed entity
+Does the entity indicated at 
+column A, participate in the 
+Business Responsibility initiatives of 
+the listed entity? (Yes/No)
+1
+Varroc Polymers Limited
+Subsidiary
+100%
+No
+2
+Durovalves India Private 
+Limited
+Subsidiary
+72.78%
+No
+3
+CarIQ Technologies Private
+Limited
+Subsidiary
+95%
+No
+4
+Varroc European Holding 
+B.V.
+Subsidiary
+100%
+No
+5
+VarrocCorp Holding B.V.
+Subsidiary
+100%
+No
+6
+Varroc Japan Co. Ltd.
+Subsidiary
+100%
+No
+7
+Industria Meccanica E
+Stampaggio s.p.a.
+Subsidiary
+100%
+No
+8
+Varroc Italy S.p.A.
+Subsidiary
+100%
+No
+9
+Varroc Romania S.A.
+Subsidiary
+98.23%
+No
+10
+Varroc Vietnam Co. Limited
+Subsidiary
+100%
+No
+11
+Varroc Germany GmBH
+Subsidiary
+100%
+No
+12
+Varroc Poland S.p.Z.o.o.
+Subsidiary
+100%
+No
+13
+Varroc Electronics Romania S.r.l
+Subsidiary
+100%
+No
+14
+Varroc Lighting Systems 
+Bulgaria EOOD
+Subsidiary
+100%
+No
+15
+Varroc Czech Republic SRO
+Subsidiary
+100%
+No
+16
+Varroc Intelligent Driving R&D 
+Center (Changzhou) Co., Ltd.
+Subsidiary
+100%
+No
+17
+Varroc Dell’Orto Private Limited
+Joint Venture
+50%
+No
+18
+Nuova CTS S.r.L., Italy
+Joint Venture
+50%
+No
+19
+Varroc TYC Corporation BVI
+Joint Venture
+50%
+No
+20
+Varroc TYC Auto Lamps Co.
+Limited, China
+Joint Venture
+50%
+No
+21
+Chongqing Varroc TYC Auto
+Lamps Co. Limited, China
+Joint Venture
+50%
+No
+VI.	 CSR Details
+24.	 (i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+	
+(ii)	
+Turnover (in Rs.): 45,34,96,39,192 
+	
+(iii)	 Net worth (in Rs.): 9,10,46,27,282
+Corporate Overview
+Statutory Report
+Financial Statement
+169
+Annual Report 2023-24
+VII.	 Transparency and Disclosures Compliances
+25.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/No) (If yes, then 
+provide web-link for 
+grievance redress 
+policy)
+FY2024 
+Current Financial Year
+FY2023 
+Previous Financial Year
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes, the Corporate 
+Social Responsibility 
+Committee https://
+varroc.com/
+wp-content/
+uploads/bsk-pdf-
+manager/2022/12/
+CSR_Policy_VEL.pdf 
+https://varroc.
+com/investors/
+compliance-officer/
+0
+0
+NA
+0
+0
+NA
+Investors 
+(other than 
+shareholders)
+Yes, https://varroc.
+com/investors/
+compliance-officer/ 
+0
+0
+NA
+0
+0
+NA
+Shareholders
+Yes, The Stakeholder 
+Relationship 
+Committee 
+https://varroc.
+com/investors/
+compliance-officer/
+0
+0
+NA
+0
+0
+NA
+Employees 
+and workers
+Yes, Whistle blower 
+policy can be 
+refer for raising 
+any concerns 
+https://varroc.
+com/wp-content/
+uploads/bsk-pdf-
+manager/2022/12/
+Whistle_Blower_
+Policy-%20
+Varroc_Group.
+pdf   Additionally, 
+we have an 
+intranet grievance 
+mechanism to 
+address grievances 
+through Ethics 
+Committee At 
+plant, we have 
+a dedicated HR 
+SPOCs to address 
+the concerns.
+0
+0
+NA
+2
+0
+Both cases 
+were 
+resolved 
+with 
+appropriate 
+action
+170
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/No) (If yes, then 
+provide web-link for 
+grievance redress 
+policy)
+FY2024 
+Current Financial Year
+FY2023 
+Previous Financial Year
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+At corporate, 
+each employee 
+is assigned an 
+individual SPOC
+Customers
+Yes, Whistle blower 
+policy can be 
+refer for raising 
+any concerns 
+https://varroc.
+com/wp-content/
+uploads/bsk-pdf-
+manager/2022/12/
+Whistle_Blower_
+Policy-%20Varroc_
+Group.pdf 
+An individual Key 
+Account Manager 
+is assigned to each 
+customer to ensure 
+that their complaint 
+and feedback 
+are duly received 
+and adequately 
+addressed in a 
+timely manner.
+0
+0
+NA
+0
+0
+NA
+Value Chain 
+Partners
+Yes, Whistle blower 
+policy can be 
+refer for raising 
+any concerns 
+https://varroc.
+com/wp-content/
+uploads/bsk-pdf-
+manager/2022/12/
+Whistle_Blower_
+Policy-%20Varroc_
+Group.pdf  
+Value chain partners 
+are assigned with 
+individual from 
+supply chain 
+department
+0
+0
+NA
+0
+0
+NA
+Other 
+(please 
+specify)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Corporate Overview
+Statutory Report
+Financial Statement
+171
+Annual Report 2023-24
+26.	 Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt 
+or mitigate the risk along-with its financial implications, as per the following format.
+S.  
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case  of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+1
+Energy and 
+GHG Emissions 
+Risk
+GHG emissions from 
+manufacturing contribute to 
+climate change and global 
+warming. Manufacturing 
+processes often require 
+substantial amounts of 
+energy for machinery, 
+heating, cooling, and 
+lighting. Reducing GHG 
+emissions and optimizing 
+processes for better energy 
+efficiency can enhance 
+environmental stewardship, 
+operational efficiency, 
+and the company’s overall 
+sustainability. 
+Implementing strategic 
+initiatives and working 
+with plants to set and 
+work towards energy 
+conservation and 
+renewable energy targets, 
+wherever possible.
+Negative
+ 2
+Employee 
+Health and 
+Safety
+Opportunity
+Ensuring a safe and healthy
+workplace is crucial for 
+protecting the physical 
+and mental health and 
+wellbeing of employees. 
+A safe work environment 
+reduces the risk of accidents 
+and occupational hazards 
+at our plants and looks into 
+OHS aspects for corporate 
+centric employees
+Implementation of a 
+robust occupational 
+health and safety 
+management systems 
+including ISO 45001:2018 
+and Environmental 
+Management Systems ISO 
+14001:2018.
+Positive
+ 3
+Labor 
+Management 
+and Human 
+Rights
+Opportunity
+Labor management focuses 
+on ensuring fair and ethical 
+treatment of workers. 
+Human rights and security 
+issues including aspects 
+like fair wages, working 
+hours, and employee 
+engagement, Prevention of 
+Sexual Harassment (POSH), 
+anti-discrimination, benefits 
+like healthy meals are 
+critical to creating a safe, 
+inclusive, and respectful 
+work environment for all 
+employees and workers.
+NA
+Positive
+172
+S.  
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case  of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+4.
+Sustainable 
+Supply 
+Chain
+Opportunity
+A sustainable supply chain 
+enhances operational 
+efficiency, transparency, 
+and reduces adverse 
+environmental impacts 
+throughout the entire 
+value chain. By adopting 
+sustainable sourcing, the 
+company can also ensure 
+it maintains business 
+relationships with suppliers 
+who are committed to 
+upholding environmental 
+and social standards. We 
+have an ESG guidance in 
+place to strengthen our 
+upstream partners.
+NA
+Positive
+5.
+Diversity, 
+Equity & 
+Inclusion
+Opportunity
+Diversity, Equity, and 
+Inclusion (DEI) is crucial 
+for driving innovation and 
+creativity and is a key 
+aspect our workplace 
+planning. Diversity across 
+Gender, Age, background 
+helps in decision-making, 
+enhancing employee 
+engagement and retention 
+by fostering an inclusive work 
+environment.
+NA
+Positive
+6.
+Regulatory 
+Compliances
+Risk & 
+Opportunity
+Maintaining high regulatory 
+compliance standards 
+can enhance corporate 
+reputation, earning 
+customer trust and loyalty. 
+Non-compliance can lead 
+to fines, legal penalties, and 
+litigation, impacting financial 
+health and reputation.
+Evaluation of processes 
+and assessment for 
+compliance with relevant 
+laws and regulations.
+Positive 
+Corporate Overview
+Statutory Report
+Financial Statement
+173
+Annual Report 2023-24
+S.  
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case  of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+7. 
+Business 
+Ethics & 
+Transparency
+Risk & 
+Opportunity
+Ethical business practices 
+and transparency help 
+build trust among key 
+stakeholders, facilitate 
+ethical decision-making 
+across all levels of the 
+organization, and ensure 
+that business is conducted 
+with the utmost integrity and 
+accountability. 
+Established a strong 
+corporate governance 
+structure and mechanisms 
+to ensure that business 
+operations are conducted 
+in an ethical, transparent 
+and sustainable manner, 
+including protecting 
+stakeholders’ interests.
+Positive
+	
+We have conducted a comprehensive materiality assessment during the financial year. The detailed methodology 
+and results will be shared as part of our Sustainability Report. 
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards 
+adopting the NGRBC Principles and Core Elements.
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Policy and management processes
+1.	
+a.	
+Whether 
+your 
+entity’s 
+policy/policies 
+cover 
+each principle and its core elements of the 
+NGRBCs. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+b.	
+Has the policy been approved by the Board? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+c.	
+Web Link of the Policies, if available
+ESG Policy https://varroc.com/investors/corporate-
+governance/ 
+2.	
+Whether the entity has translated the policy into 
+procedures. (Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.	
+Do the enlisted policies extend to your value chain 
+partners? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4.	
+Name 
+of 
+the 
+national 
+and 
+international 
+codes/
+certifications/labels/ standards (e.g., Forest Stewardship 
+Council, Fairtrade, Rainforest Alliance, Trustea) standards 
+(e.g., SA 8000, OHSAS, ISO, BIS) adopted by your entity and 
+mapped to each principle.
+IATF 16949
+IS 14489
+ISO 45001
+ISO 14001
+ISO 27001
+5.	
+Specific commitments, goals and targets set by the entity 
+with defined timelines, if any.
+The company is in the process of setting goals for 
+optimizing energy consumption specifically electricity, 
+maximizing use of renewable energy, which meets all 
+the government environmental and safety compliance 
+and health & safety of employees and workers.
+6.	
+Performance 
+of 
+the 
+entity 
+against 
+the 
+specific 
+commitments, goals and targets along-with reasons in 
+case the same are not met.
+The company is in the process of setting a tracking 
+mechanism for reviewing the performance against the 
+set goals
+174
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Governance, leadership and oversight
+7.	
+Statement by director responsible for the business 
+responsibility report, highlighting ESG related challenges, 
+targets and achievements (listed entity has flexibility 
+regarding the placement of this disclosure)
+Please refer to “Message from CMD” in the annual report
+8.	
+Details 
+of 
+the 
+highest 
+authority 
+responsible 
+for 
+implementation 
+and 
+oversight 
+of 
+the 
+Business 
+Responsibility policy (ies).
+Mr. Tarang Jain, Chairman and Managing Director
+9.	
+Does the entity have a specified Committee of the Board/ 
+Director responsible for decision making on sustainability 
+related issues? (Yes / No). If yes, provide details.
+Yes, The ESG Steering Committee is a three-member 
+Committee chaired by Chairman and Managing 
+Director and have two member Directors including one 
+Independent Director which is responsible for decision 
+making on sustainability related issues.
+10.	 Details of Review of NGRBCs by the Company:
+12.	 If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated:
+Subject of Review
+Indicate whether review was undertaken 
+by Director / Committee of the Board/ Any 
+other Committee
+Frequency (Annually/ Half yearly/ 
+Quarterly/ Any other – please specify)
+P  
+1
+P  
+2
+P 
+3
+P  
+4
+P  
+5
+P  
+6
+P  
+7
+P 
+8
+P  
+9
+P  
+1
+P  
+2
+P  
+3
+P 
+4
+P  
+5
+P  
+6
+P  
+7
+P  
+8
+P  
+9
+Performance against Above 
+policies and follow up action
+Director
+Annually
+Compliance	  with statutory 
+requirements of relevance 
+to the principles, and 
+rectification of any non-
+compliances
+Director
+Quarterly
+11.
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Has the entity carried out independent assessment/ 
+evaluation of the working of its policies by an external 
+agency? (Yes/No). If yes, provide name of the agency.
+No
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+The entity does not con-sider the principles mate-rial to 
+its business (Yes/No)
+Not Applicable 
+The entity is not at a stage where it is in a po-sition to 
+formulate and implement the policies on specified 
+principles (Yes/No)
+The entity does not have the financial or/human and 
+technical resources available for the task  
+(Yes/No)
+It is planned to be done in the next financial year (Yes/
+No)
+Any other reason (please specify)
+Corporate Overview
+Statutory Report
+Financial Statement
+175
+Annual Report 2023-24
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with 
+key processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential 
+indicators are expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may 
+be voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be socially, environmentally 
+and ethically responsible.
+Businesses should conduct and govern themselves with integrity, and in a manner that is 
+Ethical, Transparent and Accountable
+PRINCIPLE 1
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+S. 
+No.
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics/principles covered under the  
+training and its impact
+%age of persons in respective 
+category covered by the 
+awareness programmes
+1
+Board of Directors
+2
+During the year, the Board of 
+Directors of the Company invested 
+time on various key updates which 
+includes Companies Act, 2013, 
+SEBI LODR, Cyber Security, Business 
+updates & ESG
+100%
+2
+Key 
+Management 
+Personnel
+2
+During the year, the Key Managerial 
+personnels of the Company invested 
+time on various key updates which 
+includes Companies Act, 2013, 
+SEBI LODR, Cyber Security, Business 
+updates & ESG
+100%
+3
+Employees other 
+than BODs and 
+KMPs
+77
+SHIPS Values – Sincerity, Humility, 
+Integrity, Passion & Self Discipline, 
+Albus Competency Framework – 9 
+competencies for 3 categories: 
+Business, Customer & People, 
+Environment Health & Safety, 
+POSH, Unconscious Bias, Creating 
+Positive workplace, first time 
+manager, Managerial Effectiveness, 
+Building Resilience with Emotional 
+Intelligence, Leading Business, 
+Leading Teams, Think & Act 
+Customer, Managing Customer 
+Relationships, Stress Management, 
+Time Management
+73.83%
+4
+Workers
+426
+Behavioral Safety, MOST, POSH 
+Awareness, Positive Work Culture, 
+SHIPS, Albus, Safety, Technical, 
+Firefighting, Health, etc.
+100%
+176
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in 
+the following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 
+of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount  
+(In INR)
+Brief of the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/ Fine
+No
+NA
+NA
+NA
+NA
+Settlement
+No
+NA
+NA
+NA
+NA
+Compounding fee
+No
+NA
+NA
+NA
+NA
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Brief of the Case 
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+No
+NA
+NA
+NA
+Punishment
+No
+NA
+NA
+NA
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or 
+non-monetary action has been appealed.
+S. 
+No.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+Not Applicable
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide 
+a web-link to the policy.
+	
+We have an Anti-Corruption and Anti-Bribery policy which has been approved by the board and uploaded on the 
+Company’s website. The Anti-Bribery and Anti-Corruption Policy is designed to enforce a strict zero-tolerance stance 
+towards bribery and corruption. The policy is applicable to all employees and associated parties across global 
+operations. It outlines specific protocols against engaging in bribery through third parties, prohibits inappropriate gifts 
+and hospitality, and bans political and certain charitable contributions unless approved. Additionally, it also includes 
+measures such as monitoring and reporting systems to maintain transparency and accountability. 
+	
+https://varroc.com/investors/corporate-governance/ 
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+FY2024
+FY2023
+ Directors
+0
+0
+ KMPs
+0
+0
+ Employees
+0
+1
+ Workers
+0
+0
+Corporate Overview
+Statutory Report
+Financial Statement
+177
+Annual Report 2023-24
+6.	
+Details of complaints with regard to conflict of interest:
+FY2024
+FY2023
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+0
+NA
+0
+NA
+Number of complaints received in relation to 
+issues of Conflict of Interest of the KMPs
+0
+NA
+0
+NA
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest. 
+	
+No corrective action was required as the company had not received any complaints regarding the corruption and 
+conflict of interests.
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the 
+following format.
+FY 2024  
+(Current Financial Year) 
+FY 2023  
+(Previous Financial Year) 
+Number of days of accounts payables 
+89.77
+85.58
+9.	
+Openness of business Provide details of concentration of purchases and sales with trading houses, dealers, and 
+related parties along-with loans and advances & investments, with related parties, in the following format: 
+Parameter
+Metrics
+FY2024
+FY2023
+Concentration 
+of Purchases
+a.	 Purchases from trading houses as % of total purchases
+6%
+5%
+b.	 Number of trading houses where purchases are made from
+20
+20
+c.	 Purchases from top 10 trading houses as % of total purchases 
+from trading houses
+98%
+98%
+Concentration 
+of Sales
+a.	 Sales to dealers / distributors as % of total sales
+100%
+100%
+b.	 Number of dealers /distributors to whom sales are made
+828
+767
+c.	 Sales to top 10 dealers/ distributors as % of total sales to dealers 
+/distributors
+16%
+18%
+Share of 
+RPTs in
+a.	 Purchases (Purchases with related parties / Total Purchases)
+1.61%
+0.92%
+b.	 Sales (Sales to related parties / Total Sales)
+2.07%
+1.44%
+c.	 Loans & advances (Loans & advances given to related parties / 
+Total loans & advances)
+99.54%
+99.95%
+d.	 Investments (Investments in related parties / Total Investments 
+made)
+99.27%
+100%
+178
+Leadership Indicators
+1.	
+Awareness programmes conducted for value chain partners on any of the principles during the financial year:
+Total number of training and 
+awareness programmes held
+Topics/principles covered 
+under the training and its 
+impact
+%age of persons in value chain covered by the 
+awareness programmes
+25
+1.	 PPAP
+2.	 FMEA
+3.	 MSA
+4.	 SPC
+5.	 5S
+6.	 ISO
+7.	 IATF Awareness
+8.	 TPM Basics
+9.	 7 QC Tools
+10.	Root Cause Analysis
+11.	Poka-Yoka
+12.	Kaizen
+65%
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the 
+Board? (Yes/No) If yes, provide details of the same.
+	
+Yes, as per the Code of Conduct for the Board of Directors and Senior Management, the Directors and Senior 
+Management shall not engage in any business, relationship or activity, which may be in conflict with the interests of 
+the Company. In case there is likely to be a conflict of interest, they are required to make full disclosure of all the facts 
+and circumstances thereof to the Board of Directors and the approval of the Board is required to be obtained. 
+Businesses should provide goods and services in a manner that is sustainable and safe
+PRINCIPLE 2
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively.
+FY 2024 (Current 
+Financial Year)
+FY 2023 
+(Previous 
+Financial Year)
+Details of improvements in environmental and social impacts
+  R & D
+0%
+0%
+-
+Capex
+0.55%
+1.56%
+Installation of rainwater harvesting structure, ETPs, STPs, LED 
+lightings, improvement of health management systems
+Corporate Overview
+Statutory Report
+Financial Statement
+179
+Annual Report 2023-24
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No) 
+	
+	
+Yes, we have a Supplier Code of Conduct, which outlines our expectations and standards for suppliers to ensure 
+that our business is conducted in a sustainable, transparent and ethical manner. Suppliers are expected to fully 
+comply with this Code and to encourage their subcontractors and partners to do the same. 
+	
+	
+The current key focus areas of our Supplier Code of Conduct are more from social compliances which includes 
+General Management, Child Labor & Employee Protection, Prevention of Sexual Harassment, Employee Rights 
+and Participation, Working Hours and Overtime, Occupational Health and Safety, Environmental, Supply Chain 
+Management, Anti-Bribery and Anti-Trust, and Grievance Redressal. Going forward we aim to include focus 
+areas from Sustainability perspective.
+	
+	
+As a part of this Code of conduct, suppliers are expected to ensure that their practices align with ethical sourcing 
+principles, including the responsible sourcing of materials and goods.
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably? 
+	
+	
+100% as per above definition
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end 
+of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+	
+Not applicable 
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same.
+	
+Yes, the Extended Producer Responsibility (EPR) registration is currently in process and the application has been duly 
+submitted to the Central Pollution Control Board (CPCB). 
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+NIC Code 
+Name of 
+Product/ Service
+% of total Turnover 
+contributed
+Boundary for 
+which the Life 
+Cycle Perspective/
+Assessment was 
+conducted
+Whether conducted 
+by independent 
+external agency
+Results 
+communicated in 
+public domain (Yes/
+No) If yes, provide 
+the web-link
+No Lifecycle Assessment was conducted in the reporting year
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of 
+your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other 
+means, briefly describe the same along-with action taken to mitigate the same.
+Name of Product / Service
+Description of the risk / concern
+Action Taken
+Not applicable
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for 
+manufacturing industry) or providing services (for service industry).
+Indicate input material 
+Recycled or re-used input material to total material
+FY 2023-24  
+Current Financial Year
+FY 2022-23  
+Previous Financial Year
+Not Applicable
+Not Applicable
+Not Applicable
+180
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, 
+recycled, and safely disposed, as per the following format:
+FY 2023-24 
+Current Financial Year
+FY 2022-23  
+Previous Financial Year
+Re-used
+Recycled
+Safely
+Disposed
+Re-Used
+Recycled (MT)
+Safely 
+Disposed (MT)
+Plastics (including 
+packaging)
+NA
+NA
+NA
+NA
+NA
+NA
+E-waste
+NA
+NA
+NA
+NA
+NA
+NA
+Hazardous waste
+NA
+NA
+NA
+NA
+NA
+NA
+Other waste
+NA
+NA
+NA
+NA
+NA
+NA
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product 
+category.
+Indicate Product Category 
+ Reclaimed products and their packaging materials as % of 
+total products sold in respective category  
+NA
+NA
+Businesses should respect and promote the well-being of all employees, including those 
+in their value chains
+PRINCIPLE 3
+Essential Indicators
+1.	
+a.	
+Details of measures for the well-being of employees:
+	
+b.	
+Details of measures for the well-being of workers:
+Category
+Total 
+(A)
+% of employees covered by
+Health  
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity  
+benefits
+Day Care 
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+ Permanent employees
+ Male
+2391
+2391
+100%
+2391
+100%
+NA
+NA
+2391
+100%
+NA
+NA
+ Female
+155
+155
+100%
+155
+100%
+155
+100%
+NA
+NA
+0
+0%
+ Total
+2546
+2546
+100%
+2546
+100%
+155
+100%
+2391
+100%
+0
+0%
+ Other than Permanent employees
+ Male
+9
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+NA
+NA
+ Female
+0
+0
+0%
+0
+0%
+NA
+NA
+0
+0%
+0
+0%
+ Total
+9
+0
+0%
+0
+0%
+0%
+0%
+h 0
+0%
+0
+0%
+Category
+Total 
+(A)
+% of employees covered by
+Health  
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity  
+benefits
+Day Care 
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Permanent workers
+ Male
+1316
+1316
+100%
+1316
+100%
+0
+0%
+1316
+100%
+0
+0%
+ Female
+45
+45
+100%
+45
+100%
+45
+100%
+0
+0%
+45
+100%
+ Total
+1361
+1361
+100%
+1361
+100%
+45
+4%
+1316
+97%
+45
+3%
+Corporate Overview
+Statutory Report
+Financial Statement
+181
+Annual Report 2023-24
+Category
+Total 
+(A)
+% of employees covered by
+Health  
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity  
+benefits
+Day Care 
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Other than Permanent workers
+ Male
+5755
+5755
+100%
+5755
+100%
+0
+-
+0
+0%
+0
+0%
+ Female
+1519
+1519
+100%
+1519
+100%
+1519
+0%
+0
+0%
+1519
+100%
+ Total
+7274
+7274
+100%
+7274
+100%
+1519
+0%
+0
+0%
+1519
+21%
+	
+c.	
+Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent) in the following format –
+FY 2023-24 
+Current Financial Year
+FY 2022-23 
+Previous Financial Year
+Cost incurred on well- being measures as a % of total 
+revenue of the company
+0.100%
+0.106%
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY 2024 
+Current Financial Year
+FY 2023 
+Previous Financial Year
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Yes
+100%
+100%
+Yes
+Gratuity
+100%
+100%
+Yes
+100%
+100%
+Yes
+ESI
+100%
+0%
+Yes
+NA
+NA
+NA
+Others – please Specify
+-
+-
+-
+-
+-
+-
+3.	
+Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements 
+of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+	
+Yes, all the premises / offices of Varroc are accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016. Separate toilets and ramps are available for differently 
+able employees and workers.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy.
+	
+Yes, we have a Diversity, Equity, and Inclusion Policy which establishes the company's commitment to maintaining 
+a discrimination-free workplace and promoting a culture of inclusivity among its workforce and stakeholders. The 
+policy can be accessed here. Key aspects of the Diversity, Equity, and Inclusion Policy include:
+ 
+ 
+Proactive Measures: Identifying, analyzing, and addressing diversity challenges within the company and its units.
+ 
+ 
+Compliance: Ensuring all business units adhere to legal and regulatory obligations, as well as Varroc's Code of 
+Business Conduct and Values.
+182
+ 
+ 
+Eliminating Discrimination: Actively working to eliminate discriminatory behavior at all levels of the company.
+ 
+ 
+Harassment-Free Workplace: Guaranteeing a workplace free from harassment for all employees and 
+service providers.
+ 
+ 
+Supportive Environment: Creating a supportive workplace where all individuals feel welcome, respected, and 
+able to achieve their full potential, regardless of their diverse backgrounds.
+ 
+ 
+Adapting Processes: Modifying internal processes and procedures to support diversity and inclusion.
+ 
+ 
+Training and Awareness: Providing training to promote an understanding of diversity and inclusion, which aims 
+to reduce judgmental behavior and enhance the efficiency of multicultural teams.
+ 
+ 
+Confidentiality in Complaints: Maintaining confidentiality in the whistleblower process, with strict controls on the 
+disclosure of information related to complaints.
+ 
+ 
+Enforcement and Discipline: Enforcing policy observance rigorously, with potential disciplinary actions for 
+violations which are conducted through a fair, impartial, and transparent investigation process.
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent Employees
+Permanent Workers
+Return to work 
+rate
+Retention Rate
+Return to  
+work rate
+Retention Rate
+Male
+100%
+82%
+NA
+NA
+Female
+100%
+100%
+NA
+NA
+Total
+100%
+82%
+NA
+NA
+	
+*No parental leaves were availed by the permanent workers
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees 
+and worker? If yes, give details of the mechanism in brief.
+Yes/No
+(If yes, then give details of the mechanism in brief)
+Permanent Workers
+Yes, the Internal Committee (IC) conducts quarterly meetings 
+and maintains a register for all the meeting details and 
+incidences. We receive grievances and a thorough process is in 
+place to investigate the grievances.
+Monthly ‘Vartalap’ meetings are also conducted with an idea to:
+ 
+ 
+Address group of workers & update them with business 
+challenges and other key issues.
+ 
+ 
+Townhall Meetings: Conducted by Plant head to share 
+the 
+last 
+month 
+results 
+& 
+current/upcoming 
+months 
+challenges with the team
+Other than Permanent Workers
+Yes, workers can raise complaints through Internal Committee 
+(IC) quarterly meeting, monthly ‘Vartalap’, townhall meeting or 
+to HR representative. We take necessary measures to investigate 
+and address the grievances.
+Corporate Overview
+Statutory Report
+Financial Statement
+183
+Annual Report 2023-24
+Yes/No
+(If yes, then give details of the mechanism in brief)
+Permanent Employees
+Yes, we have a Whistle Blower Policy in place that defines 
+the mechanism to address all the grievances. For detailed 
+mechanism, please visit our Whistle Blower Policy
+https://varroc.com/investors/corporate-governance/ 
+Other than Permanent Employees
+Yes, we have a Whistle Blower Policy in place that defines 
+the mechanism to address all the grievances. For detailed 
+mechanism, please visit our Whistle Blower Policy
+https://varroc.com/investors/corporate-governance/
+7.	
+Membership of employees and worker in association(s) or Unions recognized by the listed entity
+Category
+FY2024
+FY2023 
+Total 
+employees / 
+workers in 
+respective 
+category (A) 
+No. of 
+employees 
+/ workers in  
+respective 
+category, who 
+are  part of 
+association(s) or 
+Union (B)
+% (B / A)
+Total 
+employees 
+/ workers in  
+respective 
+category (C) 
+No. of 
+employees / 
+workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (D)
+% (D / C)
+Permanent Employees
+Male
+Not Applicable
+Not Applicable
+Female
+Total
+Permanent Workers
+Male
+1315
+1224
+93%
+1332
+1332
+100%
+Female
+45
+41
+91%
+44
+42
+95%
+Total
+1361
+1265
+93%
+1376
+1376
+100%
+8.	
+Details of training given to employees and workers:
+Category
+FY 2024 (Current Financial Year)
+FY 2023 (Previous Financial Year)
+Total 
+(A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total 
+(D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% 
+ (B / A)
+No. (C)
+%  
+(C / A)
+No. (E)
+%  
+(E / D)
+No. (F)
+% (F / D)
+Employees
+Male
+2391
+2391
+100%
+196
+8%
+2175
+2175
+100%
+2175
+100%
+Female
+155
+155
+100%
+11
+7%
+174
+174
+100%
+174
+100%
+Total
+2546
+2546
+100%
+207
+8%
+2349
+2349
+100%
+2349
+100%
+Workers
+Male 
+1316
+636
+48%
+504
+38%
+1332
+1332
+100%
+1332
+100%
+Female
+45
+22
+49%
+13
+29%
+44
+44
+100%
+44
+100%
+Total
+1361
+658
+48%
+517
+38%
+1376
+1376
+100%
+1376
+100%
+184
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2024 (Current Financial Year)
+FY2023 (Previous Financial Year)
+Total (A)
+No.(B)
+% (B/A)
+Total (C)
+No.(D) 
+% (D/C)
+Employees
+Male
+2391
+2250
+94%
+2175
+2117
+97%
+Female
+155
+151
+97%
+174
+142
+82%
+Total
+2546
+2401
+94%
+2349
+2259
+96%
+Workers
+Male
+1316
+532
+40%
+1332
+257
+19%
+Female
+45
+23
+51%
+44
+32
+73%
+Total
+1361
+555
+41%
+1376
+289
+21%
+10.	 Health and safety management system:
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ 
+No). If yes, the coverage such system?
+	
+	
+Yes, we have implemented a comprehensive occupational health & safety management system across all our 
+manufacturing plants as per ISO 45001:2018. This system covers all employees and workers, including those who 
+are not directly employed by us but whose work or workplace is controlled by our organization. Our occupational 
+health and safety management processes include occupational health and safety policy, guidelines, periodic 
+training sessions, strong governance, comprehensive record and monitoring mechanism. We have established 
+a digital portal for recording and monitoring occupational health and safety risks, compliances and other key 
+aspects along with reporting the same to our senior management, for better monitoring and management of 
+health and safety related issues and concerns. 
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis 
+by the entity? 
+	
+	
+We conduct hazard identification and risk assessment as per the ISO 45001:2018 across our operations to assess 
+all aspects of the work environment, processes, equipment, and the behavior of people for identifying any 
+existing or potential sources of harm and key risks in our operations. Each plant has a dedicated EHS personal 
+who is responsible for health and safety related issues. We regularly undertake workplace inspections and audits 
+to identify any potential safety hazards related to machinery, workflow, and employee behaviors. Furthermore, 
+daily safety walks, monthly self-assessment, cross-plant audits mechanisms help in identifying any potential work-
+related hazards. We also engage with employees to gather firsthand information about perceived risks and 
+potential hazards they encounter in their daily operations. 
+	
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from 
+such risks. (Y/N)
+	
+	
+Yes, our workers can report health & safety-related concerns to their line supervisor & EHS Officer of the Plant. 
+Further, worksite safety inspections and audits are conducted to ascertain work-related hazards. The process 
+included multiple review meetings and surveys such as - Statutory Audits, Customer Audits, Layered Audit 
+processes, evaluation and review mechanisms with respect to Management Review Meetings (MRM), monthly 
+inspection meetings, transport committee reviews, safety committee meetings, plant stand down meeting etc. 
+We have installed sign boards at all our plants mentioning the emergency phone number to be reported in case 
+of occurrence of any safety related incident.
+	
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? 
+(Yes/ No)
+	
+	
+Yes, all employees and workers of Varroc have access to non-occupational medical and healthcare services 
+which include annual medical check-up, ESIC, access to a factory medical officer, and a health center.
+Corporate Overview
+Statutory Report
+Financial Statement
+185
+Annual Report 2023-24
+11.	 Details of safety related incidents, in the following format:
+Safety Incident /Number
+Category*
+FY 2023-24 
+(Current Financial 
+Year)
+FY 2022-23 
+(Previous Financial 
+Year)
+Lost Time Injury Frequency Rate (LTIFR) (per one million-
+person hours worked)
+Employees
+0
+0
+Workers
+0.185
+0.55
+Total	 recordable work-related injuries
+Employees
+0
+0
+Workers
+2
+3
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+We have a robust system in place for safety management practices as per the ISO-45001:2018 standard. We conduct 
+HIRA at scheduled intervals and have a process to improve the controls on a continuous basis. We strictly follow the 
+basic hierarchy of safety controls i.e., Eliminate, Substitute, Administrative controls, training, display of signboards and 
+use of PPEs. The Company also has SOPs and work instructions defined for all processes. Further, we plan an annual 
+training calendar, promotional activities at our site to ensure a safe workplace.
+	
+Monitoring and reviewing EHS performance is a cornerstone of our health and safety management practices. The 
+Plant Head, Plant Safety Officer, each business unit has a dedicated EHS lead to convene daily to address ongoing 
+safety issues and review current performance metrics. Monthly business review meetings consists of the Managing 
+Director and CEO, prioritize safety discussions. 
+13.	 Number of Complaints on the following made by employees and workers:
+Category
+FY 2023-24 
+(Current Financial Year)
+FY 2023* 
+(Previous Financial Year)
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of the 
+year
+Remarks
+Working Conditions
+521
+21
+NA
+333
+0
+NA
+Health & Safety
+51
+0
+NA
+60
+0
+NA
+	
+*We have updated the last year’s response as we have changed the methodology to track and categorize the complaints on working 
+conditions and health & safety
+14.	  Assessments for the year:
+Safety Incident /Number
+% of your plants and offices that were assessed (by entity or statutory authorities 
+or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions.
+	
+The company has taken corrective actions to address the significant risk. Hazard Identification and Risk Assessment 
+(HIRA) is prepared, and SOPs are in place for addressing significant concerns. Fire protection and fire-fighting systems, 
+LPG leakage sensors are installed, occupational health centers, first-aid kits at various touch points across all plants, 
+fire alarm systems are provided with alert calling and manual call points in case of any emergency.
+186
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees 
+(Y/N) (B) Workers (Y/N).
+a. Employees (Yes/No)
+Yes
+b. Workers (Yes/No)
+Yes
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and 
+deposited by the value chain partners.
+	
+All the suppliers are required to comply with applicable national laws and regulations as per our agreement. The 
+following measures are taken by the company to ensure that the statutory dues are deducted and deposited by the 
+value chain partners:
+ 
+ 
+Contractual obligations
+ 
+ 
+Regular Audits and Inspections
+ 
+ 
+Compliance Certifications
+ 
+ 
+Training and Awareness Programs
+ 
+ 
+Monitoring Systems
+ 
+ 
+Third-party Verification
+ 
+ 
+Documentation and Record-Keeping
+3.	
+Provide the number of employees / workers having suffered high consequence work-related injury / ill-health 
+/ fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in 
+suitable employment or whose family members have been placed in suitable employment:
+Category
+Total no. of affected employees/ 
+workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment   or whose   family 
+members have been placed in 
+suitable employment
+FY 2023-24 
+(Current 
+Financial Year)
+FY 2022-23 
+(Previous 
+Financial Year)
+FY 2023-24 
+(Current 
+Financial Year)
+FY 2022-23 
+(Previous 
+Financial Year)
+  Employees
+0
+0
+0
+0
+  Workers
+0
+0
+0
+0
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment? (Yes/ No)
+	
+No 
+5.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that 
+were assessed
+Health and safety practices
+100%
+Working Conditions
+100%
+Corporate Overview
+Statutory Report
+Financial Statement
+187
+Annual Report 2023-24
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+	
+PQCDSM stands for Productivity, Quality, Cost, Delivery, Safety and Morale which is a monitoring system that we have 
+put in place for all LTS suppliers. This assessment covers a total of 115 suppliers.
+Businesses should respect the interests of and be responsive to all its stakeholders
+PRINCIPLE 4
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Our stakeholder-centric approach allows us to identify and engage meaningfully with key internal and external 
+stakeholder groups. We have identified our stakeholder groups as our senior management, employees, customers, 
+communities and vendors to understand and categorize the various stakeholder groups that have a direct and 
+immediate impact on the entity’s operations and outcomes. 
+	
+We analyze each stakeholder group to understand their potential impact and expectations with respect to our 
+overall performance. We engage with various stakeholders through surveys, interviews, and focus groups to gain a 
+nuanced understanding of their needs and expectations as well.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+S. 
+No.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly 
+/ others – please 
+specify) 
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement 
+1
+Shareholders
+No
+Annual General Meeting, 
+Emails, Newspaper, 
+Website, Press Release
+Annual, Periodic
+Business Performance, 
+Business Updates
+2
+Investors 
+(other than 
+shareholders)
+No
+Investor Calls, meets, emails
+Annual, Periodic
+Business Performance, 
+Financial Performance
+3
+Customers
+No
+Emails, SMS, advertisements, 
+website, social media
+Monthly
+Offers
+4
+Employees 
+and Workers
+No
+Town halls, training sessions, 
+emails, intranet
+Monthly
+Employee engagement, 
+talent management
+5
+Distributor 
+channel 
+partner
+No
+Email, SMS, advertisement, 
+meetings, website
+Monthly
+Business target, incentives, 
+query resolution
+6
+Vendors
+No
+Email, vendor meetings
+Monthly
+Query and grievance 
+redressal
+7
+Community
+Yes
+On site CSR work meetings
+Monthly
+CSR Developmental 
+Programmes
+188
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social 
+topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+The company has several avenues for stakeholder interaction on ESG parameters which includes internal designated 
+ESG, EHS and compliance officers. Apart from that, ESG steering committee of the board is the apex body that 
+reviews and approves the ESG policy, ESG goals and ESG performance and has oversight of the ESG activities in the 
+Company. On ground implementation of the ESG policies are conducted and managed by individual operational 
+committees for environment, social and governance.
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and 
+social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these 
+topics were incorporated into policies and activities of the entity.
+	
+Yes, stakeholder consultation is used in identifying and management ESG-related topics for the entity. As a part of the 
+materiality assessment conducted during the financial year, we engaged with our key stakeholder groups to understand 
+their perspectives on significant material environment, social and governance issues for the entity. We endeavor to 
+maintain regular communication with our stakeholders through various stakeholder communication channels.  
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups.
+	
+The Company’s CSR initiatives focus on various aspects of community engagement and social welfare. The Company 
+has been able to generate a positive social impact through its CSR initiatives that are focused on education, 
+environmental restoration and sports training and welfare for youth athletes. The CSR strategy is approved and 
+periodically reviewed by CSR Committee of the board and believes in Optimizing Impact on Communities and 
+Beneficiaries. For more information, kindly refer to the Corporate Social Responsibility Report mentioned in Annual 
+Report and Sustainability Report for project details.
+Businesses should respect and promote human rights
+PRINCIPLE 5
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, 
+in the following format:
+Category
+FY 2023-24 
+Current Financial Year
+FY 2022-23 
+Previous Financial Year
+Total (A)
+No. of 
+employees / 
+workers covered 
+(B)
+% (B / A)
+Total (C) 
+No. of 
+employees / 
+workers covered 
+(D)
+% (D / C)
+Employees
+Permanent
+2546
+2546
+100%
+2349
+2349
+100%
+Other than 
+permanent
+9
+9
+100%
+9
+9
+100%
+Total Employees 
+2555
+2555
+100%
+2358
+2358
+100%
+Workers
+Permanent
+1361
+1361
+100%
+1376
+1376
+100%
+Other than 
+permanent
+7274
+7274
+100%
+6658
+6658
+100%
+Total Workers
+8635
+8635
+100%
+8034
+8034
+100%
+Corporate Overview
+Statutory Report
+Financial Statement
+189
+Annual Report 2023-24
+Category
+FY 2023-24  
+Current Financial Year
+FY 2022-23 
+Previous Financial Year
+Total 
+(A)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+No. (B)
+% 
+ (B / A)
+No. (C)
+%  
+(C / A)
+No. (E)
+%  
+(E / D)
+No. (F)
+% (F / D)
+Employees
+Permanent
+Male
+2391
+0
+0%
+2391
+100%
+2175
+0
+0%
+2175
+100%
+Female
+155
+0
+0%
+155
+100%
+174
+0
+0%
+174
+100%
+Other than permanent
+Male 
+9
+0
+0%
+9
+100%
+8
+0
+0%
+8
+100%
+Female
+0
+0
+0%
+0
+0%
+1
+0
+0%
+1
+100%
+Workers
+Permanent
+Male 
+1316
+0
+0%
+1316
+100%
+1332
+87
+7%
+1245
+93%
+Female
+45
+0
+0%
+45
+100%
+44
+2
+4%
+42
+96%
+Other than permanent
+Male 
+5755
+5130
+89%
+625
+11%
+5979
+5979
+100%
+0
+0%
+Female
+1519
+1423
+94%
+95
+6%
+679
+679
+100%
+0
+0%
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+3.	
+Details of remuneration/salary/wages 
+	
+a.	
+Median remuneration / wages:
+S. 
+No.
+Type of employee
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+1
+Board of Directors (BoD)
+7
+3,500,000
+1
+3,500,000
+2
+Key Management Personnel 
+(KMP)
+2
+23,963,300
+0
+-
+3
+Employees other than BoD 
+and KMP
+2378
+716,414
+155
+972,682
+4
+Workers
+1316
+43,292
+45
+43,078
+	
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY 2023-24 
+Current Financial Year
+FY 2022-23 
+Previous Financial Year
+Gross wages paid to females 
+as % of total wages
+7.06%
+7.09%
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business? (Yes/No)
+	
+Yes, we have Human rights policy and a focal point to address any human rights issues that are reported wherever 
+we do business. Our policy highlights our commitment to respecting the human rights of our workforce, communities 
+and those affected by our operations wherever we do business. In addition to our policy framework, we have 
+committees such as Health and Safety and POSH which are responsible for overseeing the human rights-related 
+issues and concerns in our organization.
+190
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+Yes, the following mechanisms provide the employees with secure and 24x7 access to raise their grievances and to 
+report confidentially without any fear of retaliation regarding any breach of policies and procedures in the company:
+	
+a)	
+Whistleblower Policy
+	
+b)	
+Policy on Prevention and Redressal of Sexual Harassment at Workplace
+	
+c)	
+Ethics Committee
+6.	
+Number of Complaints on the following made by employees and workers:
+Category
+FY2024  
+(Current Financial Year)
+FY2023  
+(Previous Financial Year)
+Filed during 
+the year
+Pending 
+resolution at 
+the end of the 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of the 
+year
+Remarks
+Sexual Harassment
+1
+1
+IC team & External 
+consultant 
+investigated the 
+case and the 
+below action was 
+concluded:
+This case is upheld 
+as a case of sexual 
+harassment and 
+the respondent 
+is liable for 
+appropriate 
+punishment as per 
+the company’s 
+policy.
+Recommendations 
+shared for 
+Management to 
+take actions:
+1.Complainant:  
+Verbal sensitization 
+for displaying 
+professional 
+and personal 
+boundaries at the 
+workplace.
+2. Respondent: 
+Respondent should 
+be penalized 
+for his action – 
+written apology 
+and stoppage of 
+increment for one 
+year
+2
+0
+Both the 
+complaints 
+that were 
+filed during 
+the year 
+has been 
+resolved
+Corporate Overview
+Statutory Report
+Financial Statement
+191
+Annual Report 2023-24
+Category
+FY2024  
+(Current Financial Year)
+FY2023  
+(Previous Financial Year)
+Filed during 
+the year
+Pending 
+resolution at 
+the end of the 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of the 
+year
+Remarks
+Discrimination at 
+workplace
+0
+0
+-
+0
+-
+-
+Child Labor
+0
+0
+-
+0
+-
+-
+Forced Labor/ 
+Involuntary Labor
+0
+0
+-
+0
+-
+-
+Wages
+0
+0
+-
+0
+-
+-
+Other human rights 
+related issues
+0
+0
+-
+0
+-
+-
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) 
+Act, 2013, in the following format:
+FY2024
+FY2023
+Total Complaints reported under Sexual Harassment on of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+1
+2
+Complaints on POSH as a % of female employees / workers
+0.06%
+0.22%
+Complaints on POSH upheld
+1
+0
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+The POSH policy is disclosed on the website. https://varroc.com/investors/corporate-governance/ 
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes, Human rights-related issues are covered under the General Purchase Agreement as part of legal compliance.
+10.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities 
+or third parties)
+Child labor
+100%
+Forced/involuntary labor
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others – please specify
+-
+11.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+the assessments at Question 10 above.
+	
+To avoid the need of corrective actions, we have implemented process and procedures in the initial stage of resourcing, 
+hiring and deployment. In addition, recognizing the social consequences of discrimination, labor malpractices, 
+harassment, we have regular training sessions arranged for all employees to foster a safe and respectful workplace .
+192
+Leadership Indicators
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints. 
+	
+No business process was modified as a result of addressing any human rights-related grievances.
+2.	
+Details of the scope and coverage of any Human rights due diligence conducted.
+	
+Yes, we conduct human rights due diligence at all plants and offices to identify and address any potential human 
+rights-related risks in our business operations.  The focus areas of our human rights due diligence include fair wages, 
+POSH-related trainings and assessment, grievances-related mechanisms, and workplace safety. 
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights 
+of Persons with Disabilities Act, 2016?
+	
+Yes, all the offices are accessible to differently abled employees, workers, and visitors, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016. Within our premises, separate toilets and ramps are available to ensure 
+accessibility to the differently abled. 
+4.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were 
+assessed
+Sexual harassment
+Not Available
+Discrimination at workplace
+Not Available
+Child labor
+Not Available
+Forced/involuntary labor
+Not Available
+Wages
+Not Available
+Others – please specify
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+the assessments at Question 4 above.
+	
+Not Applicable 
+Businesses should respect and make efforts to protect and restore the environment
+PRINCIPLE 6
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2024 (Current 
+Financial Year)
+FY 2023* (Previous 
+Financial Year)
+From renewable sources
+Total electricity consumption (A) - GJ
+64,495
+61,378
+Total fuel consumption (B) – GJ
+0
+0
+Energy consumption through other sources (C) – GJ
+0
+0
+Total energy consumed from renewable sources (A+B+C) - GJ
+64,495
+61,378
+From non-renewable sources
+Total electricity consumption (D) – GJ
+355,308
+343,582
+Total fuel consumption (E) – GJ
+72,451
+79,121
+Energy consumption through other sources (F) – GJ
+0
+0
+Total energy consumed from non-renewable sources (D+E+F) – GJ
+427,759
+422,703
+Total energy consumed (A+B+C+D+E+F) – GJ
+492,254
+484,081
+Corporate Overview
+Statutory Report
+Financial Statement
+193
+Annual Report 2023-24
+Parameter
+FY 2024 (Current 
+Financial Year)
+FY 2023* (Previous 
+Financial Year)
+Energy intensity per rupee of turnover (Total energy consumed/Revenue 
+from operations) – GJ/INR Lakhs
+1.08
+1.22
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (Total energy consumed / Revenue from operations adjusted for PPP)
+1.09
+1.23
+Energy intensity in terms of physical output
+NA
+NA
+Energy intensity (optional) – the relevant metric may be selected by the entity
+NA
+NA
+	
+*The numbers are updated for the year FY2023 based on change in the methodology to track and categorize energy sources.
+	
+b.	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+	
+No
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under 
+the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action 
+taken, if any. 
+	
+PAT scheme does not apply to Varroc Engineering Limited
+3.	
+a.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2024 (Current 
+Financial Year)
+FY 2023 (Previous 
+Financial Year)
+Water withdrawal by source (in kiloliters)
+(i)	 Surface water
+68,795
+8,551
+(ii)	 Groundwater
+30,541
+22,109
+(iii)	Third party water
+122,653
+226,029
+(iv)	Seawater / desalinated water
+0
+0
+(v)	Others
+7,683
+0
+Total volume of water withdrawal (in kiloliters) (i + ii + iii + iv + v)
+229,672
+256,689
+Total volume of water consumption (in kiloliters)
+230,224
+248,687
+Water intensity per rupee of turnover (Total water consumption / Revenue 
+from operations) – KL/INR Lakhs
+0.51
+0.63
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (Total water consumption / Revenue from operations adjusted for PPP)
+0.51
+0.63
+Water intensity in terms of physical output
+NA
+NA
+Water intensity (optional) – the relevant metric may be selected by the entity
+NA
+NA
+	
+b.	
+Indicate if any independent assessment/ evaluation/assurance has been carried out Water Withdrawal and 
+Consumption data by an external for agency? (Yes/No)
+	
+	
+No
+194
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY 2024 (Current 
+Financial Year)
+FY 2023 (Previous 
+Financial Year)
+Water discharge by destination and level of treatment (in kiloliters)
+(i)	 To Surface water
+0
+0
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment – please specify level of treatment
+0
+0
+(ii)	 To Groundwater
+0
+0
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment – please specify level of treatment
+0
+0
+(iii)	To Seawater
+0
+0
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment – please specify level of treatment
+0
+0
+(iv)	Sent to third parties - CETP
+19,853
+17,031
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment – please specify level of treatment
+19,853
+17,031
+	
+(v)	Others
+0
+0
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment – please specify level of treatment
+0
+0
+Total water discharged (in kiloliters)
+19,853
+17,031
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+No
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+ Yes, we have successfully implemented Zero Liquid Discharge (ZLD) at our VEL VII plant and are actively exploring 
+suitable opportunities to expand this initiative to our other plants. 
+6.	
+a.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2024
+(Current Financial 
+Year)
+FY 2023 (Previous 
+Financial Year)
+NOx
+mg/Nm3
+29.04
+35.46
+SOx
+mg/Nm3
+16.64
+16.32
+Particulate matter (PM)
+mg/Nm3
+42.69
+41.47
+Persistent organic pollutants (POP)
+NA
+NA
+NA
+Volatile organic compounds (VOC)
+NA
+NA
+NA
+Hazardous air pollutants (HAP)
+NA
+NA
+NA
+Others – please specify
+NA
+NA
+NA
+	
+b.	
+Indicate if any independent assessment/evaluation/assurance has been carried out for Air Emissions (other than 
+GHG Emissions) by an external agency? (Yes/No)
+	
+	
+No
+Corporate Overview
+Statutory Report
+Financial Statement
+195
+Annual Report 2023-24
+7.	
+a.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Please specify 
+unit
+FY2024  
+(Current Financial 
+Year)
+FY2023*  
+(Previous Financial 
+Year)
+Total Scope 1 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+MtCO2e
+5,156
+5,591
+Total Scope 2 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+MtCO2e
+79,944
+77,306
+Total Scope 1 and Scope 2 emission intensity per 
+million rupee of turnover (Total Scope 1 and Scope 
+2 GHG emissions / Revenue from operations)
+MtCO2e/INR 
+Lakhs
+0.19
+0.21
+Total Scope 1 and Scope 2 emission intensity per 
+rupee of turnover adjusted for Purchasing Power 
+Parity (PPP) (Total Scope 1 and Scope 2 GHG 
+emissions / Revenue from operations adjusted for 
+PPP
+MtCO2e/INR 
+Lakhs
+0.19
+0.21
+Total Scope 1 and Scope 2 emission intensity in 
+terms of physical output
+NA
+NA
+NA
+Total Scope 1 and Scope 2 emission intensity 
+(optional) – the relevant metric may be selected 
+by the entity
+NA
+NA
+NA
+	
+	
+* The numbers are updated for the year FY2023 based on the updated calculation methodology as per the energy sources.
+	
+	
+b.	
+Indicate if any independent assessment/ evaluation/assurance has been carried out for total GHG Emissions 
+by an external agency? (Yes/No)
+	
+	
+	
+No
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details.
+	
+Yes, our team leads impactful GHG emission reduction projects, targeting key areas of energy conservation. We have 
+carried out various projects to improve energy efficiency and reduce GHG emissions. Some thematic areas include:
+	
+1.	
+Implementation of energy efficiency and conservation programs at all our manufacturing plants: we conduct 
+energy audits each year for all the plants to identify opportunities of reducing consumption in the areas of 
+compressed air systems, furnace heat loss, energy efficient lightings, etc. We are targeting 3% reduction in total 
+energy consumption through the energy audits.
+	
+2.	
+Renewable Energy Penetration: we have installed solar rooftop systems in more than 50% of our plants and 
+plan to increase the capacity at all the plants in the coming years. We are also identifying new opportunities to 
+expand the Solar/Wind Captive generation capacity.
+	
+3.	
+Environmental Management Systems (EMS): we have implemented an online EMS which helps us track the 
+energy consumption specifically for our products and optimize wherever possible.
+	
+4.	
+Optimizing the value chain logistics to reduce our fuel consumption.
+196
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2024 (Current 
+Financial Year)
+FY 2023 (Previous 
+Financial Year)
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+1,150.79
+802.18
+E-waste (B)
+8.12
+4.56
+Bio-medical waste (C)
+0.04
+0.03
+Construction and demolition waste (D)
+0
+3.02
+Battery waste (E)
+22.41
+1.76
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any. (G)
+640.63
+610.00
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-
+up by composition i.e., by materials relevant to the sector)
+7,488.95
+7,094.00
+Total (A+B + C + D + E + F + G + H)
+9,310.94
+8,515.55
+Waste intensity per rupee of turnover (Total waste generated/Revenue 
+from operations) – MT/INR Lakhs
+0.0205
+0.021
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (Total waste generated / Revenue from operations adjusted for PPP)
+0.0205
+0.021
+Waste intensity in terms of physical output
+NA
+NA
+Waste intensity (optional) – the relevant metric may be selected by the entity
+NA
+NA
+Parameter
+FY2023-24
+FY2022-23
+(i)	 Recycled
+8,512.16
+8,047
+(ii)	 Re-used
+83.68
+112
+(iii)	Other recovery operations
+1.18
+0
+Total
+8,597.02
+8,159
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i)	 Incineration
+161.40
+91.84
+(ii)	 Landfilling
+84.74
+111
+(iii)	Other disposal operations
+339.13
+0
+Total
+585.27
+202.84
+	
+b.	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency?
+	
+	
+No
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy 
+adopted by your company to reduce usage of hazardous and toxic chemicals in your products and processes 
+and the practices adopted to manage such wastes.
+	
+We have adopted waste management practices as per the statutory/regulatory requirements. For managing all the 
+waste coming from the operations, we have clearly bifurcated the hazardous and non-hazardous waste categories 
+and separate collection bins are installed at each shop/cell. Waste remains segregated at all times, including during 
+transit from floor to the storage and within the storage area. Relevant vendors have been identified and authorized 
+to safety and sustainably manage the waste. All waste except E-waste is disposed within 90 days.
+Corporate Overview
+Statutory Report
+Financial Statement
+197
+Annual Report 2023-24
+11.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details in the following format:
+S. 
+No
+Location of operations/
+offices
+Type of Operation
+Whether the conditions of 
+environmental approval /clearance are 
+being complied with? (Yes/No)
+If no, the reasons thereof 
+and corrective action 
+taken, if any.
+Not Applicable 
+S. 
+No
+Specify the law / regulation 
+/ guidelines which was not 
+complied with
+Provide details of the non-
+compliance
+Any fines / penalties / 
+action taken by regulatory 
+agencies such as pollution 
+control boards or by courts
+Corrective 
+action taken, 
+if any
+1
+Water (Prevention & Control 
+of Pollution) Act, 1974
+No non-compliance
+Nil
+NA
+2
+Air (Prevention & Control of 
+Pollution) Act, 1981
+No non-compliance
+Nil
+NA
+3
+Environmental Protection Act, 
+1986
+Proposed directions received 
+on 17-05-23 (VEL VIII) & 27-04-
+23 (VEL V) Interim directions 
+received on 22-02-24 (VEL VII)
+No fine/ penalty
+Compliance 
+submitted and 
+closed
+4
+Hazardous & Other waste (M 
+and T M) Rules 2016
+No non-compliance
+Nil
+NA
+S. 
+No
+Name and brief 
+details of project
+EIA  
+Notification No.
+Date
+Whether conducted 
+by independent 
+external agency 
+(Yes / No)
+Results 
+communicated 
+in public domain 
+(Yes / No)
+Relevant 
+Web link
+Not Applicable 
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in 
+the current financial year:
+13	
+Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the 
+Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment 
+protection act and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following 
+format:
+Leadership Indicators
+1.	
+a.	
+Water withdrawal, consumption and discharge in areas of water stress (in kiloliters):
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area
+	
+(ii)	
+Nature of operations
+	
+(iii)	 Water withdrawal, consumption and discharge in the following format:
+198
+Parameter
+FY 2024 (Current 
+Financial Year)
+FY 2023 (Previous 
+Financial Year)
+Water withdrawal by source (in kiloliters)
+(i)	 Surface water
+NA
+NA
+(ii)	 Groundwater
+NA
+NA
+(iii)	Third party water
+NA
+NA
+(iv)	Seawater / desalinated water
+NA
+NA
+(v)	Others
+NA
+NA
+Total volume of water withdrawal (in kiloliters) 
+NA
+NA
+Total volume of water consumption (in kiloliters)
+NA
+NA
+Water intensity per rupee of turnover (Water consumed/turnover?
+NA
+NA
+Water intensity (optional) – the relevant metric may be selected by the 
+entity
+NA
+NA
+Water discharge by destination and level of treatment (in kiloliters)
+(i)	 To Surface water
+NA
+NA
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(ii)	 To Groundwater
+NA
+NA
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(iii)	To Seawater
+NA
+NA
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(iv)	Sent to third parties
+NA
+NA
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(v)	Others
+NA
+NA
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+Total water discharged (in kiloliters)
+NA
+NA
+	
+b.	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. 
+2.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+	
+We are in the process of identifying material Scope 3 categories as per the GHG Protocol and we will report 
+in coming years.
+Parameter
+Unit
+FY 2023-24 
+(Current Financial 
+Year)
+FY 2022-23 
+(Previous Financial 
+Year)
+Total Scope 3 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+NA
+NA
+Total Scope 3 emissions per rupee of turnover
+NA
+NA
+Total Scope 3 emission intensity (optional) – the 
+relevant metric may be selected by the entity
+NA
+NA
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+Corporate Overview
+Statutory Report
+Financial Statement
+199
+Annual Report 2023-24
+3.	
+With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention 
+and remediation activities.
+	
+Not Applicable
+4.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve 
+resource efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide 
+details of the same as well as outcome of such initiatives, as per the following format: 
+S. 
+No
+Initiative undertaken
+Details of the initiative (Web-link, if any, may  
+be provided along-with summary)
+Outcome of the 
+initiative
+1
+Energy Efficiency
+1.	 Compressed air arresting and optimization
+2.	 Lighting automation (motion sensor)
+3.	 Demand load optimization
+4.	 VFD for MTC pumps
+5.	 Switching off standby pumps
+6.	 LED lighting replacements
+More than 1.4 
+million kWh units 
+saved
+2
+Renewable Energy
+1.	 Installed solar rooftop systems in more than 50% of the 
+plants.
+2.	 Currently, two of the plants have captive solar/wind 
+plants capacity
+Total RE 
+generation in 
+FY24 was more 
+than 18 million 
+kWh
+3
+Water – Zero Liquid Discharge
+Implemented Zero Liquid Discharge systems in one of our 
+plants using ETP systems
+Reduction 
+in effluent 
+discharge
+4
+Water – Recycling for non-
+process requirements
+We have installed STPs, Coolant Treatment Plants (CTPs) 
+at all our plants for recycling the wastewater and the 
+treated water are used for gardening related activities
+More than 10% of 
+water recycled/
+reused
+5.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+We have developed an OEP (Onsite Emergency plan) for all our sites to ensure business continuity and adequate 
+preparedness for disaster management. We have identified potential emergencies and natural disasters such as 
+Fire, Electrocution, Fall from height, Chemical/ Acid exposure, Earthquake, Natural disasters among others. In order 
+to prevent any adverse impacts as a result of these events, we have incorporated the following key aspects:
+ 
+ 
+Formed emergency response teams in our plants
+ 
+ 
+Formed firefighting and first aider teams in our plants
+ 
+ 
+Deployment of minimum number of first aiders and fire fighters at all times in the plant
+ 
+ 
+Conducting mock drills and plant level evacuation at scheduled intervals
+6.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard.
+	
+Not Applicable
+7.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts.
+	
+Not Applicable
+200
+S. 
+No
+Name of the trade and industry chambers/
+associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1
+Automobile Component Manufacturers 
+Association (ACMA)
+National
+2
+Society of Indian Automobile Manufacturers 
+(SIAM)
+National
+3
+Bajaj Auto Vendor Association (BAVA)
+State
+4
+Confederation of Indian Industries (CII)
+National
+5
+Marathwada Association of Small-Scale Industries 
+& Agriculture (MASSIA)
+State
+6
+Chamber of Marathwada Industries Association 
+(CMIA)
+State
+Businesses when engaging in influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparent
+PRINCIPLE 7
+Essential Indicators
+1.	
+a.	
+Number of affiliations with trade and industry chambers/ associations. 
+	
+6
+	
+b.	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such 
+body) the entity is a member of/ affiliated to.
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by 
+the entity, based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case 
+Corrective action taken
+Not Applicable
+Not Applicable
+Not Applicable
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity:
+S. 
+No
+Public policy 
+advocated
+Method resorted 
+for such advocacy
+Whether information 
+available in public 
+domain? (Yes/No)
+Frequency of Review by 
+Board (Annually/Half yearly/
+Quarterly/Others – please 
+specify
+Web link, if available
+Not Applicable
+Corporate Overview
+Statutory Report
+Financial Statement
+201
+Annual Report 2023-24
+Businesses should promote inclusive growth and equitable development
+PRINCIPLE 8
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in 
+the current financial year.
+Name and brief
+details of project
+SIA  
+Notification  
+No.
+Date of 
+notification
+Whether conducted by 
+independent external 
+agency (Yes /No)
+Results 
+communicated in 
+public domain  
+(Yes / No)
+Relevant  
+Web link
+Not Applicable
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken 
+by your entity, in the following format:
+S. 
+No
+Name of project for 
+which R&R is ongoing
+State 
+District 
+No. of Project Affected 
+Families (PAFs)
+% of PAFs 
+covered by R&R
+Amounts paid 
+to PAFs in the  
+FY (in INR)
+Not applicable 
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+Since our beginnings, we have consciously and consistently intended to focus on the true CSR concept of protecting 
+the communities we work in. We have identified our focus areas by considering three areas: promoting inclusivity, 
+providing opportunities for social mobility, and empowering the community. Details of our CSR initiatives have been 
+outlined in our Annual Report and Sustainability Report but briefly, we focus on youth empowerment in professional 
+youth sports, in biodiversity conservation alongside our long-term dedicated partner EcoSattva who focuses on 
+conservation through community engagement, and vocational education specifically to support the growing need 
+for talent within the manufacturing industry through our tie up with TISS’s bachelor’s degree programmes. Grievance 
+redressal mechanisms for these initiatives specifically are available through dedicated POCs for each project. 
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Parameter
+FY 2024 (Current 
+Financial Year)
+FY2023 (Previous 
+Financial Year
+Directly sourced from MSMEs/ small producers
+33%
+35%
+Directly from within India
+95%
+94%
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers 
+employed on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage 
+cost.
+Location 
+FY 2024 (Current 
+Financial Year)
+FY2023 (Previous 
+Financial Year
+Rural
+0%
+0%
+Semi-urban
+5%
+7%
+Urban
+92%
+90%
+Metropolitan
+3%
+3%
+202
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact 
+Assessments (Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified 
+Corrective action taken 
+Not applicable
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts 
+as identified by government bodies:
+S. 
+No
+State 
+Aspirational District
+Amount spent (in INR)
+Nil
+Nil
+Nil
+Nil
+3.	
+(a)	 Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups? 
+	
+	
+No, at present we do not have preferential procurement policy for suppliers from marginalized/vulnerable groups.
+	
+(b)	 From which marginalized /vulnerable groups do you procure? 
+	
+	
+No procurement was done from marginalized/vulnerable groups.
+	
+(c)	 What percentage of total procurement (by value) does it constitute? 
+	
+	
+0%
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in 
+the current financial year), based on traditional knowledge:
+S. 
+No
+Intellectual Property based on traditional 
+knowledge
+Owned/Acquired 
+(Yes/No)
+Benefit shared 
+(Yes/No)
+Basis of calculating  
+benefit share
+Not Applicable, as no intellectual properties owned based on traditional knowledge
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved.
+Name of authority 
+Brief of the Case
+Corrective action taken
+Not Applicable
+S. 
+No
+CSR Project
+No. of persons 
+benefitted from 
+CSR projects
+% of beneficiaries 
+from vulnerable 
+and marginalized 
+groups
+1
+Varroc Vengsarkar Cricket Academy (VVCA) 
+547
+-
+2
+Varroc Interschool & Industrial Cricket Tournament 
+1,200
+-
+3
+Varroc Academy 
+250
+-
+6.	
+Details of beneficiaries of CSR Projects:
+Corporate Overview
+Statutory Report
+Financial Statement
+203
+Annual Report 2023-24
+S. 
+No
+CSR Project
+No. of persons 
+benefitted from 
+CSR projects
+% of beneficiaries 
+from vulnerable 
+and marginalized 
+groups
+4
+BAJA SAEINDIA Event (PRIZE SPONSORSHIP) 
+11,473 students 
+(425 no. of 
+engineering 
+colleges)
+-
+5
+Kham River Eco Restoration Project 
+Chh. 
+Sambhajinagar 
+District
+-
+6
+Abhinav Bindra Foundation Trust (ABFT) – It focuses on uplifting the 
+Indian Sporting Ecosystem
+7
+-
+	
+*For more information about CSR projects, please refer to Corporate Social Responsibility section of the Annual Report and Sustainability 
+Report FY2023-24 
+Businesses should engage with and provide value to their consumers in a 
+responsible manner
+PRINCIPLE 9
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+All consumer complaints that are received are duly acknowledged on receipt and attended on priority to ensure 
+resolution as per the defined schedule and organizational hierarchy. An individual Key Account Manager is assigned 
+to each customer to ensure that their complaint and feedback are duly received and adequately addressed in a 
+timely manner. 
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information 
+about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product 
+Not Applicable
+Safe and responsible usage 
+Not Applicable
+Recycling and/or safe disposal 
+Not Applicable
+3.	
+Number of consumer complaints in respect of the following:
+FY 2023-24 
+(Current Financial Year)
+FY 2022-23 
+(Previous Financial Year)
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Data privacy
+0
+0
+-
+0
+0
+-
+Advertising
+0
+0
+-
+0
+0
+-
+Cyber-security
+0
+0
+-
+0
+0
+-
+Delivery of essential services
+0
+0
+-
+0
+0
+-
+Restrictive Trade Practices
+0
+0
+-
+0
+0
+-
+Unfair Trade Practices
+0
+0
+-
+0
+0
+-
+Other
+0
+0
+-
+0
+0
+-
+204
+4.	
+Details of instances of product recalls on account of safety issues:
+	
+Not applicable since the products are sold to OEMs and aftermarkets and not directly to end customers. The primary 
+control for the product is with the OEMs/customers.
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If 
+available, provide a web-link of the policy. 
+	
+Yes, the company has an internal IT policy that establishes guidelines for the company’s employees and end users 
+regarding the use of the company’s IT facilities and services in the intranet. Data Security is one of the key elements 
+of the policy, aimed at ensuring the confidentiality, integrity, and availability of data while effectively managing risks. 
+Further, the company has obtained ISO 27001:2022 for managing and continually improving information security. Our 
+corporate office in Pune has obtained Tisax certification.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery 
+of essential services; cyber security and data privacy of customers; re-occurrence of instances of product 
+recalls; penalty / action taken by regulatory authorities on safety of products / services. 
+	
+No such issues were reported in the current financial year; hence no corrective actions were required to be undertaken.
+7.	
+Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches: 0
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers: 0
+	
+c.	
+Impact, if any, of the data breaches: 0
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web 
+link, if available).
+	
+All the products and services of Varroc Engineering can be accessed on the company website www.varroc.com 
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+These are part specifications that are mutually agreed upon and signed off with customers.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+Not applicable 
+4.	
+Does the entity display product information on the product over and above what is mandated as per local 
+laws? (Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey about 
+consumer satisfaction relating to the major products/services of the entity, significant locations of operation of 
+the entity or the entity as a whole? (Yes/No)
+	
+Not Applicable 
+Leadership Indicators
+Number
+Reasons for recall
+Voluntary recalls
+Not Applicable
+Not Applicable
+Forced recalls
+Not Applicable
+Not Applicable
+Corporate Overview
+Statutory Report
+Financial Statement
+205
+Annual Report 2023-24

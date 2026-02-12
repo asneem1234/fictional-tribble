@@ -1,0 +1,4365 @@
+150
+Annual Report 2023-24
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L40100GJ1995PLC025447
+2
+Name of the Listed Entity
+SUZLON ENERGY LIMITED
+3
+Year of incorporation
+1995
+4
+Registered office address
+“Suzlon”, 5, Shrimali Society, Near Shri Krishna Complex, 
+Navrangpura, Ahmedabad-380009
+5
+Corporate address
+“Suzlon”, 5, Shrimali Society, Near Shri Krishna Complex, 
+Navrangpura, Ahmedabad-380009
+6
+E-mail
+investors@suzlon.com
+7
+Telephone
++91-79 660 45000
+8
+Website
+www.suzlon.com
+9
+Financial year for which reporting is being done
+April 1, 2023 to March 31, 2024
+10
+Name of the Stock Exchange(s) where shares are 
+listed
+National Stock Exchange of India Limited and BSE Limited
+11
+Paid-up Capital
+` 2721,71,82,381/- (Rupees Two Thousand Seven Hundred Twenty 
+One Crores Seventy One Lacs Eighty Two Thousand Three Hundred 
+Eighty One Only) divided into 1361,26,88,222 (One Thousand Three 
+Hundred Sixty One Crores Twenty Six Lacs Eighty Eight Thousand 
+Two Hundred Twenty Two) equity shares comprising of 1360,44,94,159 
+(One Thousand Three Hundred Sixty Crores Forty Four Lacs Ninety 
+Four Thousand One Hundred Fifty Nine) fully paid-up equity shares 
+having a face value of ` 2.00 (Rupees Two Only) each bearing ISIN 
+INE040H01021 and 81,94,063 (Eighty One Lacs Ninety Four Thousand 
+Sixty Three) partly paid-up equity shares having a face value of ` 2.00 
+(Rupees Two Only) each with Re.1.00 (Rupee One Only) each paid-up 
+bearing ISIN IN9040H01011.
+12
+Name and contact details (telephone, email 
+address) of the person who may be contacted in 
+case of any queries on the BRSR report
+Nishtha Gupta (She/Her)
+Head – Sustainability & ESG
+Suzlon Energy Ltd.
+Suzlon One Earth, Sky Building, Hadapsar, Pune 411028
++91-20-670 22000
+nishtha.gupta@suzlon.com
+13
+Reporting boundary - Are the disclosures under 
+this report made on a standalone basis (i.e., only for 
+the entity) or on a consolidated basis (i.e., for the 
+entity and all the entities which form a part of its 
+consolidated financial statements, taken together).
+The disclosures (unless otherwise specified) made in this report is 
+for Suzlon Energy Limited (SEL) and its subsidiaries namely Suzlon 
+Global Services Limited (“SGSL”), Suzlon Gujarat Wind Park Limited 
+(“SGWPL”) and SE Forge Limited (“SE Forge”) collectively referred to 
+as “Suzlon” or “Suzlon Group”.
+14
+Name of assurance provider
+ SGS India Private Limited
+(Parent company-SGS based in Geneva, Switzerland)
+15
+Type of assurance obtained
+Reasonable assurance on BRSR Core Indicators
+BUSINESS RESPONSIBILITY & SUSTAINABILITY  
+REPORTING
+Financial Statements
+Corporate Overview
+151
+Statutory Reports
+II.	
+Products/services
+16.	
+Details of business activities (accounting for 90% of the turnover):
+S. No.
+Company
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1
+SEL
+Manufacturing 
+(Electrical equipment, General Purpose and 
+Special purpose Machinery & equipment, 
+Transport equipment) 
+Manufacturing 
+(Repair & installation of machinery & 
+equipment, motor vehicles)
+Manufacture and sale of Wind 
+Turbine Generators (“WTG”) and 
+related components
+95.2%
+2
+SGWPL
+Real Estate 
+(Real estate activities with own or leased 
+property)
+Land Business
+95.7%
+3
+SGSL
+Professional, Scientific, and Technical 
+(Architecture, engineering activities, 
+technical testing, and analysis activities)
+Operations & Maintenance 
+Services (OMS) & Project 
+Business
+98.4%
+4
+SE Forge
+Manufacturing 
+(Metal and metal products)
+Forging and Foundry
+94.6%
+17.	
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1
+SEL - Manufacture and sale of Wind Turbine Generators 
+(“WTG”) and related components
+27101, 28110
+95.2%
+2
+SGWPL - Land Business
+68100
+95.7%
+3
+SGSL – OMS
+33121 
+42201 and 42202
+98.4%
+4
+SE Forge
+25910, 24319
+94.6%
+III.	
+ Operations
+18.	
+Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+14
+44
+58
+International
+0
+22
+22
+19.	
+Markets served by the entity:
+	
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+The Company along with its subsidiaries has 14 manufacturing locations, 4 
+R & D Centers, various site locations spread across in 9 States in India and 
+offices spread across 11 States in India
+International (No. of Countries)
+The Company has 4 R&D units along with its subsidiaries operates in 17 
+countries across 6 continents
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+	
+SEL-0.04%
+	
+	
+SGSL-0.27%
+	
+	
+SGWPL-0%
+	
+	
+SE Forge-20.1%
+152
+Annual Report 2023-24
+	
+c.	
+A brief on type of customers
+	
+	
+Suzlon Energy Limited OMS department serves the following customer segment:
+	
+	
+1.	
+Independent Power Producers (IPPs).
+	
+	
+2.	
+Large corporates,
+	
+	
+3.	
+PSU/Government,
+	
+	
+4.	
+retail customers
+	
+	
+Suzlon subsidiary company, SE Forge is one of the largest engineering components manufacturers supplying fully 
+finished castings and forgings for some of the biggest global OEMs of Wind Turbines, Power Generation, Oil & Gas, 
+Transportation, Construction, Aerospace and Heavy Machinery.
+IV.	
+Employees
+20.	 Details as at the end of Financial Year:
+	
+a.	
+Employees and workers (including differently abled):
+S.
+No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+5969
+5815
+97.4
+154
+2.6
+2.
+Other than Permanent (E)
+0
+0
+NA
+0
+NA
+3.
+Total employees (D + E)
+5969
+5815
+97.4
+154
+2.6
+WORKERS
+4.
+Permanent (F)
+NA
+5.
+Other than Permanent (G)
+6.
+Total workers (F + G)
+	
+	
+*Note: All off-role employees are classified as workers other than permanent
+	
+b.	
+Differently abled Employees and workers:
+S.
+No
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+0
+2.
+Other than Permanent (E)
+3.
+Total differently abled employees (D + E)
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+0
+5.
+Other than permanent (G)
+6.
+Total differently abled workers (F + G)
+21.	
+Participation/Inclusion/Representation of women
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+8
+1
+12.5
+Key Management Personnel
+3
+1
+33.33
+Financial Statements
+Corporate Overview
+153
+Statutory Reports
+22.	 Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+FY 2023-24
+(Turnover rate in current FY)
+FY2022-23  
+(Turnover rate in previous FY)
+FY 2021-22
+(Turnover rate in the year prior 
+to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+25.81
+17.45
+25.62
+22.0%
+ 23.9%
+22.1%
+18.2%
+17.4%
+18.2%
+Permanent Workers
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+V.	
+ Holding, Subsidiary and Associate Companies (including joint ventures)
+23.	 (a)	
+Names of holding / subsidiary / associate companies / joint ventures
+Sr. 
+No.
+Name of the holding / 
+subsidiary / associate 
+companies / joint ventures 
+(A)
+Indicate whether holding/ 
+Subsidiary/ Associate/ Joint 
+Venture
+% of shares 
+held by 
+listed entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed entity? 
+(Yes/No)
+1
+Suzlon Global Services Limited Subsidiary of Suzlon Energy Limited
+100.00%
+Yes
+2
+SE Forge Limited
+Subsidiary of Suzlon Energy Limited
+100.00%
+Yes
+3
+Suzlon Gujarat Wind Park 
+Limited
+Subsidiary of Suzlon Global Services 
+Limited
+100.00%
+Yes
+VI.	  CSR Details Response
+24.	 (i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) Yes
+Company
+(ii) Turnover (in Crores)
+(iii) Net worth as on March 31 (in Crore)
+SEL
+3,799.18
+3,583.55
+SGWPL
+99.42
+(36.95)
+SGSL
+2,260.74
+458.45
+SE Forge
+482.55
+182.22
+VII.	 Transparency and Disclosures Compliances
+25.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No) 
+(If yes, then 
+provide web-link 
+for grievance 
+redress policy)
+Current Financial Year (FY 2023-24)
+Previous Financial Year (FY 2022-23)
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+ Yes
+25
+10
+-
+39
+16
+-
+Investors 
+(other than 
+shareholders)
+ Yes
+0
+0
+-
+0
+0
+-
+Shareholders
+ Yes
+547
+2
+-
+677
+2
+-
+Employees and 
+workers
+ Yes
+69
+0
+-
+ 1
+0
+-
+Customers
+ Yes
+12994*
+#111
+ **Technical and 
+commercial 
+complaints related 
+to WTG operations 
+and maintenance
+5696
+ 10
+ Technical and 
+commercial 
+complaints related 
+to WTG operations 
+and maintenance
+Value Chain 
+Partners
+ No
+-
+-
+-
+-
+-
+-
+Other (please 
+specify)
+-
+-
+-
+-
+-
+-
+-
+	
+* For better customer communication on WTG performance, more call logs are raised internally.
+	
+** Higher volumes of WTG manufacturing recorded in FY 23-24
+	
+# Considering nature of call e.g., breakdown, issues in WTG operations.
+154
+Annual Report 2023-24
+26.	 Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate 
+the risk along-with its financial implications, as per the following format
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive or 
+negative implications)
+1
+Material 
+Efficiency, 
+Sourcing, and 
+Management
+Risk
+To manufacture wind turbines 
+and associated parts/
+peripherals, energy and virgin 
+materials may  be required. 
+This could result in depletion 
+of natural resources and 
+consumption of energy from 
+fossil-based sources.
+Reducing the overall weight of 
+wind turbine components and 
+consumables. Local vendor 
+development is promoted.
+ Negative
+2
+Climate 
+Change 
+Management
+Risk
+Climate change induced 
+physical risks impact wind 
+turbine sites. The variability of 
+wind due to changing weather 
+affects the planned availability 
+of wind and ultimately may 
+lead to a reduced output.
+Extreme climatic events 
+such as cyclones, extreme 
+rainfall or heat waves hamper 
+maintenance activities owing 
+to water logging, disruption of 
+connectivity, and heat stress.
+We are actively incorporating 
+renewable energy sources to 
+mitigate risks in the transition to a 
+low-carbon economy and enhance 
+sustainability.
+We have planned to conduct 
+climate risk assessment (physical 
+and transition risks) to ensure 
+alignment with TCFD/IFRS S2 
+disclosures and comprehend 
+potential consequences of climate 
+change to further make informed 
+decisions about the current & 
+future decarbonization plans
+3
+Waste 
+Management
+Risk
+Management of some 
+categories of waste, such 
+as the turbine-blades is 
+industrywide challenge. While 
+certain portion of the waste is 
+reused, some waste is being 
+sent off-site to incineration/ 
+landfilling facilities. 
+Incineration produces air 
+pollutants. This could potently 
+contaminate groundwater and 
+emit greenhouse gases.
+Waste generated is managed in a 
+responsible manner. Suzlon has 
+partnered with authorized waste 
+management vendors to dispose/
+recycle waste generated during 
+operations. 
+We are focusing on waste 
+handling and management and 
+on strengthening adoption of 
+sustainability using 3 R’s (Reduce-
+Reuse-Recycle) Principles. 
+The waste generated during 
+manufacturing is sent to cement 
+company and used as alternate 
+fuel. Furthermore, waste material 
+generated during manufacturing 
+and packaging is recycled and 
+reused within the Plants.
+Financial Statements
+Corporate Overview
+155
+Statutory Reports
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive or 
+negative implications)
+4
+Occupational 
+Health and 
+Safety
+Risk
+Health and Safety hazards 
+are intrinsic to manufacturing, 
+commissioning and operations 
+& maintenance activities. 
+Despite implemented systems 
+and controls by Suzlon, any 
+slippage can result into an 
+incident and injury.
+A culture of safety where 
+employees feel empowered 
+to report hazards and can 
+further enhance workplace 
+safety has been developed. A 
+comprehensive health hazard 
+identification and mitigation 
+system is in place.
+We are also implementing Kaizen 
+5 S at Plant Level which includes 
+Seiri (Sort), Seiton (Straighten), 
+Seiso (Shine), Seiketsu 
+(Standardize), and Shitsuke 
+(Sustain).
+Regular trainings to our employees 
+are provided in accordance with 
+training calendar and customized 
+needs as per job specific hazards.
+The training topics include proper 
+use of equipment, emergency 
+procedures, hazard recognition, 
+and safe work practices.
+The Mock Drills, Safety Walks, 
+Toolbox Talks are organized on 
+continuous basis. We adhere to 
+maintain Hazard Identification and 
+Risk Assessment (HIRA), Site-
+specific Emergency Response 
+Plan (ERP), First Aid Register and 
+Accident Investigation Register 
+(AIR) across all our locations.
+Further we are tracking the 
+number of such incidents diligently 
+so that we may conduct a proper 
+root cause analysis of such 
+incidents and take proactive 
+measure which shall help us 
+to reduce and mitigate such 
+incidences.
+The health checkup for all 
+employees and workers are 
+carried out during induction and 
+on annual basis.
+156
+Annual Report 2023-24
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive or 
+negative implications)
+5
+Sustainable 
+Supply Chain 
+Management
+Risk and 
+Opportunity
+Risk: Supply chains can 
+expose us to hidden and 
+uncontrollable ESG risks 
+such as depletion of natural 
+resources, human rights 
+abuses, workforce health and 
+safety incidents. 
+Opportunity: Supply chains 
+present a huge opportunity 
+to accelerate progress 
+on sustainability goals by 
+focusing on human rights, 
+labour practices, and 
+environmental impacts.
+Suppliers are onboarded 
+only if they meet the requisite 
+parameters – quality, cost 
+effectiveness, and timeliness apart 
+from ESG considerations. We also 
+pay attention to the suppliers’ 
+impact on human rights – child 
+labour, fair wages, and others. 
+We carry our supplier audits 
+and vendor meets at regular 
+intervals to highlight concerns and 
+exchange learnings. The Supply 
+Chain Due Diligence procedures 
+and assessment of suppliers 
+during onboarding and monitoring 
+on annual basis is already under 
+implementation.
+Further, we are planning to 
+develop a comprehensive supply 
+chain management framework 
+that will serve as a tool to help us 
+identify key areas for improvement 
+and therefore mitigate risks 
+and leverage the opportunities 
+associated with robust supply 
+chain management.
+Positive
+6
+Business 
+Ethics and 
+Integrity
+Risk
+Owing to the intrinsic 
+nature of material topic 
+and the potential of severe 
+consequences in the event of 
+minor deviation from existing 
+protocols
+We adhere to a strong ethical 
+standard of integrity. Our directors 
+and senior management follow a 
+strict code of conduct and ethics. 
+Effective internal control systems 
+and a whistle blower mechanism 
+is in place. The adequacy of these 
+systems is regularly evaluated by 
+the management assurance team 
+and risk management team.
+Furthermore, we have continuous 
+monitoring procedures for 
+recording data and ensuring 
+alignment with our Code of Ethics 
+and have robust monitoring 
+procedures along with availability 
+of Helpline in multiple regional 
+languages for “Whistleblower and 
+Reporting”.
+Negative
+Financial Statements
+Corporate Overview
+157
+Statutory Reports
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the 
+NGRBC Principles and Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.	
+a.	
+Whether your entity’s policy/policies 
+cover each principle and its core 
+elements of the NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+b.	
+Has the policy been approved by the 
+Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+c.	
+Web Link of the Policies, if available
+https://www.suzlon.com/in-en/investor-relations/notices-announcements/
+corporate-governance
+2.	
+Whether the entity has translated the policy 
+into procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.	
+Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+Yes
+4.	
+Name of the national and international codes/
+certifications/labels/ standards (e.g., Foresat 
+Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustea) standards (e.g., SA 8000, 
+OHSAS, ISO, BIS) adopted by your entity and 
+mapped to each principle.
+These policies are generally compliant with respective principles of NGRBC 
+which align with ILO, UNGC, OHSAS, SDGs, GRI Standards, ISOs etc. wherever 
+applicable e.g., ISO 9001 (Quality Management System), ISO 14001: 2015 
+(Environmental Management System), ISO 45001 (Health & Safety Management 
+System)
+5.	
+Specific commitments, goals and targets set 
+by the entity with defined timelines, if any.
+•	
+Achieving Net Zero (Scope 1 & 2) by 2035
+•	
+Achieving Zero Waste to Landfill (ZWTL) by 2028 and Water neutrality 
+across operations by 2030
+•	
+Product Carbon Footprint (PCF) and Life Cycle Assessment for WTGs in 
+manufacturing operations by 2026
+•	
+Increase share of women employees across operations including 
+leadership levels to 10% by 2030
+•	
+Undertake human rights assessment across manufacturing operations by 
+2026.
+•	
+100% acceptance to Supplier Code of Conduct by 2025
+•	
+Maintain 100% coverage of trainings on anti-corruption, integrity, and 
+ethics for employees by 2025.
+6.	
+Performance of the entity against the specific 
+commitments, goals, and targets along-with 
+reasons in case the same are not met.
+N.A.
+Governance, leadership, and oversight
+7.	
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets, and 
+achievements (listed entity has flexibility regarding the placement of this disclosure)
+Dear Stakeholders,
+I am pleased to present Suzlon’s Business Responsibility and Sustainability Report, which showcases our dedication to sustainability and 
+outlines our commitment to Environmental, Social, and Governance (ESG) principles.
+Environmental Responsibility: At Suzlon, we understand the significance of our impact on environmental footprint and contributing 
+to a sustainable future. One of the primary challenges faced by wind turbine manufacturers worldwide is mitigating the effects of 
+manufacturing and installation and impacts on environment across the entire Concept to Commissioning (C2C). To mitigate the same, we 
+have made substantial investments in research and development to eliminate or minimize such impact. We have undertaken Stakeholder 
+Engagement and Materiality Assessment (SEMA) and have incorporated the findings to build up a well-articulated and robust framework 
+for sustainability to be implemented by Suzlon along with a concrete roadmap. We are working on 3 R’s and reducing our impact on Waste 
+generation and disposal.
+158
+Annual Report 2023-24
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Social Responsibility: Our strong relationship with local communities has been fundamental to our success. We have been mindful of 
+the key challenge faced by social programs, which is ensuring a long-term positive impact on the communities in which we operate. We 
+actively engage in capacity-building initiatives, such as providing livelihood opportunities to residents. Our investments in community 
+welfare programs, including education and healthcare, have directly benefited 869 villages, reaching over 40 Lakh villagers and 9 
+Lakh households in underserved regions. We are working continuously with communities and believe in community engagement as an 
+important tool to make significant impact aligned to Suzlon’s CSR strategy.
+Governance: Transparent and ethical governance forms the foundation of our business operations. Maintaining a high standard of 
+corporate governance across a diverse portfolio spread over numerous decentralized and often remote operating locations is always 
+a critical challenge. We take pride in the fact that our Company has consistently and successfully maintained a robust governance 
+framework, with all our projects adhering to stringent regulatory and compliance standards. As we look ahead, we remain committed to 
+continuous improvement and raising the bar even higher.
+We are committed to conducting a comprehensive evaluation and taking action for reducing carbon emissions and work towards carbon 
+reductions strategy Suzlon is working towards implementation of actions for materiality indicators of significance for Suzlon and monitoring 
+progress of initiatives undertaken. Additionally, we are continuously striving to improve our engagement with local communities and 
+provide human rights training. We believe that that our suppliers and business partners are an important pillar for achieving holistic 
+sustainability therefore we also take up ESG Assessment for suppliers. Our Business Responsibility and Sustainability Report reaffirms 
+our strong commitment to ESG principles and our goal of making a long-lasting positive impact. We are determined to continue our 
+sustainability efforts and believe that, with your ongoing support, we can create a greener, more inclusive, and responsible future for 
+future generations.
+8.	
+Details of the highest authority responsible for implementation and 
+oversight of the Business Responsibility policy (ies).
+Mr. Vinod R. Tanti, Chairman and Managing Director, 
+oversees the implementation of BR initiatives in 
+consultation with various functional heads including 
+the Sustainability Head.
+9.	
+Does the entity have a specified Committee of the Board/ Director 
+responsible for decision making on sustainability related issues? (Yes / 
+No). If yes, provide details.
+Mr. Vinod R. Tanti, the Chairman and Managing 
+Director is the Director responsible for decision 
+making on Sustainability related issues
+10.	 Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by 
+Director / Committee of the Board/ Any other 
+Committee
+Frequency (Annually/ Half yearly/ Quarterly/ 
+Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above 
+policies and follow up 
+action
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Annual
+Compliance with statutory 
+requirements of relevance 
+to the principles, and 
+rectification of any non-
+compliances
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Annual
+11.
+Has the entity carried out independent assessment/ evaluation of the 
+working of its policies by an external agency? (Yes/No). If yes, provide name 
+of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+No
+No
+No
+No
+No
+No
+No
+No
+No
+12.	 If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated:
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the principles material to its 
+business (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity is not at a stage where it is in a position to formulate 
+and implement the policies on specified principles (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity does not have the financial or/human and technical 
+resources available for the task (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+It is planned to be done in the next financial year (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Any other reason (please specify)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Financial Statements
+Corporate Overview
+159
+Statutory Reports
+SECTION C: Principle wise performance
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key 
+processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential indicators are 
+expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed 
+by entities which aspire to progress to a higher level in their quest to be socially, environmentally, and ethically responsible.
+Principle 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics/principles covered 
+under the training and its 
+impact
+%age of persons in respective 
+category covered by the 
+awareness programmes
+Board of Directors
+Nil
+NA
+-
+Key Management Personnel
+1
+POSH and SPECTRUM (DEIB 
+program)
+33.3%
+Employees other than BoD and KMPs
+276
+POSH and Integrity
+POSH-80.03%
+Integrity- 69.34%
+Workers
+-
+-
+-
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, 
+in the following format:
+	
+(Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations 
+and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGBRC Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount  
+(in Crores)
+Brief of the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/Fine
+Principle 1
+GST
+260.77
+There is total 7 penalty case 
+notices received in FY23-24, 
+related to GST filing issues. The 
+same has been reported to SEBI in 
+accordance with LODR regulations
+Yes
+Settlement
+-
+-
+-
+-
+-
+Compounding Fee
+-
+-
+-
+-
+-
+Non-Monetary
+NGBRC Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount  
+(in INR)
+Brief of the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Imprisonment
+-
+-
+-
+-
+-
+Punishment
+-
+-
+-
+-
+-
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary 
+or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/enforcement agencies/judicial institutions
+Out of the 7 cases mentioned above, appeal has been 
+filed in 6 cases before the Appellate Authority of GST 
+department and one case is closed by paying the penalty
+GST
+160
+Annual Report 2023-24
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide 
+a web-link to the policy.
+	
+The Company has a Code of Ethics for Directors and Senior Management, which is available on the Company’s website at 
+web link 
+	
+https://www.suzlon.com/NewPdf/Shareholders_Information/Corporate_Governance_Policies/2022-23/Code_of_Ethics_for_
+Directors_and_Senior_Management.pdf
+	
+The Company has developed a Corporate Governance Policy that includes a Code of Ethics for all stakeholders to adhere to. 
+This policy can be accessed on the Company’s website at the following link: 
+	
+https://www.suzlon.com/NewPdf/Shareholders_Information/Corporate_Governance_Policies/2022-23/Corporate_
+Governance_Policy.pdf
+	
+Further the Company also has a Whistle blower policy in place which is available at 
+	
+https://www.suzlon.com/NewPdf/Shareholders_Information/Corporate_Governance_Policies/2022-23/Whistle_Blower_
+Policy.pdf. The concern section highlights the fraud and corruption aspect.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+FY 2023-24  
+(Current Financial year)
+FY 2022-23  
+(Previous Financial year)
+Directors
+None
+None
+KMPs
+None
+None
+Employees
+None
+None
+Workers
+NA
+NA
+6.	
+Details of complaints with regard to conflict of interest
+FY 2023-24
+FY 2022-23
+Number
+Remarks
+Number
+Remarks
+Number of complaints 
+received in relation to 
+issues of Conflict of 
+Interest of the Directors
+0
+No complaints were received 
+by Management Assurance 
+department 
+on 
+the 
+ethics 
+helpline
+0
+No complaints were received 
+by 
+Management 
+Assurance 
+department 
+on 
+the 
+ethics 
+helpline
+Number of complaints 
+received in relation to 
+issues of Conflict of 
+Interest of the KMPs
+0
+No complaints were received 
+by Management Assurance 
+department 
+on 
+the 
+ethics 
+helpline
+0
+No complaints were received 
+by 
+Management 
+Assurance 
+department 
+on 
+the 
+ethics 
+helpline
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+NA
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following 
+format:
+FY 2023-24
+(Current Financial Year)
+FY 2022-23
+(Previous Financial Year)
+Number of days of accounts 
+payable
+SEL (Manufacturing)
+193.4
+141.31
+SGWPL (Projects)
+202.33
+461.133
+SGSL (O&M*)
+96.13
+137.52
+SE Forge
+108.47
+58.65
+Financial Statements
+Corporate Overview
+161
+Statutory Reports
+9.	
+Open-ness of business. Provide details of concentration of purchases and sales with trading houses, dealers, and 
+related parties along-with loans and advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+Business Unit
+FY 2023-24
+(Current Financial Year)
+FY 2022-23
+(Previous Financial Year)
+Concentration of 
+purchases
+a.	
+Purchases from 
+trading houses as a % 
+of total purchases
+SEL (Manufacturing)
+2.30%
+2.20%
+SGWPL (Projects)
+-
+-
+SGSL (O&M)
+29%
+29%
+SE Forge Vadodara
+3%
+2%
+SE Forge Coimbatore
+16%
+9%
+b.	
+Number of trading 
+houses where 
+purchases are made 
+from
+SEL (Manufacturing)
+150
+155
+SGWPL (Projects)
+-
+-
+SGSL (O&M)
+342
+341
+SE Forge
+i.	
+Vadodara
+84
+84
+ii.	
+Coimbatore
+324
+289
+c.	
+Purchases from top 10 
+trading houses as % of 
+total purchases from 
+trading houses
+SEL (Manufacturing)
+90%
+88%
+SGWPL (Projects)
+-
+-
+SGSL (O&M)
+62%
+51%
+SE Forge
+i.	
+Vadodara
+65%
+56%
+ii.	
+Coimbatore
+51%
+56%
+Concentration of 
+sales
+a.	
+Sales to dealers/ 
+distributors as % of 
+total sales
+SEL (Manufacturing)
+Nil
+Nil
+SGWPL (Projects)
+SGSL (O&M)
+SE Forge Vadodara
+SE Forge Coimbatore
+b.	
+Number of dealers / 
+distributors to whom 
+sales are made
+SEL (Manufacturing)
+SGWPL (Projects)
+SGSL (O&M)
+SE Forge
+i.	
+Vadodara
+ii.	
+Coimbatore
+c.	
+Sales to top 10 dealers 
+/ distributors as % of 
+total sales to dealers / 
+distributors
+SEL (Manufacturing)
+SGWPL (Projects)
+SGSL (O&M)
+SE Forge
+i.	
+Vadodara
+ii.	
+Coimbatore
+Share of RPTs in
+Purchases (Purchases 
+with related parties/ Total 
+Purchases)
+SEL (Manufacturing)
+10%
+11%
+SGWPL (Projects)
+2%
+4%
+SGSL (O&M)
+6%
+8%
+SE Forge
+0
+1%
+Sales (Sales to related 
+parties/ Total Sales)
+SEL (Manufacturing)
+1%
+1%
+SGWPL (Projects)
+0%
+0.10%
+SGSL (O&M)
+9%
+11%
+SE Forge
+36%
+18%
+Loans & Advances (Loans & 
+Advances given to related 
+parties/ Total Loans & 
+Advances)
+SEL (Manufacturing)
+91%
+91%
+SGWPL (Projects)
+0%
+0%
+SGSL (O&M)
+86%
+86%
+SE Forge
+0%
+0%
+162
+Annual Report 2023-24
+Parameter
+Metrics
+Business Unit
+FY 2023-24
+(Current Financial Year)
+FY 2022-23
+(Previous Financial Year)
+Investments (Investments in 
+related parties/ Total
+Investments)
+SEL (Manufacturing)
+100%
+100%
+SGWPL (Projects)
+0%
+0%
+SGSL (O&M)
+0%
+0%
+SE Forge
+0%
+0%
+Leadership Indicators
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total number of awareness programmes held
+Topics / principles covered 
+under the training
+%age of value chain partners covered (by 
+value of business done with such partners) 
+under the awareness programmes
+Awareness programmes were not conducted for value chain partners on the NGRBC Principles during the financial year, 2023-24.
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? 
+(Yes/No) If yes, provide details of the same.
+	
+“The Company has prescribed a code of ethics for its directors and senior management. The code of ethics of the Company 
+is available on Company’s web link at https://www.suzlon.com/NewPdf/Shareholders_Information/Corporate_Governance_
+Policies/2022-23/Code_of_Ethics_for_Directors_and_Senior_Management.pdf
+	
+The declaration from the Group Chief Executive Officer in terms of Regulation 34(3) read with Part D of Schedule V of the 
+Listing Regulations, stating that as of March 31, 2023, the Board members and the senior management personnel have 
+affirmed compliance with the code of ethics laid down by the Company, has been included in the Annual Report.”
+Principle 2: Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively.
+FY 2023-24
+FY 2022-23
+Details of improvements in environmental and social impacts
+R&D
+100
+100
+The cost includes expenditure on following:
+-	
+Value Engineering initiatives which subsequently resulted 
+into material reduction and thereby reducing environmental 
+impact.
+- 	
+Design and cost analysis for a Renewable Energy Plant i.e., 
+layout of the RE Plant which aims to replace current coal-
+powered plants with renewable energy sources such as wind 
+and solar. This will result into substantive reduction of CO2 
+emissions.
+- 	
+Development and improvement of an in-house wind-energy 
+forecasting system. This shall have multifold benefit including 
+minimizing the requirement for energy storage capacity, 
+boosting the Capacity Utilization Factor (CUF) of renewable 
+energy plants, raising the Levelized Cost of Energy, improving 
+the commercial feasibility of renewable energy plants, and 
+enhancing the integration of renewable energy into the grid.
+- 	
+Predictive maintenance tool which shall lead to less WTG 
+downtime (higher WTG CUF) and optimized spare-parts stock 
+(space and cost-reduction)
+- 	
+New turbine-model with bigger rotor and higher rating which 
+shall subsequently lead to higher energy yield per utilized 
+WTG material.
+Capex
+100
+75.91
+Includes investments in testing of larger blades and control systems 
+for blade testing, which aims at increased use of green energy.
+Financial Statements
+Corporate Overview
+163
+Statutory Reports
+2.	
+A.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No) Yes
+	
+B.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+All vendors and suppliers within the supply chain undergo screening to ensure compliance with social and environmental 
+standards, including ISO 14001, ISO 9001, OHSAS 18001, wherever applicable. The materials sourced sustainably from 
+100% of class A suppliers. The provisions for assessing ESG considerations for suppliers are assessed through Supplier 
+Assessment Questionnaire which helps in evaluation of suppliers on continuous basis.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the end of 
+life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+	
+Suzlon provides an owner’s manual for wind turbines that includes a thorough guide on the disposal and recycling process at 
+the end of the turbine’s life cycle. Owners adhere to national environmental protection standards and legislations for waste 
+disposal, including separating and recycling of packaging materials. It is crucial to handle hazardous materials like batteries, 
+electronic waste, oils, lubricants, and coolants with caution. The disposal of hazardous materials is done in compliance with 
+local and international regulations so as to prevent harm to the environment
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same.
+	
+Yes, EPR is applicable to the entity’s activities. Accordingly, Suzlon Global Services Limited (SGSL) has obtained registration 
+dated 11th March 2024 as an Importer in line with requirements under PWM Rules 2016 for disposal of plastic waste generated 
+due to plastic packaging.
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+	
+Not Applicable
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of 
+your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other 
+means, briefly describe the same along-with action taken to mitigate the same.
+	
+Not Applicable
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+	
+Not Applicable. since no recycled or reused input material is used in Product.
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, 
+and safely disposed, as per the following format:
+	
+Not Applicable
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+	
+Not Applicable
+164
+Annual Report 2023-24
+Principle 3: Businesses should respect and promote the well-being of all employees, including those in their 
+value chains
+Essential Indicators
+1.	
+a.	
+Details of measures for the well-being of employees:
+Category
+% Of employees covered by
+Total 
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity benefits
+Day care facilities
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(D)
+% (D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+Permanent Employees
+Male
+5815
+5288
+90.93
+5616
+96.57
+NA
+-
+5815
+100
+146
+2.511
+Female
+154
+115
+74.67
+115
+74.67
+99
+64.28
+NA
+-
+39
+25.16
+Total
+5969
+5403
+90.51
+5731
+96.01
+99
+1.65
+5815
+100
+185
+3.099
+Other than Permanent Employees
+Male
+NA
+Female
+Total
+	
+a.	
+Details of measures for the well-being of workers:
+Category
+% Of workers covered by
+Total 
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity benefits
+Day care facilities
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(D)
+% (D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+Permanent Workers
+Male
+NA
+Female
+Total
+Other than Permanent Workers
+Male
+NA
+Female
+Total
+	
+c.	
+Spending on measures towards well-being of employees and workers (including permanent and other than permanent) 
+in the following format
+FY 2023-24
+FY 2022-23
+Cost incurred on well-being measures as a % of total revenue of the 
+company
+0.58
+0.55
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+88.5
+NA
+Y
+100
+NA
+Y
+Gratuity
+87.88
+NA
+Y
+100
+NA
+Y
+ESI
+17.74
+NA
+Y
+17.86
+NA
+Y
+Others- Pension, Superannuation
+-
+-
+-
+30.86
+-
+-
+Financial Statements
+Corporate Overview
+165
+Statutory Reports
+3.	
+Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the 
+entity in this regard.
+	
+Majority of our premises are accessible to persons with disabilities. There are few facilities which requires upgradation which 
+is under revamping presently. The Company is working towards improving access and use of all our facilities by persons with 
+disabilities, as a part of our Diversity, Equity, and Inclusion (DEI) initiatives.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy.
+	
+Yes
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent Employees
+Permanent Workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100
+100
+NA
+NA
+Female
+100
+100
+Total
+100
+100
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief.
+Yes/ No
+(If yes, then give details of the mechanism in brief)
+Permanent Workers
+No
+Other than Permanent Workers
+No
+Permanent Employees
+Yes - A Grievance Portal Group CHRO Connect is available & employees are 
+raising the grievances there. Those have been addressed appropriately
+Other than Permanent Employees
+No
+7.	
+Membership of employees and worker in association(s) or Unions recognized by the listed entity:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+employees/ 
+workers in 
+respective 
+category (A)
+No. of employees/ 
+workers in respective 
+category, who are 
+part of associations 
+or Union (B)
+% (B/A)
+Total 
+employees/ 
+workers in 
+respective 
+category (C)
+No. of employees/ 
+workers in respective 
+category, who are 
+part of associations 
+or Union (D)
+% (D/C)
+Total Permanent 
+Employees
+5969
+116
+1.94
+5706
+117
+2.05
+Male
+5815
+116
+1.99
+5585
+117
+2.09
+Female
+154
+0
+0
+121
+0
+0
+Total Permanent 
+Workers
+NA
+Male
+Female
+166
+Annual Report 2023-24
+8.	
+Details of training given to employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+On health and 
+safety measures
+On skill 
+upgradation
+Total (D)
+On health and 
+safety measures
+On skill 
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/A)
+Employees
+Male
+5815
+4225
+72.66
+5138
+88.37
+5585
+3842
+68.79
+1514
+27.11
+Female
+154
+30
+19.48
+143
+92.85
+121
+11
+9.09
+17
+14.05
+Total
+5969
+4255
+71.28
+5281
+88.47
+5706
+3853
+67.52
+1531
+26.83
+Workers
+Male
+NA
+Female
+Total
+9.	
+Details of performance and career development reviews of employees and worker
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+5815
+4961
+85.32
+5585
+4775
+85.5
+Female
+154
+132
+85.16
+121
+110
+90.91
+Total
+5969
+5093
+85.32
+5706
+4885
+85.61
+Workers
+Male
+NA
+Female
+Total
+10.	 Health and safety management system:
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, 
+the coverage such system?
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the 
+entity?
+	
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks. 
+(Y/N)
+	
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No)
+	
+	
+a)	
+Yes, the Occupational Health and Safety Management System (OHSMS) covers workplaces, manufacturing plants, 
+projects sites and operation and maintenance sites.
+	
+	
+b)	
+The process of identifying hazards and assessing risks is carried out for all activities including routine or non-
+routine. Risks are evaluated using a rating scale, with the risk score determined by multiplying the severity and 
+probability of the hazard. The most severe risks are classified as critical (ranging from P1xS4 to P4xS4), while 
+moderate and low risks are considered significant (ranging from P1xS3 to P4xS2) and insignificant (P1xS1).
+	
+	
+c)	
+Yes, we have processes to report the work-related hazards in place. The employees or value chain workers may 
+report the hazard to the shift HSE officer or supervisor. The HSE officers or supervisor subsequently escalate it to 
+the location head to ensure that preventive and mitigating measures are implemented.
+	
+	
+	
+The organization ensures that employees or value chain workers have the authority to refuse to work and exercise 
+right for STOP WORK in hazardous situations or until they are provided with an adequate safe working condition. 
+They also have the right to inform the respective site or plant in-charge about any hazards involved in their jobs. 
+The site in-charge or supervisor is responsible for ensuring the safety of the workforce.
+Financial Statements
+Corporate Overview
+167
+Statutory Reports
+	
+	
+	
+A comprehensive job safety analysis (JSA) and permit to work system are provided, which are developed in 
+consultation with the workforce basis their feedback. Safety committee meetings also provide a platform for 
+addressing such issues, if any. Additionally, it is ensured that the workforce is provided with and properly uses 
+adequate and applicable personal protective equipment (PPE) whenever necessary.
+	
+	
+d)	
+Suzlon offers medical and healthcare services to its employees, community members, contractors, workers of 
+value chain partners, and their families. Health care clinics operated by Suzlon are available to all stakeholders 
+from different offices, plants, sites, and communities. The annual health check-up of workers is also carried out 
+apart from medical health check-up camps, fitness and well-being sessions organized for employees and workers 
+on continuous basis.
+11.	
+Details of safety related incidents, in the following format
+Safety Incident/Number
+Category*
+FY 2023-24
+FY 2022-23
+WTG 
+Manufacturing
+FY 2022-23
+WTG 
+Projects
+FY 2022-23
+WTG OMS
+FY 2022-23
+SE Forge
+Lost Time Injury Frequency Rate 
+(LTIFR) (per one million-person 
+hours worked)
+Employees
+0.27
+2.91
+0
+0.51
+0
+Workers*
+0.38
+0.18
+1.61
+0.15
+0
+Total recordable work-related 
+injuries (Minor
++ Major + Fatal)
+Employees
+9
+4
+0
+7
+0
+Workers*
+13
+5
+6
+2
+0
+No. of fatalities
+Employees
+2
+0
+0
+1
+0
+Workers*
+3
+1
+2
+0
+0
+High consequence work-related 
+injury or ill-health (excluding 
+fatalities)
+Employees
+0
+4
+0
+3
+0
+Workers*
+2
+0
+2
+1
+0
+	
+* contractors and workers of value chain partners
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+Following are the key measures implemented by the organization to guarantee safety and health in the workplace.:
+	
+•	
+HSE Policy: The HSE policy is effectively communicated through different channels like emails and prominently displayed 
+at multiple locations within plants, sites, and offices. Moreover, the policy is displayed in the local or national language 
+to facilitate easy understanding. Additionally, it forms an integral part of HSE induction training sessions.
+	
+•	
+HIRA: Hazard identification and risk assessment involves evaluating the risks associated with both routine and non-
+routine activities. Each hazard is assessed based on a rating scale, with the risk score determined by multiplying the 
+severity and probability of the hazard. The highest rating is considered critical (ranging from P1xS4 to P4xS4), while 
+moderate and low risks are categorized as significant (ranging from P1xS3 to P4xS2) and insignificant (P1xS1).
+	
+•	
+PPE - It is the management’s responsibility to ensure that all necessary and relevant Personal Protective Equipment 
+(PPE) is being used by the workforce and no one is violating PPE usage protocols and complying with them. The PPE 
+Inventory and record-keeping and inspection procedures are in place and adequate PPEs are always maintained to 
+ensure availability at all times.
+	
+•	
+Trainings - The organization offers both specific and general trainings to its employees and those in the value chain to 
+ensure their safety. Some of the general training modules include induction training, first aid, firefighting, emergency 
+preparedness and response, etc. Additionally, specific training modules such as work at height, confined space, energy 
+isolation/LOTO, electrically qualified professional training, etc., are also provided. The Mock Drill trainings are also being 
+carried out along with other safety related trainings at regular intervals as per training calendar.
+	
+•	
+Safety committee - The organization ensures that the workforce is empowered to refuse work in hazardous situations or 
+until a sufficient safe work system is provided to them. The workforce may notify the respective site/plant in-charge about 
+any hazards present or involved in their tasks. Safety committee meetings serve as a platform for addressing health 
+and safety concerns. The safety committee consists of representatives from both management and workers (including 
+contract personnel), with a mandatory 50% representation from each side. The meeting is led by the respective plant 
+head / project manager. The workers’ representative is tasked with emphasizing the safety of workers in the workplace 
+and bringing workers’ concerns to the attention of management. The management representative is responsible for 
+implementing and enhancing the existing safety measures in the workplace.
+168
+Annual Report 2023-24
+	
+•	
+Permit to work (PTW) - The organization ensures that workforce is empowered to exercise its right to refuse work in 
+hazardous situation or until adequate safe system of work is provided to them. Workforce has all right to inform the 
+respective site / plant in-charge about the hazards present / involved in the jobs. Workers are provided with detailed job 
+safety analysis and permit to work systems which are prepared based on their feedback and in consultation with them.
+	
+•	
+Communication - Various types of communication modes are used for disseminating information pertaining to HSE 
+namely HSE policy, safety committee meetings, sign and display boards, banners and poster, employee desktop 
+wallpapers etc. Testing and preventive maintenance - It is ensured that equipment and tools are tested, calibrated and 
+preventive maintenance conducted.
+13.	 Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working conditions
+-
+-
+-
+6
+0
+The issues have been 
+addressed and the monthly 
+status is being captured
+Health and Safety
+-
+-
+-
+0
+0
+NA
+14.	 Assessments for the year:
+% of your plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+Health and safety practices
+100
+Working conditions
+100
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions.
+	
+Case 1 – (Fall from Height)
+Sr. No.
+Actions Initiated
+Status
+1
+Awareness training on system adherence to Area in charge/ Site in charge / functional head.
+Completed
+2
+Awareness training on ‘Use and anchoring of double lanyard’ while working at height.
+Completed
+3
+Adherence to the established process of approvals at different stages of work must be ensured 
+by the line management in all non-routine activities.
+Ongoing
+4
+Work Procedure / SOP shall be made available before starting the activity.
+Ongoing
+5
+Clearance / Approval for all non-routine activities shall mandatorily be taken from HSE.
+Ongoing
+6
+Job Safety Analysis (JSA) shall be prepared and must be available before start of the work.
+Completed
+7
+Administrative action against the responsible persons for the incident.
+Completed
+	
+Case 2 – (Hit by Object)
+Sr. No.
+Actions Initiated
+Status
+1
+Location Engineer / Mech. HoD to ensure lifting activities take place as per load chart.
+Completed
+2
+Location Engineer to ensure all components of the crane are secured & it is stable before 
+beginning operations.
+Completed
+3
+Ensure proper ground leveling before beginning operations.
+Completed
+4
+Any deviation from the lifting plan shall be routed through Management of Change (MoC) which 
+needs to be approved by authorized approving authority.
+As and when
+5
+Avoid the presence of unwanted people and material within the line of fire.
+Completed
+6
+Breakdown, repair, preventive maintenance & all other relevant crane documents shall be readily 
+available on site.
+Completed
+7
+Pre-deployment checklist to be implemented for main crane.
+Completed
+8
+Daily use pre-work checklist for main crane to be prepared & implemented. Location engineer & 
+crane operator to verify.
+Completed
+9
+Crane Safety Training by external expert to be conducted for all Projects.
+Completed
+10
+BBS Training by external expert to be conducted for all Projects.
+Completed
+Financial Statements
+Corporate Overview
+169
+Statutory Reports
+	
+Case 3 – (Fall from Height)
+Sr. No.
+Actions Initiated
+Status
+1
+Refresher training with practical demonstration in work at height and electrical safety with 
+increased frequency of once in three months.
+Ongoing
+2
+Behavior based safety (BBS) training to all employees (From external agency).
+Ongoing
+3
+Buddy system is mandatory to be followed. If it is not adhered to, then strict disciplinary action 
+including termination against Site in charges & employees shall be taken.
+Completed
+4
+Site in-charge and functional head shall monitor daily PTW compliance in line with the POD (Plan 
+of the day).
+Completed
+5
+Communication from top management reemphasizing strict action against employees not 
+adhering to the requirements of safe system of work.
+Completed
+6
+Administrative action against the responsible persons for the incident.
+Completed
+	
+Case 4 – (Fall from Height)
+Sr. No.
+Actions Initiated
+Status
+1
+Daily safety briefing at all sites started to improve safety culture and participation of line 
+managers.
+Completed
+2
+BBS training to all site employees. This will include principle of collective, interdependent, and 
+mutual safety of team. members.
+Ongoing
+3
+“Stop unsafe work” cards for employees to enable them to stop any unsafe work or practice, 
+Pocket safety card explaining safety measures to be taken
+Completed
+4
+To provide training and relevant certification like work at height, electrical safety for all manpower 
+including contract work force, prior to assigning any work.
+Completed
+5
+Mentoring of new employees for six months by experience employee.
+Ongoing
+6
+No independent work allocation to new employees till completion of six month under mentor 
+ship. On successful completion of assessment only the employee will be allowed to work 
+independently.
+Ongoing
+7
+Refresher training with practical demonstration in work at height and electrical safety with 
+increased frequency of once in three months.
+Ongoing
+8
+Mandatory site visits by Department heads to assess HSE practices and provide support to site 
+team.
+Completed
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees 
+(Y/N) (B) Workers (Y/N).
+	
+Yes, life insurance in the event of death is provided for employees
+2.	
+Provide the measures undertaken by the entities to ensure that statutory dues have been deducted and deposited 
+by the value chain partners.
+	
+The Statutory Compliance is closely monitored and reported to various forums. There is Compliance Monitoring Tool also to 
+review the same. It is discussed during the Board Meetings on quarterly basis.
+170
+Annual Report 2023-24
+3.	
+Provide the number of employees / workers having suffered high consequence work-related injury / ill-health / 
+fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment:
+Particulars
+Category
+Total no. of affected employees/
+workers
+No. of employees/workers that 
+are rehabilitated and placed in 
+suitable employment or whose 
+family members have been placed 
+in suitable employment
+FY 2023-24
+FY 2022-23
+FY 2023-24
+FY 2022-23
+Fatalities
+Employees
+2
+1
+0
+0
+Workers*
+3
+3
+0
+0
+Work - related injury
+(Major injuries)
+Employees
+0
+7
+*
+*
+Workers*
+2
+3
+0
+0
+Ill-health (notifiable disease)
+Employees
+NA
+NA
+NA
+NA
+Workers*
+NA
+NA
+NA
+NA
+	
+*The affected employees were not required to be rehabilitated since they have resumed their regular duties.
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? (Yes/ No)
+	
+Yes
+5.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Health and Safety Practices
+89.5%
+Working Conditions
+89.5%
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+	
+No significant risk observed during the assessment carried out during FY 23-24.
+Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders.
+1.	
+Describe the process for identifying key stakeholder groups of the entity.
+	
+Suzlon Group has prioritized stakeholder engagement as an essential component of its business strategy, recognizing the 
+importance of addressing their concerns. By actively involving stakeholders, Suzlon aims to tackle social, environmental, and 
+governance issues associated with its operations. The company highly values the input of stakeholders and integrates their 
+suggestions into its business strategies, thereby enhancing its internal systems and processes. Suzlon’s team consistently 
+engages in dialogue with a diverse range of stakeholders who may be impacted by its decisions. Through these discussions, 
+the company identifies the key priorities of stakeholders and develops effective solutions to address them. Suzlon then 
+diligently follows the necessary procedures and protocols to implement these solutions.
+	
+Suzlon’s stakeholder engagement process involves extensive and direct consultation with various groups of stakeholders. 
+Through this process, Suzlon identifies the critical issues that require immediate attention. Suzlon employs a range of 
+communication channels, such as email, e-portal, Community Advisory Panel (CAP) meetings, questionnaires, and personal 
+visits, to actively engage with stakeholders. This approach facilitates a comprehensive understanding and identification of 
+significant topics, allowing Suzlon Group to assess the importance of concerns and gain a clear understanding of the issues 
+raised.
+	
+Within the wind energy sector, diverse set of stakeholders contribute significantly to the industry. It is imperative to interact 
+with these stakeholders to ensure success as well as sustainability of wind energy Projects. Apart from internal stakeholders 
+such as staff and leadership, who participate in different meetings, forums, and surveys, Suzlon engages with the following 
+key external stakeholders focusing on environmental, social, and governance matters:
+Financial Statements
+Corporate Overview
+171
+Statutory Reports
+	
+•	
+Government Officials and Regulatory Bodies- Interact with government through official meetings and industry 
+gatherings to understand policies, incentives, and regulations related to wind energy development and advocate for 
+favorable policies.
+	
+•	
+Local Communities- We interact with local communities through public consultations and community engagement 
+initiatives to understand and tackle concerns and garner support for wind energy projects. Provide clear information 
+about the benefits of wind energy and community investment. Solicit community input during project planning and 
+operation. We consciously maintain regular communication to address concerns and provide updates on the project’s 
+progress.
+	
+•	
+Investors- We engage with investors through meetings and present a concise and persuasive business proposal for 
+the wind energy project, outlining return on investment and risk evaluation. We offer financial and technical reports to 
+investors to ensure transparency and confidence in the project’s feasibility. Establish a long-term relationship built on 
+trust and dependability.
+	
+•	
+Suppliers and Contractors- We collaborate with suppliers and contractors through meetings and work together to 
+guarantee the prompt delivery of equipment and materials. We maintain an open line of communication with contractors 
+to ensure seamless project implementation and adherence to quality standards.
+	
+•	
+Environmental Groups- We consult with environmental organizations to address potential impacts on wildlife and 
+habitats. We implement measures to reduce ecological disruption and promote sustainable practices. We share data 
+and reports on environmental monitoring and mitigation efforts.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group.
+Stakeholder 
+Group
+Whether 
+identified as 
+vulnerable and 
+marginalized 
+group (Yes/No)
+Channels of 
+communication (Email, 
+SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of 
+engagement (annually, 
+half yearly, quarterly, 
+others – please 
+specify)
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during such engagement
+Employees
+No
+Appraisals, Internal 
+Surveys, Questionnaire, HR 
+Forums, Focused Group 
+Discussions, all team meet, 
+weekly/ monthly reviews, 
+improvement displays
+Daily, Weekly, Monthly, 
+Quarterly, Annual
+Purpose: To ensure a healthy, inclusive, 
+and motivated  workforce that 
+contributes to the Company’s success. 
+Scope: Providing a safe and 
+fair workplace, fostering open 
+communication, addressing. employee 
+concerns offering professional 
+development, and involving employees 
+in decision-making.
+Customers
+No
+Survey, questionnaire, One-
+to-one interactions with 
+key customers, Customer 
+Meets, Surveys Feedback 
+calls, Training Forums, 
+Direct Visits
+Need based
+Purpose: To understand customer 
+needs, enhance customer satisfaction, 
+and build brand loyalty. 
+Scope: Gaining feedback, addressing 
+product / service concerns, providing 
+transparent information, and delivering 
+high-quality products / services.
+Investors
+No
+Questionnaire, Action Plans, 
+Investor Meets / Calls, 
+Shareholder / Investors 
+Grievance Forum / General 
+Meetings
+Annual / Quarterly, 
+need-based
+Purpose: To maintain investor 
+trust, ensure responsible financial 
+management, and attract sustainable 
+investments. 
+Scope: Communicating financial 
+performance, disclosing relevant 
+information, explaining business 
+strategies, and addressing investor 
+queries.
+172
+Annual Report 2023-24
+Stakeholder 
+Group
+Whether 
+identified as 
+vulnerable and 
+marginalized 
+group (Yes/No)
+Channels of 
+communication (Email, 
+SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of 
+engagement (annually, 
+half yearly, quarterly, 
+others – please 
+specify)
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during such engagement
+Suppliers/ 
+Service 
+Providers
+No
+Vendor Rating, Satisfaction 
+Surveys, Questionnaire, 
+Sustainable Supply Chain 
+development, Supplier 
+Meets, Audits
+Daily, Weekly, Monthly,
+Quarterly, Annual
+Purpose: To promote ethical sourcing, 
+sustainability, and mutually beneficial 
+relationships. 
+Scope: Ensuring fair procurement 
+practices, promoting responsible 
+sourcing, collaborating on sustainability 
+initiatives, and fostering long-term 
+partnerships.
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and 
+social topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+The responsibility of consulting with stakeholders on ESG topics has been entrusted to the various departments within 
+the organization. These departments are also responsible for maintaining continuous engagement with stakeholders. With 
+respect to ESG, the company follows a consistent approach and prepares for them through these consultations. The most 
+significant issues are identified and prioritized based on their impact on both our stakeholders and our business.
+	
+The consultation processes between stakeholders and the Board, regarding economic, environmental, and social topics, 
+are entrusted to Suzlon Foundation. This foundation is a section 8 Company that has been mandated to lead corporate 
+social responsibility at Suzlon. The processes and methods used by Suzlon Foundation to facilitate these consultations are 
+transparent and aligned with Suzlon’s core values of Agility, Creativity, Value addition, Commitment, and Integrity.
+	
+The Suzlon Foundation initiated the process by identifying key stakeholders according to their importance and influence 
+on the business. These stakeholders comprised of customers, employees, suppliers, investors, local communities, NGOs, 
+and regulatory authorities. The Stakeholder mapping entailed classifying stakeholders based on their interests, power, and 
+degree of influence and impact on the Company’s operations and choices.
+	
+This process helped to prioritize engagement efforts. Various channels for stakeholder consultation, such as surveys, 
+interviews, focus groups, public meetings, online platforms, and formal dialogues were used. Feedback obtained from 
+stakeholder consultations was compiled and reported to the Executive Governance Body (EG) to ensure that stakeholder 
+perspectives are considered in decision-making.
+	
+Annual General Meetings (AGMs) serve as a platform for stakeholders, including shareholders and other interested parties, to 
+raise concerns and ask question directly to the Board and senior management. Suzlon has established a feedback mechanism, 
+in the form of a dedicated email address, through which stakeholders can provide comments, suggestions, or complaints 
+directly to the Company. Suzlon Foundation conducts materiality assessments to identify the most significant economic, 
+environmental, and social issues for stakeholders and the Company. This process helps focus consultation efforts on key 
+topics. The feedback obtained from stakeholder consultations informs the organization’s decision-making and strategies. It 
+also drives continuous improvement in the organization’s economic, environmental, and social performance. In addition to 
+direct engagement, Suzlon Foundation on behalf of Suzlon Group collaborates with external stakeholders, such as NGOs, 
+industry associations, and expert groups, to gain insights and feedback on relevant topics. These transparent and meaningful 
+consultation with stakeholders helps to make informed decisions that align with the long-term interests of the organization 
+and its stakeholders.
+Financial Statements
+Corporate Overview
+173
+Statutory Reports
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and 
+social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these 
+topics were incorporated into policies and activities of the entity.
+	
+Yes
+	
+Stakeholder consultation is often used to support the identification and management of environmental and social topics. A 
+detailed Stakeholder Engagement and Materiality Assessment (SEMA) was undertaken by Suzlon that enabled company in 
+carving ESG roadmap and focusing on relevant issues that are of significance in short-term, mid-term and long-term. Suzlon 
+Foundation a Section 8 Company mandated to lead Suzlon CSR was set up to support underprivileged sections of society, 
+create opportunities and strive towards a more equitable society. The Foundation engages with the community in a variety of 
+areas that serve the vulnerable / marginalized stakeholder groups. Involvement of stakeholders has been instrumental in the 
+identification of important environmental and social matters that are pertinent to the organization and its stakeholders. The 
+inputs provided by stakeholders have been beneficial in shaping the content and direction of the organization’s sustainability 
+reports, guaranteeing that the most significant issues are openly disclosed. Stakeholders’ viewpoints are taken into account 
+during materiality assessments, which have aided in the identification of the most relevant environmental and social topics for 
+the organization.
+	
+The materiality matrix reflects the significance of each topic to both the Company and its stakeholders. It plays a crucial 
+role in guiding the Company’s prioritization of efforts and allocation of resources in the right direction to focus on issues 
+that are significant for company. The input from stakeholders has been instrumental in the development and revision of key 
+environmental and social programs. This ensures that these programs align with stakeholder expectations and effectively 
+address the most significant concerns. In Suzlon’s community engagement programs, stakeholder consultation is of utmost 
+importance. The input from local communities has significantly influenced the initiatives and actions taken to address their 
+specific needs and concerns. Similarly, the input from employees, who are important stakeholders, has shaped initiatives that 
+focus on promoting employee well-being, work-life balance, diversity, and inclusion, as well as health and safety. Regular 
+stakeholder engagement forums, roundtable discussions, and public consultations provide valuable opportunities for 
+stakeholders to express their views. Stakeholder consultation is also integrated into the organization’s issue resolution and 
+grievance mechanisms to ensure that any concerns raised by stakeholders are appropriately addressed and resolved. This 
+approach not only fosters trust and transparency but also enables the organization to effectively tackle environmental and 
+social challenges, ultimately creating long-term value for both the Company and its stakeholders.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups.
+	
+Suzlon has actively engaged with and responded to the concerns of vulnerable and marginalized stakeholder groups. By 
+directly consulting with these communities, Suzlon has gained valuable insights into their specific needs, challenges, and 
+aspirations within their respective geographical areas.
+	
+One notable example of Suzlon’s engagement is in Rajasthan, India, where a severe drought had led to acute water scarcity 
+for the rural community. Recognizing the negative impact this had on the lives of the people, particularly in rural areas where 
+water sources were rapidly depleting, Suzlon acted.
+	
+As part of its Corporate Social Responsibility (CSR) initiatives, Suzlon made the decision to address the water needs of these 
+communities in a sustainable manner. This proactive approach demonstrates Suzlon’s commitment to making a positive 
+difference in the lives of vulnerable and marginalized groups.
+	
+We implemented a comprehensive program focused on water conservation and management, specifically targeting rainwater 
+harvesting, pond desilting, and check dam construction. Suzlon collaborated with local NGOs, government authorities, and 
+community members to identify adequate locations for rainwater harvesting structures. These structures were designed to 
+capture rainwater during the monsoon season, which could then be stored for use during the dry months.
+	
+In addition, the Company established check dams and recharge wells in critical areas to replenish the groundwater table. 
+These structures effectively prevented water runoff and facilitated the replenishment of underground aquifers.
+	
+Over time, the positive impact of the Company’s CSR water initiatives became evident. The availability of water increased 
+in the region, providing relief to the communities during droughts. This improved access to water contributed to better 
+agricultural yields, enhanced livelihoods, and improved sanitation conditions. Furthermore, the water conservation efforts had 
+174
+Annual Report 2023-24
+a positive environmental impact, as water-dependent ecosystems began to rejuvenate. The region’s biodiversity also showed 
+signs of recovery, benefiting both plant and animal life.
+	
+The Company’s approach to addressing water needs in Rajasthan not only fulfilled a critical need but also fostered a sense of 
+ownership and pride within the local communities. By involving them in the planning and implementation of these initiatives, 
+the Company established strong bonds with the people it served.
+	
+Company’s CSR-driven water conservation and management program in Rajasthan exemplified a sustainable and community-
+centric approach to addressing a vital need, ensuring the well-being of the people and the environment in the region.
+	
+Company launched a comprehensive program named “Zero Dependency” to empower and uplift individuals with disabilities 
+in the villages where they were present. Suzlon collaborated with local NGOs, disability organizations, and community leaders 
+to comprehend the specific challenges faced by the disabled population and develop targeted interventions.
+Principle 5: Businesses should respect and promote human rights.
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in 
+the following format:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of employees/
+workers covered (B)
+% (B/A)
+Total (C)
+No. of employees/
+workers covered (D)
+% (D/C)
+Employees
+Permanent
+5969
+POSH-4777
+Integrity-4139
+POSH- 80.03
+Integrity-69.34
+5706
+3683
+64.55
+Other than permanent
+NA
+NA
+NA
+NA
+NA
+NA
+Total Employees
+5969
+POSH-4777
+Integrity-4139
+POSH- 80.03
+Integrity-69.34
+5706
+3683
+64.55
+Workers
+Permanent
+NA
+Other than permanent
+Total Workers
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+Equal to minimum 
+wage
+More than 
+minimum wage
+Total (D)
+Equal to minimum 
+wage
+More than 
+minimum wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+5969
+177
+2.97
+5792
+97.03
+5706
+1368
+23.97
+4338
+76.03
+Male
+5815
+172
+2.96
+5643
+97.04
+5585
+1361
+24.37
+4224
+75.63
+Female
+154
+5
+3.25
+149
+96.75
+121
+7
+5.79
+114
+94.21
+Other than Permanent
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Male
+NA
+NA
+Female
+Workers
+Permanent
+NA
+Male
+Female
+Other than Permanent
+Male
+Female
+Financial Statements
+Corporate Overview
+175
+Statutory Reports
+3.	
+Details of remuneration/salary/wages, in the following format:
+	
+a.	
+Median remuneration / wages:
+Male
+Female
+Number
+Median remuneration/ salary/ 
+wages of respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD)
+7
+N.A. since except for the Chairman 
+and Managing Director, no other 
+director receives any remuneration 
+from the Company except sitting 
+fees for attending the meetings of 
+the Board and or committees of 
+the Board
+1
+N.A.
+Key Management Personnel
+2
+78 Lac per annum
+1
+11 Lac per annum
+Employees other than BoD 
+and KMP
+5806
+8 lac per annum
+152
+5 Lacs per annum
+Workers
+NA
+NA
+NA
+NA
+	
+a.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of total wages
+4.15%
+3.24%
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business? (Yes/No)
+	
+Yes, the focal point for addressing issues relating to human rights is the Chief Human Resource Officer of the Company.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+The Grievance Redressal Mechanism to handle internal grievances helps in thorough monitoring, handling and management 
+of human rights issues if any. Also, there are anonymous portals for ‘Group CEO’ and ‘CHRO Connect’ available to address 
+grievances of employees including human right issues.
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Sexual Harassment
+1
+1
+-
+1
+NIL
+Discrimination at workplace
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Child Labour
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Forced Labour/ Involuntary 
+Labour
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Wages
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Other human rights related 
+issues
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) 
+Act, 2013, in the following format:
+FY 2023-24
+FY 2022-23
+Total complaints reported under Sexual Harassment of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+1
+1
+Complaints on POSH as a % of female employee/ workers
+0.65
+0.83
+Complaints on POSH upheld
+1
+Nil
+176
+Annual Report 2023-24
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+Suzlon has a Grievance Redressal Management procedure which helps in effective implementation and monitoring to 
+always ensure human rights compliance at workplace. Furthermore, well-defined reporting and whistle blowing channels of 
+communication such as a dedicated hotline e-mail for reporting incidents are also available. The HR department including 
+the Chief Human Resource Officer plays a crucial role in addressing employee grievances, including those related to human 
+rights. They are responsible for addressing complaints, conducting investigations, and implementing corrective actions. The 
+Internal Complaints Committee specially constituted in line with the Sexual Harassment at Workplace (Prevention, Prohibition 
+and Redressal) Act, 2013 is also in place and deals with all the cases of sexual harassment at workplace. For human rights 
+aspects, being sensitive in nature, the confidentiality criteria are strictly adhered to, which encourages the individuals to 
+raise their concerns. Suzlon implements the Human Rights policy by incorporating human rights considerations in all our 
+business operations and decision making policies and processes; ensuring that employees and business partners are aware 
+of and understand our human rights policy and its implementation; providing regular training to the employees and business 
+partners on human rights issues; conducting due diligence/ audit to identify and assess potential human rights policy 
+adherence in the operations; developing and implementing strategies to prevent and mitigate any adverse human rights 
+impacts of the operations; providing effective mechanisms for individuals and communities to raise human rights concerns and 
+seek redressal.
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes
+10.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Child labour
+69.49
+Forced/involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others – please specify
+NA
+11.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above.
+	
+There were no significant risks / concerns arising from third party assessments.
+Leadership Indicators
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints.
+	
+There are well established process and procedures under implementation in order to address human rights grievances and 
+complaints. To ensure real time monitoring of human rights regulatory compliances, an IT based portal has been introduced. 
+Further, to ensure ease of access in logging grievances and complaints, direct contact can be made through the ‘Group CEO’ 
+and ‘CHRO Connect’. The HR4US portal has also been launched for speedy redressal of grievances, if any.
+2.	
+Details of the scope and coverage of any Human rights due- diligence conducted.
+	
+The scope of Human Rights Due Diligence includes the following:
+	
+•	
+Labour Practices and Conditions, including fair wages, working hours, freedom of association, and occupational health 
+and safety measures.
+	
+•	
+Child Labor and Forced Labor: Ensuring that suppliers do not engage in child labour or forced labour and have 
+mechanisms in place to identify and address such risks within their supply chain.
+	
+•	
+Discrimination and Harassment: Assessing whether suppliers have policies and practices to prevent discrimination and 
+harassment in the workplace, ensuring a safe and inclusive working environment.
+Financial Statements
+Corporate Overview
+177
+Statutory Reports
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+	
+Yes, the company has made provisions for providing accessibility to differently abled persons and the Corporate Headquarters 
+in Pune sets an excellent example for arrangements made for providing accessibility of disabled persons.
+4.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Sexual harassment
+89.5%
+Discrimination at workplace
+89.5%
+Child labour
+89.5%
+Forced/involuntary labour
+89.5%
+Wages
+89.5%
+Others – please specify (Environmental Compliance)
+89.5%
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above.
+	
+No significant risk observed during the assessment during FY23-24 of A class suppliers.
+Principle 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Units in Giga Joules
+From renewable sources
+Total electricity consumption (A)
+17,830
+19,354.90
+Total fuel consumption (B)
+-
+-
+Energy consumption through other sources (C)
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+17,830
+19,354.90
+From non-renewable sources
+Total electricity consumption (D)
+202,443.36
+127,069.08
+Total fuel consumption (E)
+72,995.07
+4,522,221.59
+Energy consumption through other sources (F)
+-
+-
+Total energy consumed from non-renewable sources (D+E+F)
+275,438.44
+4,649,290.67
+Total energy consumed (A+B+C+D+E+F)
+293268.44
+4,668,645.57
+Energy intensity per rupee of turnover
+(Total energy consumption/ revenue from operations)
+0.000004415
+7.69
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP)
+(Total energy consumption/ revenue from operations adjusted for PPP)
+0.000098906
+0.00173
+Energy intensity in terms of physical output (Total Energy consumption/ 
+manufacturing volume as no. of turbine)
+931.01 
+14774.19
+Energy intensity (optional) – the relevant metric may be selected by the entity
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+Yes, SGS India Private Limited (Parent company-SGS based in Geneva, Switzerland)
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the 
+PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if 
+any.
+	
+No, Suzlon’s sites / facilities are not designated as DCs.
+178
+Annual Report 2023-24
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kiloliters)
+(i)	
+Surface water
+-
+10,074.06
+(ii)	
+Groundwater
+140,425
+67,705.83
+(iii)	
+Third party water
+168,030
+99,958.83
+(iv)	
+Seawater / desalinated water
+-
+0
+(v)	
+Others
+725
+442
+Total volume of water withdrawal (in kiloliters) (i + ii + iii + iv + v)
+309,180
+1,78,180.72
+Total volume of water consumption (in kiloliters)
+189,893
+1,78,180.72
+Water intensity per rupee of turnover (Water consumed / revenue from 
+operations)
+0.00000286
+3.77
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (Water consumed / revenue from operations adjusted for PPP)
+0.000643
+0.00006594
+Water intensity in terms of physical output (Total water consumption/ 
+manufacturing volume as no. of turbine) 
+602.83 
+563.86
+Water intensity (optional) – the relevant metric may be selected by the entity
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+Yes, SGS India Private Limited (Parent company-SGS based in Geneva, Switzerland)
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY 2023-24
+FY 2022-23
+Water discharge by destination and level of treatment (in kiloliters)
+(i)	
+To Surface water
+0
+	
+- No treatment
+-
+0
+	
+- With treatment – please specify level of treatment
+-
+0
+(ii)	
+To Groundwater
+0
+	
+- No treatment
+16,777
+0
+	
+- With treatment – please specify level of treatment
+90,170
+0
+(iii)	
+To Seawater
+0
+	
+- No treatment
+-
+0
+	
+- With treatment – please specify level of treatment
+-
+(iv)	
+Sent to third-parties
+0
+	
+- No treatment
+2,099
+0
+	
+- With treatment – please specify level of treatment
+-
+(v)	
+Others
+0
+	
+- No treatment
+899
+0
+	
+- With treatment – please specify level of treatment
+-
+0
+Total water discharged (in kiloliters)
+109,945
+0
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+Yes, SGS India Private Limited (Parent company-SGS based in Geneva, Switzerland)
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+As water is not a part of process / production at Suzlon therefore zero liquid discharge is not applicable, except SE Forge 
+(Foundry unit).
+	
+SE Forge Foundry unit has Effluent Treatment Plant (ETP) which treats the generated process wastewater (coolant) which is 
+further reutilized for the gardening, toilet flushing and cleaning purpose.
+Financial Statements
+Corporate Overview
+179
+Statutory Reports
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2023-24*
+FY 2022-23
+NOx
+Tonnes
+5.746
+0.064
+SOx
+Tonnes
+0.037
+0.010
+Particulate matter (PM)
+Tonnes
+0.843
+0.033
+Persistent organic pollutants (POP)
+-
+Volatile organic compounds (VOC)
+mg/m3
+1,880.29
+1,393.56
+Hazardous air pollutants (HAP)
+-
+Others – please specify
+CFC-11 equivalent
+8
+-
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+Yes, SGS India Private Limited (Parent company-SGS based in Geneva, Switzerland)
+	
+* Data reported for TPM, NOx and SOx does not include data from RBU Bhuj Manufacturing
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 1 emissions  
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+5,969
+6,183
+Total Scope 2 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+40,264
+27,885
+Total Scope 1 and Scope 2 emissions intensity per 
+rupee of turnover
+(Total scope 1 and scope 2 GHG emissions/ revenue 
+from operations)
+Metric tonnes of CO2 
+equivalent/ rupee
+0.000000696
+4.59
+Total Scope 1 and Scope 2 emissions intensity per 
+rupee of turnover adjusted for Purchasing Power Parity
+(Total scope 1 and scope 2 GHG emissions/ revenue 
+from operations adjusted for PPP)
+Metric tonnes of CO2 
+equivalent/ PPP
+0.000015592
+0.0000126
+Total Scope 1 and Scope 2 emission intensity in terms 
+of physical output  (Total scope 1 and scope 2 GHG 
+emissions / manufacturing volume as no. of turbine)
+146.77
+107.81
+Total Scope 1 and Scope 2 emission intensity 
+(optional) – the relevant metric may be selected by the 
+entity
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+Yes, SGS India Private Limited (Parent company-SGS based in Geneva, Switzerland)
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details.
+	
+•	
+Innovations in Turbine design increased gear box oil lifespan, reducing carbon emissions per wind turbine.
+	
+•	
+Working on Monitoring Energy efficiency at our Plants (12 nos. of SEL and 2 nos. of SE Forge) have helped us in 
+monitoring and reduction of Greenhouse Gas Emissions (Scope-1).
+	
+•	
+The Waste to Wealth CSR initiative sought to evaluate the current waste and convert it into innovative products for the 
+use by remote rural communities.
+180
+Annual Report 2023-24
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+641
+44.98
+E-waste (B)
+17
+19.46
+Bio-medical waste (C)
+5
+42.65
+Construction and demolition waste (D)
+-
+-
+Battery waste (E)
+678
+582.61
+Radioactive waste (F)
+-
+-
+Other Hazardous waste. Please specify, if any. (G)
+4,487
+5282.82
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up by 
+composition i.e., by materials relevant to the sector)
+17,996
+22,807.50
+Total (A+B + C + D + E + F + G + H)
+23,824
+28,780.02
+Waste intensity per rupee of turnover (Total waste generated / revenue from 
+operations)
+0.00000043
+0.00000049
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (Total waste generated/ revenue from operations adjusted for PPP)
+0.00000803
+0.00001065
+Waste intensity in terms of physical output (Total waste generated / 
+manufacturing volume as no. of turbine)
+75.63
+91.07
+Waste intensity (optional) – the relevant metric may be selected by the entity
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in 
+metric tonnes)
+Category of waste
+(i)	
+Recycled
+-
+(ii)	
+Re-used
+-
+(iii)	
+Other recovery operations
+20,702
+-
+Total
+20,702
+-
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i)	
+Incineration
+5,812
+1,795.22
+(ii)	
+Landfilling
+-
+(iii)	
+Other disposal operations
+-
+Total
+5,812
+1,795.22
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+Yes, SGS India Private Limited (Parent company-SGS based in Geneva, Switzerland)
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted 
+by your company to reduce usage of hazardous and toxic chemicals in your products and processes and the 
+practices adopted to manage such wastes.
+	
+The waste management is carried out in accordance with the Guideline for waste storage, handling, and disposal, which 
+considers both hazardous and non-hazardous wastes.
+	
+The management plan for both hazardous and non-hazardous waste streams is in place and efforts are made of adoption of 
+3R’s (Reduce-Reuse-Recycle) and use of scrap, packaging material for making other consumables. Furthermore, the waste 
+generated during manufacturing is sent to cement company and used as alternate fuel.
+	
+The Hazardous and other Wastes (Management & Transboundary Movement) Rules, 2016 have been resorted for waste 
+storage, handling, and disposal. In addition, all appropriate forms are completed and maintained for legal compliance.
+	
+Monitoring mechanism to ensure safe management and reduction of waste generation is as follows:
+	
+•	
+The generated waste is collected and segregated as per Consent to operate.
+	
+•	
+The record of generated waste at plants / sites is maintained in Form – 3 (Maintaining records of Hazardous waste and 
+other waste).
+Financial Statements
+Corporate Overview
+181
+Statutory Reports
+	
+•	
+It is ensured that waste is collected, segregated, and stored safely. Further, the waste is disposed through authorized 
+waste disposal agency with Form - 10 (Manifest for hazardous and other waste).
+	
+•	
+Stock norms are defined for each category of waste and is disposed as per statutory norms.
+	
+•	
+Control on usage of plastic as packing material has been initiated.
+	
+•	
+Acetone (High risk of Fire, falls under the category of Class A, and is harmful for human) was earlier used for mould 
+cleaning which is now replaced by Muscle clean HD 27 chemical (does not flash).
+	
+•	
+Product weight optimization methodologies is being adopted for curbing the generation of waste during production.
+11.	
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details in the following format:
+	
+NA
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year:
+	
+During the year under review and as per applicable laws, environmental impact assessment is not applicable for any projects 
+undertaken by Suzlon Group. However, few customers undertake environmental impact assessments of projects and share 
+the findings based on which necessary mitigation measures are undertaken as may be relevant.
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act 
+and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format:
+	
+Yes
+Leadership Indicators
+1.	
+Water withdrawal, consumption, and discharge in areas of water stress (in kiloliters):
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area: Manufacturing sites in Bhuj & Jaisalmer and Maintenance Operations in Kutch & Rajasthan
+	
+(ii)	
+Nature of operations: Manufacturing of rotor blades for wind turbines and maintenance operations of wind farms
+	
+(iii)	
+Water withdrawal, consumption, and discharge in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kiloliters)
+(i)	
+To Surface water
+-
+0
+(ii)	
+To Groundwater
+7,564
+0
+(iii)	
+To Seawater
+-
+0
+(iv)	
+From third parties
+42,128
+0
+(v)	
+Others
+-
+0
+Total volume of water withdrawal (in kiloliters)
+49,692
+0
+Total volume of water consumption (in kiloliters)
+38,401
+0
+Water intensity per rupee of turnover (Water consumed / turnover)
+0.000000578
+0
+Water intensity (optional) – the relevant metric may be selected by 
+the entity
+Water discharge by destination and level of treatment (in kiloliters)
+(i)	
+Into Surface water
+0
+	
+- No treatment
+3
+0
+	
+- With treatment – please specify level of treatment
+-
+0
+(ii)	
+Into Groundwater
+0
+	
+- No treatment
+-
+0
+	
+- With treatment – please specify level of treatment
+5,853
+0
+182
+Annual Report 2023-24
+Parameter
+FY 2023-24
+FY 2022-23
+(iii)	
+Into Seawater
+0
+	
+- No treatment
+-
+0
+	
+- With treatment – please specify level of treatment
+-
+0
+(iv)	
+Sent to third-parties
+0
+	
+- No treatment
+-
+0
+	
+- With treatment – please specify level of treatment
+-
+0
+(v)	
+Others
+0
+	
+- No treatment
+-
+0
+	
+- With treatment – please specify level of treatment
+-
+0
+Total water discharged (in kiloliters)
+5,856
+0
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.
+Yes, SGS India Private Limited (Parent company-SGS based in Geneva, Switzerland)
+2.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 3 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+18,182*
+98,75,338
+Total Scope 3 emissions per rupee of turnover
+0.000000274
+1,627
+Total Scope 3 emission intensity (optional) – the 
+relevant metric may be selected by the entity
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+Yes, SGS India Private Limited (Parent company-SGS based in Geneva, Switzerland)
+	
+* For Scope 3 we have considered data under below categories:
+	
+Category 3 - Fuel and Energy related activities not included in Scope 1 and 2
+	
+Category 4 - Upstream Transportation and Distribution
+	
+Category 6 - Business Travel
+	
+Category 7 - Employee commuting
+	
+Category 8 - Upstream leased assets
+	
+Category 9 - Downstream Transportation and Distribution
+3.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities.
+	
+NA
+4.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the 
+same as well as outcome of such initiatives, as per the following format:
+Sr. 
+No
+Initiative undertaken
+Details of the 
+initiative (Web-link, if 
+any, may be provided 
+along-with summary)
+Outcome of the initiative
+1
+Reduction in plastic usage in packing consignment to sites
+-
+Reduction in plastic waste
+2
+Instead of using aluminium, we have started using in-house FRP 
+channels for nacelle cover rimming process
+-
+Reduction in metallic waste
+3
+Modified transportation fixture for two sets of top parts in a single
+trip thereby reducing fuel consumption.
+-
+Reduction in fuel 
+consumption
+4
+Used MS waste materials for making Nacelle cover storage racks
+-
+Reduction in MS Waste
+Financial Statements
+Corporate Overview
+183
+Statutory Reports
+Sr. 
+No
+Initiative undertaken
+Details of the 
+initiative (Web-link, if 
+any, may be provided 
+along-with summary)
+Outcome of the initiative
+5
+Recycling of Glass mat, Resin and Wooden waste materials for
+making false ceiling for canteen and Admin office
+-
+Reduction in waste 
+generation.
+6
+Recycling of Glass mat & Resin waste material for making FRP
+Sheets for manufacturing deburring chamber and labour colony (for
+Project / OMS site)
+-
+Reduction in waste 
+generation.
+7
+Recycling of Glass mat & Resin waste material for making dispatch
+shed, Scrap yard shed, Warehouse shed, Grinding Peel ply shed,
+Fire Hydrant shed and MPRP Mezzanine floor
+-
+Reduction in waste 
+generation.
+5.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+Suzlon Group implements a proactive risk management strategy to effectively address challenges by gaining a comprehensive 
+understanding of both internal and external environments. The Enterprise Risk Management (ERM) policy, accessible on the 
+Suzlon website, outlines the ERM Framework, including processes and organizational structure to promote a risk-aware 
+culture within the company. It specifies the procedures, roles, and responsibilities for each entity within the structure. The Risk 
+Management Committee (RMC) conducts bi-annual reviews of the risk registers. In response to market and industry changes, 
+as well as opportunities, we assess corresponding risks and update the risk register with detailed mitigation plans, risk 
+probability, intensity, owner, and tentative timelines. The Company’s risk management policy can be found on the Company’s 
+website 
+at 
+https://www.suzlon.com/NewPdf/Shareholders_Information/Corporate_Governance_Policies/2022-23/Risk_
+Management_Policy1.pdf
+	
+Additionally, there is a well-established emergency preparedness and response plan in place to address any potential 
+disruptions to business continuity.
+6.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard.
+	
+No significant risk observed during the assessment during FY23-24.
+7.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts.
+	
+89.5% of value chain partners (by value of business done with such partners) were assessed for environmental impacts in the 
+financial year.
+Principle 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner 
+that is responsible and transparent.
+Essential Indicators
+1.	
+A.	
+Number of affiliations with trade and industry chambers/ associations.
+	
+	
+6 (six)
+	
+B.	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the 
+entity is a member of/ affiliated to.
+Sr No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1
+Confederation of Indian Industry (CII)
+National
+2
+Federation of Indian Chamber of Commerce & Industry (FICCI)
+National
+3
+US-India Business Council (USIBC)
+International
+4
+Indian Wind Turbine Manufacturers Association (IWTMA)
+National
+5
+Indian Wind Power Association (IWPA)
+National
+6
+Global Wind Energy Council (GWEC)
+International
+184
+Annual Report 2023-24
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the 
+entity, based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+NA
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity:
+S. No Public policy advocated
+Method resorted for such 
+advocacy
+Whether 
+information 
+available in 
+public domain? 
+(Yes/No)
+Frequency of Review 
+by Board (Annually/ 
+Half yearly/ 
+Quarterly / Others – 
+please specify)
+Web Link, if 
+available
+1.
+Policies related to promotion of 
+Renewable Energy
+Participation in industry 
+association meetings
+ No
+N.A.
+N.A.
+Principle 8: Businesses should promote inclusive growth and equitable development.
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+	
+During the year under review and as per applicable laws, SIA is not applicable for any projects undertaken by Suzlon Group.
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity, in the following format:
+	
+NA- Suzlon presently is not undertaking any Project wherein rehabilitation and resettlement is needed given that no one is 
+being displaced in any of the projects undertaken. Therefore, Resettlement and Rehabilitation is not triggered.
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+Suzlon prioritizes sustainable development and the involvement of all stakeholders in its journey of sustainability. The 
+community holds significant importance as a stakeholder.
+	
+Establishing a grievance mechanism for impacted communities is crucial for handling and resolving project-related grievances 
+effectively. By implementing a robust grievance handling procedure, the organization can maintain a harmonious environment.
+	
+The primary objective of the grievance redressal mechanism is to provide communities with a local avenue for resolving 
+issues, offering an alternative to external dispute resolution processes such as legal or administrative systems.
+	
+The mechanism to receive and redress grievances of the community is defined as below:
+	
+Any individual belonging to the Community has the right to raise a grievance. The term “Community” in this context includes 
+the Members residing in the village where the wind turbine or factory is situated, as well as the villages through which there 
+is transit for business purposes. However, it does not include employees, vendors, or suppliers who may reside in the village, 
+as they have alternative mechanisms to address their grievances. The affected Community Members have the option to raise 
+their grievances with the relevant competent Authority, such as the Site in-charge, area in-charge, section in-charge, project 
+Manager, or Heads of departments. Furthermore, the affected Community can choose to raise their grievance through various 
+modes, including telephone, email, or direct meetings.
+	
+The Grievance can be officially registered in accordance with Grievance Redressal Procedure adopted by Suzlon. Furthermore, 
+the External Grievances related to Community can also be captured through a helpline (available in multi-lingual mode) which 
+enables an additional mechanism to capture and address community related grievances, if any
+	
+Registering the Grievance: The Suzlon employees from manufacturing locations/project sites/operations who receives a 
+complaint is required to report it to the state CSR Manager within 48 hours of receiving the complaint. The complaint should 
+include the complainant’s name, address, phone number, details of the issue, and the desired resolution. Even if the complaint 
+does not initially appear to be a grievance, it is still documented for review by the committee to determine its eligibility.
+Financial Statements
+Corporate Overview
+185
+Statutory Reports
+	
+Grievance resolution: The complaint is reviewed by the appropriate individuals from the Grievance Redressal Cell, as 
+designated by the relevant committee member of the department, and a formal response will be provided to the complainant 
+within 45 days. If the response is not acceptable to the complainant, then it will be escalated, and the grievance redressal 
+committee of the company will respond to the complainant within 15 days.
+	
+GRC and Committee: The Grievance Redressal Cell and Committee is required to conclude their proceedings within 60 days 
+from the time the complaint is registered. The resolution will be documented and communicated to the complainant through 
+telephone, written correspondence, or email, depending on the circumstances. Nevertheless, the complainant is free to seek 
+alternative dispute resolution mechanisms if needed.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Business Unit
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/ small producers
+SEL (Manufacturing)
+9%
+7%
+SGWPL (Projects)
+14%
+12%
+WTG (O&M)
+15%
+15%
+SE Forge Vodadara
+8%
+5%
+SE Forge Coimbatore
+18%
+10%
+Directly from within India
+SEL (Manufacturing)
+67%
+65%
+SGWPL (Projects)
+100%
+100%
+WTG (O&M)
+79%
+77%
+SE Forge Vodadara
+23%
+25%
+SE Forge Coimbatore
+84%
+94%
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers 
+employed on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost:
+Location
+FY 2023-24
+FY 2022-23
+Rural
+33.81%
+38.29%
+Semi urban
+12.64%
+4.69%
+Urban
+11.52%
+11.28%
+Metropolitan
+42.03%
+45.74%
+	
+(Place to be categorized as per RBI Classification System - rural / semi-urban / urban / metropolitan)
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+NA
+NA
+NA
+NA
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+Sr No
+State
+Aspirational District
+Amount Spent (in INR)
+1
+Andhra Pradesh
+Y S R Kadapa
+ N A
+2
+Karnataka
+Raichur
+ NA
+3
+Maharashtra
+Nandurbar
+ 4,94,410.00
+4
+Rajasthan
+Jaisalmer
+ 30,45,469.00
+186
+Annual Report 2023-24
+3.	
+(a)	
+Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups? (Yes/No)
+	
+(b)	
+From which marginalized /vulnerable groups do you procure?
+	
+(c)	
+What percentage of total procurement (by value) does it constitute?
+	
+	
+a)	
+No, Suzlon does not have a preferential procurement policy, however we purchase from marginalized / vulnerable 
+groups to the extent possible.
+	
+	
+b)	
+As a part of Suzlon’s corporate social responsibility (CSR) initiatives, individuals from villages of Gujarat and Tamil 
+Nadu have been provided with training and assistance to create various products such as crafts made from 
+palm leaves, traditional embroidery, and weaving. This initiative aims to revive and promote the art of crafting. 
+The resulting products have achieved a high level of quality and is being marketed in nearby towns and cities. 
+Whenever feasible, Suzlon has also procured these crafts to utilize them as gifts for its employees and visitors.
+	
+	
+c)	
+Negligible
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge:
+	
+N.A. since Suzlon does not own any intellectual property rights based on traditional knowledge.
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved.
+	
+NIL
+6.	
+Details of beneficiaries of CSR Projects:
+	
+During FY 24, Suzlon conducted over 4,046 impactful CSR activities and touched lives in 869 villages reaching over 40,28,000 
+villagers and 9,62,000 households. The CSR activities were focused on six key areas -  Environment, Empowerment, 
+Health, Livelihood, Education and Civic Amenities. These activities were undertaken in consultation with communities and 
+in collaboration with over 200 institutions such as Government, private agencies, and corporate foundations. Additionally, 
+Suzlon’s CSR programs leveraged ` 1.70 Crore of co-funding from other stakeholders like employees, customers, and 
+community members.
+State
+CSR Project
+No. of persons 
+benefitted from CSR 
+Projects
+% of beneficiaries 
+from vulnerable and 
+marginalized groups
+Andhra Pradesh
+SUZTAIN-Sustainable need-based village development 
+in Andhra Pradesh
+99,605
+100
+Daman
+SUZTAIN-Sustainable need-based village development 
+in Daman
+88,701
+100
+Gujarat
+SUZTAIN-Sustainable need-based village development 
+in Gujarat
+2,830,045
+100
+Karnataka
+SUZTAIN-Sustainable need-based village development 
+in Karnataka
+144,455
+100
+Madhya Pradesh
+SUZTAIN-Sustainable need-based village development 
+in Madhya Pradesh
+138,113
+100
+Maharashtra
+SUZTAIN-Sustainable need-based village development 
+in Maharashtra
+166,065
+100
+Rajasthan
+SUZTAIN-Sustainable need-based village development 
+in Rajasthan
+167,901
+100
+Tamil Nadu
+SUZTAIN-Sustainable need-based village development 
+in Tamil Nadu
+387,323
+100
+Telangana
+SUZTAIN-Sustainable need-based village development 
+in Telangana
+5,900
+100
+Financial Statements
+Corporate Overview
+187
+Statutory Reports
+Principle 9: Businesses should engage with and provide value to their consumers in a responsible manner.
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+Suzlon has implemented both online and offline grievance mechanisms to effectively handle customer complaints. To address 
+online complaints, Suzlon has established a Help Desk portal at https://crms.suzlon.com. This portal grants each customer 
+access to the CRMS Help Desk, where they may submit their grievances.
+	
+Alternatively, customers may also utilize offline modes of communication such as email, telephone, or WhatsApp messages 
+to raise their complaints.
+	
+To ensure efficient resolution, technical calls are assigned to the Site In-charge, while commercial calls are directed to the 
+Key Account Managers (KAMs). These designated individuals are responsible for addressing and resolving the customer 
+complaints.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information 
+about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+100
+Safe and responsible usage
+100
+Recycling and/or safe disposal
+100
+3.	
+Number of consumer complaints in respect of the following:
+FY 2023-24
+Remarks
+FY 2022-23
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data Privacy
+Nil
+-
+-
+Nil
+-
+-
+Advertising
+Nil
+-
+-
+Nil
+-
+-
+Cyber Security
+Nil
+-
+-
+Nil
+-
+-
+Delivery of essential 
+services
+Nil
+-
+-
+Nil
+-
+-
+Restrictive Trade 
+Practices
+Nil
+-
+-
+Nil
+-
+-
+Unfair Trade Practices
+Nil
+-
+-
+Nil
+-
+-
+Other-Customer 
+complaints
+12994*
+111#
+-
+5,696
+10
+Technical and commercial 
+complaints related to WTG 
+operations and maintenance
+	
+* For better customer communication on WTG performance, more call logs are raised internally.
+	
+# Considering nature of call e.g., breakdown, issues in WTG operations.
+4.	
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+NA
+NA
+Forced recalls
+NA
+NA
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+	
+Yes, the cyber security risks fall under the IT Risks which are covered under the Risk Management Policy of the Company. 
+The Risk Management Policy of the Company is available on Company’s website at web link https://www.suzlon.com/NewPdf/
+Shareholders_Information/Corporate_Governance_Policies/2022-23/Risk_Management_Policy1.pdf .
+188
+Annual Report 2023-24
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty / action taken by regulatory authorities on safety of products / services.
+	
+No requests /complaints received from clients / employee on cyber security / data privacy.
+7.	
+Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers
+	
+c.	
+Impact, if any, of the data breaches
+	
+	
+a)	
+No Data breaches Incident was occurred in FY 23-24
+	
+	
+b)	
+NA
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, 
+if available).
+	
+The information on the Company’s products is available on the Company’s website and can be accessed through 
+www.suzlon.com 
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+Despite not having any direct consumers for its products, Suzlon conducts electrical safety awareness programs for village 
+communities in India, where its wind turbine power transmission lines are present, driven by a strong sense of responsibility.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+Suzlon sends mass emails in situations like cyclone which might lead to disruption of wind turbine operations or COVID-19 
+pandemic concerns leading to disruption of services as a part of communication/awareness/ preparedness to our customers.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? 
+(Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer 
+satisfaction relating to the major products / services of the entity, significant locations of operation of the entity or 
+the entity as a whole? (Yes/No)
+	
+The WTG Product provide necessary information as required by local laws and includes additional details. These essential 
+details are covered in the Product Safety Manuals. In addition, a survey was conducted to assess customer satisfaction 
+regarding our major products and services.
+	
+Warning Signs and Manuals: To ensure safety, basic signs and symbols related to safety are placed inside and outside on the 
+WTG. The customer documentation set consists of separate manuals for safety, operation, maintenance, troubleshooting, and 
+service. These manuals also contain additional rules and information regarding health and safety when working in or around 
+the WTG. Suzlon ensures that all required compliance obligations are met and recorded through Compliance Certificates from 
+regulatory authorities, such as Grid Code Compliance. Although all these compliances are fulfilled, they are not displayed on 
+the Product.
+For and on behalf of the Board of Directors
+Vinod R. Tanti
+Place : Pune
+Chairman and Managing Director
+Date : July 22, 2024
+DIN: 00002266

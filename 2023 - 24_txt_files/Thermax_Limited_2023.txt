@@ -1,0 +1,4842 @@
+ 
+ 
+ 
+July 8, 2024  
+To  
+The Secretary  
+BSE Limited  
+PJ Towers, Dalal Street 
+Mumbai: 400 001 
+Company Scrip Code: 500411 
+ 
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex, 
+Bandra (E) 
+Mumbai – 400 051 
+Company Scrip Code: THERMAX EQ 
+ 
+Sub: Business Responsibility and Sustainability Report for FY 2023-24 
+             Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, we are submitting herewith the Company’s Business 
+Responsibility and Sustainability Report (BRSR) along with limited assurance report on Core BRSR 
+indicators for Financial Year 2023-24, which also forms part of the Integrated Annual Report of the 
+Company for FY 2023-24, submitted to the Exchanges vide our intimation dated July 8, 2024. 
+ This is for your information and records. 
+Thanking you, 
+ 
+ 
+Yours faithfully, 
+For THERMAX LIMITED, 
+ 
+ 
+ 
+ 
+Janhavi Khele 
+Company Secretary 
+Membership No: A20601 
+Encl: as above 
+KHELE 
+JANHAVI 
+KISHOR
+Digitally signed by 
+KHELE JANHAVI 
+KISHOR 
+Date: 2024.07.08 
+17:10:26 +05'30'
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+Annexure-2 to the Directors’ Report
+Section A: General Disclosures
+I. 	
+Details of the Listed Entity
+1
+Corporate Identity Number (CIN) of the listed entity
+L29299PN1980PLC022787
+2
+Name of the listed entity
+Thermax Limited
+3
+Year of incorporation
+June 30, 1980
+4
+Registered office address
+D-13, MIDC, Industrial Area, R. D. Aga Road, 
+Chinchwad, Pune 411019
+5
+Corporate office address
+Thermax House 14, Mumbai-Pune Road, Wakdewadi,  
+Pune 411003, Maharashtra, India
+6
+E-mail
+cservice@thermaxglobal.com
+7
+Telephone
+020-66051200
+8
+Website
+www.thermaxglobal.com
+9
+Financial year for which reporting is being done
+2023-2024
+10
+Name of the stock exchange(s) where shares are listed
+BSE Limited (BSE) and National Stock Exchange of India 
+Limited (NSE)
+11
+Paid-up capital
+Rs. 23,83,12,600
+12
+Name and contact details (telephone, email address) of  
+the person who may be contacted in case of any queries on  
+the BRSR report
+Ms. Janhavi Khele
+cservice@thermaxglobal.com
+13
+Reporting boundary - Are the disclosures under this report 
+made on a standalone basis (i.e. only for the entity) or on a 
+consolidated basis (i.e. for the entity and all the entities that 
+form a part of its consolidated financial statements, taken 
+together)?
+Standalone – Thermax Limited
+14
+Name of the assurance provider
+Price Waterhouse Chartered Accountants LLP
+15
+Type of assurance obtained
+Limited
+The reporting boundary for the current year ended March 31, 2024 is on a standalone basis for Thermax Limited only. Information and 
+disclosures for the previous year ended March 31, 2023 are on a consolidated basis (unless otherwise stated), which includes the following 
+entities: (i) Thermax Limited, (ii)Thermax Babcock & Wilcox Energy Solutions Private Limited (TBWES), (iii)Thermax Instrumentation Limited and 
+(iv) Thermax Onsite Energy Solutions Limited (TOESL).
+Accordingly , current year’s information and disclosures are not comparable with those of the previous year.
+II. 	 Products/Services
+16. Details of business activities (accounting for 90% of the turnover)
+S. 
+No.
+Description of Main 
+Activity
+Description of Business Activity
+% of Turnover of the 
+Entity
+1
+Industrial Products 
+segment
+Boilers & heating equipment (small capacity), absorption chillers/heat pumps, 
+air pollution control equipment/systems, water & waste recycle including 
+associated services and engineering, procurement and construction (EPC)
+ 57
+2
+Industrial Infra segment
+EPC of power plants, boiler & heater (high capacity) plants, infra projects, flue 
+gas desulphurisation projects (including associated services)
+ 32
+3
+Chemical segment
+Ion exchange resins, performance chemicals, construction chemicals, water 
+treatment chemicals, oil field chemicals, paper and construction chemicals 
+and related services
+ 11
+144  |  #ThermaxForABetterTomorrow  
+17. 	 Products/services sold by the entity (accounting for 90% of the entity’s turnover)
+S. 
+No.
+Products/Services
+NIC Code
+% of Total 
+Turnover 
+Contributed
+1
+Industrial Products segment: boilers & heating equipment (small capacity), absorption 
+chillers/heat pumps, air pollution control equipment/systems, water & waste recycle 
+including associated services and engineering, procurement and construction (EPC)
+37003, 25131, 
+20119
+57
+2
+Industrial Infra segment: EPC of power plants, boiler & heater (high capacity) plants, 
+infra projects, flue gas desulphurisation projects (including associated services)
+37003, 25131, 
+20119
+32
+3
+Chemical segment: ion exchange resins, performance chemicals, construction 
+chemicals, water treatment chemicals, oil field chemicals, paper chemicals and 
+construction chemicals and related services
+37003, 25131, 
+20119
+11
+III. 	 Operations
+18. 	Number of locations where plants and/or operations/offices of the entity are situated
+Location
+Number of Plants
+Number of Offices
+Total
+National
+8
+17
+25
+International
+0
+0
+0
+19. 	Markets served (refers to all the geographic regions where the Company sells its products) by the entity
+a. 	 Number of Locations
+Locations
+Number
+National (No. of States)
+31
+International (No. of Countries)
+92
+b. 	 What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+18%
+c. 	 A brief on types of customers
+	
+The Company has a presence in both national and international markets, offering its products and services to 
+customers predominantly engaged in manufacturing. Many customers emphasise on providing sustainable 
+products that are both environmentally conscious and economically feasible. By providing sustainable products to 
+these manufacturing customers, the Company is enabling them to make a positive impact on the environment while 
+still maintaining their bottom line.
+IV. 	 Employees
+20. 	Details as at the end of the financial year
+a. 	 Employees and workers (including differently-abled)
+S. 
+No.
+Particulars
+Total
+Male
+Female
+(A)
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Employees
+1
+Permanent (D)
+2,830
+2,572
+91
+258
+9
+2
+Other than permanent (E)
+2,723
+2,631
+97
+92
+3
+3
+Total employees (D + E)
+5,553
+5,203
+94
+350
+6
+Workers
+4
+Permanent (F)
+542
+540
+100
+2
+-
+5
+Other than permanent (G)
+2,340
+2,269
+97
+71
+3
+6
+Total workers (F + G)
+2,882
+2,809
+97
+73
+3
+145 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+b. 	 Differently-abled employees and workers
+S. 
+No.
+Particulars
+Total
+Male
+Female
+(A)
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Employees
+1
+Permanent (D)
+1
+-
+-
+1
+100
+2
+Other than permanent (E)
+-
+-
+-
+-
+-
+3
+Total differently-abled employees (D + E)
+1
+-
+-
+1
+100
+Workers
+4
+Permanent (F)
+-
+-
+-
+-
+-
+5
+Other than permanent (G)
+1
+-
+-
+1
+100
+6
+Total differently-abled workers (F + G)
+1
+-
+-
+1
+100
+21.	 Participation/inclusion/representation of women
+Total
+No. and Percentage of Females
+(A)
+No. (B)
+% (B/A)
+Board of Directors
+10
+2
+20
+Key management personnel
+3
+1
+33
+22. 	Turnover rate for permanent employees and workers (Disclose trends for the past three years)
+FY 2023-2024 
+(Turnover Rate in Current FY)
+FY 2022-2023 
+(Turnover Rate in Previous FY)
+FY 2021-2022 
+(Turnover Rate in the Year Prior to 
+the Previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+employees
+15
+17
+15
+18
+27
+18
+13
+8
+14
+Permanent 
+workers
+13
+-
+13
+1
+60*
+1
+0#
+-
+0#
+	
+* During FY 2022-23, out of five, three female workers left.
+	
+# Permanent workers turnover rate for FY 21-22 is 0.32
+V. 	 Holdings, Subsidiaries, and Associate Companies (including Joint Ventures)
+23. 	(a) 	 Names of holdings/subsidiaries/associate companies/joint ventures
+S. 
+No.
+Name of the Holdings/Subsidiaries/Associate Companies/Joint 
+Ventures (A)
+Indicate Whether 
+Holding/Subsidiary/
+Associate/Joint 
+Venture
+% of 
+Shares 
+Held by 
+Listed 
+Entity
+Does the Entity Indicated 
+at Column A, Participate in 
+the Business Responsibility 
+Initiatives of the Listed 
+Entity? (Yes/No)
+1
+RDA Holdings Private Limited
+Holding
+-
+No
+2
+Thermax Onsite Energy Solutions Ltd.
+Subsidiary
+100
+Yes
+3
+Thermax Instrumentation Limited
+Subsidiary
+100
+Yes
+4
+Thermax Engineering Construction Company Ltd.
+Subsidiary
+100
+No
+5
+Thermax International Ltd. (Mauritius)
+Subsidiary
+100
+No
+6
+Thermax Europe Ltd. (U.K.)
+Subsidiary
+100
+No
+7
+Thermax Inc. (U.S.A.)
+Subsidiary
+100
+No
+8
+Thermax do Brasil Energia e Equipamentos Ltda. (Brazil)
+Subsidiary
+100
+No
+9
+Thermax Netherlands BV
+Subsidiary
+100
+No
+10
+Thermax Denmark ApS
+Subsidiary
+100
+No
+11
+Danstoker A/S
+Subsidiary
+100
+No
+12
+Ejendomsanpartsselskabet Industrivej Nord 13
+Subsidiary
+100
+No
+13
+Boilerworks A/S
+Subsidiary
+100
+No
+146  |  #ThermaxForABetterTomorrow  
+S. 
+No.
+Name of the Holdings/Subsidiaries/Associate Companies/Joint 
+Ventures (A)
+Indicate Whether 
+Holding/Subsidiary/
+Associate/Joint 
+Venture
+% of 
+Shares 
+Held by 
+Listed 
+Entity
+Does the Entity Indicated 
+at Column A, Participate in 
+the Business Responsibility 
+Initiatives of the Listed 
+Entity? (Yes/No)
+14
+Danstoker Poland Spółka Z Ograniczona Odpowiedzialnoscia
+Subsidiary
+100
+No
+15
+Rifox-Hans Richter GmbH Spezialarmaturen
+Subsidiary
+100
+No
+16
+Thermax Sdn.Bhd, Malaysia
+Subsidiary
+100
+No
+17
+Thermax Engineering Singapore Pte. Ltd.
+Subsidiary
+100
+No
+18
+PT Thermax International Indonesia
+Subsidiary
+100
+No
+19
+Thermax Energy & Environment Philippines Corporation
+Subsidiary
+100
+No
+20
+Thermax Energy & Environment Lanka (Private) Limited
+Subsidiary
+100
+No
+21
+Thermax Nigeria Limited
+Subsidiary
+100
+No
+22
+Thermax Babcock & Wilcox Energy Solutions Ltd.
+Subsidiary
+100
+Yes
+23
+Thermax Cooling Solutions Limited
+Subsidiary
+100
+No
+24
+Thermax Engineering Construction FZE
+Subsidiary
+100
+No
+25
+Thermax International Tanzania Limited
+Subsidiary
+100
+No
+26
+Thermax (Thailand) Limited
+Subsidiary
+100
+No
+27
+Enernxt Private Limited
+Subsidiary
+100
+No
+28
+Thermax Bioenergy Solutions Private Limited
+Subsidiary
+65
+Yes
+29
+First Energy Private Limited
+Subsidiary
+100
+Yes
+30
+First Energy TN 1 Private Limited
+Subsidiary
+73.82
+Yes
+31
+First Energy 2 Private Limited
+Subsidiary
+73.99
+Yes
+32
+First Energy 3 Private Limited
+Subsidiary
+73.99
+Yes
+33
+First Energy 4 Private Limited
+Subsidiary
+73.99
+Yes
+34
+First Energy 5 Private Limited
+Subsidiary
+73.81
+Yes
+35
+First Energy 6 Private Limited
+Subsidiary
+73.96
+Yes
+36
+First Energy 7 Private Limited
+Subsidiary
+71.17
+Yes
+37
+First Energy 8 Private Limited
+Subsidiary
+100
+Yes
+38
+First Energy Nine Private Limited
+Subsidiary
+100
+Yes
+39
+First Energy 10 Private Limited
+Subsidiary
+100
+No
+40
+Jalansar Wind Energy Private Limited
+Subsidiary
+74
+Yes
+41
+Kanakal Wind Energy Private Limited
+Subsidiary
+74
+Yes
+42
+Exactspace Technologies Private Limited
+Associate Company
+15.17 
+No
+43
+Covascis Technologies Private Limited
+Associate Company
+16.67
+No
+VI. 	 CSR Details
+24. 	(i) 	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+	
+(ii) 	 Turnover (in Rs. in crore): 5,821.93
+	
+(iii) 	 Net worth (in Rs. in crore): 3,536.70
+147 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+VII. 	Transparency and Disclosures Compliances
+25. 	Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct (NGRBC)
+Stakeholder Group 
+from Whom Complaint 
+is Received
+Grievance 
+Redressal 
+Mechanism 
+in Place
+If Yes, Then 
+Provide 
+Web-link for 
+Grievance 
+Redressal 
+Policy)
+FY 2023-24 
+Current Financial Year
+FY 2022-23 
+Previous Financial Year
+No. of 
+Complaints 
+Filed 
+during the 
+Year
+No. of 
+Complaints 
+Pending 
+Resolution 
+at Close of 
+the Year
+Remarks
+No. of 
+Complaints 
+Filed 
+during the 
+Year
+No. of 
+Complaints 
+Pending 
+Resolution 
+at Close of 
+the Year
+Remarks
+Communities
+No
+No
+-
+-
+NA
+-
+-
+NA
+Investors (other than 
+shareholders)
+Yes
+Yes*
+-
+-
+NA
+-
+-
+NA
+Shareholders
+Yes
+Yes*
+-
+-
+NA
+2
+-
+NA
+Employees and 
+Workers
+Yes
+Yes**
+13
+5
+NA
+7
+1
+NA
+Customers
+Yes
+Yes***
+ 8,257
+30
+ NA
+7,335
+143
+NA
+Value chain partners
+Yes
+Yes****
+-
+-
+NA
+2
+-
+NA
+	
+Note: The Company has a mechanism (complaint box at locations)/platforms (town hall meetings) to track complaints and the numbers are 
+mentioned under respective heads in the report. Other routine/miscellaneous complaints/concerns addressed at respective forums like 
+town hall etc. are not added here.
+	
+* https://www.thermaxglobal.com/investor-services-contact/
+	
+** https://www.thermaxglobal.com/about-us/policies/
+	
+*** https://www.thermaxglobal.com/thermaxedge/
+	
+**** https://www.thermaxglobal.com/wp-content/uploads/2023/09/Code_of_Conduct_for_ThermaxGroupsSupplyChainPartners.pdf
+	
+**** https://www.thermaxglobal.com/wp-content/uploads/2021/05/Thermax-Ltd.-Whistleblower-Policy-.pdf
+26. 	Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along with its financial implications, as per the following format:
+S. 
+No.
+Material Issue 
+Identified
+Indicate 
+whether 
+Risk or 
+Opportunity 
+(R/O)
+Rationale for Identifying the Risk/
+Opportunity
+In Case of Risk, Approach to Adapt or 
+Mitigate
+Financial 
+Implications of the 
+Risk or Opportunity 
+(Indicate Positive 
+or Negative 
+Implications)
+1
+Energy 
+management
+O
+Effective energy efficiency management 
+resulted in several advantages to the 
+Company, such as cost reduction, 
+increased efficiency, enhanced reputation, 
+regulatory compliance, and innovation.
+Positive
+2
+Design 
+upgradation & 
+improvements
+O
+Opportunity to develop and deliver state-of-
+the-art technology products and implement 
+sustainability aspects in both products and 
+services. The Company’s strong internal 
+engineering and R&D are developing new 
+products and services to meet customer 
+needs.
+Positive
+3
+Waste 
+management
+ R
+Waste management is a material issue 
+due to growing regulatory pressure, 
+as companies that fail to comply with 
+regulations may face legal and financial 
+consequences.
+Improper disposal of waste can have 
+detrimental effects on our ecosystems 
+and public health. Waste management is 
+one of the most pressing environmental 
+issues of our time. The Company ensures 
+adherence to the regulatory framework 
+defined under applicable laws.
+Negative
+148  |  #ThermaxForABetterTomorrow  
+S. 
+No.
+Material Issue 
+Identified
+Indicate 
+whether 
+Risk or 
+Opportunity 
+(R/O)
+Rationale for Identifying the Risk/
+Opportunity
+In Case of Risk, Approach to Adapt or 
+Mitigate
+Financial 
+Implications of the 
+Risk or Opportunity 
+(Indicate Positive 
+or Negative 
+Implications)
+ O
+The Company has taken proactive 
+measures to incorporate sustainable waste 
+management approaches such as recycling 
+and waste reduction. By doing so, we seize 
+the chance to minimise our environmental 
+footprint, reduceexpenses, explore fresh 
+avenues for business growth and ensure 
+compliance with regulations.
+Positive
+4
+Climate 
+change-
+related risks
+R
+Climate change is a significant risk for 
+companies due to the growing awareness 
+of the negative impact of human activities 
+on the environment. To mitigate this risk, 
+companies must adopt more sustainable 
+practices and offer environment-friendly 
+products to meet the changing 
+demands of their customers and 
+stakeholders.
+The Company recognises the importance 
+of being proactive in responding to the 
+challenges and opportunities presented 
+by climate change. By charting out 
+strategy, the Company is well-positioned 
+to respond to climate change-related 
+risks.
+Negative
+O
+The increasing awareness of the negative 
+impact of human activities on the 
+environment, particularly climate change, 
+presents a significant opportunity for 
+companies. Responding to this concern, 
+the Company is putting concentrated 
+efforts to develop sustainable products and 
+environment-friendly solutions.
+Positive
+5
+Water 
+management
+R
+The increasing scarcity of freshwater 
+sources can disrupt the Company’s 
+operations, supply chain, and reputation, 
+leading to potential economic losses. 
+Additionally, companies that rely heavily on 
+water for their operations, such as chemical 
+manufacturing, are particularly vulnerable to 
+water-related risks
+The Company has developed in-house 
+expertise and solutions for optimising 
+water usage in industrial plants.
+Negative
+O
+The Company’s effective water 
+management practices are helping to 
+mitigate risks associated with water scarcity, 
+such as disruptions to its operations, supply 
+chain, and reputation. Furthermore, the 
+Company considers water management as 
+an opportunity to reduce customer’s water 
+consumption, save costs, and increase 
+efficiency. Adopting sustainable water 
+practices can mitigate risks associated with 
+water scarcity, preserve vital ecosystems, 
+and ensure access to safe and clean 
+drinking water for communities.
+Positive
+6
+Emission 
+management
+O
+The Company’s utmost priority is emission 
+management through various activities that 
+contribute to mitigating climate change 
+while also reaping the benefits of a more 
+sustainable and profitable business model.
+Positive
+149 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+S. 
+No.
+Material Issue 
+Identified
+Indicate 
+whether 
+Risk or 
+Opportunity 
+(R/O)
+Rationale for Identifying the Risk/
+Opportunity
+In Case of Risk, Approach to Adapt or 
+Mitigate
+Financial 
+Implications of the 
+Risk or Opportunity 
+(Indicate Positive 
+or Negative 
+Implications)
+7
+Local 
+employment
+R
+Lack of employment opportunities in 
+the local area can impede economic 
+development in the community, resulting in 
+insufficient support from local stakeholders. 
+Furthermore, businesses that fail to 
+prioritise local employment may encounter 
+challenges in accessing the skills and 
+expertise of the local workforce, resulting in 
+escalated costs and decreased efficiency.
+The Company’s emphasis on local hiring 
+minimises the risks and establishes 
+favourable relationships with the local 
+community as a responsible corporate.
+Negative
+8
+Occupational 
+health & 
+safety
+R
+Workplace accidents and illnesses can 
+impact productivity and increase costs. 
+It may damage the reputation of the 
+Company and may adversely impact the 
+morale of employees and its culture.
+The Company has implemented 
+the OHSE policy and enforces strict 
+adherence to it. Several initiatives and 
+programmes have also been initiated 
+to manage health and safety, which are 
+continually monitored for improvement. 
+One of the initiatives is the Behaviour 
+Based Safety programme, which aims 
+to bring about a cultural shift towards 
+safety improvement. Furthermore, 
+the Company has put in place several 
+insurances and 
+medical policies to safeguard its 
+employees
+Negative
+9
+Talent 
+acquisition 
+and retention
+R
+The inability to attract and retain top 
+talent can result in a shortage of 
+skilled employees, leading to reduced 
+productivity, increased costs, and potential 
+quality issues. Additionally, the turnover 
+of key employees can lead to a loss of 
+institutional knowledge and expertise, 
+which can negatively impact the Company’s 
+competitiveness and ability to innovate.
+The Company has implemented various 
+measures to attract and retain talent 
+through initiatives such as job rotation, 
+up-skilling, reskilling, training, fast-track 
+promotion, leadership development 
+programmes, etc. 
+Moreover, the Company has taken steps 
+to ensure the well-being of its employees.
+Negative
+10
+Responsible 
+supply chain 
+management
+R
+Consumers are becoming increasingly 
+aware of the ethical and environmental 
+impacts of the products they purchase, and 
+they are more likely to avoid brands that do 
+not meet their expectations. This can lead 
+to a loss of market share and reputational 
+damage for companies. By prioritising 
+responsible supply chain management 
+practices, companies 
+can mitigate these risks, improve their 
+reputation, and gain a competitive 
+advantage in the market. Failure to ensure 
+that suppliers meet environmental and 
+social standards can lead to legal and 
+regulatory challenges, resulting in fines, 
+legal action, and negative publicity.
+The Company enforces a vendor code 
+of conduct and actively collaborates with 
+vendors to improve its operations. The 
+vendor code of conduct lays down 
+guidelines outlining expectations and 
+standards for vendors who provide 
+goods or services to the Company. It 
+covers various areas such as labour 
+practices, human rights, environmental 
+sustainability, and business ethics. By 
+having a vendor code of conduct, the 
+Company sets clear expectations for 
+its suppliers, ensuring they meet the 
+necessary standards.
+Negative
+11
+Labour 
+management 
+relations
+R
+Not adhering to labour laws not only violates 
+human rights but can also lead to legal 
+and reputational risks for the Company. 
+Negative publicity resulting from labour 
+disputes, strikes, or other labour-related 
+issues can lead to a loss of customer 
+confidence and reduced sales.
+The Company ensures ongoing 
+monitoring and audits which reveal 
+compliance at all locations. 
+This helps the Company to progressively 
+move to the next level as envisioned 
+through the Social Compact initiative.
+Negative
+150  |  #ThermaxForABetterTomorrow  
+S. 
+No.
+Material Issue 
+Identified
+Indicate 
+whether 
+Risk or 
+Opportunity 
+(R/O)
+Rationale for Identifying the Risk/
+Opportunity
+In Case of Risk, Approach to Adapt or 
+Mitigate
+Financial 
+Implications of the 
+Risk or Opportunity 
+(Indicate Positive 
+or Negative 
+Implications)
+12
+Diversity 
+& equal 
+opportunity
+O
+A diverse workforce can bring new 
+perspectives and ideas, which can lead 
+to increased creativity and innovation. 
+Different viewpoints and experiences can 
+improve decision-making and lead to more 
+thoughtful decisions. A diverse workforce 
+can also help companies better understand 
+and serve a diverse customer base, which 
+can lead to improved customer satisfaction 
+and financial performance.
+Positive
+13
+Ethics & 
+integrity
+O
+Prioritising ethics and integrity can lead to 
+enhanced reputation, increased customer 
+loyalty, improved employee morale, and 
+better risk management. 
+Companies that operate with ethics and 
+integrity create a culture of trust and 
+transparency, which can attract customers, 
+investors, and top talent. 
+Employees are more likely to feel engaged 
+and committed to a company that operates 
+with integrity, leading to increased 
+productivity and retention.
+Positive
+Section B: Management and Process Disclosures
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Policy and Management Processes
+1a
+Whether your entity’s policy/policies cover each principle 
+and core elements of the NGRBCs? (Yes/No)
+Yes
+1b
+Has the policy been approved by the Board? (Yes/No)
+Yes. The Board has approved the Thermax Code of Conduct, CSR, 
+terms of reference of Stakeholder Relationship Committee and 
+Whistleblower policy which covers each principle and elements of 
+NGRBC.
+1c
+Web link of the policies, if available
+https://www.thermaxglobal.com/about-us/policies/ 
+https://www.thermaxglobal.com/corporate-governance-policies-and-
+disclosures/
+2
+Whether the entity has translated the policy into 
+procedures? (Yes/No)
+Yes
+3
+Do the enlisted policies extend to your value chain partners? 
+(Yes/No)
+Yes, all applicable policies are extended to value chain partners.
+4
+Name of the national and international codes/certifications/
+labels/standards (e.g. Forest Stewardship Council, 
+Fairtrade, Rainforest Alliance, Trustee) standards (e.g. 
+SA 8000, OHSAS, ISO, BIS) adopted by your entity and 
+mapped to each principle
+ISO 9001, ISO 14001, ISO 45001
+5
+Specific commitments, goals and targets set by the entity 
+with defined timelines, if any
+By 2025, we aim to achieve a 25% reduction in our absolute carbon 
+emissions compared to the base year of 2019.
+The Company has aimed to obtain Water Positive Certificate for one 
+more manufacturing unit in FY 2024-25.
+6
+Performance of the entity against the specific commitments, 
+goals, and targets along with reasons in case the same are 
+not met
+In order to attain this objective, we have identified four crucial 
+areas: operational efficiency, implementation of renewable energy 
+generation, procurement of renewable energy, and fuel switching. As 
+a result at the Group level, 30.61% target achieved in FY 23-24 and 
+16% reduction achieved at Thermax Limited on a standalone basis.
+151 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Governance, Leadership and Oversight
+7	
+Statement by the director responsible for the business responsibility report, highlighting ESG-related 
+challenges, targets and achievements (listed entity has flexibility regarding the placement of this 
+disclosure)
+Thermax has been committed to environmental well-being since its inception, prioritising ESG long before it 
+became a mainstream concept. The Company aims to reduce 25% of absolute carbon emissions from the base 
+year 2019 by 2025 as part of its decarbonisation journey. To achieve this, multiple initiatives with respect to 
+improving operational efficiency, addition to renewable energy generation and its procurement, and fuel switch, 
+are being implemented across its facilities. On the business side, the Company offers a range of energy-efficient 
+and environment-friendly products and solutions. This enables industries to optimise their energy consumption, 
+reduce greenhouse gas emissions and minimise their freshwater intake through the reuse and recycling of water. 
+Cognisant of the change in the energy mix in recent times, and its ability to contribute to this transition, Thermax 
+has concentrated its efforts towards green energy. It has proactively aligned its strategies with climate change 
+mitigation and sustainability goals. Along with investing in R&D and digital capabilities, it has inked partnerships 
+with global technology majors to strengthen its clean energy offerings and to solidify its presence as a trusted 
+partner in energy transition and water management to its customers.
+On the social front, Thermax is actively engaged in initiatives, striving to create equal opportunities through 
+education and empowering the informal workforce through its SoCo initiative.
+Although the Company is making persistent efforts to meet its ESG imperatives, there are many challenges on 
+its journey. These include dealing with the complexity of the infrastructure of existing industries and transitioning 
+them into cleaner and more sustainable alternatives, cost implications for implementing the technological 
+innovations, assessing and managing the sustainability practices of its suppliers and mitigating any environmental 
+or associated social risks, and data collection and reporting on ESG performance metrics across the organisation. 
+Despite these challenges, Thermax remains dedicated to addressing them through ongoing innovation, strategic 
+partnerships, stakeholder engagement, and continuous improvement of its ESG practices. Over the past year, 
+concrete progress has been achieved through targeted projects, including the successful procurement of 
+renewable electricity for major manufacturing plants, the installation of solar rooftop systems at critical locations 
+like Solapur and Bhosari plants, and the strategic switch from natural gas to biomass fuel in the boiler at the Dahej 
+plant. We know we have come a long way, but there is still much to be done.
+8	
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility and Sustainability Policy
+Managing Director and Chief Executive Officer Ashish 
+Bhandari | DIN – 05291138
+9	
+Does the entity have a specified committee of 
+the Board/Director responsible for decision 
+making on sustainability related issues? (Yes/
+No). If yes, provide details.	
+Yes, Managing Director and Chief Executive Officer Ashish 
+Bhandari | DIN – 05291138
+10.	  Details of review of NGRBCs by the Company:
+Subject for Review
+Indicate whether Review was Undertaken by  
+Director/Committee of the Board/ 
+Any other Committee
+Frequency (Annually/Half yearly/Quarterly/Any other 
+– Please Specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against 
+the above policies and 
+follow-up action
+The policies of Thermax, i.e., Code of Conduct, CSR and Whistleblower, which cover the elements of 
+the NGRBC Principles, are reviewed periodically and approved by the Board. During the review, the 
+effectiveness of the policies is evaluated, and necessary amendments to policies and procedures are 
+implemented. The Company complies with the extant regulations and principles as applicable.
+Compliance with 
+statutory requirements 
+of relevance to 
+the principles, and 
+rectification of any non-
+compliances
+152  |  #ThermaxForABetterTomorrow  
+11. 	 Information about the independent assessment/evaluation of the working of its policies by an external 
+agency? (Yes/No). If yes, provide name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Has the entity carried out an independent assessment/
+evaluation of the working of its policies by an external 
+agency? (Yes/No)
+No assessment conducted
+If yes, provide name of the agency
+Not Applicable
+12. 	If answer to question (1) above is “No” i.e., not all principles are covered by a policy, reasons to be 
+stated:
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+The entity does not consider the principles material to its 
+business (Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a position to 
+formulate and implement the policies on specified principles 
+(Yes/No)
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+Section C: Principle-wise Performance Disclosure
+Principle 1: Businesses should conduct and govern themselves with integrity, and in a manner that is 
+ethical, transparent and accountable.
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the 
+financial year:
+Segment
+Total Number of 
+Training and Awareness 
+Programmes Held
+Topics/Principles Covered under the Training 
+and its Impact
+% of Persons in Respective 
+Category Covered by the 
+Awareness Programmes
+Board of Directors
+1
+Board governance focussing on sustainability 
+and ESG
+76
+Key Managerial 
+Personnel (KMP)
+ 1
+Board governance focussing on sustainability 
+and ESG
+100
+Employees other than 
+BoD and KMP
+ 246
+Health-related and human rights related 
+compliance
+55
+Workers
+465
+Health & safety-related and skill upgradation 
+& prevention of sexual harassment at the 
+workplace
+100
+	
+Health-related training has significantly impacted workers and their work environment. It has contributed to the 
+creation of a safer workplace by reducing the number of accidents, injuries, and illnesses. The Company can 
+demonstrate this impact by providing statistics on the percentage of falls in the number of fatalities and injuries in 
+the past year. In addition, a healthier workforce has improved the Company’s productivity and efficiency.
+153 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+2.	
+Details of fines/penalties/punishment/award/compounding fees/settlement amount paid in proceedings 
+(by the entity or by Directors/KMPs) with regulators/law enforcement agencies/judicial institutions, 
+in the financial year, in the following format (Note: the entity shall make disclosures on the basis of 
+materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) 
+Regulations, 2015 and as disclosed on the entity’s website):
+NGRBC Principle
+Name of the Regulatory/
+Enforcement Agencies/
+Judicial Institutions
+Amount  
+(in Rs.)
+Brief of the 
+Case
+Has an Appeal been 
+Preferred? (Yes/No)
+Monetary
+Penalty/fine
+Refer to the Company’s website for all disclosures made under Regulation 30 of SEBI  
+(Listing Obligations and Disclosure Obligations) Regulations, 2015 at https://www.thermaxglobal.com/
+stock-exchange-notifications/
+Settlement
+Compounding fee
+Non-Monetary
+Imprisonment
+Nil
+Punishment
+3.	
+Of the instances disclosed in Question 2 above, details of the appeal/revision preferred in cases where 
+monetary or non-monetary action has been appealed.
+Case Details
+Name of the Regulatory/Enforcement Agencies/Judicial Institutions
+Not Applicable
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if 
+available, provide a web-link to the policy.
+	
+Yes, we have implemented a Code of Conduct for all our employees, and it distinctly elucidates the expected 
+standards of governance practices within our organisation. A particular emphasis is placed on the Company’s 
+unequivocal stance of zero-tolerance towards any forms of bribery and corruption. The intention of this Code is to 
+ensure that all business operations and transactions are carried out in a professional, fair, and principled manner, 
+thereby affirming our commitment towards upholding human rights.
+	
+Web-link - https://www.thermaxglobal.com/wp-content/uploads/2023/09/Code_of_Conduct_for_Thermax_
+Employees-.pdf
+5.	
+Number of directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/corruption:
+FY 2023-24 
+(Current 
+Financial Year)
+FY 2022-23 
+(Previous 
+Financial Year)
+Directors
+NIL
+NIL
+KMPs
+NIL
+NIL
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+6.	
+Details of complaints regarding conflict of interest:
+FY 2023-24 
+(Current Financial Year)
+FY 2022-23 
+(Previous Financial Year)
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of 
+conflict of interest of the directors
+NIL
+Not Applicable
+NIL
+Not Applicable
+Number of complaints received in relation to issues of 
+conflict of interest of the KMPs
+NIL
+Not Applicable
+NIL
+Not Applicable
+154  |  #ThermaxForABetterTomorrow  
+7.	
+Provide details of any corrective action taken or underway on issues related to fines/penalties/action 
+taken by regulators/law enforcement agencies/judicial institutions on cases of corruption and conflicts 
+of interest.
+ 	
+Not Applicable
+8.	
+Number of days of accounts payables (accounts payable *365)/cost of goods/services procured) in the 
+following format:
+FY 2023-24 
+Consolidated 
+(Current 
+Financial Year)
+FY 2022-23 23# 
+(Previous 
+Financial Year)
+No. of days of accounts payables*
+86
+92
+	
+Note: An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in 
+the table above. Please find the assurance report on page no. 180
+	
+* Average trade payables have been considered in the computation of the numerator. For the purpose of calculating the Cost of goods/
+services procured, all procurements in the nature of capital expenditures have been excluded. 
+	
+# The details pertaining to FY 22-23 are on a standalone basis.
+9.	
+Openness of business: Provide details of concentration of purchases and sales with trading houses, 
+dealers, and related parties along with loans and advances & investments, with related parties, in the 
+following format:
+Parameter
+Metrics
+FY 2023-24 
+(Current 
+Financial Year)
+FY 2022-23# 
+(Previous 
+Financial Year)
+Concentration of 
+purchases
+A. 	 Purchases from trading houses as % of total purchases
+6%
+5%
+B. 	 Number of trading houses where purchases are made from
+527
+321
+C. 	 Purchases from top 10 trading houses as % of total purchases from 
+trading houses
+47%
+53%
+Concentration of 
+sales
+A. 	 Sales to dealers/distributors as % of total sales
+7%
+ 7%
+B. 	 Number of dealers/distributors to whom sales are made
+147
+ 147
+C. 	 Sales to top 10 dealers/distributors as % of total sales to dealers/
+distributors
+36%
+ 32%
+Share of RPTs in
+A. 	 Purchases (purchases with related parties/total purchases)
+ 4%
+6%
+B. 	 Sales (sales to related parties/total sales)
+ 6%
+7%
+C. 	 Loans & advances (loans & advances given to related parties/total 
+loans & advances)*
+53%
+62%
+D. 	 Investments (investments in related parties/total investments made)^
+47%
+35%
+	
+Note: An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in 
+the table above. Please find the assurance report on page no. 180
+	
+# The details pertaining to the previous year are reported on a standalone basis.
+	
+* For loans and advances and Investments, closing balances disclosed in the audited standalone financial statements for the year ended 
+March 31, 2024 have been considered.
+	
+^ Including investment in subsidiaries and associates.
+Leadership Indicators
+1.	
+Awareness programmes conducted for value chain partners on any of the principles during the financial 
+year:
+Total Number of Awareness 
+Programmes held
+Topics/Principles Covered under the 
+Training
+% of Value Chain Partners Covered (by Value  
+of Business Done with Such Partners) under the 
+Awareness Programmes
+14
+BRSR 9 Principles
+ 16
+2.	
+(a) 	 Does the entity have processes in place to avoid/manage conflict of interests involving members of 
+the Board? (Yes/No)
+	
+	
+Yes
+155 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+	
+(b)	 If yes, provide details of the same.
+	
+	
+The Company has a Code of Conduct. This Code of Conduct, aimed towards the Board of Directors and 
+senior management, is made publicly accessible on the Company’s website (https://www.thermaxglobal.
+com/corporate-governancepolicies-and-disclosures/)
+	
+	
+Under the guidelines outlined in the Code, directors, key managerial personnel, and senior management are 
+expected to avoid scenarios in which their personal interests may directly conflict with the Company’s welfare. 
+This involves an annual mandatory disclosure of any potential conflicts of interest to the Board of Directors by 
+the aforesaid categories of personnel.
+	
+	
+Another significant measure involves the proper management of related party transactions. Necessary 
+approvals are obtained from both the Audit Committee and the Board prior to entering such transactions, 
+particularly if the directors involved have vested interests in the process. The Company’s policy strictly 
+reiterates that any directors or key managerial personnel should abstain from participation in instances where 
+they may have a personal conflict of interest, thereby minimising the opportunity for improper influence or 
+unwanted complications within the workplace.
+Principle 2: Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of products and processes to total R&D and capex investments made 
+by the entity, respectively.
+Current  
+Financial Year 
+(FY 2023-24)
+Previous 
+Financial Year 
+(FY 2022-23)
+ Details of Improvements in Environmental and Social Impacts
+R&D
+11%
+13%
+(1) 	 Fuel cell development - Environmental: This reduces the CO2 emissions from 
+the gen set and it produces clean power.
+(2) 	 Mobile air conditioning system (HVAC) - Environmental: This helps in saving 
+diesel consumption and in turn it will also reduce the CO2 emissions.
+(3) 	 CL2001-TAC demonstration at bus world Brussel Expo Oct’21 (HVAC) - 
+Environmental- This helps in saving diesel consumption and, in turn, reduces 
+CO2 emissions.
+(4) 	 Green hydrogen - Environmental : This helps in reducing the carbon emission 
+in other hydrogen producing technology (grey/blue/etc.).
+(5) 	 Bio hydrogen - Environmental: This helps in reducing carbon emissions in 
+other hydrogen producing technology (grey/blue/etc.).
+(6) 	 Industrial wastewater treatment systems - Environmental: Reuse & recycling 
+of wastewater, thereby reducing the requirement for freshwater
+Capex
+13%
+14%
+(1)	 JC-DMP1-059 ESP for biomass boiler (Dahej) - Air pollution control 
+equipment installed on the biomass-fired boiler as per GPCB norms. 
+(2) 	 JC-PMP1-038 ETP Triton Aerators - By using these aerators, impacts 
+projected are: 
+	
+A)	
+73,000 KWH units per annum are going to be saved. 
+	
+B)	
+Carbon emissions will be reduced by 58 tonnes per annum. 
+	
+C)	
+Effluent parameters maintenance will be constant. 
+(3) 	 Scrap yard for hazardous waste (4) Sewage treatment plant of capacity of 
+200 KLD
+2.	
+(a) 	 Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+	
+Yes
+	
+(b)	 If yes, what percentage of inputs were sourced sustainably?
+	
+	
+50
+156  |  #ThermaxForABetterTomorrow  
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at 
+the end of life, for:
+Waste Type
+Process Description
+Plastics (including packaging)
+Not Applicable
+E-waste
+Not Applicable
+Hazardous waste
+Not Applicable
+Other waste
+Not Applicable
+	
+The Company does not reclaim any specific product at the end of its life. However, at the project and operation sites, there are systems in 
+place to recycle, reuse, and dispose of in line with the regulatory requirement for the above waste being generated during the course of 
+construction and operation.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/No)? (b) If 
+yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan 
+submitted to Pollution Control Boards? If not, provide steps taken to address the same.
+	
+Yes, the Company has obtained the Extended Producer Responsibility (EPR) registration for specific products. 
+The environmental responsibility encompasses recycling waste through a Central Pollution Control Board (CPCB) 
+approved agency. The organisation is actively fulfilling its liabilities under EPR by taking effective measures such as 
+progressing toward brand owner registration status.
+Principle 3: Businesses should respect and promote the well-being of all employees, including those in 
+their value chains
+Essential Indicator
+1.	
+(a) 	 Details of measures for the well-being of employees:
+Category
+% of Employees Covered By
+Total (A)
+Health Insurance
+Accident 
+Insurance
+Maternity Benefits
+Paternity Benefits
+Day Care Facilities
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(D)
+% (D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+Permanent Employees
+Male
+2,572
+2,572
+100
+2,572
+100
+-
+-
+2,572
+100
+2,572
+100
+Female
+258
+258
+100
+258
+100
+258
+100
+-
+-
+258
+100
+Total
+2,830
+2,830
+100
+2,830
+100
+258
+100
+2,572
+100
+2,830
+100
+Other than Permanent Employees
+Male
+2,631
+2,631
+100
+2,631
+100
+-
+-
+2,631
+100
+2,631
+100
+Female
+92
+92
+100
+92
+100
+92
+100
+-
+-
+92
+100
+Total
+2,723
+2,723
+100
+2,723
+100
+92
+100
+2,631
+100
+2,723
+100
+	
+(b) 	 Details of measures for the well-being of workers:
+Category
+% of Workers Covered By
+Total (A)
+Health Insurance
+Accident 
+Insurance
+Maternity Benefits
+Paternity Benefits
+Day Care Facilities
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(D)
+% (D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+Permanent Workers
+Male
+540
+540
+100
+540
+100
+-
+-
+540
+100
+-
+-
+Female
+2
+2
+100
+2
+100
+2
+100
+-
+-
+-
+-
+Total
+542
+542
+100
+542
+100
+2
+100
+540
+100
+-
+-
+Other than Permanent Workers
+Male
+NA
+Female
+Total
+157 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+The day-care facility is not provided to the permanent workers. The well-being of the workers other than permanent 
+is the responsibility of the respective contractors engaged at respective locations.
+	
+(c) 	 Spending on measures towards well-being of employees and workers (including permanent and 
+other than permanent) in the following format:
+FY 2023-24
+FY 2022-23#
+Cost incurred on well-being measures as a % of total revenue of the Company
+0.17
+0.11
+	
+Note:  An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in 
+the table above. Please find the assurance report on page no. 180
+	
+# The details pertaining to FY 22-23 are on a standalone basis.
+2.	
+Details of retirement benefits, for the current and previous financial year
+Benefits
+FY 2023-2024 Current Financial Year
+FY 2022-2023 Previous Financial Year
+No. of 
+Employees 
+Covered as 
+a % of Total 
+Employees
+No. of Workers 
+Covered as a % 
+of Total Workers
+Deducted and 
+Deposited with 
+the Authority 
+(Y/N/N.A.)
+No. of 
+Employees 
+Covered as 
+a % of Total 
+Employees
+No. of Workers 
+Covered as a % 
+of Total Workers
+Deducted and 
+Deposited with 
+the Authority 
+(Y/N/N.A.)
+PF
+100
+100
+Y
+100
+100
+Y
+Gratuity
+100
+100
+Y
+100
+100
+Y
+ESI
+4
+-
+Y
+8
+-
+Y
+Others – please 
+specify
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+3.	
+Accessibility of workplaces
+	
+Are the premises/offices of the entity accessible to differently-abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act 2016? If not, whether any steps are being taken by the 
+entity in this regard?
+	
+The Company is working towards improving infrastructure for eliminating barriers to accessibility for differently-
+abled people.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act 2016? 
+If so, provide a web-link to the policy.
+	
+Yes, https://www.thermaxglobal.com/about-us/policies/
+5.	
+Return to work and retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent Employees
+Permanent Workers
+Return to work 
+rate
+Retention rate
+Return to work 
+rate
+Retention rate
+Male
+100
+100
+NA*
+NA
+Female
+100
+100
+NA
+NA
+Total
+100
+100
+NA
+NA
+	
+*No permanent workers have availed parental leave during FY 2023-24.
+158  |  #ThermaxForABetterTomorrow  
+6.	
+(a) 	 Is there a mechanism available to receive and redress grievances for the following categories of 
+employees and workers? If yes, give details of the mechanism in brief.
+Permanent workers
+ Yes, the mechanism to receive and redress grievances is in place. The Whistleblower Policy facilitates 
+the reporting of protected disclosures to top-level management, including the chairperson, managing 
+director, or the chair of the Audit Committee. This process is managed through distinct communication 
+avenues, channelling grievances from different sources and addressing them to senior officials. Two 
+specific email addresses have been assigned for this purpose to ensure written complaints can be 
+directly submitted. The confidentiality of the whistleblower is strived for, and any retaliatory actions are 
+not permitted.
+The organisation has put into place a Prevention of Sexual Harassment Policy, consistent with the 
+directives of the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act 
+2013. This policy is applicable to all individuals irrespective of their employment status and is supported 
+by regular virtual training sessions to create awareness within the organisation.
+Moreover, a Code of Conduct equally applies to both employees and business partners. Ensuring 
+adherence to this code, diverse training initiatives have been undertaken, encompassing all employees 
+from varied business sectors and geographies. The Whistleblower Policy, however, does not include 
+daily workers’ grievances. For addressing these concerns, the Company organises town hall meetings, 
+which provide a platform for employees to freely voice their troubles. Furthermore, several other 
+platforms, including induction sessions and more town hall meetings, are available for employees to 
+articulate their grievances.
+Other than Permanent 
+workers
+Permanent employees
+Other than permanent 
+employees
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2023-24 (Current Financial Year)
+FY 2022-23 (Previous Financial Year)
+Total Employees/
+Workers in 
+Respective 
+Category (A)
+No. of 
+Employees/
+Workers in 
+Respective 
+Category, who 
+are Part of 
+Association(s) or 
+Union (B)
+% (B/A)
+Total Employees/
+Workers in 
+Respective 
+Category (C)
+No. of 
+Employees/
+Workers in 
+Respective 
+Category, who 
+are Part of 
+Association(s) or 
+Union (D)
+% (D/C)
+Total Permanent Employees
+Male
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+Total Permanent Workers
+Male
+540
+462
+86
+913
+843
+92
+Female
+2
+-
+-
+2
+-
+-
+8.	
+Details of training given to employees and workers:
+Category
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Total (A)
+On Health and 
+Safety Measures
+On Skill Upgradation
+Total (D)
+On Health and 
+Safety Measures
+On Skill Upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No.(E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees (Permanent + Other than Permanent)
+Male
+6,667
+4,021
+60
+4,004
+60
+6,280
+4,621
+74
+1,007
+16
+Female
+422
+173
+41
+310
+73
+398
+173
+43
+98
+25
+Total
+7,089
+4,194
+59
+4,314
+60
+6,678
+4,794
+72
+1105
+17
+Workers
+Male
+18,757
+17,332
+92
+340
+2
+16,790
+14,952
+89
+NA*
+-
+Female
+73
+73
+100
+2
+3
+102
+100
+98
+NA*
+-
+Total
+18,830
+17,405
+92
+342
+2
+16,892
+15,052
+89
+NA*
+-
+	
+*The data is not available but the workmen are covered under the wage settlement agreement where skill up gradation requirements are 
+agreed.
+159 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+9.	
+Details of performance and career development reviews of employees and workers:
+Category
+FY 2023-24 Current Financial Year
+FY 2022-23 Current Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (D)
+No.(E)
+% (E/D)
+Employees
+Male
+5,203
+5,203
+100
+6,280
+6,280
+100
+Female
+350
+350
+100
+398
+398
+100
+Total
+5,533
+5,533
+100
+6,678
+6,678
+100
+Workers
+Male
+ 540
+ 390
+72
+913
+47
+5
+Female
+ 2
+ 2
+100
+2
+-
+-
+Total
+ 542
+ 392
+72
+915
+47
+5
+10.	 Health and safety management system:
+	
+(a)	 Whether an occupational health and safety management system has been implemented by the 
+entity? (Yes/No). If yes, the coverage of such a system?
+	
+	
+Yes, the Company has taken a systematic approach to safeguard the health and safety of its employees 
+by implementing the ISO 45001:2018 Occupational Health and Safety Management System across its 
+manufacturing, EPC (Engineering, Procurement, and Construction) and O&M (Operations & Maintenance) 
+sites. This application aims at promoting a positive occupational health and safety (OHS) culture within 
+the organisation.
+	
+	
+By establishing standard operating procedures for every task, the organisation ensures that activities are 
+carried out consistently and safely. In addition, contingency management protocols have been instituted, 
+including conducting frequent mock drills, to increase preparedness and response to potential emergencies.
+	
+	
+The organisation conducts regular training sessions about occupational health and safety procedures and 
+preferred practices.
+	
+(b)	 What are the processes used to identify work-related hazards and assess risks on a routine and non-
+routine basis by the entity?
+	
+	
+The Company has adopted multiple methods for identifying potential and work-related risks to ensure a 
+healthy and safe workplace. These methods include risk assessment, job safety analysis, health, safety, and 
+environment (HSE) audits, site severity index rating, and daily site inspections, which are conducted regularly. 
+Furthermore, an IT-enabled platform called ‘Thermax OHSE’ has been implemented. This platform is utilised 
+by Thermax employees and workers for reporting any identified hazards. The platform also facilitates the 
+monitoring and tracking of reported hazard resolution. Overall, these measures contribute to creating a safe 
+and healthy environment for all personnel.
+	
+(c)	 Whether you have processes for workers to report the work-related hazards and to remove 
+themselves from such risks? (Yes/No)
+	
+	
+The organisation has instated safety protocols and health measures to ensure a safe and productive work 
+environment. Recognising employees’ active participation in safety, the Company has facilitated the provision 
+for workers to report occupational hazards and provided stop work authority to every workman in case of 
+imminent risk.
+	
+	
+To enhance safety norms, the Company utilises a health, safety and environment (HSE) application for 
+observing and reporting HSE conditions. This digital tool has improved the safety measures at our operational 
+sites by substantially mitigating the associated risks.
+	
+	
+Furthermore, the organisation has adopted new initiatives aimed at promoting a safety culture. One 
+such measure is the introduction of a behaviour-based safety programme. Through this programme, the 
+organisation encourages safe behaviour among employee activities, rectifies any inappropriate behaviour, 
+and flags it for future reference. In addition to this, the organisation is progressively digitising HSE 
+160  |  #ThermaxForABetterTomorrow  
+management. This move aims at fostering a sense of accountability among employees and improving the 
+transparency of our operations. To motivate and reward compliance with safety standards, the organisation 
+has instituted a recognition system for individuals who demonstrate exemplary commitment to safety 
+protocols. Simultaneously, a consequence management system has been structured to address any 
+violations of the established safety protocols.
+	
+(d)	 Do the employees/workers of the entity have access to non-occupational medical and healthcare 
+services? (Yes/No)
+	
+	
+Yes. Medical centres and first aid facilities are available for both employees and workers. The entity has 
+implemented several measures diligently to ensure a secure and healthy environment for the workforce. The 
+on-site medical facilities are easily accessible to all staff members. Additionally, first aid facilities are available 
+across the organisation, prepared for immediate assistance in case of any emergencies or unforeseen 
+medical conditions. This comprehensive healthcare infrastructure upholds the health and well-being of not 
+just permanent employees but also temporary and contractual labour.
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2023-24
+Current 
+Financial Year
+FY 2022-23 
+Previous 
+Financial Year
+Lost time injury frequency rate (LTIFR)  
+(per one million-person hours worked)#
+Employees
+-
+0.12
+Workers (Including the contract workforce)
+0.55
+0.17
+Total recordable work-related Injuries#
+Employees
+3
+5
+Workers (Including the contract workforce)
+20
+45
+No. of fatalities
+Employees
+-
+-
+Workers (Including the contract workforce)
+-
+2
+High consequence work-related injury or ill-
+health (excluding fatalities)*
+Employees
+-
+-
+Workers (Including the contract workforce)
+-
+-
+	
+Note: An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in 
+the table above. Please find the assurance report on page no. 180
+	
+# The incidents that occurred at project sites i.e. Customer’s premises are not included. 
+	
+* The BRSR Core requires disclosure of ‘‘Number of Permanent Disabilities’’, however, it does not include the definition of ‘Permanent 
+Disabilities’. We, in the absence of any other guidance, have considered high consequence work-related injury or ill health, which results 
+in an injury from which the employee/worker cannot or is not expected to recover fully to the previous health status, this does not include 
+fatalities. There are no incidents resulting in permanent disabilities.
+12.	 Describe the measures taken by the entity to ensure a safe and healthy work place.
+	
+The Company has incorporated protective measures to create a safe and healthy working environment. Ensuring 
+well-being, safety, and security for all regular and contractual employees has been deemed to be a fundamental 
+priority by the organisation.
+	
+The Organisation’s Occupational Health, Safety, and Environmental (OHSE) Policy, authorised by the Managing 
+Director and CEO, serves as a compulsory guideline for every individual employed by or representing Thermax 
+Limited. The Company engages in the identification of hazards and the evaluation of risks and opportunities 
+(HIARO) associated with every operation, implementing appropriate mitigating strategies in response. Standard 
+operating procedures (SOPs) have been made uniformly accessible for all functional activities.
+	
+The Company is committed to providing regular Health, Safety, and Environment (HSE) training to all employees 
+through developing e-learning modules covering diverse safety subjects. In compliance with statutory 
+requirements, safety committees have been established and safety council meetings are organised regularly at 
+respective work locations and business units.
+	
+Pre-employment medical fitness evaluations are a condition of hiring, ensuring that all employees and workers 
+meet the health standards. Compliance with the health, safety and environment guidelines is affirmed by 
+department heads and undergoes regular scrutiny. To monitor attentively, periodic safety audits and inspections 
+focussed on high-risk sectors such as work at height, material handling, confined spaces, and electrical and fire 
+161 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+safety parameters are performed by cross-functional teams. If necessary, corrective actions are taken promptly to 
+rectify any issues identified.
+	
+Safety is highlighted as the utmost priority during all Board meetings, creating a ripple effect that extends to 
+every employee. Equal emphasis is placed on the safety of permanent, contractual, and temporary workers. The 
+Company pledges to maintain these initiatives and explore further opportunities to solidify the safety measures for 
+our workforce.
+13.	 Number of complaints on the following made by employees and workers
+FY 2023-24 (Current Financial Year)
+FY 2022-23 (Previous Financial Year)
+Filed during the 
+Year
+Pending 
+Resolution at 
+the End of Year
+Remarks
+Filed during the 
+Year
+Pending 
+Resolution at 
+the End of Year
+Remarks
+Working conditions
+-
+-
+NA
+-
+-
+NA
+Health and safety
+-
+-
+NA
+-
+-
+NA
+	
+Note: The Company has a mechanism to track complaints and the numbers are mentioned under respective heads in the report. There are 
+no other complaints received during the year. 
+14.	 Assessments for the year
+% of Your Plants and Offices that Were Assessed (by Entity or Statutory Authorities or Third 
+Parties)
+Health and safety practices
+No assessment was conducted by the statutory authority
+Working conditions
+No assessment was conducted by the statutory authority
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) 
+and on significant risks/concerns arising from assessments of health & safety practices and working 
+conditions.
+	
+Not Applicable
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) 
+Employees (Y/N), (B) Workers (Y/N)?
+Employees (Y/N)
+ Yes
+Workers (Y/N)
+ Yes*
+	
+*Only permanent workers are considered. The Company has started extending the life insurance coverage to workers from January 
+2023 and other workers will be covered gradually. Currently, workers engaged at two manufacturing units are covered under the Death 
+Benevolent Fund as a part of the wage settlement agreement.
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and 
+deposited by the value chain partners.
+	
+To ensure a safe and healthy work environment, the entity lays significant emphasis on strict adherence to relevant 
+statutory provisions. This incorporates payment and deduction of mandatory dues, which are duly integrated 
+within the contract agreement with all value chain partners. The Company ensures all clauses associated with legal 
+compliance are meticulously validated and abided by all parties involved. Moreover, contractors are obligated to 
+furnish supporting documentation for the payment of statutory dues, such as Provident Fund (PF) and Employee’s 
+State Insurance (ESIC) alongside their invoices. Additionally, the entity supervises vendors’ Goods and Services 
+Tax (GST) payments during the payment release process, further reinforcing its commitment to legal and 
+regulatory compliance.
+162  |  #ThermaxForABetterTomorrow  
+3.	
+Provide the number of employees/workers having suffered high consequence work-related injury/ 
+ill-health/fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and 
+placed in suitable employment or whose family members have been placed in suitable employment:
+Total no. of Affected Employees/Workers
+No. of Employees/Workers that are 
+Rehabilitated and Placed in Suitable 
+Employment or Whose Family Members Have 
+Been Placed in Suitable Employment
+FY 2023-24 
+(Current Financial 
+Year)
+FY 2022-23 
+(Previous Financial 
+Year)
+FY 2023-24 
+(Current Financial 
+Year)
+FY 2022-23 
+(Previous Financial 
+Year)
+Employees
+-
+-
+-
+-
+Workers
+-
+-
+-
+-
+4.	
+Does the entity provide transition assistance programmes to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment? (Yes/No)
+	
+No
+Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicator
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+The Company recognises the importance of identifying and engaging with various stakeholders to gain insight into 
+their expectations and develop effective strategies. Key stakeholders, both internal and external, are identified 
+based on their impact on the Company’s operations and functioning. These include employees, shareholders, 
+customers, investors, communities, suppliers, and vendors. Channels of communication have been established to 
+facilitate open dialogue and understanding of issues that are critical to their respective interests. This enables us to 
+create shared value and make a positive contribution to building a sustainable society.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group.
+Stakeholder Group
+Whether Identified 
+as Vulnerable 
+& Marginalised 
+Group (Yes/No)
+Channels of Communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+Engagement (Annually/
+Half Yearly/Quarterly/
+Others – Please 
+Specify)
+Purpose and Scope of 
+Engagement including Key 
+Topics and Concerns Raised 
+during Such Engagement
+Owners & 
+shareholders
+No
+(1) 	 Annual Report
+(2) 	 Company website
+(3) 	 Quarterly calls
+(4) 	 Investor relationship 
+meetings and AGM
+(5) 	 Various publications
+(6) 	 Stock exchange 
+notifications
+(7) 	 Newspapers
+(8) 	 Emails
+(9) 	 Stakeholders Relationship 
+Committee
+(10) 	Investor Relations
+(11) 	Registrar & Transfer Agent
+Quarterly/Half yearly
+Purpose:
+(1) 	 Continuously elevating 
+corporate value
+(2) 	 Delivering better returns on 
+investments
+Concerns Raised:
+(1) 	 Company’s financial health
+(2) 	 Effective risk controls
+(3) 	 Fair business practices
+	
+-	
+Improved return on 
+investment
+Employees and 
+workers
+No
+(1) 	 Awards
+(2) 	 Department meetings
+(3) 	 Surveys
+(4) 	 Town halls
+(5) 	 Trainings
+(6) 	 Workshops
+(7) 	 Nomination & 
+Remuneration Committee
+(8) 	 Human Resource function
+Continuous
+Purpose:
+(1) 	 Employee well-being
+(2) 	 Functional and soft skill 
+development
+(3) 	 Structured learning
+(4) 	 Talent attraction and 
+retention
+Concerns Raised:
+(1) 	 Career growth
+(2) 	 Employee benefits
+(3) 	 Performance management
+163 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+Stakeholder Group
+Whether Identified 
+as Vulnerable 
+& Marginalised 
+Group (Yes/No)
+Channels of Communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+Engagement (Annually/
+Half Yearly/Quarterly/
+Others – Please 
+Specify)
+Purpose and Scope of 
+Engagement including Key 
+Topics and Concerns Raised 
+during Such Engagement
+Customers
+No
+(1) 	 Advertisement campaigns
+(2) 	 Brochures
+(3) 	 Company website
+(4) 	 Customer care
+(5) 	 Customer meets
+(6) 	 Customer satisfaction 
+survey
+(7) 	 Feedback forms - Fireside 
+(in-house magazine)
+(8) 	 Events and exhibitions
+(9) 	 Emailers
+(10) 	Social media webinars
+Continuous
+Purpose:
+(1) 	 Providing a comprehensive 
+portfolio of products and 
+solutions aligned with their 
+evolving requirements
+Concerns Raised:
+(1) 	 Quality
+(2) 	 Responsiveness
+(3) 	 Timely project completion
+(4) 	 Engineering technique
+Vendors and 
+business partners
+No
+(1)	 Enquiries via telephone and 
+e-mail
+(2) 	 Periodic partner meets
+(3) 	 Publications
+(4) 	 Supplier surveys
+(5) 	 Tendering and procurement
+Continuous
+Purpose:
+(1) 	 Assessment and audit of 
+suppliers
+(2) 	 Aligning suppliers with 
+environmental and supplier 
+code of conduct
+(3) 	 Conforming to quality and 
+HSE (Health, Safety and 
+Environment)
+Concerns Raised:
+(1) 	 Purchase processes
+(2) 	 Repeat orders
+(3) 	 Timely payments
+Government 
+authorities
+No
+1) 	 Activities through business 
+and industry groups
+(2) 	 Industry associations
+(3) 	 Participation in policy 
+councils
+(4) 	 Inspection 
+(5) 	 Report & return submission 
+to the authorities
+Continuous
+Purpose:
+(1) 	 Building businesses 
+contributing to the 
+development
+(2) 	 Making mandatory and 
+non-mandatory disclosures
+Concerns Raised:
+(1) 	 Compliance with 
+regulations
+(2) 	 CSR reporting
+(3) 	 ESG performance
+Communities and
+academic groups
+No
+(1) 	 CSR initiatives
+(2) 	 Community development
+(3) 	 Engaging with local 
+authorities
+(4) 	 Engaging with research 
+institutes and premier 
+universities
+Continuous
+Purpose:
+(1) 	 Contributing to the well-
+being of local communities 
+through social activities
+(2) 	 Educational initiatives
+(3) 	 Health and skill 
+development
+(4) 	 Research and 
+development initiatives
+Concerns Raised:
+(1) 	 Creating livelihoods
+(2) 	 Developing community 
+infrastructure
+(3) 	 Improving living standards
+(4) 	 Developing commercially 
+viable solutions
+164  |  #ThermaxForABetterTomorrow  
+Leadership Indicator
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, 
+environmental, and social topics or if consultation is delegated, how is feedback from such 
+consultations provided to the Board?
+	
+The Company’s management frequently engages with its key stakeholders, including investors, customers, 
+suppliers, and employees. Progress updates are provided to the Board, and their inputs are sought periodically. 
+The Board of Directors are periodically updated on various topics, including industry overviews, customer 
+service updates, digital initiatives, corporate social responsibility projects, financial performance, and 
+strategy. Additionally, the directors are briefed on the regulatory environment, including significant regulatory 
+developments, circulars, and amendments by bodies such as the Securities & Exchange Board of India and the 
+Ministry of Corporate Affairs. Feedback from the Board is also collected to ensure alignment and collaboration.
+2.	
+Whether stakeholder consultation is used to support the identification and management of 
+environmental, and social topics. If so, provide details of instances as to how the inputs received from 
+stakeholders on these topics were incorporated into policies and activities of the entity.
+	
+Yes, the Company utilises materiality assessments to engage with stakeholders and priority issues related to 
+economic, environmental, and social topics. In addition, the Company interacts with investors and analysts to gain 
+an understanding of their expectations and incorporate them into the sustainability framework. This has led to the 
+development of several initiatives focussed on responsible investing, equal opportunity, diversity and inclusion 
+policies, privacy policies, human capital, environmental impact, and sustainability risk assessments.
+3.	
+Provide details of instances of engagement with, and actions taken to address the concerns of 
+vulnerable/marginalised stakeholder groups.
+	
+The Company places a strong emphasis on education for economically underprivileged children, with Thermax 
+Foundation supporting two Akanksha Foundation schools in Pune through a public-private partnership. 
+Additionally, Thermax Foundation provides support to Akanksha Foundation alumni through mentorship and 
+guidance to pursue higher education and careers. In addition to education, the Company is also involved in 
+addressing social discrimination through affirmative action, skill development, and employability initiatives. The 
+Company’s social arm, Thermax Foundation, also addresses complex health, safety, and environmental issues 
+faced by disadvantaged, vulnerable, and marginalised stakeholders.
+Principle 5: Businesses should respect and promote human rights
+Essential Indicator
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the 
+entity, in the following format:
+Category
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Total (A)
+No. of 
+Employees/
+Workers 
+Covered (B)
+% (B/A)
+Total (C)
+No. of 
+Employees/
+Workers 
+Covered (D)
+% (D/C)
+Employees
+Permanent
+3,255
+3,255
+100
+3,497
+707
+20
+Other than permanent
+3,834
+3,834
+100
+3,181
+1,399
+44
+Total Employees
+7,089
+7,089
+100
+6,678
+2,106
+ 32
+Workers
+Permanent
+542
+542
+100
+915
+915
+100
+Other than permanent
+3,159
+Not Applicable*
+15,977
+Not Applicable*
+Total Workers
+4,827
+963
+20
+16,892
+915
+5
+	
+* For non-permanent workers or contractually employed personnel, the responsibility to provide training on the same aspects of human 
+rights lies with their respective contractors. This unified approach ensures consistent understanding and adherence to the principles that 
+underline a safe and respectful workplace.
+165 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+As part of an ongoing commitment to uphold human rights, the entity has incorporated several measures into its 
+operational activities to ensure a safe and healthy work environment. These include the ongoing implementation of 
+the Human Rights Policy, the inclusion of human rights components into the entity’s Code of Conduct, adherence 
+to child labour laws, and the foundation of preventive policies against sexual harassment at the workplace.
+	
+To facilitate comprehension and awareness of these principles among the workforce, the entity has established 
+a structured induction process for newly appointed employees and permanent workers. This introductory 
+plan includes training and orientation sessions focussed on the aforementioned aspects of human rights in 
+the workplace.
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Total (A)
+Equal to Minimum 
+Wage
+More than Minimum 
+Wage
+Total (D)
+Equal to Minimum 
+Wage
+More than Minimum 
+Wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E )
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+Male
+2,572
+-
+-
+2,572
+100
+3,230
+-
+-
+3,230
+100
+Female
+258
+-
+-
+258
+100
+267
+-
+-
+267
+100
+Other than Permanent
+Male
+2,631
+-
+-
+2,631
+100
+3,050
+-
+-
+3,050
+100
+Female
+92
+-
+-
+92
+100
+131
+-
+-
+131
+100
+Workers
+Permanent
+Male
+540
+-
+-
+540
+100
+913
+-
+-
+913
+100
+Female
+2
+-
+-
+2
+100
+2
+-
+-
+2
+100
+Other than Permanent
+Male
+2,269
+-
+-
+2,269
+100
+15,977
+-
+-
+15,977
+100
+Female
+71
+-
+-
+71
+100
+-
+-
+-
+-
+-
+3.	
+(a) 	 Details of remuneration/salary/wages, median remuneration/wages:
+Male
+Female
+Number
+Median 
+Remuneration/
+Salary/Wages of 
+the Respective 
+Category
+Number
+Median 
+Remuneration/
+Salary/Wages of 
+the Respective 
+Category
+Board of Directors (BoD)
+10
+ 30,05,000
+2
+42,50,000
+Key managerial personnel
+2
+4,02,13,926
+1
+42,74,832
+Employees other than BoD and KMP
+2,501
+10,12,320
+271
+8,10,107
+Permanent workers
+540
+1,52,324
+2
+2,99,440
+Contractual workers
+3,086
+2,61,332
+123
+43,479
+	
+(b) 	 Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY 2023-24
+FY 2022-23#
+Gross wages paid to females as % of total wages
+6
+6
+	
+Note : An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in 
+the table above. Please find the assurance report on page no. 180
+	
+# The details pertaining to FY 22-23 are on a standalone basis.
+4.	
+Do you have a focal point (individual/committee) responsible for addressing human rights impacts or 
+issues caused or contributed to by the business? (Yes/No)
+ 	
+Yes
+166  |  #ThermaxForABetterTomorrow  
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+Operating under COBEC (Code of Business Ethics & Conduct), POSH (Prevention of Sexual Harassment) and 
+the Whistleblower Policy, the Company has established relevant committees to respond to a variety of work-
+related incidents.
+	
+Employees and stakeholders who have concerns or grievances have protected channels through which to 
+report them, inclusive of but not limited to directly reaching out to the chairperson, the managing director, or the 
+chairperson of the Audit Committee. The Company has established a clear procedure for receiving and directing 
+grievances from different platforms towards the relevant parties. Furthermore, they adhere to strict confidentiality 
+to protect whistleblowers from any form of retaliatory actions.
+	
+Thermax has also implemented the Prevention of Sexual Harassment Policy in accordance with the requisites 
+put forth by the Sexual Harassment of Women at Workplace Act of 2013. This measure is all-inclusive, covering 
+all employees, irrespective of their employment status being permanent, contractual, temporary or trainees. The 
+Company conducts periodic awareness sessions.
+	
+Lastly, with the Company-wide adoption of COBEC, Thermax mandates the adherence to a specific set of business 
+ethics and conduct, applicable across all its employees and business associates. This has been complemented by 
+a slew of training programmes, aimed at reaching all business divisions and regions that have taken place since the 
+instatement of COBEC.
+6.	
+Number of complaints on the following made by employees and workers:
+FY 2023-24 Current Financial Year
+FY 2022-23 Previous Financial Year
+Filed 
+during the Year
+Pending 
+Resolution at 
+the End of Year
+Remarks
+Filed 
+during the Year
+Pending 
+Resolution at 
+the End of Year
+Remarks
+Sexual harassment
+1
+-
+Compliant is 
+resolved
+-
+-
+No compliant 
+received
+Discrimination at 
+workplace
+-
+-
+No compliant 
+received
+-
+-
+No compliant 
+ceceived
+Child labour
+-
+-
+No compliant 
+received
+-
+-
+No compliant 
+received
+Forced labour/Involuntary 
+labour
+-
+-
+No compliant 
+received
+-
+-
+No compliant 
+received
+Wages
+-
+-
+No compliant 
+received
+-
+-
+No compliant 
+received
+Other human rights 
+related issues
+-
+-
+No compliant 
+received
+-
+-
+No compliant 
+received
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and 
+Redressal) Act, 2013, in the following format:
+FY 2023-24
+FY 2022-23
+Total complaints reported under Sexual Harassment on Women at Workplace (Prevention, 
+Prohibition and Redressal) Act 2013 (POSH)
+1
+NIL
+Complaints on POSH as a % of female employees/workers
+0.24
+NIL
+Complaints on POSH upheld
+1
+NIL
+	
+Note: An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in 
+the table above. Please find the assurance report on page no. 180
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment 
+cases.
+	
+The Company believes in upholding fairness and meritocracy through a policy framework that strictly adheres 
+to non-discriminatory practices and provides equal opportunities to all individuals regardless of their gender, 
+religion, caste, race, age, community, physical ability or sexual orientation. To achieve this, the Company has 
+implemented various policies such as the Code of Conduct, Prevention of Sexual Harassment, Rights of Persons 
+167 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+with Disabilities, etc. These policies ensure a robust grievance redressal process and establish clear employee 
+responsibilities and acceptable conduct. By upholding these policies, the Company promotes a diverse and 
+inclusive culture in the workplace.
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes
+10.	 Assessments for the year:
+% of Your Plants and Offices that Were Assessed (by Entity or Statutory Authorities or 
+Third Parties)
+Child labour
+100
+Forced/involuntary labour
+100
+Sexual harassment
+100
+Discrimination at workplace
+100
+Wages
+100
+	
+Internal Assessment carried out by Thermax Limited at its Plants & offices.
+11.	 Provide details of any corrective actions taken or underway to address significant risks/concerns arising 
+from the assessments at Question 9 above.
+	
+Not Applicable
+Leadership Indicator
+1.	
+Details of a business process being modified/introduced as a result of addressing human rights 
+grievances/complaints.
+	
+The organisation has implemented several robust policies and mechanisms to ascertain a secure and wholesome 
+work environment. These include COBEC, POSH, Whistleblower, and Equal Opportunity Policy to meticulously 
+manage and address human rights grievances. These frameworks are potent tools to handle any incidents that may 
+impact employees. However, at this stage, no alteration or introduction of business processes has taken place. 
+Through this comprehensive approach, the organisation strictly adheres to maintaining an office environment that 
+respects human rights and promotes well-being.
+2.	
+Details of the scope and coverage of any human rights due diligence conducted.
+	
+The human rights aspects are covered under various laws like the prevention of sexual harassment at the 
+workplace, child labour law, equal opportunity policy etc. The Company ensures that human rights aspects are 
+strictly adhered to by following the applicable laws.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the 
+requirements of the Rights of Persons with Disabilities Act 2016?
+	
+The Company is working towards improving infrastructure for eliminating barriers to accessibility for differently-
+abled people.
+Principle 6: Businesses should respect and make efforts to protect and restore the environment.
+Essential Indicator
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format: 
+Parameter
+FY 2023-24 
+(Current 
+Financial Year)
+FY 2022-23 
+(Previous 
+Financial Year)
+From Renewable Sources in Gigajoule
+Total electricity consumption (A)
+21, 295
+11,481
+Total fuel consumption (B)
+54,998
+4,428
+Energy consumption through other sources (C)
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+76,293
+15,909
+168  |  #ThermaxForABetterTomorrow  
+Parameter
+FY 2023-24 
+(Current 
+Financial Year)
+FY 2022-23 
+(Previous 
+Financial Year)
+From Non-renewable Sources in Gigajoule
+Total electricity consumption (D)
+66,938
+1,09,223
+Total fuel consumption (E)
+1,18,836
+1,78,367
+Energy consumption through other sources (F)
+-
+15,187
+Total energy consumed from non-renewable sources (D+E+F)
+1,85,774
+3,02,777
+Total energy consumed (A+B+C+D+E+F)
+2,62,067
+3,18,686
+Energy intensity per rupee of turnover (Total energy consumption/revenue from operations)
+0.00000450
+0.00000411
+Energy Intensity per rupee of turnover adjusted for purchasing power parity (PPP)* 
+(Total energy consumed/Revenue from operations adjusted for PPP)
+0.00009435
+0.00008613
+Energy intensity in terms of physical output#
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name the 
+external agency.
+	
+Yes, An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in the 
+table above. Please find the assurance report on page no. 180
+	
+*The revenue from operations has been adjusted for PPP based on the latest PPP conversion factor published for the year 2022 by the 
+World Bank for India which is 20.96.
+	
+# Due to the diverse nature of the business operations and products/services of the Company, it is not feasible to determine the physical 
+output for the calculation of Energy Intensity.
+2.	
+Does the entity have any sites/facilities identified as designated consumers (DCs) under the 
+Performance, Achieve and Trade (PAT) Scheme of the Government of India? (Y/N). If yes, disclose 
+whether targets set under the PAT scheme have been achieved. In case targets have not been achieved, 
+provide the remedial action taken, if any.
+	
+Not Applicable
+3.	
+Provide details of the following disclosures related to water, in the following format: 
+Parameter
+FY 2023-24 
+(Current 
+Financial Year)
+FY 2022-23 
+(Previous 
+Financial Year)
+Water Withdrawal by Source (in Kilolitres)
+(i)	
+Surface water
+1,25,352
+1,46,432
+(ii) 	 Groundwater
+-
+-
+(iii) 	 Third party water
+5,82,190
+6,40,194
+(iv) 	 Seawater/desalinated water
+-
+-
+(v) 	 Others (Rain water & recycled water)*
+32,362
+23,178
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+7,39,304
+8,09,804
+Total volume of water consumption (in kilolitres)
+3,88,849
+5,31,167
+Water intensity per rupee of turnover (Total water consumption/revenue from operations)
+0.00000668
+0.00000685
+Water intensity per rupee of turnover adjusted for purchasing power parity (PPP) (Total water 
+consumption/revenue from operations adjusted for PPP)#
+0.00013999
+0.00014355
+Water intensity in terms of physical output^
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name the 
+external agency.
+	
+Yes, An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in the 
+table above. Please find the assurance report on page no. 180
+	
+* The rainwater consumption for Jhagadia, Sricity & Solapur units, are estimated based on the capacity of water pits for storage of 
+rainwater.
+	
+#The revenue from operations has been adjusted for PPP based on the latest PPP conversion factor published for the year 2022 by the 
+World Bank for India which is 20.96.
+	
+^Due to the diverse nature of the business operations and products/services of the Company, it is not feasible to determine the physical 
+output for the calculation of Water Intensity.
+169 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+4.	
+Provide the following details related to water discharged: 
+Parameter
+FY 2023-24
+FY 2022-23
+Water Discharged by Destination and Level of Treatment (in Kilolitres)
+(i) 	 To surface water
+-
+-
+	
+No treatment
+-
+-
+	
+With treatment – please specify level of treatment
+-
+-
+(ii) 	 To groundwater
+-
+-
+	
+No treatment
+-
+-
+	
+With treatment – please specify level of treatment
+-
+-
+(iii) 	 To seawater
+3,49,342
+2,74,771
+	
+No treatment
+-
+-
+	
+With treatment – Tertiary Treatment
+3,49,342
+2,74,771
+(iv) 	 Sent to third-parties
+1,713
+3,666
+	
+No treatment
+1,713
+3,666
+	
+With treatment – please specify level of treatment
+-
+-
+(v) 	 Others
+-
+-
+	
+No treatment
+-
+-
+	
+With treatment – please specify level of treatment
+-
+-
+Total water discharged (in kilolitres)
+3,51,055
+2,78,437
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name the 
+external agency.
+	
+Yes, An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in the 
+table above. Please find the assurance report on page no. 180
+5.	
+Has the entity implemented a mechanism for zero liquid discharge? If yes, provide details of its coverage 
+and implementation.
+	
+5 plants (Chinchwad, Bhosari, Savli, Solapur, Paudh) have zero liquid discharge.
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please Specify 
+Unit Tonnes Per 
+Annum
+FY 2023-24 
+(Current 
+Financial Year)
+FY 2022-23 
+(Previous 
+Financial Year)
+NOx
+T/Y
+248
+351
+SOx
+T/Y
+205
+111
+Particulate matter (PM)
+T/Y
+868
+991
+Persistent organic pollutants (POP)
+Not Applicable
+Not Applicable
+Volatile organic compounds (VOC)
+T/Y
+94
+161
+Hazardous air pollutants (HAP)
+Not Applicable
+Not Applicable
+Others – please specify
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name the 
+external agency.
+	
+No.
+170  |  #ThermaxForABetterTomorrow  
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the 
+following format: 
+Parameter
+Unit
+FY 2023-24 
+(Current 
+Financial Year)
+FY 2022-23 
+(Previous 
+Financial Year)
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+14,998
+12,180
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+13,312
+24,037
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover 
+(Total Scope 1 and Scope 2 GHG emissions/revenue from operations)
+0.00000049
+0.00000047
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover 
+adjusted or purchasing power parity (PPP) (Total Scope 1 and Scope 2 
+GHG emissions/revenue from operations adjusted for PPP)*
+0.00001019
+0.00000976
+Total Scope 1 and Scope 2 emission intensity in terms of physical output#
+	
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name the 
+external agency.
+	
+Yes, An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in the 
+table above. Please find the assurance report on page no. 180
+	
+*The revenue from operations has been adjusted for PPP based on the latest PPP conversion factor published for the year 2022 by the 
+World Bank for India which is 20.96.
+	
+#Due to the diverse nature of the business operations and products/services of the Company, it is not feasible to determine the physical 
+output for the calculation of Scope 1 and Scope 2 emission Intensity.
+8.	
+Does the entity have any project related to reducing greenhouse gas emissions? If yes, then provide 
+details.
+	
+The Company has been proactively implementing operational efficiency initiatives and renewable energy projects 
+to minimise its carbon footprint and promote a sustainable future. Throughout the year, the Company has 
+undertaken several measures aimed at conserving energy and resources, including:
+	
+a.	
+Electricity: Thermax has effectively executed multiple operational efficiency projects at its manufacturing 
+plants. These include addressing compressor leakages, installing variable frequency drives (VFD) on 
+various equipment, deploying motion sensors to prevent unnecessary usage, optimising operations of 
+effluent treatment plant (ETP) blowers, substituting cooling water pumps with energy-efficient alternatives 
+at process cooling towers, and implementing LED lighting in workshops. These initiatives have not only 
+resulted in reduced energy consumption and greenhouse gas emissions for Thermax but have also enhanced 
+operational efficiency and lowered costs.
+	
+b.	
+Fuel: Thermax is actively enhancing operational efficiency and minimising its carbon footprint through 
+strategic projects. For instance, at the Paudh plant, measures have been implemented to optimise boiler 
+operations. These efforts have led to a significant reduction of 133.91 metric tonnes in furnace oil (LHS oil) 
+consumption, while at the Dahej plant, Thermax has transitioned to biomass from natural gas, resulting  into 
+saving of natural gas. These projects have resulted in cost savings and substantial environmental benefits.
+	
+	
+Thermax is actively implementing initiatives to increase the utilisation of renewable energy sources. The 
+Company has procured 34.34 lakh units of renewable energy through an open access mechanism. The 
+Company has installed a 297 kWp capacity solar PV project at Solapur and a 370 kWp solar rooftop capacity 
+at the Bhosari Plant. The Bhosari plant will commence power generation from the next financial year.
+	
+	
+Moreover, Thermax has generated 24.81 lakh units from a Solar Power, combined capacity of 2.83 MWp 
+across its plants in Savli, Jhagadia, Sri City, Solapur, and Pune offices, showcasing a strong commitment to 
+adopting renewable energy for its operations.
+	
+	
+Overall, the Company has consumed a total of 59.15 lakh units of renewable power this year, demonstrating 
+significant efforts to reduce its environmental impact through renewable energy adoption. The Company’s 
+overall commitment to sustainability and reducing its carbon footprint is evident through its various efforts.
+171 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+9.	
+Provide details related to waste management by the entity, in the following format
+	
+*in metric tonnes
+Parameter
+FY 2023-24 
+(Current 
+Financial Year)
+FY 2022-23 
+(Previous 
+Financial Year)
+Total waste generated (in metric tonnes)
+Plastic waste (A)
+148
+86
+E-waste (B)
+7
+7
+Bio-medical waste (C)
+0**
+0**
+Construction and demolition waste (D)
+-
+-
+Battery waste (E)
+ -
+4
+Radioactive waste (F)
+-
+-
+Other hazardous waste. Please specify, if any. (G)
+12,780
+9,606
+Other non-hazardous waste generated (H). Please specify, if any. (Break-up by composition 
+i.e. by materials relevant to the sector)
+3,543
+6,378
+Total (A+B + C + D + E + F + G+ H)^
+16,479
+16,081
+Waste intensity per rupee of turnover (Total waste generated/Revenue from operations)
+ 0.00000028
+0.00000021
+Waste intensity per rupee of turnover adjusted for purchasing power parity (PPP)*. (Total 
+waste generated/revenue from operations adjusted for PPP)
+0.00000593
+0.00004744
+Waste intensity in terms of physical output#
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in metric tonnes)
+Category of waste
+(i) 	 Recycled
+3,912
+6,615
+(ii) 	 Re-used
+-
+-
+(iii) 	 Other recovery operations
+-
+-
+Total
+3,912
+6,615
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) 	 Incineration (Including Co-processing)$
+11,380
+8,526
+(ii) 	 Landfilling
+1,186
+940
+(iii) 	 Other disposal operations
+-
+-
+Total
+12,565
+9,466
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name the 
+external agency.
+	
+Yes, An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in the 
+table above. Please find the assurance report on page no. 180
+	
+* The revenue from operations has been adjusted for PPP based on the latest PPP conversion factor published for the year 2022 by the 
+World Bank for India which is 20.96.
+	
+**Bio-medical Waste - 0.03 for FY 23-24 and 0.02 for FY 22-23
+	
+#Due to the diverse nature of the business operations and products/services of the Company, it is not feasible to determine the physical 
+output for the calculation of waste Intensity.
+	
+^Waste is accounted for at the time of disposal and therefore waste disposed has been considered as waste generated.
+	
+$The previous year’s Co-processing waste has been re-classified to Incineration.
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the 
+strategy adopted by your Company to reduce the usage of hazardous and toxic chemicals in your 
+products and processes and the practices adopted to manage such wastes.
+	
+The Company has eliminated single-use plastics (SUP) throughout our manufacturing operations, resulting in 
+the elimination of 1,307 kg of SUP during the year. The Company has transformed every aspect of our plants, 
+from offices to shop floors, canteens, and pantries, into SUP-free zones. This effort has earned us the SUP-free 
+certification from CII, recognising the commitment of Company’s manufacturing locations (Savli, Dahej, Sri City, 
+Jhagadia, Paudh, and Chinchwad) to sustainable practices.
+172  |  #ThermaxForABetterTomorrow  
+11.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, 
+wildlife sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation 
+zones, etc.) where environmental approvals/clearances are required, please specify details in the 
+following format:
+S.  
+No.
+Location of Operations/
+Offices
+Type of 
+Operations
+Whether the conditions of environmental approval/clearance are being complied 
+with? (Y/N) If no, the reasons thereof and corrective action taken, if any
+NIL
+NIL
+NIL
+NIL
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable 
+laws, in the current financial year:
+Name and Brief 
+Details of Project
+EIA Notification No.
+Date
+Whether Conducted by 
+Independent External Agency 
+(Yes/No)
+Results Communicated 
+in Public Domain 
+(Yes/No)
+Relevant Web-link
+NIL
+13.	 Is the entity compliant with the applicable environmental law/regulations/guidelines in India, such 
+as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) 
+Act, Environment Protection Act and rules thereunder (Y/N). If not, provide details of all such non-
+compliances, in the following format:
+S. 
+No.
+Specify the Law/Regulation/
+Guidelines which Was Not 
+Complied with
+Provide Details of 
+the Non-compliance
+Any Fines/Penalties/Action Taken by 
+Regulatory Agencies such as Pollution Control 
+Boards or by Courts
+Corrective Action 
+Taken, if Any
+NIL
+Leadership Indicator
+1.	
+Water withdrawal, consumption, and discharge in areas of water stress (in kilolitres).
+	
+For each facility/plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area – Ahmedabad, Bangalore, Bhubaneshwar, Chandigarh, Chennai, Kolkata, Lucknow 
+and Delhi
+	
+(ii)	
+Nature of operations – Regional Offices
+	
+(iii)	 Water withdrawal, consumption, and discharge in the following format:
+Parameter
+FY 2023-24 
+(Current 
+Financial Year)
+FY 2022-23 
+(Previous 
+Financial Year)
+Water withdrawal by source (in kilolitres)
+(i) 	 Surface water
+-
+Not Available
+(ii) 	 Groundwater
+-
+Not Available
+(iii) 	 Third party water
+1,223
+Not Available
+(iv) 	 Seawater/desalinated water
+-
+Not Available
+(v) 	 Others
+-
+Not Available
+Total volume of water withdrawal (in kilolitres)
+1,223
+Not Available
+Water intensity per rupee of turnover (water consumed/turnover)
+0.00000002
+Not Available
+Water intensity (optional) – the relevant metric may be selected by the entity
+-
+Not Available
+Water discharge by destination and level of treatment (in kilolitres)
+(i) 	 Into surface water
+-
+Not Available
+	
+- 	
+No treatment
+-
+Not Available
+	
+- 	
+With treatment – please specify the level of treatment
+-
+Not Available
+(ii) 	 Into groundwater
+-
+Not Available
+	
+- 	
+No treatment
+-
+Not Available
+	
+- 	
+With treatment – please specify the level of treatment
+-
+Not Available
+173 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+Parameter
+FY 2023-24 
+(Current 
+Financial Year)
+FY 2022-23 
+(Previous 
+Financial Year)
+(iii) 	 Into seawater
+-
+Not Available
+	
+- 	
+No treatment
+-
+Not Available
+	
+- 	
+With treatment – please specify the level of treatment
+-
+Not Available
+(iv) 	 Sent to third-parties
+-
+Not Available
+	
+- 	
+No treatment
+-
+Not Available
+	
+- 	
+With treatment – please specify the level of treatment
+-
+Not Available
+(v) 	 Others
+-
+Not Available
+	
+- 	
+No treatment
+-
+Not Available
+	
+- 	
+With treatment – please specify the level of treatment
+-
+Not Available
+Total water discharged (in kilolitres)
+-
+Not Available
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name the 
+external agency.
+	
+No.
+2.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve 
+resource efficiency, or reduce impact due to emissions/effluent discharge/waste generated, please 
+provide details of the same as well as outcome of such initiatives, as per the following format:
+S. 
+No.
+Initiative Undertaken
+Details of the Initiative (Web-link, if Any, May Be 
+Provided Along with Summary)
+Outcome of the Initiative
+1
+At Dahej, the co-processing of 
+waste for energy purposes
+Diverting effluent treatment plant (ETP) waste 
+towards co-processing in the cement industry. 
+This not only reduces landfill waste but also 
+eliminates any potentially harmful substances from 
+polluting the environment, offering a safer working 
+space for its employees. The entity has been 
+successful in its efforts, as reflected in the total 
+recycling of 2,010 metric tonnes of landfill waste 
+through co-processing.
+Diversion of waste from landfill 
+Resource conservation
+2
+At Dahej, reduction in freshwater 
+consumption in the 
+ETP process
+Reduction of freshwater consumption in the ETP 
+process by using treated water for the preparation of 
+ETP chemicals
+Resource conservation 
+Reduction in pollution
+3
+Recycling of paint sludge at 
+Chinchwad
+Diversion of hazardous paint waste going for 
+incineration to recycling for making powder from 
+paint sludge.
+Resource recovery by eliminating 
+incineration
+4
+At Paudh, Chinchwad, Savli, Sri 
+City, Dahej, Jhagadia, eliminated 
+single-use plastic from plant
+Elimination of single-use plastic from the plants
+Reduced plastic pollution and 
+received certification from CII and 
+reduced SUP 1.307 MT collectively 
+from the plants mentioned.
+5
+Solapur plant achieves water 
+positive certification:
+In a resounding victory for sustainability, the Solapur 
+plant has achieved Water Positive Certification, 
+attaining a remarkable water positive index of 6.59. 
+This achievement stands as a testament to the 
+plant’s unwavering commitment to environmental 
+stewardship and responsible resource management
+Solapur plant has achieved Water 
+Positive Certification, attaining a 
+remarkable water positive index 
+of 6.59
+5.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/
+web link.
+	
+The Company has a focussed policy framework on Business Continuity & Disaster Recovery Management wherein 
+Thermax’s management, business heads, and other senior executives, commit to implementing and managing 
+Business Continuity Plan (BCP) and Disaster Recovery (DR) processes for their respective key applications 
+and infrastructure. Detailed recovery procedures are documented and maintained for implemented recovery 
+strategies. Periodic tests/disaster recovery drills are planned to ensure that business continuity is viable, effective, 
+and meets the recovery objective as appropriate.
+174  |  #ThermaxForABetterTomorrow  
+6.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. 
+What mitigation or adaptation measures have been taken by the entity in this regard?
+	
+No such adverse impact related to the environment found during assessment.
+7.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed 
+for environmental impacts.
+	
+50% sustainable sourced/value chain assessed via Thermax standard Sustainable Supply Chain Management 
+(SSCM) check sheet on environment.
+Principle 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparent
+Essential Indicator
+1.	
+(a) 	 Number of affiliations with trade and industry chambers/associations: 
+	
+	
+4
+(b)	 List the top 10 trade and industry chambers/associations (determined based on the total members 
+of such body) the entity is a member of/affiliated to.
+S. 
+No.
+Name of the Trade and Industry Chambers/Associations
+Reach of Trade and Industry Chambers/
+Associations (State/National)
+1
+CII’s National Committee for Capital Goods & Engineering
+National
+2
+Mahratta Chamber of Commerce, Industries and Agriculture
+State
+3
+Boilers and Pressure Vessels Sectional Committee, MED01, BIS
+National
+4
+National Safety Council
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct 
+by the entity, based on adverse orders from regulatory authorities.
+Name of Authority
+Brief of the Case
+Corrective Action Taken
+Not Applicable
+Not Applicable
+Not Applicable
+Nil. There is no litigation filed/pending or completed against Thermax Limited regarding any anti-competitive 
+behaviour and violations of anti-trust provisions under the Competition Act 2002.
+Principle 8: Businesses should promote inclusive growth and equitable development
+Essential Indicator
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable 
+laws, in the current financial year.
+Name and Brief 
+of Project
+SIA Notification 
+No.
+Date of 
+Notification
+Whether Conducted by 
+Independent External Agency 
+(Yes/No)
+Result Communicated in 
+Public Domain (Yes/No)
+Relevant Web 
+Link
+ No such project was initiated which requires social impact assessment
+	
+Note: The Company has undertaken various projects across the states. The site premise belongs to the customer where SIA was 
+conducted. Those details are not covered.
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity, in the following format:
+Name of Project which R&R is 
+Ongoing
+State
+District
+No of Project Affected 
+Families (PAFs)
+% of PAFs Covered 
+by R&R
+Amount Paid to PAFs 
+in the FY (In Rs.)
+ No rehabilitation and resettlement were undertaken by the entity during this reporting period
+175 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+Any community member can raise a complaint on Company’s toll-free number and email address provided 
+on the Company’s website which is monitored, addressed, and a proper record is maintained under the 
+Whistleblower Policy.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2023-24
+FY 2022-23#
+Directly sourced from MSMEs/small producers
+59
+47
+Directly from within India
+95
+94
+	
+Note : An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in 
+the table above. Please find the assurance report on page no. 180
+	
+# The details pertaining to FY 2022-23 are on a standalone basis.
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or 
+workers employed on a permanent or non-permanent/on contract basis) in the following locations, as % 
+of total wage cost. (Place to be categorised as per RBI classification system - rural/semi-urban/urban/
+metropolitan)
+Location
+FY 2023-24
+FY 2022-23#
+Rural
+10
+26
+Semi-urban
+2
+3
+Urban
+1
+1
+Metropolitan
+87
+70
+	
+Note  An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in 
+the table above. Please find the assurance report on page no. 180
+	
+# The details pertaining to FY 2022-23 are on a standalone basis.
+	
+For the purpose of categorisation of people employed at locations into rural/semi-urban/urban/metropolitan, the following mechanism 
+has been adopted along with RBI classification system:
+	
+(a) 	
+Metropolitan cities considered are Pune, Chennai, Bangalore, Mumbai, Hyderabad, Ahmedabad, Chandigarh, Kolkata, Solapur, 
+Bharuch, Chinchwad, Bhubaneshwar, Lucknow.
+	
+(b) 	
+All manufacturing locations (plants) are mapped basis their respective actual addresses.
+Leadership Indicator
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact 
+Assessments (Reference: Question 1 of Essential Indicators above):
+Details of Negative Social Impact Identified
+Corrective Action Taken
+Not Applicable
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational 
+districts as identified by government bodies:
+S. 
+No.
+State
+Aspirational District
+Amount Spent 
+(in Rs.)
+1
+Rajasthan
+Sirohi
+3,50,000
+176  |  #ThermaxForABetterTomorrow  
+3.	
+Details of beneficiaries of CSR Projects:
+S. 
+No.
+CSR Project
+No of Persons 
+Benefitted from 
+CSR Project
+% of 
+Beneficiaries 
+from Vulnerable 
+and Marginalised 
+Group
+1
+School Project - Thermax Foundation (TF) funds two Pune Municipal Corporation (PMC) 
+Schools run by NGO Akanksha Foundation through public-private partnership (PPP). 
+Through this project, students from underprivileged economic families receive access to 
+quality education.
+1,812
+100%
+2
+Alumni Project - TF supports the alumni from Akanksha Foundation as well as another 
+NGO iTeach to continue higher education after school. Since most of the students 
+are first-generation learners, through alumni projects they receive career guidance, 
+academic mentoring and support for junior college enrolment.
+3,987
+100%
+3
+Skill Building - TF supports (based on identified need) the community youth from 
+villages near Thermax factories, who have dropped out from education after class 
+10th to develop skills, and take on roles like electrician, data entry operator. The NGO 
+partner provides training and placement to a minimum of 75% among them in nearby 
+companies.
+810
+100%
+Principle 9: Businesses should engage with and provide value to their consumers in a responsible 
+manner
+Essential Indicator
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+The organisation has initiated several measures to guarantee a secure and healthy working environment. 
+These measures include the establishment of a system to receive customer complaints and feedback, which is 
+managed via diverse modes such as email, transmittal letters and verbal conversations. Complaints that come 
+through Thermax Channel Associates (TCAs) are diligently registered on Salesforce.com (SFDC), where they 
+are reviewed by our dedicated service team. The team also records the corresponding resolutions in SFDC. 
+In scenarios where the complaints are directly received from customers by our Customer Relationship Centre 
+(CRC), they are immediately sent to the respective teams for relevant action. Monitoring customer complaints 
+through Salesforce.com allows us to enhance our efficiency and responsiveness, while effectively identifying 
+and addressing recurring issues. Hence, this strategy contributes significantly to ensuring a safe and healthy 
+work environment as it effectively manages potential sources of stress and dissatisfaction.
+2.	
+Turnover of products and services as a percentage of turnover from all products/service that carry 
+information about:
+As a Percentage to Total Turnover
+Environmental and social parameters relevant to the product
+All the products of the Company contain relevant 
+information as required under applicable laws
+Safe and responsible usage
+Recycling and/or safe disposal
+3.	
+Number of consumer complaints in respect of the following:
+FY 2023-24 (Current Financial Year)
+FY 2022-23 (Previous Financial Year)
+Received 
+during the Year
+Pending 
+Resolution 
+at the End of 
+the Year
+ Remarks
+Received 
+during the Year
+Pending 
+Resolution 
+at the End of 
+the Year
+ Remarks
+Data privacy
+-
+-
+No complaint 
+received in 
+FY 2023-24
+-
+-
+No complaint 
+received in 
+FY 2023-24
+Advertising
+-
+-
+No complaint 
+received in 
+FY 2023-24
+-
+-
+No complaint 
+received in 
+FY 2023-24
+177 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+FY 2023-24 (Current Financial Year)
+FY 2022-23 (Previous Financial Year)
+Received 
+during the Year
+Pending 
+Resolution 
+at the End of 
+the Year
+ Remarks
+Received 
+during the Year
+Pending 
+Resolution 
+at the End of 
+the Year
+ Remarks
+Cyber security
+-
+-
+No complaint 
+received in 
+FY 2023-24
+-
+-
+No complaint 
+received in 
+FY 2023-24
+Delivery of essential 
+services
+-
+-
+No complaint 
+received in 
+FY 2023-24
+-
+-
+No complaint 
+received in 
+FY 2023-24
+Restrictive trade practices
+-
+-
+No complaint 
+received in 
+FY 2023-24
+-
+-
+No complaint 
+received in 
+FY 2023-24
+Unfair trade practices
+-
+-
+No complaint 
+received in 
+FY 2023-24
+-
+-
+No complaint 
+received in 
+FY 2023-24
+Other
+-
+-
+No complaint 
+received in 
+FY 2023-24
+-
+-
+No complaint 
+received in 
+FY 2023-24
+4.	
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for Recall
+Voluntary recalls
+-
+NA
+Forced recalls
+-
+NA
+5.	
+Does the entity have a framework/policy on cyber security and risks related to data privacy? (Yes/No) If 
+available, provide a web-link of the policy.
+	
+The Company regularly provides training on security awareness to its employees. Unused information is archived 
+and purged according to the Company’s Data Retention Policy. Role-specific access to IT equipment is created 
+and controlled. Implementation of identity and access management through single sign-on and multi-factor 
+authentication is underway. Servers and databases for all hosted applications are currently being upgraded for 
+high availability. The Company regularly tests its disaster recovery plan for critical applications. The cyber security 
+and risk-related policy is published on the intranet.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising and 
+delivery of essential services; cyber security and data privacy of customers; re-occurrence of instances 
+of product recalls; penalty/action taken by regulatory authorities on safety of products/services.
+	
+Not Applicable
+7.	
+Provide the following information relating to data breaches:
+	
+(a)	 Percentage of data breaches involving personally identifiable information of customers: Nil
+	
+(b)	 Impact, if any, of the data breaches: Nil
+	
+(c)	 Impact, if any, of the data breaches: Nil
+	
+Note: An independent assurance has been carried out by Price Waterhouse Chartered Accountants LLP on the FY 2023-24 indicators in 
+the table above. Please find the assurance report on page no. 180
+178  |  #ThermaxForABetterTomorrow  
+Leadership Indicators
+1.	
+Channels/platforms where information on products and services of the entity can be 
+accessed (provide web-link, if available).
+	
+The details of the product and services are available on https://www.thermaxglobal.com/
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of 
+products and/or services.
+	
+The Company’s tech-enabled assets/products drive operational efficiency and sustainable growth for its 
+customers. Additionally, the Company places a strong emphasis on educating the customers through product 
+manual/e-manual about the responsible usage of its products and services.
+179 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+Independent Practitioner’s Limited Assurance Report on Identified Sustainability 
+Information in Thermax Limited’s Business Responsibility and Sustainability 
+Report pursuant to the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015
+To the Board of Directors of Thermax Limited
+We have undertaken to perform a limited assurance 
+engagement for Thermax Limited (the “Company”) vide 
+our Engagement Letter dated May 6, 2024 in respect 
+of the agreed Sustainability Information referred in 
+“Identified Sustainability Information” paragraph below 
+(the “Identified Sustainability Information”) in accordance 
+with the Criteria stated in the “Criteria” paragraph below. 
+The Identified Sustainability Information is included in 
+the Business Responsibility and Sustainability Report 
+(“BRSR”) Section of the Integrated Report of the 
+Company for the financial year ended March 31, 2024, 
+pursuant to the requirement of Regulation 34(2)(f) of the 
+Securities and Exchange Board of India (“SEBI”) (Listing 
+Obligations and Disclosure Requirements) Regulations, 
+2015 (as amended) (the “LODR Regulations”). The 
+Reporting Boundary for BRSR is on a standalone 
+basis as disclosed under Question No. 13 of Section 
+A of the BRSR. This engagement was conducted 
+by a team comprising assurance practitioners and 
+environment experts.
+Identified Sustainability Information
+The Identified Sustainability Information for the financial 
+year ended March 31, 2024, is summarised in Appendix 1 
+to this report.
+Our limited assurance engagement was with respect 
+to the financial year ended March 31, 2024 information 
+only and we have not performed any procedures with 
+respect to earlier periods or any other elements included 
+in the BRSR (other than those listed as BRSR Core Key 
+Performance Indicators (‘KPIs”) in Appendix 1) and, 
+therefore, do not express any conclusion thereon.
+Criteria
+The criteria used by the Company to prepare the Identified 
+Sustainability Information is the “BRSR Core” as detailed 
+in Appendix 1 to this report (the “Criteria”), which is a 
+subset of the BRSR, consisting of a set of KPIs / metrics 
+under nine Environmental, Social and Governance 
+(“ESG”) attributes, as specified by SEBI vide its circular 
+SEBI/HO/CFD/CFD-SEC-2/P/CIR/2023/122 dated July 
+12, 2023 (the “SEBI Circular”).
+Management’s Responsibilities
+The Company’s Management is responsible for 
+determining the Reporting Boundary of the BRSR, 
+selecting or establishing suitable criteria for preparing 
+the Identified Sustainability Information, taking into 
+account applicable laws and regulations including the 
+SEBI Circular, related to reporting on the Identified 
+Sustainability Information, identification of key aspects, 
+engagement with stakeholders, content, preparation and 
+presentation of the Identified Sustainability Information 
+in accordance with the Criteria. This responsibility 
+includes design, implementation and maintenance 
+of internal control relevant to the preparation of the 
+BRSR and the measurement of Identified Sustainability 
+Information, which is free from material misstatement, 
+whether due to fraud or error. The Management and the 
+Board of Directors of the Company are also responsible 
+for overseeing the Company’s compliance with the 
+requirements of LODR Regulations and the SEBI Circular 
+in relation to the BRSR Core.
+Inherent Limitations in Preparing the Identified 
+Sustainability Information
+The absence of a significant body of established 
+practice on which to draw to evaluate and measure non-
+financial information allows for different, but acceptable, 
+measures and measurement techniques and can affect 
+comparability between entities. In addition, Greenhouse 
+Gas (“GHG”) quantification is subject to inherent 
+uncertainty because of incomplete scientific knowledge 
+used to determine emissions factors and the values 
+needed to combine emissions of different gases.
+Our Independence and Quality Control
+We have maintained our independence and confirm 
+that we have met the requirements of the Code of 
+Ethics issued by the Institute of Chartered Accountants 
+of India (“ICAI”) and the International Code of Ethics 
+for Professional Accountants (including International 
+Independence Standards) (“IESBA Code”) issued by the 
+International Ethics Standard Board for Accountants, 
+which is founded on the fundamental principles of 
+integrity, objectivity, professional competence and due 
+care, confidentiality and professional behavior.
+Price Waterhouse Chartered Accountants LLP (the “Firm”) 
+applies Standard on Quality Control 1, “Quality Control 
+for Firms that Perform Audits and Reviews of Historical 
+Financial Information, and Other Assurance and Related 
+Services Engagements”, the International Standard on 
+Quality Management (“ISQM”) 1 “Quality Management 
+for Firms that perform Audits or Reviews of Financials 
+180  |  #ThermaxForABetterTomorrow  
+Statements, or Other Assurance or Related Services 
+Engagements” and ISQM 2 “Engagement Quality 
+reviews”, and accordingly maintains a comprehensive 
+system of quality control including documented policies 
+and procedures regarding compliance with ethical 
+requirements, professional standards, and applicable 
+legal and regulatory requirements.
+Practitioner’s Responsibilities
+Our responsibility is to express a limited assurance 
+conclusion on the Identified Sustainability Information 
+based on the procedures we have performed and the 
+evidence we have obtained.
+We conducted our limited assurance engagement 
+in accordance with the Standard on Sustainability 
+Assurance Engagements (“SSAE”) 3000, “Assurance 
+Engagements on Sustainability Information” and 
+the Standard on Assurance Engagements (“SAE”) 
+3410, “Assurance Engagements on Greenhouse Gas 
+Statements”, both issued by the Sustainability Reporting 
+Standards Board of the ICAI and the International 
+Standard on Assurance Engagement (“ISAE”) 3000 
+(Revised), “Assurance Engagements other than Audits 
+or Reviews of Historical Financial Information” and the 
+ISAE 3410 “Assurance Engagements on Greenhouse Gas 
+Statements”, both issued by the International Auditing and 
+Assurance Standards Board (collectively referred to as 
+“the Standards”). These Standards require that we plan 
+and perform our engagement to obtain limited assurance 
+about whether the Identified Sustainability Information is 
+free from material misstatement.
+A limited assurance engagement involves assessing 
+the suitability in the circumstances of the Company’s 
+use of the Criteria as the basis for the preparation of the 
+Identified Sustainability Information, assessing the risks 
+of material misstatement of the Identified Sustainability 
+Information whether due to fraud or error, responding to 
+the assessed risks as necessary in the circumstances, 
+and evaluating the overall presentation of the Identified 
+Sustainability Information.
+A limited assurance engagement is substantially less 
+in scope than a reasonable assurance engagement in 
+relation to both the risk assessment procedures, including 
+an understanding of internal control, and the procedures 
+performed in response to the assessed risks.
+The procedures we performed were based on our 
+professional judgement and included inquiries, 
+observation of processes performed, inspection 
+of documents, evaluating the appropriateness of 
+quantification methods and reporting policies, and 
+agreeing or reconciling with underlying records.
+Given the circumstances of the engagement, in 
+performing the procedures referred above, we:
+•	 Obtained an understanding of the assessment 
+criteria and their suitability for the evaluation 
+and /or measurements of the Identified 
+Sustainability Information;
+•	 Made enquiries of Company’s Management, including 
+the various teams such as Sustainability team, Human 
+Resource team, etc., and those with responsibility for 
+managing standalone BRSR;
+•	 Obtained an understanding and performed an 
+evaluation of the key systems and processes for 
+managing, recording and reporting on the Identified 
+Sustainability Information as per Appendix 1 including 
+at the sites and corporate office visited. This did 
+not include testing of the design and operating 
+effectiveness of management systems and controls;
+•	 Checked the consolidation for various plants and 
+corporate office under the reporting boundary (as 
+mentioned in the BRSR) for ensuring the completeness 
+of data being reported;
+•	 Based on above understanding, the risks that the 
+Identified Sustainability Information may be materially 
+misstated, determined the nature, timing and extent of 
+further procedures;
+•	 Performed limited substantive testing on a sample 
+basis of the Identified Sustainability Information at 
+corporate office, and 2 plants located at Dahej and 
+Pune to check that data had been appropriately 
+measured with underlying documents recorded, 
+collated and reported;
+•	 Reviewed records and performed testing including 
+recalculation of sample data to establish an 
+assurance trail;
+•	 Where applicable for the Identified Sustainability 
+Information in the BRSR, we have relied on the 
+information in the audited standalone financial 
+statements of the Company for the year ended 
+March 31, 2024, which were audited by another firm 
+of chartered accountants under the Companies 
+Act, 2013 who, vide their report dated May 10, 2024, 
+expressed an unmodified opinion on those standalone 
+financial statements;
+•	 Assessed the level of adherence to the BRSR followed 
+in preparing the Integrated Report, which includes 
+the BRSR;
+•	 Assessed the BRSR for detecting, on a test basis, any 
+major anomalies between the information reported in 
+the BRSR on performance with respect to the Identified 
+181 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+Sustainability Information and relevant source data/
+information;
+•	 Evaluated the reasonableness and appropriateness 
+of significant estimates and judgments made by 
+the Management in the preparation of the Identified 
+Sustainable Information; and
+•	 Obtained representations from the 
+Company’s Management.
+The procedures performed in a limited assurance 
+engagement vary in nature and timing from, and are less 
+in extent than for, a reasonable assurance engagement. 
+Consequently, the level of assurance obtained in a 
+limited assurance engagement is substantially lower 
+than the assurance that would have been obtained had 
+we performed a reasonable assurance engagement. 
+Accordingly, we do not express a reasonable assurance 
+opinion about whether the Identified Sustainability 
+Information have been prepared, in all material respects, 
+in accordance with the Criteria.
+Exclusions
+Our limited assurance scope excludes the following and 
+therefore we do not express a conclusion on the same:
+•	 Operations of the Company other than the Identified 
+Sustainability Information listed in Appendix 1;
+•	 Aspects of the BRSR and data/information (qualitative 
+or quantitative) included in the BRSR, other than the 
+Identified Sustainability Information;
+•	 Data and information outside the defined reporting 
+period i.e., the financial year ended March 31, 
+2024; and
+•	 The statements that describe expression of opinion, 
+belief, aspiration, expectation, aim or future intentions 
+provided by the Company and testing or assessing any 
+forward-looking assertions and/or data.
+Limited Assurance Conclusion
+Based on the procedures performed and the evidence 
+obtained, nothing has come to our attention that causes 
+us to believe that the Company’s Identified Sustainability 
+Information summarised in Appendix 1 to this report 
+and included in the BRSR, for the financial year ended 
+March 31, 2024 is not prepared, in all material respects, in 
+accordance with the Criteria.
+Other Matter
+The BRSR section of the Integrated Report of the 
+Company includes certain information pertaining to 
+the financial year ended March 31, 2023 prepared on a 
+consolidated basis (unless otherwise stated), which is 
+not comparable which current year information and is not 
+audited or reviewed.
+Restriction on Use
+Our work was performed solely to assist you in meeting 
+the reporting requirements. This deliverable has been 
+issued solely at the request of the Board of Directors of 
+the Company to whom it is addressed, solely for reporting 
+the Company’s sustainability performance and activities 
+and for publishing the same as a part of the BRSR forming 
+part of the Company’s Integrated Report. Accordingly, we 
+accept no liability to anyone, other than the Company. Our 
+deliverable should not be used for any other purpose or by 
+any person other than the addressees of our deliverable. 
+We do not accept or assume any liability or duty of care 
+for any other purpose or to any other person to whom this 
+report is shown or into whose hands it may come without 
+our prior consent in writing.
+For Price Waterhouse Chartered Accountants LLP
+Firm Registration Number: 012754N/N500016
+Sumit Seth
+Partner
+Membership Number: 105869
+UDIN: 24105869BKFWUO3134
+Place: Mumbai
+Date: July 5, 2024
+182  |  #ThermaxForABetterTomorrow  
+ Appendix 1 
+List of BRSR Core KPIs
+Sr. 
+No.
+Principle and 
+indicator reference*
+Attribute
+Parameters (KPIs)
+1.
+Principle 6 – E7
+Green-house gas (GHG) 
+footprint
+1.	
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available) 
+2.	
+Total Scope 2 emissions (Break-up of the GHG (CO2e) into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)
+3.	
+GHG Emission Intensity (Scope 1 +2)
+	
+a) 	 Total Scope 1 and Scope 2 emissions (MT) / Total Revenue from 
+Operations adjusted for PPP
+2. 
+Principle 6 – E3 and 
+E4
+Water footprint
+1.	
+Total water consumption
+2.	
+Water consumption intensity
+	
+a)	
+Water Intensity per rupee of turnover adjusted for PPP
+3.	
+Water Discharge by destination and levels of Treatment
+3.
+Principle 6 – E1
+Energy Footprint
+1.	
+Total Energy Consumed
+2.	
+% of energy consumed from renewable sources
+3.	
+Energy intensity
+	
+a) 	 Energy Intensity per rupee of turnover adjusted for PPP
+4.
+Principle 6 – E9
+Embracing circularity- 
+details related to waste 
+management by the 
+entity
+1.	
+Plastic waste (A)
+2.	
+E-waste (B)
+3.	
+Bio-medical waste (C)
+4.	
+Construction and demolition waste (D)
+5.	
+Battery waste (E)
+6.	
+Radioactive waste (F)
+7.	
+Other Hazardous waste. Please specify, if any. (G)
+8.	
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up 
+by composition i.e., by materials relevant to the sector)
+9.	
+Total waste generated ((A+B + C + D + E + F + G + H)
+10.	 Waste intensity
+a)	
+Waste Intensity per rupee of turnover adjusted for PPP
+11.	 Each category of waste generated, total waste recovered through recycling, 
+re-using or other recovery operations
+12.	 For each category of waste generated, total waste disposed by nature of 
+disposal method
+5. 
+Principle 3 – E1(C)
+Principle 3 – E11
+Enhancing employee 
+wellbeing and Safety
+1.	
+Spending on measures towards well-being of employees and workers- cost 
+incurred as a % of total revenue of the company
+2.	
+Details of safety related incidents for employees and workers (including 
+contract-workforce e.g. workers in the company’s construction sites)
+	
+a) 	 Number of Permanent Disabilities
+	
+b) 	 Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours 
+worked)
+	
+c) 	 No. of fatalities
+6. 
+Principle 5 – E3(b)
+Principle 5 – E7
+Enabling Gender 
+Diversity in Business
+1.	
+Gross wages paid to females as a % of wages paid
+2.	
+Complaints related to POSH
+	
+a) 	 Total Complaints on Sexual Harassment (POSH) reported.
+	
+b)	
+ Complaints on POSH as a % of female employees / workers
+	
+c) 	 Complaints on POSH upheld
+7. 
+Principle 8 – E4
+Principle 8 – E5
+Enabling Inclusive 
+Development
+1.	
+Input material sourced from following sources as % of total purchases –
+Directly sourced from MSMEs/ small producers and from within India
+2.	
+Job creation in smaller towns- wages paid to people employed in smaller 
+towns (permanent or non-permanent/on contract) as % of total wage cost
+183 
+ Thermax Limited | Annual Report 2023-24 | 
+Statutory  
+Reports
+Governance
+Financial  
+Statements
+Understanding  
+Thermax
+Year in a Review
+Strategy
+Stakeholder 
+Value Creation
+Sr. 
+No.
+Principle and 
+indicator reference*
+Attribute
+Parameters (KPIs)
+8.
+Principle 9 – E7
+Principle 1 – E8
+Fairness in Engaging with 
+Customers and Suppliers
+1.	
+Instances involving loss/ breach of data of customers as a percentage of total 
+data breaches or cyber security events
+2.	
+Number of days of accounts payable
+9.
+ Principle 1 – E9
+Open-ness of business
+1.	
+Concentration of purchases & sales done with trading houses, dealers, and 
+related parties 
+	
+a) 	 Purchases from trading houses as % of total purchases
+	
+b) 	 Number of trading houses where purchases are made from.
+	
+c) 	 Purchases from top 10 trading houses as % of total purchases from 
+trading houses
+	
+d) 	 Sales to dealers / distributors as % of total sales
+	
+e) 	 Number of dealers / distributors to whom sales are made.
+	
+f) 	
+Sales to top 10 dealers / distributors as % of total sales to dealers /
+distributors.
+2.	
+Loans and advances & investments with related parties
+	
+a) 	 Purchases
+	
+b) 	 Sales
+	
+c) 	 Loans & advances
+	
+d) 	 Investments
+*’E’ indicates Essential Indicator
+184  |  #ThermaxForABetterTomorrow  

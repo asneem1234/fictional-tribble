@@ -1,0 +1,4771 @@
+ 
+ 
+ 
+August 01, 2024 
+ 
+The Secretary,  
+ 
+ 
+ 
+ 
+ 
+The Secretary, 
+Listing Department,  
+ 
+ 
+ 
+ 
+Listing Department, 
+National Stock Exchange of India Limited   
+ 
+BSE Limited  
+Exchange Plaza, 5th Floor, 
+ 
+ 
+ 
+ 
+Phiroze Jeejeeboy Towers 
+C/1 G Block, Bandra Kurla Complex,  
+ 
+ 
+Dalal Street, 
+Bandra (E), Mumbai - 400 051 
+ 
+ 
+ 
+Mumbai- 400 001 
+(Scrip Code: THYROCARE) 
+ 
+ 
+ 
+(Scrip Code: 539871) 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Business Responsibility and Sustainability Report for the financial year 2023-24 
+ 
+Pursuant to Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we are enclosing herewith a copy of Business Responsibility and 
+Sustainability Report for the financial year 2023-24, which also forms part of the Annual 
+Report for the financial year 2023-24.  
+ 
+Kindly take the aforesaid report on record 
+ 
+Yours Faithfully, 
+ 
+For Thyrocare Technologies Limited, 
+ 
+ 
+Ramjee Dorai 
+Company Secretary and Compliance Officer 
+ 
+Encl: A/a 
+ 
+Dorai Ramjee
+Digitally signed by Dorai 
+Ramjee 
+Date: 2024.08.01 21:16:06 
++05'30'
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+94
+Business Responsibility and 
+Sustainability Report
+A: General Disclosures
+A.1:	Details of the listed entity
+1.
+Corporate identity number (CIN) of the listed entity :
+L85110MH2000PLC123882
+2.
+Name of the listed entity 
+:
+Thyrocare Technologies Limited
+3.
+Year of incorporation 
+:
+January 28, 2000
+4.
+Registered ofﬁce address 
+:
+D-37/1, TTC Industrial Area, MIDC, Turbhe, Navi 
+Mumbai. Maharashtra 400703
+5.
+Corporate address 
+:
+D-37/3, TTC Industrial Area, MIDC, Turbhe, Navi 
+Mumbai. Maharashtra 400703
+6.
+E-mail 
+:
+ compliance@thyrocare.com
+7.
+Telephone 
+:
+022-30900000
+8.
+Website 
+:
+www.thyrocare.com
+9.
+Financial year for which reporting is being done 
+:
+2023 - 2024
+10.
+Name of the stock exchange(s) where shares 
+are listed 
+:
+National Stock Exchange of India and BSE Limited
+11.
+Paid-up Capital 
+:
+` 52,95,26,760/-
+12.
+Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report :
+Ramjee Dorai, Company Secretary and Compliance 
+Ofﬁcer, 022-30900000, ramjee.d@thyrocare.com
+13.
+Reporting boundary - Are the disclosures under 
+this report made on a standalone basis (i.e. only for 
+the entity) or on a consolidated basis (i.e. for the 
+entity and all the entities which form a part of its 
+consolidated ﬁnancial statements, taken together):
+Standalone basis
+14.
+Name of assurance provider 
+:
+ NA
+15.
+Type of assurance obtained 
+:
+ NA
+A.2:	Products/services
+	
+16.	 Details of business activities (accounting for 90% of the turnover):
+Sr. No.
+Description of main activity
+Description of business activity
+% of turnover of the entity
+Human health and social care services
+Independent Diagnostics Laboratories
+100
+	
+17.	
+Products/services sold by the entity (accounting for 90% of the entity’s turnover):
+Sr. No.
+Product/Service
+NIC code
+% of total turnover contributed
+Independent Diagnostics Laboratories
+869
+98.9
+A.3: Operations
+	
+18.	 Number of locations where plants and/or operations/ofﬁces of the entity are situated:
+Location
+Number of plants
+Number of ofﬁces
+Total
+National
+30
+1
+31
+International
+1
+0
+1
+Note: Plants means Labs of the Company.
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+95
+	
+19.	 Markets served by the entity:
+	
+	
+a.	
+Number of locations
+Location
+Number
+National (No. of States)
+29
+International (No. of Countries)
+1
+	
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity? : 1.3%
+	
+	
+c.	
+A brief on types of customers
+	
+	
+	
+The company’s varied customer base includes both individual patients who are in search of personalized 
+healthcare solutions and institutional clients like hospitals and clinics that have a need for a wide range of 
+medical supplies and services. This diverse clientele reﬂects the company’s ability to cater to the distinct needs 
+of personal healthcare seekers as well as large-scale healthcare providers requiring comprehensive and reliable 
+medical resources.
+A.4:	Employees
+	
+20.	 Details as at the end of ﬁnancial year:
+	
+	
+a.	
+Employees and workers (including differently abled):
+Sr. 
+No.
+Particulars
+Total (A)
+Male
+Female
+Other
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (H)
+% (H/A)
+EMPLOYEES
+1.
+Permanent (D)
+1693
+1311
+77.44
+382
+22.56
+0
+0
+2.
+Other than Permanent (E)
+58
+15
+25.86
+43
+74.14
+0
+0
+3.
+Total employees (D + E)
+1751
+1326
+75.73
+425
+24.27
+0
+0
+WORKERS
+4.
+Permanent (F)
+0
+0
+0
+0
+0
+0
+0
+5.
+Other than Permanent (G)
+0
+0
+0
+0
+0
+0
+0
+6.
+Total workers (F + G)
+0
+0
+0
+0
+0
+0
+0
+	
+	
+b.	
+Differently abled employees and workers:
+Sr. 
+No.
+Particulars
+Total (A)
+Male
+Female
+Other
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (H)
+% (H/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+0
+0
+0
+0
+0
+0
+0
+2.
+Other than Permanent (E)
+0
+0
+0
+0
+0
+0
+0
+3.
+Total differently abled 
+employees (D + E)
+0
+0
+0
+0
+0
+0
+0
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+0
+0
+0
+0
+0
+0
+0
+5.
+Other than Permanent (G)
+0
+0
+0
+0
+0
+0
+0
+6.
+Total differently- abled workers 
+(F + G)
+0
+0
+0
+0
+0
+0
+0
+	
+21.	 Participation/inclusion/representation of women:
+Leadership team
+Total (A)
+Number and percentage of females
+No. (B)
+% (B / A)
+Board of Directors
+9
+2
+22.22
+Key Management Personnel
+3
+0
+0
+	
+	
+Notes: Mr. Rahul Guha, is the Managing Director and CEO of the Company, hence its included in Board of Directors 
+and Key Managerial Personnels.
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+96
+	
+22.	 Turnover rate for permanent employees and workers. (Disclose trends for the past 3 years)
+Particulars
+FY 2023 - 2024
+(Turnover rate in current FY)
+FY 2022-2023
+(Turnover rate in previous 
+FY)
+FY 2021-2022
+(Turnover rate in the year 
+prior to the previous FY)
+Male
+Female Other
+Total
+Male
+Female Other
+Total
+Male
+Female Other
+Total
+Permanent Employees
+48.12
+45.27
+0
+47.44
+43.07
+59.26
+0
+47.3
+43.58
+57.79
+0
+47.84
+Permanent Workers
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A.5:	Holding, Subsidiary and Associate Companies (including joint ventures)
+	
+23.	 Details of holding/subsidiary/associate companies/joint ventures.
+Sr. 
+No.
+Entity name (A)
+Entity type
+% of shares held
+Entity (A) participate in 
+the BRSR initiatives of 
+the parent entity?
+1.
+Docon Technologies Private Limited
+Holding
+71.11
+No
+2.
+Nueclear Healthcare Limited
+Subsidiary
+100
+No
+3.
+Think Health Diagnostic Private Limited
+Subsidiary
+100
+No
+4.
+Equinox Labs Private Limited
+Associate
+30
+No
+5.
+Thyrocare Laboratories (Tanzania) Limited
+Joint Venture
+50
+No
+6.
+Pulse Hitech Health Services (Ghatkopar) LLP
+Subsidiary
+51
+No
+A.6: CSR Details
+	
+24.	 CSR details of the company:
+	
+	
+a.	
+Whether CSR is applicable as per section 135 of Companies Act, 2013 : Yes
+	
+	
+b.	
+Turnover (in `)		
+: 5,24,01,79,005/-
+	
+	
+c.	
+Net worth (in `)	
+: 5,13,81,20,799/-
+A.7: Transparency and Disclosures Compliances
+	
+25.	 Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanis 
+m in 
+Place?
+If Yes, then provide 
+web-link for policy
+FY 2023 - 2024
+Current Financial Year
+FY 2022-2023
+Previous Financial Year
+No. of 
+complaints 
+ﬁled during 
+the year
+No. of 
+complaint 
+s pending 
+resolution 
+at close of 
+the year
+Remarks
+No. of 
+complaints 
+ﬁled during 
+the year
+No. of 
+complaint 
+s pending 
+resolution 
+at close of 
+the year
+Remarks
+If NA, 
+then 
+provide 
+the 
+reason
+Communities
+NA
+NA
+0
+0
+NA
+0
+0
+NA
+Investors 
+(other than 
+shareholders)
+Yes
+Yes, 
+The 
+Company 
+has setup an investor 
+grievance 
+mechanism 
+to respond to investor 
+grievances in a timely 
+and appropriate manner. 
+The investor grievances 
+and action taken are also 
+reviewed. Investors can 
+reach out to the Company 
+Secretary 
+at 
+https://
+investor.thyrocare.com/
+investor-contacts/
+0
+0
+NA
+0
+0
+NA
+Shareholders
+Yes
+Shareholders, 
+for 
+any 
+of their grievances can 
+reach out to the Company 
+Secretary 
+at 
+https://
+investor.thyrocare.com/
+investor-contacts/
+6
+0
+NA
+3
+0
+NA
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+97
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanis 
+m in 
+Place?
+If Yes, then provide 
+web-link for policy
+FY 2023 - 2024
+Current Financial Year
+FY 2022-2023
+Previous Financial Year
+No. of 
+complaints 
+ﬁled during 
+the year
+No. of 
+complaint 
+s pending 
+resolution 
+at close of 
+the year
+Remarks
+No. of 
+complaints 
+ﬁled during 
+the year
+No. of 
+complaint 
+s pending 
+resolution 
+at close of 
+the year
+Remarks
+If NA, 
+then 
+provide 
+the 
+reason
+Employees 
+and workers
+Yes
+Yes, the Company has 
+an automated Grievance 
+Redressal Mechanism for 
+reporting and ensuring 
+effective 
+redressal 
+of 
+employee 
+grievances. 
+This is inbuilt in the HR 
+tool named as Darwinbox, 
+wherein any employee 
+can 
+raise 
+and 
+seek 
+redressal of grievance. 
+The 
+grievances 
+are 
+reported to HR directly. 
+There is also a vigil 
+mechanism in place to 
+report serious grievances 
+and inappropriate action 
+by any other employee/ 
+executive/ director. The 
+Internal 
+Complainants 
+Committee 
+has 
+also 
+been constituted to look 
+into complaints of sexual 
+harassment, if any
+1819
+12
+NA
+0
+0
+NA
+Customers
+Yes
+https://investor.thyrocare.
+com/investor-faq/
+12041
+0
+Total 
+Complaint 
+s - 12041 
+Service 
+Related - 
+11140 QC
+(Report 
+Values) 
+Related - 901
+13605
+0
+Total 
+Complaints 
+- 13605 
+Service 
+Related - 
+12460 QC 
+(Report 
+Values) 
+Related - 
+1145
+Value chain 
+partners
+Yes
+Thyrocare Franchise can 
+connect to support and 
+register grievances. They 
+can call at 02238002 
+350 or send WhatsApp 
+at 8422888222 or write 
+email 
+at 
+support@t 
+hyrocare.c 
+om. 
+The 
+WhatsApp 
+and 
+Email 
+Helpline is 24x7 wherein 
+call helpline is available 
+between 7 AM to 10 PM, 
+Monday to Sunday.
+15227
+0
+For any 
+support that 
+we need 
+from other 
+internal 
+teams such 
+as Lab/
+Pathol ogist/
+Logis tics/
+Tech Team 
+etc. and we 
+send them 
+tickets which 
+they act 
+upon. Out 
+of overall 
+tickets sent 
+to them, 
+escalations 
+are 10% on 
+an average.
+N A
+19858
+24
+NA
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+98
+	
+26.	 Overview of the entity’s material responsible business conduct issues. (Please indicate material responsible 
+business conduct and sustainability issues pertaining to environmental and social matters that present a risk 
+or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk 
+along-with its ﬁnancial implications, as per the following format.)
+Sr. 
+No.
+Material issue 
+identiﬁed
+Indicate 
+whether 
+risk (R) or 
+opportunity (O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity
+1.
+Employee Health 
+and Well Being
+O
+It 
+is 
+our 
+Company's 
+overarching responsibility to 
+effectively manage the well-
+being of all employees and 
+workers by providing a secure 
+working environment, which 
+is supplemented by formal 
+occupational health and safety 
+training programs 
+Positive 
+Implications
+2.
+Climate Action
+R
+Exposure to climate related risks 
+and opportunities significantly 
+affects the company’s long-
+term operations and ﬁnancial 
+sustainability. Without proper 
+measurement, monitoring, and 
+reduction of emissions, the 
+company could be subjected 
+to regulatory actions
+Our 
+company 
+prioritizes 
+environmental 
+protection 
+by adhering to government 
+regulations concerning water, 
+air, and waste management.
+Additionally, 
+we 
+promote 
+resource conservation among 
+our 
+employees. 
+We 
+have 
+adopted measures to reduce 
+our carbon emissions and 
+invested in initiatives such as 
+renewable 
+energy 
+sources 
+(Installation of solar panels at 
+our Head Ofﬁce).
+Negative 
+Implications
+3.
+Transparency in 
+Governance
+O
+We have a robust Governance 
+system in place to address 
+issues 
+concerning 
+bribery, 
+corruption, and other unethical 
+behaviour. 
+Our 
+Code 
+of 
+Conduct is very comprehensive 
+in nature and covers various 
+aspects of governance and 
+ethical conduct. We also have 
+a Whistle Blower Policy and 
+in place that governs all our 
+stakeholders to report any kind 
+of protected disclosures.
+Positive 
+Implications
+4.
+Talent 
+Management
+O
+Our 
+workforce 
+is 
+the 
+cornerstone 
+of 
+our 
+organization’s 
+success. 
+The long-term viability and 
+prosperity of our company 
+depend on our ability to attract 
+and retain skilled employees. 
+Inadequate 
+reward 
+and 
+recognition 
+programs 
+can 
+result in higher attrition rates 
+and 
+talented 
+individuals 
+moving to our competitors.
+Positive 
+Implications
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+99
+B:	 Management and Process Disclosures
+B.	
+1: Policy and management processes
+	
+1-6. Policy and management processes
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+1	
+a.	
+Whether your 
+entity’s policy/
+policies cover each 
+principle and its 
+core elements of the 
+NGRBCs.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+1	
+b.	
+Has the policy been 
+approved by the 
+Board?
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+1	
+c.	
+Web Link of the 
+Policies, if available
+1. 	
+https://investor.thyrocare.com/wp-content/uploads/2023/06/Code-of-conduct-1-2.pdf
+2.	
+https://investor.thyrocare.com/wp-content/uploads/2024/07/3-Whistleblower-Policy_Thyrocare.pdf
+3.	
+https://investor.thyrocare.com/policies-7/
+4.	
+https://investor.thyrocare.com/policies-6/
+5.	
+https://investor.thyrocare.com/wp-content/uploads/2023/06/Policy-on-Related-Party-Transections.pdf
+6.	
+https://investor.thyrocare.com/policies-15/
+7.	
+https://investor.thyrocare.com/wp-content/uploads/2023/06/Code-of-Conduct-on-prohibition-of-insider-
+trading-4_30122022013132PM-3-1-4.pdf
+2.	
+Whether the entity has 
+translated the policy into 
+procedures.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.	
+Do the enlisted policies 
+extend to your value chain 
+partners?
+No
+No
+No
+No
+No
+No
+No
+No
+No
+4.	
+Name of the national 
+and international codes/
+certiﬁcations/labels/ 
+standards (e.g. Forest 
+Stewardship Council, 
+Fairtrade, Rainforest 
+Alliance, Trustea) 
+standards (e.g. SA 
+8000, OHSAS, ISO, BIS) 
+adopted by your entity and 
+mapped to each principle.
+- ISO 9001 - NABL Accredit ation
+5.	
+Speciﬁc commitments, 
+goals and targets set by 
+the entity with deﬁned 
+timelines, if any.
+The Company is dedicated to implementing NGRBCs in true spirit, along with other ESG initiatives such 
+as energy conservation, reducing the environ mental impact of biomedical waste, water management, 
+and similar efforts. We are also developing targets and a road map to achieve these initiatives and will 
+continue to monitor our progress 
+7.	
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, 
+targets and achievements. (Listed entity has ﬂexibility regarding the placement of this disclosure.)
+	
+The ESG (Environmental, Social, and Governance) paradigm is of paramount importance, given the industry in which our 
+company operates. We recognize the need to thrive within our immediate environment in which we operate responsibly by 
+implementing sustainable practices. Since its inception, our company has persistently launched various initiatives to amplify 
+ESG-based practices and make successful headways in various verticals. Till date, key issues have been successfully 
+addressed, including proper disposal and treatment of bio-medical waste, water conservation by implementing water-
+saving reducers, transitioning to e-billing to reduce paper usage and adoption of solar panels. The Company has invested 
+in Efﬂuent treatment plants for its labs and Sewage treatment plants at its Head ofﬁce to ensure both the lab waste water 
+as well the general waste water is adequately treated before its discarded through the drain lines. The Company also 
+plans to invest in the organic waste compost plants to treat and reuse its dry and wet general waste. Additionally, majority 
+of the communications, messaging and announcements to our channel partners is now being done digitally instead of 
+using traditional physical collaterals. Our company is cognizant of its ethical responsibilities as a corporate citizen and 
+continuously acts in adherence to moral principles.
+8.	
+Details of the highest authority responsible for implementation and oversight of the business responsibility 
+policy(ies).
+	
+Mr. Rahul Guha, Managing Director and Chief Executive Officer (Executive Director) DIN: 09588432 Tel: 022-30900000
+	
+Email Id: compliance@thyrocare.com
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+100
+9.	
+Details about the entity’s committee of the board/director responsible for decision making on sustainability related 
+issues?
+	
+a.	
+Does the entity have a speciﬁed committee of the board/director responsible for decision making on sustainability 
+related issues? Yes
+	
+b.	
+If yes, provide details
+	
+	
+The Board of Directors has authorised Mr. Rahul Guha, Managing Director and CEO to take decision on sustainability 
+related issues, in consultation with Senior Managerial Personnel of the Company.
+B.2:	Governance, leadership and oversight
+	
+10.	 Details of review of NGRBCs by the company:
+	
+	
+a.	
+Details about reviewing authority:
+Subject for Review
+Indicate whether review was undertaken by Director/Committee of the Board/Any 
+other Committee
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above 
+policies and follow up action
+Committee of the Board
+Description of any other 
+committee
+Compliance with statutory 
+requirements of relevance 
+to the principles and 
+rectiﬁcation of any non-
+compliances
+Committee of the Board
+Description of any other 
+committee
+	
+	
+b.	
+Details about frequency:
+Subject for Review
+Frequency (Annually/ Half yearly/ Quarterly/ Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above 
+policies and follow up action
+Any other
+Description of any other 
+frequency
+As and when required
+Compliance with statutory 
+requirements of relevance 
+to the principles and 
+rectiﬁcation of any non-
+compliances
+Any other
+Description of any other 
+frequency
+As and when required
+	
+11.	 Information about the independent assessment /evaluation of the working of its policies carried out by the 
+entity by an external agency.
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Has the entity carried out 
+independent assessment/ 
+evaluation of the working of its 
+policies by an external agency?
+No
+No
+No
+No
+No
+No
+No
+No
+No
+If yes, provide name of the 
+agency
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+101
+B.3: Details of Review
+	
+12.	 If answer to Q1 of section B.1 - Policy and management processes is “No” i.e. not all principles are covered 
+by a policy, reasons to be stated: Not Applicable
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the 
+Principles material to its business
+-
+-
+-
+-
+-
+-
+-
+-
+-
+The entity is not at a stage where 
+it is in a position to formulate 
+and implement the policies on 
+speciﬁed principles
+-
+-
+-
+-
+-
+-
+-
+-
+-
+The entity does not have the 
+ﬁnancial or/human and technical 
+resources available for the task
+-
+-
+-
+-
+-
+-
+-
+-
+-
+It is planned to be done in the 
+next ﬁnancial year
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Any other reason (please specify)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+C: Principle Wise Performance Disclosures
+C.1: Principle 1: Businesses should conduct and govern themselves with integrity, and in a manner that is 
+Ethical, Transparent and Accountable.
+Essential indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the ﬁnancial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes 
+held
+Topics/principles covered under the 
+training and its impact
+%age of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Board of Directors
+1
+Familiarization programs includes overview 
+of Industry, Company Business Model, 
+Updates on SEBI Regulations, etc
+100
+Key Managerial Personnel
+1
+Code of conduct, Updates on SEBI 
+Regulations, Cyber Security
+100
+Employees other than BoD and KMPs
+54
+Basic Safety Training
+100
+Workers
+0
+0
+0
+2.	
+Details of ﬁnes/ penalties/ punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors/KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the ﬁnancial year, in 
+the following format (Note: the entity shall make disclosures on the basis of materiality as speciﬁed in Regulation 
+30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s 
+website):
+	
+a.	
+Monetary:
+Penalties and Fees
+NGRBC 
+Principle
+Name of the regulatory/
+enforce ment agencies/ 
+judicial institutions
+Amount (In 
+INR)
+Brief of the 
+Case
+Has an appeal 
+been preferred?
+Penalty/Fine
+-
+-
+-
+-
+-
+Settlement
+-
+-
+-
+-
+-
+Compounding fee
+-
+-
+-
+-
+-
+	
+b.	
+Non-monetary:
+Legal sanctions
+NGRBC principle
+Name of the regulatory/enforcement 
+agencies/ judicial institutions
+Brief of the case
+Has an appeal been 
+preferred?
+Imprisonment
+-
+-
+-
+-
+Punishment
+-
+-
+-
+-
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+102
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary 
+or non- monetary action has been appealed.
+Case details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+NA
+4.	
+Details about anti-corruption or anti-bribery policy.
+	
+a.	
+Does the entity have an anti-corruption or anti-bribery policy? : Yes
+	
+b.	
+If yes, provide details in brief.
+	
+	
+Yes. The Company has an anti-bribery/anti-corruption policy. This Anti-Corruption Policy (“Policy”) outlines the 
+Company’s commitment to comply with all applicable laws, rules and regulations in the jurisdictions where the 
+Company conducts its business regarding interactions with government ofﬁcials and other persons related to the 
+Company’s business (“Third Parties”) and the prevention of corrupt business practices (“Anti-Corruption Laws”).
+	
+c.	
+If available, provide a web-link to the policy.
+	
+	
+This policy is available on the intranet of the Company ie Drawinbox, HRMS portal of the Company.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+Organizational roles
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Directors
+-
+-
+KMPs
+-
+-
+Employees
+-
+-
+Workers
+-
+-
+	
+Notes: No any actions taken against Directors/KMPs/employees/workers for the charges of bribery/ corruption.
+6.	
+Details of complaints with regard to conﬂict of interest:
+Complaints type
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of Conﬂict 
+of Interest of the Directors
+-
+-
+-
+-
+Number of complaints received in relation to issues of Conﬂict 
+of Interest of the KMPs
+-
+-
+-
+-
+7.	
+Provide details of any corrective action taken or underway on issues related to ﬁnes / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conﬂicts of interest.
+	
+Not applicable
+8.	
+Number of days of accounts payables ((accounts payable*365)/Cost of goods or services procured) in the following 
+format:
+Question
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Number of days of accounts payables
+83
+52
+9.	
+Open-ness of business: Provide details of concentration of purchases and sales with trading houses, dealers, and 
+related parties along-with loans and advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Concentration 
+of Purchases
+a.	
+Purchases from trading houses as % of total 
+purchases
+0
+0
+b.	
+Number of trading houses where purchases are 
+made from
+0
+0
+c.	
+Purchases from top 10 trading houses as % of 
+total purchases from trading houses
+0
+0
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+103
+Parameter
+Metrics
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Concentration 
+of Sales
+a.	
+Sales to dealers / distributors as % of total sales
+0
+0
+b.	
+Number of dealers / distributors to whom sales 
+are made
+0
+0
+c.	
+Sales to top 10 dealers / distributors as % of total 
+sales to dealers / distributors
+0
+0
+Share of RPTs 
+in
+a.	
+Purchases (Purchases with related parties / Total 
+Purchases)
+2.92
+0.04
+b.	
+Sales (Sales to related parties / Total Sales)
+12.49.
+13.18
+c.	
+Loans & advances (Loans & advances given to 
+related parties / Total loans & advances)
+0
+0
+d.	
+Investments ( Investments in related parties / 
+Total Investments made)
+1.96
+1.48
+Leadership indicators
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the ﬁnancial year:
+Total number 
+of awareness 
+programmes held
+Topics / principles covered under the training
+%age of value chain partners 
+covered (by value of business 
+done with such partners) under 
+the awareness programmes
+As of now, the Company has not conducted any awareness programs for value chain partners as the policies apply only to the 
+Company as of now. However, the Company shall strive to initiate the awareness program going forward based on materiality.
+2.	
+Details about the processes in place to avoid/ manage conﬂict of interests involving members of the Board.
+	
+a.	
+Does the entity have processes in place to avoid/ manage conﬂict of interests involving members of the Board? : Yes
+	
+b.	
+If yes, provide details of the same.
+	
+	
+The Company receives an annual declaration from its Board members and Key Managerial Personnel on the entities 
+they are interested in and ensures requisite approvals as required under the statute as well as the Company's policies 
+are in place before transacting with such entities / individuals. Further, there is a code of conduct applicable to board 
+of directors and senior management which deals with the aspect of conﬂict of interest. This Code of conduct is 
+available on the website of the Company. Also, a declaration signed by the Managing Director that the members of 
+board of directors and senior management personnel have afﬁrmed compliance with the code of conduct applicable 
+to board of directors and senior management, is forming part of the corporate governance report.
+C.2: Principle 2: Businesses should provide goods and services in a manner that is sustainable and safe.
+Essential indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in speciﬁc technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively.
+Expenditure type
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Details of improvements in 
+environmental and social impacts
+R&D
+0
+0
+0
+Capex
+0
+3.36
+0
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+104
+2.	
+Details about sustainable sourcing:
+	
+a.	
+Does the entity have procedures in place for sustainable sourcing? : No
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably? NA
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of 
+life, for the following waste categories.
+Product type
+Process description
+a.	
+Plastics 
+(including packaging}
+We have aligned BMW vendors across all the Labs. The vendor picks up the plastic waste from the labs 
+twice or three times a week. In accordance with government regulations and color coding, we separate 
+the waste in the waste container.
+b.	
+E-waste
+-
+c.	
+Hazardous waste
+We have aligned BMW vendors across all the Labs. The vendor picks up the BMW from the labs twice 
+or three times a week. In accordance with government regulations and color coding, we separate the 
+waste in the waste container.
+d.	
+Other waste
+Since the Company is in the business of providing diagnostic services, recycling or reusing products 
+after they have served their purpose is not applicable. However, the Company has agreements with 
+authorized vendors for the secure and timely disposal of biomedical waste created during the collection 
+and testing of samples.
+4.	
+Details about Extended Producer Responsibility (EPR):
+Questions
+Response
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities.
+No
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan 
+submitted to Pollution Control Boards?
+No
+If not, provide steps taken to address the same.
+Not Applicable
+Leadership indicators
+1.	
+Details about the Life Cycle Perspective / Assessments (LCA): 
+	
+a.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) 
+or for its services (for service industry)? : No
+	
+b.	
+If yes, provide details in the following format?
+NIC code
+Name of 
+product/
+servi ce
+% of total 
+turnover 
+contributed
+Boundary for which 
+the Life Cycle 
+Perspective
+/ Assessment was 
+conducted
+Whether 
+conducted by 
+independent 
+external agency
+Results 
+communicate 
+d in public 
+domain
+If yes, 
+provide the 
+web-link.
+NA
+NA
+0
+NA
+No
+No
+	
+	
+Notes: There has not been any speciﬁc Life Cycle Perspective / Assessments (LCA) conducted by the entity for 
+its services.
+2.	
+If there are any signiﬁcant social or environmental concerns and/or risks arising from production or disposal of 
+your products / services, as identiﬁed in the Life Cycle Perspective / Assessments (LCA) or through any other 
+means, brieﬂy describe the same along-with action taken to mitigate the same. Not Applicable
+Name of product/service
+Description of the risk / concern
+Action taken
+-
+-
+-
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+105
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).: Not Applicable
+Indicate input material
+Recycled or re-used input material to total material
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+-
+-
+-
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, 
+and safely disposed, as per the following format:
+Waste type
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Re-Used
+Recycled
+Safely 
+disposed
+Re-Used
+Recycled
+Safely 
+disposed
+Plastics (including packaging)
+0
+0
+0
+0
+0
+0
+E-waste
+0
+0
+0
+0
+0
+0
+Hazardous waste
+0
+0
+148
+0
+0
+175
+Other waste
+0
+0
+219
+0
+0
+237
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Indicate product category
+Reclaimed products and their packaging materials as % of 
+total products sold in respective category
+NA
+C.3: Principle 3: Businesses should respect and promote the well-being of all employees, including those 
+in their value chains.
+Essential indicators
+1.	
+Details regarding well-being of employees and workers:
+	
+a.	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+beneﬁts
+Paternity 
+beneﬁts
+Day care 
+facilities
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(D)
+% (D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+Permanent employees
+Male
+1311
+1006
+76.74
+0
+0
+0
+0
+1311
+100
+0
+0
+Female
+382
+291
+76.18
+0
+0
+382
+100
+0
+0
+0
+0
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+1693
+1297
+76.61
+0
+0
+382
+22.56
+1311
+77.44
+0
+0
+Other than permanent employees
+Male
+15
+8
+53.33
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+43
+19
+44.19
+0
+0
+0
+0
+0
+0
+0
+0
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+58
+27
+46.55
+0
+0
+0
+0
+0
+0
+0
+0
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+106
+	
+b.	
+Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total 
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+beneﬁts
+Paternity 
+beneﬁts
+Day care 
+facilities
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(D)
+% (D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+Permanent workers
+Male
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other than permanent workers
+Male
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+	
+c.	
+Spending on measures towards well-being of employees and workers (including permanent and other than permanent) 
+in the following format:
+Question
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Cost incurred on well being measures as a
+% of total revenue of the company
+0.25
+0.14
+2.	
+Details of retirement beneﬁts, for the current and previous ﬁnancial year.
+Beneﬁts
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as a % 
+of total workers
+Deducted and 
+deposited with 
+the authority
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as a % 
+of total workers
+Deducted and 
+deposited with 
+the authority
+PF
+100
+0
+Yes
+100
+0
+Yes
+Gratuity
+100
+0
+Yes
+100
+0
+Yes
+ESI
+27.17
+0
+Yes
+46.0
+0
+Yes
+3.	
+Accessibility of workplaces
+Questions
+Response
+Are the premises / ofﬁces of the entity accessible to differently abled employees and 
+workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016?
+Yes
+If not, whether any steps are being taken by the entity in this regard.
+NA
+4.	
+Details about equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016.
+Questions
+Response
+Does the entity have an equal opportunity policy as per the 
+Rights of Persons with Disabilities Act, 2016?
+Yes
+If so, provide a web-link to the policy.
+Yes, the Company has an Equal Employment Opportunity Policy. 
+The said policy is available on the intranet of the Company ie 
+Drawinbox, HRMS portal of the Company.
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+107
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100
+100
+0
+0
+Female
+100
+100
+0
+0
+Other
+0
+0
+0
+0
+Total
+100
+100
+0
+0
+6. 
+a.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? : 
+Yes
+b.	
+If yes, give details of the mechanism in brief.
+Category
+Yes/No
+If Yes, then give details of the mechanism in brief
+Permanent workers
+No
+NA
+Other than permanent workers
+No
+NA
+Permanent employees
+Yes
+The company has a dedicated HRMS portal through which the employees can 
+raise, track and get the grievances resolved. The HR department continuously 
+tracks any complaints received. The department also adheres to a Turnaround 
+Time of 48 hours in which any complaints need to be resolved.
+Other than permanent employees
+Yes
+The company has a dedicated HRMS portal through which the employees can 
+raise, track and get the grievances resolved. The HR department continuously 
+tracks any complaints received. The department also adheres to a Turnaround 
+Time of 48 hours in which any complaints need to be resolved.
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Total 
+employees/
+worke rs in 
+respective 
+category (A)
+No. of employees/
+worke rs in 
+respective category, 
+who are part of 
+association(s) or 
+Union (B)
+% (B/A)
+Total 
+employees/
+worke rs in 
+respective 
+category (C)
+No. of employees/
+worke rs in 
+respective category, 
+who are part of 
+association(s) or 
+Union (D)
+% (D/C)
+Total permanent employees
+1693
+0
+0
+1713
+0
+0
+Male
+1311
+0
+0
+1306
+0
+0
+Female
+382
+0
+0
+407
+0
+0
+Other
+0
+0
+0
+0
+0
+0
+Total permanent workers
+0
+0
+0
+0
+0
+0
+Male
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+Other
+0
+0
+0
+0
+0
+0
+8.	
+Details of training given to employees and workers:
+Category
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Total (A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total (D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(E)
+% (E/D)
+Number 
+(F)
+% (F/D)
+Employees
+Male
+1311
+1311
+100
+1311
+100
+1264
+1264
+100
+1264
+100
+Female
+382
+382
+100
+382
+100
+381
+381
+100
+381
+100
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+1693
+1693
+100
+1693
+100
+1645 
+1645 
+100
+1645 
+100
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+108
+Category
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Total (A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total (D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(E)
+% (E/D)
+Number 
+(F)
+% (F/D)
+Workers
+Male
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Total (A)
+Number (B)
+% (B/A)
+Total (C)
+Number (D)
+% (D/C)
+Employees
+Male
+1311
+1311
+100
+1264
+1264
+100
+Female
+382
+382
+100
+381
+381
+100
+Other
+0
+0
+0
+0
+0
+0
+Total
+1693
+1693
+100
+1645
+1645
+100
+Workers
+Male
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+Other
+0
+0
+0
+0
+0
+0
+Total
+0
+0
+0
+0
+0
+0
+10.	 Health and safety management system:
+Questions
+Response
+a.	
+Whether an occupational health and 
+safety management system has been 
+implemented by the entity?
+Yes
+	
+If yes, the coverage such system?
+Occupational Health and Safety management the system has been implemented 
+by the Company. Following are some key practices that have been carried out: 
+Monthly inspection of labs of the Company has been conducted. All the labs are 
+under the Fire AMC (Annual Maintenance Contract) Maintenance which includes 
+maintenance and servicing of ﬁre equipment on the premises Mock drill trainings 
+are conducted every six months. Safety induction training is given to the new joiners. 
+Personal Protection Equipment kits are provided to the employees deployed at 
+labs, members of maintenance team and also for the ground staff. Daily inspection 
+round in labs is carried out by the Housekeeping Incharge, Canteen Incharge and 
+also by Maintenance team. Segregation of bio-medical waste is ensured as per the 
+regulatory norms prescribed. First Aid boxes are available at suitable places which is 
+regularly monitored and reﬁlled. Regular Health and Wellness Camps are undertaken 
+for employees. Monthly Safety training is given to the employees on the various safety 
+topics such as chemical handling, manual handling of Materials & equipments, 
+electrical safety, ﬁrst aid measures & Cardiopulmonary resuscitation (CPR).
+b.	
+What are the processes used to identify 
+work-related hazards and assess risks 
+on a routine and non-routine basis by the 
+entity?
+We have developed a Safety Manual that outlines the procedures for identifying and 
+evaluating Safety, Health, and Environment (SH&E) risks, as well as measures to 
+mitigate these risks to acceptable levels. This is achieved by enhancing existing 
+controls or implementing additional controls for all activities within the organization's 
+premises. The manual also clearly defines the roles and responsibilities of all 
+personnel. Additionally, quarterly inspections are conducted across all laboratories 
+to identify potential risks or hazards.
+c.	
+Whether you have processes for workers 
+to report the work related hazards and to 
+remove themselves from such risks.
+Yes
+d.	
+Do the employees/ worker of the entity 
+have access to non- occupational 
+medical and healthcare services?
+Yes
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+109
+11.	 Details of safety related incidents, in the following format:
+Safety incident/number
+Category*
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Lost time injury frequency rate (LTIFR) (per one 
+million- person hours worked)
+Employees
+0.3
+0
+Workers
+0
+0
+Total recordable work-related injuries
+Employees
+2
+0
+Workers
+0
+0
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+	
+*Including in the contract workforce
+	
+Notes: “Remarks: No fatalities or serious injuries (injuries with a high cause) occur across our laboratories. Being in the 
+service sector, our work involves collecting blood samples and others, testing them, and then issuing reports. All safety 
+precautions have been put in place, including PPE’s to the employee wherever it is required and also eye wash stations 
+and safety showers. “
+12.	 Describe the measures taken by the entity to ensure a safe and healthy work place.
+	
+Following are the measures undertaken by the Company to ensure a safe and healthy workplace: - 
+	
+(1)	 Implementation of safety policies and safe operating procedure (SOP) across the organization. 
+	
+(2)	 Conducting safety trainings and fire evacuation drills at regular intervals. 
+	
+(3)	 Provision of Personal Protective Equipment Kits (PPE Kits) to staff including Hand gloves, Mask, Lab coats, goggles 
+wherever it is required. 
+	
+(4) 	 Providing vaccination to all employees in Labs. 
+	
+(5) 	 Signages have been installed at sensitive areas for the benefit of the employees. 
+	
+(6) 	 Disinfection process is followed in labs regularly 
+	
+(7) 	 20 labs have received NABL accreditation and these labs also adhere to NABL standards. 
+	
+(8) 	 Segregation and disposal of bio-degradable waste in accordance with applicable laws.
+13.	 Number of complaints on the following made by employees and workers:
+Category
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working conditions
+0
+0
+NA
+0
+0
+Health and safety
+0
+0
+NA
+0
+0
+14.	 Assessments for the year:
+Category
+% of your plants and ofﬁces that were assessed (by 
+entity or statutory authorities or third parties)
+Health and safety practices
+100
+Working conditions
+100
+15.	 Provide details of any corrective action taken or underway to address safety related incidents (if any) and on 
+signiﬁcant risks / concerns arising from assessments of health & safety practices and working conditions.
+	
+Each incident undergoes a thorough investigation to identify any deﬁciencies and to propose improvements to systems or 
+processes. The goal is to learn from these incidents and prevent future occurrences. Recommendations are implemented 
+within a speciﬁc timeframe. Safety information is widely disseminated and training is provided to prevent recurrence. To 
+ensure the effectiveness of all safety systems and activities, comprehensive internal and external audits are conducted 
+in alignment with the Safety Management System framework. Audit recommendations are stringently monitored at various 
+levels, and adherence guidelines have been established across all divisions.
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+110
+Leadership indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of:
+Category
+Response
+Employees
+Yes
+Workers
+NA
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited 
+by the value chain partners.
+	
+The Company ensures that statutory dues as applicable to the transactions within its remit are deducted and deposited in 
+accordance with extant regulations. These processes are regularly reviewed as part of both internal and statutory audit.
+3.	
+Provide the number of employees / workers having suffered high consequence work-related injury / ill-health / 
+fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment:
+Category
+Total no. of affected employees/workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members have 
+been placed in suitable employment
+FY 2023 - 2024
+(Current Financial 
+Year)
+FY 2022-2023
+(Previous Financial 
+Year)
+FY 2023 - 2024
+(Current Financial 
+Year)
+FY 2022-2023
+(Previous Financial 
+Year)
+Employees
+0
+0
+0
+0
+Workers
+0
+0
+0
+0
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? : Yes
+5.	
+Details on assessment of value chain partners:
+Category
+% of value chain partners (by value of business 
+done with such partners) that were assessed
+Health and safety practices
+0
+Working conditions
+0
+6.	
+Provide details of any corrective actions taken or underway to address signiﬁcant risks/concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+	
+No corrective action plan has been required for the speciﬁed parameters. However, should any such risks or concerns be 
+identiﬁed, the Company may grant a reasonable timeframe for value chain partners to achieve compliance. Depending 
+on the speciﬁc situation, the Company may assess the identiﬁed risks or concerns and request a corrective action plan 
+from the involved value chain partners.
+C.4: Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders.
+Essential indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+The Company has systematically identiﬁed its internal and external stakeholders through an analysis of their impact 
+on its operations. It employs both structured and unstructured methods to interact with various stakeholders in order to 
+comprehend their concerns and expectations. Speciﬁc roles and responsibilities for stakeholder engagement have been 
+designated within individual departments of the organization. Additionally, the Company has created a comprehensive 
+stakeholder engagement plan that details the approach for interacting with each stakeholder group, aiming to address 
+their needs, resolve their issues, and foster mutually beneﬁcial relationships.
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+111
+2.	
+List stakeholder groups identiﬁed as key for your entity and the frequency of engagement with each stakeholder 
+group.
+Stakeholder 
+group
+Whether 
+identified as 
+vulnerable & 
+marginalize d 
+group
+Channels of 
+communication
+Details of other channels of 
+communication
+Frequency of 
+engagement 
+Details 
+of other 
+frequency of 
+engagement 
+Purpose and scope 
+of engagement 
+including key topics 
+and concerns 
+raised during such 
+engagement
+Investors & 
+Shareholder s
+No
+Website
+To facilitate effective 
+communication, the Company 
+utilizes various channels 
+for engaging with investors 
+and shareholders, including 
+dedicated investor relations 
+portals, regular ﬁnancial 
+reports, annual meetings, and 
+direct communication through 
+investor calls.
+Others - please 
+specify
+Quarterly / half 
+yearly
+/Annually
+Interacting 
+with 
+investors 
+and 
+shareholders increases 
+transparency 
+and 
+accountability 
+and 
+helps 
+them 
+to 
+take 
+an informed decision 
+to 
+invest 
+in 
+our 
+Company. 
+The 
+key 
+areas of engagement 
+includes 
+an 
+update 
+on the business and 
+ﬁnancial performance, 
+Company's strategy and 
+growth levers, potential 
+opportunities and risks, 
+material events which 
+may have a positive 
+or negative impact on 
+the performance of the 
+Company
+Employees
+No
+Other
+By way of digital as well 
+as physical channels of 
+communication including e- 
+mails, townhalls, newsletters, 
+pulse surveys for employee 
+feedback, redressal, training 
+programmes for personal and 
+professional growth.
+Others - please 
+specify
+Weekly/Mon 
+thly
+Promoting transparency 
+fostering 
+a 
+positive 
+workplace 
+culture 
+improving diversity and 
+inclusion.
+Providing 
+learning 
+opportunities 
+to 
+the 
+employees to upgrade 
+their skills.
+Customers
+No
+Other
+Channels of Communication
+1. 	Call Helpline - 
+0223090000/02267123400
+	
+(For Retail Customers), 
+022 38002350 For 
+Franchise Network 
+2. WhatsApp Helpline - 
+9870666333 (For Retail 
+Customers), 8422888222 - 
+For Franchise Network 
+3. 	Email - customersupport@
+thyrocare.com (For Retail 
+Customers), support@
+thyrocare.com - For 
+Franchise Network Call 
+Helpline Working - All 365 
+Days. Morning 6 AM to 11 
+PM (Retails Customers), 
+Morning 7 AM to 10 PM 
+(Franchise Network) Chat 
+& Email Helpline Working 
+Window - 24x7
+Others - please 
+specify
+Monthly/Qua 
+rterly/Half 
+yearly/Yearly
+To improve customer 
+satisfaction, 
+increase 
+customer 
+loyalty, 
+increase 
+sales, 
+promoting 
+various 
+schemes.
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+112
+Stakeholder 
+group
+Whether 
+identified as 
+vulnerable & 
+marginalize d 
+group
+Channels of 
+communication
+Details of other channels of 
+communication
+Frequency of 
+engagement 
+Details 
+of other 
+frequency of 
+engagement 
+Purpose and scope 
+of engagement 
+including key topics 
+and concerns 
+raised during such 
+engagement
+Vendors
+No
+Other
+Digital Meetings / In person 
+meetings
+Others - please 
+specify
+Frequent and 
+need based
+Our regular updates to 
+businesses encompass 
+information 
+about 
+performance feedback, 
+as well as any updates 
+regarding changes in 
+regulations related to 
+supplies and services.
+Govt/ 
+Regulatory 
+Authorities
+No
+Other
+Interactions with authorities 
+take place through e-mails, 
+meetings, submissions, etc. 
+as required
+Others - please 
+specify
+Need-based
+Our 
+interaction 
+with 
+ofﬁcial authorities serves 
+multiple 
+purposes. 
+When engaging with 
+regulatory 
+authorities, 
+our goal is to meet 
+our 
+obligations 
+and 
+advance 
+our 
+core 
+business 
+activities, 
+in 
+accordance 
+with 
+the highest standards 
+of 
+compliance 
+and 
+governance. 
+Our 
+engagement 
+with 
+policy 
+makers 
+is 
+focused on gaining a 
+deeper understanding 
+of 
+and 
+participating 
+in discussions about 
+issues relevant to the 
+industry.
+Communities
+No
+Other
+Meetings, digital channels
+Others - please 
+specify
+Frequent and 
+need based
+Developmental 
+/ 
+Educational needs as 
+part of the Company's 
+CSR obligation
+Leadership indicators
+1.	
+Provide the processes for consultation between stakeholders and the board on economic, environmental, and 
+social topics or if consultation is delegated, how is feedback from such consultations provided to the board.
+	
+The Corporate Social Responsibility (CSR) committee typically initiates consultations on economic, social, and governance 
+(ESG) topics through relevant functional heads. These functional heads or designated executive team members are tasked 
+with engaging directly with the respective stakeholder groups to gather insights and feedback. Should the consultation 
+process be delegated, the feedback from these engagements is meticulously compiled and communicated to the Board, 
+ensuring that the Board remains fully informed and can make decisions based on comprehensive stakeholder input. 
+This structured approach ensures that critical economic, environmental, and social topics are thoroughly discussed and 
+appropriately addressed at the highest level of the organization.
+2.	
+	
+a.	
+Whether stakeholder consultation is used to support the identiﬁcation and management of environmental, and social 
+topics: Yes
+	
+b.	
+If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated 
+into policies and activities of the entity.
+	
+	
+Yes. Stakeholder consultation is key to identiﬁcation of areas of improvement in corporate ESG efforts. For example: 
+(i) While undertaking CSR activities, stakeholder consultation & feedback is taken. (ii) Thyrocare continuously 
+undertakes measures to improve its services like reducing turnaround time, ensuring accurate test report delivery, 
+modiﬁed its tagline to accurately represent the business and services provided by the Company and more.
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+113
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups.
+	
+We have taken several steps to fulﬁll our Corporate Social Responsibility (CSR) obligations. These initiatives include 
+providing education to underprivileged individuals, organizing a women’s health conference focused on cancer and 
+thyroid disorders, for marginalized sections of communities.
+C.5: Principle 5: Businesses should respect and promote human rights.
+Essential indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in 
+the following format:
+Category
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Total (A)
+No. of employees/w 
+orkers covered (B)
+% (B/A)
+Total (C)
+No. of employees/w 
+orkers covered (D)
+% (D/C)
+Employees
+Permanent
+1693
+1693
+100
+1645
+954
+57.99
+Other than permanent
+58
+58
+100
+0
+0
+0
+Total employees
+1751
+1751
+100
+1645
+954
+57.99
+Workers
+Permanent
+0
+0
+0
+0
+0
+0
+Other than permanent
+0
+0
+0
+0
+0
+0
+Total workers
+0
+0
+0
+0
+0
+0
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Total (A)
+Equal to minimum 
+wage
+More than minimum 
+wage
+Total (D)
+Equal to minimum 
+wage
+More than minimum 
+wage
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(E)
+% (E/D)
+Number 
+(F)
+% (F/D)
+Employees
+Permanent
+1693
+0
+0
+1693
+100
+1713
+0
+0
+1713
+100
+Male
+1311
+0
+0
+1311
+100
+1306
+0
+0
+1306
+100
+Female
+382
+0
+0
+382
+100
+407
+0
+0
+407
+100
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other than 
+permanent
+58
+0
+0
+58
+100
+0
+0
+0
+0
+0
+Male
+15
+0
+0
+15
+100
+0
+0
+0
+0
+0
+Female
+43
+0
+0
+43
+100
+0
+0
+0
+0
+0
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Workers
+Permanent
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Male
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other than 
+permanent
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Male
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+114
+3.	
+Details of remuneration/salary/wages:
+a.	
+Median remuneration/wages:
+Category
+Male
+Female
+Other
+Number
+Median 
+remuneration/
+sala ry/wages of 
+respective category
+Number
+Median remuneration/
+sala ry/wages of 
+respective category
+Number
+Median remuneration/
+sala ry/wages of 
+respective category
+Board of Directors 
+(BoD)
+7
+1,10,000
+2
+2,30,000
+0
+Key Managerial 
+Personnel
+3
+55,54,710
+0
+0
+0
+0
+Employees other 
+than BoD and KMP
+1,308
+3,16,062
+382
+3,15,499
+0
+0
+Workers
+0
+0
+0
+0
+0
+0
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+Question
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Gross wages paid to females as % of total wages
+18.41
+20.31
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business?
+	
+: Yes
+	
+Notes: The HR team is responsible for addressing human rights impacts or issues caused or contributed to by the business?
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+The Company has instituted a sophisticated, automated Grievance Redressal Mechanism designed to effectively address 
+and resolve employee grievances, particularly those related to human rights issues. This mechanism is seamlessly 
+integrated within the HR tool, Darwinbox, providing a streamlined and efﬁcient process for employees to report their 
+concerns. Through Darwinbox, employees can directly communicate their grievances to the HR department, ensuring 
+that each issue receives prompt and appropriate attention. This system not only facilitates timely intervention but also 
+underscores the organization’s commitment to maintaining a fair and respectful workplace environment. By leveraging 
+advanced technology, the Company ensures that human rights-related grievances are handled with the utmost diligence 
+and urgency, thereby fostering trust and transparency within the workforce.
+6.	
+Number of complaints on the following made by employees and workers:
+Category
+FY 2023 - 2024
+FY 2022-2023
+(Current Financial Year)
+(Previous Financial Year)
+Filed during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Sexual harassment
+0
+0
+NA
+0
+0
+NA
+Discrimination at workplace
+0
+0
+NA
+0
+0
+NA
+Child labour
+0
+0
+NA
+0
+0
+NA
+Forced labour/involuntary 
+labour
+0
+0
+NA
+0
+0
+NA
+Wages
+0
+0
+NA
+0
+0
+NA
+Other human rights related 
+issues
+0
+0
+NA
+0
+0
+NA
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+115
+7.	
+Complaints ﬁled under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) 
+Act, 2013, in the following format:
+Category
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Total complaints reported under Sexual Harassment of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+0
+0
+Complaints on POSH as a % of female employees / workers
+0
+0
+Complaints on POSH upheld
+0
+0
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+The Company has established a Whistle Blower policy that allows employees to report any improper activities, including 
+legal, regulatory, or code of conduct violations like the misuse of price-sensitive information. These reports can be directed to 
+the competent authority or the Chairperson of the Audit Committee. This policy guarantees the protection of whistleblowers 
+and mandates conﬁdential investigations to safeguard the complainant and prevent retaliation. The Chairperson of the 
+Audit Committee’s contact information is accessible on the Company’s website for employees. Additionally, in compliance 
+with the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, the Company has 
+formed an internal complaints committee to handle sexual harassment complaints. Furthermore, the Company conducts 
+training and awareness sessions for all employees, focusing on relevant policies and regulations, including those aimed 
+at preventing sexual harassment and child labor.
+9.	
+Do human rights requirements form part of your business agreements and contracts?
+	
+: No
+10.	 Assessments for the year:
+Category
+% of your plants and ofﬁces that were assessed (by entity 
+or statutory authorities orthird parties)
+Child labour
+100
+Forced/involuntary labour
+100
+Sexual harassment
+100
+Discrimination at workplace
+100
+Wages
+100
+11.	 Provide details of any corrective actions taken or underway to address signiﬁcant risks/concerns arising from the 
+assessments at Question 10 above.
+	
+Not applicable
+Leadership indicators
+1.	
+Details of a business process being modiﬁed / introduced as a result of addressing human rights grievances/
+complaints.
+	
+The Company has established a procedure for addressing grievances pertaining to employee rights, which it currently 
+considers to be effective. However, the Company remains open to reviewing and modifying these processes in the future 
+if speciﬁc circumstances or the particulars of a case necessitate it.
+2.	
+Details of the scope and coverage of any human rights due-diligence conducted.
+	
+For the ﬁnancial year ended March 31, 2024, the Company did not perform any human rights due diligence. Nonetheless, 
+the Company may contemplate undertaking such due diligence in the current ﬁnancial year, contingent on relevant 
+circumstances, instances, and materiality.
+3.	
+Is the premise/ofﬁce of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+	
+: Yes
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+116
+4.	
+Details on assessment of value chain partners:
+Category
+% of value chain partners (by value of business done 
+with such partners) that were assessed
+Sexual harassment
+0
+Discrimination at workplace
+0
+Child labour
+0
+Forced labour/involuntary labour
+0
+Wages
+0
+5.	
+Provide details of any corrective actions taken or underway to address signiﬁcant risks/concerns arising from the 
+assessments at Question 4 above.
+	
+Not Applicable, since there were no cases observed on the above
+C.6: Principle 6: Businesses should respect and make efforts to protect and restore the environment.
+Essential indicators
+1.	
+Details of total energy consumption (in joules or multiples) and energy intensity, in the following format:
+Parameter
+Unit
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+From renewable sources
+Total electricity consumption (A)
+GJ
+1996.01
+0
+Total fuel consumption (B)
+GJ
+0
+0
+Energy consumption through other sources (C)
+GJ
+0
+0
+Total energy consumed from renewable sources 
+(A+B+C)
+GJ
+1996.01
+0
+From non-renewable sources
+Total electricity consumption (D)
+GJ
+0
+0
+Total fuel consumption (E)
+GJ
+1312.94
+0
+Energy consumption through other sources (F)
+GJ
+0
+0
+Total energy consumed from non-renewable sources 
+(D+E+F)
+GJ
+1312.94
+0
+Total energy consumed (A+B+C+D+E+F)
+GJ
+3308.95
+0
+Energy intensity per rupee of turnover (Total energy 
+consumed/revenue from operations)
+GJ/crore 
+` turnover
+6.31
+0
+Energy intensity per rupee of turnover adjusted for 
+Purchasing Power Parity (PPP) (Total energy consumed/
+revenue from operations adjusted for PPP)
+GJ/Mn $ 
+turnover
+14.1
+0
+Energy intensity in terms of physical output
+GJ/unit 
+production
+0
+0
+Energy intensity (optional) – the relevant metric may be 
+selected by the entity
+0
+0
+Indicate if any independent assessment/evaluation/
+assurance has been carried out by an external agency?
+No
+0
+If yes, name of the external agency.
+NA
+2.	
+Details about Performance, Achieve and Trade (PAT) Scheme of the Government of India:
+Questions
+Response
+Does the entity have any sites / facilities identiﬁed as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India?
+No
+If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been 
+achieved, provide the remedial action taken, if any.
+Not Applicable
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+117
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+Unit
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Water withdrawal by source
+(i) 	
+Surface water
+kilolitres
+0
+0
+(ii) 	
+Groundwater
+kilolitres
+0
+0
+(iii) 	 Third party water
+kilolitres
+15443
+0
+(iv) 	 Seawater/desalinated water
+kilolitres
+0
+0
+(v) 	 Others
+kilolitres
+0
+0
+Total volume of water withdrawal (i + ii + iii + iv + v)
+kilolitres
+15443
+0
+Total volume of water consumption
+kilolitres
+5695
+0
+Water intensity per rupee of turnover (Total water 
+consumption / Revenue from operations)
+kilolitres/crore `
+turnover
+10.87
+0
+Water intensity per rupee of turnover adjusted for 
+purchasing power parity (Total water consumption / 
+Revenue from operations adjusted for PPP)
+kilolitres/Mn $ 
+turnover
+24.35
+0
+Water intensity in terms of physical output (Total water 
+consumption / physical unit)
+0
+0
+Water intensity (optional) – the relevant metric may be 
+selected by the entity
+0
+0
+Indicate if any independent assessment/evaluation/
+assurance has been carried out by an external 
+agency?
+No
+0
+If yes, name of the external agency.
+NA
+0
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Water discharge by destination and level of treatment (in kilolitres)
+(i) To Surface water
+9748
+0
+-- No treatment
+0
+0
+--With treatment - please specify level of treatment
+9748
+(ii) To Groundwater
+0
+0
+-- No treatment
+0
+0
+--With treatment - please specify level of treatment
+(iv) To Seawater
+0
+0
+-- No treatment
+0
+0
+--With treatment - please specify level of treatment
+(iii) Sent to third-parties
+0
+0
+-- No treatment
+0
+0
+--With treatment - please specify level of treatment
+(v) Others
+0
+0
+-- No treatment
+0
+0
+--With treatment - please specify level of treatment
+Total water discharged (in kilolitres)
+9748
+0
+Indicate if any independent assessment/evaluation/assurance has been 
+carried out by an external agency?
+NA
+NA
+If yes, name of the external agency.
+NA
+NA
+5.	
+Details about zero liquid discharge (ZLD):
+Questions
+Response
+Has the entity implemented a mechanism for 
+zero liquid discharge (ZLD)?
+Yes
+If yes, provide details of its coverage and 
+implementation.
+The Company has installed Sewage Treatment Plant at its corporate ofﬁce. This 
+plant effectively treats the wastewater generated on-site and the treated (recycled) 
+wastewater is being used for day to day purposes such as toilet ﬂush. Additionally, 
+all the labs within the Company have their own efﬂuent treatment plants installed 
+to ensure proper treatment of wastewater before it is discharged from the labs.
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+118
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify 
+unit
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+NOx
+0
+0
+0
+SOx
+0
+0
+0
+Particulate matter (PM)
+0
+0
+0
+Persistent organic pollutants (POP)
+0
+0
+0
+Volatile organic compounds (VOC)
+0
+0
+0
+Hazardous air pollutants (HAP)
+0
+0
+0
+Indicate if any independent assessment/ evaluation/
+assurance has been carried out by an external agency?
+No
+No
+If yes, name of the external agency.
+NA
+NA
+	
+Notes: “Remark: Being in the service industry, the Company’s only source of air emissions is the use of diesel generators at 23 labs and 
+ofﬁce units. All of these generators are regularly maintained and operate within permissible emission limits. “
+7.	
+Provide details of greenhouse gas emissions (scope 1 and scope 2 emissions) & its intensity, in the following 
+format:
+Parameter
+Unit
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Total scope 1 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+95.04
+0
+Total scope 2 emissions(Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+4754.6
+0
+Total scope 1 and scope 2 emission intensity per rupee 
+of turnover (Total scope 1 and scope 2 GHG emissions / 
+Revenue from operations)
+tCO2e/crore `
+turnover
+9.25
+0
+Total scope 1 and scope 2emission intensity per rupee 
+of turnover adjusted for purchasing power parity (PPP)
+(Total scope 1 and scope 2 GHG emissions/Revenue 
+from operations adjusted for PPP)
+tCO2e/Mn $ 
+turnover
+20.73
+0
+Total scope 1 and scope 2 emission intensity in terms of 
+physical output
+tCO2e/unit 
+production
+0
+0
+Total scope 1 and scope 2 emission intensity (optional) – 
+the relevant metric may be selected by the entity
+0
+0
+Indicate if any independent assessment/ evaluation/
+assurance has been carried out by an external agency?
+No
+No
+If yes, name of the external agency.
+NA
+NA
+8.	
+Does the entity have any project related to reducing GHG emission? If yes, then provide details.
+	
+The entity does not currently have any speciﬁc projects exclusively aimed at reducing greenhouse gas (GHG) emissions. 
+Nonetheless, the company is keenly aware of its environmental impact and has implemented several initiatives to mitigate 
+it. At the organization’s head ofﬁce, a Sewage Treatment Plant (STP) has been installed to ensure that wastewater is treated 
+effectively before being discharged. Additionally, all laboratories are equipped with Efﬂuent Treatment Plants (ETPs) 
+to manage and treat laboratory wastewater appropriately, thereby minimizing the risk of environmental contamination. 
+Moreover, the company adheres to stringent bio-medical waste management practices. It disposes of bio-medical waste 
+through authorized Bio-Medical Waste (BMW) vendors, ensuring safe and compliant handling of potentially hazardous 
+materials. In efforts to reduce electricity consumption from the grid, solar panels have been installed at two of the 
+company’s laboratories as well as at the head ofﬁce. This initiative not only supports renewable energy use but also 
+contributes to a reduction in overall electricity consumption, indirectly lowering their environmental footprint associated 
+with traditional power sources. Overall, while there is no direct project explicitly labeled as GHG emission reduction, these 
+combined efforts reﬂect the company’s commitment to sustainable environmental practices and energy efﬁciency.
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+119
+9.	
+Details related to waste management:
+a.	
+Different types of waste generated by the entity, in the following format:
+Parameter
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Total waste generated (in metric tonnes)
+0
+0
+Plastic waste (A)
+214.18
+0
+E-waste (B)
+0
+0
+Bio-medical waste (C)
+102.98
+0
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+0
+0
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any (G)
+0
+0
+Other Non-hazardous waste generated (H). Please specify, if any
+0
+0
+Total (A+B+C+D+E+F+G+H)
+317.16
+0
+Waste intensity per crore rupee of turnover 
+(tonne/crore ` turnover)
+0.6
+0
+Waste intensity per crore rupee of turnover adjusted for Purchasing 
+Power Parity (PPP) (tonne/Mn $ turnover)
+1.35
+0
+Waste intensity in terms of physical output (tonne/unit production)
+0
+0
+Waste intensity (optional) – the relevant metric may be selected by the 
+entity
+0
+0
+b.	
+Different types of waste recovered or disposed by the entity, in the Current financial year : Not Applicable
+Category of waste (in metric tonnes)
+Recycled
+Re-used
+Other recovery 
+operations
+Incineration
+Landﬁlling
+Other disposal 
+operations
+Plastic waste
+-
+-
+-
+-
+-
+-
+E-waste
+-
+-
+-
+-
+-
+-
+Bio-medical waste
+-
+-
+-
+-
+-
+-
+Construction and demolition waste
+-
+-
+-
+-
+-
+-
+Battery waste
+-
+-
+-
+-
+-
+-
+Radioactive waste
+-
+-
+-
+-
+-
+-
+Other hazardous waste, if any
+-
+-
+-
+-
+-
+-
+Other non-hazardous waste generated, 
+if any
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+c.	
+Different types of waste recovered or disposed by the entity, in the previous financial year : Not Applicable
+Category of waste (in metric 
+tonnes)
+Recycled
+Re-used
+Other recovery 
+operations
+Incineration
+Landﬁlling Other disposal 
+operations
+Plastic waste
+-
+-
+-
+-
+-
+-
+E-waste
+-
+-
+-
+-
+-
+-
+Bio-medical waste
+-
+-
+-
+-
+-
+-
+Construction and demolition waste
+-
+-
+-
+-
+-
+-
+Battery waste
+-
+-
+-
+-
+-
+-
+Radioactive waste
+-
+-
+-
+-
+-
+-
+Other hazardous waste, if any
+-
+-
+-
+-
+-
+-
+Other non-hazardous waste 
+generated, if any
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+10.	 Brieﬂy describe the waste management practices adopted in your establishments. Describe the strategy adopted 
+by your company to reduce usage of hazardous and toxic chemicals in your products and processes and the 
+practices adopted to manage such wastes.
+	
+Our establishment adheres to a comprehensive waste management strategy that ensures the effective segregation 
+and treatment of all waste generated. We categorize waste into four distinct codes: Red, Yellow, Blue, and Black. Each 
+category facilitates speciﬁc handling and treatment protocols: - Red and Yellow waste categories undergo pre-treatment 
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+120
+processes such as autoclaving, ensuring these potentially infectious materials are rendered safe before any subsequent 
+steps. - Blue and Black categories are managed according to their speciﬁc requirements, ensuring compliance with 
+relevant regulations. To manage the bio-medical waste generated in our laboratory, we adhere to the stringent guidelines 
+set forth by the Bio-Medical Waste Management Rules of 2016. This waste is either recycled or safely disposed of through 
+partnerships with the State Pollution Control Board, which oversees both the recycling and dispensation processes. 
+We have developed and implemented Standard Operating Procedures (SOPs) for waste management. These SOPs 
+cover the entire waste lifecycle, from separation and handling to storage and transportation, ensuring a systematic and 
+compliant approach to bio-medical waste management. Our strategy to minimize the usage of hazardous and toxic 
+chemicals involves continuous research and development to identify and integrate safer alternatives into our products and 
+processes. By investing in sustainable practices and materials, we aim to reduce our ecological footprint while maintaining 
+high standards of safety and efﬁcacy. Regular training programs and audits are conducted to ensure compliance with 
+environmental regulations and to foster a culture of safety and responsibility among our employees. In summary, our 
+waste management protocols represent a holistic and rigorous approach to environmental stewardship, focusing on the 
+effective segregation, treatment, and disposal of bio-medical waste, while our ongoing efforts to minimize hazardous 
+chemical usage demonstrate our commitment to sustainability and compliance.
+11.	 If the entity has operations/ofﬁces in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details in the following format:
+Sr. 
+No.
+Location of operations/
+ofﬁces
+Type of 
+operations
+Whether the conditions of 
+environmental approval/clearance are 
+being complied with?
+If no, the reasons thereof 
+and corrective action 
+taken, if any.
+1
+NA
+NA
+Yes
+NA
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in 
+the current ﬁnancial year:
+Name and brief 
+details of project
+EIA notiﬁcation 
+No.
+Date
+Whether conducted by 
+independen t external agency
+Results communica 
+ted in public domain
+Relevant web 
+link
+NA
+NA
+NA
+No
+No
+NA
+	
+Notes: The entity has not conducted any environmental impact assessments. However, we have implemented eco-friendly 
+practices in our labs and corporate ofﬁces. We have installed solar panels in 3 labs and the registered ofﬁce. 29 have an 
+efﬂuent treatment plant installed. Employees are trained and educated on how to use and conserve energy and resources.
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act 
+and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format:
+Sr. 
+No.
+Specify the law/regulation/
+guid elines which was not 
+complied with
+Provide details of the non- 
+compliance
+Any ﬁnes / penalties / action taken 
+by regulatory agencies such as 
+pollution control boards or by courts
+Corrective action 
+taken, if any
+1
+NA
+NA
+NA
+NA
+Notes: We follow all the applicable environmental law/ regulations/ guidelines in India
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+121
+Leadership indicators
+1.	
+Details of water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+a.	
+Name of the water stress area and nature of operations:
+Name of the area
+Nature of operations
+NA
+NA
+	
+b.	
+Water withdrawal, consumption and discharge in the following format: Not Applicable
+Parameter
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Water withdrawal by source (in kilolitres)
+(i) 	
+Surface water
+0
+0
+(ii) 	
+Groundwater
+0
+0
+(iii) 	 Third party water
+0
+0
+(iv) 	 Seawater/desalinated water
+0
+0
+(v) 	 Others
+0
+0
+Total volume of water withdrawal (in kilolitres)
+0
+0
+Total volume of water consumption (in kilolitres)
+0
+0
+Water intensity per rupee of turnover//n(Water consumed/turnover)
+0
+0
+Water intensity (optional) – the relevant metric may be selected by 
+the entity
+0
+0
+Water discharge by destination and level of treatment (in kilolitres)
+0
+0
+(i) Into Surface water
+0
+0
+-- No treatment
+0
+0
+--With treatment - please specify level of treatment
+0
+0
+(ii) Into Groundwater
+0
+0
+-- No treatment
+0
+0
+--With treatment - please specify level of treatment
+0
+0
+(iv) Into Seawater
+0
+0
+-- No treatment
+0
+0
+--With treatment - please specify level of treatment
+0
+0
+(iii) Sent to third-parties
+0
+0
+-- No treatment
+0
+0
+--With treatment - please specify level of treatment
+0
+0
+(v) Others
+0
+0
+-- No treatment
+0
+0
+--With treatment - please specify level of treatment
+0
+0
+Total water discharged (in kilolitres)
+0
+0
+Indicate if any independent assessment/evaluation/assurance has 
+been carried out by an external agency?
+0
+0
+If yes, name of the external agency.
+0
+0
+2.	
+Please provide details of total scope 3 emissions & its intensity, in the following format: Not Applicable
+Parameter
+Unit
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Total scope 3 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+-
+-
+Total scope 3 emissions per rupee of turnover
+tCO2e/crore `
+turnover
+-
+-
+Total scope 3 emission intensity (optional) – the relevant 
+metric may be selected by the entity
+-
+-
+Indicate if any independent assessment/ evaluation/
+assurance has been carried out by an external agency?
+-
+-
+If yes, name of the external agency.
+-
+-
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+122
+3.	
+With respect to the ecologically sensitive areas reported at Question 11 of essential indicators above, provide 
+details of signiﬁcant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities.
+	
+Not Applicable
+4.	
+If the entity has undertaken any speciﬁc initiatives or used innovative technology or solutions to improve resource 
+efﬁciency, or reduce impact due to emissions / efﬂuent discharge / waste generated, please provide details of the 
+same as well as outcome of such initiatives, as per the following format:
+Sr. 
+No.
+Initiatives 
+undertaken
+Details of the initiative (Web-link, if any, may 
+be provided along-with summary)
+Outcome of the initiative
+1.
+STP plant
+Our company has installed a Sewage Treatment 
+Plant at the corporate ofﬁce. The wastewater is 
+treated at the Sewage Treatment Plant, and the 
+cleaned water has been reused
+Reduction in usage of clean water sourced from 
+government bodies
+2.
+ETP plant
+30 labs out of 30 have Efﬂuent Treatment Plant 
+installed. These Efﬂuent Treatment Plant treats 
+the efﬂuent water and then the water has been 
+discharged.
+Successful treatment of efﬂuent before discharge 
+by the Company
+3.
+Solar panel
+Two labs and registered ofﬁce have solar panels 
+installed.
+This has led to usage of renewable source of 
+energy thereby reducing the reliance of traditional 
+sources of energy.
+5.	
+Details about the disaster management plan.
+	
+a.	
+Does the entity have a business continuity and disaster management plan?
+	
+	
+: Yes
+	
+b.	
+Give details in 100 words/ web link.
+	
+	
+The emergency plan ensures safety and well-being of our facilities. For ﬁre emergencies, we have installed ﬁre 
+extinguishers, smoke detectors & hydrant systems and conduct regular mock-drill training sessions. Floor Marshals 
+are trained to manage and assist in such situations. Backup DG sets and UPS systems help maintain power supply 
+in case of power outage. We have safety showers, eye wash stations, PPEs, spill kits, and ﬁrst aid boxes in event 
+of chemical and biological spillage. Medical emergencies are handled by making ﬁrst aid supplies and doctor 
+consultation available. PA systems, ﬁre extinguishers, ﬁrst aid supplies, and evacuation plans are in place to 
+manage earthquakes and ﬂoods. We ensure the safety and well-being in emergency situations by making adequate 
+arrangements for accommodation, food and medical support.
+6.	
+Disclose any signiﬁcant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard.
+	
+While there has been no significant adverse impact on the environment from our value chain partners, we are committed to 
+further improving our environmental performance. Although we have not yet measured our Scope 3 emissions or assessed 
+our value chain partners, we prioritize sustainability and are continuously exploring ways to reduce our carbon footprint.
+	
+We remain dedicated to:
+	
+-	
+Implementing sustainable practices throughout our operations 
+	
+-	
+Promoting the use of low-carbon fuels among our transporters 
+	
+-	
+Encouraging our suppliers to adopt environmentally friendly practices
+7.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts. : 0
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+123
+C.7: Principle 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparent.
+Essential indicators 
+1.	
+a.	
+Number of afﬁliations with trade and industry chambers/ associations.: 1
+	
+b.	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the 
+entity is a member of/ afﬁliated to.
+S. 
+No.
+Name of the trade and industry chambers/associations
+Reach of trade and industry chambers/ associations
+1
+Confederation of Indian Industry
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anticompetitive conduct by the 
+entity, based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+NA
+NA
+NA
+	
+Notes: No incident has happened in FY 23-24.
+Leadership indicators
+1.	
+Details of public policy positions advocated by the entity.
+Sr. 
+No.
+Public policy 
+advocated
+Method resorted 
+for such 
+advocacy
+Whether information 
+available in public 
+domain?
+Frequency of 
+review by board
+Details of other 
+frequency of 
+review by Board
+Web Link, if 
+available
+NA
+NA
+No
+C.8: Principle 8: Businesses should promote inclusive growth and equitable development.
+Essential indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current ﬁnancial year.
+Name and brief 
+details of project
+SIA notiﬁcation 
+No.
+Date of notiﬁcation
+Whether conducted 
+by independen t 
+external agency
+Results communica 
+ted in public domain
+Relevant 
+web link
+NA
+NA
+NA
+No
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken 
+by your entity, in the following format:
+Sr. 
+No.
+Name of project for which 
+R&R is ongoing
+State
+District
+No. of project affected 
+families (PAFs)
+% of PAFs 
+covered by R&R
+Amounts paid to PAFs 
+in the FY (In INR)
+1
+NA
+NA
+NA
+0
+0
+0
+	
+Notes: There are projects for which ongoing Rehabilitation and Resettlement is being undertaken by the entity.
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+Any Community member can raise their concerns on business responsibility and sustainability-related topics by writing 
+a letter addressed to Mr. Rahul Guha, Managing Director and Chief Executive Ofﬁcer and posting it to below address: 
+Thyrocare Technologies Limited D/37-3, TTC Industrial Area, MIDC, Turbhe, Navi Mumbai - 400 703. Such concerns will 
+be taken up with concerned departments to initiate necessary actions basis its signiﬁcance.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Category
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Directly sourced from MSMEs/ small producers
+21
+21.55
+Directly from within India
+99.2
+0
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+124
+5.	
+Job creation in smaller towns – disclose wages paid to persons employed (including employees or workers 
+employed on a permanent or non-permanent/ on contract basis) in the following locations, as % of total wage cost.
+Location
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Rural
+0
+0
+Semi-urban
+0
+0
+Urban
+0
+0
+Metropolitan
+100
+0
+Leadership indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identiﬁed in the Social Impact Assessments 
+(reference: Q1 of essential indicators above).
+Details of negative social impact identiﬁed
+Corrective action taken
+NA
+NA
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts 
+as identiﬁed by government bodies.
+Sr. No.
+State
+Aspirational district
+Amount spent (In INR)
+-
+-
+-
+-
+3.	
+a.	
+Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized/ vulnerable groups?
+	
+	
+: No
+	
+b.	
+From which marginalized/vulnerable groups do you procure? :
+	
+c.	
+What percentage of total procurement (by value) does it constitute? :
+4.	
+Details of the beneﬁts derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current ﬁnancial year), based on traditional knowledge:
+Sr. No.
+Intellectual property based on 
+traditional knowledge
+Owned/acquire d
+Beneﬁt shared
+Basis of calculating beneﬁt 
+share
+	
+Notes: The Company does not own or has acquired any intellectual property by way of traditional knowledge.
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved.
+Name of authority
+Brief of the case
+Corrective action taken
+NA
+NA
+NA
+6.	
+Details of beneﬁciaries of CSR projects:
+Sr. No.
+CSR project
+No. of persons beneﬁtted 
+from CSR projects
+% of beneﬁciaries from vulnerable 
+and marginalized groups
+Impact Guru Foundation
+1
+0
+Hope Foundation Trust
+1,000
+100
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+125
+C.9: Principle 9: Businesses should engage with and provide value to their consumers in a responsible 
+manner.
+Essential indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+Customers can make their complaints to the Company through following channels:
+	
+A.	
+If retail cusotmer
+	
+	
+1)	
+By writing an email to complaints@thyrocare.com;
+	
+	
+2)	
+By making a call to the helpline numbers at 022 30900000/67123400
+	
+	
+3)	
+By sending a message through Whatsapp on 8422888222
+	
+	
+Upon receiving a complaints, the process is initiated and assigned to the relevant stakeholders group for redressal. 
+Standard Turnaround Time (TAT) for closure of any complaint is 24 to 48 hours. The escalation matrix for complaint 
+redressal is as follows:
+	
+	
+Level 1 : redressals@thyrocare.com
+	
+	
+Level 2: gm.redressals@thyrocare.com
+	
+	
+After a complaint has been resolved, customers are requested to provide feedback on their satisfaction/dissatisfation 
+with the compliant redressal through email. If a customer selects “Not-satisfied”, the complaint is re-opened and 
+entire process will be followed again.666333.
+	
+B.	
+If Franchise partner
+	
+	
+1)	
+By writing an email to support@thyrocare.com
+	
+	
+2)	
+By making a call to the helpline numbers at 022 38002350
+	
+	
+3)	
+By sending a message through Whatsapp on 9870666333
+	
+TAT of complaint resolution is 24 hours and after each and every complaint, we do a survey with customers if they were 
+satisfied with the resolution provided or not and track
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information 
+about.
+Category
+As a percentage to 
+total turnover
+Environmental and social parameters relevant to the product
+0
+Safe and responsible usage
+0
+Recycling and/or safe disposal
+0
+	
+Notes: The company offers diagnostic services and does not manufacture or sell products. Therefore, turnover from 
+products carrying information about environmental and social parameters or safe usage and disposal is not applicable. 
+However, the company complies with all relevant laws and regulations in the areas where it operates, ensuring responsible 
+and ethical practices in all aspects of its services.
+3.	
+Number of consumer complaints in respect of the following.
+Category
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Received 
+during the year
+Pending resolution at 
+the end of year
+Remarks
+Received 
+during the year
+Pending resolution 
+at the end of year
+Remarks
+Data privacy
+0
+0
+0
+0
+0
+Advertising
+0
+0
+0
+0
+0
+Cyber-security
+0
+0
+0
+0
+0
+Delivery of essential 
+services
+0
+0
+0
+0
+0
+THYROCARE TECHNOLOGIES LIMITED
+Annual Report 2022-23
+126
+Category
+FY 2023 - 2024
+(Current Financial Year)
+FY 2022-2023
+(Previous Financial Year)
+Received 
+during the year
+Pending resolution at 
+the end of year
+Remarks
+Received 
+during the year
+Pending resolution 
+at the end of year
+Remarks
+Restrictive trade 
+practices
+0
+0
+0
+0
+0
+Unfair trade 
+practices
+0
+0
+0
+0
+0
+Other
+12041
+0
+NA
+13605
+0
+NA
+4.	
+Details of instances of product recalls on account of safety issues.
+Category
+Number
+Reasons for recall
+Voluntary recalls
+0
+N/A
+Forced recalls
+0
+N/A
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy?
+Questions
+Response
+Does the entity have a framework/ policy on cyber security and 
+risks related to data privacy?
+Yes
+If available, provide a web-link of the policy.
+The policy is available to on the intranet of the Company ie 
+Drawinbox, HRMS portal of the Company.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty 
+/ action taken by regulatory authorities on safety of products / services.
+	
+Throughout the ﬁnancial year 2023-24, the company has not encountered any signiﬁcant issues pertaining to advertising 
+practices or the distribution of essential services. Similarly, there have been no notable incidents concerning cyber security 
+or the data privacy of our customers. Furthermore, there have been no reoccurrences of product recalls, nor have there 
+been any penalties or actions imposed by regulatory authorities regarding the safety of our products or services. Thus, 
+no corrective actions were necessary in these areas during the speciﬁed period.
+7.	
+Provide the following information relating to data breaches.
+	
+a.	
+Number of instances of data breaches.	: 0
+	
+b.	
+Percentage of data breaches involving personally identiﬁable information of customers.: 0
+	
+c.	
+Impact, if any, of the data breaches.: NA
+Leadership indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, 
+if available).
+	
+To explore the full range of products and services provided by the Company, consider utilizing the following channels 
+and platforms:
+	
+1.	
+Official Website: Comprehensive details are available on our website at [www.thyrocare.com] (https:// www.thyrocare.
+com).
+	
+2.	
+Mobile Application: Download the Thyrocare app from the Google Play Store or Apple App Store for convenient 
+access to our services.
+	
+3.	
+Affiliated Partners: Our offerings can also be found through various third-party partners, including: - Book Meri Lab: 
+[www.bookmerilab.com](https://www.bookmerilab.com) - Health Care On Time: [www. healthcareontime.com](https://
+www.healthcareontime.com) - My Diagnostics: [mydiagnostics.in] (https://mydiagnostics.in) - Health Checkup: 
+[healthcheckup.co.in](https://www.healthcheckup.co.in)
+	
+4.	
+Physical Collection Centers: Visit one of our associated collection centers. Locations are listed at [thyrocare.com/
+location] (https://www.thyrocare.com/location).
+	
+5.	
+Customer Support Helpline: For direct support, contact us at 022 30900000 or 022 67123400.
+	
+6.	
+Email Assistance: Send your inquiries via email to customersupport@thyrocare.com or wellness@thyrocare.com.
+	
+7.	
+WhatsApp Support: Reach out for support by messaging us at 9870666333 on WhatsApp
+ CORPORATE OVERVIEW   |   STATUTORY REPORTS   |   FINANCIAL STATEMENTS
+Annual Report 2022-23
+127
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+The Company operates in the sector of providing diagnostic services. Necessary pre-requisites of tests like fasting 
+requirement, type of sample, quantity of sample, etc., are communicated to customers before sample collection/at the 
+time of booking.
+	
+Informational messages on symptoms of diseases, types of tests and health awareness, etc. are displayed on the social 
+media pages of the Company from time to time. Details of various healthcare packages are also made available in the 
+Company’s website, www.thyrocare.com
