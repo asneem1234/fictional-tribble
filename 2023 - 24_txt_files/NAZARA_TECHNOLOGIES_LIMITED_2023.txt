@@ -1,0 +1,4332 @@
+Nazara Technologies Limited 
+ 
+ 
+Nazara
+TM 
+ 
+India | Middle East | Africa | Europe 
+Regd. Office:  51-54, Maker Chamber III, Nariman Point Mumbai - 400021. Tel. : +91-22-40330800 / 22810303 / 22813030  
+Fax : +91-22-22810606 E-mail: info@nazara.com Website : www.nazara.com CIN : L72900MH1999PLC122970 
+September 08, 2024 
+ 
+To,                                                                    
+Listing Compliance Department 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street,  
+Mumbai - 400 001. 
+Scrip Code: 543280 
+ 
+Listing Compliance Department 
+National Stock Exchange of India Limited 
+Exchange Plaza, Plot No. C/1. G Block, 
+Bandra -Kurla Complex, Bandra (East), 
+Mumbai- 400051. 
+Scrip Symbol: NAZARA 
+ 
+Dear Sir/Madam, 
+Sub: Business Responsibility and Sustainability Report (“BRSR”) for the Financial Year 2023-2024 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended, please find enclosed herewith the Business 
+Responsibility and Sustainability Report (“BRSR”) of the Company for the Financial Year 2023-24, which 
+also forms an integral part of the Annual Report of the Company for Financial Year 2023-24. 
+You are requested to take the above information on record. 
+Thanking You,   
+Yours Faithfully 
+For Nazara Technologies Limited      
+ 
+ 
+Rakesh Shah 
+Chief Financial Officer 
+ 
+Encl: A/a 
+ 
+ 
+ 
+RAKESH 
+CHANDRAK
+ANT SHAH
+Digitally signed by 
+RAKESH 
+CHANDRAKANT SHAH 
+Date: 2024.09.08 
+12:09:01 +05'30'
+118
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+SECTION A: GENERAL DISCLOSURES
+I.	
+DETAILS OF THE LISTED ENTITY
+1.
+Corporate Identity Number (CIN) of the 
+listed entity
+L72900MH1999PLC122970
+2.
+Name of the listed entity
+Nazara Technologies Limited
+3.
+Year of incorporation
+December 08, 1999
+4.
+Registered office address
+51-54, Maker Chambers 3, Nariman Point, 
+Mumbai – 400 021, Maharashtra
+5.
+Corporate address
+51-54, Maker Chambers 3, Nariman Point, 
+Mumbai – 400 021, Maharashtra
+6.
+E-mail
+investors@nazara.com
+7.
+Telephone
+022-4033 0800
+8.
+Website
+www.nazara.com
+9.
+Financial year for which reporting is 
+being done
+April 01, 2023 to March 31, 2024
+10.
+Name of the Stock Exchange(s) where 
+shares are listed
+BSE Ltd.
+Code: 543280
+National Stock Exchange of India Limited 
+(NSE) 
+Symbol: NAZARA
+11.
+Paid-up capital
+` 30,61,66,560
+12.
+Name and contact details (telephone, 
+email address) of the person who may 
+be contacted in case of any queries 
+on the BRSR report
+Name: Mr. Nitish Mittersain
+Designation: Chief Executive Officer & 
+Joint Managing Director
+Telephone: 022-4033 0800
+E-mail: nitish@nazara.com
+13.
+Reporting boundary - Are the 
+disclosures under this report made 
+on a standalone basis (i.e. only for the 
+entity) or on a consolidated basis (i.e. 
+for the entity and all the entities which 
+form a part of its consolidated financial 
+statements, taken together)
+Disclosures made in this report are on a 
+standalone basis.
+14.
+Name of assurance provider
+NA
+15.
+Type of assurance obtained
+NA
+II.	
+PRODUCTS/SERVICES
+16.	 Details of business activities (accounting for 90% of the turnover)
+S. 
+no.
+Description of 
+main activity
+Description of business activity
+% of turnover 
+of the entity
+1
+ Telco subscription
+Players subscribing to curated game 
+packs and payment collected through the 
+telecom operator channel
+97.58
+2
+ Freemium
+Ads & virtual items purchased within the 
+games
+2.42
+17.	
+Products/services sold by the entity (accounting for 90% of the entity’s turnover)
+S. 
+No.
+Product/service
+NIC Code
+% of total turnover contributed
+1
+Telco subscription
+61101
+97.58
+2
+Freemium
+73100
+2.42
+III.	
+OPERATIONS
+18.	 Number of locations where plants and/or operations/offices of the entity are situated
+Location
+Number of plants
+Number of offices
+Total
+National
+NA
+1
+1
+International
+NA
+19.	 Markets served by the entity:
+	
+a.	
+Number of locations
+Locations
+Number
+National (No. of states)
+1
+International (No. of countries)
+NA
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the 
+entity?
+	
+	
+97.93%
+119
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+	
+c.	
+A brief on types of customers
+	
+	
+Following are the customers of Nazara:
+	
+	
+•	
+Gamers
+	
+	
+•	
+Sponsors and Advertisers
+	
+	
+•	
+Telcom Partners and Customers
+IV.	
+EMPLOYEES
+20.	 Details as at the end of financial year
+	
+a.	
+Employees and workers (including differently abled)
+Sr. 
+no.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1.
+Permanent (D)
+74
+61
+82.43
+13
+17.57
+2.
+Other than permanent (E)
+NA
+3.
+Total employees (D + E)
+74
+61
+82.43
+13
+17.57
+WORKERS
+4.
+Permanent (F)
+NA
+5.
+Other than permanent (G)
+6.
+Total workers (F + G)
+	
+Note: Nazara Technologies operates within the service-based industry, focussing on 
+mobile entertainment services. As a result, the Company’s workforce is exclusively 
+composed of employees, without any classification of workers.
+	
+b.	
+Differently abled employees and workers
+Sr. 
+no
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Differently abled employees
+1.
+Permanent (D)
+NA
+2.
+Other than permanent (E)
+3.
+Total differently abled 
+workers (D + E)
+Sr. 
+no
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Differently abled workers
+4.
+Permanent (F)
+NA
+5.
+Other than permanent (G)
+6.
+Total differently abled 
+workers (F + G)
+21.	 Participation/inclusion/representation of women
+Total
+(A)
+No. and percentage of females
+No. (B)
+% (B/A)
+Board of Directors
+7
+1
+14.29
+Key Management Personnel
+4*
+1
+25
+	
+*Note: Mr. Pravesh Palod resigned as KMP w.e.f. June 23, 2023
+22.	 Turnover rate for permanent employees and workers
+	
+(Disclose trends for the past 3 years)
+FY 2023-24 
+(Turnover rate in 
+current FY)
+FY 2022-23 
+(Turnover rate in 
+previous FY)
+FY 2022-21 
+(Turnover rate in the year 
+prior to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+employees
+17.56%
+2.70%
+20.27%
+10.88%
+5.44%
+16.33%
+29.67%
+1.29%
+30.97%
+Permanent 
+workers
+NA
+120
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+V.	
+HOLDING, SUBSIDIARY AND ASSOCIATE COMPANIES (INCLUDING JOINT VENTURES)
+23.	 (a)	
+Names of holding/subsidiary/associate companies/joint ventures
+Sr.
+no.
+Name of the holding/subsidiary/associate 
+companies/joint ventures (A)
+Indicate whether holding/subsidiary/
+associate/joint venture
+% of shares held by 
+listed entity
+Does the entity indicated at column A, participate in the 
+business responsibility initiatives of the listed entity? (Yes/No)
+For details on subsidiaries, associate companies, and joint ventures, please refer to Page No. 143 of the Annual Report. Each of these entities follows their respective business 
+responsibility initiatives.
+VI.	 CSR DETAILS
+24. 	 i.	
+Whether CSR is applicable as per Section 135 of Companies Act, 2013: Yes
+	
+ii.	
+Turnover (in `): ` 2,331 Lakhs (on standalone basis)
+	
+iii.	
+Net worth (in `): ` 1,60,305 Lakhs (on standalone basis)
+VII.	 TRANSPARENCY AND DISCLOSURES COMPLIANCES
+25.	 Complaints/grievances on any of the Principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct
+Stakeholder 
+group from 
+whom 
+complaint was 
+received
+Grievance Redressal  Mechanism in Place 
+(Yes/No)(If yes, then provide a weblink to the 
+grievance redress policy)
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+Number of 
+complaints filed 
+during the year
+Number of complaints 
+with pending resolution at 
+the close of the year
+Remarks
+Number of 
+complaints filed 
+during the year
+Number of complaints 
+with pending resolution 
+at the close of the year
+Remarks
+Communities
+No
+0
+0
+NA
+0
+0
+NA
+Investors 
+(other than 
+shareholders)
+Yes
+0
+0
+NA
+2
+0
+NA
+121
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+Stakeholder 
+group from 
+whom 
+complaint was 
+received
+Grievance Redressal  Mechanism in Place 
+(Yes/No)(If yes, then provide a weblink to the 
+grievance redress policy)
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+Number of 
+complaints filed 
+during the year
+Number of complaints 
+with pending resolution at 
+the close of the year
+Remarks
+Number of 
+complaints filed 
+during the year
+Number of complaints 
+with pending resolution 
+at the close of the year
+Remarks
+Shareholders
+Yes, the Company provides stakeholders with a 
+mechanism to address their grievances. Link Intime 
+India Private Limited has been appointed as the 
+Share Transfer Registrar/Agent and is responsible 
+for addressing shareholders’ inquiries, requests, 
+and complaints. The Share Transfer Registrar/
+Agent operates within the guidelines established 
+by SEBI and respond to such grievances through a 
+designated E-mail address.
+0
+0
+NA
+0
+0
+NA
+Employees and 
+Workers
+Yes, the Company’s whistleblower mechanism is 
+accessible to all employees. The Company offers 
+various communication channels, including an e-mail 
+address, and written complaints, to address any 
+grievances through the whistleblower mechanism.
+0
+0
+NA
+0
+0
+NA
+Customers
+Yes, 
+customers 
+have 
+multiple 
+communication 
+channels to address their grievances, including 
+e-mail, couriers, and a quality complaint form 
+available on the website, specifically designed for 
+reporting product quality issues.
+0
+0
+NA
+0
+0
+NA
+Value Chain 
+Partners
+Yes. Value chain partners are provided the access 
+to reach multiple hierarchy at all levels where their 
+grievances are addressed.
+0
+0
+NA
+0
+0
+NA
+Other (please 
+specify)
+NA
+0
+0
+NA
+0
+0
+NA
+122
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+26.	 Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity to your business, 
+rationale for identifying the same, and approach to adapt or mitigate the risk along with its financial implications, as per the following format
+Sr. 
+no.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or mitigate
+Financial implications of the risk or 
+opportunity (indicate positive or negative 
+implications)
+1.
+Governance
+Risk
+Governance is crucial for Nazara 
+because it directly impacts the 
+Company’s capacity to create long-
+term value for shareholders, maintain 
+its reputation, and comply with legal 
+and regulatory requirements.
+Transparency in Decision-Making: Maintains openness and 
+clarity in decision-making processes
+Ethical Standards: Upholds high ethical standards across 
+the Company’s operations
+Stakeholder Interests: Prioritises the interests of 
+shareholders, customers, employees, and the community
+Risk Mitigation: Helps in identifying and mitigating potential 
+risks
+Trust Building: Fosters trust among stakeholders through 
+responsible governance
+Sustainable Growth: Promotes long-term, sustainable 
+growth through effective governance practices
+Negative
+The failure to adhere to governance regulations 
+can result in financial fines, penalties, and a 
+damaged reputation. Furthermore, incidents that 
+raise ethical concerns, even if not regulatory, can 
+also harm the Company’s reputation.
+2.
+Data Privacy
+Risk
+Data privacy is vital for the Company 
+as 
+it 
+helps 
+uphold 
+customer 
+trust, meet legal and regulatory 
+obligations, and safeguard against 
+financial and reputational risks linked 
+to data breaches or unauthorised 
+access to personal information.
+Robust Security Measures: Implement comprehensive 
+security protocols to safeguard data
+Regular Audits: Conduct frequent security audits to identify 
+and address vulnerabilities
+Risk Assessments: Perform ongoing risk assessments to 
+evaluate potential threats consistently
+Employee Training: Provide education and training to 
+employees on the best practices for data privacy
+Negative
+A data privacy breach can result in legal fines, 
+customer loss, and significant remediation costs. 
+Additionally, it can damage the Company’s 
+reputation and affect its security standing.
+123
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+Sr. 
+no.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or mitigate
+Financial implications of the risk or 
+opportunity (indicate positive or negative 
+implications)
+3.
+Regulatory 
+Approvals
+Risk
+Operating in a highly regulated 
+industry implies that the failure to 
+secure required regulatory approvals 
+can result in delayed product 
+launches, higher compliance costs, 
+reputational damage, and potential 
+legal and financial penalties.
+Prioritise Compliance: Focus on adhering to all relevant 
+regulations
+Collaborate with Regulatory Agencies: Work closely with 
+agencies to facilitate timely approvals
+Timely Approvals: Ensure that necessary regulatory 
+approvals are obtained promptly
+Negative
+Non-compliance with regulatory requirements can 
+lead to substantial legal and financial penalties, 
+which include fines, sanctions, and potential 
+suspension of operations.
+4.
+ Talent, 
+Attraction and 
+Retention 
+Risk and 
+Opportunity
+The Company should foster a positive 
+work 
+environment 
+emphasising 
+employee development, competitive 
+salaries, benefits, and a culture 
+of innovation. This approach will 
+enhance 
+talent 
+attraction 
+and 
+retention, driving long-term success 
+and growth. However, challenges in 
+retaining key employees could result 
+in the loss of crucial knowledge and 
+expertise, potentially hindering the 
+Company’s ability to innovate and 
+reducing productivity and efficiency.
+Positive Work Environment: Nurture a supportive and 
+encouraging workplace
+Employee Development: Emphasise opportunities for 
+professional growth and skill development
+Recognition: Acknowledge and reward employee 
+achievements and contributions
+Employee Engagement: Encourage active involvement and 
+commitment among employees
+Negative
+High recruitment and training costs, especially 
+for specialised roles, can significantly impact the 
+Company’s financial performance if turnover rates 
+are elevated.
+5.
+Employee 
+Health, Safety, 
+and 
+Well-Being
+Risk
+Prioritising employee safety and 
+well-being is crucial for the Company, 
+as employees are its most valuable 
+asset. To ensure this, the Company 
+actively evaluates and manages 
+health and safety risks across all 
+operations.
+Safety as a Priority: Establish safety as a fundamental 
+requirement across all operations
+Health and Well-Being Measures: Implement various 
+initiatives to support employee health
+Health Awareness Programmes: Conduct programmes to 
+raise awareness about health and wellness
+Positive
+Focussing on employee health, safety, and 
+well-being can benefit the Company financially 
+by lowering accident and illness-related costs, 
+boosting 
+productivity 
+and 
+profitability, 
+and 
+enhancing talent attraction and retention.
+124
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+Sr. 
+no.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or mitigate
+Financial implications of the risk or 
+opportunity (indicate positive or negative 
+implications)
+6.
+Product 
+and Service 
+Stewardship
+Opportunity
+Product and service stewardship 
+provides significant opportunities for 
+Nazara Technologies by aligning with 
+sustainability principles, boosting 
+brand value, driving innovation, 
+engaging stakeholders, attracting 
+investors, and managing risks. By 
+embracing 
+stewardship, 
+enables 
+the Company can lead responsibly 
+in the gaming and entertainment 
+industry and contribute to a more 
+sustainable future.
+NA
+Positive
+Focussing on product and service stewardship 
+can help the Company build long-term value for 
+stakeholders—including 
+customers, 
+investors, 
+and the environment—potentially leading to 
+greater profitability and financial sustainability 
+over time.
+7.
+Climate 
+Change
+Risk
+The IT, gaming, and technology 
+sectors are key energy consumers 
+and carbon emitters. Climate change, 
+especially extreme weather events, 
+can disrupt Company operations 
+and affect employee safety and 
+well-being. Additionally, economic 
+disruptions from transition risks can 
+affect the Company’s growth and 
+profitability.
+Assess Energy Consumption: Evaluate current energy 
+usage to identify areas for improvement
+Transition to Efficient Sources: Shift towards more energy 
+efficient sources
+Stakeholder Awareness: Promote awareness of energy 
+efficiency among stakeholders
+Negative
+Climate change can drive up operational costs by 
+affecting infrastructure, data centers, and gaming 
+servers due to rising temperatures and extreme 
+weather. Additionally, increased climate-related 
+risks like natural disasters can result in increased 
+insurance costs for businesses.
+125
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+Sr. 
+no.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or mitigate
+Financial implications of the risk or 
+opportunity (indicate positive or negative 
+implications)
+8
+Customer 
+Centricity / 
+Customer 
+Satisfaction
+Risk & 
+Opportunity
+If the Company fails to prioritise 
+customer needs and preferences, it 
+may result in decreased satisfaction, 
+pushing customers to competitors 
+and 
+reducing 
+market 
+share. 
+Conversely, 
+by 
+ensuring 
+clear, 
+precise, and transparent marketing 
+communications 
+and 
+service 
+explanations, the Company can 
+strengthen customer relationships, 
+enhance trust, and improve loyalty, 
+presenting a valuable opportunity 
+for growth.
+Customer-Centric Strategies: Focus on strategies that are 
+centred around customer needs
+Listen to Feedback: Actively seek and consider customer 
+feedback
+Personalise Experiences: Customise experiences to 
+individual customer preferences
+Improve Customer Support: Enhance support services to 
+better assist customers
+Continuous Innovation: Regularly innovate to adapt to 
+evolving customer needs
+Positive
+Customer satisfaction and loyalty can significantly 
+boost profitability and open up better business 
+opportunities, contributing to financial growth.
+Negative
+Losing customers can reduce market share and 
+revenue, while customer dissatisfaction can harm 
+the Company’s reputation.
+9
+Waste 
+Management
+Risk
+The rapid growth of the gaming 
+industry 
+has 
+had 
+notable 
+environmental impacts, including 
+reliance on mined metals and plastic 
+in electronics, substantial energy 
+use for game consoles, and rising 
+concerns relating to e-waste.
+Reduce Plastic Waste: Implement measures to minimise 
+plastic waste
+Promote Recyclable Paper: Encourage the use of 
+recyclable paper products
+Visual Aids: Use visual aids to promote and support waste 
+management practices
+Replace PET Bottles: Transition away from PET plastic bottles
+Paper Shredders: Utilise shredders to recycle paper waste
+Waste Separation: Categorise waste as biodegradable and 
+non-biodegradable
+Negative
+Non-compliance with recycling and circular 
+economy regulations may result in financial 
+penalties and damage to the Company’s 
+reputation.
+126
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes 
+put in place towards adopting the NGRBC Principles and Core Elements.
+Sr. 
+no.
+Disclosure Questions
+P
+1
+P 
+2
+P 
+3
+P
+ 4
+P
+ 5
+P 
+6
+P 
+7
+P 
+8
+P
+ 9
+Policy and management processes
+1
+a.	
+Whether 
+your 
+entity’s 
+policy/policies cover each 
+principle 
+and 
+its 
+core 
+elements of the NGRBCs. 
+(Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b.	
+Has 
+the 
+policy 
+been 
+approved by the Board? 
+(Yes/No)
+Yes, certain policies may consist of both internal 
+policies of the Company, available to all internal 
+stakeholders, and those published on the Company’s 
+website.
+The policies can be accessed at the following link: 
+https://www.nazara.com/corporategovernance#two
+c.	
+Weblink of the policies, if 
+available
+2
+Whether the entity has translated 
+the policy into procedures. (Ye/
+No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3
+Do the enlisted policies extend 
+to your value chain partners? 
+(Yes/No)
+The Company’s Code of Conduct primarily embodies 
+the principles mentioned above, and the Company 
+anticipates that its stakeholders will adhere to these 
+principles in all their interactions.
+4
+Name 
+of 
+the 
+national 
+and 
+international codes/certifications/
+labels/ standards (e.g. Forest 
+Stewardship Council, Fairtrade, 
+Rainforest 
+Alliance, 
+Trustea) 
+standards (e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity 
+and mapped to each principle.
+NA
+Sr. 
+no.
+Disclosure Questions
+P
+1
+P 
+2
+P 
+3
+P
+ 4
+P
+ 5
+P 
+6
+P 
+7
+P 
+8
+P
+ 9
+5
+Specific 
+commitments, 
+goals 
+and targets set by the entity with 
+defined timelines, if any.
+Nazara Technologies has set specific commitments, 
+goals, and targets in its Environmental, Social, and 
+Governance (ESG) initiatives, each with defined 
+timelines.
+Environmental Commitments: The Company is 
+focussed on decreasing its carbon footprint and 
+reducing 
+electricity 
+consumption. 
+Additionally, 
+Nazara Technologies aims to accelerate efforts to 
+improve energy efficiency.
+Social Commitments: The Company is committed to 
+creating a work environment that promotes inclusivity 
+and diversity, encourages employee growth, and 
+enhances retention. The Company also focusses on 
+uplifting vulnerable and marginalised groups through 
+its CSR activities.
+Governance Commitments: The Company is 
+dedicated to maintaining high standards of corporate 
+governance and transparency in all its operations. 
+Nazara Technologies is committed to fostering a 
+culture of accountability, responsibility, and fairness 
+in all business dealings, and aims to continuously 
+improve its governance practices to build trust and 
+confidence among stakeholders.
+These commitments outline Nazara Technologies’ 
+goals and targets, with defined timelines to ensure 
+accountability and progress in its ESG efforts
+127
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+Sr. 
+no.
+Disclosure Questions
+P
+1
+P 
+2
+P 
+3
+P
+ 4
+P
+ 5
+P 
+6
+P 
+7
+P 
+8
+P
+ 9
+6
+Performance of the entity against 
+the specific commitments, goals 
+and targets alongwith reasons in 
+case the same are not met.
+The Company has consistently upheld its commitments 
+to business ethics and integrity by adhering to 
+stringent policies on ethical trade practices, corporate 
+governance, prevention of insider trading, and anti-
+bribery measures. This dedication to transparency 
+and responsibility extends to its non-discrimination 
+policies and corporate social responsibility initiatives, 
+ensuring ethical and sustainable business practices. 
+With regard to product responsibilities, the Company 
+prioritises customer satisfaction by maintaining high 
+standards of quality, safety, and ethics. Through 
+diligent monitoring and continuous improvement, 
+Nazara has successfully met its targets in delivering 
+innovative and reliable solutions.
+The Company’s human resource policies focus on 
+employee training and retention, fostering a high-
+performance learning culture that motivates and 
+rewards its workforce. By offering ample opportunities 
+for skill development and career advancement, 
+the Company has achieved significant success in 
+employee retention and satisfaction.
+Furthermore, the Company places great importance 
+on stakeholder engagement, actively seeking insights 
+on environmental, social, and economic issues. 
+This proactive approach has enabled the Company 
+to address critical matters effectively and align its 
+strategies with stakeholder expectations. Overall, the 
+Company has met its specific commitments, goals, 
+and targets, demonstrating continuous improvement 
+and responsiveness to emerging challenges.
+Sr. 
+no.
+Disclosure Questions
+P
+1
+P 
+2
+P 
+3
+P
+ 4
+P
+ 5
+P 
+6
+P 
+7
+P 
+8
+P
+ 9
+Governance, leadership and oversight
+7
+Statement by the director responsible for the business responsibility report, highlighting 
+ESG-related challenges, targets and achievements (listed entity has flexibility regarding 
+the placement of this disclosure)
+Nazara Technologies, a leading company in gaming and sports media, is dedicated to 
+conducting business in a responsible and sustainable manner, fully aligning our actions 
+with Environmental, Social, and Governance (ESG) responsibilities. We have implemented 
+various environmental initiatives designed to minimise waste and enhance recycling 
+efforts. These initiatives encompass the adoption of energy efficient technologies, the 
+utilisation of cloud servers for data storage, the implementation of advanced water 
+management systems, and active tree plantation efforts.
+In our special sphere, we prioritise customer satisfaction, diversity, equality, ethical 
+conduct, and community involvement. Our firm commitment to these values undercores 
+our effort to make a positive impact on both society and our stakeholders as we strive 
+to create a positive impact on society and our stakeholders.
+Maintaining effective communication with investors and shareholders is integral to 
+our corporate governance practices. We recognise that ethical business conduct, 
+efficient and transparent customer service, robust corporate governance, diligent risk 
+management, and human capital development are key ESG issues. To address these, 
+we have implemented several measures, including a Comprehensive Code of Conduct 
+and Business Ethics, the promotion of a sound risk culture, the introduction of innovative 
+products, investment in cybersecurity and information security, and the development of 
+comprehensive employee welfare policies. Additionally, we closely monitor resource 
+consumption and have established targets to reduce electricity, fuel, and paper usage.
+Our achievements in these areas reflect our commitment to ESG principles. However, 
+we acknowledge that ongoing challenges persist. The dynamic nature of environmental 
+concerns, rapid technological advancements, and evolving stakeholder expectations 
+entail continuous adaptation and refinement of our strategies.
+In conclusion, Nazara Technologies remains dedicated to sustainability and responsible 
+business practices. We will continue to strive towards achieving our ESG targets and 
+addressing challenges proactively, ensuring that our actions deliver benefits to not only 
+the Company but also the broader community and environment.
+128
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+Sr. 
+no.
+Disclosure Questions
+P
+1
+P 
+2
+P 
+3
+P
+ 4
+P
+ 5
+P 
+6
+P 
+7
+P 
+8
+P
+ 9
+8
+Details of the highest authority 
+responsible for implementing 
+and overseeing the Business 
+Responsibility policy(ies).
+DIN: 02347434
+Name: Mr. Nitish Mittersain
+Designation: Chief Executive Officer & Joint Managing 
+Director
+9
+Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision-making 
+on sustainability related issues? 
+(Yes / No). If yes, provide details.
+Yes
+Name: Mr. Nitish Mittersain
+Designation: CEO & Joint Managing Director
+DIN: 02347434
+Telephone Number: 022-4033 0800
+E-mail: nitish@nazara.com
+10
+Details of Review of NGRBCs by the Company:
+Subject for 
+review
+Indicate whether the review was 
+undertaken by Director / Committee 
+of the Board / Any other Committee
+Frequency (Annually/ Half yearly/ 
+Quarterly/ Any other – please 
+specify)
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Performance 
+against the 
+above policies 
+and follow-up 
+action
+The Company’s policies undergo periodic or need-based reviews by 
+department heads, business heads, and senior management personnel. 
+These reviews are presented to the Board of Directors as necessary. The 
+evaluation process involves a thorough assessment of the effectiveness of 
+each policy, ensuring that necessary changes to policies and procedures 
+are implemented accordingly.
+Compliance 
+with statutory 
+requirements 
+of relevance to 
+the principles, 
+and, rectification 
+of any non-
+compliances
+The Company complies with all 
+relevant regulations, with the CEO 
+& Joint Managing Director, Chief 
+Financial 
+Officer, 
+and 
+General 
+Counsel & Company Secretary 
+providing the Board of Directors with 
+a Statutory Compliance Certificate, 
+affirming adherence to applicable 
+laws.
+Quarterly
+11	
+Has the entity carried out an independent 
+assessment/evaluation of the working of its 
+policies by an external agency? (Yes/No). If yes, 
+provide the name of the agency.
+P
+P
+P
+P
+P
+P
+P
+P
+P
+1
+2
+3
+4
+5
+6
+7
+8
+9
+	
+No. The Senior Management and Board Committees of the Company regularly review 
+charters & policies and conduct internal audits to monitor its performance based on 
+corporate responsibility and sustainability aspects related to policies and projects.
+12	
+If the answer to question (1) above is ‘No’ i.e. not all principles are covered by a policy, 
+reasons to be stated
+Questions
+P
+P
+P
+P
+P
+P
+P
+P
+P
+1
+2
+3
+4
+5
+6
+7
+8
+9
+The entity does not consider the principles material to 
+its business (Yes/No)
+NA
+The entity is not at a stage where it is in a position to 
+formulate and implement the policies on specified 
+principles (Yes/No)
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No)
+It is planned to be done in the next financial year 
+(Yes/No)
+Any other reason (please specify)
+129
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the 
+Principles and Core Elements with key processes and decisions. The information sought is 
+categorised as ‘Essential’ and ‘Leadership’. While the essential indicators are expected to 
+be disclosed by every entity mandated to file this report, the leadership indicators may be 
+voluntarily disclosed by entities that aspire to progress to a higher level in their quest to be 
+socially, environmentally and ethically responsible.
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity and in a 
+manner that is Ethical, Transparent and Accountable.
+ESSENTIAL INDICATORS
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles 
+during the financial year
+Segment
+Total no of 
+training and 
+awareness 
+programmes 
+held
+Topics/Principles covered under 
+the training and impact
+% age of persons 
+in respective 
+category covered 
+by the awareness 
+programme
+Board of 
+Directors
+13
+During the reporting period, Nazara 
+Technologies held several meetings 
+with the Directors to discuss updates 
+on the Company’s performance. 
+These meetings covered a wide 
+range of business activities, including:
+•  Macroeconomic and Market Review
+•  Equity Performance
+•  Earnings Outlook
+•  Company Strategy
+•  Business Model
+•  Operations
+•  Service and Product Offerings
+•  CSR Funds
+Additionally, the Company conducted 
+familiarisation programmes for the 
+Independent Directors.
+100%
+Segment
+Total no of 
+training and 
+awareness 
+programmes 
+held
+Topics/Principles covered under 
+the training and impact
+% age of persons 
+in respective 
+category covered 
+by the awareness 
+programme
+Key 
+Managerial 
+Personnel
+3
+The Company offers comprehensive 
+orientation and on-the-job training 
+programmes 
+to 
+enhance 
+the 
+knowledge and performance of 
+its 
+employees, 
+Key 
+Managerial 
+Personnel 
+(KMPs), 
+and 
+Senior 
+Function 
+Heads. 
+These 
+training 
+sessions cover essential topics, 
+including:
+•  Prevention of Sexual Harassment 
+(POSH)
+•  Cyber Risk Management
+•  Insider Trading Awareness
+•  Overall Job Orientation
+100% of relevant 
+people
+Employees 
+other than 
+BOD & 
+KMPs
+Workers
+NA
+NA
+NA
+2.	
+Details of fines/penalties/punishment/award/compounding fees/settlement amount 
+paid in proceedings (by the entity or by directors / KMPs) with regulators/ law 
+enforcement agencies/judicial institutions, in the financial year, in the following 
+format (Note: the entity shall make disclosures on the basis of materiality as specified 
+in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 
+2015 and as disclosed on the entity’s website):	
+Monetary
+NGRBC 
+principle
+Name of the 
+regulatory/
+enforcement 
+agencies/judicial 
+institutions
+Amount 
+(in ₹)
+Brief of 
+the case
+Has an 
+appeal been 
+preferred 
+(Yes/No)
+Penalty/fine
+Nil
+Settlement
+Compounding fee
+130
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+Non-monetary
+NGRBC 
+principle
+Name of the regulatory/ 
+enforcement agencies/
+judicial institutions
+Brief of 
+the case
+Has an appeal 
+been preferred 
+(Yes/No)
+Imprisonment
+Nil
+Punishment
+3.	
+Of the instances disclosed in question 2 above, details of the appeal/revision preferred 
+in cases where monetary or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/enforcement agencies / judicial 
+institutions
+Nil
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details 
+in brief and if available, provide a web-link to the policy.
+	
+Yes, the Company has a comprehensive Anti-Corruption and Anti-Bribery Policy in place, 
+underscoring the values of honesty, integrity, quality, and trust in dealing with investors. It 
+is committed to conducting business according to the highest ethical standards. To further 
+strengthen governance in managing investors’ funds, the Company has established a 
+‘Business Responsibility Policy,’ which has been approved by the Board of Directors. 
+This policy prohibits the Company from engaging in abusive, corrupt, or anti-competitive 
+practices. All employees are required to adhere to the policy and its guidelines.
+	
+The policy can be accessed at the following link: https://cdn.prod.website-files.
+com/648939088bfc729866e83bb2/649aaf61d143c3697bab3197_business-
+responsibility-policy.pdf.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was 
+taken by any law enforcement agency for the charges of bribery/ corruption:
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+Directors
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil
+Workers
+Nil
+Nil
+6.	
+Details of complaints with regard to conflict of interest:
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+ Number
+Remark
+Number
+Remark
+Number of complaints received 
+in relation to issues of conflict of 
+interest of the directors
+Nil
+NA
+Nil
+NA
+Number of complaints received 
+in relation to issues of conflict of 
+interest of the KMPS
+Nil
+NA
+Nil
+NA
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / 
+penalties / action taken by regulators/ law enforcement agencies/ judicial institutions, 
+on cases of corruption and conflicts of interest.
+	
+Not applicable. Nazara Technologies has not faced fines, penalties, or legal actions related 
+to corruption or conflict of interest, hence no corrective actions have been necessary.
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/
+services procured) in the following format:
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+Number of days of accounts 
+payables
+157
+112
+131
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+9.	
+Openness of business
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and 
+related parties along-with loans and advances & investments, with related parties, in the 
+following format:
+Parameter
+Metrics
+FY 2023-24
+(Current 
+financial year)
+FY 2022-23
+(Previous 
+financial year)
+Concentration 
+of purchases
+a.  Purchases from trading houses 
+as % of total purchases
+NA
+NA
+b.  Number of trading houses 
+where purchases are made 
+from
+NA
+NA
+c.  Purchases from top 10 trading 
+houses as % of total purchases 
+from trading houses
+NA
+NA
+Concentration 
+of sales
+a.  Sales to dealers/distributors as 
+% of total sales
+NA
+NA
+b.  Number of dealers / distributors 
+to whom sales are made
+NA
+NA
+c.  Sales to top 10 dealers/
+distributors as % of total sales 
+to dealers/distributors
+NA
+NA
+Shares of 
+RPT in
+a.  Purchases (Purchases with 
+related parties/Total purchases)
+2.40%
+1.22%
+b.  Sales (Sales to related parties/
+Total sales)
+37.40%
+74.59%
+c.  Loans & advances (Loans & 
+advances given to related 
+parties/Total loans & advances)
+98.72%
+97.92%
+d.  Investments (Investments 
+in related parties/Total 
+investments made)
+94.40%
+98.66%
+LEADERSHIP INDICATORS
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles 
+during the financial year:
+Total no of 
+awareness 
+campaign held
+Topics / Principles 
+covered under the 
+training
+% age of value chain programme partners 
+covered (by value of business done with such 
+partners) under the awareness programmes
+NA
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests 
+involving members of the Board? (Yes/No) If Yes, provide details of the same.
+	
+Yes.
+	
+The Company has put in place a Code of Conduct for Board members and the senior 
+management to address and prevent conflict of interest involving the Board and Key 
+Management Personnel (KMPs). As mandated by the listing regulations, the senior 
+management confirms to the Board of Directors that there are no major financial or 
+commercial transactions where their personal interests could potentially conflict with the 
+Company’s overall interests.
+	
+This Code of Conduct ensures compliance with relevant laws and regulations. Additionally, 
+the Company has established a policy on related party transactions to outline guidelines 
+for identifying related parties and managing such transactions.
+	
+The policy can be accessed at the following link:
+	
+https://cdn.prod.website-files.
+com/648939088bfc729866e83bb2/649ab310248ee237b3fdafb1_code-of-conduct-for-
+board-of-directors.pdf
+132
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable 
+and safe
+ESSENTIAL INDICATORS
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific 
+technologies to improve the environmental and social impacts of product and 
+processes to total R&D and capex investments made by the entity, respectively.
+FY 2023-24 
+(Current financial 
+year)
+FY 2022-23 
+(Previous financial 
+year)
+Details of improvements 
+in environmental and 
+social impacts
+R&D
+Since Nazara’s main area of expertise lies in 
+mobile gaming and entertainment services, its 
+Capex and R&D spending was predominantly 
+geared towards technological investments. This 
+entailed incorporating IT infrastructure such 
+as equipment, software, and communication 
+networks as capital assets to fuel the Company’s 
+digital initiatives.
+NA
+Capex
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing (Yes/No)
+	
+	
+Yes.
+	
+	
+Given the Company’s focus on mobile gaming entertainment services, the scope for 
+sustainable sourcing is limited. Nonetheless, the Company is committed to procuring 
+hardware products and office equipment from suppliers who follow fair business 
+practices and respect human rights, business ethics, and environmental standards. 
+Nazara encourages its suppliers to adhere to social and environmental standards 
+such as SA 8000, ISO 14001, and ISO 45001.
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+The Company has achieved 100% sustainable sourcing of its inputs.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling 
+and disposing at the end of life, for (a) Plastics (including packaging) (b) E-waste (c) 
+Hazardous waste and (d) other waste.
+	
+Due to the nature of its business, Nazara’s waste management scope is limited, but it 
+prioritises environmental responsibility. The Company promotes recycling, partners 
+with certified e-waste handlers for proper disposal, and is considering switching to 
+biodegradable garbage bags.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities 
+(Yes / No). If yes, whether the waste collection plan is in line with the Extended 
+Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, 
+provide steps taken to address the same.
+	
+No. Extended Producer Responsibility (EPR) is not applicable for the Company as it does 
+not produce any physical products.
+	
+LEADERSHIP INDICATORS
+1.	
+Has the entity conducted Life Cycle Perspective/Assessments (LCA) for any of its 
+products (for manufacturing industry) or for its services (for service industry)? If yes, 
+provide details in the following format?
+NIC 
+Code
+Name of 
+Product/
+service
+% of total 
+turnover 
+contributed
+Boundary for 
+which the 
+Life Cycle 
+Perspective / 
+Assessment 
+was conducted
+Whether 
+conducted by 
+an independent 
+external agency 
+(Yes/No)
+Results 
+communicated 
+in the public 
+domain (Yes/No)
+If yes, provide 
+the weblink
+NA
+2.	
+If there are any significant social or environmental concerns and/or risks arising 
+from production or disposal of your products/services, as identified in the Life Cycle 
+Perspective/Assessments (LCA) or through any other means, briefly describe the 
+same along-with action taken to mitigate the same.
+Name of the Product/service
+Description of the risk/concern
+Action/taken
+NA
+133
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+3.	
+Percentage of recycled or reused input material to total material (by value) used in 
+production (for manufacturing industry) or providing services (for service industry).	
+Indicate input material
+Recycled or reused input material to total material
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+NA
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric 
+tonnes) reused, recycled, and safely disposed, as per the following format:
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Reused Recycle
+Safely 
+Disposed
+Reused Recycle
+Safely 
+Disposed
+Plastics 
+(Including packaging)
+Not Applicable 
+Nazara focusses on mobile entertainment services and 
+does not engage in manufacturing or handle physical 
+products. Despite this, the Company is committed to 
+environmental responsibility by promoting the reuse and 
+recycling of materials, collaborating with certified e-waste 
+handlers for proper disposal, and exploring the transition 
+from plastic to biodegradable garbage bags.
+E-waste
+Others - Bio-medical waste
+Others - Construction and 
+demolition waste
+Others - Battery waste
+Others - Radioactive waste
+Hazardous waste
+Other Non-hazardous waste
+Total
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) 
+for each product category.	
+Indicate product 
+category
+Reclaimed products and their packaging materials as 
+% of total products sold in the respective category
+NA
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, 
+including those in their value chains.
+ESSENTIAL INDICATORS
+1.	
+a.	
+Details of measures for the well-being of employees
+Category
+Total 
+(A)
+% of employees covered by
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number
+(F)
+% 
+(F/A)
+Permanent employees
+Male
+61
+61
+100
+NA
+Female
+13
+13
+100
+Total
+74
+74
+100
+Other than permanent employees
+Male
+NA
+Female
+Total
+	
+b.	
+Details of measures for the well-being of workers
+Category
+% of workers covered by
+Total 
+(A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+Number
+(B)
+% 
+(B/ A)
+Number 
+(C)
+% 
+(C /A)
+Number 
+(D)
+% 
+(D/ A)
+Number 
+(E)
+% 
+(E/ A)
+Number
+ (F)
+%
+(F/A)
+Permanent workers
+Male
+NA
+Female
+Total
+Other than permanent workers
+Male
+NA
+Female
+Total
+134
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+	
+c.	
+Spending on measures towards well-being of employees and workers (including 
+permanent and other than permanent) in the following format –
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+Cost incurred on well-being 
+measures as a % of total 
+revenue of the Company
+0.28
+0.14
+2.	
+Details of retirement benefits, for current financial year and previous financial year
+Benefits
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered 
+as a % 
+of total 
+workers
+Deducted 
+and 
+deposited 
+with 
+authority 
+(Y/N/N.A.)
+PF
+100%
+NA
+Y
+100
+NA
+Y
+Gratuity
+100%
+Y
+100
+Y
+ESI
+8.10%
+Y
+9.46
+Y
+Others 
+– please 
+specify
+NA
+NA
+NA
+NA
+3.	
+Accessibility of workplaces
+	
+Are the premises/offices of the entity accessible to differently abled employees and 
+workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? 
+If not, whether any steps are being taken by the entity in this regard.
+	
+Yes, the Company has ensured that its offices are accessible to employees with disabilities 
+by installing lifts, ramps, and wheelchair-friendly facilities, in compliance with the Rights of 
+Persons with Disabilities Act, 2016.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with 
+Disabilities Act, 2016? If so, provide a web-link to the policy.
+	
+Yes, the Business Responsibility Policy at Nazara promotes and supports diversity and 
+inclusivity in the workplace. The Company strictly prohibits discrimination based on 
+gender, sexual orientation, race, color, caste, creed, religion, marital status, disability, or 
+age. It guarantees equal opportunities for all candidates and ensures that promotions and 
+increases in salaries are based solely on performance, without any form of discrimination.
+	
+The policy can be accessed at the following link: https://cdn.prod.website-files.
+com/648939088bfc729866e83bb2/649aaf61d143c3697bab3197_business-
+responsibility-policy.pdf
+5.	
+Return to work and retention rates of permanent employees and workers that took 
+parental leave.
+Permanent employees
+Permanent workers
+Gender
+Return to 
+work rate
+Retention 
+rate
+Return to 
+work rate
+Retention 
+rate
+Male
+Nil
+Nil
+Female
+Total
+6.	
+Is there a mechanism available to receive and redress grievances for the following 
+categories of employees and worker? If yes, give details of the mechanism in brief.
+Yes/No
+(If Yes, then give details of the mechanism in brief)
+Permanent workers
+Nazara has established a Human Resource Policy 
+and Stakeholder Relationship Committee to address 
+and resolve any grievances or complaints raised by 
+employees and workers promptly and effectively.
+Other than permanent workers
+Permanent employees
+Other than permanent 
+employees
+135
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+7.	
+Membership of employees and workers in association(s) or Unions recognised by the 
+listed entity:
+Category
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Total 
+employees/ 
+workers 
+in the 
+respective 
+category 
+(A)
+No. of 
+employees/ 
+workers 
+in the 
+respective 
+category who 
+are part of 
+association(s) 
+or Union (B)
+%
+(B/A)
+Total 
+employees/ 
+workers 
+in the 
+respective 
+category 
+(C)
+No. of 
+employees/ 
+workers in 
+the respective 
+category who 
+are part of 
+association(s) 
+or Union (D)
+%
+(D/C)
+Total 
+permanent 
+employees
+Nazara does not have a labour union. However, the Company recognises 
+and respects employees’ rights to peaceful association and collective 
+bargaining. It also promotes open communication and direct engagement 
+between the management and employees to create a positive work 
+environment.
+Male
+Female
+Total 
+permanent 
+workers
+Male
+Female
+8.	
+Details of training given to employees and workers:
+Category
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Total 
+(A)
+On health 
+and safety 
+measures
+On skill 
+upgradation
+Total 
+(D)
+On health 
+and safety 
+measures
+On skill 
+upgradation
+No. 
+(B)
+% 
+(B/ A)
+No.
+(C)
+% 
+(C/ A)
+No. 
+(E)
+% 
+(E/D)
+No.
+(F)
+% 
+(F /D)
+Employees
+Male
+61
+Nil
+NA
+4
+6.56
+61
+61
+100.00
+Nil
+NA
+Female
+13
+Nil
+NA
+4
+30.77
+13
+13
+100.00
+Nil
+NA
+Total
+74
+Nil
+NA
+8
+10.81
+74
+74
+100.00
+Nil
+NA
+Workers
+Male
+NA
+Female
+Total
+9.	
+Details of performance and career development reviews of employees and workers:
+Category
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+61
+Nil
+NA
+61
+42
+68.85
+Female
+13
+Nil
+NA
+13
+9
+69.23
+Total
+74
+Nil
+NA
+74
+51
+68.92
+Workers
+Male
+NA
+Female
+Total
+136
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+10.	 Health and safety management system:
+	
+a)	
+Whether an occupational health and safety management system has been 
+implemented by the entity? (Yes/ No). If yes, the coverage such system?
+	
+	
+The Company ensures its employees receive comprehensive safety training, 
+including regular sessions on fire safety and evacuation procedures at its offices. 
+The Company also engages healthcare specialists to improve awareness around 
+mental health, nutrition, resilience, and effective communication with team members.
+	
+b)	
+What are the processes used to identify work-related hazards and assess risks 
+on a routine and non-routine basis by the entity?
+	
+	
+While this may not be directly relevant to the business, the Company remains 
+dedicated to maintaining a safe work environment.
+	
+c)	
+Whether you have processes for workers to report the work related hazards and 
+to remove themselves from such risks. (Y/N)
+	
+	
+The Company provides its employees with access to non-occupational medical and 
+healthcare services, with first aid kits consistently available on-site. Additionally, the 
+Company has enhanced its employee benefits to focus on health and well-being, 
+including group term insurance and personal accident insurance. Emergency vehicles 
+are also readily accessible at the corporate headquarters in case of emergencies.
+	
+d)	
+Do the employees/worker of the entity have access to non-occupational medical 
+and healthcare services? (Yes/ No)
+	
+	
+Yes, all the employees of the Company are covered under a Medical Insurance 
+Policy.
+11.	
+Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2023-24 
+(Current 
+financial year)
+FY 2022-23 
+(Previous 
+financial year)
+Lost Time Injury Frequency Rate (LTIFR) 
+(per one million person-hours worked)
+Employees
+Nil
+Nil
+Workers
+Total recordable work-related injuries
+Employees
+Workers
+Safety Incident/Number
+Category
+FY 2023-24 
+(Current 
+financial year)
+FY 2022-23 
+(Previous 
+financial year)
+No. of fatalities
+Employees
+Nil
+Nil
+Workers
+High-consequence work-related injury 
+or ill-health (excluding fatalities)
+Employees
+Workers
+12.	 Describe the measures taken by the entity to ensure a safe and healthy work place.
+	
+Understanding the crucial role a healthy work environment plays in employee motivation, 
+productivity, and overall well-being, the Company has taken extensive steps to ensure 
+its offices are both safe and conducive to good health. These measures include keeping 
+fire safety equipment in excellent condition via an annual maintenance contract and 
+conducting regular tests to verify their functionality.
+13.	 Number of Complaints on the following made by employees and workers:
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Working 
+conditions
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Health & safety
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+14.	 Assessments for the year:
+% of your plants and offices that were assessed
+(by entity or statutory authorities or third parties)
+Health and safety practices
+100 for offices were assessed
+Working conditions
+100 for offices were assessed
+137
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+15.	 Provide details of any corrective action taken or underway to address safety-related 
+incidents (if any) and on significant risks/concerns arising from assessments of health 
+& safety practices and working conditions.
+	
+NA
+LEADERSHIP INDICATORS
+1.	
+Does the entity extend any life insurance or any compensatory package in the event 
+of the death of (A) Employees (Y/N) (B) Workers (Y/N).
+	
+(A)	 Employees - Y		
+(B)	 Workers - NA
+	
+Nazara provides various employee benefits including term life insurance, health insurance, 
+provident fund, gratuity, and superannuation. Additionally, the Company’s group medical 
+insurance covers all employees and their families, including spouses and children.
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have 
+been deducted and deposited by the value chain partners.
+	
+The Company guarantees that its value chain partners adhere to applicable laws and 
+regulations by properly deducting and depositing statutory dues. Furthermore, the 
+Company requires all value chain partners to uphold its Code of Conduct, Business 
+Responsibility principles, and values.
+3.	
+Provide the number of employees/workers having suffered high consequence work-
+related injury/ill-health/fatalities (as reported in Q11 of Essential Indicators above), 
+who have been are rehabilitated and placed in suitable employment or whose family 
+members have been placed in suitable employment:
+Total no. of affected employees/
+workers
+No. of employees/workers that 
+are rehabilitated and placed in 
+suitable employment or whose 
+family members have been 
+placed in suitable employment
+FY 2023-24 
+(Current 
+financial year)
+FY 2022-23 
+(Previous 
+financial year)
+FY 2023-24 
+(Current 
+financial year)
+FY 2022-23 
+(Previous 
+financial year)
+Employees
+Nil
+Workers
+4.	
+Does the entity provide transition assistance programmes to facilitate continued 
+employability and the management of career endings resulting from retirement or 
+termination of employment? (Yes/No)
+	
+The Company has implemented a retirement policy specifying the terms of retirement for 
+employees and subsequent engagement opportunities with the Company. The Company 
+strongly emphasises on employee training and development, ensuring they remain highly 
+skilled and employable even after retirement or termination.
+5.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done 
+with such partners) that were assessed
+Health and safety practices
+Although these parameters are not explicitly measured, 
+Nazara expects its value chain partners to comply with 
+existing regulations, including fair labour practices and 
+maintaining healthy and safe working conditions.
+Working conditions
+6.	
+Provide details of any corrective actions taken or underway to address significant 
+risks /concerns arising from assessments of health and safety practices and working 
+conditions of value chain partners.
+	
+NA
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all their 
+stakeholders.
+ESSENTIAL INDICATORS
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+The Company identifies key stakeholders based on their relevance and ability to add value 
+to its activities, products, and services. Regular communication with these stakeholders 
+is essential, with inclusiveness being central to Nazara’s core business strategy. The key 
+stakeholders recognised by the Company include:
+	
+•	
+Gaming enthusiasts (Customers)
+	
+•	
+Investors and shareholders
+	
+•	
+Employees
+	
+•	
+Vendors
+	
+•	
+Communities
+138
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+2.	
+List stakeholder groups identified as key for your entity and the frequency of 
+engagement with each stakeholder group.
+Stakeholder 
+group
+Whether 
+identified as 
+vulnerable & 
+marginalised 
+group (Yes/
+No)
+Channels of 
+communication
+(Email, SMS, 
+newspaper, pamphlets, 
+advertisement, 
+community meetings, 
+notice board, website), 
+other
+Frequency of 
+engagement
+(Annually/
+Half yearly/ 
+Quarterly/
+others – 
+please specify)
+Purpose and 
+scope of 
+engagement, 
+including key 
+topics and 
+concerns raised 
+during such 
+engagement
+Gaming 
+enthusiasts 
+(Customers)
+No
+E-mails, social media & 
+other digital platforms, 
+advertisements and the 
+Company’s website
+Ongoing and 
+need-based
+•  Customer 
+Service and 
+feedback on 
+products/
+services
+•  Staying 
+informed 
+about gaming 
+features, 
+benefits, and 
+risks
+Investors & 
+shareholders
+No
+Quarterly earnings 
+calls, E-mails, 
+SMS, newspaper, 
+advertisement, notices, 
+website, Annual General 
+Meeting, intimation 
+to stock exchanges, 
+annual/quarterly 
+financials and investor 
+meetings/conferences, 
+investor presentation, 
+press release, annual 
+reports, and many 
+others
+At least 
+quarterly and 
+need-based
+•  Provide 
+updates on 
+the latest 
+developments 
+within the 
+Company and 
+the industry
+•  Address any 
+concerns or 
+grievances
+•  Monitor the 
+Company's 
+performance
+Stakeholder 
+group
+Whether 
+identified as 
+vulnerable & 
+marginalised 
+group (Yes/
+No)
+Channels of 
+communication
+(Email, SMS, 
+newspaper, pamphlets, 
+advertisement, 
+community meetings, 
+notice board, website), 
+other
+Frequency of 
+engagement
+(Annually/
+Half yearly/ 
+Quarterly/
+others – 
+please specify)
+Purpose and 
+scope of 
+engagement, 
+including key 
+topics and 
+concerns raised 
+during such 
+engagement
+Employees
+No
+E-mails, direct 
+interactions, conference 
+calls, one on one 
+discussions
+Ongoing and 
+need-based
+•  Provide training 
+and career 
+development 
+programmes
+•  Conduct 
+performance 
+reviews and 
+appraisals
+•  Resolve any 
+grievances and 
+concerns
+Vendors
+No
+Emails and phone
+As and when 
+required
+•  Business 
+requirements
+Communities
+Yes
+CSR organisations
+Regular
+•  CSR activities
+LEADERSHIP INDICATORS
+1.	
+Provide the processes for consultation between stakeholders and the Board on 
+economic, environmental, and social topics or if consultation is delegated, how is 
+feedback from such consultations provided to the Board.
+	
+The Company recognises that its growth and value creation are closely tied to its 
+stakeholders. It is committed to engaging with them in a proactive and meaningful manner 
+throughout the year. This engagement helps address stakeholders’ interests, concerns, 
+and competing expectations in a responsible way. Nazara is currently strengthening 
+its consultation process for ESG issues and the factors influencing them, ensuring that 
+feedback from these consultations is appropriately communicated to the Board.
+139
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+2.	
+Whether stakeholder consultation is used to support identifying and managing 
+environmental and social topics (Yes / No). If so, provide details of instances as to 
+how the inputs received from stakeholders on these topics were incorporated into 
+policies and activities of the entity.
+	
+The Company’s Board is actively engaged in identifying and gathering data on key ESG 
+factors in collaboration with employees and stakeholders.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the 
+concerns of vulnerable/marginalised stakeholder groups.
+	
+Nazara supports various CSR projects focussed on vulnerable and marginalised groups 
+such as slum communities, domestic workers, underprivileged children, daily wage 
+workers, migrant labourers, the elderly, cancer patients and their families, and tribal 
+communities. Going forward, the Company plans to expand its support to include residents 
+of aspirational districts identified by government bodies.
+PRINCIPLE 5: Businesses should provide goods and services in a manner that is sustainable 
+and safe
+ESSENTIAL INDICATORS
+1.	
+Employees and workers who have been provided training on human rights issues and 
+policy(ies) of the entity in the following format	
+Category
+FY 2023-24
+ (Current financial year)
+FY 2022-23 
+(Previous financial year)
+Total 
+(A)
+No. of 
+employees 
+/workers 
+covered (B)
+% 
+(B / A)
+Total 
+(C)
+No. of 
+employees 
+/workers 
+covered (D)
+% 
+(D / C)
+Employees
+Permanent
+74
+74
+100.00
+74
+74
+100.00
+Other than 
+permanent
+NA
+NA
+Total employees
+74
+74
+100.00
+74
+74
+100.00
+Category
+FY 2023-24
+ (Current financial year)
+FY 2022-23 
+(Previous financial year)
+Total 
+(A)
+No. of 
+employees 
+/workers 
+covered (B)
+% 
+(B / A)
+Total 
+(C)
+No. of 
+employees 
+/workers 
+covered (D)
+% 
+(D / C)
+Workers
+Permanent
+NA
+Other than 
+permanent
+Total workers
+2.	
+Details of minimum wages paid to employees and workers in the following format:	
+Category
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+Total 
+(A)
+Equal to 
+minimum 
+wage
+More than 
+minimum 
+wage
+Total
+(D)
+Equal to 
+minimum 
+wage
+More than 
+minimum 
+wage
+No.
+(B)
+%
+(B/ A)
+No.
+(C)
+%
+(C/ A)
+No.
+(E)
+%
+(E/D)
+No.
+(F)
+%
+(F/D)
+Employees
+Permanent
+74
+0
+0
+74
+100.00
+74
+0
+0
+74
+100.00
+Male
+61
+0
+0
+61
+100.00
+61
+0
+0
+61
+100.00
+Female
+13
+0
+0
+13
+100.00
+13
+0
+0
+13
+100.00
+Other than 
+permanent
+NA
+Male
+Female
+Workers
+Permanent
+NA
+Male
+Female
+140
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+Category
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+Total 
+(A)
+Equal to 
+minimum 
+wage
+More than 
+minimum 
+wage
+Total
+(D)
+Equal to 
+minimum 
+wage
+More than 
+minimum 
+wage
+No.
+(B)
+%
+(B/ A)
+No.
+(C)
+%
+(C/ A)
+No.
+(E)
+%
+(E/D)
+No.
+(F)
+%
+(F/D)
+Other than 
+permanent
+NA
+Male
+Female
+3.	
+Details of remuneration/salary/wages
+	
+a.	
+Median remuneration/wages:
+Male
+Female
+Number
+Median 
+remuneration/ 
+salary/wages of 
+the respective 
+category
+(₹ in Lakhs)
+Number
+Median 
+remuneration/
+salary/ wages of 
+the respective 
+category
+(₹ in Lakhs)
+Board of Directors 
+(BoD)**
+2
+275.23
+0*
+NA
+Key Managerial 
+Personnel#
+2
+87.22
+1
+8.55
+Employees other 
+than BoD and KMP
+70
+4.63
+14
+5.26
+Workers
+NA
+	
+	
+Note:
+	
+	
+* Sitting fees paid to Independent Directors & Non-Executive Non-Independent 
+Directors is not included for calculation of Median remuneration of BoD
+	
+	
+** Women Director is an Independent Director
+	
+	
+# In KMPs, a Chairman and Managing Director and a Jt. Managing Director and Chief 
+Executive Officer are not covered, as they are covered under BOD
+	
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the 
+following format:
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+Gross wages paid to 
+females as % of total wages
+13.27
+6.75
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human 
+rights impacts or issues caused or contributed to by the business? (Yes/No)
+	
+Yes, the Company has designated the Head of the Human Resource Department to 
+handle human rights issues and impacts. The Company’s Human Rights Policy mandates 
+that all relevant stakeholders comply with the principles specified in the policy.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human 
+rights issues.
+	
+The Company has established an internal mechanism within its HR Policy to address 
+grievances related to human rights issues promptly. This process ensures adherence to 
+human rights principles, including non-discrimination among employees and providing a 
+redressal mechanism for key stakeholders. The Company’s Code of Conduct supports 
+and upholds human rights, and the Company fully complies with human rights laws 
+and guidelines as outlined by the Indian Constitution, national laws, and policies. All 
+stakeholders and customers are treated with dignity, respect, and understanding.
+141
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Sexual 
+harassment
+Nil
+NA
+Nil
+NA
+Discrimination at 
+workplace
+Child labour
+Forced labour/
+Involuntary 
+labour
+Wages
+Other human 
+rights-related 
+issues
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, 
+Prohibition and Redressal) Act, 2013, in the following format:
+FY 2023-24
+(Current financial 
+year)
+FY 2022-23
+(Previous financial 
+year)
+Total Complaints reported under Sexual 
+Harassment on of Women xat Workplace 
+(Prevention, Prohibition and Redressal) 
+Act, 2013 (POSH)
+Nil
+Nil
+Complaints on POSH as a % of female 
+employees/ workers
+NA
+NA
+Complaints on POSH upheld
+NA
+NA
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination 
+and harassment cases.
+	
+Yes, the Company is committed to fostering a work environment free from all forms of 
+discrimination and sexual harassment. To prevent and address these issues, the Company 
+has implemented a Whistle Blower Policy that includes sections on Anti-Discrimination 
+and Prevention of Sexual Harassment (POSH). These policies provide a mechanism for 
+reporting sexual harassment complaints, ensuring that employees can do so without fear 
+of retaliation, regardless of their gender or sexual orientation. We maintain a zero-tolerance 
+stance on sexual harassment and are dedicated to addressing all reported cases. An 
+Internal Committee has been established to thoroughly investigate each complaint and 
+ensure appropriate corrective measures are taken.
+9.	
+Do human rights requirements form part of your business agreements and contracts? 
+(Yes/No)
+	
+Yes, the Company includes human rights requirements in certain business agreements 
+and contracts where applicable.
+10.	 Assessments for the year:
+% of your plants and offices that were assessed (by the entity 
+or statutory authorities or third parties)
+Child labour
+The Company adheres to all rules and regulations outlined in 
+labour laws and strictly prohibits any form of child labour or forced 
+labour in its hiring and operations.
+Forced/involuntary 
+labour
+Sexual harassment
+100%
+A quarterly update on complaints pertaining to sexual harassment 
+is presented to the Board.
+Discrimination at 
+workplace
+100%
+The Company ensures internal monitoring to comply with all 
+applicable laws and policies regarding the mentioned issues.
+Wages
+100%
+The Company maintains a strong internal process to ensure 
+adherence to minimum wages. Regular HR audits and client-
+specific audits are conducted to monitor compliance.
+Others – please 
+specify
+NA
+142
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+11.	
+Provide details of any corrective actions taken or underway to address significant 
+risks / concerns arising from the assessments at question 9 above.
+	
+There were no audit concerns in the above areas from assessments in FY 2023-24.
+	
+LEADERSHIP INDICATORS
+1.	
+Details of a business process being modified / introduced as a result of addressing 
+human rights grievances/complaints.
+	
+No. The Company has not received any grievances or complaints and hence has not 
+perceived any obligation to introduce changes in its business processes. The Board has 
+set up a Stakeholders’ Relationship Committee which works to resolve any such queries, 
+complaints or grievances.
+2.	
+Details of the scope and coverage of any Human rights due-diligence conducted.
+	
+Nazara does not currently carry out specific human rights due diligence. However, the 
+Company’s Code of Conduct and Whistle Blower Policies encompass broad human rights 
+protocols, which are diligently observed and respected.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016?
+	
+Yes, the offices of the Company have lifts and ramps, as well as provisions for wheelchairs 
+to ensure accessibility to visitors with disabilities.
+4.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business 
+done with such partners) that were assessed
+Sexual harassment
+Nazara hasn’t conducted rights assessments of 
+value chain partners. Nevertheless, the Company 
+expects its partners to adhere to its values and 
+ethical standards.
+Discrimination at workplace
+Child labour
+Forced labour/Involuntary labour
+Wages
+Others – Please specify
+5.	
+Provide details of any corrective actions taken or underway to address significant 
+risks / concerns arising from the assessments at question 4 above.
+	
+Not Applicable
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the 
+environment.
+	
+ESSENTIAL INDICATORS
+1.	
+Details of total energy consumption (in joules or multiples) and energy intensity in the 
+following format:
+Parameter
+FY 2023-24 
+(Current financial 
+year)
+FY 2022-23 
+(Previous 
+financial year)
+From renewable sources
+Total electricity consumption (A)
+-
+-
+Total fuel consumption (B)
+-
+-
+Energy consumption through other sources (C)
+-
+-
+Total energy consumed from renewable 
+sources (A+B+C)
+-
+-
+From non-renewable sources
+Total electricity consumption (D) (in GJ)
+338.58
+366.68
+Total fuel consumption (E) (in GJ)
+ 281.14
+281.14
+Energy consumption through other sources (F) 
+(in GJ)
+Nil
+Nil
+Total energy consumed from non-renewable 
+sources (D+E+F) (in GJ)
+619.72
+647.82
+Total energy consumed (A+B+C+D+E+F) (in GJ)
+619.72
+647.82
+Energy intensity per rupee of turnover (Total 
+energy consumption in GJ /Revenue from 
+operations in ` Lakhs)
+0.27
+0.28
+Energy intensity per rupee of turnover 
+adjusted for Purchasing Power Parity (PPP)
+(Total energy consumed in GJ/Revenue from 
+operations in ` Lakhs adjusted for PPP)
+0.07
+0.04
+Energy intensity in terms of physical output
+(Total energy consumed in GJ/Employee)
+8.37
+8.75
+Energy intensity (optional) – the relevant metric 
+may be selected by the entity
+NA
+NA
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out 
+by an external agency? (Y/N) If yes, the name of the external agency.: No
+143
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+2.	
+Does the entity have any sites/facilities identified as designated consumers (DCs) 
+under the Performance, Achieve and Trade (PAT) Scheme of the Government of India? 
+(Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. 
+In case targets have not been achieved, provide the remedial action taken, if any. 
+	
+Not Applicable
+3.	
+Provide details of the following disclosures related to water in the following format:
+Parameter
+FY 2023-24
+(Current financial 
+year)
+FY 2022-23
+(Previous financial 
+year)
+Water withdrawal by source (in kilolitres)
+(i)	
+Surface water
+Water consumption in the Company’s 
+office is solely for human consumption, 
+and the Company promotes responsible 
+water practices. While there is no formal 
+water monitoring system in place, energy 
+efficient faucets and fixtures are installed 
+to encourage careful use. The Company 
+is working on collecting data to further 
+reduce water wastage. Additionally, as 
+the Company leases its premises, it does 
+not have access to the water bill.
+(ii)	
+Groundwater
+(iii)	
+Third-party water
+(iv)	 Seawater/Desalinated water
+(v)	
+Others
+Total volume of water withdrawal 
+(in kilolitres) (i + ii + iii + iv + v)
+Total volume of water consumption 
+(in kilolitres)
+Water intensity per rupee of turnover 
+(Water consumed/turnover)
+Water intensity per rupee of turnover 
+adjusted for Purchasing Power Parity 
+(PPP)
+(Total water consumption/ Revenue from 
+operations adjusted for PPP)
+Water intensity in terms of physical output
+Water intensity (optional) – the entity may 
+select the relevant metric
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out 
+by an external agency? (Y/N) If yes, the name of the external agency. - No
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY 2023-24
+(Current financial 
+year)
+FY 2022-23
+(Previous financial 
+year)
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	
+To Surface water
+NA
+No treatment
+With treatment – please specify level of 
+treatment
+(ii)	
+To Groundwater
+No treatment
+With treatment – please specify level of 
+treatment
+(iii)	 To Seawater
+No treatment
+With treatment – please specify level of 
+treatment
+(iv)	 Sent to third-parties
+No treatment
+With treatment – please specify level of 
+treatment
+(v)	
+Others
+No treatment
+With treatment – please specify level of 
+treatment
+Total water discharged (in kilolitres)
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide 
+details of its coverage and implementation.
+	
+As the Company restricts water usage to human consumption only and has not adopted a 
+zero liquid discharge system. However, it has implemented various measures to promote 
+responsible water consumption.
+144
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity in the 
+following format
+Parameter
+Please 
+specify 
+unit
+FY 2023-24 
+(Current financial 
+year)
+FY 2022-23 
+(Previous 
+financial year)
+NOx
+NA
+SOx
+Particulate matter (PM)
+Persistent organic pollutants (POP)
+Volatile organic compounds (VOC)
+Hazardous air pollutants (HAP)
+Others – please specify
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out 
+by an external agency? (Y/N) If yes, the name of the external agency. - No
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & their 
+intensity in the following format:
+Parameter
+Unit
+FY 2023-24 
+(Current financial 
+year)
+FY 2022-23 
+(Previous 
+financial year)
+Total Scope 1 emissions 
+(Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+Metric tonnes 
+of CO2 
+equivalent
+20.43
+21.11
+Total Scope 2 emissions
+(Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+Metric tonnes 
+of CO2 
+equivalent
+77.12
+83.52
+Parameter
+Unit
+FY 2023-24 
+(Current financial 
+year)
+FY 2022-23 
+(Previous 
+financial year)
+Total Scope 1 and Scope 
+2 emissions per rupee of 
+turnover
+tCO2e/` in 
+Lakhs
+0.04
+0.05
+Total Scope 1 and Scope 2 
+emission intensity per rupee 
+of 
+turnover 
+adjusted 
+for 
+Purchasing Power Parity (PPP)
+(Total Scope 1 and Scope 2 
+GHG emissions / Revenue 
+from operations adjusted for 
+PPP)
+tCO2e/` 
+in Lakhs 
+adjusted for 
+PPP
+0.01
+0.01
+Total Scope 1 and Scope 2 
+emission intensity in terms 
+of physical output
+tCO2e/
+Employee
+1.32
+1.41
+Total Scope 1 and Scope 2 
+emission intensity (optional) 
+– the entity may select the 
+relevant metric
+NA
+NA
+NA
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out 
+by an external agency? (Y/N) If yes, the name of the external agency. - No
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If 
+yes, then provide details.
+	
+No. The Company plans to gather data on Green House Gas emissions but currently has 
+no active projects focussed on reducing these emissions.
+145
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24 
+(Current financial 
+year)
+FY 2022-23 
+(Previous 
+financial year)
+Total waste generated (in metric tonnes)
+Plastic waste (A)
+Nil
+E-waste (B)
+Bio-medical waste (C)
+Construction and demolition waste (D)
+Battery waste (E)
+Radioactive waste (F)
+Other hazardous waste. Please specify, 
+if any. (G)
+Other non-hazardous waste generated (H). 
+Please specify, if any.
+(Break-up by composition i.e. by materials 
+relevant to the sector)
+Total (A+B + C + D + E + F + G + H)
+Waste intensity per rupee of turnover
+(Total waste generated/Revenue from 
+operations)
+Waste intensity per rupee of turnover 
+adjusted for Purchasing Power Parity (PPP)
+(Total waste generated/Revenue from 
+operations adjusted for PPP)
+Waste intensity in terms of physical output
+Waste intensity (optional) – the relevant 
+metric may be selected by the entity
+Parameter
+FY 2023-24 
+(Current financial 
+year)
+FY 2022-23 
+(Previous 
+financial year)
+For each category of waste generated, total waste recovered through recycling, 
+re-using or other recovery operations (in metric tonnes)
+Category of waste
+(i)	
+Recycled
+Nil
+(ii)	
+Re-used
+(iii)	
+Other recovery operations
+Total
+For each category of waste generated, total waste disposed by nature of disposal 
+method (in metric tonnes)
+Category of waste
+(i)	
+Incineration
+Nil
+(ii)	
+Landfilling
+(iii)	
+Other disposal operations
+Total
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out 
+by an external agency? (Y/N) If yes, the name of the external agency. - No
+10.	 Briefly describe the waste management practices adopted in your establishments. 
+Describe the strategy adopted by your Company to reduce usage of hazardous and 
+toxic chemicals in your products and processes and the practices adopted to manage 
+such wastes.
+	
+Given the nature of the Company’s business, it does not generate hazardous or toxic 
+chemicals. To manage non-hazardous waste effectively, the Company is committed to 
+reducing, reusing, and recycling waste materials whenever possible and closely monitors 
+progress in these areas. Additionally, it partners with certified e-waste handlers to ensure 
+proper disposal of electronic waste. As part of its waste management strategy, the 
+Company is also exploring the transition from plastic garbage bags to biodegradable 
+alternatives.
+146
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+11.	
+If the entity has operations/offices in/around ecologically sensitive areas (such as 
+national parks, wildlife sanctuaries, biosphere reserves, wetlands, biodiversity 
+hotspots, forests, coastal regulation zones etc.) where environmental approvals / 
+clearances are required, please specify details in the following format:
+S. 
+No.
+Location of 
+operations/offices
+Type of 
+operations
+Whether the conditions of 
+environmental approval / clearance are 
+being complied with? (Y/N)
+If no, the reasons thereof and 
+corrective action taken, if any.
+No. None of the offices of Nazara are located in or around ecologically sensitive areas.
+12.	 Details of environmental impact assessments of projects undertaken by the entity 
+based on applicable laws in the current financial year
+Name 
+and brief 
+details of 
+project
+EIA 
+Notification 
+No.
+Date
+Whether 
+conducted by 
+an independent 
+external agency 
+(Yes / No)
+Results 
+communicated 
+in the public 
+domain
+(Yes / No)
+Relevant 
+Weblink
+NA
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines 
+in India; such as the Water (Prevention and Control of Pollution) Act, Air (Prevention 
+and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). 
+If not, provide details of all such non-compliances, in the following format:
+	
+Yes, the Company is compliant with the applicable environmental law/ regulations/
+guidelines in India.
+S. 
+No.
+Specify the law/
+regulation/guidelines 
+which were not 
+complied with
+Provide 
+details of 
+the non-
+compliance
+Any fines/penalties 
+/action taken by 
+regulatory agencies 
+such as Pollution Control 
+Boards or by courts
+Corrective 
+action taken, 
+if any
+NA
+LEADERSHIP INDICATORS
+1.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+For each facility/plant located in areas of water stress, provide the following 
+information:
+	
+(i)	
+Name of the area
+	
+(ii)	
+Nature of operations
+	
+(iii)	 Water withdrawal, consumption and discharge in the following format:
+	
+	
+Not Applicable
+	
+	
+The Company’s office is not located in any of the water stressed areas.
+Parameter
+FY 2023-24
+(Current financial 
+year)
+FY 2022-23
+(Previous 
+financial year)
+Water withdrawal by source (in kilolitres)
+(i)	
+Surface water
+NA
+(ii)	
+Groundwater
+(iii)	
+Third-party water
+(iv)	 Seawater/Desalinated water
+(v)	
+Others
+Total volume of water withdrawal 
+(in kilolitres)
+Total volume of water consumption 
+(in kilolitres)
+Water intensity per rupee of turnover 
+(Water consumed/ turnover)
+Water intensity (optional) – the entity 
+may select the relevant metric
+147
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+Parameter
+FY 2023-24
+(Current financial 
+year)
+FY 2022-23
+(Previous 
+financial year)
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	
+Into Surface water
+NA
+	
+No treatment
+	
+With treatment – please specify the 
+level of treatment
+(ii)	
+Into groundwater
+	
+No treatment
+	
+With treatment – please specify the 
+level of treatment
+(iii)	 Into seawater
+	
+No treatment
+	
+With treatment – please specify the 
+level of treatment
+(iv)	 Sent to third-parties
+	
+No treatment
+	
+With treatment – please specify the 
+level of treatment
+(v)	
+Others
+	
+No treatment
+	
+With treatment – please specify the 
+level of treatment
+Total water discharged (in kilolitres)
+	
+	
+Note: Indicate if any independent assessment/evaluation/assurance carried out by 
+an external agency? (Y/N) If yes, the name of the external agency. - No
+2.	
+Please provide details of total Scope 3 emissions & their intensity in the following 
+format:
+Parameter
+Unit
+FY 2023-24
+(Current 
+financial year)
+FY 2022-23
+(Previous 
+financial year)
+Total Scope 3 emissions
+(Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+NA
+Total Scope 3 emissions per rupee of 
+turnover
+Total Scope 3 emission intensity 
+(optional) – the entity may select the 
+relevant metric
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out 
+by an external agency? (Y/N) If yes, the name of the external agency. - No
+3.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential 
+Indicators above, provide details of significant direct & indirect impact of the entity on 
+biodiversity in such areas along-with prevention and remediation activities.
+	
+NA
+4.	
+If the entity has undertaken any specific initiatives or used innovative technology or 
+solutions to improve resource efficiency, or reduce impact due to emissions / effluent 
+discharge / waste generated, please provide details of the same as well as outcome 
+of such initiatives, as per the following format:
+Sr. 
+no
+Initiative 
+undertaken
+Details of the initiative (weblink, if any, 
+may be provided alongwith summary)
+Outcome of the 
+initiative
+Yes, the Company consistently employs innovative technology to enhance user 
+satisfaction. The Company’s operations do not significantly impact resource efficiency, 
+emissions, effluent discharge, or waste generation. It proactively addresses waste 
+management by segregating wet and dry waste, utilising energy efficient solutions, and 
+promoting sustainable waste management practices.
+148
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+5.	
+Does the entity have a business continuity and disaster management plan? Give 
+details in 100 words/weblink.
+	
+Yes, Nazara has implemented a Risk Management Policy designed to ensure sustainable 
+growth and stability in the face of potential disruptions. This policy provides a structured 
+approach to managing risks across critical functions such as development, IT services, 
+and customer support. It includes a comprehensive risk management framework that 
+identifies key issues and outlines strategies for addressing them, ensuring the Company 
+is well-prepared for various disruptions and maintains effective business continuity.
+	
+The policy can be accessed at the following weblink: https://cdn.prod.website-files.
+com/648939088bfc729866e83bb2/649ab0f8c852897548c38b8f_risk-management-
+policy.pdf
+6.	
+Disclose any significant adverse impact to the environment, arising from the value 
+chain of the entity. What mitigation or adaptation measures have been taken by the 
+entity in this regard.
+	
+Not applicable. Since Nazara offers mobile entertainment services to mobile operators 
+and is not involved in manufacturing, its value chain does not result in significant adverse 
+environmental impacts. As a result, no specific mitigation or adaptation measures are 
+required.
+7.	
+Percentage of value chain partners (by value of business done with such partners) 
+that were assessed for environmental impacts.
+	
+NA
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, 
+should do so in a manner that is responsible and transparent.
+ESSENTIAL INDICATORS
+1.	
+a.	
+Number of affiliations with trade and industry chambers/associations.
+	
+	
+2
+	
+b.	
+List the top 10 trade and industry chambers/associations (determined based on 
+the total members of such body) the entity is a member of/affiliated to.
+S. 
+no.
+Name of the trade and industry chambers/
+associations
+Reach of trade and 
+industry chambers/
+associations 
+(State/National)
+1.
+Internet & Mobile Association of India (IAMAI)
+National
+2.
+Telangana VFX Animation And Gaming Association
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to 
+anti-competitive conduct by the entity, based on adverse orders from regulatory 
+authorities
+Name of authority
+Brief of the case
+Corrective action taken
+NA
+LEADERSHIP INDICATORS
+1.	
+Details of public policy positions advocated by the entity:
+S. 
+no.
+Public 
+policy 
+advocated
+Method 
+resorted 
+for such 
+advocacy
+Whether 
+information 
+available in the 
+public domain? 
+(Yes/No)
+Frequency of review 
+by board
+(Annually/Half yearly/
+Quarterly / Others – 
+please specify)
+Weblink, if 
+available
+NA
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development.
+ESSENTIAL INDICATORS
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based 
+on applicable laws, in the current financial year.
+Name 
+and brief 
+details 
+of the 
+project
+SIA 
+notification 
+no.
+Date of 
+notification
+Whether 
+conducted by 
+an independent 
+external agency 
+(Yes/No)
+Results 
+communicated 
+in the public 
+domain 
+(Yes/No)
+Relevant 
+weblink
+NA
+149
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement 
+(R&R) is being undertaken by your entity, in the following format
+S. 
+no.
+Name of the 
+project for which 
+R&R is ongoing
+State
+District
+No. of Project 
+Affected 
+Families (PAFs)
+% of PAFs 
+covered 
+by R&R
+Amounts paid 
+to PAFs in the 
+FY (in ₹)
+NA
+3.	
+Describe the mechanisms to receive and redress grievances of the community
+	
+Due to the nature of the business, this is not applicable, as the Company’s community 
+engagement is confined to its CSR activities.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+Directly sourced from MSMEs/
+Small producers
+Given the nature of its business, the Company 
+strives to procure its hardware and office equipment 
+from local vendors to maximise the share of locally 
+sourced materials.
+Directly from within India
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including 
+employees or workers employed on a permanent or non-permanent/on contract 
+basis) in the following locations, as % of total wage cost
+Location
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+Rural
+NA
+Semi-urban
+Urban
+Metropolitian
+	
+(Categorised as per RBI Classification System - rural/semi-urban/urban/metropolitan)
+LEADERSHIP INDICATORS
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in 
+the Social Impact Assessments (Reference: Question 1 of Essential Indicators above)
+Details of negative social impact identified
+Corrective action taken
+The Company’s products and services are designed to avoid any negative social effects. 
+It places a strong focus on ensuring customer satisfaction while also making a positive 
+social impact.
+2.	
+Provide the following information on CSR projects undertaken by your entity in 
+designated aspirational districts as identified by government bodies
+S. no.
+State
+Aspirational district
+Amount spent (in ₹)
+NA
+3.	
+(a)	
+Do you have a preferential procurement policy where you give preference to 
+purchase from suppliers comprising marginalised/vulnerable groups? (Yes/No) - 
+	
+	
+No
+	
+(b)	 From which marginalised/vulnerable groups do you procure? 
+	
+	
+NA
+	
+(c)	
+What percentage of total procurement (by value) does it constitute? 
+	
+	
+NA
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or 
+acquired by your entity (in the current financial year), based on traditional knowledge:-
+S. 
+no.
+Intellectual Property 
+based on traditional 
+knowledge
+Owned/
+Acquired 
+(Yes/No)
+Benefit 
+shared
+(Yes/No)
+Basis of calculating 
+benefit share
+Through strategic acquisitions, Nazara has gained access to iconic intellectual properties, 
+including World Cricket Championship, Kiddopia, Halaplay, and Qunami. Leveraging 
+these properties have allowed Nazara to develop engaging games, grow its user base, 
+and boost revenues. While some operations utilise licensed IP from partners, Nazara 
+retains ownership of original esports content. By acquiring and effectively utilising these 
+various intellectual properties, the Company has achieved significant growth, introduced 
+new offerings, and generated value this financial year.
+150
+25th Annual Report 2023-24
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+5.	
+Details of corrective actions taken or underway based on any adverse order in 
+intellectual property related disputes wherein traditional knowledge is used.
+Name of authority
+Brief of the case
+Corrective action taken
+NA
+6.	
+Details of beneficiaries of CSR projects
+S. 
+no.
+CSR project
+No. of persons 
+benefitted from CSR 
+projects
+% of beneficiaries 
+from vulnerable and 
+marginalised groups
+1.
+Dr. B.K. Goyal Heart Foundation
+47
+100%
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a 
+responsible manner.
+ESSENTIAL INDICATORS
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints 
+and feedback.
+	
+Nazara recognises gaming enthusiasts as key stakeholders and actively invites their 
+complaints and feedback. The Company is dedicated to exceeding customer expectations 
+and ensuring satisfaction. To support this commitment, Nazara has put in place dedicated 
+channels for addressing consumer concerns. These include an intuitive feedback system, 
+a responsive customer support team, and regular evaluations of feedback to enhance 
+services and resolve any issues swiftly.
+2.	
+Turnover of products and/services as a percentage of turnover from all products/
+services that carry information about:
+As a percentage of total turnover
+Environmental and social parameters relevant 
+to the product
+NA
+Safe and responsible usage
+Recycling and/or safe disposal
+3.	
+Number of consumer complaints in respect of the following
+FY 2023-24
+(Current financial 
+year)
+Remarks
+FY 2022-23
+(Previous financial 
+year)
+Remarks
+Received 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of the 
+year
+Received 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of the 
+year
+Data privacy
+Nil
+NA
+Nil
+NA
+Advertising
+Cybersecurity
+Delivery of 
+essential 
+services
+Restrictive trade 
+practices
+Unfair trade 
+practices
+Other
+4.	
+Details of instances of product recalls on account of safety issues
+Number
+Reasons for recall
+Voluntary recalls
+Nil
+Forced recalls
+5.	
+Does the entity have a framework/policy on cyber security and risks related to data 
+privacy? (Yes/No) If available, provide a weblink to the policy.
+	
+Yes, the Company has implemented IT measures to oversee and address cybersecurity 
+and data privacy risks. For more details, please visit: https://aws.amazon.com/
+products/security/?sc_icampaign=aware_what-is-seo-pages&sc_ichannel=ha&sc_
+icontent=awssm-11373_aware&sc_iplace=ed&trk=1e0434cb-26e-4515-9053-
+14186a8e2064%7Eha_awssm-11373_aware
+151
+Nazara Technologies Limited
+Standalone Financial 
+Statements
+Management 
+Review
+Strategic 
+Review
+Environment, Social 
+and Governance
+Corporate 
+Review
+Consolidated Financial 
+Statements
+Management Discussion 
+and Analysis
+Statutory  
+Reports
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT (CONTD.)
+6.	
+Provide details of any corrective actions taken or underway on issues relating to 
+advertising, and delivery of essential services; cyber security and data privacy of 
+customers; re-occurrence of instances of product recalls; penalty/action taken by 
+regulatory authorities on the safety of products/services.
+	
+Nazara has not encountered any issues related to advertising, data privacy, cybersecurity, 
+service delivery, penalties, or product/service security.
+7.	
+Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches - 
+	
+	
+Nil
+	
+b.	
+Percentage of data breaches involving personally identifiable information of 
+customers - 
+	
+	
+Nil
+	
+c.	
+Impact, if any, of the data breaches - 
+	
+	
+Nil
+	
+LEADERSHIP INDICATORS
+1.	
+Channels/platforms where information on products and services of the entity can be 
+accessed (provide weblink, if available).
+	
+You can access information about the Company’s products and services at the following 
+link: https://www.nazara.com/
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of 
+products and/or services.
+	
+NA
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of 
+essential services.
+	
+Nazara has implemented a business continuity plan to address service interruptions and 
+has a clear communication strategy in place.
+4.	
+Does the entity display product information on the product over and above what is 
+mandated as per local laws? (Yes/No/Not Applicable) If yes, provide details in brief. 
+Did your entity carry out any survey with regard to consumer satisfaction relating 
+to the major products/services of the entity, significant locations of operation of the 
+entity or the entity as a whole? (Yes/No)
+	
+NA

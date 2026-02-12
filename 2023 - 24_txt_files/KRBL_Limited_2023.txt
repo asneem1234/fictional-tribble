@@ -1,0 +1,4399 @@
+ 
+Ref:  KRBL/SE/2024-25/33                                                                                           August 22, 2024 
+ 
+The General Manager 
+Department of Corporate Services 
+BSE Limited 
+Floor 25, Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai – 400 001 
+ 
+Scrip Code: 530813 
+National Stock Exchange of India Limited 
+“Exchange Plaza”, C-1, Block-G 
+Bandra-Kurla Complex 
+Bandra (E), Mumbai-400051 
+ 
+ 
+Symbol: KRBL 
+ 
+Series: Eq. 
+ 
+Sub: Business Responsibility and Sustainability Report for the Financial Year 2023-24 
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, please find enclosed herewith the Business Responsibility 
+and Sustainability Report for the Financial Year 2023-24, which forms an integral part of the Annual 
+Report for the Financial Year 2023-24. 
+ 
+The 
+same 
+is 
+also 
+available 
+on 
+the 
+Company’s 
+website 
+at 
+https://krblrice.com/wp-
+content/uploads/2024/08/KRBL-Limited-BRSR-2023-24.pdf 
+ 
+This is for your kind information and record. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For KRBL Limited  
+ 
+ 
+ 
+ 
+Piyush Asija 
+Company Secretary & Compliance Officer  
+M. No. - A21328 
+ 
+Encl: As above 
+ 
+ 
+PIYUSH 
+ASIJA
+Digitally signed by PIYUSH ASIJA 
+DN: c=IN, o=PERSONAL, title=1609, 
+pseudonym=cba524911dd24aecb70eef67
+3393cc52, 
+2.5.4.20=a871a1782c200bdec965ce0a696
+7cdf497a21bc970f775763232bb7fdc6c45d
+d, postalCode=110009, st=Delhi, 
+serialNumber=dac3d0c36ff894b4b3e62aa
+5a15080ef0cd04b53fc5391912c6aa23e2da
+a987f, cn=PIYUSH ASIJA 
+Date: 2024.08.22 18:53:22 +05'30'
+92
+93
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+FY 2023-24
+SECTION A: GENERAL DISCLOSURES
+I.	
+DETAILS OF THE LISTED ENTITY
+1.
+Corporate Identity Number (CIN) of the Company
+L01111DL1993PLC052845
+2.
+Name of the Company
+KRBL Limited
+3.
+Year of Incorporation
+1993
+4.
+Registered office address
+5190, Lahori Gate, Delhi – 110006
+5.
+Corporate office address
+C-32, 5th & 6th Floor  
+Sector-62 Noida – 201301  
+(UP), India
+6.
+E-mail ID
+investor@krblindia.com
+7.
+Telephone
+0120-4060300
+8.
+Website
+http://www.krblrice.com/
+9.
+Financial year for which reporting is being done
+FY 2023-24
+10.
+Name of the Stock Exchange(s) where shares are 
+listed
+National Stock Exchange of India Limited (NSE)  
+BSE Limited (BSE)
+11.
+Paid-up capital
+` 22,88,89,892
+12.
+Name and contact details of the person who may be 
+contacted in case of any queries on the BRSR report
+Mr. Piyush Asija, Company Secretary and Compliance Officer  
+Email: cs@krblindia.com Telephone: +91-120-4060300
+13.
+Reporting Boundary
+The disclosures made under this report are on a standalone basis.
+14.
+Name of assurance provider
+-
+15.
+Type of assurance obtained
+-
+II.	
+PRODUCTS/SERVICES
+	
+16.	 Details of business activities (accounting for 90% of the turnover):
+S. No
+Description of main activity
+Description of business activity
+% of turnover
+1
+Manufacturing
+Manufacture of Food Products
+97.73
+2
+Electricity Supply
+Electric Power Generation
+1.90
+	
+17.	 Products/services sold by the entity (accounting for 90% of the entity’s turnover):
+S. No.
+Product/Service
+NIC 
+Code
+% of total turnover 
+contributed
+1
+Manufacture of Food Products (Rice, Chia Seeds, Flax Seeds, Quinoa, Glucose etc.)
+106
+97.73
+2
+Electric Power Generation (Solar Energy and other non-conventional sources)
+351
+1.90
+III.	 OPERATIONS
+	
+18.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+5
+2
+7
+International
+-
+-
+-
+	
+19.	 Markets served by the entity
+	
+	
+a.	
+Number of locations
+Locations
+Number
+National (Number of states)
+Pan India (28 States and 8 Union Territories)
+International (Number of countries)
+90+
+	
+	
+	
+The Company has a strong distributor network spread across India. The Company’s products are exported to more than 
+90 countries.
+ANNEXURE-7
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+ 	
+	
+Approx. 25%
+	
+c.	
+A brief on types of customers
+	
+	
+KRBL has a robust customer base that spans across the globe, catering to three categories of consumers: end consumers, 
+channel partners, and institutional buyers. End-consumers currently purchase company’s products through retail and e-tail. 
+Channel partners include distributors, dealers (wholesalers) and retailers. Institutional buyers include modern trade, hotels, 
+restaurants, caterers, and e-commerce partners. Many of our customers have been with the company for over 25 years now, 
+which demonstrates long-term and strong relationships the Company has with them.
+IV.	 EMPLOYEES
+	
+20.	 Details as at end of Financial Year:
+	
+	
+a.	
+Employees and workers (including differently abled)*:
+S. No. Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1
+Permanent (D)
+1,974
+1,933
+97.92%
+41
+2.08%
+2
+Other than Permanent (E)
+205
+205
+100.00%
+0
+0.00%
+3
+Total employees (D+E)
+2,179
+2,138
+98.12%
+41
+1.88%
+WORKERS
+4
+Permanent (F)
+794
+748
+94.21%
+46
+5.79%
+5
+Other than Permanent (G)
+336
+283
+84.23%
+53
+15.77%
+6
+Total workers (F+G)
+1,130
+1,031
+91.24%
+99
+8.76%
+	
+	
+b.	
+Differently abled employees and workers*:
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+-
+-
+-
+-
+-
+2
+Other than Permanent (E)
+-
+-
+-
+-
+-
+3
+Total differently abled employees (D+E)
+-
+-
+-
+-
+-
+DIFFERENTLY ABLED WORKERS
+4
+Permanent (F)
+-
+-
+-
+-
+-
+5
+Other than Permanent (G)
+-
+-
+-
+-
+-
+6
+Total differently abled workers (F+G)
+-
+-
+-
+-
+-
+*KRBL believes in fostering a workplace culture that values diversity, promotes inclusivity, and upholds the principles of equality and respect for all 
+individuals. Our Anti-Discrimination and Equal Opportunity Policy serves as a cornerstone of our commitment towards providing a safe, supportive, and 
+fair environment for every employee and prospective employee. It is a reflection of our core values and a testament to our dedication to creating a 
+workplace where differences are celebrated, and every individual has the opportunity to thrive based on their skills, abilities, and contribution.
+	
+21.	 Participation/inclusion/representation of women:
+Total (A)
+Number. and percentage of females
+No. (B)
+% (B/A)
+Board of Directors
+9
+2
+22.22
+Key Management Personnel*
+6
+1
+16.67
+* Includes Executive Directors, Chief Financial Officer and Company Secretary.
+	
+22.	 Turnover rate for permanent employees and workers:
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+13.19%
+23.38%
+13.40%
+12.26%
+22.95%
+12.48%
+11.96%
+30.77%
+12.36%
+Permanent Workers
+17.98%
+4.17%
+17.19%
+13.69%
+5.88%
+13.27%
+15.97%
+5.83%
+15.50%
+94
+95
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+V.	 HOLDING, SUBSIDIARY AND ASSOCIATE COMPANIES (INCLUDING JOINT VENTURES)
+	
+23	 (a)	 Names of holding / subsidiary / associate companies / joint ventures: 
+S. 
+No.
+Name of Holding/Subsidiary/Associate Companies/Joint 
+Venture (A)
+Indicate whether Holding/ 
+Subsidiary/ Associate/
+Joint Venture
+% of shares 
+held by listed 
+entity
+Does the entity indicated in column A, 
+participate in the Business Responsibility 
+initiatives of listed entity? (Yes/No)
+1
+KRBL DMCC
+Subsidiary
+100%
+Yes
+2
+K B Exports Private Limited
+Subsidiary
+70%
+Yes
+3
+KRBL LLC
+Step Down Subsidiary
+100%
+Yes
+VI.	 CSR DETAILS
+	
+24	 i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+ 	
+	
+ii)	
+Turnover for the Financial Year ended March 31, 2024: `5,385 Cr
+ 	
+	
+iii)	 Net worth as on March 31, 2024: `4,849 Cr
+VII. 	TRANSPARENCY AND DISCLOSURES COMPLIANCES
+	
+25.	 Complaints/grievances on any of the Principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct (NGRBC)
+	
+	
+A stakeholder is any individual, group, or organization that can affect or be affected by the actions, objectives, and policies of a business or organization. 
+Stakeholders have a vested interest in the company's activities and outcomes. Employees, customers, suppliers, investors, community members, and 
+government bodies are key to company's decision-making and strategy. Stakeholder engagement brings a multitude of benefits to a business, it boosts the 
+company's reputation, helps it make better decisions and builds trust with communities and prevent conflicts. Stakeholder engagement and grievance redressal 
+management is an integral part of our operations. We have a stakeholder engagement and grievance redressal policy, establishing a framework for effective 
+communication and establishing a responsive, fair, expeditious and stakeholder-centric, query/complaint or grievance management procedures across all our 
+operations and ensuring all stakeholders are always treated fairly and without biasness, and issues raised by various stakeholders are dealt and resolved in a 
+time bound manner.
+Stakeholder 
+Group 
+from whom 
+complaint is 
+received
+Grievance Redressal Mechanism in place(Yes/No)
+FY2023-24
+FY 2022-23
+No. of 
+complaints 
+filed during 
+the year
+No. of complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+No. of 
+complaints 
+filed during 
+the year
+No. of complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Communities
+Yes. The Company has a stakeholder engagement 
+and grievance redressal policy addressing the 
+concerns of all the stakeholders.
+-
+-
+-
+-
+-
+-
+Investors 
+(other than 
+shareholders)
+Yes. We have a dedicated email ID investor@
+krblindia.com 
+where 
+investors/shareholders 
+can raise their grievances and queries. Further, 
+the Registrar and Share Transfer Agent (RTA) 
+is principally responsible for addressing the 
+shareholders’ grievances.
+-
+-
+-
+-
+-
+-
+Shareholders
+5
+-
+-
+-
+-
+-
+Stakeholder 
+Group 
+from whom 
+complaint is 
+received
+Grievance Redressal Mechanism in place(Yes/No)
+FY2023-24
+FY 2022-23
+No. of 
+complaints 
+filed during 
+the year
+No. of complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+No. of 
+complaints 
+filed during 
+the year
+No. of complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+The website of the Company has a separate 
+section which provides the contact details for point 
+of contacts for resolving specific grievances of 
+Investors https://krblrice.com/investor-support/ 
+Employees 
+and workers
+Yes, the Company maintains a Human Resources 
+Management 
+System 
+(HRMS) 
+portal 
+for 
+its 
+employees. The portal provides a helpdesk to 
+employees for resolving any complaints.
+The Company has Works Committee, Grievance 
+Handling Committee and Safety Committee which 
+looks into the grievances of the workers.
+4
+-
+-
+6
+-
+-
+Customers
+Yes, the Company has a well-established consumer 
+and customer complaint handling mechanism 
+managed by Customer Care team, We maintain an 
+accessible system through dual contact channel 
+i.e. our Toll free number - +91-8448893199 and 
+Customer Care email ID - customercare@krblindia.
+com enabling customers and end consumers 
+to register their queries and complaints in a 
+convenient manner. Resolution is provided through 
+strict adherence to our guidelines, in a time-bound 
+manner.
+551
+-
+-
+304
+-
+-
+Value Chain 
+Partners
+Yes
+25
+-
+-
+16
+-
+-
+Other (please 
+specify)
+-
+-
+-
+-
+-
+-
+-
+If yes, then provide web-link for 
+grievance redress policy
+The Company has a stakeholders’ engagement and grievance redressal policy approved by Board of Directors to redress 
+the grievances of all its stakeholders which can be accessed on the link: https://krblrice.com/wp-content/uploads/2024/08/
+SEGR-Policy-31.07.2024-Adopted.pdf
+96
+97
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+	
+26.	 Overview of the entity’s material responsible business conduct issues
+	
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity 
+to your business, rationale for identifying the same, approach to adapt or mitigate the risk, as per the following format: 
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate.
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+1.
+Product Quality 
+and Safety
+ R
+KRBL operates in the food and agriculture sector. Product 
+quality and safety are critical material ESG (Environmental, 
+Social, and Governance) risks that the Company addresses 
+regularly because of the following reasons:
+Consumer Health and Safety: Consumer health and safety 
+are core ethical values for our business. The Company's 
+products are consumed by individuals worldwide, and it 
+remains steadfast in its dedication to delivering products 
+that consistently uphold rigorous standards of quality 
+and safety. KRBL is diligently advancing its operational 
+standards within its Units. While Hazard Analysis and Critical 
+Control Points (HACCP) practices are already integral to 
+our systems, we are now augmenting our protocols with 
+the implementation of Vulnerability Assessment and 
+Critical Control Points (VACCP) and Threat Assessment 
+and Critical Control Points (TACCP). These initiatives 
+concentrate specifically on mitigating risks associated 
+with food fraud and fortifying food defense measures. 
+These strategies entail rigorous risk assessments that 
+meticulously evaluate potential threats and vulnerabilities 
+across the entirety of our supply chain.
+Supply Chain Risks: KRBL  procures paddy from the APMC 
+Mandis, and any issues related to the quality of the paddy/
+rice procured can impact the quality of the final product. 
+Thus ensuring that the Company continues to source rice 
+from suppliers based on superior grain quality is important. 
+KRBL  maintains a sophisticated Transport Management 
+System (TMS) as part of its supply chain management 
+framework. This software-driven system enables real-
+time tracking of vehicles, ensuring seamless planning, 
+execution, and optimization of the physical transportation 
+of goods, both inbound and outbound. Through the 
+TMS, KRBL ensures compliance with regulations and the 
+availability of accurate documentation throughout the 
+shipment process.
+In order to meet product quality and safety 
+requirements, the company has ensured 
+compliance 
+with 
+various 
+certifications 
+standards: 
+•	
+FSSC 22000 Version 5.1 issued by Eurofins
+•	
+SQF Food Safety Code for Manufacturing 
+Edition 9 issued by Eurofins
+•	
+BRC Global Standard for Food Safety Issue 
+9 Certification issued by Eurofins
+•	
+Halal Certification issued by M/s. Halal 
+Certification Services India Pvt Ltd.
+•	
+KRBL’s Unit is SEDEX registered.
+•	
+One of the Unit has completed BRCGS 
+ETRS (Ethical Trade and Responsible 
+Sourcing) assessment with a score of 5/5.
+Negative
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate.
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+Reputation: KRBL 's reputation is critical to its success, and 
+any adverse news related to the quality and safety of its 
+products can affect its brand reputation, which can have 
+long-term negative effects on the business. As a company 
+that exports its products worldwide, KRBL  ensures that it 
+meets international quality and safety standards to maintain 
+its reputation as a premium Basmati rice-brand. At KRBL, 
+we benefit from strategic alliances with prominent industry 
+bodies such as PHD, which provide invaluable support and 
+advocacy in addressing issues related to industry.
+2.
+Ethics and 
+Governance
+O
+Good ethics and governance practices improve overall 
+company performance and boost consumer confidence. 
+This has been categorized as an opportunity because of 
+the following reasons:
+Reputation and Brand Value: By ensuring that its business 
+practices are transparent, ethical and compliant with local 
+and international laws and regulations, KRBL is able to 
+enhance its reputation and brand value, which would lead 
+to increased customer loyalty and trust.
+Competitive Advantage: Companies that prioritize ethics 
+and governance in their business practices are more 
+likely to gain a competitive advantage, as they are better 
+positioned to attract investors, customers and employees 
+who prioritize ethical and sustainable business practices.
+Risk Mitigation: By implementing robust governance 
+structures and policies, KRBL  mitigates risks related 
+to unethical practices, such as corruption and conflicts 
+of interest, which can lead to legal, financial and 
+reputational damage. KRBL  has implemented the AMS 
+(Artwork Management System), this system implements a 
+streamlined workflow for the approval of artwork designs. 
+The system facilitates collaboration and ensure that 
+all necessary approvals are obtained before artwork is 
+finalized. It also serves as a centralized repository for all 
+approved artwork files. This makes it easy to access and 
+retrieve artwork designs when needed for compliance 
+audits or regulatory inquiries.
+NA
+Positive
+98
+99
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate.
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+Improved Stakeholder Engagement: By prioritizing ethics 
+and governance, KRBL  improves stakeholder engagement 
+and builds stronger relationships with investors, customers, 
+and other stakeholders, which would lead to increased 
+collaboration, innovation and growth. KRBL  has also 
+implemented the DataKart system for the management 
+and generation of barcodes and QR codes. The software 
+acts as a medium to directly share product information 
+with consumers through mobile application. Furthermore, 
+it serves as a comprehensive repository for all barcodes 
+and master data.
+Long-term Sustainability: By focusing on ethics and 
+governance, KRBL  ensures long-term sustainability of 
+its business by reducing risks, enhancing reputation and 
+building a culture of trust and transparency.
+3.
+Responsible 
+Marketing and 
+Communication
+O
+KRBL  ships products across the world and brand 
+communication influences consumer decisions Hence, 
+has been categorized as an opportunity because of the 
+following reasons
+Consumer Trust: By adopting responsible marketing 
+and communication practices, KRBL  is able to build trust 
+with consumers, leading to increased loyalty and repeat 
+purchases. Consumers are increasingly conscious of the 
+impact of their purchasing decisions on the environment 
+and society, and companies that prioritize responsible 
+marketing and communication can attract and retain these 
+consumers.
+Reputation 
+and 
+Brand 
+Value: 
+By 
+communicating 
+transparently and responsibly about its products and 
+business practices, KRBL  enhances its reputation and 
+brand value, leading to increased customer loyalty, 
+investor confidence, and stakeholder trust.
+Social and Environmental Impact: Responsible marketing 
+and communication help KRBL  showcase its positive 
+impact on society and the environment, such as its efforts to 
+promote sustainable agriculture practices and support local 
+farmers. This can enhance its social license to operate and 
+attract socially responsible investors.
+Legal 
+and 
+Regulatory 
+Compliance: 
+By 
+adopting 
+responsible marketing and communication practices, KRBL 
+ensures compliance with local and international laws and 
+regulations related to advertising, labelling and product 
+claims, reducing the risk of legal and financial liabilities.
+NA
+Positive
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate.
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+4.
+Health, Safety 
+and Well-Being
+R
+KRBL  ensures highest level of health and safety through 
+its production process by identifying Health, Safety and 
+Well-Being as a key material risk for the following reasons:
+Employee Well-being: KRBL 's employees are its most 
+valuable asset, and their well-being is crucial to the 
+company's success. A safe and healthy work environment 
+will lead to decreased employee turnover, increased 
+productivity and enhanced brand reputation.
+Occupational Health and Safety: KRBL's operations 
+involve various risks such as machinery hazards, chemical 
+exposure and physical strain.
+We 
+have 
+undertaken 
+the 
+following 
+risk 
+mitigation measures:
+•	
+KRBL has in place a Standard Operating 
+Procedure for Operational Rescue Measure 
+to ensure business continuity and the safety 
+of employees. KRBL  has also conducted 
+risk assessments in manufacturing units 
+pertaining to building risks, changes in 
+building, transmittable diseases and risks 
+related to pregnant women.
+•	
+First aid room available with trained first 
+aiders.
+Negative
+Supply Chain Risks: KRBL  sources its raw materials from 
+various suppliers, and proper health and safety practices 
+across their operations would lead to decreased risks 
+of supply chain disruptions, product recalls and legal 
+liabilities.
+Community Health and Safety: KRBL's production 
+processes can also have an impact on the health and 
+safety of the surrounding communities. 
+Regulatory Compliance: Non-compliance with health and 
+safety regulations can result in legal and financial liabilities 
+for KRBL, leading to reputational damage and financial 
+losses.
+In conclusion, health, safety, and well-being can be seen 
+as a material ESG risk for KRBL, leading to potential risks 
+such as occupational hazards, community health risks, 
+supply chain risks, and legal and financial liabilities. By 
+prioritizing health, safety and well-being in its operations 
+and supply chain, KRBL mitigates these risks and ensures 
+the sustainability of its business.
+•	
+Proper PPE kits have been provided to 
+workers
+•	
+Relevant safety equipment such as gloves, 
+safety shoes, ear plugs, helmets etc. have 
+been provided to workers
+•	
+Trainings and mock drills on emergency 
+preparedness and use of fire extinguisher 
+are provided on a periodic basis
+•	
+For safe disposal of waste (used oils) 
+generated through milling, machine repair 
+and maintenance, used oils are discarded 
+through an external waste management 
+agency.
+•	
+For lifts, Annual Maintenance Contract with 
+Original Equipment Manufacturer (OEM) 
+has been processed and periodic meetings 
+for the same are conducted.
+•	
+We conduct annual health check-ups and 
+vaccination drives within our manufacturing 
+units for employee well-being.
+100
+101
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate.
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+5.
+Climate Change
+R
+Climate Change have been categorized as a risk since 
+KRBL's operations involve various emissions such as 
+greenhouse gases, particulate matter, and volatile organic 
+compounds, which can have adverse effects on the 
+environment and public health. The company also relies 
+on fossil fuels for energy generation, which can contribute 
+to climate change. Failure to address emissions can lead 
+to adverse living conditions for society and accelerated 
+climate-change. Addressing emission concerns timely 
+helps us stay ahead of increased regulatory scrutiny, 
+reputational damage and financial losses.
+Water has also been categorised as a risk since KRBL’s 
+operations are highly dependent on water which can 
+adverse the fresh water consumption. As a prominent 
+rice manufacturer, KRBL's cultivation of paddy requires 
+considerable water usage, contributing to environmental 
+water scarcity concerns. The company's dependence 
+on water resources highlights the urgent need to adopt 
+sustainable water management strategies.
+•	
+At KRBL Dhuri and GB Nagar, our 
+manufacturing processes are powered 
+primarily by rice husk, serving as a 
+sustainable alternative to traditional fossil 
+fuels thus, reducing the overall dependency 
+on grid electricity. This strategic utilization 
+significantly mitigates our reliance on 
+non-renewable 
+energy 
+sources, 
+while 
+concurrently reducing our carbon footprint, 
+owing to the superior energy-to-emission 
+ratio of rice husk compared to conventional 
+options.
+•	
+We are also currently undertaking the 
+commissioning of an additional turbine 
+at one of our units at Ghaziabad with the 
+objective of eliminating reliance on grid 
+electricity. 
+•	
+The power factor (PF) serves as a crucial 
+metric for assessing energy efficiency. KRBL 
+consistently achieves a commendable 
+power factor ranging from 0.98 to 0.99 in 
+both the manufacturing units to enhance 
+energy efficiency. 
+•	
+The plants are strategically located near the 
+paddy producing markets thus optimising 
+transportation related emissions.
+•	
+Our Gujarat plant which caters to the 
+overseas markets is strategically located 
+close to the port further optimizing our 
+downstream emissions. 
+•	
+Highly efficient ESP chimneys are installed 
+across manufacturing units and are cleaned 
+properly by trained staff.
+•	
+Regular stack emission testing is conducted 
+for the DG stack.
+•	
+KRBL has successfully transitioned 90% of 
+its lighting infrastructure to LED technology, 
+demonstrating a commitment to energy 
+efficiency and sustainability. Moving forward, 
+our aim is to exclusively adopt LED lighting 
+for all future replacements, further enhancing 
+our environmental stewardship efforts.
+Negative
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate.
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+•	
+In furtherance of commitment to expanding 
+its 
+climate 
+change 
+portfolio 
+through 
+Miyawaki plantation, KRBL has increased 
+the land allocation from 2000 sq. m to 
+3000 sq. m. This strategic endeavour is 
+underpinned by the acknowledgment of 
+the multifaceted advantages offered by 
+such plantations. They are instrumental 
+in ameliorating the detrimental impacts 
+of urban heat islands by diminishing 
+temperatures, mitigating air and noise 
+pollution, promoting biodiversity through 
+the attraction of indigenous avifauna and 
+insects, and serving as pivotal carbon sinks.
+•	
+KRBL  has introduced soft starters and 
+VFDs in manufacturing units to enhance 
+energy efficiency and reducing energy 
+consumption.
+•	
+KRBL is actively pursuing its goal of 
+becoming a water-positive organization, 
+aiming that water extraction remains lower 
+than the volume of water available for reuse 
+and replenishment.
+•	
+At one of our Unit in Uttar Pradesh the 
+total daily water extraction stands at 
+approximately annually 65475 Kilolitres 
+(KL). This is juxtaposed with the net potential 
+capacity of water replenishment from 
+recharge wells, amounting to *137,210 KL 
+annually.
+*Recharge rates are impacted by the amount and 
+intensity of precipitation, soil and vegetation types, 
+geology and topography. 
+•	
+100% Re-use of water from RO and ETP 
+Operations at Ghaziabad Unit resulting in 
+reduced extractions
+102
+103
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate.
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+•	
+At one of the plant at Dhuri, Punjab, we 
+engage in Effluent Treatment Plant (ETP) 
+operations, treating 1450 kilolitres of water 
+per day. This treated water is responsibly 
+discharged across a 30-acre expanse, 
+which hosts a thriving ecosystem of 20,000 
+Eucalyptus trees. This strategic initiative 
+serves to prevent groundwater seepage, 
+leveraging the shallow root structure of the 
+trees to facilitate natural discharge through 
+transpiration.
+6.
+Waste 
+Management
+O
+Waste management is categorised as an opportunity 
+since the company’s operations generate various forms 
+of waste, such as agricultural waste, packaging waste 
+and wastewater, which can have adverse environmental 
+impacts. By adopting sustainable waste management 
+practices, KRBL  reduces its environmental footprint, 
+conserves resources, and minimizes waste disposal 
+costs. Sustainable waste management can also enhance 
+KRBL 's reputation as a responsible and environmentally 
+conscious company, leading to increased stakeholder 
+trust and support. By prioritizing waste management, KRBL 
+is able to align its business operations with sustainable 
+development goals, drive long-term growth and contribute 
+to a more sustainable future.
+•	
+Through the implementation of Extended 
+Producer 
+Responsibility 
+(EPR), 
+the 
+Company has undertaken conscientiously 
+proactive measures to gather, recycle 
+or safely dispose over 2600 tonnes of 
+plastic waste during the fiscal year 2023-
+24. This achievement has been facilitated 
+through collaborative efforts with waste 
+pickers, collection centers and recycling/
+co-processing 
+facilities, 
+all 
+operating 
+synergistically. Given the primary focus of 
+the Company on food grains, plastic serves 
+as the predominant packaging material. 
+Notably, since 2019, we have consistently 
+upheld our commitment to being a *plastic-
+neutral brand, consistently meeting EPR 
+guidelines annually.
+	
+*This pertains to domestic market.
+•	
+At KRBL , we have overseen the generation 
+of approximately 0.375 metric tons of 
+electronic waste (e-waste), all of which has 
+been conscientiously recycled and safely 
+disposed 
+through 
+accredited 
+e-waste 
+processing facilities.
+•	
+KRBL has a commitment to sustainable 
+practices ensuring solid and other waste 
+are managed with utmost safety and 
+efficiency. 
+Positive
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate.
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+7.
+Sustainable 
+Packaging
+O
+Sustainable packaging can be seen as an opportunity 
+since the company’s packaging operations involve the use 
+of various materials such as plastic, paper and cardboard, 
+which can have adverse environmental impacts. By 
+adopting sustainable packaging practices, such as using 
+eco-friendly materials and reducing packaging waste, KRBL 
+minimizes its environmental footprint, conserves resources 
+and reduces its packaging costs. Sustainable packaging 
+can also enhance KRBL ’s reputation as a responsible and 
+environmentally conscious company, leading to increased 
+stakeholder trust and support.
+•	
+KRBL  has achieved a reduction in the weight 
+of PET Jar 1 kg, resulting in a decrease 
+in plastic consumption by approximately 
+4.8MT during the FY 2023-2024.
+•	
+Implemented a reduction in the size of IG 
+Super 2kg pouch, leading to a decrease in 
+plastic usage by approximately 0.6 MT. 
+•	
+Related to IG Super 1.5kg SKU, previously 
+comprising two primary packages (1kg 
+pouch & 500g pouch) packed in an 
+outer pouch, a transition has been made 
+to packing this SKU in a single pouch. 
+This initiative has led to a reduction of 
+approximately 3.3 MT of plastics.
+•	
+Successfully reduced the pack size in 1kg 
+SKUs, such as IG Tibar 1 kg, resulting in a 
+reduction of approximately 1.2 MT of plastics.
+•	
+We are committed to incorporate 30 % 
+recycled plastics into Category 1 products 
+specifically into PET jars, 10 % in Category 
+2 products (Flexible packaging material) by 
+2025-26.
+Positive
+8.
+Climate 
+Resilient 
+Agriculture
+R
+Climate resilient agriculture has been categorised as 
+a risk since KRBL ’s operations are highly dependent 
+on weather patterns and climate change can adversely 
+affect the company’s production and profitability. Climate 
+resilient agriculture practices help KRBL  mitigate the risks 
+associated with climate change by adapting to changing 
+weather patterns, conserving resources and reducing 
+greenhouse gas emissions. Failure to adopt climate resilient 
+agriculture practices can lead to decreased crop yields, 
+increased production costs and reputational damage. By 
+prioritizing climate resilient agriculture, KRBL  aligns its 
+business operations with sustainable development goals, 
+improve its resilience to climate change, and contribute to 
+a more sustainable future.
+KRBL 
+has 
+collaborated 
+with 
+the 
+Indian 
+Agricultural 
+Research 
+Institute 
+(IARI), 
+PUSA, to enhance the development and 
+commercialization of new rice varieties. This 
+partnership aims to leverage IARI's research 
+capabilities and KRBL's industry expertise 
+to innovate and improve rice strains. The 
+collaboration focuses on breeding high-yield, 
+disease-resistant and climate-resilient rice 
+varieties, ensuring sustainable agricultural 
+practices and enhancing productivity for 
+farmers. By combining IARI's cutting-edge 
+agricultural research with KRBL's extensive 
+market reach, the initiative aims to deliver 
+superior quality rice to consumers and support 
+the agricultural economy.
+Negative
+104
+105
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate.
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+KRBL has implemented a comprehensive 
+contact 
+farming 
+initiative, 
+where 
+KRBL 
+collaborates directly with farmers to cultivate 
+high-quality rice varieties through provision of 
+Integrated Pest Management (IPM) kits to the 
+farmers. These kits are designed to promote 
+sustainable farming practices by minimizing 
+the reliance on chemical pesticides and 
+encouraging the judicious use, as a mechanism 
+of good agricultural practices.  Additionally, 
+it fosters a more sustainable and resilient 
+agricultural system, contributing to the overall 
+well-being of the farming communities involved.
+9.
+Community 
+Relations
+O
+Community relations is categorised as an opportunity for 
+KRBL  as its operations have a significant impact on the 
+surrounding communities, and by adopting sustainable 
+community practices, the company can enhance its social 
+impact, increase stakeholder engagement, and improve its 
+reputation. Sustainable community operations can include 
+initiatives such as supporting local farmers, investing 
+in community development programs and engaging 
+with stakeholders to address community concerns. By 
+prioritizing sustainable community operations, KRBL  aligns 
+its business operations with sustainable development 
+goals, fosters positive relationships with its stakeholders, 
+and contributes to the social and economic development 
+of the communities it operates in.
+During the FY 2023-24 and up to the date 
+in 2024-25, the Company has spent approx 
+`24.75 Crores in its CSR initiative towards 
+the establishment of an educational institute 
+providing higher education.
+Further, the Company spent `5.76 Crores 
+during the FY 2023-24 to operate a Centralized 
+Kitchen mid-day meals. The amount spent by 
+the company has been utilized in serving a 
+total of 63 lacs meals to the  under privileged 
+schoolchildren as  beneficiaries of this project 
+alone in the FY 2023-24.
+Beyond these Ongoing Projects, a total of 800 
+additional beneficiaries were supported during 
+the FY 2023-24 through various other CSR 
+initiatives.
+Positive
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate.
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+10.
+Sustainable 
+Sourcing
+O
+Sustainable sourcing has been identified as an opportunity 
+since the company’s supply chain involves various 
+stakeholders, including farmers, suppliers, distributors 
+and by adopting sustainable sourcing practices, KRBL 
+minimizes its environmental footprint, improving the 
+welfare of workers and farmers and enhancing its 
+reputation. Sustainable sourcing practices can include 
+initiatives such as promoting sustainable agriculture 
+practices, reducing waste in the supply chain and ensuring 
+fair labour practices. 
+By prioritizing sustainable sourcing, KRBL  aligns its 
+business operations with sustainable development goals, 
+increase stakeholder engagement and contribute to a 
+more sustainable and equitable supply chain.
+•	
+As a testament to our commitment to 
+quality and ethical practices. One of the 
+manufacturing unit is certified by SEDEX 
+(Supplier Ethical Data Exchange) and 
+conducts BRCGS ETRS (British Retail 
+Consortium Global Standards) Ethical Trade 
+Responsible assessment which makes 
+KRBL, the first organization in rice industry 
+to be ETRS assessed with a 5/5 score..
+•	
+We also monitoring the packaging material 
+suppliers on social compliance parameters.
+•	
+Furthermore, KRBL  has integrated the 
+Paddy Purchase App into its system to 
+monitor all procurement-related parameters 
+of Mandi Purchase, including purchasing 
+price, quantity, and quality specifications. 
+This information is shared in real-time, 
+effectively mitigating miscommunication 
+and errors.
+Positive
+106
+107
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURE
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the 
+NGRBC Principles and Core Elements.
+The National Guidelines for Responsible Business Conduct (NGRBC) as prescribed by the Ministry of Corporate Affairs advocates 9 
+Principles referred as P1-P9 as given below:
+P1
+Businesses should conduct and govern themselves with integrity in a manner that is ethical, transparent and accountable.
+P2
+Businesses should provide goods and services in a manner that is sustainable and safe.
+P3
+Businesses should respect and promote the well-being of all employees, including those in their value chains.
+P4
+Businesses should respect the interests of and be responsive towards all its stakeholders.
+P5
+Businesses should respect and promote human rights.
+P6
+Businesses should respect, protect and make efforts to restore the environment.
+P7
+Businesses when engaging in influencing public and regulatory policy, should do so in a manner that is responsible and 
+transparent.
+P8
+Businesses should promote inclusive growth and equitable development.
+P9
+Businesses should engage with and provide value to their consumers in a responsible manner.
+Disclosure Question
+P 1
+P 2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+ POLICY AND MANAGEMENT PROCESSES
+1.	a.	Whether 
+your 
+entity’s 
+policy/ 
+policies cover each 
+principle 
+and 
+its 
+core elements of the 
+NGRBCs. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+b.	Has the policy been 
+approved 
+by 
+the 
+Board? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+c.	Web 
+link 
+of 
+the 
+policies, if available
+REFER NOTE BELOW
+2.	Whether the entity has 
+translated the policy 
+into procedures. (Yes / 
+No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.	Do the enlisted policies 
+extend to your value 
+chain partners? (Yes/ 
+No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4.	Name the national and 
+international 
+codes/ 
+certifications/ 
+labels/ 
+standards (e.g. Forest 
+stewardship 
+council, 
+Fairtrade, 
+Rainforest 
+alliance, 
+Trustee) 
+adopted by your entity 
+and mapped to each 
+principle.
+•	Food Safety System 
+Certification 22000 
+(FSSC Version 5.1)
+•	Safe Quality Food (SQF) 
+Food Safety Code for 
+Food manufacturing, 
+Edition 9
+•	BRCGS Food Safety 
+Certification Issue 9
+•	Halal Product 
+Certification
+•	USFDA (U.S. Food and 
+Drug Administration) 
+Registered
+BRCGS 
+ETRS (Ethical 
+Trade and 
+Responsible 
+Sourcing)
+SEDEX 
+SMETA 
+Pillar 4
+Good 
+Manufacturing 
+Practice (GMP)
+Advertising 
+Standards 
+Council of 
+India (ASCI) - 
+Code on Fair 
+Advertising 
+to 
+Consumers
+Disclosure Question
+P 1
+P 2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+5.	Specific commitments, 
+goals and targets set 
+by the entity with 
+defined timelines, if 
+any
+The Company has set ESG targets encompassing various aspects of Water neutrality, Energy conservation, Plastic 
+Neutrality etc.
+•	
+We are focusing to incorporate 30% of recycled plastics into Category 1 products specifically into PET jars 
+and 10% in Category 2 products (Flexible packaging material) by FY 2025-26.
+•	
+We are currently undertaking the commissioning of a new turbine with the objective of eliminating reliance on 
+grid electricity.
+•	
+Strengthening sustainability in value chain by FY 2024-25.
+•	
+We have planned to extend the BRCGS ETRS assessment for our Unit for the FY 2024-25, thereby reinforcing 
+the commitment to ethical trade, responsible sourcing and sustainable business practices.
+6.	Performance of the 
+entity against specific 
+commitments, goals 
+and targets along with 
+reasons in case of 
+same are not met.
+We endeavour to make consistent progress in ESG and track it by way of milestones & metrics. (Refer to the ESG 
+highlights section of the Annual Report on Page No. 40)
+GOVERNANCE, LEADERSHIP AND OVERSIGHT
+7.	
+Statement by Director responsible for the business responsibility report, highlighting ESG related challenges, targets 
+and achievements
+	
+At KRBL Limited, sustainability forms the core of our business operations. We recognize our obligation to lead the way in sustainable 
+progress, viewing it as more than just a social responsibility. Consistently aligning our business strategies with sustainability 
+and circularity, we ensure that these principles permeate every facet of our operations. Our resolute mission is to minimise 
+our ecological footprint and make a positive impact on the environment. Beyond environmental care, we invest in community 
+wellbeing and social inclusion, empowering them to thrive. We are shaping a better, sustainable tomorrow, integrating social and 
+environmental factors into our operations and decisions. We are committed to upholding the ESG Principles and are pleased with 
+the progress we have achieved towards a sustainable and socially responsible future.
+	
+Our primary challenge is reducing our dependence on fossil fuels and grid electricity. Socially, we focus on ethical trade, responsible 
+sourcing, ensuring employee safety and training, and maintaining high standards of customer satisfaction and governance standards.
+	
+We live today in a world of uncertainty. Unprecedented change is upon us given the mega threats of geopolitical dynamics, existential 
+climate crisis and digital acceleration. The consequences are starkly visible be it in supply chain disruptions, structural inflation, the 
+danger of food and livelihood security and indeed widening inequality. KRBL firmly beliefs that businesses exist to serve society. 
+Enterprises with their immense and multi-dimensional resources can play a significant role in alleviating societal challenges.
+	
+KRBL’s initiatives and action plan includes pursuing a low carbon growth strategy through extensive decarbonisation programmes 
+across its operations and value chain, increasing the share of renewable energy, energy efficiency initiatives and use of technology 
+for greening logistics. Accelerating adaptation efforts, KRBL is building climate resilience by promoting regenerative agriculture 
+practices in agriculture. This will further strengthen efforts to combat climate change, enable the transition to a net zero economy, 
+work towards ensuring water security for all, restore biodiversity through adoption of nature-based solutions, create an effective 
+circular economy for post-consumer packaging waste and scale up programmes that support large-scale sustainable livelihoods.
+	
+We continue to strengthen our management approach, guided by a comprehensive set of sustainability policies. We are also building 
+further on the mechanisms of engagement with key stakeholders, identifying material sustainability issues and progressively 
+monitoring and mitigating the impact along our value chains. Focussed interventions have been strengthened in key areas of 
+impact such as talent management, diversity & inclusion, employee relations and employee well-being. We will continue to update 
+our systems and processes in line with evolving disclosure standards and Environmental, Social and Governance requirements.
+	
+The journey towards decarbonisation in KRBL includes increasing our footprint of renewable energy, green infrastructure and 
+carbon sequestration amongst others. This includes reusing by-products like rice husk across operations and recycling waste, 
+making the concept of circularity central to conducting business at KRBL Limited.  During the year, around 90% of our total energy 
+requirements for plant operations were met from renewable sources. Our energy portfolio includes 112.25 MW in wind power, 
+17 MW in solar projects, and 17.59 MW in biomass segments. We aim to further reduce energy consumption, water withdrawal 
+and replenish 137,210 KL of water annually through recharge wells.
+108
+109
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+	
+Recognising that it is critical to prevent waste from reaching landfills, KRBL has put in place comprehensive interventions for solid, 
+plastic waste management. Through Extended Producer Responsibility (EPR), we collected, recycled, and safely disposed of over 
+2,600 tonnes of plastic waste in FY 2023-24 and reduced plastic usage by 10 metric tons in FY 2024. By FY 2025-26 we aim to 
+use 30% of recycled plastics in Category 1 (PET jars) and 10% in Category 2 (Flexible packaging).
+	
+KRBL’s biodiversity programme focusses on reviving ecosystem services provided to agriculture such as natural regulation of 
+pests, pollination, nutrient cycling, soil health retention and genetic diversity, which have witnessed considerable erosion over the 
+past few decades. We have designated 3000 sq. m for Miyawaki plantation to lower urban temperatures and reduce pollution. 
+Eucalyptus Plantation: We have planted 20,000 Eucalyptus trees across 30 acres to mitigate groundwater seepage and promote 
+natural discharge.
+	
+We firmly believe that there is no conflict between creation of shareholder value and generation of societal capital as we continue 
+to make strides towards the sustainability.
+8.	
+Details of the highest authority responsible for implementation and oversight of the Business Responsibility & Sustainability 
+(BRSR) Policy(ies).
+	
+The CSR & ESG Committee of the Board, chaired by Mr. Anil Kumar Mittal, Chairman & Managing Director of the Company, reviews 
+and oversees the implementation of the sustainability policies of the Company.
+9.	
+Does the entity have a specified committee of the Board/ Director responsible for decision making on sustainability related issues? 
+(Yes/ No). If yes, provide details.
+	
+Yes, the Board of Directors of the Company are responsible for implementation and oversight of the business responsibility 
+policies. The Board has empowered the CSR & ESG Committee to provide direction to the management and exercise oversight on 
+the implementation of ESG policies and sustainability measures. The CSR & ESG Committee’s composition, terms of reference are 
+mentioned in the ‘Report on Corporate Governance’ forming part of this Annual Report. Further, the Board of Directors periodically 
+considers and review the progress in respect to ESG and Sustainability matters.
+10.	 Details of Review of the National Guidelines on Responsible Business Conduct (NGRBC) by the company:
+Subject for Review
+Indicate whether review was undertaken 
+by Director / Committee of the Board/ Any 
+other Committee
+Frequency: Annually (A) / Half yearly (H) / 
+Quarterly (Q) / Any other – please specify
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance 
+against 
+above 
+policies & follow up action
+All the policies of the Company are approved 
+by the Board and reviewed periodically or on 
+a need basis by the Board and its respective 
+Committees.
+ Ongoing basis
+Compliance 
+with 
+statutory 
+requirements of relevance to the 
+principles, and rectification of any 
+non-compliances
+The Company complies with all the 
+applicable statutory requirements and 
+rectifies non-compliance(s), if any.
+Quarterly and as and when required.
+11.	 Has the entity carried out independent assessment/ evaluation of the working of its policies by an external agency? (Yes/No). If 
+yes, provide name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+As a part of the oversight of the internal financial controls in the Company, Board of Directors review the adherence to the stated 
+policies in the Company. Further, independent assessment/evaluation is carried out periodically by external agencies for certain 
+policies and principles.
+12.	 If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated:
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles 
+material to its business (Yes/ No)
+NA
+The entity is not at a stage where it is in a 
+position to formulate and implement the 
+policies on specified principles (Yes/No)
+The entity does not have the financial or/human 
+and technical resources available for the task 
+(Yes/No)
+It is planned to be done in the next financial 
+year (Yes/No)
+Any other reason (please specify)
+	
+NOTE:
+Principle
+Applicable Policies
+Link
+Principle 
+1: 
+Businesses 
+should 
+conduct and govern themselves 
+with integrity, and in a manner that is 
+Ethical, Transparent and Accountable
+•	
+Code of Business Conduct and Ethics
+•	
+Insider Trading Policy
+•	
+Whistle Blower Policy (Vigil Mechanism)
+•	
+Anti-Bribery and Anti-Corruption Policy
+•	
+Anti-Fraud Policy
+The policies related to all the 
+aforementioned 
+9 
+Principles 
+are available on the company’s 
+website: 
+https://krblrice.com/
+policies-codes-related-documents/ 
+under 
+the 
+head 
+“Investor 
+Relations.” However, the internal 
+policies of the company pertaining 
+to employment, leave, and product 
+quality 
+are 
+available 
+on 
+the 
+company’s intranet only.
+Principle 
+2: 
+Businesses 
+should 
+provide goods and services in a 
+manner that is sustainable and safe
+•	
+Sustainable Procurement Policy
+•	
+Product Responsibility Policy
+Principle 
+3: 
+Businesses 
+should 
+respect and promote the well-being 
+of all employees, including those in 
+their value chains
+•	
+Human Rights Policy
+•	
+Other HR & Employee Related Policies
+•	
+Policy on Sexual Harassment(POSH)
+•	
+Anti Discrimination and Equal Opportunity Policy
+•	
+Stakeholders Engagement and Grievance 
+Redressal Policy
+•	
+Nomination, Remuneration and Board Diversity 
+Policy
+Principle 
+4: 
+Businesses 
+should 
+respect the interests of and be 
+responsive to all its stakeholders
+•	
+Stakeholders Engagement and Grievance 
+Redressal Policy
+•	
+CSR Policy
+Principle 
+5: 
+Businesses 
+should 
+respect and promote human rights
+•	
+Human Rights Policy
+•	
+Policy on Sexual Harassment (POSH)
+•	
+Anti-Discrimination and Equal Opportunity Policy 
+Principle 
+6: 
+Businesses 
+should 
+respect and make efforts to protect 
+and restore the environment
+•	
+Environmental Protection Policy
+Principle 
+7: 
+Businesses, 
+when 
+engaging in influencing public and 
+regulatory policy, should do so in 
+a manner that is responsible and 
+transparent.
+•	
+Code of Business Conduct and Ethics
+•	
+Anti-Bribery and Anti-Corruption Policy
+•	
+Responsible Advocacy Policy
+•	
+Anti-Fraud Policy
+Principle 
+8: 
+Businesses 
+should 
+promote 
+inclusive 
+growth 
+and 
+equitable development
+•	
+Stakeholders Engagement and Grievance 
+Redressal Policy
+•	
+Sustainable Procurement Policy
+•	
+CSR Policy
+Principle 
+9: 
+Businesses 
+should 
+engage with and provide value to 
+their consumers in a responsible 
+manner
+•	
+Stakeholders Engagement and Grievance 
+Redressal Policy
+•	
+IT Cyber Security Policy
+110
+111
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1- BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY AND IN A MANNER THAT IS 
+ETHICAL, TRANSPARENT AND ACCOUNTABLE
+UN SDGs
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the Financial Year:
+Segment
+Total number of 
+training and awareness 
+programmes held*
+Topics/ Principles covered under the training audits impact
+% of persons in respective 
+category covered by the 
+awareness programmes
+Board of 
+Directors
+5
+Updates on regulatory changes, roles and responsibilities 
+of Independent Directors, Code of Conduct and Insider 
+Trading, Materiality guidelines, Managerial remuneration, 
+Sustainability initiatives, Review of policies & procedures
+100%
+Key 
+Managerial 
+Personnel 
+(KMP)
+5
+Updates on regulatory changes, roles and responsibilities 
+of Independent Directors, Code of Conduct and Insider 
+Trading, Materiality guidelines, Managerial remuneration, 
+Sustainability initiatives, Review of policies & procedures
+100%
+Employees 
+other than 
+BoD and 
+KMPs
+198
+Food safety management system, Fire safety, First aid, 
+Regulatory affairs, Allergens management, Pest control, Anti-
+discrimination, Business ethics & Labour rights, Occupational 
+health & safety, FOSTAC, Advance Excel, POSH, Impactful 
+communication, Health and Nutrition, IT Training
+83%
+Workers
+165
+Personal hygiene, Fire safety, First aid, Machine operation(s), 
+Allergen 
+awareness, 
+Anti-discrimination, 
+POSH, 
+Environmental policy and processes, Business ethics & 
+Labour rights, Occupational health & safety
+69%
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by 
+directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the Financial Year, in the following format 
+(Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and 
+Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Amount  
+(In INR)
+Brief of the 
+case
+Has an appeal been 
+preferred (Y/N)
+Penalty/ Fine
+-
+-
+-
+-
+-
+Settlement
+-
+-
+-
+-
+-
+Compounding Fee
+-
+-
+-
+-
+-
+Non-Monetary
+Imprisonment
+-
+-
+-
+-
+-
+Punishment
+-
+-
+-
+-
+-
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where monetary or non-monetary 
+action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institution
+-
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link to 
+the policy.
+	
+Yes, the Company has an Anti-bribery and Anti-corruption policy. The Company has a zero-tolerance approach towards bribery 
+and corruption and is dedicated to conduct all its business dealings and relationships with professionalism, fairness, and integrity. 
+The Company, its subsidiaries, their directors, officers, employees (including part-time and contractors) and suppliers, value chain 
+partners and contractors while acting on behalf of the Company are required to strictly comply with this Anti Bribery and Anti 
+Corruption Policy. Officials are prohibited from giving or receiving bribes to any third party, including any person or entity in the 
+private or commercial sector.
+	
+Detailed Policy is available at: https://krblrice.com/Anti%20Bribery%20and%20Anti%20Corruption%20Policy.pdf
+	
+The employees (including Directors and KMPs) of the Company commit to adhering to the Code of Business Conduct and Ethics 
+upon joining and reaffirm this commitment annually.
+	
+Furthermore, KRBL has established a Vigil Mechanism (Whistle Blower Policy) to report incidents of misconduct, such as unethical 
+behaviour, malpractices and fraud. All directors and employees can directly report such incidents to the Chairman of the Audit 
+Committee through the Vigil Mechanism.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for 
+the charges of bribery/ corruption:
+FY 2023-24
+FY 2022-23
+Directors
+NIL
+KMPs
+Employees
+Workers
+6.	
+Details of complaints about conflict of interest:
+FY 2023-24
+FY 2022-23
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of Conflict of 
+Interest of the Directors
+NIL
+Number of complaints received in relation to issues of Conflict of 
+Interest of the KMPs
+7.	
+Provide details of any corrective action taken or underway on issues related to fines/penalties/action taken by regulators/law 
+enforcement agencies/judicial institutions, on cases of corruption and conflicts of interest.
+	
+NA
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following format:
+FY 2023-24  
+(Current Financial Year)
+FY 2022-23  
+(Previous Financial Year)
+Number of days of accounts payables
+10
+10.73
+9.	
+Open-ness of business
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and 
+advances & investments, with related parties, in the following format:
+Parameters
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration 
+of Purchases
+a.	 Purchases from trading houses as % of total purchases
+29.78%
+34.61%
+b.	 Number of trading houses where purchases are made 
+from
+534
+751
+c.	 Purchases from top 10 trading houses as % of total 
+purchases from trading houses
+25.81%
+17.42%
+Concentration 
+of Sales
+a.	 Sales to dealers / distributors as % of total sales
+77.80%
+76.83%
+b.	 Number of dealers / distributors to whom sales are made
+616
+606
+c.	 Sales to top 10 dealers / distributors as % of total sales 
+to dealers / distributors
+28.10%
+36.08%
+Share of 
+RPTs in*
+a.	 Purchases (Purchases with related parties / Total 
+Purchases)
+0.00%
+0.00%
+b.	 Sales (Sales to related parties / Total Sales)
+0.25%
+0.20%
+c.	 Loans & advances (Loans & advances given to related 
+parties / Total loans & advances)
+0.00%
+0.00%
+d.	 Investments ( Investments in related parties / Total 
+Investments made)
+3.58%
+12.15%
+*Refer to Note 46 of the standalone Financial Statements forming part of the Annual Report.
+112
+113
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+PRINCIPLE 2 -BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS SUSTAINABLE AND SAFE
+UN SDGs
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specif﻿iic technologies to improve the environmental and social 
+impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+FY 2023-24
+FY 2022-23
+Details of improvements in environmental and social impact
+R&D
+100 %
+100%
+Enhancing seed quality, delivering educational sessions to farmers on Good Agricultural 
+Practices (GAP), and supplying Integrated Pest Management (IPM) kits to agricultural 
+practitioners.
+Capex
+ -
+ -
+ -
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+	
+Yes, KRBL actively engages in sustainable sourcing, upholding the principles outlined by the International Labour Organization 
+on Business and Human Rights. One of the Manufacturing Unit of KRBL is certified by SEDEX (Supplier Ethical Data Exchange) 
+and conducts BRCGS ETRS (British Retail Consortium Global Standards) Ethical Trade Responsible assessment which makes 
+KRBL, the first organization in rice industry to be ETRS assessed with a 5/5 score. We support fair labour practices, safe 
+working conditions and respect for human rights throughout our supply chain. We also monitor our raw material and packaging 
+material suppliers on social compliance parameters. Further, we follow Ethical Trading Initiative Code in our manufacturing 
+plants. The Company has a Sustainable Sourcing Policy in place and it endeavours to procure raw materials and packaging 
+materials from the suppliers who are doing their respective businesses sustainably.
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+KRBL has an enhanced focus on sourcing goods in a responsible manner. Throughout the company’s procurement process, 
+products are sourced locally and from Micro Small and Medium Enterprises (MSMEs) and other small producers to the extent 
+possible. Given our business operations, it is difficult to estimate the percentage of inputs sourced sustainably. However, the 
+suppliers have made efforts to abide by all provisions relating to the impact on quality and food safety, sustainability, waste, 
+and work environment which includes aspects of ethical labour practices and human rights.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) 
+Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+Type of Waste
+Name of Policy/ 
+Process
+Policy/ Process Description
+Plastics (including 
+packaging)
+Extended Producer 
+Responsibility 
+As part of our Extended Producer Responsibility (EPR), we collect plastic waste 
+through our waste management agency and recycle or safely dispose it as 
+appropriate. We comply with EPR regulations set by the Central Pollution Control 
+Board (CPCB). Since 2019, we have been a plastic-neutral* organization and have 
+successfully met EPR guidelines yearly.
+E-Waste
+Extended Producer 
+Responsibility
+At KRBL, we have managed generation of electronic waste (e-waste), ensuring that 
+all such waste is conscientiously recycled and safely disposed of through accredited 
+e-waste processing facilities.
+Hazardous Waste
+Safely Disposed
+Toxic and hazardous wastes are managed in strict accordance with guidelines of 
+Pollution Control Board (PCB). This ensures safe and environmentally friendly 
+disposal, mitigating potential risks to ecosystems and public health.
+Other Waste
+Safely Disposed
+The other waste of the company is safely disposed.
+*(This pertains to only domestic market)
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste 
+collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, 
+provide steps taken to address the same.
+	
+Yes, KRBL is in compliance with the Extended Producer Responsibility (EPR) under the applicable Plastic Waste Management rules. 
+Through EPR, the Company has made an attempt to collect, recycle or safely dispose more than 2600 tonnes of plastic waste. This 
+has been made possible by efficient collaboration with collection centres and recycling/co-processing plants. The primary product 
+of the Company is food grains, hence plastic is the predominant packaging material. Ensuring compliance with the Plastic Waste 
+Management (PWM) Rules, 2016, the Company follows the 'Replace with EPR' approach to manage its downstream operations, 
+plastic packaging waste. Further, the Company has plans to increase the use of recycled plastic in a host of product packaging. 
+Our EPR plan is implemented through our Waste Management Agency ("WMA"). WMA has collected the targeted plastic waste 
+across India. In alignment with EPR compliance requirements, the Company has managed Category 1 Rigid Plastic (51 MT), 
+Category 2 Flexible Plastic (2227 MT), and Category 3 MLP Plastic (347 MT) during the FY 2023-24. To facilitate credit transfers 
+and ensure compliance across all three plastic categories, the Company has diligently fulfilled its annual return obligations via the 
+EPR portal.
+PRINCIPLE 3- BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EMPLOYEES, INCLUDING THOSE 
+IN THEIR VALUE CHAINS
+UN SDGs
+Essential Indicators
+1	
+a.	
+Details of measures for the well-being of employees:
+% of employees covered by
+Category
+Total 
+(A)
+Health 
+insurance
+Accident 
+insurance
+Maternity
+benefits
+Paternity
+Benefits
+Day care 
+facilities
+No.(B)
+% (B/A)
+No.(C)
+% (C/A)
+No. (D)
+% (D/A)
+No.(E)
+% (E/A)
+No.(F)
+% (F/A)
+PERMANENT EMPLOYEES
+Male
+1,933
+1,933
+100%
+1,933
+100%
+-
+-
+189
+10%
+0
+0 %
+Female
+41
+41
+100%
+41
+100%
+41
+100%
+0
+0
+0
+0%
+Total
+1,974
+1,974
+100%
+1,974
+100%
+41
+100%
+189
+10%
+0
+0%
+OTHER THAN PERMANENT EMPLOYEES
+Male
+205
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Female
+-
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+205
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+	
+b.	
+Details of measures for the well-being of workers:
+% of workers covered by
+Category
+Total 
+(A)
+Health  
+insurance
+Accident 
+insurance
+Maternity
+benefits
+Paternity
+benefits
+Day care 
+facilities
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (D)
+% (D/A)
+No. (E)
+% (E/A)
+No. (F)
+% (F/A)
+PERMANENT WORKERS
+Male
+748
+748
+100%
+748
+100%
+0
+0%
+10
+1%
+0
+0%
+Female
+46
+46
+100%
+46
+100%
+46
+100%
+0
+0%
+0
+0%
+Total
+794
+794
+100%
+794
+100%
+46
+100%
+10
+1%
+0
+0%
+OTHER THAN PERMANENT WORKERS
+Male
+283
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Female
+53
+0
+0%
+0
+0%
+53
+100%
+0
+0%
+0
+0%
+Total
+336
+0
+0%
+0
+0%
+53
+100%
+0
+0%
+0
+0%
+	
+c.	
+Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in the 
+following format-
+FY 2023-24
+FY 2022-23
+Cost incurred on well-being measures as a % of total revenue of 
+the company
+0.06%
+0.02%
+114
+115
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+2.	
+Details of retirement benefits, for the current and previous Financial Year:
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered (as 
+a % of total 
+employees)
+No. of workers 
+covered (as 
+a % of total 
+workers)
+Deducted & 
+deposited with the 
+authority  
+(Yes/No/N.A)
+No. of 
+employees 
+covered (as 
+a % of total 
+employees)
+No. of workers 
+covered (as 
+a % of total 
+workers)
+Deducted and 
+deposited with the 
+authority  
+(Yes/No/N.A.)
+PF
+88.04%
+97.10%
+Yes
+86%
+98%
+Yes
+Gratuity
+100.00%
+100.00%
+Yes
+100%
+100%
+Yes
+ESI*
+28.67%
+98.74%
+Yes
+28%
+100%
+ Yes
+Others- Labour 
+Welfare Fund 
+(LWF).
+42.10%
+66.12%
+Yes
+40%
+67%
+ Yes
+	
+This table covers only permanent employees.
+	
+*As per the ESI Regulation, 100% of the eligible employees and workers have been covered under the benefits.
+3.	
+Accessibility of workplaces
+	
+Are the premises/offices accessible to differently abled employees as per the requirements of the Rights of Persons with Disabilities 
+Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+	
+Yes the workplaces are well equipped with ramps, lifts and handrails for staircases to facilitate the movement of differently abled 
+individuals following the requirements of the Rights of Persons with Disabilities Act, 2016.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link 
+to the policy.
+	
+Yes, KRBL follows ethical and competitive practices across its business dealings. The Company is an Equal Opportunity employer 
+and aims to maintain inclusivity for all. It believes in treating every employee with respect and stands for the elimination of 
+discrimination in respect of employment and occupation. The Company believes in fostering a workplace culture that values 
+diversity, promotes inclusivity, and upholds the principles of equality and respect for all individuals. The Company has in place a 
+dedicated Anti-Discrimination and Equal Opportunity Policy that serves as a cornerstone of our commitment towards providing a 
+safe, supportive, and fair environment for every employee of our organisation.
+	
+The policy can be accessed at: https://krblrice.com/policies-codes-related-documents/
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent Workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+NA#
+NA
+NA#
+NA#
+Female
+100%
+100%
+NA#
+NA#
+Total
+100%
+100%
+NA#
+NA#
+#No paternity leaves were availed during the financial year.
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and workers? If yes, 
+give details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent 
+Employees
+KRBL maintains a Human Resources Management System (HRMS) portal for its employees. The portal 
+provides a helpdesk to employees for resolving any grievance. Additionally, the company has provided 
+suggestion boxes for employees to submit their feedback and suggestions.
+Other than 
+Permanent 
+Employees
+The HR department is available to address any queries or concerns from the employees. The Company 
+aims to provide prompt and efficient resolution of all queries through both email communication and 
+direct interaction.
+Permanent Workers
+The Company has Works Committee, Grievance Handling Committee and Safety Committee, all of which 
+look into any grievances associated with the working conditions and safety of the workers. Grievances 
+received from workers are duly recorded in the appropriate registers at the plant premises.
+Other than 
+Permanent Workers
+	
+KRBL has implemented multiple policies to ensure that its employees and workers can get redressal of their grievances in an 
+appropriate manner. The Company's Stakeholder Engagement and Grievance Redressal Policy is applicable to all stakeholders 
+who are either affected by or affect the company’s operations.
+	
+The Company’s Whistle Blower Mechanism enables its Directors and employees, to report any concerns or grievances related to 
+potential or actual breach of the Company’s Code of Business Conduct and Ethics, unethical behaviour. To enhance awareness, 
+the organisation employs various communication methods, including email correspondence, training programmes, presentations 
+and sessions, encouraging individuals to promptly report genuine, ethical and legal concerns or suspected fraudulent behaviour.
+	
+Moreover, the Company has a designated POSH Committee at all establishments, to ensure that all have a platform to raise and 
+address their concerns effectively
+	
+The policies can be assessed on the link: https://krblrice.com/policies-codes-related-documents/
+7.	
+Membership of employees in association(s) or unions recognised by the listed entity:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+employees 
+/ workers in 
+respective 
+category 
+(A)
+No. of employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (B)
+% (B/A)
+Total 
+employees 
+/ workers in 
+respective 
+category 
+(C)
+No. of employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (D)
+% (D/C)
+Total Permanent Employees
+1,974
+-
+-
+1,636
+-
+-
+-Male
+1,933
+-
+-
+1,602
+-
+-
+-Female
+41
+-
+-
+34
+-
+-
+Total Permanent Workers
+794
+-
+-
+878
+-
+-
+-Male
+748
+-
+-
+828
+-
+-
+-Female
+46
+-
+-
+50
+-
+-
+8.	
+Details of training given to employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+On health & safety/
+wellness measures
+On skill upgradation
+Total (D)
+On health and safety 
+measures/ wellness
+On skill upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+EMPLOYEES
+Male
+2,138
+1,540
+72.03%
+1,517
+70.95%
+1,810
+117
+6.46%
+156
+8.62%
+Female
+41
+36
+87.80%
+29
+70.73%
+34
+3
+8.82%
+14
+41.18%
+Total
+2,179
+1,576
+72.33%
+1,546
+70.95%
+1,844
+120
+6.51%
+170
+9.22%
+WORKERS
+Male
+1,031
+694
+67.31%
+719
+69.74%
+1,094
+114
+10.42%
+107
+9.78%
+Female
+99
+46
+46.46%
+46
+46.46%
+104
+6
+5.77%
+1
+0.96%
+Total
+1,130
+740
+65.49%
+765
+67.70%
+1,198
+120
+10.02%
+108
+9.02%
+Note: Permanent and other than permanent employees and workers were considered.
+116
+117
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+9.	
+Details of performance and career development reviews of employees and workers
+Category
+FY24 Current Financial Year
+FY23 Previous Financial Year
+Total (A)
+No. (B)
+% (B/ A)
+Total (C)
+No. (D)
+% (D/ C)
+EMPLOYEES
+Male
+2,138
+2,138
+100%
+1,810
+1,370
+75.69%
+Female
+41
+41
+100%
+34
+25
+73.53%
+Total
+2,179
+2,179
+100%
+1,844
+1,395
+75.65%
+WORKERS
+Male
+1,031
+1,031
+100%
+1,094
+687
+62.80%
+Female
+99
+99
+100%
+104
+49
+47.12%
+Total
+1,130
+1,130
+100%
+1,198
+736
+61.44%
+10.	 Health and safety management system
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, the 
+coverage of such system?
+	
+	
+Yes, the Company has an Operational Health and Safety (OH&S) management system implemented in our premises which 
+include trainings, Hazard Identification and Risk Assessment (HIRA), Incident reporting mechanisms, Emergency preparedness 
+drills and Internal monitoring processes. OH&S practices are followed to effectively address health & safety needs of all 
+employees.
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the 
+entity?
+	
+	
+Hazards Identification and Risk Assessment (HIRA) are conducted periodically across all our production sites to identify 
+hazards and their associated risks. The Company has also conducted risk assessments in manufacturing units pertaining to 
+building risks, changes in building, transmittable diseases and risks related to pregnant women. Internal audits are conducted 
+to assess any non-compliances, which can affect health and safety of our employees and workers. In the event of accidents, 
+detailed root cause analysis is undertaken and corrective actions are performed immediately. Awareness trainings are 
+provided to all employees including but not limited to mock drills on emergency preparedness, use of fire extinguishers, 
+emergency fire and noise alarms, PPE kits and relevant safety equipment to all workers. Permit-to-work process is used for 
+assessing risks related to non-routine tasks. The process involves identifying the hazards associated with the facilities and the 
+work involved and outlining the controls to eliminate and reduce hazards. Job safety assessments are conducted regularly.
+	
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks. (Yes/
+No)
+	
+	
+Yes, the Company is committed towards keeping its workers safe at all locations. For this, the Company has established 
+necessary processes for all its workers to report the work-related hazards and to protect themselves from such risks. We have 
+constituted Works Committee, Grievance Handling Committee and Safety Committee in all our manufacturing units which 
+investigates all grievances of the workers. Periodic trainings and mock drills with active participation of the entire workforce 
+on emergency preparedness and use of fire extinguishers, fire alarms are also conducted. PPE kits and relevant safety 
+equipments are also provided to all workers as per the job requirements.
+	
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/No)
+	
+	
+Yes, all the employees and workers have access to non-occupational medical and healthcare services. KRBL provides 
+company funded medical support, medical insurance, and statutory benefits under ESIC, wherever applicable.
+11.	 Details of safety related incidents in the following format:
+Safety Incident/Number
+Category*
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours 
+worked)
+Employees
+0
+3.20
+Workers
+1.80
+4.50
+Total recordable work-related injuries
+Employees
+1
+3
+Workers
+6
+5
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health (excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+*Including in the contract workforce
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+The Company prioritizes safety which is achieved by incorporating strong protective measures to ensure a safe and healthy 
+workplace - Employee well-being is very crucial to the company’s success and KRBL ensures it by taking steps, institution of 
+POSH Committee, Works committee, Grievance Handling Committee and Safety Committee which investigates all Employees’ and 
+Workers’ grievances.
+	
+We have an OH&S management system implemented in our premises. The Company also provides training to all employees 
+enhancing skill upgradation and personal safety. These trainings are on Personal Hygiene, Fire Safety, First-Aid, Machine operation, 
+site security, Pest control, Problem solving. Trainings on POSH and mock drills for emergency preparedness are also conducted 
+periodically. Workers in production areas are provided with proper PPE kits and relevant safety equipment such as gloves, ear 
+plugs etc. The plants have primary health centres and restrooms. At all our manufacturing plants, we conduct annual medical 
+check-ups and vaccination drives through medical professionals. Health and welfare camps on Yoga, Meditation, Women’s health 
+and nutrition are regularly conducted.
+13.	 Number of complaints on the following made by employees and workers
+Category
+FY 2023-24
+FY 2022-23
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Working Conditions
+4
+NIL
+Security/Admin/
+Housekeeping
+6
+Nil
+Minor issues related 
+to Canteen/ Drinking 
+Water
+Health & Safety
+-
+-
+-
+-
+-
+ -
+14.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / 
+concerns arising from assessments of health and safety practices and working conditions.
+	
+There were no significant risk or concern arising from assessments of health & safety practices and working conditions, however 
+we have undertaken following preventive measures:
+	
+a)	
+We have established a comprehensive process for hazard identification and risk assessment by which all potential hazards 
+related to health and safety are identified and appropriate control measures are implemented.
+	
+b)	
+In the event of accidents, detailed root cause analysis is conducted, and corrective actions are performed immediately.
+	
+c)	
+Internal and external audits are carried out at the manufacturing and corporate level periodically.
+	
+d)	
+Regular training and awareness programs are conducted to ensure that all employees are well-informed and capable of 
+adhering to the updated safety protocols.
+	
+e)	
+Periodic check of equipment and machinery is conducted.
+118
+119
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+PRINCIPLE 4- BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO ALL ITS STAKEHOLDERS
+UN SDGs
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Refer Stakeholder Engagement section forming part of this Annual Report on page no. 44-45
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group:
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group  
+(Yes/No)
+Channels of 
+communication 
+(Email, SMS, 
+Newspaper, Pamphlets, 
+Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Others
+Frequency 
+of 
+Engagement 
+(Annually/
+Half Yearly/
+Quarterly/
+Others-
+please 
+specify)
+Purpose and scope of engagement including key 
+topics and concerns raised during such engagement
+Consumers
+No
+Emails, Telephonic, 
+Advertisements, 
+Social media, Website, 
+Pamphlets, Newspapers, 
+TV, Magazines
+Ongoing 
+Basis
+Product Feedback:
+We consider product feedback extremely pertinent and 
+engagement with consumers, through different media.
+Transparency and Communication:
+We provide accurate and easily understandable 
+information about the products, processes, and 
+sustainability efforts through clear labelling, product 
+information, QR Codes and public disclosures, enabling 
+consumers to make informed choices.
+Product Innovation and Responsiveness:
+Consumer input is important for us to create more 
+sustainable 
+and 
+environment-friendly 
+products, 
+packaging, 
+and 
+processes. 
+This 
+demonstrates 
+commitment towards meeting consumer demands and 
+aligning with their values.
+Communities
+Yes
+On site community 
+meetings
+Need basis
+CSR Engagement:
+Engagement with beneficiaries are undertaken as per 
+the company’s designated  CSR initiatives and programs.
+Collaboration with Local Businesses: 
+KRBL collaborates with local businesses and farmers 
+to support the growth and development of the 
+community during product sourcing, promoting local 
+entrepreneurship 
+and 
+supporting 
+initiatives 
+that 
+enhance the local economy.
+Environmental Initiatives:
+The Company implements environmental friendly 
+practices within its operations and supports initiatives 
+such as promoting awareness about conservation and 
+climate change.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group  
+(Yes/No)
+Channels of 
+communication 
+(Email, SMS, 
+Newspaper, Pamphlets, 
+Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Others
+Frequency 
+of 
+Engagement 
+(Annually/
+Half Yearly/
+Quarterly/
+Others-
+please 
+specify)
+Purpose and scope of engagement including key 
+topics and concerns raised during such engagement
+Shareholders
+No
+General Meetings, 
+Investor Presentation, 
+Earnings Conference 
+Calls, Stock Exchange 
+Intimations, Newspaper 
+Publications, Annual 
+Report, Emails, Calls, 
+Website
+Ongoing 
+Basis
+General Meetings: 
+General Meetings allow shareholders to receive updates 
+on the company’s performance, financial statements, 
+strategic plans, and any proposed resolutions. It is also 
+a platform where shareholders can ask questions, voice 
+concerns, and provide feedback.
+Shareholder Feedback Mechanisms:
+The Company has established an effective mechanisms 
+for shareholders to provide feedback, ask questions, and 
+express their opinions. This includes dedicated email 
+addresses specifically designated for shareholders. 
+Responding promptly and addressing shareholder 
+queries or concerns demonstrates the company’s 
+commitment to shareholder engagement.
+Shareholder Communication: 
+KRBL provides timely updates and reports on financial 
+performance, 
+significant 
+events, 
+and 
+any 
+other 
+relevant information through emails including, investor 
+presentations, press releases, reports etc.
+Investor Presentations and Conference Calls: 
+KRBL organises investor presentations and conference 
+calls to provide updates on the company’s performance, 
+financial results, strategic initiatives, and market outlook. 
+These events offer investors an opportunity to directly 
+interact with management, ask questions and gain 
+insights into the company’s operations.
+Quarterly and Annual Reports: 
+KRBL publishes comprehensive quarterly and annual 
+reports that include financial statements, management 
+discussions and analysis of the business.
+Investors
+No
+Ongoing 
+basis
+Employees/
+Workers
+No
+Email, Calls, HRMS  
+Portal
+Regular
+Development and Learning, Trainings on Health and 
+safety
+Media
+No
+Press Releases, 
+Interviews
+Event based
+Press Releases, Media Interviews, Advertisements, 
+Campaigns
+Regulatory 
+Authorities
+No
+Disclosures, 
+Newspapers 
+publications, Emails, 
+Website, Statutory 
+Filings
+Regular
+Compliance of laws
+Timely regulatory filings with appropriate authorities
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or if 
+consultation is delegated, how is feedback from such consultations provided to the Board.
+ 	
+The Company has undertaken a materiality survey to identify the key issues that are material to its business. The Company has 
+taken an interactive and data-driven approach to the evaluation, drawing on best industry practises and engaging with internal and 
+external stakeholders.
+120
+121
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+	
+The materiality matrix developed by KRBL reflects the primary areas of focus across Environmental, Social and Governance 
+parameters, based on two dimensions — ‘Importance to Stakeholders’ and ‘Importance to the Company’. The Company has 
+established a CSR & ESG Committee, which includes members of the Board. The Committee is regularly informed about the 
+Company’s ongoing initiatives.
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental and social topics (Yes 
+/ No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into 
+policies and activities of the entity.
+ 	
+Yes, stakeholder participation and ideas are critical in identifying material subjects, contributing significantly to the organisation’s 
+complete and inclusive approach to sustainability. By consulting stakeholders, organisation can effectively identify and manage 
+environmental and social topics that hold significance.
+ 	
+This collaborative process enables the Company to benefit from diverse perspectives, ensuring a well-rounded understanding of 
+sustainability issues and their impacts. By valuing stakeholder consultation, the Company fosters transparency, accountability and 
+informed decision-making, leading to more robust sustainability strategy and outcomes.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized 
+stakeholder groups.
+	
+The Company identifies the need of communities including vulnerable and marginalised groups and accordingly takes up various 
+programs through Corporate Social Responsibility initiatives. The initiatives undertaken by the Company under the thrust areas of 
+Corporate Social Responsibility is after assessing the need of the communities including the vulnerable/marginalised stakeholder 
+groups and other members of the community. In this regard, the Company has contributed towards serving 63 lac meals through 
+the Akshaya Patra Foundation to under privileged school going children.
+PRINCIPLE 5 – BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+UN SDGs
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following 
+format:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of 
+employees/ 
+workers 
+covered (B)
+% (B/A)
+Total (A)
+No. of 
+employees/ 
+workers 
+covered (D)
+% (D/C)
+EMPLOYEES
+Permanent
+1,974
+1,589
+80.50%
+1,636
+Refer Note Below
+Other than Permanent
+205
+190
+92.68%
+208
+Total employees
+2,179
+1,779
+81.64%
+1,844
+WORKERS
+Permanent
+794
+737
+92.80%
+878
+ Refer Note Below
+Other than Permanent
+336
+45
+13.39%
+320
+Total workers
+1,130
+782
+69.20%
+1,198
+Note: All employees and workers are made aware of human rights and the Company’s Code of Conduct. No official record maintained during FY 2022-23.
+2.	
+Details of minimum wages paid to employees and workers:
+Category
+FY 2023-24 
+(Current Financial Year)
+FY 2022-23 
+(Previous Financial Year)
+Total 
+(A)
+Equal to minimum 
+wages
+More than 
+minimum wages
+Total 
+(D)
+Equal to minimum 
+wages
+More than minimum 
+wages
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No.
+(F)
+% (F/D)
+Employees
+Permanent
+Male
+1,933
+0
+0%
+1,933
+100%
+1,602
+5
+0.31%
+1,597
+99.69%
+Female
+41
+0
+0%
+41
+100%
+34
+-
+-
+34
+100.00%
+Other than Permanent
+Male
+205
+0
+0%
+205
+100%
+208
+-
+-
+208
+100.00%
+Female
+0
+0
+0%
+0
+0%
+-
+-
+-
+-
+-
+Workers
+Permanent
+Male
+748
+80
+10.70%
+668
+89.30%
+828
+60
+7.26%
+768
+92.74%
+Female
+46
+5
+10.87%
+41
+ 89.13%
+50
+8
+16.00%
+42
+84.00%
+Other than Permanent
+Male
+283
+283
+100%
+0
+0%
+266
+266
+100.0%
+-
+-
+Female
+53
+53
+100%
+0
+0%
+54
+54
+100.0%
+-
+-
+3.	
+Details of remuneration/salary/wages, in the following format:
+	
+a.	
+Median remuneration / wages:
+(Amount in ` Lacs)
+Male
+Female
+Number
+Median remuneration/ salary/ 
+wages of respective category
+Number
+Median remuneration/ salary/ 
+wages of respective category
+Board of Directors (BoD)
+7
+280.39
+2
+216.41
+KMP
+2
+115.66
+0
+-
+Employees other than BoD & KMP
+1,928
+3.24
+40
+6.11
+Workers
+748
+1.85
+46
+1.84
+Notes:
+1.	
+This table includes information for only permanent employees and workers.
+2.	
+We have four Executive Directors who are paid remuneration by way of salary, the Independent Non-Executive Directors are paid sitting fees only.
+3.	
+KMP here includes CFO and Company Secretary
+4.	
+Remuneration of the Directors is within the limit as prescribed under Section 197 read with Schedule V of the Act and other applicable laws.
+	
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+ 
+Gross wages paid to females as % of total wages
+4.63%
+5.00%
+*Only Permanent employees covered
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed 
+to by the business? (Yes/No)
+	
+Yes, the Human Resources department of the company has been designated as the focal point for resolving any issues pertaining 
+to Human Rights at KRBL. The Company has Internal Complaints Committee as per POSH to address the human rights issues of 
+the Employees.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues?
+	
+KRBL has a Human Rights Policy that aims to promote human rights both at the level of the workplace (to employees, workers, 
+suppliers, etc.) as well as the community (in and around which the company operates). All issues pertaining to human rights are 
+dealt with by the Human Resources department of the Company. Through this policy, KRBL reaffirms its commitment towards 
+dignified and respectful treatment of all individuals as well as eliminate discrimination in employment and involuntary forms of 
+labour. Further, the Company provides access to an Employee Self-Service (ESS) Portal, facilitating employees to address their 
+122
+123
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+grievances directly to the relevant department. KRBL has adopted Vigil Mechanism (Whistle-Blower Policy), Code of Business 
+Conduct and Ethics, Nomination, Remuneration and Board Diversity Policy, Policy on Prevention of Sexual Harassment (POSH), 
+Corporate Social Responsibility Policy, Anti-Fraud Policy, Anti Bribery and Anti Corruption Policy and Stakeholder Engagement and 
+Grievance Redressal Policy to ensure that business operations are carried out in a fair and ethical manner and that a human-rights 
+oriented approach is followed throughout its business activities.
+6.	
+Number of complaints on the following made by employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Sexual Harassment
+-
+-
+-
+-
+-
+-
+Discrimination at workplace
+-
+-
+-
+-
+-
+-
+Child Labour
+-
+-
+-
+-
+-
+-
+Forced /Involuntary Labour
+-
+-
+-
+-
+-
+-
+Wages
+-
+-
+-
+-
+-
+-
+Other human rights issues
+-
+-
+-
+-
+-
+-
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, in the 
+following format:
+FY 2023-24 
+(Current Financial Year)
+FY 2022-23 
+(Previous Financial Year)
+Total Complaints reported under Sexual Harassment on of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+0
+0
+Complaints on POSH as a % of female employees / workers
+0
+0
+Complaints on POSH upheld
+0
+0
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+We conduct regular training sessions for employees and workers on Prevention of Sexual Harassment (POSH). Displaying informative 
+posters regarding workplace conduct and the prevention of discrimination on notice boards. Incorporating comprehensive 
+guidance for mitigation of discrimination and harassment at workplace environments into employee induction programs.
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes, the principles and guidelines stated in the Code of Business Conduct and Ethics highlight the importance of the various 
+human rights aspects and ensures that those principles are adhered to by all the stakeholders to ensure adherence towards 
+human rights. All the matters related to human rights are addressed effectively by the concerned departments
+10.	 Assessments for the year:
+	
+We have not received any complaints pertaining to Human Rights issues for the current and previous Financial Year. However, we 
+are yet to conduct a formal Human Rights assessment of our offices in this regard.
+% of your plants and offices that were assessed (by entity or statutory authorities or 
+third parties)
+Child labour
+-
+Forced/ involuntary labour
+-
+Sexual harassment
+-
+Discrimination at workplace
+-
+Wages
+-
+Others – please specify
+-
+11.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments 
+at Question 10 above.
+	
+The Board has approved Equal Opportunity and Anti-Discrimination Policy, Anti -Fraud Policy and Stakeholder Engagement and 
+Grievance Redressal Policy consisting of standard operating procedures w.r.t to handling and addressing of human rights issues.
+PRINCIPLE 6- BUSINESS SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE THE ENVIRONMENT
+UN SDGs
+Essential Indicators
+1.	
+Details of total energy consumption in Giga Joules (GJ) and energy intensity:
+Parameter
+FY (2023-24) GJ
+FY (2022-23) GJ
+From renewable sources
+Total electricity consumption (A)
+9,124.54
+7,746.89
+Total fuel consumption (B)
+-
+-
+Energy consumption through other sources (C)
+17,82,203.44
+20,86,418.99
+Total energy consumed from renewable sources (A+B+C)
+17,91,327.98
+20,94,165.88
+From non-renewable sources
+Total electricity consumption (D)
+89,770.55
+57,783.25
+Total fuel consumption (E)
+37,681.60
+43,736.98
+Energy consumption through other sources (F)
+-
+-
+Total energy consumed from non-renewable sources (D+E+F)
+1,27,452.15
+1,01,520.23
+Total energy consumed (A+B+C+D+E+F)
+19,18,780.14
+21,95,686.11
+Energy intensity per rupee of turnover (Total energy consumed / Revenue from 
+operations) (KJ/INR)
+35.63
+40.94
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (Total 
+energy consumed / Revenue from operations adjusted for PPP) (KJ/INR adjusted for PPP)
+815.26
+936.70
+Energy intensity in terms of physical output (KJ/Kg)
+3,016.67
+3,066.86
+*Approx. 90% of energy utilized in operations is derived from renewable sources reducing reliance on fossil fuels and grid electricity.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+No
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade 
+(PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. 
+In case targets have not been achieved, provide the remedial action taken, if any.
+	
+No, the entity doesn’t have any sites/facilities identified as Designated Consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India.
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY (2023-24)
+FY (2022-23)
+Water withdrawal by source (in kilolitres)
+(i)	 Surface water
+13,500.00
+5,34,057.20
+(ii)	 Groundwater
+2,73,588.00
+2,02,682.00
+(iii)	 Third party water
+7,487.18
+230.00
+(iv)	Seawater / desalinated water
+-
+-
+(v)	 Others
+-
+71.36
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+2,94,575.18
+7,37,040.56
+Total volume of water consumption (in kilolitres)
+2,94,538.18
+3,92,092.56
+Water intensity per rupee of turnover (Total water consumption / Revenue from 
+operations) (mL/INR)
+5.47
+7.31
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (Total 
+water consumption / Revenue from operations adjusted for PPP)(mL/INR adjusted for 
+PPP)
+125.14
+167.25
+Water intensity in terms of physical output (mL/Kg)
+463.07
+547.66
+124
+125
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+Note:
+At KRBL, all wastewater undergoes stringent treatment before being reused within our premises for gardening and cleaning. This proactive approach has led to 
+reduced water withdrawal from the source during the FY 2023-24 thus, minimizing environmental impact and promoting responsible resource utilization.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+No
+4.	
+Provide the following details related to water discharged:	
+Parameter
+FY (2023-24)
+FY (2022-23)
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 To Surface water
+-
+3,44,682.00
+	
+-	
+No treatment
+-
+-
+	
+-	
+With treatment
+-
+3,44,682.00
+(ii)	 To Groundwater
+-
+-
+	
+-	
+No treatment
+-
+-
+	
+-	
+With treatment
+-
+-
+(iii)	 To Seawater
+-
+-
+	
+-	
+No treatment
+-
+-
+	
+-	
+With treatment
+-
+-
+(iv)	Sent to third-parties
+37.00
+266.00
+	
+-	
+No treatment
+37.00
+266.00
+	
+-	
+With treatment
+-
+-
+(v)	 Others
+-
+-
+	
+-	
+No treatment
+-
+-
+	
+-	
+With treatment
+-
+-
+Total water discharged (in kilolitres)
+37.00
+3,44,948.00
+Note:
+The water discharged is within permissible limits and is carefully monitored through onsite meters. The information is readily accessible online via governing 
+regulatory platforms.  In the year 2022-23 the details related to discharge was inadvertently captured incorrect. The value presented was related to the amount 
+of water re-used within our premises for gardening and cleaning. The total discharge accounted for 266 KL of water which was captured as send to third parties 
+within the report
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+No
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.
+	
+KRBL prioritizes water conservation through robust water efficiency practices mentioned below. While we haven’t yet implemented 
+Zero Liquid Discharge (ZLD) systems at our facilities, we actively aim to minimize freshwater consumption.
+	
+Judicious Water Use: We promote responsible water usage throughout our operations.
+	
+Wastewater Recycling: We treat wastewater through Effluent Treatment Plants (ETPs) and maximize its reuse for landscaping.
+	
+Minimized Freshwater Reliance: By treating and reusing wastewater for landscaping, we significantly reduce the need for 
+fresh water.
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Unit
+FY (2023-24)
+FY (2022-23)
+NOx
+-
+-
+-
+SOx
+-
+-
+-
+Particulate matter (PM)
+µg/m3
+55.98
+81.00*
+Persistent organic pollutants (POP)
+-
+-
+-
+Volatile organic compounds (VOC)
+-
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+-
+Others please specify
+-
+-
+-
+Note: KRBL rigorously monitors stack emissions through periodic testing at all facilities, ensuring compliance. This includes internal testing and site testing by the 
+State Government/Appropriate authorities.
+*This value has been recalculated and corrected.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+No
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY (2023-24)
+FY (2022-23)
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+TCo2e
+12,107.63#
+11,168.01
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+TCo2e
+17,854.36*
+11,396.14
+Total Scope 1 and Scope 2 emission intensity per rupee of 
+turnover (Total Scope 1 and Scope 2 GHG emissions / Revenue from 
+operations)
+mgCo2e/`
+556.40
+420.72
+Total Scope 1 and Scope 2 emission intensity per rupee of 
+turnover adjusted for Purchasing Power Parity (PPP)(Total Scope 
+1 and Scope 2 GHG emissions / Revenue from operations adjusted 
+for PPP)
+mgCo2e/` 
+adjusted for 
+PPP
+12,730.37
+9,626.07
+Total Scope 1 and Scope 2 emission intensity in terms of physical 
+output
+mgCo2e/Kg
+47,105.69
+31,516.81
+Note:
+#Emission factor for (Scope 1 emissions) fuels and fugitive emissions were taken from IPCC 2006 Guidelines for National Greenhouse Gas Inventories, DEFRA 
+(UK Government GHG Conversion Factors for Company Reporting - 2023)
+*Emission factor for (Scope 2 emissions) electricity was taken from CO2 Baseline Database for the Indian Power Sector User Guide Version 19.0 published in 
+December 2023
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+No
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details.
+	
+KRBL actively implements projects that demonstrably reduce greenhouse gas (GHG) emissions. Our commitment to sustainability 
+is evident through a multi-pronged approach to renewable energy:
+	
+Solar Plants: KRBL has invested in solar installations to generate clean electricity, reducing reliance on grid electricity.
+	
+Residual Rice Husk Utilisation: Residual rice husk, a by-product of our operations, is effectively utilised as a fuel source. This 
+process displaces traditional fossil fuels like coal, minimising GHG emissions associated with power generation.
+	
+By implementing these initiatives, KRBL ensures that over 90% of its consumed power originates from renewable sources. This 
+significantly contributes to a reduction in greenhouse gas emissions compared to conventional power generation methods.
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY  (2023-24)
+FY  (2022-23)
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+2,625.00
+2,330.47
+e-Waste (B)
+0.375
+0.38
+Bio-medical waste (C)
+0.36
+-
+Construction and demolition waste (D)
+-
+5.40
+Battery waste (E)
+2.11
+1.30
+Radioactive waste (F)
+-
+-
+Other Hazardous waste. Please specify, if any. (G)
+0.45
+1.4
+Other Non-hazardous waste generated (H). (Rice Husk Ash, Metal scrap and Wood)
+28,110.90
+17.07
+Total (A+B + C + D + E + F + G +H)
+30,739.19
+2,356.02
+Waste intensity per rupee of turnover (mg/INR)
+570.83
+43.93
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (mg/
+INR adjusted for PPP)
+13,060.59
+1,005.14
+Waste intensity in terms of physical output (mg/Kg)
+48,327.57
+3,290.81
+126
+127
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+Parameter
+FY  (2023-24)
+FY  (2022-23)
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in 
+metric tonnes)
+Category of Waste
+(i)	 Recycled
+364.65
+1,084
+(ii)	 Re-used
+-
+-
+(iii)	 Other recovery operations
+-
+-
+Total
+364.65
+1,084
+For each category of waste generated, total waste disposed off by nature of disposal method (in metric tonnes)
+Category of Waste
+(i)	 Incineration
+0.36
+-
+(ii)	 Landfilling
+27654.88
+5.74
+(iii)	  Other disposal operations
+2,719.29
+570.24
+Total
+30374.53
+575.98
+	
+Note: KRBL prioritizes environmental responsibility. We’ve revised our non-hazardous waste reporting to include rice husk ash, a by-product of our renewable 
+biomass power generation. This change may show an increase compared to previous reports, but it provides a more accurate picture. Additionally, we want to 
+clarify an assumption: while loading rice husk ash onto trucks for landfill, water is sprayed to keep the ash settled during transportation. This practice can result in 
+inaccurate data records due to the added weight of the absorbed water. Therefore, we now calculate rice husk ash based on the residual ash approx (18%) of the 
+total rice husk generated in our operations and utilized in generation of electricity
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+No
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your company 
+to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to manage such 
+wastes.
+	
+KRBL prioritizes environmental stewardship through a comprehensive waste management strategy. This strategy integrates best 
+practices across all waste categories, aligning with our commitment to sustainability.
+	
+a.	
+Extended Producer Responsibility: We acknowledge our Extended Producer Responsibility (EPR) for plastic and electronic 
+waste (e-waste). Robust mechanisms ensure their proper disposal and recycling, adhering strictly to all EPR compliance 
+regulations.
+	
+b.	
+Hazardous Waste Management: Toxic and hazardous wastes are managed in strict accordance with Pollution Control Board 
+(PCB) guidelines. This ensures safe and environmentally friendly disposal, mitigating potential risks to ecosystems and public 
+health.
+	
+c.	
+Resource Efficiency and Circularity: Non-hazardous waste is managed through authorized partners, while residual rice husk 
+is utilized for power generation, maximizing resource efficiency.
+11.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere 
+reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are 
+required, please specify details in the following format:
+ 	
+KRBL does not have any operations/offices in/around ecologically sensitive areas.
+S.No.
+Location of 
+operations/ offices
+Type of 
+operations
+Whether the conditions of environmental approval/ clearance are being complied 
+with? (Y/N) If no, the reasons thereof and corrective action taken, if any.
+-
+-
+-
+-
+	
+Yes, KRBL upholds biodiversity, a pillar of sustainability. We recognize environmental complexities and adhere to strict environmental 
+guidelines, minimizing our impact. While our operations may not be in ecologically sensitive areas, our commitment extends 
+beyond. We continuously evaluate practices and explore partnerships to support broader biodiversity conservation efforts.
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current financial 
+year.
+	
+KRBL prioritizes strict adherence to environmental regulations. While Environmental Impact Assessments (EIAs) weren’t required 
+for our FY 2023-24 operations, we remain committed to conducting them when necessary. We actively engage with relevant 
+authorities to ensure our activities align with best practices.
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water (Prevention and 
+Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). If 
+not, provide details of all such non-compliances.
+S. 
+No.
+Specify the law/ regulation/ 
+guidelines which were not 
+complied with
+Provide details of the 
+non- compliance
+Any fines / penalties  /action taken by 
+regulatory agencies such as pollution 
+control boards or by courts
+Corrective action 
+taken, if any
+Not applicable
+	
+Yes, KRBL goes beyond mere compliance. We aim towards establishing a robust environmental management system that adheres 
+to all applicable Indian environmental laws and regulations, including the Water (Prevention and Control of Pollution) Act, the Air 
+(Prevention and Control of Pollution) Act, and the Environment (Protection) Act and the rules made thereunder.
+PRINCIPLE 7- BUSINESSES, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, SHOULD DO SO IN A 
+MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+UN SDGs
+Essential Indicators
+1	
+a.	
+Number of affiliations with trade and industry chambers/ associations.
+	
+	
+The Company is committed towards carrying out business in a manner where the authorities in the areas where it operates 
+are kept in constant engagement.
+	
+	
+To ensure that the Company’s advocacy position is consistent with it’s values, KRBL aims to consistently engage with it’s 
+stakeholders to ensure that policy advocacy is conducted ethically and in the interest of the Company’s stakeholders.
+ 	
+	
+KRBL has affiliations with 5 trade and industry chambers/associations.
+	
+b.	
+List of trade and industry chambers/ associations (determined based on the total members of such body) the entity is a 
+member of/ affiliated to.
+S. 
+No.
+Name of the trade and industry chambers / associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1
+AIREA (All India Rice Exporters Association).
+National
+2
+Federation of Indian Export Organisations (FIEO)
+National
+3
+The PHD Chamber of Commerce and Industry (PHDCCI)
+National
+4
+Bureau of Indian Standard (BIS)- Food grains, allied products and other 
+agricultural produce sectional committee
+National
+5
+Bureau of Indian Standard (BIS)- Consultative group on sustainability
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, based on 
+adverse orders from regulatory authorities.
+	
+No anti-competitive behaviour related adverse orders from any regulatory authority.
+128
+129
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+PRINCIPLE 8-BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVELOPMENT
+UN SDGs
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial 
+year.
+Name and brief 
+details of project
+SIA Notification 
+No.
+Date of 
+notification
+Whether conducted by 
+independent external 
+agency (Yes/No)
+Results communicated in 
+public domain (Yes/No)
+Relevant Web link
+Social Impact Assessments (SIAs) have not been conducted by KRBL limited during FY 2023-24
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity.
+S. No.
+Name of Project 
+for which R&R 
+is ongoing
+State
+District
+No. of Project 
+Affected 
+Families (PAFs)
+% Of PAFs 
+covered by R&R
+Amounts paid to 
+PAFs in the FY  
+(In INR)
+No R&R projects have been undertaken by KRBL in FY 2023-24 as the same was not applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+KRBL’s operations has a significant impact on the surrounding communities and any person or entity which is affected by our 
+business operations is considered a stakeholder by the company. Timely resolution of all our stakeholder’s grievances is of 
+utmost significance to the Company. We have a dedicated Stakeholders Engagement and Grievance Redressal policy which has a 
+detailed procedure for addressing grievances with a single point of contact specified. The main objective is to discover any gaps 
+and to ensure that the community’s needs and concerns are addressed and resolved in a time bound manner.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/ small producers
+9.03%
+8.25%
+Directly from within India
+100%
+100%
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed on a 
+permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost
+Location
+FY 2023-24 Current 
+Financial Year
+FY 2022-2023 
+Previous Financial 
+Year
+Rural
+(Place to be categorized as per RBI Classification System - rural 
+/ semi-urban / urban / metropolitan)
+5.84%
+6.01%
+Semi-urban
+46.86%
+49.11%
+Urban
+45.82%
+43.25%
+Metropolitan
+1.49%
+1.63%
+*This covers only permanent employees
+PRINCIPLE 9- BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS IN A 
+RESPONSIBLE MANNER
+UN SDGs
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+KRBL has a well-established Consumer Complaint Cell which has established and detailed Standard Operating Procedure to 
+ensure all the customer complaints and queries received are handled fairly, efficiently, and effectively in a time bound manner. 
+We have dual point of connection for resolving customer complaints. Our contact number - +91-8448893199 and our Customer 
+Care e-mail - customercare@krblindia.com which is also printed at the back of all our product packaging, helps the customers 
+to register their respective queries and complaints in a more convenient manner. Every complaint is resolved through proper 
+investigation and technical expert consultation and proper documentation in a time-bound manner. We appreciate our customers’ 
+input on our product offerings and endeavour to provide high-quality products that satisfy our customers’ requirements and fulfil 
+their expectations.
+	
+The Company has in place a policy on stakeholder’s engagement and grievance policy which can be assessed on the link: https://
+krblrice.com/wp-content/uploads/2024/08/SEGR-Policy-31.07.2024-Adopted.pdf
+2.	
+Turnover of products and/services as a percentage of turnover from all products/service that carry information about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+-
+Safe and responsible usage
+100%
+Recycling and/or safe disposal
+ 100%
+3.	
+Number of consumer complaints:
+FY 2023-24
+FY 2022-23
+Received 
+during the year
+Pending 
+resolution at 
+end of year
+Remarks
+Received 
+during the year
+Pending 
+resolution at 
+end of year
+Remarks
+Data privacy
+-
+-
+-
+-
+-
+-
+Advertising
+-
+-
+-
+-
+-
+-
+Cyber-security
+45
+-
+Cases 
+notified 
+by 
+customers 
+wherein 
+they were targeted 
+through 
+WhatsApp 
+messages 
+from 
+unknown 
+senders/
+fake 
+websites/links 
+providing 
+lucrative 
+offers 
+using 
+our 
+brand name.
+-
+-
+-
+Delivery of 
+essential services
+-
+-
+-
+-
+-
+-
+Restrictive Trade 
+Practices
+-
+-
+-
+-
+-
+-
+Unfair Trade 
+Practices
+-
+-
+-
+-
+-
+-
+Other
+-
+-
+-
+-
+-
+-
+130
+131
+Annual Report 2023-24
+Statutory Report
+Business Responsibility and Sustainability Report
+4.	
+Details of instances of product recalls on accounts of safety issues.
+	
+KRBL has not recorded any product recalls during the current financial year.
+Number
+Reasons for recall
+Voluntary recalls
+-
+-
+Forced recalls
+-
+-
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a web-
+link of the policy.
+	
+KRBL has developed various comprehensive security policies that outline access control, security, incident management 
+procedures etc. Our policy on cyber security and risks related to data privacy is available on our website https://krblrice.com/
+Cyber%20Security%20Guideline_Policy.pdf. Training is delivered to all employees on cybersecurity best practices. We have a 
+dedicated IT team which ensures role-based access controls with proper encryption are in place ensuring employees have access 
+to the necessary data required for their job responsibilities. All software are regularly updated and antivirus software are installed 
+for protection against external threats. Internal audits and mock drills are also regularly conducted.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising and delivery of essential services; 
+cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory 
+authorities on safety of products / services.
+	
+No such instance
+7.	
+Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches – No such instances
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers – 0%
+ 	
+c.	
+Impact, if any, of the data breaches- Not Applicable
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, if available).
+	
+a.	
+KRBL’s official website i.e. https://krblrice.com/ and https://www.indiagatefoods.com/ serves as a hub for providing detailed 
+product descriptions, recipes and cooking tips.
+	
+b.	
+Through television and print advertising, we feature our brand across renowned Hindi general entertainment channels, 
+movies channels and children’s channels. We have also partnered with renowned publications to feature our products.
+	
+c.	
+Digital platforms such Instagram, Facebook, X and Smart Consumer App.
+	
+d.	
+Through e-Commerce platforms such Reliance, Spencer's, Flipkart, Amazon etc.
+	
+e.	
+Online and Offline Large format Stores such D mart and Vishal Mega Mart
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+a.	
+Digital Presence and Social Media Engagement - We have a strong digital presence to connect with our target audience 
+effectively. Our website serves as a hub of information, providing detailed product descriptions, recipes and cooking tips. We 
+also engage with our customers through various social media platforms like Facebook, Instagram, X etc.
+	
+b.	
+Television and Print Advertising - We strategically utilise television and print advertising to reach to a wider audience to 
+feature our products, highlight their qualities and educating consumers about safe and responsible usage of our products.
+	
+c.	
+Consumer Outreach Programmes - Establishing a strong connection with our customers is of strong importance to KRBL. 
+This is carried out through various consumer outreach programmes, such as cooking demonstrations, recipe contests, food 
+festivals, various campaigns etc. to actively engage with our target audience. KRBL together with the Eat Right India initiative 
+under the aegis of the Food Safety and Standards Authority of India (FSSAI), flagged off the nationwide ‘Basmati Rice No 
+Compromise’ public interest education and awareness initiative. It was to spread awareness of the recently released FSSAI 
+regulations on identity standards for basmati rice across 10 cities.
+	
+d.	
+All our products have accurate and easily understandable information about the product, instructions for use, mfg. date, use 
+by date etc. through clear labelling which enables the consumer to make informed choices and safe usage. They can also 
+reach out to us on our toll-free number +91-8448893199 and our email ID customercare@krblindia.com, these details are 
+printed on all our product packaging. We also have a dedicated section “Contact Us” on our website which includes necessary 
+details and helps in making an enquiry. There is also another section named “Our Brands” which has all the information related 
+to all our products and their ingredients for consumer ease and knowledge.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+At KRBL, we do not deal with any essential services, however, in case of any disruption, we can disseminate information through 
+our website, various mass media platforms, social media platforms, distribution network, sales representatives, emails, etc. In 
+addition, consumers can reach out to us on +91-8448893199 and email ID customercare@krblindia.com, printed on each product.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/Not 
+Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer satisfaction relating to the 
+major products / services of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No)
+	
+Yes, all mandatory disclosures required under Legal Metrology Act, 2009, Food Safety Standards Act, 2006 and other applicable 
+laws are made on products, further we display product information on the product over and above what is mandated as per 
+local laws. This includes QR codes which pertains the information about the product facts. We also display the information about 
+product quality aspects, description about product, ageing of rice etc.
+	
+Yes, with an objective to gain insight of customer experience, preferences, likes, or dislikes related to product & services, a 
+feedback call is being performed after complaint resolution. The maximum timeline for performing the feedback call is within 30 
+days of receiving the complaint. In addition to calls, we also share a customer satisfaction assessment form through email with the 
+complainant seeking their feedback on overall experience.

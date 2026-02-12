@@ -1,0 +1,2652 @@
+ 
+      MAHANAGAR TELEPHONE NIGAM LIMITED 
+ 
+ 
+(A GOVERNMENT OF INDIA ENTERPRISE) 
+CIN L32101DL1986GOI023501 
+ 
+Registered and Corporate Office: Mahanagar Doorsanchar Sadan 5th Floor, 9 CGO Complex, Lodhi 
+Road, New Delhi - 110 003. Tel:  011-24319020, Fax: 011-24324243, Website: www.mtnl.net.in 
+/www.bol.net.in, Email: mtnlcsco@gmail.com / mtnlcsco@bol.net.in 
+ 
+ 
+MTNL/SECTT/SE/2024 
+September 05th, 2024 
+To, 
+The Listing Department, 
+Bombay Stock Exchange (BSE)  
+National Stock Exchange (NSE)  
+ 
+Ref: BSE Scrip Code: 500108/ NSE Symbol: MTNL 
+Sub:  SUBMISSION OF BUSINESS RESPONSIBILITY AND SUSTAINABILTY REPORT OF MTNL FOR FY 
+2023-24-reg 
+ 
+Dear Sir, 
+Pursuant to Regulation 34(2)(f) of SEBI (LODR) Regulations, 2015, please find enclosed herewith 
+the Business Responsibility and Sustainability Report of MTNL for FY 2023-24, which also form 
+part of the Annual Report of MTNL for FY 2023-24. 
+ 
+Kindly take the above information on record. 
+ 
+Thanking You, 
+Yours faithfully 
+ 
+(RATAN MANI SUMIT) 
+COMPANY SECRETARY 
+ 
+Encl: BUSINESS RESPONSIBILITY AND SUSTAINABILTY REPORT OF MTNL FOR FY 2023-24 
+Ratan Mani 
+Sumit
+Digitally signed by 
+Ratan Mani Sumit 
+Date: 2024.09.05 
+12:23:04 +05'30'
+38th Annual Report 2023-24
+100
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+SECTION A: GENERAL DISCLOSURES
+I.	
+DETAILS OF THE LISTED ENTITY
+1.	
+Corporate Identity Number (CIN) of the Listed Entity: L32101DL1986GOI023501
+2.	
+Name of the Listed Entity: Mahanagar Telephone Nigam Limited
+3.	
+Year of incorporation: 1986
+ 4.	 Registered office address: Mahanagar Doorsanchar Sadan, 5th Floor, 9, CGO 
+Complex, Lodhi Road, New Delhi-110003
+5.	
+Corporate address: Mahanagar Doorsanchar Sadan, 5th Floor, 9, CGO Complex, 
+Lodhi Road, New Delhi-110003.
+6.	
+E-mail: mtnlcsco@gmail.com
+7.	
+Telephone- 011-24317225
+8.	
+Website: www.mtnl.net.in/www.bol.net.in
+9.	
+Financial year for which reporting is being done: 2023-24
+10.	 Name of the Stock Exchange(s) where shares are listed: BSE & NSE
+11.	 Paid-up Capital: Rs 630 Cr.
+12.	 Name and contact details (telephone, email address) of the person who may be 
+contacted in case of any queries on the BRSR report: _Ratan Mani Sumit (Company 
+Secretary Tel no. 011-24317225, Email ID mtnlcsco@gmail.com , mtnlcsco@bol.net.in )
+13.	 Reporting boundary - Are the disclosures under this report made on a standalone 
+basis (i.e. only for the entity) or on a consolidated basis (i.e. for the entity and all the 
+entities which form a part of its consolidated financial statements, taken together). 
+Standalone Basis.
+14.	 Name of the assurance provider – NA
+15.	 Type of assurance obtained - NA
+II.		 Products/Services
+16.	 Details of business activities (accounting for 90% of the turnover):
+S. 
+NO.
+Description of Main Activity
+Description of Business 
+Activity
+% of Turnover of 
+the entity
+1.
+Basic & Other Services (Landline, 
+Broadband, FTTH, Cellular)
+Telecommunication 
+100%
+38th Annual Report 2023-24
+101
+17.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+NO.
+NAME OF PRODUCT/SERVICE
+NIC 
+CODE
+%OF TOTAL TURNOVER 
+CONTRIBUTED
+1.
+Wireless Telecommunication Activities
+Activities of Internet access by the operator of the 
+wireless infrastructure (61201)
+Activities of maintaining and operating cellular 
+and other telecommunication networks (61202)
+612
+4
+2.
+Wired Telecommunication Activities
+Activities of basic telecom services: telephone, 
+telex, and telegraph (61101)
+Activities of providing internet access by the 
+operator of the wired infrastructure (61104)
+611
+96
+III.	 Operations
+18.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+NA
+3*
+3
+International
+NA
+NA
+NA
+* Corporate Office, Delhi Unit and Mumbai Unit. For operational efficiency, Delhi and Mumbai 
+units have offices in different areas/zones of Delhi and Mumbai.
+International telecom operations in 2 countries (Mauritius & Nepal) are served by Mahanagar 
+Telephone Mauritius Limited (MTML), a Wholly Owned Oversees Subsidiary of MTNL in 
+Mauritius and United Telecom Limited (UTL) Nepal a Joint Venture Company of MTNL in 
+which MTNL holds 26.68% shares.
+19.	 Markets served by the entity:
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+ 2*
+International (No. of Countries)
+NA
+	
+* Delhi & Maharashtra (Mumbai)
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity- 
+0.01%
+c.	
+A brief on types of customers:
+MTNL offers services in categories of wireless and wire-line telecommunication to 
+the customers of MTNL The customers can use the various services such as Landline, 
+Broadband, Mobile, FTTH, Leased Circuits, Enterprise services, MPLS, Toll Free services, 
+ISDN, EPABX etc.
+38th Annual Report 2023-24
+102
+IV.	 Employees
+20.	 Details as at the end of Financial Year: 31.03.2024
+a.	
+Employees and Workers (including differently abled):
+S. No.
+Particulars
+Total (A)
+ Male
+ Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1.
+Permanent (D) 
+3309
+2674
+80.81
+635
+19.19
+2.
+Other than Permanent (E )
+3.
+Total Employees (D + E) 
+3309
+2674
+80.81
+635
+19.19
+WORKERS
+4.
+ Permanent (F) Not Applicable
+NA
+5.
+Other than Permanent (G)
+NA
+6.
+Total Employees (F +G)
+NA
+b.	
+Differently abled Employees and Workers:
+S.
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C )
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+24
+22
+91.67
+2
+8.33
+2.
+Other than Permanent (E )
+NOT 
+APPLICABLE
+3.
+Total Employees (D + E)
+24
+22
+91.67
+2
+8.33
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+ Not Applicable
+5.
+Other than Permanent (G )
+6.
+Total Employees (F + G)
+21.	 Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+11
+1
+9.09
+Key Management Personnel
+2
+0
+0
+22.	 Turnover Rate for Permanent Employees and Workers (Disclose trends for the past 3 
+years):
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+0.552
+0.058
+0.610
+0.574
+0.109
+0.683
+3.396
+0.653
+4.049
+Permanent 
+Workers
+ NOT APPLICABLE
+38th Annual Report 2023-24
+103
+V.	 Holding, Subsidiary and Associate Companies (including joint ventures)
+23.	 (a) Names of Holding / Subsidiary / Associate Companies / Joint Ventures
+S.
+No
+Name of the holding/
+subsidiary/ associate 
+companies / joint 
+ventures
+Indicate whether 
+holding/ 
+Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares 
+held by listed 
+entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1.
+Millennium Telecom Ltd. 
+(MTL)
+Subsidiary
+100
+No
+2.
+Mahanagar Telephone 
+Mauritius Limited 
+(MTML)
+Overseas 
+Subsidiary
+100
+No
+3.
+MTNL STPI IT Services 
+Ltd. (MSITS)
+Joint Venture
+50
+No
+4.
+United 
+Telecommunications Ltd. 
+(UTL), Nepal
+ Joint Venture
+26.68
+No
+VI.	 CSR Details
+24.	 (i)  Whether CSR is applicable as per Section 135 of Companies Act, 2013: NO
+(ii)	 Turnover (in Rs.) 728.47 Cr. [Rs 1,301.48 (including Other Income)]
+(iii)	Net worth (in Rs.) (23,662.80 Cr.)
+VII.	Transparency and Disclosures Compliances
+25.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National 
+Guidelines on Responsible Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/No) (If Yes, then 
+provide web-link 
+for grievance redress 
+policy) Number of 
+complaints filed 
+during the year
+FY 2023-24
+FY 2022-23
+Number of 
+complaints
+pending
+resolution 
+at close of 
+the year
+Remarks
+Number of
+complaints
+filed during
+the year
+Number of
+complaints
+pending
+resolution 
+at close of 
+the year
+Remarks
+Communities
+ Not applicable
+Investors
+(other than
+Shareholders)
+Refer to point no.1
+https://mtnl.in/investors.html
+	
+ 0 0	
+ NA 0 0 NA
+Shareholders
+Refer to point 
+no.1
+https://mtnl.
+in/investors.
+html
+	
+	
+2
+0
+All the 2 
+Complaints 
+is resolved
+2
+0
+All the 2 
+Complaints 
+are resolved
+Employees 
+and
+workers
+Refer 
+Principle No 
+3 Point no 6
+Customers
+Refer Principle No 9 and Point No 2
+Value Chain 
+Partners
+Not Applicable
+Other (please 
+specify)
+Not Applicable
+38th Annual Report 2023-24
+104
+Point No. 1. MTNL has Stakeholders Relationship Committee (“SRC”) to examine and 
+redress complaints by Shareholders/Bondholders. SRC meets as and when required and 
+atleast once a year to resolve Shareholders/Bondholders Grievances. SCORES Platform & 
+ODR Platform is also available for Shareholders to raise any complaints. Shareholders can 
+also register their complaints to the Company, RTA, BSE & NSE.
+Point No 2. In the case of Basic Telephone Service, following types of complaints are received 
+from customers - billing related, customer service relayed, faults and network related, UCC 
+related and VAS related. In the case of Broadband Service, following types of complaints 
+are received from customers - billing related, customer service related, faults and network 
+related, Internet / data related and VAS related.
+DETAILS OF CUSTOMER COMPLAINTS (BASIC TELEPHONE SERVICE & 
+BROADBAND SERVICE) FOR THE PERIOD FROM 01.04.2023 TO 31.03.2024
+S.NO.
+PARTICULARS
+TOTAL RECEIVED
+TOTAL PENDING
+% OF PENDING 
+CASES AT THE END 
+OF FINANCIAL 
+YEAR
+MUMBAI
+DELHI
+MUMBAI
+DELHI
+MUMBAI
+DELHI
+1.
+P.G. Cases
+799
+2470
+19
+26
+2.37
+1.05
+2.
+Landline Faults
+213003
+163682
+21616
+253
+10.15
+0.15
+3.
+Broadband Faults
+32927
+12095
+2080
+17
+6.32
+0.14
+26.	 Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining 
+to environmental and social matters that present a risk or an opportunity to your business, 
+rationale for identifying the same, approach to adapt or mitigate the risk along-with its 
+financial implications, as per the following format
+38th Annual Report 2023-24
+105
+S. 
+No.
+Material issue identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for 
+identifying 
+the risk/ 
+opportunity
+In case 
+of risk, 
+approach 
+to adapt or 
+mitigate
+Financial implications 
+of the risk or 
+opportunity (Indicate 
+positive or  negative 
+implications)
+1.
+Market / Competition Risk
+R
+Kindly refer to the Enter-
+prise Risk Management 
+Policy of MTNL in Man-
+agement Discussion and 
+Analysis Report which is 
+part of Directors Report for 
+the FY 2023-24
+Negative
+2.
+Policy and Regulation Risk 
+& Regulatory Compliance
+R
+Negative
+3.
+Technology Risk / Quality 
+of Service
+R
+Negative
+4.
+Operational Risk
+R
+Negative
+5.
+Ongoing Concern Risk
+R
+Negative
+6.
+Internal Control Failures 
+and Integrity of Financial 
+Information Risk
+R
+Negative
+7.
+Information Technology & 
+Systems Security Risk
+R
+Negative
+8.
+Disaster Management and 
+Business Continuity Risk
+R
+Negative
+9.
+Greater 
+Transparency 
+and Entity Level Ethical & 
+Governance Risk
+R
+Negative
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes 
+put in place towards adopting the NGRBC Principles and Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.
+a.	 Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs. 
+(Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b.	 Has the policy been approved by the Board? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+c.	 Web Link of the Policies, if available
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+2.
+Whether the entity has translated the policy into 
+procedures. (Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.
+Do the enlisted policies extend to your value chain 
+partners? (Yes/No)
+N
+N
+N
+N
+N
+N
+N
+N
+N
+4.
+Name of the national and international codes/
+certifications/labels/ 
+standards 
+(e.g. 
+Forest 
+Stewardship Council, Fairtrade, Rainforest Alliance, 
+Trustea) standards (e.g. SA 8000, OHSAS, ISO, BIS) 
+adopted by your entity and mapped to each principle.
+N
+N
+N
+N
+N
+N
+N
+N
+N
+5.
+Specific commitments, goals and targets set by the 
+entity with defined timelines, if any
+NA
+6.
+Performance of the entity against the specific 
+commitments, goals and targets along-with reasons 
+in case the same are not met.
+38th Annual Report 2023-24
+106
+Governance, leadership and oversight
+7.
+Statement by director responsible for the business responsibility report, highlighting ESG related 
+challenges, targets and achievements (listed entity has flexibility regarding the placement of this 
+disclosure)
+The Company is committed to develop a suitable ESG framework for the organization.
+8.
+Details of the highest 
+authority 
+responsible 
+for 
+implementation 
+and oversight of the 
+Business Responsibility 
+policy (ies).
+Board of Directors
+9.
+Does the entity have a 
+specified 
+Committee 
+of the Board / Director 
+responsible 
+for 
+decision 
+making 
+on 
+sustainability 
+related 
+issues? (Yes / No). If yes, 
+provide details
+NO
+10.
+Details of Review of NGRBCs by the Company:
+Subject for 
+Review
+Indicate whether review was undertaken 
+by Director/ Committee of the Board/ Any 
+other Committee
+Frequency
+(Annually/ Half yearly/ Quarterly/ Any 
+other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance 
+against above 
+policies 
+and 
+follow 
+up 
+action
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+On Quarterly and Annual basis
+Compliance 
+with statutory 
+requirements 
+of relevance to 
+the principles, 
+and,
+rectification 
+of any non-
+compliances
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+On Quarterly and Annual basis
+11.
+Has the entity carried out independent assessment/ 
+evaluation of the working of its policies by an external 
+agency? (Yes/No). If yes, provide name of the agency.
+N
+N
+N
+N
+N
+N
+N
+N
+N
+12.	 If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons 
+to be stated - Not applicable.
+38th Annual Report 2023-24
+107
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the 
+Principles and Core Elements with key processes and decisions. The information sought is 
+categorized as “Essential” and “Leadership”. While the essential indicators are expected to be 
+disclosed by every entity that is mandated to file this report, the leadership indicators may be 
+voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be 
+socially, environmentally and ethically responsible.
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a 
+manner that is Ethical, Transparent and Accountable.
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles 
+during the financial year:
+Segment
+Total Number 
+of Training 
+and Awareness 
+Programmes held
+Topics/ Principal are 
+Covered under the 
+training and its impact
+%age of person in 
+respective category 
+covered by the 
+awareness programme
+Board of Director
+NIL
+NA
+NA
+Key Managerial 
+Personal
+01 (One) Workshop on 
+RTI Act
+RTI Act provisions
+Training imparted to 09 
+(Nine) GM level officers
+Employee 
+other 
+than 
+BoD 
+and 
+KMPs
+Total 
+95 
+training 
+programmes were held 
+during 
+financial 
+year 
+2023-24 in ITTM. Total 
+16 upgradation training 
+and 09 workshops were 
+held during 2023-24 in 
+CETTM.
+Trainings 
+conducted 
+on 
+company 
+policies 
+including; upgradation 
+on 
+(Managerial 
+and 
+Technical), 
+Cyber 
+security and RTI Act. 
+Workshop 
+on 
+RTI, 
+O.F.Splicing, 
+GPS 
+based access network 
+planning, LMG, Roles 
+and 
+Responsibilities 
+of PO and IO during 
+inquiry proceedings
+100%
+Workers
+NA
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount 
+paid in proceedings (by the entity or by directors / KMPs) with regulators/ law enforcement 
+agencies/ judicial institutions, in the financial year, in the following format (Note: the 
+entity shall make disclosures on the basis of materiality as specified in Regulation 30 
+of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as 
+disclosed on the entity’s website):
+38th Annual Report 2023-24
+108
+ Monetary
+NGRBC
+Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ 
+judicial 
+institutions
+Amount 
+(In INR)
+Brief of the Case
+Has an 
+appeal been 
+preferred? 
+(Yes/No)
+Penalty/ Fine
+Principle 
+1
+1.	
+NSE
+2.	
+BSE
+` 
+43,30,600/-
+For the financial year 
+ended 
+on 
+March 
+31, 
+2024, 
+the 
+Company 
+has complied with all 
+requirements 
+of 
+SEBI 
+(LODR) 
+Regulations, 
+the 
+Companies 
+Act, 
+2013 
+and 
+rules 
+made 
+thereunder, 
+applicable 
+Secretarial 
+Standards 
+issued by ICSI and DPE 
+Guidelines on Corporate 
+Governance, as amended 
+from time to time, except 
+compliance 
+related 
+to 
+appointment of requisite 
+number of Independent 
+Directors. Due to such 
+non-compliances, 
+NSE 
+and BSE have imposed a 
+total fine of `43,18,800/- 
+including GST), for all 
+the four quarters of FY 
+2023-24. Also, a penalty 
+of Rs. 11,800 was paid to 
+BSE (including GST) for 
+short notice for record 
+date intimation of ISIN 
+INE153A08022 
+in 
+the 
+month of November, 2022.
+Yes
+Settlement
+NIL
+NIL
+NIL
+NIL
+-
+Compounding 
+fee
+NIL
+NIL
+NIL
+NIL
+-
+Non-Monetary
+NGRBC
+Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ 
+judicial 
+institutions
+Brief of the 
+Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+NIL
+NIL
+NIL
+NIL
+-
+Punishment
+NIL
+NIL
+NIL
+NIL
+-
+38th Annual Report 2023-24
+109
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred 
+in cases where monetary or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ 
+enforcement agencies/ judicial 
+institutions
+In connection with fine levied by NSE and BSE for non-
+appointment of Independent Directors, as stated in the 
+previous question, since the power to appoint Directors 
+on the Board of the Company vests with the Govt. of India, 
+acting through the Administrative Ministry i.e., Department 
+of Telecommunications (DoT), Ministry of Communication, 
+Government of India, therefore the Company has been 
+requesting the appointing authority, i.e., DoT, for appointment 
+of requisite number of Independent Directors. The Company 
+has no control in the appointment of Directors. In view of the 
+same, the Company had requested / is requesting the stock 
+exchanges to waive off the said fines.
+1.	 National Stock Exchange of 
+India Limited
+2.	 BSE
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in 
+brief and if available, provide a web-link to the policy:
+Yes. The ethical conduct of the Company is reflected in the various policy initiatives. While 
+the Employees Conduct, Discipline & Appeal Rules (CDA Rules) cover the employees at 
+all levels in the organization. In addition, to promote ethical business, Policies like Code of 
+Conduct, Integrity Pact, Whistle Blower Policy, Insider Trading Code and Citizen Charter 
+have also been put into operation. CVC Manual is also being followed in MTNL Vigilance 
+Unit
+Additionally, the Company has a Vigilance Department headed by Chief Vigilance Officer 
+(CVO), who is a nominee of the Central Vigilance Commission. The Vigilance Department 
+submits its reports to Competent Authority including the Board of Directors. The CVO also 
+reports to the Central Vigilance Commission as per their norms.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was 
+taken by any law enforcement agency for the charges of bribery/ corruption:
+No Directors and KMPs were involved in bribery/corruption both in FY24 and FY23. On 
+above grounds, no action was taken by any law enforcement agency.
+Ethics Complaints* received during the F.Y. 2023-24
+Bribery & Corruption Complaints received during the F.Y. 
+2023-24
+Total 
+complaints
+No. of 
+Complaints 
+Resolved
+No. of 
+Complaints 
+pending
+% of 
+complaint 
+resolved
+Total 
+complaints 
+Received
+No. of 
+Complaints 
+Resolved
+No. 
+Complaints 
+pending
+% of 
+complaint 
+resolved
+-
+-
+-
+-
+36
+33
+03
+91.6
+*Note: As there is no category of complaint mentioned as ethics complaints as per CVC 
+manual. All complaints which are administrative in nature (Non-vigilance) are forwarded 
+to concerned wing for needful action. During F.Y 2023-24, 204 such complaint was sent.
+38th Annual Report 2023-24
+110
+6.	
+Details of complaints with regard to conflict of interest:
+FY 2023-24
+FY 2022-23
+Number
+Remarks
+Number
+Remarks
+Number of complaints received 
+in relation to issues of Conflict 
+of Interest of the Directors
+NIL
+NA
+NIL
+NA
+Number of complaints received 
+in relation to issues of Conflict 
+of Interest of the KMPs
+NIL
+NA
+NIL
+NA
+No complaints were received with regard to conflict of interest against Directors & KMPs 
+in FY 2023-24 and FY 2022-23 respectively.
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / 
+penalties / action taken by regulators/ law enforcement agencies/ judicial institutions, on 
+cases of corruption and conflicts of interest.
+Not Applicable
+8.	
+Number of days of accounts payable {(Accounts Payable*365)/Cost of goods/service 
+procured) in the following format:
+FY 2023-24
+FY 2022-23
+Number of days of accounts payable
+-
+-
+9.	
+Openness of business
+Provide details of concentration of purchases and sales with trading houses. Dealers, 
+and related parties along with loans and advances & investments, with related parties, 
+in the following format:-
+Parameters
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration 
+of Purchases
+a.	 Purchases from trading houses as % of 
+total purchases
+NIL
+NIL
+b.	 Number of trading houses where 
+purchases are made from
+NIL
+NIL
+c.	 Purchases from top 10 trading houses as 
+% of total purchases from trading houses
+NIL
+NIL
+Concentration 
+of sales
+a.	 Sales to dealers/distributors to whom 
+sales are made
+NIL
+NIL
+b.	 Number 
+of 
+dealers/distributors 
+to 
+whom sales are made
+NIL
+NIL
+c.	 Sales to top 10 dealers/distributors as % 
+of total sales to dealers/distribution
+NIL
+NIL
+Share of RPTs 
+in
+a.	 Purchases (Purchases with related 
+parties/Total Purchases)
+NIL
+NIL
+b.	 Sales (Sales to related parties/Total 
+Sales)
+NIL
+NIL
+c.	 Loans & advances (Loan & advances 
+given to related parties/Total loans & 
+advances)
+NIL
+NIL
+d.	 Investments (Investments in related 
+parties/Total Investments made)
+NIL
+NIL
+38th Annual Report 2023-24
+111
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable 
+and safe.
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies 
+to improve the environmental and social impacts of product and processes to total R&D 
+and capex investments made by the entity, respectively.
+FY 2023-24
+FY2022-23
+Details of improvement in 
+environmental and social impact
+R&D
+-
+-
+-
+Capex
+-
+-
+-
+	
+With reference to R&D and capital expenditure (capex) investments in specific technologies 
+to improve the environmental and social impacts of product and processes, it is submitted 
+that MTNL being a service provider is not involved in R&D and making investment in 
+specific technologies to improve the environmental and social impacts. However, MTNL 
+has been involved in conducting field trails from time to time (as per requirement) with no 
+financial implications.
+2.	
+(a) Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+Yes, MTNL is following all the guidelines given by the Govt. of India for procurement 
+of Goods & Services. MTNL integrates all Social, Ethical and Environmental performance 
+factor into the process of selection supplies/vendors. The Company promotes GeM portal 
+(Government e-Marketplace) in its procurements and also promotes sourcing from MSME 
+vendors. All procurement / sourcing of material and services is done as per the procedure 
+defined in the Procurement Policy of the Company.
+(b)	 If yes, what percentage of inputs were sourced sustainably?
+Sl. No.
+PROCUREMENT DURING FY 2023-24
+(Rs. in Crores)
+1.
+Total Procurement during the year
+Rs. 76.17
+2.
+Annual Procurement from Micro and Small Enterprises (MSEs)
+Rs. 76.16
+3.
+Annual procurement from MSEs owned by SC/ST Entrepreneurs
+Rs. 0.16
+4.
+Annual procurement from MSEs owned by Women Entrepreneurs
+Rs. 18.10
+5.
+Annual Procurement from GeM
+Rs. 16.22
+6.
+Annual Procurement from MSEs on GeM
+Rs. 15.23
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling 
+and disposing at the end of life, for (a) Plastics (including packaging) (b) E-waste (c) 
+Hazardous waste and (d) other waste.
+Disposal of old, unserviceable & obsolete IT equipment’s, identified as e-waste, in MTNL, 
+Scrapping for Computer items done in 2019 through MSTC. The life of Computer has been 
+fixed for seven years. Given the nature of business and operations, the Company does not 
+have material plastic waste and other waste. Further, the Company does not have any 
+hazardous waste.
+38th Annual Report 2023-24
+112
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities 
+(Yes / No). If yes, whether the waste collection plan is in line with the Extended Producer 
+Responsibility (EPR) plan submitted to Pollution Control Boards? If not, provide steps 
+taken to address the same.
+Not Applicable
+	
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, 
+including those in their value chains
+1. a. Details of measures for the well-being of employees
+Category
+Total 
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity benefits
+Day care facility
+Number 
+(B)
+%(B/A)
+Number 
+(C)
+%(C/A)
+Number 
+(D)
+%(D/A)
+Number 
+(E)
+%(E/A)
+Number 
+(F)
+%(F/A)
+Permanent Employee
+Male
+2674
+2674
+100%
+N/A
+N/A
+AS PER RULES
+INCLUDED 
+IN HEALTH 
+INSURANCE
+Female
+635
+635
+100%
+INCLUDED IN 
+MEDICAL POLICY
+N/A
+Total
+3309
+3309
+100%
+Other than Permanent Employee
+Male
+NA
+Female
+NA
+Total
+NA
+b.	
+Details of measures for the well-being of workers:
+Category
+Total 
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity benefits
+Day care facility
+Number 
+(B)
+%(B/A)
+Number 
+(C)
+%(C/A)
+Number 
+(D)
+%(D/A)
+Number 
+(E)
+%(E/A)
+Number 
+(F)
+%(F/A)
+Other than Permanent Employee
+Male
+NA
+Female
+NA
+Total
+NA
+c.	
+Spending on measures towards well-being of employees and workers (including 
+permanent and other than permanent) in the following format:
+FY 2023-24
+FY2022-23
+Cost incurred on well-being measures as a % of total revenue of 
+the Company*.
+0.62%
+0.45%
+* Premium paid by MTNL to Insurance Company for GHIS in FY 2023-24 is Rs 8.11 cr and 
+in FY 2022-23 is Rs 6.64 cr respectively.
+38th Annual Report 2023-24
+113
+2.	 Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+Employees 
+covered as 
+a %of as a 
+% of total 
+employee
+No. of 
+workers 
+covered as 
+a %of as a 
+% of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+Employees 
+covered as 
+a %of as a 
+% of total 
+employee
+No. of 
+workers 
+covered as 
+a %of as a 
+% of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+NA
+Y
+100%
+NA
+Y
+Gratuity*
+64.3
+NA
+Y
+63
+NA
+Y
+ESI
+NA
+NA
+NA
+NA
+NA
+NA
+others
+*includes employees who have opted CPF only and not GPF for whom Gratuity is payable 
+by the Government
+3.	
+Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and 
+workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If 
+not, whether any steps are being taken by the entity in this regard.
+	
+Yes
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with 
+Disabilities Act, 2016? If so, provide a web-link to the policy.
+	
+MTNL complies with provisions of Rights of Persons with Disabilities Act, 2016 to protect 
+the interests of persons with disabilities. Reservation is provided as per the Government 
+of India (GoI) instructions in direct recruitment for Persons with Benchmark Disabilities. 
+Separate 100 point vacancy based reservation roster register is maintained for determining/
+effecting reservation for the Persons with Benchmark Disabilities. Relaxation in age limit 
+and standards of suitability (as applicable) is given to persons with disabilities. Liaison 
+Officers for PwD have been appointed to look after reservation matters and to ensure 
+compliance of instructions of the Act.
+5.	
+Return to work and Retention rates of permanent employees and workers that took 
+parental leave
+Gender
+Permanent Employee
+Permanent worker
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100
+100
+NA
+NA
+Female
+100
+100
+NA
+NA
+Total
+100
+100
+NA
+NA
+6.	
+Is there a mechanism available to receive and redress grievances for the following 
+categories of employees and worker? If yes, give details of the mechanism in brief.
+MTNL has its own grievance redressal procedure for employees. Management of the 
+Company believes in the philosophy of an Open Door Policy in the matter of redressal of 
+38th Annual Report 2023-24
+114
+employees grievances. An aggrieved employee can approach his/her Departmental Head 
+or the concerned officer of the Personnel Department (including the Head of the Personnel 
+Department) and discuss his/her grievance. Best efforts are made to enable prompt actions on 
+the issue(s) raised by the employee. The objective of the Grievance Redressal Procedure is to 
+provide an easily accessible machinery for settlement of grievances, and to adopt measures 
+as would ensure expeditious settlement of grievances, leading to increased satisfaction on 
+the job and resulting in improved productivity and efficiency of the organization.
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the 
+listed entity:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+Employee/ 
+worker in 
+respective 
+category 
+(A)
+No. of 
+employee/ 
+worker in 
+respective 
+category who 
+are part of 
+association(s) or 
+Union (B)
+%(B/A)
+Total 
+Employee/ 
+worker in 
+respective 
+category 
+(C)
+No. of 
+employee/ 
+worker in 
+respective 
+category who 
+are part of 
+association(s) 
+or Union (D)
+%(C/D)
+Total 
+Permanent 
+Employee
+3309
+1538
+46.47%
+3567
+1669
+46.79%
+Male
+2674
+1201
+44.91%
+2863
+1309
+45.72%
+Female
+635
+337
+53.07%
+704
+360
+51.13%
+Total 
+Permanent 
+Worker
+--
+--
+--
+--
+--
+--
+Male
+--
+--
+--
+--
+--
+--
+Female
+--
+--
+--
+--
+--
+--
+8.	
+Details of training given to employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+Permanent 
+Employee
+Total (A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total 
+(D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% (B / 
+A)
+No. (C)
+No. 
+(C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Male
+1558
+Nil
+Nil
+1558
+81.31%
+589
+Nil
+Nil
+589
+100%
+Female
+358
+Nil
+Nil
+358
+18.68%
+150
+Nil
+Nil
+150
+100 %
+Total 
+Permanent 
+Worker
+1916
+Nil
+Nil
+1916
+100%
+739
+Nil
+Nil
+739
+100 %
+Other than Permanent Employee (Industrial Visits)
+Male
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Female
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Total
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+38th Annual Report 2023-24
+115
+9.	
+Details of performance and career development reviews of employees and worker:
+	
+Refer to the Point No.8 of Principle 3.
+10.	 Health and safety management system:
+a.	
+Whether an occupational health and safety management system has been 
+implemented by the entity? (Yes/ No). If yes, the coverage such system?
+	
+Considering the nature of business and operations, the occupational health and safety 
+issues are minimal. The Company takes care of health and well-being of its employees 
+by reimbursing in-patient and out-patient medical costs, provision for leaves on 
+medical grounds, which are applicable for all employees
+b.	
+What are the processes used to identify work-related hazards and assess risks on a 
+routine and non-routine basis by the entity?
+	
+NA
+c.	
+Whether you have processes for workers to report the work related hazards and to 
+remove themselves from such risks. (Y/N)
+	
+NA
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and 
+healthcare services? (Yes/ No)
+1.	
+In order to ensure a safe and healthy workplace, requisite security measures, 
+installation and maintenance of fire extinguishers and housekeeping measures 
+have been taken in MTNL.
+2.	
+MTNL being an essential service provider of telecom services, MTNL has been 
+scrupulously following COVID prevention and management guidelines for 
+all its stakeholders like social distancing, wearing of masks, and frequent hand 
+sanitization.
+3.	
+Quarantine Leave has been provided for employees whose family members have 
+been infected with COVID.
+4.	
+For employees and their family members requiring hospitalization due to COVID, 
+Group Health insurance coverage upto Rs.6 Lakhs is being provided under Group 
+Health Insurance Scheme.
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR)  
+(per one million-person hours worked)
+Employee
+NOT APPLICABLE
+worker
+Total recordable work- related injuries
+Employee
+worker
+No. of fatalities
+Employee
+worker
+High consequence worked-related inju8ry or ill-health 
+(excluding fatalities)
+Employee
+worker
+38th Annual Report 2023-24
+116
+12.	 Describe the measures taken by the entity to ensure a safe and healthy work place.
+In order to ensure a safe and healthy workplace, requisite security measures, installation 
+and maintenance of fire extinguishers and housekeeping measures have been taken in 
+MTNL.
+MTNL being an essential service provider of telecom services, MTNL has been scrupulously 
+following COVID prevention and management guidelines for all its stakeholders like social 
+distancing, wearing of masks, and frequent hand sanitization.
+Quarantine Leave has been provided for employees whose family members have been 
+infected with COVID.
+For employees and their family members requiring hospitalization due to COVID, Group 
+Health insurance coverage upto Rs.6 Lakhs is being provided under Group Health Insurance 
+Scheme.
+13.	 Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+the year
+Remark Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+the year
+Remark
+Working 
+conditions
+-
+-
+-
+-
+-
+-
+Health & Safety
+-
+-
+-
+-
+-
+-
+14.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Health 
+& 
+Safety 
+practice
+NA
+Working conditions
+NA
+15.	 Provide details of any corrective action taken or underway to address safety-related 
+incidents (if any) and on significant risks / concerns arising from assessments of health 
+& safety practices and working conditions.
+Not Applicable
+PRINCIPLE 4: BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE 
+RESPONSIVE TO ALL ITS STAKEHOLDERS
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+We believe that engagement with Stakeholders is key to understanding their needs, 
+working with them to minimise risks, maintaining social legitimacy, improving credibility 
+and gaining their trust. We identified our Stakeholders as groups and individuals, who can 
+38th Annual Report 2023-24
+117
+influence or/are impacted by our operations/activities, change in technology, regulations, 
+market and societal trends either directly or indirectly which comprise of communities, 
+employees, supply chain partners, customers, investors, regulators, and civil society 
+organisations for all its operations. We commit to engage openly and authentically with our 
+stakeholders to enhance cooperation and mutual support for a sustainable development. 
+The Company has mapped its internal and external stakeholders. Internal stakeholders 
+include employees of the Company; and external stakeholders include Department of 
+Telecommunications (DoT), Ministry of Communications, Government of India, Equity 
+Shareholders, Bondholders, Creditors, Vendors, Bankers and Customers from both Public 
+and Private sectors, Governmental Bodies and Regulatory Authorities including TRAI, 
+State Government(s), Reserve Bank of India, Ministry of Corporate Affairs, Securities and 
+Exchange Board of India, Stock Exchanges, Registrar & Transfer Agent etc.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement 
+with each stakeholder group.
+Stakeholder Group
+Whether 
+identified as 
+vulnerable & 
+Marginalized 
+Group (Yes/
+No)
+Channels of Communication 
+(Email, SMS, Newspaper, 
+Pamphlets, advertisement, 
+Community Meetings, Notice 
+board, Website), Other
+Frequency of 
+Engagement 
+(Annually/
+Half yearly/
+Quarterly/others 
+– please specify)
+Purpose and Scope of 
+engagement including 
+key topics and concerns 
+raised during such 
+engagement
+Department 
+of 
+Telecommunication 
+(DoT), 
+Ministry 
+of 
+C ommu n ications, 
+Government of India
+NO
+Meetings, 
+Letter, 
+Email, 
+Telephonic Call
+As 
+and 
+when 
+required
+For 
+Compliance 
+with 
+directions issued by the 
+Government of India
+Customers
+NO
+Email, 
+SMS, 
+Newspaper, 
+advertisement Website
+As 
+and 
+when 
+required
+For Customer Satisfaction 
+and for redressal of their 
+grievances
+Vendors
+NO
+As needed: calls and meetings, 
+emails, presentations, reviews.
+At 
+regular 
+intervals
+For operational 
+requirements
+Shareholders
+NO
+Email, SMS, Website, Letters, 
+Telephone, Newspaper etc.
+On 
+Quarterly 
+basis, 
+through 
+AGM, 
+Postal 
+Ballot and as and 
+when 
+required 
+under 
+SEBI 
+Regulationss
+Communication 
+of 
+financial results, adoption 
+of financial statement and 
+transaction 
+of 
+ordinary 
+and special business from 
+time to time in AGM and 
+through 
+Postal 
+Ballot.
+Addressing 
+requests/
+grievances of shareholders 
+from time to time
+Bondholders
+NO
+Email, SMS, Website, Letters, 
+Telephone, Newspaper etc.
+As 
+and 
+when 
+required in order 
+to comply with 
+SEBI 
+LODR 
+requirements
+Allotment, 
+Interest 
+Servicing, 
+Redemption 
+Payment, Bond Certificate/
+Demat Credit.
+Addressing 
+requests/
+grievances of bondholders 
+from time to time.
+38th Annual Report 2023-24
+118
+PRINCIPLE 5 BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and 
+policy (ies) of the entity, in the following format:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+(A)
+No. of/employees 
+workers covered (B)
+% (B / 
+A)
+Total 
+(C)
+No. of/employees 
+workers covered (D)
+% (D / 
+C)
+Permanent Employee
+Male
+Nil
+Female
+Total
+Other than Permanent Employee
+Male
+NOT APPLICABLE
+Female
+Total
+2.	
+Details of minimum paid to employees and workers
+Wages are paid to the employees as per pay scales approved by the MTNL Board, i.e. IDA 
+pay scale approved by Department of Public Enterprises (DPE), Govt. of India.
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+Equal to 
+Minimum 
+Wage
+More than 
+Minimum 
+Wage
+% (B / A)
+Total (C)
+Equal to 
+Minimum 
+Wage
+More than 
+Minimum 
+Wage
+% (D / C)
+No. 
+(B)
+%
+(B/A)
+Permanent Employee
+Male
+ 100
+Female
+Total
+Other than Permanent Employee
+Male
+NOT APPLICABLE
+Female
+Total
+38th Annual Report 2023-24
+119
+3.	
+Details of remuneration/ salary/ wages, in the following format:
+(a)	 Median remuneration/salary/wages
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD)
+11
+NIL
+1
+NIL
+Key Managerial 
+Personnel*
+2
+0
+NIL
+Employees 
+other 
+than 
+BoD and KMP*
+2672
+635
+Workers
+NOT APPLICABLE
+*Total Salary paid to Employees during FY 2023-24 = Rs 570.06 crore
+*No remuneration / salary is paid to whole time / Govt. Nominee Directors. Independent 
+Directors are paid only sitting fees, reimbursement of travel, hotel expenditure for attending 
+Board & its committee meetings.
+(b)	 Gross wages paid to females as % of total wages paid by the Entity, in the following 
+format:
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of total wages
+19.21%
+19.51%
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human 
+rights impacts or issues caused or contributed to by the business? (Yes/No)
+The Company accords the highest priority for protection and upliftment of human rights 
+and the Board and senior management are fully responsible and committed for addressing 
+human rights impacts or issues caused or contributed, by the Company’s business and any 
+actions, broadly speaking. However, the Company believes that its employees shall live 
+with social & economic dignity & freedom, and treated equally regardless of gender, race, 
+economic status, caste or religion. The Company’s support for the fundamental principles 
+of human rights is reflected in the Company policies and actions towards our employees, 
+suppliers, clients and communities.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights 
+issues.
+MTNL has its own Grievance Redressal Procedure for employees. Management of the 
+Company believes in the philosophy of an Open Door Policy in the matter of redressal of 
+employee grievances. An aggrieved employee can approach his/her Departmental Head 
+or the concerned officer of the Personnel Department (including the Head of the Personnel 
+Department) and discuss his/her grievance. Best efforts are made to enable prompt actions 
+on the issues raised by the employee. The objective of the Grievance Redressal Procedure is to 
+provide an easily accessible machinery for settlement of grievances, and to adopt measures 
+as would ensure expeditious settlement of grievances, leading to increased satisfaction on 
+the job and resulting in improved productivity and efficiency of the organization.
+38th Annual Report 2023-24
+120
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2023-24
+Filed during the year
+Pending resolution at 
+the end of year
+Remarks
+Sexual Harassment
+1
+0
+NIL
+Discrimination at workplace
+NIL
+NIL
+NIL
+Child Labour
+NIL
+NIL
+NIL
+Forced Labour/Involuntary Labour
+NIL
+NIL
+NIL
+Wages
+NIL
+NIL
+NIL
+Other human rights related issues
+NIL
+NIL
+NIL
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace ( Prevention, 
+Prohibition and Redressal) Act, 2013, in the following format:
+FY 2023-24
+FY 2022-23
+Total Complaints filed under the Sexual Harassment 
+of Women at Workplace (Prevention, Prohibition and 
+Redressal) Act, 2013)
+01
+01
+Complaints on POSH as % of female employees/workers
+01/656=0.15%
+01/704=0.14%
+Complaints on POSH upheld
+NIL
+NIL
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and 
+harassment cases.
+MTNL has its own grievance redressal procedure for employees. Management of the 
+Company believes in the philosophy of an Open Door Policy in the matter of redressal of 
+employees grievances. An aggrieved employee can approach his/her Departmental Head 
+or the concerned officer of the Personnel Department (including the Head of the Personnel 
+Department) and discuss his/her grievance. Best efforts are made to enable prompt actions 
+on the issue(s) raised by the employee. The objective of the Grievance Redressal Procedure 
+is to provide an easily accessible machinery for settlement of grievances, and to adopt 
+measures as would ensure expeditious settlement of grievances, leading to increased 
+satisfaction on the job and resulting in improved productivity and efficiency of the 
+organization. The Company has constituted an Internal Complaints Committee in MTNL 
+CO, Delhi Unit and Mumbai Unit to look into the complaints on Prevention, Prohibition & 
+Redressal of Sexual Harassment of Women at Workplace and matters concerned therewith 
+or incidental thereto covering all aspects as contained in the Sexual Harassment of Women 
+at Workplace (Prevention, Prohibition & Redressal) Act, 2013. The Committee consist of the 
+following members:
+•	
+A Presiding Officer: This must be a senior female employee of the organization.
+•	
+Two employee members: These employees must be aware and sensitive to gender 
+issues and dedicated to the cause of women or possess some legal knowledge on 
+related matters.
+•	
+One External member: This should be from an NGO or Association committed to the 
+cause of women and issues related to sexual harassment. The composition should be 
+such that half of the total members must be women.
+38th Annual Report 2023-24
+121
+Duties of the Internal Complaints Committee:
+The Internal Complaints Committee once constituted, plays a pivotal role in the effective 
+implementation of the provisions at the workplace. A general list of duties of the Committee 
+is enumerated as follows:
+•	
+Implementation of the Anti–Sexual Harassment Policy at the workplace.
+•	
+Submit an Annual Report (Including details like the number of case files at their 
+disposal, etc.)
+•	
+Bring about awareness about what comprises ‘sexual harassment’ at the workplace by 
+way of workshops, posters, documents, notices, seminars, etc.
+•	
+Publicize the policy framework effectively.
+•	
+Provide the victims with a safe and accessible mechanism of complaint.
+•	
+Initiation of inquiry at the earliest.
+•	
+Redress the complaints in a judicious manner.
+•	
+Provide interim relief to the complainant.
+•	
+Provide an opportunity for conciliation wherever possible.
+•	
+Stick to the principles of natural justice at all stages of the proceedings.
+•	
+Whenever required, forward the complaint to the police.
+•	
+Submit the inquiry report along with recommendations.
+•	
+Maintain confidentiality in regard to the proceedings taking place before the Committee.
+9.	
+Do human rights requirements form part of your business agreements and contracts? 
+(Yes/No)
+Yes, MTNL has adopted employee- oriented policies, in line with the general laws and 
+sound ethical practices. Kindly also refer above-mentioned point no. 4.
+10.	 Assessments for the year:
+% of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Child labour
+-
+Forced/involuntary labour
+Sexual harassment
+-
+Discrimination at workplace
+-
+Wages
+-
+11.	 Provide details of any corrective actions taken or underway to address significant risks / 
+concerns arising from the assessments at Question 9 above.
+Not Applicable
+38th Annual Report 2023-24
+122
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the 
+environment
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the 
+following format:
+MTNL does not have production / manufacturing facility. It runs Telephone Exchanges 
+in Delhi and Mumbai. Steps taken to reduce power consumption in Mumbai Unit are as 
+below:
+-Lights & fans in the unused cabins are switched off.
+-Staff is requested to switch off lights & fans when not required & while leaving office.
+-Old AC units are scrapped and new AC units installed as per requirement
+-Installation of LMG is in progress to replace OCB/EWSD exchanges and DSLAMS. This 
+will result in further reduction in power consumption.
+Parameter
+FY 2023-24
+FY 2022-23
+Delhi
+Mumbai
+Delhi
+Mumbai
+Total electricity consumption (A)
+66239147
+-
+74355794
+Total fuel consumption (B)
+ 20335
+-
+21701
+Energy consumption	
+through other sources (C)
+-
+0
+Total energy consumption (A+B+C)
+66259477
+-
+74377495
+Energy intensity per rupee of turnover
+(Total energy consumption/turnover in rupees)
+-
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under 
+the Performance, Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) 
+If yes, disclose whether targets set under the PAT scheme have been achieved. In case 
+targets have not been achieved, provide the remedial action taken, if any.
+Not Applicable
+3.	
+Provide details of the following disclosures related to water, in the following format:
+MTNL is a Telecom Service provider company and does not have production / manufacturing 
+facility, therefore its water intensity is negligible
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kiloliters)
+1. Surface water
+-
+-
+2. Groundwater
+-
+-
+3. Third party water
+-
+-
+4. Seawater / desalinated water
+-
+-
+5. Others
+-
+-
+Total volume of water withdrawal
+(in kilolitres) (i + ii + iii + iv + v)
+-
+-
+Water intensity per rupee of turnover (Water consumed / 
+turnover)
+-
+-
+38th Annual Report 2023-24
+123
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out 
+by an external agency? (Y/N) If yes, name of the external agency.
+NO
+4.	
+Provide details of the following disclosures related to water discharged:
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide 
+details of its coverage and implementation.
+Not Applicable
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the 
+following format:
+MTNL is a Telecom Service provider company and does not have production / manufacturing 
+facility. However, it complies with all applicable Environmental & Pollution laws and 
+regulations.
+Parameter
+Please specify unit
+FY 2023-24
+FY 2022-23
+NOx
+-
+-
+-
+SOx
+-
+-
+-
+Particulate matter (PM)
+-
+-
+-
+Persistent organic pollutants (POP)
+-
+-
+-
+Volatile organic compounds (VOC)
+-
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+-
+Others – please specify
+-
+-
+-
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its 
+intensity, in the following format:
+MTNL is a Telecom Service provider company and does not have production / manufacturing 
+facility. However, it complies with all applicable Environmental & Pollution laws and 
+regulations.
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, 
+then provide details.
+Not Applicable
+9.	
+Provide details related to waste management by the entity, in the following format*:
+Parameter
+FY 2023-24
+FY 2022-23
+Total Waste generated (in metric tonnes)
+Hazardous waste generated
+-
+-
+Non-hazardous waste generated
+-
+-
+Total
+-
+-
+Waste diverted from disposal
+-
+-
+38th Annual Report 2023-24
+124
+Category of waste (Hazardous)
+-
+-
+(i) Recycled
+-
+-
+(ii) Re-used
+-
+-
+(iii) Other recovery operations
+-
+-
+Total
+-
+-
+Category of waste ( Non Hazardous)
+-
+-
+(i) Recycled
+-
+-
+(ii) Re-used
+-
+-
+(iii) Other recovery operations
+-
+-
+*Considering the nature of business, the Company does not generate any material waste 
+other than negligible quantity of e-waste. Scrapping of hazardous waste like exchange 
+batteries, old power plants, AC units, etc. has been initiated by Mumbai Unit. Mumbai 
+unit has also initiated scrapping of other items like old papers, furniture (Wooden/Metal), 
+vehicles etc.
+10.	 Briefly describe the waste management practices adopted in your establishments. 
+Describe the strategy adopted by your company to reduce usage of hazardous and toxic 
+chemicals in your products and processes and the practices adopted to manage such 
+wastes.
+Disposal of old, unserviceable & obsolete IT equipment’s, identified as e-waste, in MTNL, 
+Scrapping for Computer items done in 2019 through MSTC. The life of Computer has been 
+fixed for seven years. Given the nature of business and operations, the Company does not 
+have material plastic waste and other waste. Scrapping of hazardous waste like exchange 
+batteries, old power plants, AC units, etc. has been initiated.
+11.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national 
+parks, wildlife sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, 
+coastal regulation zones etc.) where environmental approvals / clearances are required, 
+please specify details in the following format:
+Not Applicable
+12.	 Details of environmental impact assessments of projects undertaken by the entity based 
+on applicable laws, in the current financial year:
+Not Applicable
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines 
+in India; such as the Water (Prevention and Control of Pollution) Act, Air (Prevention 
+and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). If 
+not, provide details of all such non-compliances.
+MTNL is not a manufacturing company. Hence, the given question has limited relevance. 
+However, the Company complies with applicable Environmental & Pollution Laws and 
+Regulations in respect of its premises and operations
+38th Annual Report 2023-24
+125
+	
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, 
+should do so in a manner that is responsible and transparent:
+	
+Essential Indicators
+1.	
+a. Number of affiliations with trade and industry chambers/ associations.
+ NIL.
+b.	
+List the top 10 trade and industry chambers/ associations (determined based on the total 
+members of such body) the entity is a member of/ affiliated to.
+S. 
+No.
+Name of the trade and industry 
+chambers/ associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1.
+Standing Conference of Public Enterprises 
+(SCOPE)
+National
+2.
+Telecom Equipment And Services Export 
+Promotion Council (TEPC)
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti- 
+competitive conduct by the entity, based on adverse orders from regulatory authorities.
+No adverse order was received by the Company from regulatory authorities during the 
+financial year 2023- 24, hence no corrective action was required to be taken.
+PRINCIPLE 8 BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND 
+EQUITABLE DEVELOPMENT:
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on 
+applicable laws, in the current financial year.
+Not Applicable
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement 
+(R&R) is being undertaken by your entity, in the following format:
+Not Applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+MTNL has framed its Citizen/Client Charter which is available in the given link https://mtnl.
+in/citizencharter.pdf. Also Common Charter of Telecom Services 2005 is also available in 
+the given link https://mtnl.in/telecom05.html. Telecom Consumer Charter for MTNL Delhi 
+Unit is given in the following link https://mtnldelhi.in/ccdelhi.pdf. Consumer Complaints 
+Redressal Regulation in MTNL Mumbai Unit is given in the following link https://
+mtnlmumbai.in/index.php/telecom-consumer-complaint-and-redressal-regulation.
+38th Annual Report 2023-24
+126
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/ small producers
+76.16 Cr
+50.29 Cr
+Sourced directly from within the district and neighbouring 
+districts
+___
+___
+PRINCIPLE 9: BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO 
+THEIR CONSUMERS IN A RESPONSIBLE MANNER
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and 
+feedback.
+Grievance Redressal Mechanism in MTNL Delhi Unit: - The following are the different 
+mechanism for receiving and responding to consumer complaints and feedback :
+a)	
+Web portal “https://mtnldelhi.in”.
+b)	
+Call Center numbers:
+Type of 
+Service
+Toll free 
+Consumer care 
+Number(s) 
+at Complaint 
+Centre(s)
+Alternate 
+Specific Number 
+accessible from 
+other networks
+General 
+Information 
+Number
+Alternate Specific 
+Number accessible 
+from other networks
+Unified 
+Access 
+No
+Landline
+198
+xxxx2198
+1500
+22221500
+1130
+Broadband
+198, 1504
+xxxx2198, 
+22221504
+1504 ,1509
+22221504
+FTTH
+1507
+22221507
+1507
+22221507
+GSM
+1503
+1800111503
+1503
+1800111503
+ “xxxx” stands for exchange code i.e. first four digits of Landline Telephone number.
+c)	
+Android phone users may use “My MTNL Delhi” App for booking, tracking complaints 
+and providing feedback.
+d)	 Consumer may contact to senior officials directly through telephoning. The contact 
+details of the MTNL senior officials are available on the website “https://mtnldelhi.in”.
+e)	
+Consumers may visit the nearby Sanchar haat. List of Sanchar haat is available on the 
+website ’mtnldelhi.in’.
+f)	
+IVRS and Telephoning methods are also adopted in addition to the above methods for 
+consumer’s feedback
+In case the complaint is not redressed within specified time-limit or if customer is not 
+satisfied, then to accelerate the redressal of his complaint, he can lodge appeal to appellate 
+authority. The details of Appellate Authorities of MTNL are available on website of MTNL 
+38th Annual Report 2023-24
+127
+Delhi (www.mtnldelhi.in). In addition, the customer has an option to lodge his grievance, 
+in case of non-resolution of his grievances, on other platforms like: TRAI website: http://
+www.trai.gov.in Public grievances to the Central Government (Centralized CPGRAMS) 
+website: http://pgportal.gov.in. Customer can also booked complaint through e-mail id,
+Grievance Redressal Mechanism in MTNL Mumbai Unit : In MTNL Mumbai customer 
+book their complaint of Landline, Broadband, Mobile services through short code 198, 
+1130, 1500, 1504, 1503 through IVRS system or call center. Online complaint also booked 
+through following link https://mtnlmumbai.in/index.php/customer-care/book-complaint. 
+Complaint through Social media like Twitter https://twitter.com/MTNLMbiOfficial. LC 
+circuits booking through IVRS code is 12676 and for online booking link is https://billcare.
+mtnl.net.in/frs/info/book_lc.
+2.	
+Turnover of products and / services as a percentage of turnover from all products/service 
+that carry information about:
+As a percentage to total 
+turnover
+Environmental and social parameters product relevant to the (Energy 
+Used, Water Consumed, No. of People involve in production etc)*
+-
+Safe and responsible usage
+-
+Recycling and/or safe disposal
+-
+As, MTNL is a Telecom Service provider company, the above-mentioned point is not 
+applicable.
+3.	
+Number of consumer complaints in respect of the Data privacy, Advertising, Cyber-
+security, Delivery of essential services, Restrictive Trade Practices, Unfair Trade Practices, 
+other:
+In FY 2023-24, no such type of Complaints has received by MTNL.
+4.	
+Details of instances of product recalls on account of safety issues:
+(a)	 Voluntary recalls – Number and Reasons for recall
+(b)	 Force recalls – Number and Reasons for recall
+Not Applicable as MTNL is a Telecom Service provider company and does not have 
+production / manufacturing facility.
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data 
+privacy? (Yes/No) If available, provide a web-link of the policy.
+MTNL has its IT security Policy only for internal use. Since it is for internal use only, it is 
+not available for common Public. However, MTNL has placed some security advisories for 
+common public on its websites. These security advisories are placed at https://mtnldelhi.
+in/advisory.htm or Mumbai, a link is available under the tab “ Other Links” under head 
+38th Annual Report 2023-24
+128
+“Information Security Education and Awareness” at MTNL Mumbai Website i.e. www.
+mtnlmumbai.in.
+IT system Security Audit of all applications and all associated ancillary IT systems including 
+WFMS, FRS , Convergent billing and other billing systems is carried out by MTNL from 
+time to time. Accordingly, the recommendation of Audit agency/firm are implemented 
+to the extent possible to strengthen the security of IT system and infrastructure. All the 
+customer data stored in IT systems, managed by MTNL or outsourced by it, is governed 
+by standard data management policies and data is fully protected by various security 
+arrangements done at various levels and IT systems is protected by very strong security 
+frame work governed by three tier security structure which is fully secured and system 
+of firewalls and IP based access to CDR system offers added security. Further new syslog 
+servers and application was procured and is in use which has enhanced the security of 
+MPLS network of MTNL.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to 
+advertising, and delivery of essential services; cyber security and data privacy of 
+customers; re-occurrence of instances of product recalls; penalty / action taken by 
+regulatory authorities on safety of products / services
+ Not Applicable. Also kindly refer Point No 5 above.
+7.	
+Provide the following information related to data breaches:
+(a)	 Number of instances of data breaches – NIL during FY 2023-24
+(b)	 Percentage of data breaches involving personally identifiable information of customers 
+- NA
+(c )	 Impact, if any, of the data breaches - NA
+FOR & BEHALF OF BOARD OF DIRECTORS
+(A. ROBERT J. RAVI)
+ Chairman & Managing Director
+Date: 14-08-2024
+Place: NEW DELHI
+38th Annual Report 2023-24
+129
+ ANNEXURE TO BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+P1
+Businesses should conduct and govern themselves with Ethics, Transparency and Accountability
+MTNL conducts its business activities with utmost importance to ethics, transparency and accountability. The various 
+policies, codes and rules framed in this regard include:-
+Name of the Policy
+Weblink
+Guidelines on Corporate Governance
+https://mtnl.in/corporategovernance.html
+Policy for Prevention of Fraud
+https://mtnl.in/PIDPI.pdf
+Whistle Blower Policy
+https://mtnl.in/whistleBlowerPolicy.pdf
+Code of Business Conduct and Ethics
+https://mtnl.in/codeofconduct.pdf
+Policy 
+on 
+Materiality 
+of 
+Related 
+Party 
+Transactions and Dealing with Related Party 
+Transactions
+https://mtnl.in/Related%20Party%20transaction%20Policy.pdf
+Code of Conduct for Regulating, Monitoring 
+and Reporting of Trading by Designated 
+Persons and their Immediate Relatives and for 
+Fair Disclosure
+https://mtnl.in/INTERNAL%20CODE%20OF%20CONDUCT%20
+FOR%20PREVENTION%20OF%20INSIDER%20TRADING%20IN%20
+MTNL.pdf
+https://mtnl.in/CODE%20OF%20PRACTICES%20AND%20
+PROCEDURES%20FOR%20FAIR%20DISCLOSURE%20OF%20
+UNPUBLISHED%20PRICE%20SENSITIVE%20INFORMATION.pdf
+Citizen Charter
+https://mtnl.in/citizencharter.pdf
+In addition to the above, there are other policies and rules, which are internal documents of the Company and are accessible 
+to the employees of the Company on Intranet.
+P2
+Businesses should provide goods and services that are safe and contribute to sustainability throughout their life cycle.
+ Details of the Company’s services are available at https://mtnldelhi.in/ and https://mtnlmumbai.in/Further, CSR Policy of 
+the Company is available at https://mtnl.in/csr_2014.pdf
+P3
+Businesses should promote the well-being of all employees
+The Company has adopted various employee-oriented policies in line with the general laws and regulations and sound 
+ethical practices. Such policies are normally approved by the Board of Directors and are accessible to the employees of the 
+Company on the Intranet. https://mtnl.in/Humanresource.html
+P4
+Businesses should respect the interests of, and be responsive towards all stakeholders, especially those who are 
+disadvantaged, vulnerable and marginalized
+The Company respects the interest of all its stakeholders, including those who are disadvantaged, vulnerable & 
+marginalized. The Company works towards inclusive growth through its CSR Policy approved by the Board of Directors. 
+The CSR Policy is available at https://mtnl.in/csr_2014.pdf
+P5
+Businesses should respect and promote human rights
+MTNL strives to safeguard and uphold human rights in all ways possible. The Company has a Code of Business Conduct 
+& Ethics for its Board Members and Senior Management, which, inter-alia, casts moral imperative on the members of senior 
+management to keep in mind the safety and protection of human life and environment and also to avoid discrimination on 
+any grounds. The said Code is available at https://mtnl.in/codeofconduct.pdf
+P6
+Businesses should respect, protect and make efforts to restore the environment
+P7
+Businesses, when engaged in influencing public and regulatory policy, should do so in a responsible manner
+P8
+Businesses should support inclusive growth and equitable development
+MTNL has framed its Citizen/Client Charter which is available in the given link https://mtnl.in/citizencharter.pdf . Also 
+Common Charter of Telecom Services 2005 is also available in the given link https://mtnl.in/telecom05.html. Telecom 
+Consumer Charter for MTNL Delhi Unit is given in the following link https://mtnldelhi.in/ccdelhi.pdf. Consumer 
+Complaints Redressal Regulation in MTNL Mumbai Unit is given in the following link https://mtnlmumbai.in/index.
+php/telecom-consumer-complaint-and-redressal-regulation.
+P9
+Businesses should engage with and provide value to their customers and consumers in a responsible manner
+Details are given in the following link:- www.mtnldelhi.in , www.mtnlmumbai.in

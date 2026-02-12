@@ -1,0 +1,2760 @@
+ 
+ 
+Kellton Tech Solutions Ltd., CIN: L72200TG1993PLC016819 
+Regd. Office: Plot No. 1367, Road No. 45, Jubilee Hills, Hyderabad-500033, Telangana, India  
+Tel: +91-40-44333000   Email: info@kellton.com   Website: www.kellton.com 
+             Plot No. 404-405, 6th Floor, iLABS Centre, Udyog Vihar, Phase III, Gurugram-122016, Haryana, India Tel: +91-124-4698900                            
+ 
+ 
+To 
+ 
+The General Manager,
+Listing Department, 
+BSE Limited, 
+1st Floor, New Trading Wing, 
+Rotunda Building, P.J. Towers, 
+Dalal Street Fort, 
+Mumbai-400001 
+The Manager,
+Listing Department, 
+National Stock Exchange of India Ltd, 
+Exchange Plaza, 
+Bandra Kurla Complex, Bandra (East), 
+Mumbai – 400051 
+Scrip Code: 519602
+Scrip Code: KELLTONTEC
+ 
+Dear Sir/Madam, 
+ 
+SUB: Business Responsibility and Sustainability Report for the year ended March 31, 2024 
+ 
+With reference to the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
+(Listing Regulations) we are submitting the Business Responsibility and Sustainability Report 
+under Regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 for Financial year 2023-24. The same is also uploaded on the website of the Company at 
+Kellton BRSR 2024  
+ 
+We request you to kindly take the above on record as per the provisions of the Listing 
+Regulations. 
+ 
+This is for your information and record. 
+ 
+For and on behalf of 
+Kellton Tech Solutions Limited 
+ 
+ 
+ 
+Rahul Jain 
+Company Secretary & Compliance Officer 
+Membership No: 62949 
+Date: September 07, 2024 
+Place: Hyderabad 
+Rahul Jain
+Digitally signed by 
+Rahul Jain 
+Date: 2024.09.07 
+11:52:30 +05'30'
+1
+Business Responsibility and Sustainability Report
+SECTION A: GENERAL INFORMATION ABOUT THE COMPANY
+I.	
+Details of the listed entity
+1
+Corporate Identity Number (CIN) of the
+ Company
+L72200TG1993PLC016819
+2
+Name of the Company
+Kellton Tech Solutions Limited
+3
+Year of Incorporation
+1993
+4
+Registered address
+Plot No 1367, Road No- 45, Jubilee Hills, Hyderabad
+– 500033, Telangana
+5
+Corporate Address
+Plot No 1367, Road No- 45, Jubilee Hills, Hyderabad
+– 500033, Telangana
+6
+E-mail id
+compliance@kelltontech.com
+7
+Telephone
+040 4433 3000
+8
+Website
+https://www.kelltontech.com
+9
+Financial Year reported
+April 01, 2023 to March 31, 2024
+10
+Name of the Stock Exchange(s) where shares are 
+listed
+BSE Limited and
+National Stock Exchange of India Limited
+11
+Paid Up Capital
+Rs. 48,70,08,015
+12
+Name and contact details of the person who 
+may be contacted in case of any que- ries on the 
+BRSR report
+Mr. Rahul Jain 
+(Company Secretary and Compliance Officer)
+Mob: 8103808311
+Email: compliance@kelltontech.com
+13
+Reporting boundary - Are the disclosures under 
+this report made on a standalone basis (i.e. only 
+for the entity) or on a consolidated basis (i.e. for 
+the entity and all the entities which form a part 
+of its consolidated financial statements, taken 
+together).
+Standalone
+14
+Sector(s) that the Company is engaged in 
+(industrial activity code-wise)
+Information Technology and Computer Services 
+activities
+15
+List three key products/services that the 
+Company manufactures/provides (as in balance 
+sheet)
+•	 Information Technology services and solutions
+•	 Platform IP
+•	 Technology Infrastructure and Services
+16
+Total number of locations where business
+activity is undertaken by the Company –
+(a)	 Number of international locations-
+(b)	 Number of national locations: 
+Locations
+Number
+National 
+(No. of States)
+06
+International 
+(No. of Countries)
+17
+17
+Markets served by the Company – Local/
+State/National/International
+National and International
+2
+2
+II.	
+Products/services
+18.	 Details of business activities (accounting for 90% of the turnover):
+S.no
+Description of Main Activity
+Description of Business Activity
+% of Turnover of 
+the entity
+1.
+Information and Communication
+Computer programming, Consultancy and 
+related activities
+100.00%
+19.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S.no.
+Product/Service
+NIC Code
+% of total Turnover
+1.
+Design and development services of software applica- 
+tions including customised and packaged software
+99831413
+100.00%
+III.	
+Operations
+20.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Locations
+Number of Stores
+Number of offices
+Total
+National
+0
+3
+3
+International
+0
+7
+7
+21.	 Markets served by the entity:
+Locations
+Number
+National (No. of States)
+28
+International (No. of Countries)
+22
+b. 	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+51%
+c. 	
+A brief on types of customers: Over the years, Kellton has grown into a full-service IT solutions provider 
+with a global presence. Kellton has grown through a combination of organic growth and strategic acquisitions. 
+We now have offices in the United States, Europe, and Asia, and it serves clients in a wide range of industries, 
+including healthcare, finance, retail, insurance and manufacturing.
+	
+We started out small, just like everyone else and have been led by our ambitious founders throughout 
+this incredible journey. Our Clients includes Fintech, Banking, Financial Services & Insurance Non-Profit, 
+Government & Education Manufacturing, Automotive & Chemicals Retail, E-Commerce & Distribution 
+Travel, Logistics & Hospitality Oil, Gas & Mining Pharma, Healthcare & Life Sciences HiTech, SaaS, ISV & 
+Communications Energy & Utilities.
+3
+IV.	
+Employees
+22.	 Details at the end of the Financial Year
+a.	
+Employees and workers (including differently abled)
+S.
+No
+Particulars
+Total 
+(A)
+Male
+Female
+Other
+No.(B)
+%(B/A)
+No. (C)
+% (C/A)
+No. (H)
+% (H/A)
+EMPLOYEES
+1
+Permanent (D)
+1370
+1047
+76.42
+323
+23.58
+0
+0
+2
+Other than perma nent (E)
+303
+247
+81.52
+56
+18.48
+0
+0
+3
+Total employees (D + E)
+1673
+1294
+77.35
+379
+22.65
+0
+0
+WORKERS
+4
+Permanent (F)
+Not Applicable
+5
+Other than permanent (G)
+6
+Total workers (F + G)
+b.	
+Differently abled Employees and workers:
+S.
+No
+Particulars
+Total 
+(A)
+Male
+Female
+Other
+No.(B)
+%(B/A)
+No. (C)
+% (C/A)
+No. (H)
+% (H/A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+1370
+1
+0.07
+0
+0.00
+0
+0.00
+2
+Other than perma nent (E)
+303
+0
+0.00
+0
+0.00
+0
+0.00
+3
+Total employees (D + E)
+1673
+1
+0.06
+0
+0.00
+0
+0.00
+WORKERS
+4
+Permanent (F)
+Not Applicable
+5
+Other than permanent (G)
+6
+Total workers (F + G)
+23.	 Participation/Inclusion/Representation of women
+Total 
+(A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+8
+1
+12.50%
+Key Management Per sonnel
+3
+0
+0.00%
+24.	 Turnover rate for permanent employees and workers 
+	
+(Disclose trends for the past 3 years)
+FY 2023-24
+FY 2022-23
+FY 2021-22
+M
+F
+O
+T
+M
+F
+O
+T
+M
+F
+O
+T
+Permanent
+Employees
+30.76
+36.64
+0
+32.72
+18.43
+15.27
+0
+17.78
+17.94
+16.13
+0
+17.49%
+Permanent
+Workers
+Not Applicable
+4
+4
+S. 
+no.
+Name of the holding / 
+subsidiary / associate 
+companies / joint ventures 
+(A)
+Indicate whether 
+holding/ 
+Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares 
+held by the 
+listed entity
+Does the entity indicated at 
+column A, participate in the 
+Business Responsibility
+initiatives of the listed entity? 
+(Yes/No)
+1
+Kellton DBYDX Software Pvt. Ltd., 
+Subsidiary
+100.00%
+No
+2
+Kellton Tech Inc
+Subsidiary
+100.00%
+No
+3
+Kellton Tech Solutions Inc
+Subsidiary
+100.00%
+No
+VI.	
+CSR Details
+26.	 Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+	
+Turnover (In Rs. Lakhs): 18,471.53
+	
+Net worth (in Rs. Lakhs): 16319.93
+VII.	 Transparency and Disclosure Compliances
+27.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines 
+on  Responsible Business Conduct:
+Stakeholder 
+Group
+from whom 
+complaint is 
+received
+Grievance Re­
+dressal Mecha­
+nism in Place.
+Yes/No If yes 
+link 
+FY2024
+FY2023
+Number of complaints 
+Remarks
+Number of complaints 
+Re- 
+marks
+filed 
+during 
+the year
+pending 
+resolution 
+at close 
+filed 
+during 
+the year
+pending 
+resolution 
+at close 
+Communities
+Yes, 
+https://www. 
+kellton.com/le­
+gal-policies 
+0
+Nil
+NA
+0
+0
+NA
+Investors#
+Not Applicable
+Shareholders
+0
+Nil
+*
+3
+0
+*
+Employees@
+0
+0
+NA
+0
+0
+NA
+Customer
+0
+0
+NA
+0
+0
+NA
+Value Chain
+Partners
+Not Applicable
+*Complaints were regarding nonreceipt of dividends and same were resolved
+#Other than Shareholders
+@The Company, through its Grievance Redressal Policy, seeks to address employee concerns and complaints 
+pertaining to human rights and labour practices. A Grievance Redressal Procedure with appropriate systems 
+and mechanisms is available across all offices of Kelltons. It aims to facilitate open and structured discussions on 
+grievances raised on labour practices and human rights
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+25.	 Names of holding/ subsidiary/ associate companies/ joint ventures (as at March 31, 2024)
+5
+OVERVIEW OF THE ENTITY’S MATERIAL RESPONSIBLE BUSINESS CONDUCT ISSUES  
+S. 
+No
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportu­
+nity (R/O)
+Rationale for identifying the risk /
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of the 
+risk or opportunity (Indicate 
+positive or negative impli­
+cations)
+1.	
+Business Ethics
+Risk
+Engaging in unethical business activities can 
+result in legal and regulatory consequences, 
+such as penalties and conflicts, threatening 
+our financial security and tarnishing our 
+image. Furthermore, these actions can erode 
+the confidence of stakeholders, leading to 
+a decline in sales, market dominance, and 
+ultimately, a tarnished reputation.
+The Corporate Governance Manual acts 
+as a guide for the Board, management, 
+and staff, offering advice and direction 
+as 
+we 
+strive 
+towards 
+our 
+vision, 
+mission, and growth strategy driven by 
+Environmental, Social, and Governance 
+(ESG) factors to generate enduring value 
+for all stakeholders.
+Negative
+2.	
+Cyber-attack 
+and hacking risk
+Risk
+External attacks on network, malware, 
+compromised credentials, Business email 
+compromise via. Phishing and other cyber 
+security risks may result in data loss and loss 
+of reputation
+•	 Quarterly phishing assessment to 
+assess the user awareness.
+•	 Implementation of Privileged Access 
+Management solution to provide 
+additional security to identity.
+•	 Implementation of enhanced Data 
+Leakage 
+prevention 
+platform 
+to 
+protect the critical data Deployment 
+of Zero Trust to further secure the 
+corporate infra & data.
+•	 Validation 
+of 
+security 
+posture 
+annually by third party.
+•	 Focus on endpoint patching to 
+achieve desired compliance level, 
+implementation 
+of 
+advanced 
+endpoint 
+protection 
+solution, 
+multifactor 
+authentication 
+enablement, 
+Dark/ 
+Deep 
+web 
+monitoring, cloud disaster recovery 
+solution and information security 
+awareness and trainings are some of 
+the measures adopted to reduce this 
+risk.
+Negative
+6
+6
+S. 
+No
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportu­
+nity (R/O)
+Rationale for identifying the risk /
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of the 
+risk or opportunity (Indicate 
+positive or negative impli­
+cations)
+3.	
+Corporate 
+Governance
+Opportunity
+Our robust governance, commitment to 
+upholding the highest standards of ethics 
+and acceptance and adherence to all 
+the evolving statutory requirements. The 
+Company maintains an organizational - wide 
+integration of responsible business conduct 
+through a strong governance architecture.
+Positive and Negative
+Through strong governance 
+practices, 
+we 
+avoid 
+any 
+negative implications arising 
+from non-compliance with 
+governance regulations that 
+pose the risk of reputational 
+damage and has financial 
+and 
+legal 
+implications 
+attached to it.
+4.	
+Data Privacy
+Risk
+Breaches in data privacy can result in legal 
+and monetary consequences, tarnish a 
+firm’s image, and lead to a decline in trust 
+and business from customers and other 
+stakeholders.
+Our sturdy ‘Data Leak Prevention’ (DLP) 
+instrument safeguards the intellectual 
+assets of both our clients and us.
+Negative
+A robust approach to data 
+protection and cybersecurity 
+safeguards us against any 
+financial, 
+regulatory 
+and 
+reputational 
+implications 
+attached to the same
+5.	
+Inclusion and 
+Diversity
+Opportunity
+Diversity 
+and 
+inclusion 
+in 
+workforce 
+allows the Company to tap into a variety 
+of viewpoints, experiences, and concepts, 
+propelling innovation, problem resolution, 
+and decision-making. Practices that promote 
+inclusion cultivate a nurturing atmosphere, 
+boosting employee involvement, efficiency, 
+and retention. Furthermore, a workplace 
+that values diversity and inclusion enhances 
+company’s reputation, draws highcaliber 
+talent, broadens our customer reach, and 
+drives the growth and success of our business
+Positive
+The refinement and warmth 
+that our employees extend 
+through their conduct is 
+amplified 
+by 
+instilling 
+a 
+sense of belongingness and 
+fulfilment in them, reflecting 
+positively in our financial 
+growth.
+6.	
+Transparency
+Opportunity
+Kellton 
+upholds 
+a 
+commitment 
+to 
+transparency 
+and 
+openness 
+across 
+all 
+aspects of its operations. Comprehensive 
+communication to stakeholders are being 
+done to achive transparency to the best 
+possible extent.
+Policies are in place to ensure that the 
+Company operates as a transparent 
+organization. Appropriate procedures 
+and actions are in place in case any 
+deviation is observed.
+Positive
+There are many positive 
+financial 
+/ 
+non-financial 
+implications 
+of 
+being 
+a 
+transparent company, which 
+improves the brand image.
+7
+S. 
+No
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportu­
+nity (R/O)
+Rationale for identifying the risk /
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of the 
+risk or opportunity (Indicate 
+positive or negative impli­
+cations)
+7.	
+Labour Practices
+Opportunity
+Our people are vital contributors to value 
+creation and are our most valuable assets. 
+We strive to attract qualified employees with 
+relevant experience, provide them with best-
+in-class training, and develop their skills to 
+propel Kellton to greater heights.
+To foster a positive working culture, 
+we 
+have 
+implemented 
+progressive 
+people practices aimed at retaining and 
+attracting top talent. Our leadership 
+regularly assesses our practices in this 
+regard and adopts appropriate measures 
+to enhance our workforce capabilities.
+Positive
+Enhancing the experience 
+of our employees directly 
+contributes to the Company’s 
+productivity and enables us 
+to attain our objectives and 
+business performance over 
+time.
+8.	
+Strong 
+governance 
+oversight
+Opportunity
+The results will help us make decisions 
+based on relevant data and meet increasing 
+demands from regulators and reporting 
+standards.
+Positive 
+Strong governance oversight 
+ensures growth and strategic 
+direction
+9.	
+Talent retention 
+& succession
+Risk
+This exercise also helps us identify risks and 
+opportunities pertaining to those identified 
+areas.
+Negative 
+High attrition could have 
+negative 
+operational 
+implications, 
+which 
+are 
+mitigated 
+through 
+talent 
+retention initiatives
+10.	
+Employee 
+enablement & 
+well being
+Opportunity
+The survey was conducted across diverse 
+stakeholders including clients, vendors, 
+community, shareholders, employees and 
+top management
+Positive
+Employee 
+empowerment, 
+learning and development 
+and 
+well-being 
+initiatives 
+lead 
+to 
+a 
+productive 
+workforce
+11.	
+Risk of 
+economic 
+downturn
+Risk
+Higher 
+inflation, 
+rising 
+interest 
+rates, 
+geopolitical 
+and 
+macroeconomic 
+developments may impact the growth of 
+business
+Focus on an increase in the diverse 
+customer base helps reduce this risk 
+to some extent. More emphasis on up 
+selling and cross-selling within industry 
+verticals is thrust. Enhanced focus on 
+customer connects and relationships
+Negative
+12.	
+Social media risk
+Risk
+Disclosure of corporate or client information 
+on social media by employees or former 
+employees
+Employee awareness trainings organized, 
+and social media policy is in place.
+Negative
+8
+8
+S. 
+No
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportu­
+nity (R/O)
+Rationale for identifying the risk /
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of the 
+risk or opportunity (Indicate 
+positive or negative impli­
+cations)
+13.	
+Digitalization
+Opportunity
+Digitalization 
+helps 
+to 
+automate 
+and 
+streamline business processes by reducing 
+errors and therefore improves efficiency 
+and accuracy. The Company can understand 
+and meet the needs of their customers in a 
+better way by leveraging customer data and 
+insights can personalise their offerings and 
+improve the customer experience.
+Positive
+14.	
+Economic 
+Performance & 
+Market Share
+Opportunity
+Economic performance and market share 
+provides an opportunity which can attract 
+investment and it is key for current investors 
+to be satisfied with consistent returns.
+Positive
+15.	
+Risk and Crisis 
+Management
+Opportunity
+Our vision for the future is guided by our 
+proactive assessment of our external and 
+internal risk and opportunities. Our Board 
+maintains an oversight of all the emerging 
+challenges and prospects through its risk 
+management committee and takes strategic 
+actions toward risk mitigation to ensure 
+resilience and business continuity even in the 
+face of disruption. A precautionary approach 
+to risk management has been instrumental 
+in propelling our growth forward throughout 
+all these years.
+Positive and Negative A 
+precautionary 
+approach 
+to risk mitigation ensures 
+business continuity even in 
+the face of adversity and 
+serves as an invaluable tool 
+in mitigating any contingent 
+liabilities.
+16.	
+Supply Chain 
+Management
+Risk
+Because of the heightened public awareness 
+of 
+any 
+negative 
+environmental 
+and 
+social impact, sustainable supply chain 
+management has become an integral aspect 
+of business strategy. It can significantly affect 
+the growth trajectory, thus also affecting the 
+overall return for the shareholders.
+We are working closely with our suppliers 
+to contain our overall environmental and 
+social impact.
+Negative
+Any disruption in the supply 
+chain may hamper guests’ 
+services, reflecting adversely 
+in our Financial Statements. 
+Positive
+Transition to a robust supply 
+chain helps us build financial 
+and operational resilience.
+    
+9
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place 
+towards adopting the NGRBC Principles and Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and Management Processes
+1. a. Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs. (Yes/
+No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b. Has the policy been approved by the Board? (Yes/
+No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+c. Web Link of the Policies, if available
+ https://www.kellton.com/legal-policies 
+2.	 Whether the entity has translated the policy into 
+procedures. (Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.	 Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4. Name of the national and international codes/
+certifications/labels/ standards (e.g. For- est 
+Stewardship Council, Fairtrade, Rainforest Alliance, 
+Trust) standards (e.g. SA 8000, OHSAS, ISO, BIS) 
+adopted by your entity and mapped to each 
+principle.
+None
+5. Specific commitments, goals and targets set by 
+the entity with defined timelines, if any
+The Company recognizes its role in creating a positive 
+impact in the lives of communities by identifying the core 
+focus areas and achieving these commitments and goals 
+through investor awareness programmes and CSR activities. 
+The Company promotes healthy environment at the 
+workplace and does not treat anybody differently based on 
+their gender, race, caste, religion, marital status, disability 
+or any other category and also believes in hiring the right 
+talent based on merit. Presently, one-fourth (approx.) of our 
+Company’s permanent employees are women.
+For the employees’ overall growth and to keep up with 
+the evolving business climate, the Company believes in 
+upskilling its workforce
+6. Performance of the entity against the specific 
+commitments, goals and targets along-with reasons 
+in case the same are not met.
+Inclusive Growth
+Through CSR activities, the Company has contributed 
+to education, skills training, rural development and 
+environment. Employee Well-being and Development 
+Develop wellness programs, provide mental health support, 
+and promote agricultural and related activity. 
+Employee Diversity
+Approx 24% of the Company’s permanent employees are 
+women. The Company is working with several organizations 
+to build the Diversity, Equity, and Inclusion framework.
+Energy & Waste management
+The Company is gearing up for deepening its environmental 
+commitments by promoting energy efficient equipment. We 
+have a robust waste management system with the separation 
+of dry and wet waste as well as solid waste management. In 
+order to prevent food waste, we have launched initiatives 
+that reduce food wastage and create awareness for all the 
+stakeholders for avoiding wastage of food. 
+10
+10
+Governance, leadership and oversight
+7. 	
+Statement by director responsible for the business responsibility report, highlighting ESG re- lated 
+challenges, targets and achievements (listed entity has flexibility regarding the placement of this disclosure):
+	
+Doing business in a responsible and sustainable manner is one of the key imperatives for us. We continuously 
+discuss with all our stakeholders to identify key ESG issues and have identified Ethical Business Conduct, Efficient 
+and Transparent Customer Service, Corporate Governance, Risk Management, Human Capital Development, 
+Engagement with Communities and Environmental Footprint as some of the most important issues.
+ 	
+We operate in full compliance with applicable rules and regulations and are overseen by a diverse and qualified 
+Board of Directors, which sets strategic direction while ensuring the highest ethical standards. Together, 
+management and the board work to maintain our reputation for integrity and excellence. We instituted practices 
+like a Comprehensive Code of Conduct and Business Ethics, sound risk culture, digitization of business, launching 
+innovative products, investment in emerging areas of cyber security and information security, Employee welfare 
+policies, monitoring consumption of resources and taking targets towards reduction in consumption of electricity, 
+fuel and paper and various other practices. 
+8. 	
+Details of the highest authority responsible for implementation and oversight of the Business Responsibility 
+policy(ies):
+Niranjan Chintam
+Executive Director-Chairperson
+Krishna Chintam
+Managing Director & Chief Executive Officer
+Karanjit Singh
+Executive Director 
+Srinivas Potluri
+Non-Executive - Non Independent Director
+Brijmohan Venkata Mandala
+Non-Executive - Independent Director
+Srinivasa Vijay Kumar Appana
+Non-Executive - Independent Director
+Geeta Goti
+Non-Executive - Independent Director
+Satya Prasad Sayala
+Non-Executive - Independent Director
+9.  Does the entity have a specified Committee 
+of the Board/ Director responsible for 
+decision making on sustainability related 
+issues? (Yes / No). If yes, provide details.
+Yes, Committee consists of Managing Director as Chairman 
+along with other functional heads.
+10.  Details of Review of NGRBCs by the Company:
+Subject for
+Review
+Indicate whether review was undertaken by 
+Director / Committee of the Board/ Any other 
+Committee
+Frequency (Annually/ Half yearly/ Quarterly/ 
+Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance **
+D
+D
+D
+D
+D
+D
+D
+D
+D
+Quarterly
+Compliance@
+D
+D
+D
+D
+D
+D
+D
+D
+D
+Quarterly
+11. Has the entity carried out independent assessment/ 
+evaluation of the working of its policies by an 
+external agency? (Yes/No). If yes, Name of the 
+agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+N
+N
+N
+N
+N
+N
+N
+N
+N
+** Performance against above policies and follow up action
+@@with statutory requirements of relevance to the principles, and, rectification of any non- compliances
+## D- Directors
+12. 	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be 
+stated: Not Applicable
+11
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core 
+Elements with key processes and decisions. The information sought is categorized as “Essential” and “Leadership”. 
+While the essential indicators are expected to be disclosed by every entity that is mandated to file this report, 
+the leadership indicators may be voluntarily disclosed by entities which aspire to progress to a higher level in their 
+quest to be socially, environmentally and ethically responsible.
+Principle 1. Businesses should Conduct and Govern themselves with integrity and in a 
+manner that is ethical, transparent and accountable.
+Essential Indicators:
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the 
+financial year:
+Segment
+Total Number 
+of training and 
+awareness pro- 
+grammes held
+Topics / principles covered under 
+the training and its impact
+% of persons in 
+respective category 
+covered by the aware- 
+ness programmes
+Board of Directors
+1
+Anti Bribery and Anti Corruption 
+Policy
+100%
+Key Managerial 
+Personnel
+1
+Anti Bribery and Anti Corruption 
+Policy
+100%
+Employees other than 
+BOD and KMPs
+4
+Anti Bribery and Anti Corruption 
+Policy POSH Act Grievance Re­
+dressal Mechanism Importance of 
+Stakeholders
+100%
+Workers
+Not Applicable
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid 
+in proceedings (by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ 
+judicial institutions, in the financial year, in the following format:
+A. Monetary
+Particulars
+NGRBC
+Principle
+Name of the regula­
+tory / Enforcement 
+agencies/judicial in­
+stitutions
+Amount 
+(In Rs.)
+Brief of the 
+Case
+Has an appeal 
+been preferred ? 
+(Yes/No)
+Penalty/Fine
+NA
+NA
+0
+NA
+NA
+Settlement
+NA
+NA
+0
+NA
+NA
+Compounding Fee
+NA
+NA
+0
+NA
+NA
+B. Non- Monetary
+Imprisonment
+NA
+NA
+0
+NA
+NA
+Punishment
+NA
+NA
+0
+NA
+NA
+12
+12
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision are preferred in cases
+         where monetary or non-monetary action has been appealed.
+Case Details
+Name of the regulatory /enforcement agencies/judicial institutions
+Not Applicable
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, details in brief and if 
+available, a web-link to the policy.
+	
+Yes, the Company have an anti–corruption and anti-bribery policy, Company recognises and follows all 
+applicable laws and regulations and respects lawful customs of the regions where we operate and transact. 
+We are committed to acting and building relationships based on integrity and fairness in all our dealings. 
+Hence, Kellton has adopted a “Zero Tolerance” approach to bribery and corruption. The policy is available on 
+the website of the company at https://www.kellton.com/legal-policies
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any 
+law enforcement agency for the charges of bribery/ corruption:
+Particulars
+FY2024
+FY2023
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+6.	
+Details of complaints with regard to conflict of interest
+Particulars
+FY2024
+FY2023
+Number
+Remarks
+Number
+Remarks
+Number of complaints received about issues of 
+Conflict of Interest of the Directors
+0
+NA
+0
+NA
+Number of complaints received about issues of 
+Conflict of Interest of the KMPs
+0
+NA
+0
+NA
+7.	
+Details of any corrective action taken or underway on issues related to fines / penalties / action taken 
+by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of 
+interest.: Not Applicable
+Principle 2. Businesses should provide goods and services in a manner that is 
+sustainable and safe
+ Essential Indicators:
+1.	
+Percentage of R&D and capital expenditure (CAPEX) investments in specific technologies to improve 
+the environmental and social impacts of product and processes to total R&D and capex investments 
+made by the entity, respectively.
+Category
+FY2024
+FY2023
+Details of improvements in environmental 
+and social impacts
+R&D
+0
+0
+-
+Capex
+0
+0
+-
+2.	
+Sustainable Sourcing
+	
+a.	
+Does the entity have procedures in place for sustainable sourcing? - No
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably? - NA
+13
+3.	
+Processes in place to reclaim products for reuse, recycling, and safe disposal of products at the end of 
+life for
+	
+a.	 Plastics (Including Packaging): NA
+	
+b.	 E-Waste: NA
+	
+c.	 Hazardous waste: NA
+	
+d.	 Other waste: NA
+	
+This metric is not relevant to our Company as our main business is related to Information Technology, and it 
+does not involve the manufacturing of any product.
+4.	
+Extended Producer Responsibility (EPR)
+	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, 
+whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to 
+Pollution Control Boards? If not, steps taken to address the same.-Not Applicable.
+Principle 3. Businesses should respect and promote the well-being of all employees, 
+including those in their value chains.
+1.	
+Details of measures for the well-being of employees
+Cate- 
+gory
+% of employees covered by
+Total 
+(A)
+Health 
+Insurance
+Accident 
+insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+Num- 
+ber 
+(B)
+% 
+(B/A)
+Num- 
+ber 
+(C)
+% 
+(C/A)
+Num- 
+ber 
+(D)
+% 
+(D/A)
+Num 
+ber 
+(E)
+% 
+(E/A)
+Num- 
+ber 
+(F)
+% 
+(F/A)
+Permanent Employees
+Male
+1047
+724
+69.15
+1047
+100
+0
+0
+750
+71.63
+0
+0
+Female
+323
+221
+68.44
+323
+100
+255
+78.95
+0
+0
+0
+0
+Total
+1370
+945
+68.98
+1370
+100
+255
+18.98
+750
+54.74
+0
+0
+Other than permanent employees
+Male
+65
+65
+100
+65
+100
+0
+0
+0
+0
+0
+0
+Female
+12
+12
+100
+12
+100
+0
+0
+0
+0
+0
+0
+Total
+77
+77
+100
+77
+100
+0
+0
+0
+0
+0
+0
+2.	
+Details of measures for the well-being of Workers- NA
+Cate- 
+gory
+% of employees covered by
+Total (A)
+Health Insurance
+Accident 
+insurance
+Maternity
+Benefits
+Paternity Ben-
+efits
+Day Care 
+Facilities
+Num- 
+ber (B)
+% 
+(B/A)
+Num- 
+ber (C)
+% 
+(C/A)
+Num- 
+ber (D)
+% (D/A)
+Num- 
+ber (E)
+% (E/A)
+Num- 
+ber (F)
+% 
+(F/A)
+Permanent workers and other than permanent worker
+Male
+Not Applicable
+Female
+Total
+14
+14
+3.	
+Details of retirement benefits, for current FY and previous financial year
+Benefits
+Number of 
+employees 
+covered as
+% of total 
+employees
+Number of 
+Workers 
+covered as
+% of total 
+workers
+Deducted 
+and de- 
+posited with 
+the authority 
+( Y/N/N.A)
+Number of 
+employees 
+covered as
+% of total 
+employees
+Number of 
+Workers 
+covered as
+% of total 
+workers
+Deducted and 
+de- posited 
+with the 
+authority 
+(Y/N/N.A)
+PF
+98.01%
+0
+Yes
+96.02%
+0
+Yes
+Gratuity
+100%
+0
+Yes
+100%
+0
+Yes
+ESI
+0.00%
+0
+NA
+0%
+0
+NA
+Others 
+-
+-
+-
+-
+-
+4.	
+Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken 
+by the entity in this regard:
+	
+Yes, our offices are accessible to differently abled employees and workers, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016. We conduct sensitization and awareness programs for our 
+managers and senior leaders to facilitate the inclusion of such employees within our organization and cater 
+to their specific requirements, such as accessibility and accommodation.
+5.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 
+2016? If so, a web-link to the policy.
+	
+Yes, the policy is available on the website of the company at https://www.kellton.com/legal-policies
+6.	
+Return to work and Retention rates of permanent employees and workers that took parental 
+leave.
+Gender
+Permanent Employees
+Permanent Workers
+Return to work Rate
+Retention Rate
+Return to Work Rate
+Retention rate
+Male
+41
+100
+0
+0
+Female
+12
+100
+0
+0
+Total
+53
+100
+0
+0
+7.	
+Is there a mechanism available to receive and redress grievances for the following categories of 
+employees and worker? If yes, give details of the mechanism in brief.
+Particulars
+Yes/No
+(if yes then give details of the mechanism in brief)
+Permanent Workers
+Yes,
+The Company has a Grievance Redressal policy, which address 
+all kinds of issues an employee may face while at work. The 
+grievance may include:
+•	 Any kind of discrimination on account of disability, gender, 
+race, sexual orientation, religion, marital status and social 
+class
+•	 Violation of human rights
+•	 Bullying / workplace harassment
+•	 Denial of applicable benefits
+•	 Working conditions 
+Other than Permanent Workers
+Permanent Employees
+Other than permanent Employees
+15
+8.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY2024
+FY2023
+Total 
+employees
+/workers in 
+respective 
+category (A)
+Total employees/ 
+workers in re-
+spective category, 
+who are part
+of association
+(s) or
+Union (s) (B)
+% (B/A)
+Total em- 
+ployees
+/workers in 
+respective 
+category (C)
+Total em- 
+ployees/ workers 
+in respective 
+category, who 
+are part of asso- 
+ciation (s) or 
+Union (s) (D)
+%( D/C)
+Total Permanent Employees
+Male
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+Total Permanent Workers
+Male
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+9.	
+Details of Training imparted to the employees and workers
+Category
+FY2024
+FY2023
+Total (A)
+Total (D)
+NO.(B)
+% (B/A)
+No. (E)
+% (E/D)
+No.(F)
+%(F/D)
+Employees
+Male
+1370
+1146
+83.66
+908
+908
+100.00
+354
+38.99
+Female
+303
+254
+83.75
+236
+236
+100.00
+97
+41.10
+Total
+1673
+1400
+83.68
+1144
+1144
+100.00
+451
+39.42
+Workers
+Male
+Not Applicable
+Female
+Total
+10.	 Details of performance and career development reviews of employees and workers:
+Category
+FY2024
+FY2023
+Total (A)
+No.(B)
+% (B/A)
+Total (C)
+No.(D)
+% (D/C)
+Employees
+Male
+1370
+1146
+83.66
+908
+908
+100
+Female
+303
+254
+83.75
+236
+236
+100
+Total
+1673
+1400
+83.68
+1144
+1144
+100
+Workers
+Male
+Not Applicable
+Female
+Total
+16
+16
+11.	 Health and safety management system
+	
+a.	
+Whether an occupational health and safety management system has been implemented by 
+the entity? (Yes/ No).- If yes, the coverage such system?
+	
+	
+Yes, Company has implemented the Health and Safety Policy which covers all the employees of 
+the Company.
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine 
+and non-routine basis by the entity?
+	
+	
+Appropriate policies / guidelines have been formulated to address various types of hazards and related 
+risk assessment & mitigation.
+	
+	
+-	
+All work-related hazards are identified basis the recommended guidelines.
+	
+	
+-	
+Their associated risk assessment procedures are part of the Safety manual.
+	
+c.	
+Whether you have processes for workers to report the work related hazards and to remove 
+themselves from such risks. (Y/N)-Yes
+	
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare 
+services? (Yes/ No)-Yes
+	
+e.	
+Details of safety related incidents, in the following format:
+Safety Incident / Number
+Category
+FY2024
+FY2023
+Lost Time Injury Frequency Rate (LTIFR) Per One mil- 
+lion -person hours worked
+Employees
+0
+0
+Workers
+0
+0
+No of fatalities
+Employees
+0
+0
+Workers
+0
+0
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12.	 Measures taken by the entity to ensure a safe and healthy work place.
+	
+Employee well-being programs/initiatives are conducted for all the employees and during FY 2023-24 the 
+following well-being initiatives were undertaken:
+	
+•	
+Women safety programs
+	
+•	
+Posh & gender sensitization meetings
+	
+•	
+Road safety programs
+	
+•	
+Women self-defense program
+	
+•	
+Fire emergency training exit
+	
+•	
+General health check up
+17
+13.	 Number of Complaints on the following made by employees and workers:
+Particulars
+FY2024
+FY2023
+Filed 
+during the 
+year
+Pending 
+resolution at the 
+end of the year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at the 
+end of the year
+Remarks
+Working 
+Conditions
+5
+0
+NA
+5
+0
+NA
+Health &
+Safety
+0
+0
+NA
+0
+0
+NA
+14.	 Assessments for the year:
+Particulars
+% of plants and offices that were assessed 
+(By entity or statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15.	 Details of any corrective action taken or underway to address safety-related incidents (if any) and 
+on significant risks / concerns arising from assessments of health & safety practices and working 
+conditions.
+	
+The Company has implemented Hygiene Policy which ensures workplace cleanliness and basic amenities like 
+availability of clean drinking water, proper sanitation facilities, etc.
+	
+The HR team conducts review on a quarterly basis to ensure all the points under the hygiene policy are taken 
+care of.
+	
+Further, Training of all employees regarding protocol to be followed in case of any safety incident has been 
+conducted.
+Principle 4. Businesses should respect the interests of and be responsive to all its 
+stakeholders. 
+Essential Indicators: 
+1.	
+Process for identification of key stakeholders
+	
+Kellton has identified its key internal and external stakeholders through a deliberate and comprehensive 
+process, involving both the board and management team. This process involved assessing various 
+stakeholder groups and evaluating their potential impact on the company. The importance of each group 
+was carefully considered through a series of deliberations, taking into account factors such as their influence 
+and potential impact.
+	
+To ensure the long-term success of the company and build strong relationships with stakeholders, continuous 
+engagement and monitoring is critical. By doing so, Kellton was able to better identify and meet the needs 
+and expectations of its key stakeholders and adapt to changing circumstances. This approach helps Kellton 
+to maintain a strong reputation and build trust with its stakeholders, while also positioning the company for 
+long-term growth and success.
+18
+18
+2.	
+Key stakeholder groups
+Particulars
+Whether 
+identi- fied as 
+Vulner- able & 
+Margin- alized 
+Group (Yes/
+No)
+Channels of commu nication 
+(Email, SMS, News- paper, Pamphlets,Advertisement, 
+Community Meet- ings, Notice Board, Website), Other
+Frequency of 
+en- gagement 
+(Annually/ Half 
+yearly/ Quarterly
+/ others – please 
+specify)
+Purpose and scope of 
+engagement including 
+key top- ics and concerns 
+raised during such 
+engagement
+Customers
+No
+- satisfaction surveys
+- Marketing and advertising
+- Complaint handling and feedback
+- Electronic communication – social media, 
+Calls
+It is a 
+continuous
+process
+Addressing require-
+ments for products
+and grievances, if any
+Suppliers/ 
+CDMOs
+No
+-	Regular interaction through online and 
+offline meetings, phone calls, e-mails
+-	Conferences and workshops
+-	In Person Meetings/ Visits.
+Daily
+To share the specific 
+requirements, Status 
+update on product 
+deliveries and other 
+terms of trade.
+Employees
+No
+-	 Trainings and development programmes
+-	 Performance management system
+-	 Emails. Written com munication
+-	 circulars and internal publications
+-	 Employee engagement initiatives
+Others,
+Need basis
+For smooth 
+functioning of 
+business operations.
+Investors
+No
+No-Annual General meeting
+-	 Investor presentations and conference calls
+-	 Investor conferences and meets
+-	 Press releases, Quarterly Results and 
+newsletters
+Quarterly 
+Annually
+Need basis
+To provide updates 
+on company’s 
+operations and 
+Financial Performance
+Government/ 
+Regulators
+No
+-	 Meetings and formal dialogue
+-	 Filings with the regula- tors
+Others,
+Need basis
+Business and 
+Compliance related
+Community
+Yes
+- CSR partnerships 
+- Contribution towards various causes
+Others,
+Need basis
+CSR Initiatives of the 
+Company
+Principle 5. Businesses should respect and promote human rights
+ Essential Indicators
+1.	
+Training on human rights issues and policies
+Category
+FY2024
+FY2023
+Total 
+(A)
+Number of 
+employees 
+and work- ers 
+covered (B)
+% (B/A)
+Total (C)
+Number of 
+employees 
+and work- ers 
+covered (D)
+% (D/C)
+Employees
+Permanent
+1370
+1047
+76.42
+1079
+908
+100
+Other than  
+Permanent
+303
+247
+81.52
+332
+236
+100
+Total Em ployees
+1673
+1673
+100.00
+1144
+1144
+100
+Workers
+Permanent
+Not Applicable
+Other than 
+permanent
+Total Work- ers
+19
+2.	
+Details of minimum wages paid to employees and workers, in the following format
+Cat- egory
+FY2024
+FY2023
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than Mini- 
+mum Wage
+Total 
+(D)
+Equal Minimum 
+Wage
+More than mini- 
+mum wage
+No.(B)
+%(B/A)
+No.(C)
+%(C/A)
+No. (E)
+%(E/D)
+No.(F)
+% F/D)
+Permanent Employees
+Male
+1047
+0
+0
+1047
+100
+1079
+0
+0
+1079
+100
+Female
+323
+0
+0
+323
+100
+322
+0
+0
+322
+100
+Other than Permanent
+Male
+247
+0
+0
+247
+100
+196
+0
+0
+196
+100
+Female
+56
+0
+0
+56
+100
+37
+0
+0
+37
+100
+Workers Permanent and other
+Male
+Not Applicable
+Female
+3.	
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median 
+remuneration
+Number
+Median 
+remuneration
+Board of Direc tors
+7
+30
+1
+0.25
+Key Managerial Personal
+1
+7.57
+0
+0
+Employees other than above
+982
+10.65
+188
+7.72
+Workers
+Not Applicable
+*Note: Remuneration includes sitting fee paid to directors.
+**Median Remuneration (Median remuneration/salary/wages of respective category as the case may be (Amt. 
+in Rs. Lakhs)
+4.	
+Focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No)- Yes
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+At Kellton, an effective grievance redressal procedure has been established to ensure that compliance 
+guidelines and human rights concerns are upheld throughout the company. Additionally, we have a successful 
+whistle blower procedure that enables our employees, including subsidiaries, to contact the Ombudsperson 
+and make confidential disclosures regarding unethical behaviour and actual or suspected fraud. Also, there 
+is an internal complaints committee, as mandated by law. There is a whistle blower hotline outside of Kellton 
+that is anonymous, confidential, and accessible.
+6.	
+Number of Complaints on the following made by employees and workers:
+Category
+FY2024
+FY2023
+Filed
+Pending 
+Remarks
+Filed
+Pending
+Remarks
+Sexual Harassment
+0
+0
+NA
+0
+0
+NA
+Discrimination at workplace
+0
+0
+NA
+0
+0
+NA
+Forced Labour/Involuntary Labour
+0
+0
+NA
+0
+0
+NA
+Wages
+0
+0
+NA
+0
+0
+NA
+Other human right related issues
+0
+0
+NA
+0
+0
+NA
+20
+20
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+Yes, Company has mechanisms in place to prevent adverse consequences to the complaint in discrimination 
+and harassment cases. The details of the complainant are kept confidential, and the authenticity of the 
+complainant’s report is investigated by the assigned committee. The details regarding the investigation 
+are also limited to the internal resolution committee and kept confidential. The complainant is protected 
+from any discrimination and harassment till the issue is resolved. This is done in order to safeguard the 
+complainant’s interest and confidence.
+8.	
+Do human rights requirements form part of your business agreements and contracts?
+	
+Yes, human rights requirements are part of our business and contracts. We expect of our vendors that they 
+uphold and advocate the protection of the internationally recognized principles of human rights and that 
+they refrain from engaging in violations of those principles.
+9.	
+Assessments of the year
+Category
+% of plants and offices that were assesses by the entity or by the 
+statutory authorities or third parties
+Child Labour
+100%
+Forced/Involuntary Labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others – please specify
+Not Applicable
+10.	 Details of any corrective actions taken or underway to address significant risks / concerns arising 
+from the assessments at Question 9 above: Not Applicable
+Principle 6. Businesses should respect and make efforts to protect and restore the 
+environment.
+Essential Indicators:
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following 
+format:
+Parameter
+FY24 (In Giga Joules)
+FY23 (In Giga Joules)
+Total electricity consumption (A)
+5382.25
+4464.67
+Total fuel consumption (B)
+Nil
+Nil
+Energy consumption through other sources (C)
+Nil
+Nil
+Total energy consumption (A+B+C)
+5382.25
+4464.67
+Energy intensity per rupee of turnover (Total energy 
+consumption/ turnover in rupees)
+0.26
+Energy intensity (optional) – the relevant metric
+may be selected by the entity
+NA
+NA
+Any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency: No
+21
+2.	
+Doesites / facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? (Y/N)-No
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY24
+FY23
+Water Withdrawal by Source (In Kiloliters)
+(i) Surface water
+0
+0
+(ii) Groundwater
+0
+0
+(iii) Third party water
+0
+0
+(iv) Seawater / desalinated water
+0
+0
+(v) Others
+0
+0
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+0
+0
+Total volume of water consumption (in kilolitres)
+0
+0
+Water intensity per rupee of turnover (Water consumed / turnover)
+0
+0
+Water intensity (optional) – the relevant metric may be selected by the entity
+0
+0
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency: -No
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its 
+coverage and implementation.
+	
+Zero Liquid Discharge is not applicable to the Company.
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following 
+format
+Parameter
+Please specify unit
+FY24
+FY23
+NOx
+0
+0
+Sox
+0
+0
+Particulate Mater
+0
+0
+Persistent organic pollutants (POP)
+0
+0
+Volatile organic compounds (VOC)
+0
+0
+Hazardous air pollutants (HAP)
+0
+0
+Others – please specify
+0
+0
+The Company is not into manufacturing and therefore the possibility of releasing emissions into the 
+atmosphere is negligible/not applicable.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency: No
+22
+22
+6.	
+Details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & their intensity
+Parameter
+Unit
+FY24
+FY23
+Total Scope 1 emissions
+0
+0
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available) Metric tonnes of CO2 equivalent
+Metric tonnes of 
+CO2 equivalent
+0
+0
+Total Scope 2 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+0
+0
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+0
+0
+Total Scope 1 and Scope 2 emission intensity (optional) – the
+relevant metric may be selected by the entity
+0
+0
+The Company is not into manufacturing and therefore the possibility of releasing greenhouse gas 
+emissions into the atmosphere is negligible/not applicable.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency: No
+7.	
+Project related to reducing Green House Gas emission? If yes, details.
+	
+No, the Company does not have any project related to reducing greenhouse gas emissions.
+8.	
+Details of waste generated, re-cycled re-used and disposed off
+Parameter
+Unit
+FY24
+Plastic waste ( A)
+Nil
+0
+E-waste ( B)
+Nil
+0
+Bio-medical waste ( C)
+Nil
+0
+Construction and demolition waste (D)
+Nil
+0
+Battery waste (E)
+Nil
+0
+Radioactive waste (F)
+Nil
+0
+Other Hazardous waste (G)
+Nil
+0
+Other Non-hazardous waste generated (H)
+Nil
+0
+(Break-up by composition i.e by materials relevant to the sector
+Nil
+0
+Total ( A+B+C+D+E+F+Gg+H)
+Nil
+0
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in metric tonnes)
+Category of waste
+i.Re-cycled
+Nil
+0
+ii.Re-used
+Nil
+0
+iii.Other recovery operations
+Nil
+0
+Total
+Nil
+0
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of Waste
+i.Incineration
+Nil
+0
+ii.Landfilling
+Nil
+0
+iii.Other disposal operations
+Nil
+0
+Total
+Nil
+0
+23
+The nature of business of the Company is International Wholesale Distribution where Company does not have 
+any manufacturing facility or produce anything inhouse and hence, this clause is not applicable to us.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency: No
+9.	
+Details of waste management practices, strategy adopted by the company to reduce usage of 
+hazardous and toxic chemicals in our products and processes and the practices adopted to manage 
+such wastes.
+	
+As an International Wholesale Distribution Company, we do not manufacture any products and thus does 
+not use any hazardous or toxic chemicals.
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details in the following format:
+Location of opera-
+tions/offices
+Type of operations
+Whether the conditions of environmental approval / 
+clearance are being complied with? (Y/N)
+If no, the reasons thereof and corrective action taken, 
+if any.
+Not Applicable
+11.	 Details of environmental impact assessments (EIA) of projects undertaken by the entity based on 
+applicable laws, in the current financial year:
+	
+During the reporting period, Company has not conducted any environment impact assessment. Company 
+ensures compliance to local and national applicable laws wherever required.
+Name and 
+brief details 
+of project
+EIA 
+Notifica tion 
+No.
+Date
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results communicated 
+in public domain (Yes 
+/ No)
+Relevant 
+Web Link
+Not Applicable
+12.	 Compliance with the applicable environmental law/ regulations/ guidelines in India; such as 
+the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, 
+Environment protection act and rules thereunder (Y/N).
+	
+Yes, Company ensures compliance to applicable laws.
+	
+If not, details of all such non-compliances, in the following format
+Sl. No
+Law / regulations / 
+guidelines which was 
+not complied with
+Details of 
+the non-
+compliance
+Any fines/penalties / action taken by 
+regulatory agencies such as pollution 
+control boards or by courts
+Corrective 
+action taken, 
+if any
+Not Applicable
+24
+24
+Principle 7. Businesses, when engaging in influencing public and regulatory policy, 
+should do so in a manner that is responsible and transparent.
+Essential Indicators
+1.	
+a. 	 Number of affiliations with trade and industry chambers/associations: 2
+	
+b. 	 List the top 10 trade and industry chambers/associations (determined based on the total members 
+of such body ) the entity is a member of /affiliated to -
+SL No
+Name of the trade industry chambers
+/as- associations
+The reach of trade and industry 
+chambers/associations (State/National)
+1
+National 
+Association 
+of 
+Software 
+and 
+Service 
+Companies (NASSCOM)
+National
+2.	
+Details of corrective action taken or underway on any issues related to anticompetitive conduct by 
+the entity, based on adverse orders from regular authorities.
+Name of authority
+Brief of the case
+Corrective actions taken
+Nil
+Principle 8. Businesses should promote inclusive growth and equitable development 
+Essential Indicators
+1.	
+Details of social impact assessments (SIA) of projects undertaken by the entity based on applicable
+laws, in the current financial year.
+Name and 
+brief details 
+of the project
+SIA notifica- 
+tion No.
+Date of
+notification
+Whether con- ducted 
+by an Independent 
+external agency  ( Yes/
+No)
+Results commu- 
+nicated in public 
+domain ( Yes/ No) 
+Not Applicable
+Relevant 
+weblink
+Not Applicable
+2.	
+Information on project (s) for which ongoing rehabilitation and resettlement (R&R) is being 
+undertaken by the entity
+SL 
+No
+Name of project 
+for which R&R is 
+ongoing
+State
+District
+No. of project 
+affected families
+% of PAFs 
+covered by 
+R&R
+Amount paid 
+to 
+PAFs in FY24
+Not Applicable
+3.	
+Mechanisms to receive and redress grievances of the community: 
+We have a grievance redressal mechanism which covers all our stakeholders. Active engagement with the 
+community and stakeholders requires an effective grievance redressal system that includes feedback loops 
+and conflict resolution mechanisms. Stakeholders can share their feedback/ concern on compliance@
+kelltontech.com
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Particulars
+FY24
+FY23
+Directly sourced from MSMEs/small producers
+0
+0
+Sourced directly from within the district and neighbouring districts
+0
+0
+25
+Principle 9. Businesses should engage with and provide value to their consumers in a 
+responsible manner
+Essential Indicators
+1.	
+Describe the mechanism in place to receive and respond to consumer complaints and feedback:
+	
+Consumers can directly contact the Company through email or phone and further our representative 
+visits all the clients regularly for their feedback and issues, if any. Further we have a dedicated microsite for 
+customers to provide feedback and lodge complaints.
+2.	
+Turnover of products and /services as a percentage of turnover from all products/service that carry 
+information about-
+Particulars
+As a % of total turnover
+Environmental and social parameters relevant to the product
+Not Applicable
+Safe and responsible usage
+Recycling and/or safe disposal
+3.	
+Number of consumer complaints in respect of the following: 
+Particulars
+FY2024
+Remarks
+FY2023
+Remarks
+Received 
+during 
+the year
+Pending 
+resolution at 
+end of year
+Received 
+during 
+the year
+Pending 
+resolution at 
+end of year
+Data Privacy
+0
+0
+NA
+0
+0
+NA
+Advertising
+0
+0
+NA
+0
+0
+NA
+Cyber-security
+0
+0
+NA
+0
+0
+NA
+Delivery of es sential 
+services
+0
+0
+NA
+0
+0
+NA
+Restrictive Trade Practices
+0
+0
+NA
+0
+0
+NA
+Unfair Trade Practices
+0
+0
+NA
+0
+0
+NA
+Other
+0
+0
+NA
+0
+0
+NA
+4.	
+ Details of instances of product recalls on account of safety issues:
+Particulars
+Number
+Reasons for recall
+Voluntary recalls
+0
+Not Applicable
+Forced recalls
+0
+Not Applicable
+5.	
+Details of instances of product recalls on account of safety issues:
+	
+This metric is not relevant to Company as our main business is providing Information Technology services, 
+and it does not involve the manufacturing of any product which would carry the information.
+6.	
+Framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, web-link 
+of the policy.: Yes, the policy is available at https://www.kellton.com/legal-policies.
+7.	
+Details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product 
+recalls; penalty / action taken by regulatory authorities on safety of products / services.: None

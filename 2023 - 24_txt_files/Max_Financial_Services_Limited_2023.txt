@@ -1,0 +1,3943 @@
+ 
+ 
+ 
+July 29, 2024 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street 
+Mumbai – 400 021 
+National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex, 
+Bandra (East) 
+Mumbai – 400 051 
+ 
+Scrip Code:  500271  
+ 
+ 
+ 
+Scrip Code:  MFSL 
+ 
+Sub: Business Responsibility and Sustainability Reporting 
+ 
+ 
+Dear Sir/ Madam, 
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015, we are submitting herewith the Business 
+Responsibility and Sustainability Report (BRSR) of the Company for Financial Year 2023- 24. 
+ 
+The BRSR also forms part of the Annual Report for FY 2023-24, submitted to the stock exchanges 
+vide letter dated July 29, 2024. 
+You are requested to take note of the above. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For Max Financial Services Limited 
+ 
+ 
+ 
+Piyush Soni 
+Company Secretary and Compliance Officer  
+ 
+Encl 
+: 
+as above  
+ 
+ 
+ 
+ 
+ 
+PIYUSH 
+SONI
+Digitally signed by 
+PIYUSH SONI 
+Date: 2024.07.29 
+16:27:14 +05'30'
+Business 
+Responsibility and 
+Sustainability 
+Report
+Refer note below to read the Business Responsibility and Sustainability Report, 2023-24
+Note: This is a consolidated report of Max Financial Services Limited (hereinafter referred to as ‘MFSL’) and its material subsidiary 
+i.e., Max Life Insurance Company Limited (hereinafter referred to as ‘MLI’). In accordance with the Annexure II of SEBI’s Guidance 
+Note for Business Responsibility and Sustainability Reporting (BRSR) issued vide Circular dated 10th May 2021 and 12th July 2023. 
+MFSL and MLI are filing consolidated BRSR for financial year 2023-24.
+Table of Content
+Details of the listed entity........................................................................................................................................................................ 3
+Products/Services.................................................................................................................................................................................... 4
+Operations................................................................................................................................................................................................ 4
+Employees................................................................................................................................................................................................ 5
+Holding, Subsidiary and Associate Companies (including Joint Ventures)........................................................................................... 6
+CSR Details.............................................................................................................................................................................................. 6
+Transparency and Disclosures Compliances.......................................................................................................................................... 6
+Principle 1.............................................................................................................................................................................................. 11
+Essential Indicators............................................................................................................................................................................... 11
+Leadership Indicators............................................................................................................................................................................ 14
+Principle 2.............................................................................................................................................................................................. 14
+Essential Indicators............................................................................................................................................................................... 14
+Leadership Indicators............................................................................................................................................................................ 15
+Principle 3.............................................................................................................................................................................................. 16
+Essential Indicators............................................................................................................................................................................... 16
+Leadership Indicators............................................................................................................................................................................ 21
+Principle 4.............................................................................................................................................................................................. 22
+Essential Indicators............................................................................................................................................................................... 22
+Leadership Indicators............................................................................................................................................................................ 23
+Principle 5.............................................................................................................................................................................................. 23
+Essential Indicators............................................................................................................................................................................... 23
+Leadership Indicators............................................................................................................................................................................ 27
+Principle 6.............................................................................................................................................................................................. 28
+Essential Indicators............................................................................................................................................................................... 28
+Leadership Indicators............................................................................................................................................................................ 31
+Principle 7.............................................................................................................................................................................................. 33
+Essential Indicators............................................................................................................................................................................... 33
+Leadership Indicators............................................................................................................................................................................ 33
+Principle 8.............................................................................................................................................................................................. 34
+Essential Indicators............................................................................................................................................................................... 34
+Leadership Indicators............................................................................................................................................................................ 35
+Principle 9.............................................................................................................................................................................................. 36
+Essential Indicators............................................................................................................................................................................... 36
+Leadership Indicators............................................................................................................................................................................ 39
+Business Responsibility and Sustainability Report
+2 | BRSR 2023-24
+SECTION A: GENERAL DISCLOSURES
+Corporate Identity Number (CIN): 
+1.	
+Max Financial Services Limited (MFSL): L24223PB1988PLC008031 
+	
+Max Life Insurance (MLI): U74899PB2000PLC045626 [Material subsidiary of MFSL]
+2.	
+Name of the Listed Entity: 
+	
+Max Financial Services Limited 
+3.	
+Year of Incorporation: 
+	
+MFSL: 1988
+	
+MLI: 2000
+4.	
+Registered Office Address: 
+	
+MFSL: Bhai Mohan Singh Nagar, Railmajra, Tehsil Balachaur, District Nawanshahr Punjab 144533
+	
+MLI: 419, Bhai Mohan Singh Nagar, Railmajra, Tehsil Balachaur, District Nawanshahr Punjab 144533
+5.	
+Corporate Office Address:
+	
+Max Financial Services Limited, L21, Max Towers, Plot No. C-001/A/1 Sector – 16B, Noida-201301, Uttar Pradesh
+	
+Max Life Insurance, Plot No. 90-C Udyog Vihar, Sector 18, Gurugram (Haryana) – 122015 
+	
+E-mail: investorhelpline@maxindia.com and  investorgrievance@maxlifeinsurance.com
+6.	
+Telephone: 
+	
+0120-4696000
+7.	
+Website: 
+	
+MFSL:  www.maxfinancialservices.com 
+	
+MLI:  www.maxlifeinsurance.com
+8.	
+Financial year for which reporting is being done: 
+	
+1st April 2023 – 31st March 2024
+9.	
+Paid-up Capital: 
+	
+MFSL: INR 6,90,229,542
+	
+MLI: INR 19,18,81,28,560
+10.	 Name of the Stock Exchange(s) where shares are listed: 
+	
+Equity shares of MFSL are listed on BSE Limited and National Stock Exchange of India Limited
+11.	 Name and contact details of the person who may be contacted in case of any queries on the BRSR report: 
+	
+MFSL: Mr. Piyush Soni, Company Secretary and Compliance Officer |  Email: psoni@maxindia.com
+	
+MLI: Ms. Vidhi Thukral, Senior Manager: ESG |  Email: vidhi.thukral@maxlifeinsurance.com
+12.	 Reporting boundary: 
+	
+Disclosure made in this report are on a consolidated basis i.e. of MFSL and MLI
+13.	 Name of assurance provider
+	
+Assurance is not applicable on MFSL for FY 2023-24; therefore, no assurance partner was appointed.
+14.	 Type of assurance obtained
+	
+Not applicable
+15.	 Details of business activities (accounting for 90% of the turnover):
+	
+MFSL: 
+Description of main activity
+Description of business activity
+% of turnover 
+Professional, Scientific and Technical
+Management consultancy activities
+77.5%
+Financial and Insurance services
+Financial and insurance services
+22.5%
+BRSR 2023-24 | 3 
+	
+MLI:
+Description of main activity
+Description of business activity
+% of turnover 
+Financial and Insurance services
+Life Insurance
+100%
+16.	 Products / Services sold by the entity (accounting for 90% of the entity’s turnover):
+       MLI:
+Sr. No.
+Product/ Service
+NIC Code
+% of total turnover contributed
+1.
+Life Insurance
+66010
+100%
+	
+Note: As per National Industrial Classification, Ministry of Statistics and Programme Implementation.
+17.	 Number of locations where plants and / or operations / offices of the entity are situated:
+	
+MFSL and MLI:
+Locations
+Number of plants
+Number of offices
+Total
+National
+Not Applicable
+303
+303
+International
+1
+1
+18.	 Markets served by the entity:
+a)	
+Number of locations:
+	
+MFSL and MLI:
+Locations
+Number
+National (no. of states and union territories)
+36
+-	
+States
+28
+-	
+Union Territories
+8
+International (no. of countries)
+1*
+	
+* MLI has one representative office at Dubai
+b)	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+Nil
+c)	
+A brief on types of customers:
+	
+MFSL: 
+	
+MFSL is primarily engaged in the business of growing and nurturing business investments and providing management 
+advisory services to group companies.
+MLI:
+• 
+Customers include salaried, self-employed and home maker individuals (Male, Female and Transgender) along 
+with their dependents seeking insurance products that offer protection in the event of their death, critical illness 
+or accident, protection to cover liability against a loan in the event of death, critical illness or accident, savings & 
+investment for various long term goals like children’s education, children’s marriage, retirement etc. 
+• 
+Customers also include retirees or pre-retirees seeking pension products as fresh investment or transfer through 
+NPS. For corporates we offer a range of products to help organizations manage their gratuity, superannuation. 
+Our products also address the protection needs of employees of both large and small organizations and group of 
+individuals.
+4 | BRSR 2023-24
+19.	 Details as at the end of financial year:
+a)	
+Employees (including differently abled):
+	
+MFSL and MLI:
+Sr. No
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. C
+% (C/A)
+Employees
+1
+Permanent (D)
+23,135
+16,917
+73.12%
+6,218
+26.88%
+2
+Other than permanent (E)
+0
+0
+-
+0
+-
+3
+Total employees (D+E)
+23,135
+16,917
+73.12%
+6,218
+26.88%
+Workers
+4
+Permanent (F)
+0
+0
+-
+0
+-
+5
+Other than permanent (G)
+0
+0
+-
+0
+-
+6
+Total workers (F+G)
+0
+0
+-
+0
+-
+	
+Note: Permanent employees do not include the employees on part-time basis. 
+	
+Other than permanent employee: We do not have fixed-term employees.
+b)	
+Differently abled employees:
+	
+MFSL and MLI:
+Sr. No
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. C
+% (C/A)
+Differently abled employees
+1
+Permanent (D)
+12
+11
+91.67%
+1
+8.33%
+2
+Other than permanent (E)
+0
+0
+-
+0
+-
+3
+Total employees (D+E)
+12
+11
+91.67%
+1
+8.33%
+Differently abled workers
+4
+Permanent (F)
+0
+0
+-
+0
+0
+5
+Other than permanent (G)
+0
+0
+-
+0
+0
+6
+Total workers (F+G)
+0
+0
+-
+0
+0
+20.	 Participation / Inclusion / Representation of women:
+	
+MFSL:
+Total (A)
+No. and percentage of females
+No. (B)
+% (B/A)
+Board of Directors
+10
+1
+10%
+Key Managerial Personnel
+3
+0
+0%
+	
+MLI:
+Total (A)
+No. and percentage of females
+No. (B)
+% (B/A)
+Board of Directors
+12
+1
+8.33%
+Key Managerial Personnel
+3
+0
+0%
+	
+Note: The definition of Board of Directors and Key Managerial Personnel is as per the SEBI’s Guidance Note for BRSR issued as Annexure II vide Circular dated 10th 
+May 2021.
+21.	 Turnover rate for permanent employees: 
+	
+MFSL:
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+14.3%
+25%
+18.2%
+13.3%
+Nil
+8.7%
+33.3%
+Nil
+22.2%
+	
+MLI:
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+42%
+42.9%
+42.2%
+48.6%
+54.7%
+50.1%
+47.8%
+52.8%
+49%
+	
+Note: The definition of turnover rate for permanent employees is as per the SEBI’s Guidance Note for BRSR issued as Annexure II vide Circular dated 10th  May, 2021.
+BRSR 2023-24 | 5 
+22.	 Names of holding / subsidiary / associate companies / joint ventures:
+Name of the holding / subsidiary / 
+associate companies / joint ventures 
+(A)
+Indicate whether holding / 
+subsidiary / associate / joint 
+venture
+% of shares held 
+by listed entity 
+(MFSL)
+Entity (A) participate 
+in the business 
+responsibility 
+initiatives of the 
+listed entity
+1
+Max Life Insurance Company Limited
+Material subsidiary of MFSL
+87%
+No
+2
+Max Life Pension Fund Management 
+Limited
+Wholly owned subsidiary of MLI 
+Nil
+No
+CSR Details
+23.	 CSR Activities
+	
+MFSL: 
+	
+CSR spending is not applicable to MFSL for the Financial Year ended March 31, 2024.
+	
+MLI:
+(i) 	 Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+(ii) 	 Turnover (in Rs.): 29,529 Cr
+(iii) 	Net worth (in Rs.): 3,919 Cr
+Transparency and Disclosures Compliances
+24.	 Complaints / Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct:
+	
+MFSL and MLI:
+Stakeholder 
+group from 
+whom complaint 
+is received
+Grievance 
+redressal 
+mechanism 
+in place and 
+web-link of 
+policy
+FY 2023-24
+FY 2022-23
+Number of 
+complaints 
+filed
+Number of 
+complaints 
+pending 
+resolution at the 
+end of the year
+Remarks
+Number of 
+complaints 
+filed
+Number of 
+complaints 
+pending 
+resolution 
+at the end 
+of the year
+Remarks
+Communities
+No 1
+0
+0
+None
+0
+0
+None
+Investors
+No 2
+0
+0
+None
+0
+0
+None
+Shareholders
+No 3
+3
+0
+None
+0
+0
+None
+Employees and 
+Workers
+Yes 4
+332
+Under 
+Consequence 
+Management - 3 
+Under 
+Investigation - 2
+None
+245
+0
+None
+Customers
+Yes 5
+3,527
+0
+None
+4,490
+0
+None
+Value Chain 
+Partners
+No 
+0
+0
+None
+0
+0
+None
+Others
+-
+-
+-
+-
+-
+-
+-
+	
+Note 1: The engagement with communities is restricted to CSR activities undertaken by the Company. The grievances, if any, by the communities are addressed by 
+the third party/ implementing agencies.
+	
+Note 2:  MLI has issued the non-convertible debentures worth INR 496 Crores. The grievance from any debenture holder shall be addressed via receipt of such 
+complaint through the following web link: Disclosures under Regulation 62 of the LODR (maxlifeinsurance.com) 
+	
+Note 3: The concerns/grievances/queries of the shareholders are adequately addressed and resolved. In MFSL, investor helpline number is +91 120 4696000 Email: 
+investorhelpline@maxindia.com and investorgrievance@maxlifeinsurance.com
+	
+Note 4: POSH policy, Whistle-blower Policy and Equal Opportunity Policy can be downloaded from -  
+https://www.maxlifeinsurance.com/about-us/media-centre/key-company-policies.html and  
+https://maxfinancialservices.com/investorrelations?category=CorporatePolicies
+	
+Note 5: For customers, the Company has Grievance Redressal Policy in place. The Grievance Redressal Policy of MLI can be accessed at the link:  
+https://www.maxlifeinsurance.com/about-us/media-centre/key-companypolicies. 
+6 | BRSR 2023-24
+25.	 Overview of the entity’s material responsible business conduct issues: Please indicate material responsible business conduct 
+and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity to your business, 
+rationale for identifying the same, approach to adapt or mitigate the risk along-with its financial implications:
+S.N.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+Rationale for identifying 
+the risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+1
+Responsible 
+product offering
+Opportunity
+The Company is 
+committed to enhance the 
+financial future for which 
+responsible products and 
+products suiting wider 
+range of customers
+Evaluating the performance 
+of the products by keeping the 
+interest of policyholders and 
+shareholders on focus. 
+Positive
+2
+Governance
+Risk and 
+Opportunity 
+Robust governance is at 
+the core of Company’s 
+vision and mission
+
+ Policy revision/ Board 
+review/ upgradation of 
+governance framework
+
+ Regular statutory and 
+secretarial audit
+Positive and negative
+3
+Ethics & 
+Compliance
+Risk and 
+Opportunity
+Strong culture of ethics 
+and compliance is 
+the foundation of the 
+Company
+
+ Board review/ upgradation 
+of governance framework/
+effective training
+
+ Regular review and 
+monitoring of different 
+compliances
+Positive and negative
+4
+Sustainable 
+investing / 
+Responsible 
+asset 
+management
+Opportunity
+Investments which 
+takes into account 
+environmental and social 
+and governance related 
+impact
+The Company considers ESG 
+parameters before making 
+investments
+Positive
+5
+Natural disaster
+Risk
+Strong evidence of 
+the impact of climate 
+change have been 
+long established by 
+Intergovernmental Panel 
+on Climate Change
+
+ Reviewing/ modifying the 
+business processes and 
+mechanisms to enhance 
+the resilience of the 
+Company
+
+ Business continuity plan 
+in place which is reviewed 
+regularly by the Board
+Negative
+6
+ESG verification 
+& reporting
+Risk and 
+Opportunity
+Company is ought to take 
+on the responsibility of 
+all the aspects such as 
+environment, social and 
+governance 
+
+ Strengthen the pillars of 
+ESG/ taking measures for 
+accurate reporting
+
+ Keeping the Board apprised 
+of the recent developments 
+taking in the sphere of ESG
+
+ To keep track of the best 
+practices nationally and 
+globally
+Positive and negative
+7
+Energy 
+efficiency
+Opportunity
+To reduce the carbon 
+emissions
+Mainstreaming the energy 
+efficient equipment and 
+technology in the company
+Positive
+8
+Waste 
+management
+Opportunity
+To be in alignment with 
+the circular economy 
+as proposed by the 
+Government of India
+Upgrading the existing 
+mechanism of the company to 
+be in alignment with the best 
+practices 
+Positive
+9
+Pollution
+Opportunity
+Pollution is one of the 
+threat which the world is 
+facing
+Upgrading the existing 
+mechanism of the company to 
+be in alignment with the best 
+practices  
+Positive
+BRSR 2023-24 | 7 
+S.N.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+Rationale for identifying 
+the risk / opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+10
+Water
+Opportunity
+Availability to potable 
+water is diminishing with 
+each year which makes its 
+conservation an important 
+aspect 
+Upgrading the existing 
+mechanism of the company to 
+be in alignment with the best 
+practices  
+Positive
+11
+Data privacy & 
+security
+Risk and 
+Opportunity
+Respecting the privacy of 
+policyholders
+Ensuring the data is 
+secure and there is no 
+threat to the data of 
+policyholders
+Reviewing the policy and other 
+mechanism in place to ensure 
+robust system for data privacy 
+and security
+Positive and 
+Negative
+12
+Digital 
+transformation
+Opportunity
+To keep up with the 
+advancement taking place 
+in technology sphere in 
+order to help employees 
+and customers
+Upgrading the process/
+investment in newer 
+technologies
+Positive
+13
+Workforce 
+development
+Opportunity
+Treasuring each individual 
+and ensuring their 
+development
+Reviewing and upgrading the 
+policies, process/ effective 
+training programs
+Positive
+14
+Health & 
+wellness
+Opportunity
+The well-being of 
+employees is directly 
+proportional to the well-
+being of the company
+Reviewing and upgrading the 
+policies, process/ effective 
+health and wellness programs
+Positive
+15
+Local 
+community 
+support
+Opportunity
+Contributing to the 
+society/ Seva bhav is 
+one of the core values of 
+MFSL 
+Reviewing CSR activities/ 
+engaging effectively with the 
+community/ upliftment
+Positive
+16
+Diversity, Equity 
+and Inclusion
+Opportunity
+To have fresh perspective, 
+to perform effectively 
+and for better decision-
+making
+Reviewing the policy/ ensuring 
+the DEI principles are reflected 
+in the Company’s culture
+Positive
+8 | BRSR 2023-24
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+Policy and management processes
+1
+a. Whether your entity’s policy / 
+policies cover each principle and its 
+core elements of the NGRBCs. 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b. Has the policy been approved by 
+the Board? 
+Y
+Y
+Y*
+Y
+Y
+Y
+Y
+Y
+Y
+c. Web Link of the Policies
+www.maxlifeinsurance.com/about-us/media-centre/key-company-policies
+https://maxfinancialservices.com/investorrelations?category=CorporatePolicies 
+2
+Whether the entity has translated 
+the policy into procedures. 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3
+Do the enlisted policies extend to 
+your value chain partners? 
+The company expects its value chain partners to adhere to the relevant policies at their 
+level. Currently, MFSL and MLI enforce this through contractual obligations.
+4
+Name of the national and 
+international codes / certifications / 
+labels / standards adopted by your 
+entity and mapped to each principle
+ISO 27001 - Information Security Management
+ISO 22301 Business continuity management system  
+5
+Specific commitments, goals and 
+targets set by the entity with defined 
+timelines
+
+Diversity and Inclusion: Aim for a 28% gender diversity ratio by FY 2025.
+
+Employee Development: Achieve 40 hours of employee training per year.
+
+Responsible Investment: Integrate ESG evaluation into equity investment 
+research and decision-making, ensuring 75% of the equity portfolio is ESG 
+compliant at all times.
+
+Carbon Emissions Reduction: Reduce operational carbon emissions by 80% by 
+FY 2028.
+
+Digital Penetration: Achieve 95% digital penetration for customers by FY 2026.
+6
+Performance of the entity against 
+the specific commitments, goals and 
+targets along-with reasons in case 
+the same are not met
+
+
+The digital penetration stood at 89% as on 31st March 2024.
+
+
+The gender diversity ratio stood at 27% as on 31st March 2024.
+
+
+Achieved 61 learning hours till 31st March 2024.
+	
+Targets under Responsible Investment were met: ESG evaluation in equity 
+investment research and decision-making. 75% of equity portfolio was ESG 
+compliant at all times. 100% compliance for equity portions of shareholders’ fund\
+	
+*Note: For ensuring well-being of the employees by the value chain partners, the Company currently ensures it through contractual obligations.
+7.	
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and 
+achievements (listed entity has flexibility regarding the placement of this disclosure).
+	
+The increased use of resources is the main driver for the triple planetary crisis i.e. climate change, biodiversity loss and 
+pollution. This takes our focus on how important it is to judiciously use the resources. Thus, responsible and sustainable 
+production and consumption of resources is of utmost priority. At Max Life, we use energy efficient technologies, invest in 
+emission reduction strategies and strive for effective waste and water management. We encourage employees to reduce their 
+individual consumption patterns as well. Despite the Paris Agreement of 2015 reaching a milestone in cooperation amongst 
+countries to limit global warming to 1.5oC, the pace of action has not been adequate to achieve the goal. The signatories to the 
+Paris Agreement, including India, have submitted their Intended Nationally Determined Contributions (INDCs) and India has 
+made the commitment to achieve the net zero target by 2070. Taking this goal at the corporate level, Max Life has committed 
+to reduce carbon emissions by 80% by 2028. In the recent past, conscious investors have been on the rise across the country 
+and worldwide who are not only concerned with financial disclosures, but also the non-financial disclosures of the Company. 
+Nowadays, every Board Room discusses and deliberates on aspects related to Environmental, Social and Governance. While 
+this trend has been started as a result of the need to abide by the statutory obligations, but the companies have started to 
+overhaul their business structure to integrate sustainability at all levels. Corporates are expected to embrace ESG criteria 
+not just for compliance or as risk management tool but as a chance to fundamentally transform their business model into a 
+sustainable one.
+	
+The Company has charted four pillars of ESG: working ethically and sustainably, green operations, financial responsibility and 
+care for people. These pillars guide the Company to take sustainable decisions for its functioning. 
+BRSR 2023-24 | 9 
+8.	
+Details of the highest authority responsible for implementation and oversight of the business responsibility policy:
+	
+Mr. Anurag Chauhan, General Counsel & Company Secretary, Head-ESG, MLI, Email: anurag.chauhan@maxlifeinsurace.com
+	
+Mr. Piyush Soni, Company Secretary & Compliance Officer, MFSL, Email: psoni@maxindia.com
+9.	
+Does the entity have a specified committee of the board / director responsible for decision making on sustainability related 
+issues? If Yes, provide details.
+	
+The Board of MLI and MFSL are apprised on a quarterly basis about the sustainability related initiatives taken by the entities. 
+There is an ESG steering committee chaired by the CEO of MLI and an ESG working committee which is chaired by Head ESG 
+of MLI.
+10.	 Details of review of NGRBCs by the Company:
+	
+MFSL & MLI:
+ Subject for review
+Indicate whether review was 
+undertaken by director / committee 
+of the board / any other committee
+Frequency (annually / half yearly / 
+quarterly / any other)
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+a 
+Performance against above policies 
+and follow up action
+The policies of the company are 
+approved by the Board/ Committee of 
+the Board/ Senior Management
+All policies are reviewed periodically 
+by the Board i.e. yearly/ biennially/ 
+on a need basis as per statutory 
+requirements
+b
+Compliance with statutory 
+requirements of relevance to the 
+principles, and rectification of any 
+non-compliances
+The company complies with the extant statutory requirements as applicable
+	
+MFSL & MLI:
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+11
+Has the entity carried out independent 
+assessment/ evaluation of the working 
+of its policies by an external agency? If 
+Yes, provide name of the agency.
+All policies are internally reviewed by the Board
+12
+If principles not covered by a policy, provide reasons for the same.
+a
+The entity does not consider the 
+Principles material to its business 
+Not applicable
+b
+The entity is not at a stage where it is in 
+a position to formulate and implement 
+the policies on specified principles
+c
+The entity does not have the financial 
+or / human and technical resources 
+available for the task
+d
+The entity does not have the financial 
+or / human and technical resources 
+available for the task
+e
+Any other reason
+10 | BRSR 2023-24
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURES
+Principle 1
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year: 
+	
+MFSL and MLI:
+Segment
+Total number 
+of training and 
+awareness 
+programmes 
+held
+Topics / principles covered under the training and its impact
+% of persons 
+in respective 
+category 
+covered by the 
+awareness 
+programmes
+Board of Directors
+20
+The Company conducts familiarization programmes for 
+Directors of the Company at the time of their appointment 
+which covers about their roles, rights, responsibilities, nature 
+of the industry in which the Company operates, the business 
+model of the Company and so forth. The same is conducted 
+with the following objectives: a) To familiarize the directors 
+with background of the company’s governance philosophy b) 
+To explain statutory duties and responsibilities of the Directors 
+etc. c) To discuss the roles, decision making process, values 
+of Max Life d) To discuss organization’s expectations from the 
+Board members.  Separate sessions are conducted with each 
+of the key leader of each function of the Company to provide the 
+new directors with better insight of working in every function 
+across the organization and strategic aspects of the Company. 
+The members of the Board undergo an extensive orientation 
+programme on their joining.  Further, on quarterly basis, the 
+Board is apprised of the key developments taking place in the 
+legal and regulatory landscape and about the internal policies 
+in various Committee meetings and CEO update during Board 
+meeting and through various sessions by external experts on 
+topical subjects. 
+100%
+Key Managerial 
+Personnel
+24
+The KMPs are part of the Board and Committee meetings 
+and have attended all the familiarization programmes on a 
+quarterly basis. They attend many other training in the capacity 
+of employees as well.
+100%
+Employees other than 
+BoD and KMPs
+2363
+The employees undergo several training programs during their 
+tenure which covers all principles. The broad categories are 
+listed as under:
+• 
+ESG sensitization
+• 
+Code of conduct for employees
+• 
+Well-being and safety of employees
+• 
+Diversity, Equity and Inclusivity
+• 
+Ethical sales and marketing
+100%
+Workers
+Not applicable
+2.	
+Details of fines / penalties / punishment / award / compounding fees / settlement amount paid in proceedings (by the entity or by 
+directors / KMPs) with regulators / law enforcement agencies / judicial institutions, in the financial year, in the following format 
+(Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30f SEBI (Listing Obligations and 
+Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website): 
+BRSR 2023-24 | 11 
+	
+MFSL and MLI:
+ 
+NGRBC 
+Principle
+Name of the regulatory 
+/ enforcement agencies 
+judicial institutions
+Amount (In INR)
+Brief of the 
+case
+Has an 
+appeal been 
+preferred?
+Monetary
+Penalty / Fine
+Nil
+Settlement
+Compounding fee
+Non-Monetary
+Imprisonment
+Nil
+Punishment
+3.	
+Of the instances disclosed in question 2 above, details of the appeal / revision preferred in cases where monetary or non-
+monetary action has been appealed. 
+	
+Not applicable
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If Yes, provide details in brief and if available, provide a web-link 
+to the policy. 
+	
+Yes. This policy emphasizes Max’s zero tolerance to bribery and corruption. It establishes the principles with respect to 
+applicable Anti-Bribery and Anti-Corruption laws. The policy provides information and guidance on how to recognize and deal 
+with bribery and corruption issues. It guides us to act professionally, fairly and with utmost integrity in all our business dealings 
+and relationships, wherever we operate.
+	
+The web link of the policy is: www.maxlifeinsurance.com/about-us/media-centre/key-company-policies
+5.	
+Number of Directors / KMPs / employees / workers against whom disciplinary action was taken by any law enforcement agency 
+for the charges of bribery / corruption: 
+	
+MFSL and MLI:
+ 
+FY 2023-24
+FY 2022-23
+Directors
+None
+None
+KMPs
+None
+None
+Employees 
+None
+None
+Workers
+NA
+NA
+6.	
+Details of complaints with regard to conflict of interest: 
+	
+MFSL and MLI:
+FY 2023-24
+FY 2022-23
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to 
+issues of conflict of interest of the directors
+None
+-
+None
+-
+Number of complaints received in relation to 
+issues of conflict of interest of the KMPs
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators / 
+law enforcement agencies / judicial institutions, on cases of corruption and conflicts of interest.  
+	
+Not applicable
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following format:
+	
+MFSL:
+FY 2023-24
+FY 2022-23
+Number of days of accounts payables
+54.65
+81.37
+12 | BRSR 2023-24
+	
+MLI:
+FY 2023-24
+FY 2022-23
+Number of days of accounts payables
+62.46
+99.37
+9.	
+Openness of business
+	
+MFSL:
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of 
+Purchases
+a. 	 Purchases from trading houses as % of total 
+purchases
+Owing to the nature of our business, this is 
+not applicable to life insurance business.
+b. 	 Number of trading houses where purchases are 
+made from
+c. 	 Purchases from top 10 trading houses as % of 
+total purchases from trading houses
+Concentration of 
+Sales
+a. 	 Sales to dealers / distributors as % of total sales
+Owing to the nature of the business, the 
+company does not do any direct sales 
+through dealers/distributors. In our case, 
+distributors are doing the sales for the 
+policyholders.
+b. 	 Number of dealers / distributors to whom sales 
+are made
+c. 	 Sales to top 10 dealers / distributors as % of total 
+sales to dealers / distributors
+Share of RPTs in
+a.	
+Purchases (Purchases with related parties / Total 
+Purchases) 
+52.1%
+52.6%
+b. 	 Sales (Sales to related parties / Total Sales) 
+100%
+100%
+c. 	 Loans & advances (Loans & advances given to 
+related parties / Total loans & advances) 
+0%
+0%
+d.	
+Investments ( Investments in related parties / 
+Total Investments made)
+0%
+13%
+	
+MLI:
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of 
+Purchases
+a. 	 Purchases from trading houses as % of total 
+purchases
+Owing to the nature of own business, this is 
+not applicable to life insurance business.
+b. 	 Number of trading houses where purchases are 
+made from
+c. 	 Purchases from top 10 trading houses as % of 
+total purchases from trading houses
+Concentration of 
+Sales
+a. 	 Sales to dealers / distributors as % of total sales
+Owing to the nature of the business, the 
+company does not do any direct sales 
+through dealers/distributors. In our case, 
+distributors are doing the sales for the 
+policyholders.
+b.	
+ Number of dealers / distributors to whom sales 
+are made
+c. 	 Sales to top 10 dealers / distributors as % of 
+total sales to dealers / distributors
+Share of RPTs in
+a. 	 Purchases (Purchases with related parties / 
+Total Purchases) 
+21%
+21%
+b. 	 Sales (Sales to related parties / Total Sales)
+2%
+2%
+ c.	 Loans & advances (Loans & advances given to 
+related parties / Total loans & advances) 
+0%
+0%
+d.	
+ Investments ( Investments in related parties / 
+Total Investments made)
+0.60%
+0.74%
+BRSR 2023-24 | 13 
+Leadership Indicators
+1.	
+Awareness programmes conducted for value chain partners on any of the principles during the financial year:
+Total number of awareness  
+programmes held
+Topics / principles covered 
+under the training
+% of value chain partners covered 
+(by value of business done 
+with such partners) under the 
+awareness programs
+Nil
+	
+Note: Majority of the value chain partners of both MFSL and MLI are service providers. In FY 2023-24, there was no awareness programme held for value chain 
+partners, however, the company intends to do it in the near future.
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? If Yes, provide 
+details of the same. 
+MFSL and MLI:
+The Company has the Board Charter and Policy on related party transactions in place which contain appropriate provisions 
+for managing conflict of interest situations involving members of the board. There is adequate Standard Operating Procedure 
+(SOP) to give effect to the related party transactions. The Company also receives periodic declarations from the Directors of 
+the Board on the entities that they are interested in and it is ensured that requisite approvals are taken prior to entering into 
+any transaction with any such entity. Interested director abstains himself/ herself from participating in the discussions in the 
+matters involving entities where they hold common directorship, even when they are not technically interested.
+ Principle 2
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and 
+social impacts of product and processes to total R&D and capex investments made by the entity, respectively. 
+	
+MFSL and MLI: 
+	
+Both MFSL and MLI’s nature of business is to enhance financial protection. MLI’s major investment is for the upgradation of 
+digital infrastructure for improving customer experience. The share of investments in digital technology are 81% of company’s 
+total capital investments in financial year 2023-24. This also helps us in reducing printing of paper which is an endeavour to 
+make Max Life an environmental friendly organisation. 
+FY 2023-24
+FY 2022-23
+Details of improvements in environmental and social 
+impacts
+R&D
+-
+-
+-
+Capex
+-
+-
+-
+2.	
+Does the entity have procedures in place for sustainable sourcing? If Yes, what percentage of inputs were sourced sustainably?
+	
+The nature of the business of both MFSL and MLI does not involve sourcing of raw material/products etc. Thus, the company 
+does not have a procedure in place for sustainable sourcing.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) 
+Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) Other waste.
+	
+Due to the nature of our business, MFSL and MLI do not produce any products that generate plastic waste, e-waste, or 
+hazardous waste. Therefore, reclaiming products for reuse, recycling, or disposal at the end of their lifecycle is not applicable.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities. If Yes, whether the waste collection plan 
+is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, provide steps 
+taken to address the same.
+	
+Owing to the nature of the business, Extended Producer Responsibility is not applicable on MFSL and MLI.
+14 | BRSR 2023-24
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) or for 
+its services (for service industry)? If Yes, provide details in the following format?  
+NIC 
+code
+Name of 
+product / 
+service
+% of total 
+turnover 
+contribute
+Boundary for which the 
+life cycle perspective 
+/ assessment was 
+conducted
+Whether conducted 
+by independent 
+external agency
+Results communicated 
+in public domain. If 
+Yes, provide the web-
+link
+Nil
+	
+Note: We have not yet initiated the Life Cycle Analysis of our products, but we plan to undertake this in the future.
+2.	
+If there are any significant social or environmental concerns and / or risks arising from production or disposal of your products 
+/ services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the 
+same along-with action taken to mitigate the same.
+Name of product / service
+Description of the risk / concern
+Action taken
+Not applicable
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or 
+providing services (for service industry).
+Indicate input material
+FY 2023-24
+FY 2022-23
+Not applicable
+	
+Note: Owing to the nature of the business, the above is not applicable to MFSL and MLI.
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely 
+disposed.
+ 
+FY 2023-24
+FY 2022-23
+Re-Used
+Recycled
+Safely 
+Disposed
+Re-Used
+Recycled
+Safely 
+Disposed
+Plastics
+Not Applicable
+E-waste
+Hazardous waste
+Other waste
+	
+Note: Owing to the nature of the business, there were no products and packaging reclaimed at the end of life of products, thus the above is not applicable to MFSL 
+and MLI.
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Indicate product category
+Reclaimed products and their packaging materials
+as % of total products sold in respective category
+Not Applicable
+	
+Note: Owing to the nature of the business, the above is not applicable to MFSL and MLI.
+BRSR 2023-24 | 15 
+Principle 3
+Essential Indicators
+1.	
+a. 	 Details of measures for the well-being of employees: 
+	
+	
+MFSL and MLI:
+Category
+% of employees covered by
+Total 
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+No. (B)
+% (B 
+/A)
+No. (C)
+% (C 
+/A)
+No. (D)
+% (D 
+/A)
+No. (E)
+% (E 
+/A)
+No. (F)
+% (F 
+/A)
+Permanent employees
+Male
+16,917
+16,917
+100%
+16,917
+100%
+-
+-
+16,917
+100%
+-
+-
+Female
+6,218
+6,218
+100%
+6,218
+100%
+6,218
+100%
+-
+-
+6,218
+100%
+Total
+23,135
+23,135
+100%
+23,135
+100%
+6,218
+26.8%
+16,917
+73.2%
+6,218
+26.8%
+Other than Permanent employees
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+	
+Note: To enable women employees to stay invested in their careers, the company offers supportive policies that cater to their needs at various life stage. Some 
+of these polices include maternity leave, adoption leave & medical leave in case of miscarriage/ medical termination of pregnancy, any illness arising out of 
+pregnancy
+         b.	 Details of measures for the well-being of workers: 
+	
+MFSL and MLI:
+Category
+% of employees covered by
+Total 
+(A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+No. (B)
+% (B 
+/A)
+No. (C)
+% (C 
+/A)
+No. (D)
+% (D 
+/A)
+No. (E)
+% (E 
+/A)
+No. (F)
+% (F 
+/A)
+Permanent workers
+Male
+Not applicable
+Female
+Total
+Other than Permanent workers
+Male
+Not applicable
+Female
+Total
+c. 	 Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in 
+the following format
+	
+MFSL:
+FY 2023-24
+FY 2022-23
+Cost incurred on well-being measures 
+as a % of total revenue of the company
+0.97%
+0.45%
+	
+MLI:
+FY 2023-24
+FY 2022-23
+Cost incurred on well-being measures 
+as a % of total revenue of the 
+company     
+0.08%
+0.08%
+16 | BRSR 2023-24
+2.	
+Details of retirement benefits, for the current financial year and previous financial year: 
+	
+MFSL:
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority
+PF
+100%
+Not applicable
+Yes
+100%
+Not applicable
+Yes
+Gratuity
+100%
+Yes
+100%
+Yes
+Employee State 
+Insurance (ESI)
+Not applicable
+Yes
+Not applicable
+Yes
+Others 
+-
+-
+-
+-
+	
+MLI:
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority
+PF
+100%
+Not applicable
+Yes
+100%
+Not applicable
+Yes
+Gratuity
+100%
+Yes
+100%
+Yes
+Employee State 
+Insurance (ESI)
+5.82%
+Yes
+8%
+Yes
+Others 
+-
+-
+-
+-
+3.	
+Accessibility of workplaces: Are the premises / offices of the entity accessible to differently abled employees and workers, as 
+per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity 
+in this regard.
+	
+Corporate offices of both MFSL and MLI are accessible to differently abled employees.
+	
+Note: The accessibility of workplaces is considered as per the SEBI’s Guidance Note for BRSR issued as Annexure II vide 
+Circular dated 10th May 2021.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-
+link to the policy. 
+	
+Yes, the web link of MFSL’s Rights of Persons with Disabilities Act, 2016 can be accessed at:  
+www.maxfinancialservices.com/corporate-policies
+	
+www.maxlifeinsurance.com/about-us/media-centre/key-company-policies
+5.	
+Return to work and retention rates of permanent employees and workers that took parental leave. 
+	
+MFSL:
+Gender
+Return to work rate
+Retention rate
+Permanent employees
+Male
+Nil
+Nil
+Female
+Nil
+Nil
+Total
+Nil
+Nil
+Permanent workers
+Male
+Not Applicable
+Female
+Total
+BRSR 2023-24 | 17 
+	
+MLI: 
+Gender
+Return to work rate
+Retention rate
+Permanent employees
+Male
+100%
+35.11%
+Female
+98.98%
+49.7%
+Total
+99.51%
+43.33%
+Permanent workers
+Male
+Not Applicable
+Female
+Total
+	
+Note: The return to work rate and retention rate is considered as per the SEBI’s Guidance Note for BRSR issued as Annexure II vide Circular dated 10th May 2021.
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? If Yes, 
+give details of the mechanism in brief: 
+	
+MFSL and MLI:
+ 
+If Yes, then give details of the mechanism in brief
+Permanent Employees
+All employees are encouraged to report concerns about misconduct, harassment, 
+irregularities, governance weakness, or breach of laws, in a confidential manner and 
+without any fear or retaliation.
+Concerns reported may be in violation of Code of Conduct policy, Conflict of Interest 
+policy, Data Privacy policy, Equal Opportunity Policy, Anti Money Laundering Policy, 
+Gifts, Meals and Entertainment policy, Prevention of Sexual Harassment policy, 
+Recruitment Policy, Workplace Anti-Harassment Policy, Anti Bribery and Anti-
+Corruption Policy, Code for Personal Trading in Securities, Relative Hiring Policy-
+Agent, Anti-Fraud Policy or Information Security Policy or any other policy applicable 
+at the time.
+The company has established a Governance team, known as MyVoice (myvoice@
+maxlifeinsurance.com), to receive, track, and facilitate the resolution of grievances 
+within the timeframes specified. This team acknowledges the complaint, classifies and 
+assigns it to the appropriate team for investigation. Additionally, the team monitors 
+timelines and consequence management for all complaints. All disciplinary actions 
+are carried out in accordance with the Employee Disciplinary Action Process (EDAP) 
+policy of the company.
+Other than Permanent Employees
+Not applicable
+Permanent Workers
+Other than Permanent Workers
+7.	
+Membership of employees and workers in association(s) or unions recognised by the listed entity:
+	
+MFSL and MLI:
+Category
+FY 2023-24
+FY 2022-23
+Total employees / 
+workers in respective 
+category (A)
+No. of employees 
+/ workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (B)
+% (B / A)
+Total 
+employees 
+/ workers in 
+respective 
+category
+No. of employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union(D)
+% (D / C)
+Total Permanent Employees
+Male
+The company does not have any employee association
+Female
+Total Permanent Workers
+Male
+Not applicable
+Female
+18 | BRSR 2023-24
+8.	
+Details of training given to employees and workers:
+	
+MFSL and MLI:
+FY 2023-24
+FY 2022-23
+Total (A)
+Health and safety 
+measures
+Skill upgradation
+Total (A)
+Health and safety 
+measures
+Skill upgradation
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Employees
+Male
+16,917
+-
+0%
+15,557
+67.24%
+14,379
+-
+0%
+8,569
+61%
+Female
+6,218
+-
+0%
+5,593
+89.95%
+4,970
+-
+0%
+2,853
+59%
+Total
+23,135
+-
+0%
+21,150
+91.41%
+19,349
+-
+0%
+11,422
+60%
+Workers
+Male
+Not Applicable
+Female
+Total
+9.	
+Details of performance and career development reviews of employees and worker:
+	
+MFSL and MLI:
+FY 2023-24
+FY 2022-23
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees
+Male
+16,917
+15,148
+89.54%
+14,379
+12,364
+86%
+Female
+6,218
+5,444
+87.55%
+4,970
+4,254
+85.7%
+Total
+23,135
+20,582
+88.96%
+19,349
+16,618
+85.9%
+Workers
+Male
+Not Applicable
+Female
+Total
+	
+Note: The performance and career development of all full time employees who have joined before 31st December of financial year are eligible to participate in the 
+appraisal process for the financial year. Those employees who have joined after the cut-off date are assessed in the subsequent financial year’s appraisal process.
+10.	 Health and safety management system:
+a)	
+Whether an occupational health and safety management system has been implemented by the entity? If Yes, the coverage 
+of such system?
+MFSL and MLI:
+Yes, the company adheres to specific guidelines to ensure employee health and safety, prioritizing the well-being of our 
+employees. We consider air quality, water quality, and cleanliness as the most crucial factors for maintaining a healthy and 
+safe workplace. Our initiatives include:
+Air Quality: All MFSL and MLI offices are air-conditioned, with headquarters buildings using MERV filters to capture dust 
+particles and improve overall air quality.
+Water Quality: Both branches and head offices have access to mineral water and RO (Reverse Osmosis) machines. Head 
+offices undergo monthly water testing, while branches receive quarterly RO maintenance.
+Cleanliness and Pest Control: Our housekeeping team ensures a clean and sanitary work environment through regular 
+cleaning and disinfection. We also conduct periodic pest control measures.
+In addition, we conduct periodic checks on electrical and fire safety parameters with the help of consultants. Any issues 
+identified are promptly addressed through measures such as electrical audits, planned preventive maintenance, and fire 
+safety checks.
+BRSR 2023-24 | 19 
+b)	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the 
+entity?
+	
+MFSL and MLI prioritize proactive hazard identification by regularly gathering and analyzing information on potential and 
+existing workplace issues through systematic inspections. Our approach involves dividing the workplace into specific zones 
+(workstations, utilities, storage areas, etc.) and assigning appropriate safety measures for each area.
+	
+Key safety practices include:
+• 
+Electrical and Fire Safety: We conduct regular testing, enforce the use of protective equipment, and provide emergency 
+training for employees.
+• 
+Head Office Measures: Our head office exemplifies this commitment with additional safety protocols:
+•	
+Maintaining Material Safety Data Sheets (MSDSs) and inventory control.
+•	
+Conducting regular testing of air, noise, and illumination levels.
+•	
+Implementing a system for recording employee safety complaints.
+•	
+Keeping detailed maintenance logs for the premises.
+c)	
+Whether you have processes for workers to report the work related hazards and to remove themselves from such risks.
+	
+Due to the nature of our business, there are no workers, making this inapplicable for MFSL and MLI.
+d)	
+Do the employees / worker of the entity have access to non-occupational medical and healthcare services?
+	
+MFSL and MLI offer group medical insurance to employees, covering the premium for the employee, their spouse, and up 
+to two children. Additionally, MLI provides ESIC benefits, in addition to the group medical insurance, for employees earning 
+up to 2.77 lakhs per annum.
+11.	 Details of safety related incidents:
+	
+MFSL and MLI:
+Safety Incident / Number
+Category
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one 
+million-person hours worked)
+Employees
+0
+0
+Workers
+Not Applicable
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+Not Applicable
+No. of fatalities
+Employees
+Workers
+Not Applicable
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+0
+0
+Workers
+Not Applicable
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+MFSL and MLI:
+	
+MFSL and MLI are committed to well-being, offering a comprehensive health and wellness program that empowers employees 
+to take charge of their health.
+1.	
+Digital Health & Wellness: Visit Health App, employees’ personal health assistant provides:
+a.	
+Unlimited free doctor consultations
+b.	
+Discounted diagnostic tests and medication delivery
+c.	
+Personalized health and wellness dashboard
+d.	
+Easy access to your insurance e-card and hospitalization requests
+e.	
+Employee Wellness Calendar: Find monthly well-being activities on the company intranet.
+2.	
+Promoting Healthy Habits:
+a.	
+Healthier Food Options: Enjoy healthier choices at the company canteen.
+3.	
+Employee Health Partnerships: Antara Assisted Care Services: MLI employees receive a certain discount on: 
+a.	
+Medical care products
+20 | BRSR 2023-24
+b.	
+In-home care services (nursing, patient care, physiotherapy)
+c.	
+Diagnostic services (X-ray & ECG)
+d.	
+Assisted living facilities for seniors
+13.	 Number of complaints on the following made by employees and workers:
+	
+MFSL and MLI:
+ 
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+Working Conditions
+None
+None
+None
+None
+None
+None
+Health and Safety
+None
+None
+None
+None
+None
+None
+14.	 Assessments for the year:
+	
+MFSL and MLI:
+% of your plants and offices that were assessed (by entity or statutory authorities 
+or third parties)
+FY 2023-24
+FY 2022-23
+Health and safety practices
+100%
+100%
+Working Conditions
+100%
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents and on significant risks / concerns 
+arising from assessments of health and safety practices and working conditions.
+	
+Not applicable 
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (B) Workers?
+	
+MFSL and MLI annually contribute to their Employees Gratuity Fund, managed by Life Insurance Corporation of India and Max 
+Life Insurance Company Limited, respectively. This funded defined benefit plan is available to eligible employees and provides a 
+lump sum payment upon retirement, death during employment, or termination of employment. The payment is equivalent to 15 
+days’ salary for each completed year of service or part thereof exceeding 6 months. Vesting occurs after completing 5 years 4of 
+service. Apart from Gratuity, Max Life covers all its employees under the Group Term Life insurance & Group Personal Accident 
+insurance.
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value 
+chain partners.
+	
+Both MFSL and MLI have statutory clauses in the agreements with value chain partners which mandates that they ensure that 
+statutory dues have been deducted and deposited.
+3.	
+Provide the number of employees / workers having suffered high consequence work related injury / ill-health / fatalities (as 
+reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable employment or whose family 
+members have been placed in suitable employment: 
+       MFSL and MLI:
+ 
+FY 2023-24
+FY 2022-23
+Total no. of affected employees / workers
+Employees
+Not Applicable
+Workers
+No. of employees / workers that are rehabilitated and placed in suitable employment or whose family members have 
+been placed in suitable employment
+Employees
+Not Applicable
+Workers
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management of career 
+BRSR 2023-24 | 21 
+endings resulting from retirement or termination of employment?
+	
+No
+5.	
+Details on assessment of value chain partners:
+ 
+% of value chain partners (by value of business done with such partners) that were 
+assessed
+Health and safety practices
+-
+Working Conditions
+	
+Note: Currently, both MFSL and MLI do not have the practice of assessment of value chain partner.
+7.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments of 
+health and safety practices and working conditions of value chain partners.
+	
+The need for corrective actions did not arise as the company does not currently practice assessment of value chain partners 
+on health and safety and working conditions.
+Principle 4
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity. 
+	
+Both MFSL and MLI have identified key internal and external stakeholder through regular interaction with board, senior 
+management, employees, customers and value chain partners. 
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group. 
+MFSL and MLI:
+Sr. No
+Stakeholder 
+Group
+Whether 
+identified as 
+vulnerable 
+and 
+marginalized 
+group
+Channels of communication
+Frequency of 
+engagement 
+Purpose and scope of 
+engagement including 
+key topics and concerns 
+raised during such 
+engagement
+1
+Customers
+No
+Media, Website, Social media, 
+Customer satisfaction survey, 
+Workshops and seminars, Annual 
+and quarterly reports, Whatsapp 
+and webinar
+Regular
+Improved customer 
+experience, Better 
+relationship
+2
+Employees
+No
+Team meetings, Training, 
+webcasts, and workshops, Emails
+Regular
+Diversity and inclusion, 
+Well-being and safety of 
+employees, Enhancing 
+knowledge of employees
+3
+Suppliers
+No
+Annual report, Quarterly report, 
+Media and news, Workshops and 
+seminars, Website
+Regular
+Long-term business 
+partnership, Product 
+responsibility
+4
+Communities 
+and NGOs
+Yes
+CSR activities and initiatives, 
+Health and wellness initiatives, 
+Training and workshops
+Regular
+Restoration of livelihood 
+and income generation, 
+Community engagement
+5
+Governments 
+and Regulators
+No
+Written communications, 
+submission of reports and 
+returns, workshop by regulators, 
+meetings/ discussions
+Frequent and 
+need-based
+Better risk management, 
+Timely and proper 
+reporting, Contributing 
+to overall business 
+development
+6
+Distribution 
+partners
+No
+Websites, Team meetings, Emails
+Frequent and 
+need-based
+Expanding business, 
+Revenue generation
+22 | BRSR 2023-24
+Leadership Indicators
+MFSL and MLI:
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or 
+if consultation is delegated, how is feedback from such consultations provided to the Board. 
+The MD & CEO of MLI serves as the management’s representative before the board, presenting the company’s ESG matters. 
+Any comments or actionable items provided by the board are noted, and their status is reported at the subsequent board 
+meeting.
+Through its various committee meetings, the company engages with stakeholders on economic, environmental, and social 
+topics.
+The ESG working committee chaired by Head ESG, MLI conducts regular meetings, either monthly or bi-monthly, with internal 
+stakeholders to assist them in complying with ESG practices and to keep them updated on recent developments.
+The company also has an ESG Steering committee chaired by the CEO of MLI which meets on a quarterly basis.
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and social topics. If 
+so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into policies 
+and activities of the entity. 
+	
+Certainly, the feedback received is integral to managing the company’s ESG initiatives effectively and the company has 
+a dedicated ESG resource. Moreover, an annual ESG report is published, encompassing the company’s ESG activities and 
+initiatives. Additionally, the business and strategic plan for FY 24 includes a distinct section on the ESG plan.
+	
+Inputs garnered from regular meetings with internal stakeholders are carefully considered, prompting the company to review 
+its policies and procedures to ensure alignment with ESG standards. 
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable / marginalized 
+stakeholder groups.
+	
+Both MFSL and MLI through its CSR initiatives provide support to vulnerable/ marginalized stakeholder groups. For details 
+please see Principle 8.
+Principle 5
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity:
+	
+MFSL and MLI:
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of employees 
+/ workers 
+covered (B)
+% (B / A)
+Total (C)
+No. of employees 
+/ workers covered 
+(D)
+% (D / C)
+Employees
+Permanent
+23,135
+20,981
+90.69%
+19,349
+15,385
+80%
+Other than permanent
+0
+0
+0
+0
+0
+-
+Total Employees
+23,135
+20,981
+90.69%
+19,349
+15,385
+80%
+Note:
+• 
+MLI is committed to educating new hires and existing employees on maintaining a professional work environment where each one is treated with respect and 
+dignity.
+• 
+These trainings are conducted using both virtual and face to face medium. Employees are informed about their rights and responsibilities in case they face 
+a situation of workplace or sexual harassment. A specially designed e-module on Prevention of Sexual Harassment (POSH) of Woman at the workplace is 
+given to all new hires, where employees complete training and are subsequently assessed on their understanding of the Policy and the POSH Act. There are 
+tailor-made courses on Leading with Inclusion, how to reduce your unconscious bias for employees conducted on a periodic basis. 
+• 
+Communications are released periodically by the Chief People Officer on workplace conduct, ethical behavioural, whistleblower policy, diversity equity and 
+inclusion.
+• 
+Employees are also encouraged to use external training platform for self-development on the above topics and other topics as well, which foster workplace 
+engagement and harassment free environment in the corporate workspace.
+BRSR 2023-24 | 23 
+2.	
+Details of minimum wages paid to employees and workers:
+	
+MFSL and MLI:
+FY 2023-24
+FY 2022-23
+Total (A)
+Equal to 
+Minimum 
+Wage (B)
+% (B / A) More than 
+Minimum 
+Wage (C)
+% (C / A)
+Total (A)
+Equal to 
+Minimum 
+Wage (B)
+% (B / A) More than 
+Minimum 
+Wage (C)
+% (C /A)
+Employees
+Permanent
+23,135
+128
+0.5%
+23,007
+99.4%
+19,349
+0
+-
+19,349
+100%
+Male
+16,917
+64
+0.4%
+16,853
+99.6%
+14,379
+0
+-
+14,379
+100%
+Female
+6,218
+64
+1%
+6154
+98.9%
+4,970
+0
+-
+4,970
+100%
+Other than 
+Permanent
+Not Applicable
+Male
+Female
+Workers
+Permanent
+Not Applicable
+Male
+Female
+Other than 
+Permanent
+Male
+Female
+3.	
+Details of remuneration / salary / wages:
+a)	
+Median remuneration / wages:
+	
+MFSL:
+ 
+Male
+Female
+Number
+Median remuneration 
+/ salary /  wages of 
+respective category
+Number
+Median remuneration 
+/ salary / wages of 
+respective category
+Board of Directors (BoD)
+https://maxfinancialservices.com/static/uploads/financials/annual-return-2024.pdf
+Key Managerial Personnel
+Employees other than BoD and KMP
+Workers
+	
+MLI:
+ 
+Male
+Female
+Number
+Median remuneration 
+/ salary /  wages of 
+respective category
+Number
+Median remuneration 
+/ salary / wages of 
+respective category
+Board of Directors (BoD)
+https://www.maxlifeinsurance.com/content/dam/corporate/public-
+disclosures/2023-24/Q4-FY-23-24/Annual_Return_FY_2023-24.pdf
+Key Managerial Personnel
+Employees other than BoD and KMP
+Workers
+b)	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+	
+MFSL:
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of 
+total wages
+21.0%
+13.2%
+24 | BRSR 2023-24
+	
+MLI:
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of 
+total wages
+21.7%
+21.16%
+4.	
+Do you have a focal point (Individual / Committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business? 
+	
+Mr. V Krishnan, Principal Officer, MFSL
+	
+Mr. Shailesh Singh, Chief People Officer, MLI
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+MFSL and MLI have requisite policy for Prevention of Sexual Harassment (POSH), which is available on the website of the 
+company. The comprehensive policy ensures gender equality and the right to work with dignity to all employees (permanent, 
+contractual, temporary and trainees) of the company. The company has complied with provisions relating to the constitution 
+of the Internal Complaints Committee under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and 
+Redressal) Act, 2013.
+6.	
+Number of Complaints on the following made by employees and workers:
+	
+MFSL
+ 
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Sexual Harassment
+Nil
+Nil
+-
+Nil
+Nil
+-
+Discrimination at  workplace
+Nil
+Nil
+-
+Nil
+Nil
+-
+Child Labour
+Nil
+Nil
+-
+Nil
+Nil
+-
+Forced Labour / Involuntary Labour
+Nil
+Nil
+-
+Nil
+Nil
+-
+Wages
+Nil
+Nil
+-
+Nil
+Nil
+-
+Other human rights related issues
+Nil
+Nil
+-
+Nil
+Nil
+-
+	
+MLI
+ 
+FY 2023-24
+FY 2022-23
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Sexual Harassment
+28
+3
+Pending 3 
+are within 
+statutory 
+timeline
+23
+0
+-
+Discrimination at  
+workplace
+9
+5
+Pending 5 
+are within 
+statutory 
+timeline
+24
+Nil
+-
+Child Labour
+Nil
+Nil
+-
+Nil
+Nil
+-
+Forced Labour / Involuntary Labour
+Nil
+Nil
+-
+Nil
+Nil
+-
+Wages
+Nil
+Nil
+-
+Nil
+Nil
+-
+Other human rights related issues
+Nil
+Nil
+-
+Nil
+Nil
+-
+BRSR 2023-24 | 25 
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, in 
+the following format:
+	
+MFSL and MLI:
+FY 2023-24
+FY 2022-23
+Total Complaints reported under Sexual Harassment on of 
+Women at Workplace (Prevention, Prohibition and Redressal) 
+Act, 2013 (POSH)
+28
+23
+Complaints on POSH as a % of female employees / workers
+0.45%
+0.46%
+Complaints on POSH upheld 
+12
+11
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+       MFSL and MLI:
+	
+The Company maintains the highest standards of professionalism, integrity, ethical business practices. It has always promoted 
+fairness and transparency in all its acts and its endeavour for the same is evident in the Code of Conduct, where the principles 
+and standards that govern and guide the actions of the company and its employees are mentioned. ‘Caring’ is at the core of 
+all we do and is defined by respecting people and acting with compassion. We are committed to a work environment of mutual 
+trust and equality, in which all employees are treated with respect and dignity. We strongly believe that each individual has the 
+right to work in a professional workspace that promotes equal opportunities and prohibits discriminatory practices, including 
+any kind of harassment. 
+	
+The Company has a robust grievance redressal mechanism for handling harassment complaints. The Workplace Anti-
+Harassment policy, policy for Prevention of Sexual Harassment, Whistleblower Policy entail that employees, customers, 
+vendors, suppliers, agents, consultants associated with the Company can raise concerns without any fear of retaliation or 
+hostile work environment. Anyone found to have retaliated against or victimized the person (s) who make a complaint or 
+participate in any investigation in relation to alleged sexual harassment or harassment of any kind is subject to disciplinary 
+action as per Employee Disciplinary Action Process.
+The policy for Prevention of Sexual Harassment includes guidelines to prevent adverse consequences to complainants: 
+• 
+Details of complaint, identity of the aggrieved woman, respondent, witnesses, any information relating to conciliation or 
+inquiry proceedings are kept confidential
+• 
+Anyone found to have retaliated against or victimized the person (s) who make a complaint in good faith or participate in 
+any investigation in relation to alleged sexual harassment is subject to disciplinary action as per the Service Rules of the 
+organization
+• 
+Interim measures such as leave, work from home, change of reporting supervisor etc. are provided to the complainant 
+until inquiry is completed
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+MFSL and MLI:
+Yes, human rights are part of the business agreements and contracts.
+• 
+Owing to the nature of business, MFSL and MLI have negligible scope of services where child labour can be employed. 
+However, there is a specific provision where the supply chain vendors are mandated to comply with the applicable laws of 
+the country.
+• 
+The company has recently introduced a separate policy on human rights and anti-modern slavery statement.
+• 
+For discrimination at workplace, there is a business code of conduct which is part of the annexure of the agreement to 
+ensure that supply chain vendor operates ethically.
+26 | BRSR 2023-24
+10.	 Assessments for the year:
+	
+MFSL and MLI:
+ Assessment for the year
+% of plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labour
+-
+Forced / involuntary labour
+-
+Sexual harassment
+-
+Discrimination at workplace
+-
+Wages
+-
+Others – please specify
+-
+	
+Note: For financial year, 2023-24, MFSL and MLI have not conducted assessment by third party or statutory authority. However, it complies with all the applicable laws. 
+11.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments 
+at Question 9 above. 
+	
+As no external assessment has been done for point 10 above, there is no information to be provided for both MFSL and MLI.
+Leadership Indicators
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances / complaints.
+	
+MFSL and MLI welcomes feedback on human rights. While we haven’t received any formal grievances, we appreciate any 
+concerns that may help us further strengthen our human rights practices.
+2.	
+Details of the scope and coverage of any human rights due-diligence conducted.
+	
+Internal audits are conducted by MFSL and MLI which ensures the due-diligence of implementation of various human rights 
+policies.
+3.	
+Is the premise / office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with 
+Disabilities Act, 2016?
+	
+The corporate offices of MFSL and MLI are accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016.
+4.	
+Details on assessment of value chain partners:
+ 
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Sexual Harassment
+-
+Discrimination at workplace
+-
+Child Labour
+-
+Forced Labour / Involuntary Labour
+-
+Wages
+-
+Others – please specify
+-
+	
+Note: Both MFSL and MLI has not conducted any assessment of value chain partners on the parameters as mentioned in the table below. However, the company 
+aspires to conduct it in the near future.
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments 
+at question 4 above. 
+	
+Not applicable
+BRSR 2023-24 | 27 
+Principle 6
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity:
+	
+MFSL and MLI:
+Parameter
+FY 2023-24 (MJ)
+FY 2022-23 (MJ)
+From Renewable Sources
+Total electricity consumption (A)
+23,972.40
+0
+Total fuel consumption (B)
+0
+0
+Energy consumption through other sources (C)
+0
+0
+Total energy consumption (A+B+C)
+23,972.40
+0
+From non-renewable sources
+Total electricity consumption (D)
+3,36,60,180.00
+3,34,76,288.40
+Total fuel consumption (E)
+19,04,329.44
+36,10,953.00
+Energy consumption through other sources (F)
+0
+0
+Total energy consumed from non-renewable sources (D+E+F)
+3,55,64,509.44
+3,70,87,241.40
+Total energy consumed (A+B+C+D+E+F)
+3,55,88,481.84
+3,70,87,241.40
+Energy intensity per rupee of turnover (MJ/L INR)
+ 12.0520
+  14.9052
+Energy intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (MJ/L INR Adjusted to PPP)
+ 275.7507
+341.0321
+	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? If yes, name of the external agency: Yes - Maroon Oak 
+Technologies
+	
+Note: In our ongoing efforts to refine our sustainability reporting, we’ve implemented more robust data collection and monitoring processes for energy consumption 
+in FY 2023-24. This may lead to adjustments in previously reported energy consumption figures from FY 2022-23. These changes ensure greater accuracy in our 
+data.
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade 
+(PAT) Scheme of the Government of India? If Yes, disclose whether targets set under the PAT scheme have been achieved. In 
+case targets have not been achieved, provide the remedial action taken.
+	
+Not applicable
+3.	
+Provide details of the following disclosures related to water:
+	
+MFSL and MLI:
+Parameter
+FY 2023-24 (KL)
+FY 2022-23 (KL)
+Water withdrawal by source
+ 
+ -
+(i) Surface water
+ 0
+ -
+(ii) Groundwater
+ 0
+ -
+(iii) Third party water
+ 381.96
+ -
+(iv) Seawater / desalinated water
+ 0
+ -
+(v) Others
+ 0
+ -
+Total volume of water withdrawal (i + ii + iii + iv + v)
+ 381.96
+ -
+Total volume of water consumption
+ 381.96
+ -
+Water intensity per rupee of turnover (L/ L INR)
+0.1293
+ -
+Water intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (L/ L INR Adjusted to PPP)
+2.9595
+ -
+	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency?) If yes, name of the external agency.: Yes- Maroon Oak 
+Technologies
+	
+Note: At MFSL and MLI, water consumption has been limited to drinking, sanitization, and cleaning. Although we lacked the appropriate processes to measure 
+water consumption in FY 2022-23, we have now implemented processes to account for our water usage in FY 2023-24.
+28 | BRSR 2023-24
+4.	
+Provide the following details related to water discharged:
+	
+MFSL and MLI:
+Parameter
+FY 2023-24 (KL)
+FY 2022-23 (KL)
+Water discharge by destination and level of treatment
+(i) To Surface water
+0
+0
+(ii) To Groundwater
+0
+0
+iii) To Seawater
+0
+0
+iv) Sent to third-parties
+0
+0
+(v) Others
+0
+0
+Total water discharged
+0
+0
+	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency: No
+	
+Note: Due to the nature of our operations, there is no water discharge from our offices and branches.
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If Yes, provide details of its coverage and implementation.
+	
+Given the nature of our business at MFSL and MLI, we primarily operate out of office spaces. We’re actively collaborating with 
+our building management teams to explore the feasibility of pursuing zero liquid discharge certification.
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+NOx
+-
+-
+-
+SOx
+-
+-
+-
+Particulate matter (PM)
+-
+-
+-
+Persistent organic pollutants (POP)
+-
+-
+-
+Volatile organic compounds (VOC)
+-
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+-
+Others – please specify
+-
+-
+-
+	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency: Yes- Maroon 
+Oak Technologies
+	
+Note: The nature of business at both MFSL and MLI does not result in the emission of air pollutants as defined by the Air (Prevention and Control of Pollution) Act, 
+1981, and thus does not contribute to air pollution. However, starting in FY 2023-24, MLI at its corporate office has installed indoor air quality monitoring devices to 
+measure particulate matter in the ambient air.
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) and its intensity:
+	
+MFSL and MLI:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 1 emissions 
+TCo2e
+141.73
+ 265.64
+Total Scope 2 emissions 
+TCo2e
+6,694.64
+6,658.06
+Total Scope 1 and Scope 2 emissions 
+TCo2e
+ 6,836.36
+6,923.70
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover
+TCo2e/L INR
+0.0023
+0.0027
+Total Scope 1 and Scope 2 emission intensity per rupee 
+of turnover adjusted for Purchasing Power Parity (PPP)
+TCo2e/L INR 
+(Adjusted to PPP)
+ 0.0529
+ 0.0636
+	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency: Yes- Maroon 
+Oak Technologies
+	
+Note: As we continue to enhance our environmental reporting, we’ve implemented improved data collection and monitoring processes for greenhouse gas (GHG) 
+emissions in FY 2023-24. This may lead to adjustments in previously reported GHG emission figures for FY 2022-23 to ensure the accuracy of our data.
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details. 
+	
+Following a comprehensive analysis of our emissions and energy consumption data, MFSL and MLI implemented a multi-
+dimensional strategy to enhance energy efficiency and reduce carbon emissions. This resulted in an approximate reduction of 
+87T CO2e (~ 1.25%) in FY 2023-24 compared to FY 2022-23.
+• 
+HVAC System Upgrades: During FY 2024, we strategically replaced outdated HVAC systems in our facilities nationwide with 
+newer, more energy-efficient models. 
+BRSR 2023-24 | 29 
+• 
+Lighting Improvements: In FY 2024, we transitioned to LED lighting across our offices, further contributing to energy 
+savings.
+• 
+Operational Optimization: We continually optimize air conditioning cooling cycles and fresh air intake to maximize energy 
+efficiency.
+9.	
+Provide details related to waste management by the entity:
+	
+MFSL and MLI:
+FY 2023-24 (T)
+FY 2022-23 (T)
+Total waste generated (in metric tonnes)
+Plastic waste (A)
+0
+0
+E-waste (B)
+10.794
+13.63
+Bio-medical waste (C)
+0.115
+0
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+0
+2.859
+Radioactive waste (F)
+0
+0
+Other hazardous waste. Please specify, if any. (G)
+0
+0
+Other non-hazardous waste generated (H)
+0.56
+NA
+Total (A+B + C + D + E + F + G + H)
+11.469
+16.489
+Waste intensity per rupee of turnover (Kg/ L INR)
+0.0039
+0.0066
+Waste intensity per rupee of turnover adjusted for Purchasing 
+Power Parity  (Kg/ L INR adjusted to PPP)
+0.0889
+0.1516
+Waste intensity in terms of physical output
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations
+Category of waste
+E-waste
+(i) Recycled
+10.794
+16.489
+(ii) Re-used
+0
+0
+(iii) Other recovery operations
+0
+0
+Total
+10.794
+16.489
+For each category of waste generated, total waste disposed by nature of disposal method
+Category of waste
+Bio-medical Waste
+(i) Incineration
+0
+0
+(ii) Landfilling
+0
+0
+(iii) Other disposal operations
+0.115
+0
+Total
+0.115
+0
+Category of waste
+Other non-hazardous waste
+(i) Incineration
+0
+0
+(ii) Landfilling
+0
+0
+(iii) Other disposal operations
+0.56
+0
+Total
+0.56
+0
+	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency: Yes- Maroon 
+Oak Technologies
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your 
+company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to 
+manage such wastes.
+	
+MFSL and MLI:
+	
+The Company is committed to minimizing waste generation, aligned with best practices in our industry. While the overall 
+volume of waste we produce is relatively low, we take responsible management of all waste streams seriously.
+	
+E-waste: We have partnered with authorized third-party recyclers to ensure proper and environmentally sound disposal of 
+electronic waste.
+30 | BRSR 2023-24
+	
+Biomedical Waste: Sanitary waste generated at our offices is classified as bio-medical waste. We have partnered with a qualified 
+agency to ensure its safe and responsible disposal.
+11.	 If the entity has operations / offices in / around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / 
+clearances are required, please specify details:
+Location of operations/offices
+Type of  
+operations
+Whether the conditions of environmental approval / clearance 
+are being complied with? (Y/N) If no, the reasons thereof and 
+corrective action taken, if any.
+Nil
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current 
+financial year:
+Name and brief details of 
+project
+EIA Notification 
+No.
+Date
+Whether 
+conducted by 
+independent 
+external 
+agency
+Results 
+communicated 
+in public 
+domain
+Relevant web link
+Not applicable
+13.	 Is the entity compliant with the applicable environmental law / regulations / guidelines in India; such as the Water (Prevention 
+and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder. If 
+not, provide details of all such non-compliances:
+Specify the law / regulation / guidelines 
+which was not complied with
+Provide details of 
+the noncompliance
+Any fines / penalties / 
+action taken by regulatory 
+agencies such as pollution 
+control boards or by courts
+Corrective action 
+taken, if any
+Based on the nature of business, MFSL and MLI is in compliance with applicable environmental norms.
+Leadership Indicators
+1.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres). For each facility / plant located in areas 
+of water stress, provide the following information:
+a.	
+Name of the area
+	
+None
+b.	
+Nature of operations
+	
+Not applicable
+c.	
+Water withdrawal, consumption and discharge in the following format:
+FY 2023-24 (KL)
+FY 2022-23 (KL)
+Water withdrawal by source
+Not applicable
+(i) Surface water
+(ii) Groundwater
+(iii) Third party water
+(iv) Seawater / desalinated water
+(v) Others
+Total volume of water withdrawal (in kilolitres)
+Total volume of water consumption (in kilolitres)
+Water intensity per rupee of turnover (water consumed / turnover)
+Water discharge by destination and level of treatment
+(i) Into surface water
+(ii) Into groundwater
+(iii) Into seawater
+(iv) Sent to third-parties
+(v) Others
+Total water discharged
+BRSR 2023-24 | 31 
+	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency: No
+2.	
+Please provide details of total Scope 3 emissions and its intensity:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 3 emissions 
+TCo2e
+-
+-
+Total Scope 3 emissions per rupee of turnover
+TCo2e/INR
+-
+-
+	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency: No
+	
+Note: We did not begin calculating our Scope 3 emissions in FY 2023-24. However, we plan to start this process in a phased manner, initially focusing on selected 
+categories.
+3.	
+With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, provide details of 
+significant direct and indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities.
+	
+Not applicable
+4.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or 
+reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as outcome 
+of such initiatives:
+Initiative undertaken
+Details of the initiative (Web-link, if any, 
+may be provided along-with summary)
+Outcome of the initiative
+Solar panel installation
+Installation of solar panel at one of the 
+MLI’s office at 25KW
+Reduction 
+of 
+the 
+electricity 
+consumption from the non-renewable 
+source of energy
+HVAC System Upgrades
+During FY 2024, we strategically replaced 
+outdated HVAC systems in our facilities 
+nationwide with newer, more energy-
+efficient models.
+Reduction in energy consumption and 
+Scope 2 emissions
+Energy Efficient Lighting
+In FY 2024, we transitioned to LED lighting 
+across our offices, further contributing to 
+energy savings.
+Reduction in energy consumption and 
+Scope 2 emissions
+Operational Optimization
+We continually optimize air conditioning 
+cooling cycles and fresh air intake to 
+maximize 
+energy 
+efficiency 
+without 
+compromising occupant comfort.
+Reduction in energy consumption and 
+Scope 2 emissions
+5.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words / web link.
+	
+Yes, MFSL and MLI has developed a robust Business Continuity Management (BCM) framework in order to ensure resilience 
+and continuity of products and to minimise the impact of risk of business disruption and system failure.
+	
+Further, MLI has Board approved BCM policy. One of the key objectives of the Policy is to ensure that the processes and systems 
+are sufficiently robust to withstand a range of events such as unavailability of premises, technology, people or suppliers. The 
+Company is also committed for continuous improvement of Business Continuity Management System 
+	
+MLI has been accredited with the ISO 22301:2019 certification for its business continuity management systems.
+6.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or 
+adaptation measures have been taken by the entity in this regard. 
+	
+The core business of both MFSL and MLI is to provide financial protection to consumers, without engaging in activities that 
+negatively impact the environment. Additionally, we have not yet begun assessing our value chain for ESG factors to measure 
+any potential adverse environmental impacts. However, we plan to initiate this assessment and subsequently develop mitigation 
+or adaptation measures.
+32 | BRSR 2023-24
+7.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts
+	
+Both MFSL and MLI has not conducted any assessment of value chain partners to evaluate the environmental impact. However, 
+the company aspires to sensitize the value chain partners about the impact of their activities on the environment. 
+Principle 7
+Essential Indicators
+1.	
+a) 	 Number of affiliations with trade and industry chambers / associations.
+	
+Three
+b) 	 List the top 10 trade and industry chambers / associations (determined based on the total members of such body) the 
+entity is a member of / affiliated to:
+	
+ MFSL and MLI:
+ 
+Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ associations
+1
+Federation of Indian Chambers of Commerce and Industry 
+National
+2
+Confederation of Indian Industry
+National
+3
+Life Insurance Council
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anticompetitive conduct by the entity, based on 
+adverse orders from regulatory authorities.
+	
+There was no instance of anticompetitive conduct by the entity, thus, there is no information to be provided for the below table. 
+MFSL and MLI:
+ 
+Name of authority
+Brief of the case
+Corrective action taken
+ 
+Not applicable
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity:
+	
+MFSL and MLI:
+	
+MLI is a member of trade bodies like FICCI and CII, Life Insurance Council and other such associations. MLI provides suggestions 
+and inputs on various regulatory matters with respect to the insurance industry in general and life insurance in particular. Max 
+Life supports the regulator and the ministry of finance in drafting policy matters and promotion of initiatives for insurance 
+penetration, distribution and support of policyholders’ interests. Max Life is also part of various Industry Level Committees/
+working groups formed by the Life Insurance Council and IRDAI.
+	
+MLI actively participates in industry associations like FICCI, CII, and the Life Insurance Council, shaping regulatory discussions 
+for the insurance sector. We contribute expertise on both general insurance matters and life insurance specifically.
+ 
+Public policy advocated
+Method resorted 
+for such advocacy
+Whether information 
+available in public 
+domain?
+Frequency of Review 
+by Board (Annually/ 
+Half yearly/ Quarterly 
+/ Others)
+Web Link, if 
+available
+ Please refer to the explanation above
+BRSR 2023-24 | 33 
+Principle 8
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial year. 
+MFSL and MLI:
+Name and brief details of project
+SIA 
+Notification 
+No
+Date of 
+notification
+Whether 
+conducted by 
+independent 
+external 
+agency
+Results 
+communicated 
+in public 
+domain
+Relevant 
+Web link
+Teach for India (Teach to Lead) Under its Fellowship Project, 
+Teach to Lead trains and empowers fellows to teach students of 
+government schools to improve their learning outcomes through 
+the best teaching methods. Teach to Lead provides high quality 
+educational support to schools for children from low-income 
+communities. Impact Achieved Fellows reported personal and 
+professional growth, increased empathy and understanding of 
+educational inequities, and a deep commitment to social change. 
+The program led to tangible improvements in student outcomes, 
+including academic achievement, attendance, and socioemotional 
+development. By placing talented individuals in low-income 
+schools and providing them with the support and resources needed 
+to succeed, the fellowship program has contributed to narrowing 
+the educational opportunity gap and empowering students from 
+underserved communities. TFI fellow alumni surveyed during the 
+impact assessment are continuing to work in the education sector 
+or pursuing their higher studies in education itself
+Not applicable. We have no 
+SIA notification number
+Yes
+Yes
+www.maxlifeinsurance.com/about-us/csr
+The Education Alliance (TEA) Network for Quality Education 
+Foundation Program Assistance Unit (PAU) with the Directorate of 
+Education: The key focus of project areas is Partnership with SCERT 
+to strengthen In-Service Teacher Training, strengthen operations 
+of Delhi’s Schools of Specialized Excellence (Souses) focused on 
+5 streams targeting 10,000 students. Delhi Government PMU for 
+Foundational Literacy and Numeracy (Delhi): TEA works with MCD 
+education department to on-board relevant partner organizations 
+to design, implement and assess interventions focused on early 
+grades to implement NIPUN Bharat mission for MCD.  IT based 
+Academic Process Management and Monitoring System (Madhya 
+Pradesh): works with Rajya Shiksha Kendra in Madhya Pradesh to 
+launch Minimum Viable Product comprising 3 priority modules for 
+essential monitoring of the FLN program in the State. PMU for State 
+FLN (Tripura): TEA works with the State. In 2023-24 below inputs 
+will reach schools for FLN Grades: Teaching learning materials; 
+Capacity development of ~9,000 FLN grade teachers; Simple 
+to use monitoring systems to track implementation and have 
+data-driven decisions Punjab: TEA works with Punjab Education 
+Department and Quality and Innovation (Q&I) Cell on: R&D, 
+ideation, prototyping and implementation; Leveraging technology; 
+Developing M&E techniques; Studying best practices in school 
+education; Identification and on-boarding of potential partners 
+Impact Achieved 1. School Quality Enhancement Program (Score 
+on OECD Framework- 4.35 on 5) Improved levels of enrolment, 
+engagement, extracurricular activities. Created supportive 
+learning environment; heightened parent understanding and 
+involvement. Brought about a noticeable shift in public perception 
+towards govt -Enabled stakeholders to address systemic issues 
+and drive meaningful change by collaboration and resource 
+mobilisation 4. Manzil (Score on OECD Framework- 4.59 on 5) 
+Significantly contributed to personal development in students, 
+teachers and team members. Many play multiple roles within the 
+same time-frame. Students/members have gained immensely 
+from Manzil- setting up their own businesses/organisations/ 
+ventures
+Not applicable. We have no 
+SIA notification number
+Yes
+Yes
+www.maxlifeinsurance.com/about-us/csr
+	
+Note: The CSR activities at MLI and MFSL are carried out in accordance with the Companies (Corporate Social Responsibility Policy) Amendment Rules, 2021 
+issued by the Ministry of Corporate Affairs Notification No. G.S.R. 40 (E) dated 22nd January 2021.
+34 | BRSR 2023-24
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity.
+Name of Project for which R&R is 
+ongoing 
+State
+District
+No. of Project 
+Affected Families 
+(PAFs)
+% of PAFs 
+covered by 
+R&R
+Amounts paid to 
+PAFs in the FY 
+(In INR)
+Not applicable
+	
+Note: MFSL or MLI has not undertaken any project where any Rehabilitation and Resettlement (R&R) was involved. Thus, there is no information to be provided for 
+the below table.
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+MFSL and MLI does not have a community grievance redressal mechanism under CSR as it engages through NGOs/ 
+Implementation Agencies which have their own guidelines to receive and redress the grievances.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+	
+MFSL and MLI:
+ 
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs small producers
+-
+-
+Directly from within India
+-
+-
+	
+* Owing to the nature of business, this is not applicable to our business
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed on a 
+permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost
+	
+MFSL and MLI:
+Location
+FY 2023-24
+FY 2022-23
+Rural
+0%
+0%
+Semi-urban
+0.02%
+0%
+Urban
+22.28%
+20.45%
+Metropolitan
+77.70%
+79.55%
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments (Reference: 
+question 1 of Essential Indicators above).
+Details of negative social impact identified
+Corrective action taken
+Not applicable
+	
+Note: MLI and MFSL does not have any project where any negative social impact was observed. Further, all projects are regularly monitored and meetings and 
+dialogues are conducted with various stakeholders to ensure alignment with on-ground need. Due to the afore-mentioned reason, there is no information to be 
+provided for the below table.
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by 
+government bodies.
+	
+MFSL and MLI:
+State
+Aspirational District
+Amount spent (In INR)
+Uttar Pradesh
+Varanasi
+37,82,000
+Uttar Pradesh
+Haridwar
+45,77,576
+Jharkhand
+East Singhbhum
+34,77,576
+Haryana
+Gurgaon
+25,00,000
+Haryana
+Gurgaon
+22,38,276
+Haryana
+Gurgaon
+6,91,000
+Delhi (NCT) 
+Central Delhi
+80,00,000
+BRSR 2023-24 | 35 
+3.	
+a) 	 Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized / vulnerable groups? 
+	
+	
+No
+         b) 	 From which marginalized / vulnerable groups do you procure?
+	
+	
+No
+         c)	  What percentage of total procurement (by value) does it constitute?
+	
+	
+No
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current 
+financial year), based on traditional knowledge.
+Intellectual Property based on traditional 
+knowledge
+Owned/ Acquired
+Benefit shared
+Basis of calculating 
+benefit share
+Nil
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein 
+usage of traditional knowledge is involved.
+Name of authority
+Brief of the Case
+Corrective action taken
+ Not applicable
+6.	
+Details of beneficiaries of CSR Projects:
+	
+MFSL and MLI:
+CSR Project
+No. of persons benefitted 
+from CSR Projects
+% of beneficiaries 
+from vulnerable and 
+marginalized groups
+Financial literacy and insurance awareness
+59,134
+100%
+Joy of Giving
+60,200
+100%
+Max India Foundation
+26,902
+100%
+Environment
+27,024
+0.63%
+Principle 9
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback. 
+	
+MLI:
+	
+MLI has a robust grievance redressal process, guided by its grievance redressal policy (which can be accessed here 
+https://www.maxlifeinsurance.com/content/dam/neo/pdf/Grievance_Redressal.pdf). MLI has created both robust processes 
+and systems to receive, assess and respond to each customer complaint as part of its overall service framework, which includes 
+specified service parameters in terms of turnaround TATs for each type of request. While the above document describes these 
+in detail, broadly our framework for receiving customer complaints and responding to them is as below:
+	
+Steps taken to reduce customer complaints:
+1.	
+In an endeavor to reduce the number of complaints, basis a regular review of complaints received, we have revamped 
+our customer onboarding process in the following ways to ensure that before the issuance of a policy, there is proper 
+rechecking of the customer’s understanding about the product:
+a.	
+Need analysis of the prospects before selling as per the Product Suitability Matrix, a tool used to assess which product 
+will be suitable to the prospect basis the need of the prospect (customer-product fit). The Investor Risk Profiler(IRP) 
+is used in order to facilitate the selection of suitable investment funds for ULIP products.
+b.	
+Delivery based on OTP verification for physical(paper) policy packs to confirm receipt of the policy pack on time.
+36 | BRSR 2023-24
+c.	
+Benefit illustrations are presented with the prospect in order to explain the illustrative benefits of the policy. A copy 
+of the benefit illustration is included in the policy pack. The policy pack sent to policyholder also contains a key 
+features document along with a copy of the signed/authenticated proposal form. Critical information of insurance 
+policy (payment term, premium, mode, policy maturity date) shall be made visible prominently in the policy pack in 
+order to ensure that customers do not miss important information.
+d.	
+Pre-issuance verification to confirm the customer’s understanding of the product. Wide range of questions covering 
+top reasons cited in mis-selling complaints are asked.
+e.	
+Increased coverage of video-based verification on new business sales, including in vernacular languages.
+2.	
+We proactively track for high ageing cases at our end, without a customer complaining, that have breached service TAT 
+thresholds and expedite these for closure as well.
+	
+Receiving consumer complaints:
+	
+We have a robust customer relationship management (CRM) system for receiving, registering and disposing complaints/
+grievances. The Company also has in place systems to receive and deal with all kinds of calls, including voice/e-mail relating 
+to complaints/grievances from customers.
+1.	
+We have various modes by which we accept customer complaints such as email, branch, helpline, and are also working on 
+an online form for logging complaints. The head office and each branch office of the Company have a well-defined process 
+for receiving and registering grievances. Requisite systems are in place to receive, record and address the same at all the 
+touchpoints.
+2.	
+We also measure our customer satisfaction scores via the NPS framework through which we also receive service 
+detractors. Based on the detractor voices we understand the issues faced by customers and use this feedback to identify 
+potential improvement areas.
+3.	
+Requisite processes and systems are in place to address litigations (including appeals) filed by a policyholder before any 
+competent authority or courts, including but not limited to Insurance Ombudsman, Consumer Forums, Civil Courts and 
+higher courts.
+Redressal and feedback
+1.	
+Acknowledgement & Resolution:
+	
+Grievance acknowledgement: On receipt of a Complaint/Grievance, we first assess it on the basis of its merits and nature. 
+Thereafter, we send an acknowledgement, through SMS or email where available, to the customer within 3 working days 
+of the receipt of the Grievance.
+	
+Grievance resolution: We endeavor to resolve the Complaint/Grievance within 14 calendar days of its receipt and each 
+redressal or rejection of the issue gets conveyed vide email or letter, along with reasons. Such communication will also 
+inform the Complainant about how the customer can pursue the Complaint/Grievance, if dissatisfied with the resolution 
+provided. We endeavor to resolve all complaints/grievances to the satisfaction of our customers. A grievance is considered 
+as disposed of and closed when:
+• 
+MLI has acceded to the request of the customer fully, or
+• 
+The customer has indicated in writing, acceptance of the response of the Company, or
+• 
+The customer has not responded to the Company within 8 weeks of the Company’s written response to the complaint/
+grievance
+	
+After the resolution, if the customer approaches the Company within eight weeks, the original ‘complaint/grievance’ 
+interaction will be re-opened for review of the earlier decision. Post reviewing the facts, the suitable resolution will be 
+provided to the customer.
+2.	
+In case customers do not receive a response within the turnaround times, they can escalate the matter to the Grievance 
+officer/Nodal officer at MLI. The List of Grievance Officers at Branch Offices is given on the website. If the customer 
+remains dissatisfied with the resolution, she/he can further escalate the matter to Grievance Officers at Head Offices.
+BRSR 2023-24 | 37 
+3.	
+We also have created a mediation platform, internal ombudsman where customers can appeal decisions prior to raising it 
+to insurance ombudsman or courts.
+4.	
+If the complaint/grievance is not resolved in favor of the customer or partially resolved in favor of the customer, she/he can 
+take up the matter before the Insurance Ombudsman.
+5.	
+We do thorough RCAs of each complaint received to identity areas of improvement and funnel these learnings into our 
+process and technology transformation programs. These are regularly reviewed by our management.
+2.	
+Turnover of products and / services as a percentage of turnover from all products / service that carry information about:
+As a percentage to total 
+turnover
+Environmental and social parameters relevant to the product
+NA
+Safe and responsible usage
+NA
+Recycling and / or safe disposal
+NA
+	
+Note: The information mentioned in the table below is not relevant for nature of work carried out by MFSL and MLI, thus there 
+is no information to provide. 
+3.	
+Number of consumer complaints in respect of the following:
+	
+MFSL and MLI:
+ 
+FY 2023-24
+FY 2022-23
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Data privacy
+-
+-
+-
+-
+-
+-
+Advertising
+-
+-
+-
+-
+-
+-
+Cyber-security
+-
+-
+-
+-
+-
+-
+Delivery of essential services
+2,085
+-
+-
+2,535
+-
+-
+Restrictive trade practice
+-
+-
+-
+-
+-
+-
+Unfair trade practices
+-
+-
+-
+-
+-
+-
+Others (Unfair business 
+practices*)
+1,442
+-
+-
+1,904
+-
+-
+	
+Note: Unfair business practices are primarily allegations pertaining to policy features not explained or incorrectly explained, 
+false returns assured, allegations pertaining to  signature or documents tampering, payment misappropriation and spurious 
+or hoax calls.
+4.	
+Details of instances of product recalls on account of safety issues:
+	
+The information mentioned in the table below is not relevant for nature of work carried out by MFSL and MLI, thus there is no 
+information to provide. 
+Number
+Reasons for recall
+Voluntary recalls
+NA
+Forced recalls
+5.	
+Does the entity have a framework / policy on cyber security and risks related to data privacy? (Yes / No) If available, provide a 
+web-link of the policy.
+	
+MFSL and MLI: It has SOPs for Network Security, Data Privacy, Data Leakage & Prevention, Business Continuity which covers 
+all the aspects related to Data & network Security from internal & external networks:  There are defined SOPs for Network & 
+Data Privacy. There is a firewall and antivirus systems available for the protection from the outside network/Cyber. The access 
+to the data at the company is safeguarded by secured protocols. All the user’s data and financial transactions are secured with 
+layered security controls across the three layers of authentications. The company has a Data Security Policy which is reviewed 
+annually.  The web-link of the policy is available on the intranet.
+38 | BRSR 2023-24
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; 
+cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory 
+authorities on safety of products / services.
+	
+No complaints were received during the financial year 2023-24 on cyber security and data privacy and marketing communications.
+7.	
+Provide the following information relating to data breaches:
+a)	
+Number of instances of data breaches: 
+	
+Nil
+b)	
+Percentage of data breaches involving personally identifiable information of customers: 
+	
+Nil
+c)	
+Impact, if any, of the data breaches: 
+	
+Nil
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, if available).
+• 
+Website www.maxlifeinsurance.com: MLI provides information of all its products Information relating to products and 
+services it’s website.
+• 
+Max Life Insurance Lite App: The products of MLI are also listed on the app which can be downloaded on the mobile.
+• 
+Social Media
+• 
+Customer Care Number and Email ID
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and / or services.
+	
+At MLI, we believe that it is important that Indian consumers should be aware of the true purpose of life insurance. Various 
+surveys by leading research agencies have indicated that, while the majority of Indians are aware of life insurance plans, 
+ownership of term insurance is low, and consumers are not aware of the role life insurance can play in building a financially 
+secure nation. MLI led the industry initiative on insurance awareness.
+1.	
+Campaign on the benefits of life insurance: MLI is working diligently to drive importance of financial protection with life 
+insurance amongst people through varied media that include mass media campaigns, social media, public relations, 
+knowledge articles on online portals and MLI website. We also drive insurance awareness through our proprietary 
+researches India Protection Quotient & India Retirement Index Survey that we conduct at pre-defined intervals.
+2.	
+Campaign focusing on protection of consumers: Fraudulent activities and spurious calling to defraud life insurance 
+consumers are a reality that the life insurance industry is tackling through individual and joint efforts. Messages on 
+protecting oneself from such acts are disseminated to our current policyholders by including such messages into the 
+majority of customer communication. Similar information is also shared through SMS and articles with policyholders, 
+along with social media campaign on fraud awareness.
+3.	
+Campaign for customers: We regularly share relevant details about life insurance through direct mail to our existing 
+customer base. Every month, we observe super customer week with an emphasis on increasing customer awareness and 
+engagement. By communicating with consumers digitally once a month via various emails and SMSs, these sessions have 
+assisted our customers in learning more about the benefits of life insurance.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption / discontinuation of essential services.
+	
+MLI:
+In case of any disruption / discontinuation of essential service:
+1.	
+We inform our customers via email, WhatsApp and SMS communication. Content is either static or video based.
+2.	
+Branch walk-in customers are informed by Max Life representatives.
+3.	
+Advisors/agents are also sent electronic communication who in turn inform their customers and, information is also 
+displayed on our website and through other social media assets.
+The withdrawn plans and riders of MLI can be accesses at the web-link Withdrawn Plans & Riders (maxlifeinsurance.com)
+BRSR 2023-24 | 39 
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? If yes, provide 
+details in brief. Did your entity carry out any survey with regard to consumer satisfaction relating to the major products / 
+services of the entity, significant locations of operation of the entity or the entity as a whole? 
+	
+Yes. MLI displays product information on the product over and above what is mandated by IRDAI. The Company takes several 
+steps to guide the customers on how they can benefit and minimise the risk. In addition, the Company carries out feedback with 
+respect to customer satisfaction regarding products and services.
+40 | BRSR 2023-24
+MAX
+FINANCIAL 
+SERVICES 
+N.016. 

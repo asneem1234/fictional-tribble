@@ -1,0 +1,2362 @@
+ 
+Netweb Technologies India Limited 
+(Formerly Known as Netweb Technologies India Private Limited) 
+Plot No. H-1, Block-H, Pocket No. 9, Faridabad Industrial Town, Sector-57, Faridabad, 
+Haryana 121004 
+Tel. No. : +91-129-2310400 
+Website: www.netwebindia.com; E-mail : complianceofficer@netwebindia.com 
+CIN 
+: 
+L72100HR1999PLC103911 
+ 
+Date: 14-10-2024 
+ 
+Sub.: Business Responsibility and Sustainability Report for the Financial Year 2023-24 
+In terms of the provisions of Regulation 34(2)(f) of the Securities and Exchange Board of India 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed 
+herewith the Business Responsibility and Sustainability Report of Netweb Technologies India 
+Limited for the Financial Year 2023-24.  
+This is for your information and record. 
+Thanking You,    
+Yours faithfully  
+For Netweb Technologies India Limited       
+  
+  
+ 
+Lohit Chhabra  
+Company Secretary & Compliance Officer  
+M. No A36610  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To,   
+The Manager   
+Listing Department   
+BSE Limited   
+Phiroze Jeejeebhoy Towers Dalal Street  
+Mumbai- 400001   
+Scrip Code: 543945   
+To,  
+The Manager   
+Listing Department   
+National Stock Exchange of India Limited   
+Exchange Plaza, Bandra Kurla Complex  
+Bandra East, Mumbai- 400051  
+Scrip Code: NETWEB   
+Lohit 
+Chhabra
+Digitally signed 
+by Lohit Chhabra 
+Date: 2024.10.14 
+11:14:18 +05'30'
+SECTION A: GENERAL DISCLOSURESI. 
+I.	
+Details of the listed entity
+1.	
+Corporate Identity Number (CIN) of the Listed Entity
+	
+L72100HR1999PLC103911
+2.	
+Name of the Listed Entity
+	
+Netweb Technologies India Limited
+3.	
+Year of incorporation
+	
+1999
+4. 
+Registered office address
+	
+Plot No. H-1, Block-H, Pocket No. 9, Faridabad Industrial Town, Sector-57, Faridabad, Haryana 121004
+5.	
+Corporate address
+	
+Plot No. H-1, Block-H, Pocket No. 9, Faridabad Industrial Town, Sector-57, Faridabad, Haryana 121004
+6.	
+E-mail
+	
+complianceofficer@netwebindia.com
+7.	
+Telephone
+	
+01292310400
+8.	
+Website
+	
+www.netwebindia.com
+9.	
+Financial year for which reporting is being done
+	
+2023-24
+10.	 Name of the Stock Exchange(s) where shares are listed
+	
+BSE Limited (BSE) and National Stock Exchange of India Limited (NSE)
+11.	 Paid-up Capital
+	
+INR 11,27,31,736
+12.	 Details of the person who may be contacted in case of any queries on the BRSR report.
+S. No.
+Name
+Telephone
+Email
+1
+Lohit Chhabra
+01292310400
+Complianceofficer@netwebindia.com
+13.	 Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e., only 
+for the entity) or on a consolidated basis (i.e., for the entity and all the entities which form a part of 
+its consolidated financial statements, taken together).
+	
+Standalone
+14.	 Name of assurance provider 
+	
+Not Applicable
+BUSINESS RESPONSIBILITY AND 
+SUSTAINABILITY REPORTING
+116
+Annual Report 2023-2024
+15. Type of assurance obtained
+	
+Not Applicable
+II. Products/services
+16. Details of business activities (accounting for 90% of the turnover):
+S. No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the 
+entity
+1
+Manufacture of Computer, Electronic and 
+Optical Products
+Manufacture of computers and 
+peripheral equipment
+100%
+17.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% of total 
+Turnover 
+contributed
+1
+Supercomputing/High performance Computing
+262
+37%
+2
+Private Cloud and hyperconverged infrastructure
+36%
+3
+AI and enterprises work solutions
+11%
+4
+High Performance Storage Solutions
+5%
+5
+Data Centre Servers
+5%
+III.	 Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+2
+18 
+20
+19.	 Markets served by the entitya. Number of locations
+	
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+26 states + 1 UT
+International (No. of Countries)
+2
+19. b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+Exports contribute to 0.07% of the total turnover of the Company.
+19. c. A brief on types of customers
+	
+	
+Netweb is one of India’s leading high-end computing solutions (HCS) provider, with fully integrated design and 
+manufacturing capabilities. The HCS offering comprises HPC, Private cloud and (HCI), AI systems and enterprise 
+workstations, High performance storage (HPS), GPUs and Data Centre Servers. With over 300 successful HPC 
+installations, Netweb Technologies serves customers across varied sectors such as Higher Education & Research, 
+Space and Defence, IT & ITEs, and Finance (High Frequency Trading).
+IV. Employees
+20.	 Details as at the end of Financial Year:
+a. 
+Employees and workers (including differently abled):
+S. 
+No.
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+a.
+Employees (including differently abled)
+Employee
+1
+Permanent (A)
+362
+297
+82%
+65
+18%
+2
+Other than Permanent (B)
+36
+36
+100%
+0
+0%
+3
+Total (A+B)
+398
+333
+84%
+65
+16%
+	
+*Other than permanent, employees includes contractual employees. The entire workforce of the company is categorized as Employees and none 
+as Workers. Therefore, the information required in all sections in the workers category is not applicable.
+117
+Corporate Overview 
+Statutory Reports
+Financial Statements
+b. 
+Differently abled Employees and workers:
+S.No. Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+b.
+Differently abled Employees
+Employees
+1
+Permanent
+Nil
+2
+Other than Permanent
+3
+Total
+21.	 Participation/Inclusion/Representation of women
+S.No.
+Category
+Total 
+(A)
+No. and % of females
+No. (B)
+% (B/A)
+1
+Board of Directors
+8
+1
+12.5%
+2
+Key Management Personnel
+2
+0
+0%
+	
+* Managing Director of the Company (KMP) is counted under Board of Directors.
+22.	 Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+Category
+FY 2023-24 
+(Turnover rate in current FY)
+FY 2022-23 
+(Turnover rate in previous FY)
+FY 2021-22 
+(Turnover rate in the year 
+prior to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+14%
+31%
+16%
+15%
+15%
+15%
+22%
+19%
+23%
+Permanent 
+Workers
+Not Applicable
+	
+*We have calculated the turnover rate basis the calculation methodology provided in the BRSR guidance by SEBI
+V.	 Holding, Subsidiary and Associate Companies (including joint ventures) 
+23.	 (a) Names of holding / subsidiary / associate companies / joint ventures
+S.
+No.
+Name of the holding 
+/ subsidiary / 
+associate companies / 
+jointventures(A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint Venture
+% of shares 
+held by 
+listed entity
+Does the entity indicated at 
+column A, participate in the 
+Business Responsibility initiatives 
+of the listed entity? (Yes / No)
+1
+Netweb Foundation
+Subsidiary
+99%
+No
+VI.	 CSR Details
+23.	 (b)
+a.	
+Whether CSR is applicable as per section 135 of Companies Act, 2013:
+Yes
+Turnover (in `)
+724.07 Crores (as on 31.03.2024)
+Net worth (in `)
+422.75 Crores (as on 31.03.2024)
+118
+Annual Report 2023-2024
+VII. Transparency and Disclosures Compliances
+24.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/No) If yes, then 
+provide web link for 
+grievance redress policy
+FY 2023-24Current Financial Year
+FY 2022-23Previous Financial Year
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Netweb Technologies has 
+a stringent Whistle Blower 
+Policy, Code of conduct, 
+POSH Policy which is also 
+available on the website:
+Corporate Governance- 
+Netweb Technologies 
+(netwebindia.com)
+We have a board level 
+committee (Stakeholders 
+relationship committee 
+headed by independent 
+Director)
+Nil
+Nil
+The Company 
+was listed on 
+July 27, 2023 
+all complaints 
+from investors 
+are related to 
+IPO related 
+such as 
+unblocking of 
+funds, non-
+allotment of 
+shares etc
+Nil
+Investors 
+(other than 
+shareholders)
+1136
+Shareholders
+Nil
+Employees and 
+workers
+Nil
+Customers
+Nil
+Value Chain 
+Partners
+Nil
+Other (please 
+specify)
+Nil
+25.	 Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying 
+the risk/opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(indicate positive 
+of negative 
+implications)
+1
+Data 
+privacy & 
+information 
+management
+Risk
+External attacks on network, 
+malware, compromised 
+credentials, Business email 
+compromise via. Phishing and 
+other cyber security risks may 
+result in data loss and loss of 
+reputation
+Our systems are strongly secured, 
+and we have received ISO 
+27001:2013 (Information Security 
+Management System) certificates 
+from International Benchmarking & 
+Certifications
+Negative: Introducing 
+innovative technology 
+often comes 
+with increased 
+operational costs 
+due to investments 
+in infrastructure and 
+training
+2
+E- Waste 
+management
+Risk
+Improper disposal of e-waste 
+could result in legal ramifications, 
+fines, and reputational damage 
+to the company. Monitoring and 
+tracking our e-waste enables us to 
+repurpose and recycle materials 
+within our manufacturing process 
+thus reducing production cost
+We have tied-up with one of the 
+leading authorised e-waste recyclers 
+for facilitating our customers to 
+enable them to dispose of e-waste 
+products after its end-of-life. They 
+have expertise in assisting Producers 
+in fulfilling their compliances related 
+to EPR and E-waste Management.
+Negative: Additional 
+operational cost in 
+collection of e-waste
+3
+Supply chain 
+management
+Risk
+Geo-political factors, logistical 
+factors, quality, inaccessibility 
+could disrupt our supply chain
+We have a diverse base of suppliers 
+situated both domestically and 
+internationally. Additionally, we 
+leverage efficient technology for 
+inventory management & tracking
+Negative: Additional 
+operational cost
+4
+Talent 
+Acquisition 
+and 
+Retention
+Opportunity
+Inability to attract, hire and 
+retain talent. We require 
+constant upskilling and 
+reskilling of our employees to 
+ensure we deliver top services 
+to our clients and attract 
+better talent.
+The Company’s dedication to 
+attract better talent is reflective 
+in its regular upskilling and re-
+skilling trainings
+Positive: Fostering 
+a dedicated and 
+motived workforce 
+thus improving 
+customer 
+satisfaction
+119
+Corporate Overview 
+Statutory Reports
+Financial Statements
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put 
+in place towards adopting the NGRBC Principles and Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and Management Processes
+1. a. Whether your entity’s policy/policies cover each principle and its 
+core elements of the NGRBCs. (Yes/No)
+Yes
+No Yes
+Yes
+Yes Yes
+ No
+Yes
+Yes
+b. Has the policy been approved by the Board? (Yes/No)
+Yes
+No Yes
+Yes
+Yes Yes
+No
+Yes
+Yes
+c. Web Link of the Policies, if available
+Corporate Governance- Netweb Technologies 
+(netwebindia.com)
+2. Whether the entity has translated the policy into procedures. (Yes 
+/ No)
+Yes
+No Yes
+Yes
+Yes Yes
+No
+Yes
+Yes
+3. Do the enlisted policies extend to your value chain partners? (Yes/
+No)
+No
+4. Name of the national and international codes/certifications/labels/ 
+standards (e.g., Forest Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustee) standards (e.g., SA 8000, OHSAS, ISO, BIS) adopted 
+by your entity and mapped to each principle.
+Our Manufacturing Facility has received ISO 
+9001:2015 (Quality Management System), ISO 
+14001:2015 (Environmental Management
+System), 
+ISO 
+45001 
+(Occupational 
+health 
+& 
+safety) and our offices have ISO/IEC 27001:2013 
+(Information 
+Security 
+Management 
+System), 
+ISO 37001 (Good Governance) certificates from 
+International Benchmarking & Certifications.
+5. Specific commitments, goals and targets set by the entity with 
+defined timelines, if any.
+	•
+Increase usage of renewable energy to 5% of total 
+energy consumption by 2030 
+	•
+Gender diverse workforce with more than 25% 
+women representation by 2030 
+	•
+25+ average learning hours per employee 
+	•
+Facilitate best-in-class employee experience and 
+being recognized among the best employers in 
+our key operating regions​
+6. Performance of the entity against the specific commitments, goals 
+and targets along with reasons in case the same are not met.
+Embracing sustainability as a core value, we 
+have set ambitious targets and are committed to 
+transparently reporting our performance in the 
+upcoming year.
+Governance, Leadership and Oversight
+7. Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and 
+achievements
+As a responsible company, we firmly believe that embracing sustainability isn’t just a choice, it’s a responsibility we owe to 
+our planet and future generations. At our company, we recognize the urgent need to reduce our environmental footprint 
+and operate with greater consciousness. We are committed to integrating sustainable practices into every aspect of our 
+operations from sourcing materials to manufacturing and distribution. We strive to uplift communities, address social 
+issues and create a positive and lasting impact on the lives of those around us. Our corporate philosophy prioritizes 
+employee care. It provides employees and business associates with working conditions that are clean, safe, healthy and 
+fair.
+8. Details of the highest authority responsible for implementation and 
+oversight of the Business Responsibility policy (ies).
+Chairperson of ESG Committee
+Telephone: 0129-2310400
+Email: complianceofficer@netwebindia.com
+9. Does the entity have a specified Committee of the Board/ Director 
+responsible for decision making on sustainability related issues? 
+(Yes / No). If yes, provide details.
+ESG Committee comprising of Whole-time Director, 
+CFO, HR head, Legal Head and Company Secretary 
+is responsible for decision making on sustainability 
+related issues
+120
+Annual Report 2023-2024
+10.	 Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was 
+undertaken by Director / Committee of 
+the Board/ Any other Committee
+Frequency (Annually/ Half yearly/ 
+Quarterly/ Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above 
+policies and follow up action
+Yes
+Annually
+Compliance with statutory 
+requirements of relevance to the 
+principles, and rectification of 
+any non-compliances
+Yes,
+The company adheres to all necessary legal and regulatory mandates and undergoes 
+regular assessments conducted by the appropriate Board committees or the Board of 
+Directors.
+11.	 Has the entity carried out independent assessment/ evaluation of the working of its policies by an 
+external agency? (Yes/No). If yes, provide name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+No, the company has the necessary policies which are timely reviewed by the Board.
+12.	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be 
+stated:
+Questions
+P1 to P9
+The entity does not consider the Principles material to its business (Yes/No)
+-
+The entity is not at a stage where it is in a position to formulate and implement the 
+policies on principles (Yes/No)
+-
+The entity does not have the financial or/human and technical resources available for 
+the task (Yes/No)
+-
+It is planned to be done in the next financial year (Yes/No)
+No - The policies are timely 
+reviewed by the Board
+Any other reason (please specify)
+-
+121
+Corporate Overview 
+Statutory Reports
+Financial Statements
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner 
+that is Ethical, Transparent and Accountable
+Essential Indicators
+1. 
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes 
+held
+Topics / principles covered under the 
+training and its impact
+% of persons in 
+respective category 
+covered by awareness 
+programmes
+Board of Directors
+1
+Company’s policies and procedures under 
+the Board Familiarization Program
+100%
+Key Managerial 
+Personnel
+Employees other than 
+BoD and KMP’s
+2
+Company code of conduct, insider trading 
+provisions, whistle blower policies, Company 
+payroll software mechanism
+100%
+Workers
+1
+Safety training, Grooming and First-aid 
+training.
+100%
+2. 
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in 
+the following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 
+of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+a. Monetary
+Type
+ NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Amount 
+(In INR)
+Brief of 
+the case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty/ Fine
+Nil
+Settlement
+Compounding 
+fee
+b. Non-Monetary
+Type
+ NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Brief of the case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+Nil
+Punishment
+3.	
+Of the instances disclosed in Question 2 above, details of Appeal/Revision preferred in case where monetary non-
+monetary actions has been appealed
+S. No.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+Not Applicable
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide 
+a web-link to the policy
+	
+Yes, Netweb Technologies has instituted a robust Anti-Corruption and Anti-Bribery Policy, underlining its commitment 
+to lawful and ethical conduct across all levels of the organization. This policy serves as a proactive measure to curtail the 
+risk of corrupt behavior and to ensure that all staff members, extending to the Board of Directors, uphold the highest 
+integrity standards. The policy explicitly outlines prohibited actions, providing guidance for responsible and transparent 
+interactions, particularly in areas of the business susceptible to ethical dilemmas.
+	
+The policy acts both as a deterrent to any potential unethical behavior and as a resource for employees to consult when 
+faced with situations that might otherwise lead to corrupt practices. Comprehensive education and training programs 
+accompanying the policy aim to further embed a culture of honesty and ethical responsibility within the corporate ethos 
+of Netweb Technologies.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption
+Category
+FY 2023-24 (Current Financial Year)
+FY 2022-23  (Previous Financial Year)
+Directors
+Nil
+Nil
+KMPs
+Employees
+Workers
+122
+Annual Report 2023-2024
+6. 
+Details of complaints with regard to conflict of interest
+Topic
+FY 2023-24
+(Current Financial Year)
+FY 2022-23
+ (Previous Financial Year)
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of 
+Conflict of Interest of the Directors
+Nil
+-
+Nil
+-
+Number of complaints received in relation to issues of 
+Conflict of Interest of KMPs
+7. 
+Provides details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators / law enforcement agencies / judicial institutions, on case of corruption and conflicts of interest
+	
+No corrective measures have been initiated or are in progress concerning fines, penalties, or similar issues, as there have 
+been no complaints filed.
+8.	
+Number of days of accounts payables ((Accounts payable *365)/Cost of goods/service procured) in the following 
+format:
+FY 24 Current Financial Year
+FY 23 Previous Financial Year
+Number of days of accounts payables
+76
+111
+9.	
+Open-ness of business Provide details of concentration of purchases and sales with trading houses, dealers, and 
+related parties along-with loans and advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY 24 Current Financial Year
+FY 23 Previous Financial Year
+Concentration of 
+Purchases
+Purchases from trading houses 
+as % of total purchases
+NIL
+NIL
+Number of trading houses where 
+purchases are made from
+NIL
+NIL
+Purchases from top 10 trading 
+houses as % of total purchases 
+from trading houses
+NIL
+NIL
+Concentration of 
+Sales
+Sales to dealers / distributors as 
+% of total sales
+NIL
+NIL
+Number of dealers / distributors 
+to whom sales are made
+NIL
+NIL
+Sales to top 10 dealers / 
+distributors as % of total sales to 
+dealers / distributors
+NIL
+NIL
+Share of RPTs in
+Purchases (Purchases with 
+related parties / Total Purchases)
+NIL
+NIL
+Sales (Sales to related parties / 
+Total Sales)
+NIL
+NIL
+Loans & advances (Loans & 
+advances given to related parties 
+/ Total loans & advances)
+NIL
+NIL
+Investments (Investments 
+in related parties / Total 
+Investments made)
+NIL
+100%
+123
+Corporate Overview 
+Statutory Reports
+Financial Statements
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and 
+safe
+Essential Indicators
+1. 
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Current Financial Year
+Previous Financial Year
+Details of improvements in 
+environmental and social impacts
+R&D
+We don’t track our R&D expenses separately. They are expensed of 
+under the related heads as and when incurred and as per estimates 
+R&D expenses constitutes approx. 3-4% of our Top line.
+-
+Capex
+0.5%
+0.4%
+-
+2.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No) If yes, what percentage of inputs were 
+sourced sustainably?
+	
+The company firmly believes in the concept of sustainable sourcing and recognizes its significant role in promoting the 
+responsible conduct of the business., While a formal sustainable procurement framework is in development, we are 
+actively taking measures in incorporating the principles of sustainable sourcing and procurement into our procurement 
+strategies.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life
+Process Description
+Plastics (including packaging)
+Netweb Technologies India Limited has tied-up with leading government authorised 
+waste recyclers for facilitating our customers to enable them to dispose of e-waste 
+products after its end-of-life. We have vendor operated 42 dedicated collection and 
+drop points available for our customers to choose from.
+E-waste
+Hazardous waste
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the 
+waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same.
+	
+Yes, the Extended Producer Responsibility (EPR) is applicable to the entity’s activities. The waste collection plan is in line 
+with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards.
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including 
+those in their value chains.
+Essential Indicators
+1	
+a.	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total (A)
+Health 
+Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+No. (B)
+%(B/A)
+No. (C)
+%(C/A)
+No.(D)
+%(D/A)
+No. (E)
+%(E/A)
+No. (F)
+%(F/A)
+Permanent Employees
+Male
+297
+297
+100%
+297
+100%
+-
+-
+297
+100%
+297
+100%
+Female
+65
+65
+100%
+65
+100%
+65
+100%
+-
+-
+65
+100%
+Total
+362
+362
+100%
+362
+100%
+65
+100%
+297
+100%
+362
+100%
+Other than Permanent
+Male
+ Vendors and Contractors are required to adhere with the statutory compliance as per the state rules.
+Female
+Total
+	
+b.	
+Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent) in the following format -
+FY 24 Current Financial Year
+FY 23 Previous Financial Year
+Cost incurred on well-being measures as a % of total 
+revenue of the company
+0.07%
+0.05%
+124
+Annual Report 2023-2024
+2. 
+Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY24 Current Financial Year
+FY23 Previous Financial Year
+Remarks
+No. of 
+employees
+covered as 
+a % of total 
+employees
+No. of 
+workers
+covered as 
+a % of total 
+workers
+Deducted and
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees
+covered as 
+a % of total 
+employees
+No. of 
+workers
+covered as 
+a % of total 
+workers
+Deducted and
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+Not 
+Applicable
+Yes
+100%
+Not 
+Applicable
+Yes
+(PF as per EPF 
+Act 1952)
+ESI
+100%
+Yes
+100%
+Yes (ESI as per ESIC 
+Act 1948)
+Gratuity
+100%
+Yes
+100%
+Yes
+(As per 
+Payment of 
+Gratuity Act 
+1972)
+Other
+-
+-
+-
+-
+	
+Accessibility of workplaces
+3. 
+Accessibility of workplaces: Are the premises / offices of the entity accessible to differently abled employees and 
+workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are 
+being taken by the entity in this regard.
+	
+Yes, the operations and office premises are accessible to differently abled employees and workers.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide 
+a web-link to the policy.
+	
+Yes
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent Employees
+Return to work rate
+Retention rate
+Male
+100%
+100%
+Female
+100%
+100%
+Total
+100%
+100%
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent Workers
+Not Applicable
+Other Than Permanent Workers
+Permanent Employees
+Employees are provided with a dedicated email address for lodging any 
+grievances. Moreover, they have the option to utilize channels like the 
+Whistleblower Protection Program and the prevention of Sexual Harassment 
+Act to confidentially report any concerns and we have constituted an internal 
+complaints committee dedicated to complaints of such nature.
+For POSH: posh@netwebindia.com For Grievance: grievance@netwebindia.
+com For Whistle blower: complianceofficer@netwebindia.com
+Other than Permanent Employees
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2023-24 (Current Financial Year)
+FY 2022-23 (Previous Financial Year)
+Total 
+employees 
+/ workers 
+inrespective 
+category (A)
+No. of employees / 
+workers inrespective 
+category, who arepart 
+of association(s) or 
+Union (B)
+% 
+(B/A)
+Total 
+employees 
+/ workers 
+inrespective 
+category (C)
+No. of employees / 
+workers inrespective 
+category, who arepart 
+of association(s) or 
+Union (D)
+%
+(D/C)
+Permanent Employees
+Male
+Nil
+Female
+Other
+Total
+125
+Corporate Overview 
+Statutory Reports
+Financial Statements
+8.	
+Details of training given to employees and workers:
+Category
+FY 2023-24 (Current Financial Year)
+FY 2022-23 (Previous Financial Year)
+Total (A)
+On Health & 
+Safety measures
+On Skill 
+Upgradation
+Total 
+(D)
+On Health & 
+Safety measures
+On Skill 
+Upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Permanent Employees
+Male
+297
+297
+100%
+297
+100%
+218
+218
+100%
+218
+100%
+Female
+65
+65
+100%
+65
+100%
+46
+46
+100%
+46
+100%
+Total
+362
+362
+100%
+362
+100%
+264
+264
+100%
+264
+100%
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2023-24 (Current Financial Year)
+FY 2022-23 (Previous Financial Year)
+Total employees 
+/ workers 
+inrespective 
+category (A)
+No. of employees / 
+workers inrespective 
+category, who had a 
+career review (B)
+% 
+(B/A)
+Total employees 
+/ workers 
+inrespective 
+category (C)
+No. of employees / 
+workers in respective 
+category, who had a 
+career review (D)
+%(D/C)
+Employees
+Male
+178
+178
+100%
+109
+109
+100%
+Female
+35
+35
+100%
+21
+21
+100%
+Total
+213
+213
+100%
+130
+130
+100%
+	
+* 100% of eligible employees have received performance and career development reviews.
+10.	 Health and safety management system:
+a.	
+Whether 
+an 
+occupational 
+health 
+and safety management system has 
+beenimplemented by the entity? (Yes/
+No)
+Company has implemented an occupational health and safety 
+management system in accordance with ISO 45001 standards across 
+all its manufacturing facilities and office premises. The organization is 
+committed to ensuring a secure work environment for its employees, 
+recognizing that their well-being is essential and significantly influences 
+their productivity.
+b.	
+What is the coverage of such system?
+c.	
+What are the processes used to identify 
+work-related hazards and assess risks 
+on a routine and non-routine basis by 
+the entity?
+We implement regular equipment inspections, host frequent safety 
+awareness sessions, and provide specialized training programs for our 
+staff.
+d.	
+Whether you have processes for workers 
+to report the work-related hazards and 
+to remove themselves from such risks. 
+(Yes/No)
+Not Applicable
+e.	
+Do the employees/ worker of the entity 
+have access to non-occupational medical 
+and healthcare services? (Yes/ No)
+No
+11.	 Details of safety related incidents, in the following format
+Safety Incident/Number
+Category
+FY 2023-24 (Current FY)
+FY 2022-23 (Previous FY)
+Lost Time Injury Frequency Rate (LTIFR) (per 
+one million-person hours worked)
+Employees
+Nil
+Workers
+Not Applicable
+Total recordable work-related injuries
+Employees
+Nil
+Workers
+Not Applicable
+No. of fatalities
+Employees
+Nil
+Workers
+Not Applicable
+High-consequence work-related injury or ill 
+health (excluding fatalities)
+Employees
+Nil
+Workers
+Not Applicable
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+We have implemented rigorous safety protocols, we conduct regular risk assessments, and have provided comprehensive 
+training to employees to prevent and mitigate negative health impacts associated with their operations, products, or 
+services. Additionally, we have enforced compliance with relevant regulations and standards while fostering a culture of 
+safety consciousness across all levels of the organization. Employees are provided with a dedicated email address for 
+lodging any grievances and seek resolutions.
+126
+Annual Report 2023-2024
+13.	 Number of Complaints on the following made by employees and workers:
+Topic
+FY 2023-24 (Current Financial Year)
+FY 2022-23 (Previous Financial Year)
+Filed 
+duringthe 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Working 
+Conditions
+Nil
+Nil
+-
+Nil
+Nil
+-
+Health & Safety
+Nil
+Nil
+-
+Nil
+Nil
+-
+14.	 Assessments for the year:
+Topic
+% of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions.
+	
+During the year, the company experienced no incidents related to safety. Nonetheless, proactive measures have been 
+adopted to mitigate safety related incidents.
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders.
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+The company acknowledges those who play a vital role in its operations as key stakeholders. This includes a spectrum 
+of both internal and external parties. Presently, the firm has identified five distinct groups of stakeholders: employees 
+and labor force, regulatory bodies, investors and shareholders, Business Partners and customers. The company 
+actively engages with each stakeholder segment by organizing meetings or initiating calls in order to maintain ongoing 
+communication.
+2. 
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable 
+&Marginalized 
+Group (Yes/
+No)
+Channels of communication 
+(Email, SMS, 
+Newspaper, Pamphlets, 
+Advertisement,Community 
+Meetings, Notice Board, 
+Website), Other
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/Quarterly 
+/ others– please 
+specify)
+Purpose and scope 
+ofengagement 
+including key topics 
+and concerns 
+raised during such 
+engagement
+Investors/
+shareholders
+No
+Investors calls, In Persons 
+Meetings and Emails
+Quarterly or as and 
+when requested by 
+prospective investors 
+excluding silent periods.
+Quarterly results and 
+strategic presentation
+Customers
+Email, Advertisement, 
+social media and exhibition 
+participation
+As and when needed
+Business Discussions
+Business Partners 
+(Suppliers, Dealers/ 
+Distributors)
+Email, Advertisement, 
+social media and exhibition 
+participation
+As and when needed
+Product/service 
+purchase and sales
+Employees & 
+Workers
+Meets, Awareness Session and 
+In-persons meetings
+As and when needed
+Performance 
+assessment, training & 
+development
+Regulatory Bodies
+ Regular Compliances filings
+As per regulatory 
+requirement
+Compliance
+127
+Corporate Overview 
+Statutory Reports
+Financial Statements
+PRINCIPLE 5: Businesses should respect and promote human rights.
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format
+Category
+FY24 Current Financial Year
+FY23 Previous Financial Year
+Total 
+(A)
+No. of employees / 
+workers covered (B)
+% (B / A)
+Total 
+(C)
+No. of employees / 
+workers covered (D)
+% (D / C)
+Employees
+Permanent
+362
+362
+100%
+264
+264
+100%
+Other than Permanent
+36
+0
+0%
+6
+0
+0%
+Total
+398
+362
+90.95%
+270
+264
+97.77%
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2023-24 (Current Financial Year)
+FY 2022-23 (Previous Financial Year)
+Total(A)
+Equal to 
+Minimum 
+Wage (B)
+% 
+Employees
+(B/A)
+More 
+than 
+Minimum 
+Wage (C)
+% 
+Employees 
+(C/A)
+Total(D)
+Equal to 
+Minimum 
+Wage (E)
+% 
+Employees
+(E/D)
+More 
+than 
+Minimum 
+Wage (F)
+% 
+Employees 
+(F/D)
+Employees
+Permanent
+Male
+297
+-
+297
+100%
+218
+5
+2.30%
+213
+97.70%
+Female
+65
+-
+65
+100%
+46
+1
+2.17%
+45
+97.82%
+Other than permanent
+Male
+36
+36
+100%
+-
+6
+6
+100%
+-
+-
+Female
+-
+-
+-
+-
+3.	
+Details of remuneration/salary/wages, in the following format:
+	
+a. Median remuneration / wages:
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category (in 
+INR Crores)
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category (in 
+INR Crores)
+Board of Directors (BoD)
+Key Managerial Personnel 
+Employees other than BoD and KMP
+Workers
+4*
+2
+291
+NA
+1.42
+0.47
+0.05
+NA
+0
+0
+65
+NA
+0
+0
+0.03
+NA
+	
+* Includes only Executive directors
+	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY 24 Current Financial Year
+FY 23 Previous Financial Year
+Gross wages paid to females as % of total wages
+10.62%
+9.93%
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business?
+	
+Yes, the ESG Committee is the focal point responsible for addressing Human Rights issues or impacts caused or 
+contributed to by the business. All the employees can also reach out to the management for any concerns.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+The Internal Committee is designated as the primary entity within the company responsible for managing and resolving 
+any matters related to human rights that arise as a direct result of business activities. The committee functions as a 
+responsive and authoritative body that employees and other stakeholders can approach with confidence when they 
+have human rights concerns or grievances. It operates under a clear mandate to investigate allegations of human rights 
+violations, take appropriate corrective action, and provide remedies when necessary. If the employee is not satisfied with 
+the decision of the committee then he has the right to approach the regulatory forums
+128
+Annual Report 2023-2024
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2023-24 (Current Financial Year)
+FY 2022-23 (Previous Financial Year)
+Filed during 
+the year
+Pending 
+resolution
+at the end 
+of the year
+Remarks
+Filed 
+during 
+the 
+year
+Pending 
+resolution
+at the end of 
+the year
+Remarks
+Sexual Harassment
+Nil
+-
+Nil
+-
+-
+Discrimination at
+workplace
+Child Labour
+Forced Labour / Involuntary 
+Labour
+Wages
+Other human rights-related 
+issues
+7. 
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, prohibition and Redressal) 
+Act,2013, in the following format:
+FY 2023-24
+(Current Financial Year)
+FY 2022-23
+(Previous Financial Year)
+Total Complaints reported under the Sexual Harassment 
+on of Women at Workplace (Prevention, prohibition and 
+Redressal) Act,2013(POSH)
+Nil
+Complaints on POSH as a % of female employees / workers
+Complaints on POSH upheld
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+The company has introduced a robust POSH mechanism, empowering employees to address instances of harassment or 
+discrimination effectively. Further, the company introduced a whistle blower policy facilitating the reporting of concerns. 
+We have a zero-tolerance policy for any retaliation against an employee lodging a complaint and any abuse of this 
+protection will warrant disciplinary action. By providing a platform for reporting and addressing such issues, the company 
+fosters a culture of accountability and inclusivity. If a complainant feels subjected to retaliation, they have the option to 
+file a written complaint on the dedicated email address provide for any grievances. This approach ensures a workplace 
+environment that upholds respect and dignity for all. All the employees can also reach out to the management for any 
+concerns.
+9.	
+Do human rights requirements form part of your business agreements and contracts?
+	
+No
+10.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labour
+100
+Forced/involuntary labour
+100
+Sexual harassment
+100
+Discrimination at workplace
+100
+Wages
+100
+Others
+-
+11. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 10 above
+	
+We follow all the labour laws strictly and so far no action has been taken on us for any deviations. All employees can reach 
+out to management if they have any areas of concerns regarding their work or surrounding environment.
+129
+Corporate Overview 
+Statutory Reports
+Financial Statements
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment.
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY24 Current Financial Year
+FY23 Previous Financial Year
+From renewable sources
+Total electricity consumption (GJ) (A)
+Nil
+Nil
+Total fuel consumption (B)
+Nil
+Nil
+Energy consumption through other sources (C)
+Nil
+Nil
+Total energy consumed from renewable sources 
+(A+B+C)
+Nil
+Nil
+From non-renewable sources
+Total electricity consumption (GJ) (D)
+2,044.47
+1,177.49
+Total fuel consumption (E)
+333.4
+158.61
+Energy consumption through other sources (F)
+0
+0
+Total energy consumed from non-renewable sources 
+(D+E+F)
+2,377.87
+1,336.11
+Total energy consumed (GJ)
+2,377.87
+1,336.11
+Energy intensity per rupee of turnover (Total energy 
+consumed / Revenue from operations)
+0.00000033
+0.00000030
+Energy intensity per rupee of turnover adjusted 
+for Purchasing Power Parity (PPP) (Total energy 
+consumed / Revenue from operations adjusted for 
+PPP)
+0.00000736
+0.00000664
+Energy intensity in terms of physical output (per FTE)
+5.97
+4.95
+Energy intensity (optional) – the relevant metric may 
+be selected by the entity-
+-
+-
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency.
+	
+No
+2. 
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme 
+have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+No, the company has not recognized any of its sites or installations as Designated Consumers within the context of the 
+Performance Achieve and Trade (PAT) framework. Nonetheless, as a conscientious enterprise, it places considerable 
+emphasis on integrating sustainable practices into its corporate planning.
+	
+In case targets have not been achieved, provide the remedial action taken, if any:
+	
+Not Applicable
+3.	
+Provide details of the following disclosures related to water, in the following 4format:
+Parameter
+FY 2023-24
+(Current Financial Year)
+FY 2022-23
+(Previous Financial Year)
+Water withdrawal by source (in kilolitres)
+(i)	
+Surface water
+-
+-
+(ii)	
+Groundwater
+-
+-
+(iii)	 Third party water
+4,069.44
+2,935.44
+(iv)	 Seawater / desalinated water
+-
+-
+(v)	
+Others
+-
+-
+Total volume of water withdrawal (in kilolitres) 
+(i+ii+iii+iv+v)
+4,069.44
+2,935.44
+Total volume of water consumption (in kilolitres)
+2,712.96
+1,956.96
+Water intensity per rupee of turnover (Water consumed / 
+turnover) (kl per INR of revenue)
+0.00000037
+0.00000044
+Water intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP) (Total water consumption / Revenue from 
+operations adjusted for PPP)
+0.000008
+0.000010
+Water intensity in terms of physical output (KL/ FTE)
+6.82
+7.24
+Water intensity (optional) – the relevant metric may be 
+selected by the entity
+-
+-
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency.
+	
+No
+130
+Annual Report 2023-2024
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY 2023-24
+(Current Financial Year)
+FY 2022-23
+(Previous Financial Year)
+Water discharge by destination and level of treatment (in kiloliters)
+(i)	
+To Surface water
+	
+No treatment
+	
+With treatment – please specify the level of treatment
+(ii)	
+To Groundwater
+	
+No treatment
+	
+With treatment – please specify the level of treatment
+(iii)	 To Seawater
+	
+No treatment
+	
+With treatment – please specify the level of treatment
+(iv)	 Sent to third parties
+	
+No treatment
+	
+With treatment – please specify level of treatment
+1,356.48
+978.48
+(v)	
+Others
+	
+No treatment
+	
+With treatment – please specify level of treatment
+Total water discharged (in kiloliters)
+1,356.48
+978.48
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency.
+	
+No
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+No
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY24 Current Financial Year
+FY23 Previous Financial Year
+NOxSOxParticulate matter 
+(PM)Persistent organic 
+pollutants matter (POP) 
+Volatile organic compounds 
+(VOC)Hazardous air pollutants 
+(HAP)Others – please specify
+Company is monitoring ambient air quality parameters as per the State Pollution 
+Control Board’s (SPCB) / Central Pollution Control Board’s (CPCB) criteria at plants and 
+offices. All parameters remained within norms of SPCBs / CPCBs guidelines.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency.
+	
+No
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY24 Current 
+Financial Year
+FY23 Previous 
+Financial Year
+Total Scope 1 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+117.05
+169.05
+Total Scope 2 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+406.62
+234.19
+Total Scope 1 and Scope 2 emissions
+tCO2e
+523.67
+403.24
+Total Scope 1 and Scope 2 emission intensity per rupee 
+of turnover (Total Scope 1 and Scope 2 GHG emissions / 
+Revenue from operations)
+tCO2e/
+revenue INR
+0.0000000723
+0.0000000906
+Total Scope 1 and Scope 2 emission intensity per rupee 
+of turnover adjusted for Purchasing Power Parity (PPP) 
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from 
+operations adjusted for PPP)
+tCO2e / PPP
+0.00000162
+0.000002003
+Total Scope 1 and Scope 2 emission intensity in terms of 
+physical output
+tCO2e/ FTE
+1.3158
+1.4935
+Total Scope 1 and Scope 2 emission intensity (optional) – the 
+relevant metric may be selected by the entity
+-
+-
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency.
+	
+No
+131
+Corporate Overview 
+Statutory Reports
+Financial Statements
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+	
+The company intends to initiate yearly plantation drives and is in the process of installation of solar panels.
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24
+(Current Financial Year)
+FY 2022-23
+(Previous Financial Year)
+Total Waste generated (in Kilogram)
+Plastic waste (A)
+297.6
+168.0
+E-waste (B)
+595.2
+336.60
+Bio-medical waste (C)
+NA
+NA
+Construction and demolition waste (D)
+NA
+NA
+Battery waste (E)
+99.2
+56.0
+Radioactive waste (F)
+NA
+NA
+Other Hazardous waste. Please specify, if any. (G)
+NA
+NA
+Other Non-hazardous waste generated (H). Please specify, if 
+any. (Break-up by composition i.e., by materials relevant to 
+the sector)
+-
+-
+Total (A+B + C + D + E + F + G+ H)
+992.0
+560.0
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in metric tonnes)
+Category of Waste
+(i)	
+Recycled
+(ii)	
+Re-used
+(iii)	 Other recovery operations
+2.64
+0
+Total
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of Waste
+(i)	
+Incineration
+0
+0
+(ii)	
+Landfilling
+0
+0
+(iii)	 Other disposal operations
+-
+64.86
+Total
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency.
+	
+No
+10. Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+your company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes.
+	
+The Company has implemented a waste management system to efficiently handle waste generated during manufacturing 
+processes and overall operations. The foundation of this approach rests on the 3Rs framework: Reduce, Reuse, and 
+Recycle. The company has tied up with multiple waste collection centers which collect our waste and dispose it off in a 
+safe manner. Additionally, we believe in the concept of circularity and utilize our input material packaging for products 
+which are shipped out to our consumers in order to reduce packaging waste.
+11. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details in the following format:
+S.
+No.
+Location 
+ofoperations/offices
+Type of 
+operations
+Whether the conditions of environmental approval / clearance are 
+being complied with? (Y/N) If no, the reasons thereof and corrective 
+action taken, if any.
+1
+Not Applicable
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year:
+Name and 
+brief details of 
+project
+EIA 
+Notification 
+No.
+Date
+Whether conducted by 
+independent external agency  
+(Yes / No)
+Results 
+communicated in 
+public domain (Yes / 
+No)
+Relevant Web 
+link
+Throughout the reporting period, the Company did not engage in any projects that required an Environmental Impact 
+Assessment (EIA) to be conducted.
+132
+Annual Report 2023-2024
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act 
+and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format:
+S.
+No.
+Specify the law / regulation 
+/guidelines which was not 
+complied
+Provide details 
+of the non- 
+compliance
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution 
+control boards or by courts
+Corrective 
+action taken, if 
+any
+Not Applicable as the entity has complied with all laws and regulations
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in 
+a manner that is responsible and transparent.
+Essential Indicators
+1. 
+a. 
+Number of affiliations with trade and industry chambers/ associations.
+	
+	
+4
+1.	
+b.	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such 
+body) the entity is a member of/ affiliated to.
+S. No Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ associations (State/
+National)
+1
+LIFE Membership Certificate, Association of Information Technology , 
+Netweb Technologies Bengaluru is a LIFE member of AIT
+National
+2
+MAIT Membership
+National
+3
+MEDEPC -Mobile And Electronic Devices Export Promotion Council
+National
+4
+AICRA- All India Council for Robotics & Automation
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anticompetitive conduct by the entity, 
+based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+Not Applicable
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development.
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+Project Name
+SIA Notification
+Date Notification
+Conducted by 
+independent
+Result 
+Communicated
+Web link
+ Not Applicable
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity, in the following format:
+S. 
+No.
+Name of Project for 
+which R&R is ongoing
+State
+District
+No. of Project Affected 
+Families (PAFs)
+% of PAFs 
+covered by R&R
+Amounts paid to PAFs 
+in the FY (In INR)
+Not Applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+As part of our Corporate Social Responsibility (CSR) initiatives, the Company actively interacts with local communities to 
+understand and respond to their issues and concerns. This engagement takes the form of various CSR projects and other 
+similar activities.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY24 Current Financial Year
+FY23 Previous Financial Year
+Directly sourced from MSMEs/ small producers
+1.24%
+1.44%
+Directly from within India
+41.67%
+44.62%
+133
+Corporate Overview 
+Statutory Reports
+Financial Statements
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed 
+on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost
+Location
+FY24 Current Financial Year
+FY23 Previous Financial Year
+Rural
+-
+-
+Semi-urban
+-
+-
+Urban
+-
+-
+Metropolitan
+100%
+100%
+(Place to be categorized as per RBI Classification System - rural / semi-urban / urban / metropolitan)
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a responsible 
+manner
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+Customer escalations and complaints are treated with utmost importance in the organization. The email address and 
+contact number for submitting a complaint are promptly accessible on our website. We have a ticket raising system (Eagle, 
+Zeroc) for handling customer complaints and feedback which operates through a structured process that organizes, 
+prioritizes, and resolves issues efficiently.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information 
+about:
+Services
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+Safe and responsible usageRecycling and/or safe disposal
+The company does not track such parameters 
+currently
+3.	
+Number of consumer complaints in respect of the following:
+FY 2023-24 (Current Financial Year)
+FY 2022-23 (Previous Financial Year)
+Received 
+during the 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+Data privacy
+Nil
+Nil
+Advertising
+Cyber-security
+Delivery of essential 
+services
+Restrictive Trade Practices
+Unfair Trade Practices
+Others (Repay and refund)
+4.	
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary RecallForced Recall
+Nil
+Not Applicable
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+	
+Safeguarding data privacy and ensuring robust cyber security systems are of paramount importance to our operations. 
+We recognize that our clients trust us with sensitive information, and it is our responsibility to protect it from unauthorized 
+access, breaches or misuse. Maintaining the confidentiality and integrity is not only essential for building trust with clients 
+but also for upholding regulatory compliance standards. We invest in cutting edge technology, conduct security audits 
+and prioritizes employee training to ensure highest standards of security.
+	
+Privacy Policy (netwebindia.com)
+134
+Annual Report 2023-2024
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+	
+Not Applicable
+7.	
+Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches
+	
+	
+NIL
+ 
+b. 
+Percentage of data breaches involving personally identifiable information of customers
+	
+	
+NIL
+	
+c.	
+Impact, if any, of data breaches
+	
+	
+Not Applicable
+135
+Corporate Overview 
+Statutory Reports
+Financial Statements

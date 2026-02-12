@@ -1,0 +1,1848 @@
+ 
+Core #1, Scope Complex, 7, Institutional Area, Lodi Road, New Delhi -110003. 
+Phone No:24362200; 24361889   Email: akmisra@mmtclimited.com 
+Website:  www.mmtclimited.com  CIN: L51909DL1963GOI004033 
+ 
+ 
+ 
+ 
+DATE- 05-09-2024 
+ 
+Dear Sirs, 
+ 
+ 
+Sub: Business Responsibility and Sustainability Report for the 
+financial year 2023-24.  
+  
+Business Responsibility and Sustainability Report of the Company for the financial year 
+2023-24,  is attached.  
+  This is for your information and records. 
+   Thanking you, 
+    
+ Yours faithfully,  
+For MMTC Limited,  
+  
+  
+ AK Misra  
+Company Secretary  
+Mb No.9958404478 
+Manager 
+Listing Department 
+BSE Limited 
+Floor 25, Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai-400 001 
+Scrip Code: 513377 
+Manager 
+Listing Department 
+National Stock Exchange of India 
+Limited "Exchange Plaza", Bandra-Kurla 
+Complex, Sandra (E), 
+Mumbai -400 051 
+Scrip Code: MMTC/EQ 
+AJAY KUMAR 
+MISRA
+Digitally signed by 
+AJAY KUMAR MISRA 
+Date: 2024.09.05 
+12:45:34 +05'30'
+`
+XBRL Excel Utility 
+1. 
+Overview 
+2. 
+Before you begin 
+3. 
+Index 
+ 
+4. 
+Steps for Filing Business Responsibility & Sustainability Reporting 
+5. 
+Fill up the data in excel utility 
+1.  
+Overview 
+ 
+The excel utility can be used for creating the XBRL/XML ﬁle for eﬁling of Business Responsibility & 
+Sustainability Report 
+2. 
+Before you begin 
+1.  
+The version of Microsoft Excel in your system should be Microsoft Oﬃce Excel 2007 and above. 
+2.  
+The system should have a ﬁle compression software to unzip excel utility ﬁle. 
+3.  
+Make sure that you have downloaded the latest Excel Utility. 
+4.  
+Make sure that you have downloaded the Chrome Browser to view report generated from Excel utility 
+5.  
+Please enable the Macros (if disabled) as per instructions given in manual, so that all the functionalities of  Excel 
+Utility works ﬁne. Please ﬁrst go through Enable Macro - Manual attached with zip ﬁle. 
+3.  
+Index   
+ 
+1 
+General Disclosures 
+ General Disclosures
+2 
+Stock exchange 
+ Stock exchange
+3 
+Name of assurance Provider 
+ Name of assurance Provider
+4 
+Type of assurance obtained 
+ Type of assurance obtained
+5 
+Details of business activities 
+ Details of business activities
+6 
+Products Services sold 
+ Products Services sold
+7 
+Holding,subsidiary or associate 
+ Holding, subsidiary or associate
+8 
+Other stakeholder group 
+ Other stakeholder group
+9 
+Business conduct issues 
+ Business conduct issues
+10 
+MGT and process disclosure 
+ MGT and process disclosure
+11 
+PRINCIPLE 1 
+ PRINCIPLE 1
+12 
+Penalty or ﬁne 
+ Penalty or ﬁne
+13 
+Settlement 
+ Settlement
+14 
+Compounding fee 
+ Compounding fee
+15 
+Imprisonment 
+ Imprisonment
+16 
+Punishment 
+ Punishment
+17 
+Appeal or revision case details 
+ Appeal or revision case details
+18 
+Programmes for value chain 
+ Programmes for value chain
+19 
+PRINCIPLE 2 
+ PRINCIPLE 2
+20 
+Life cycle assessment 
+ Life cycle assessment
+21 
+Action taken 
+ Action taken
+22 
+Recycled or reused input 
+ Recycled or reused input
+23 
+Details of other waste 
+ Details of other waste
+24 
+Reclaimed 
+ Reclaimed
+25 
+PRINCIPLE 3 
+ PRINCIPLE 3
+26 
+Other retirement beneﬁts 
+ Other retirement beneﬁts
+27 
+PRINCIPLE 4 
+ PRINCIPLE 4
+28 
+Stakeholder group 
+ Stakeholder group
+29 
+PRINCIPLE 5 
+ PRINCIPLE 5
+30 
+Other assessments 
+ Other assessments
+31 
+Details of other value chain 
+ Details of other value chain
+32 
+PRINCIPLE 6 
+ PRINCIPLE 6
+2023-24
+Annual Report
+54
+33 
+Details of other air emissions 
+ Details of other air emissions
+34 
+Environment approval (clearance) 
+ Environment approval(clearance)
+35 
+Environmental impact 
+ Environmental impact
+36 
+Details of non compliance 
+ Details of non compliance
+37 
+Energy consumed from renewable 
+ Energy consumed from renewable
+38 
+Energy consumed from NR 
+ Energy consumed from NR
+39 
+Plant in area of water stress 
+ Plant in area of water stress
+40 
+Initiative to improve resource 
+ Initiative to improve resource
+41 
+PRINCIPLE 7 
+ PRINCIPLE 7
+42 
+Action taken on issue 
+ Action taken on issue
+43 
+Public policy advocates 
+ Public policy advocates
+44 
+PRINCIPLE 8 
+ PRINCIPLE 8
+45 
+Details of SIA 
+ Details of SIA
+46 
+Details of the beneﬁts from IP 
+ Details of the beneﬁts from IP
+47 
+Details of CSR Project 
+ Details of CSR Project
+48 
+Details of corrective action IP 
+ Details of corrective action IP
+49 
+Project for rehabilitation 
+ project for rehabilitation
+50 
+Action to mitigate negative SIA 
+ Action to mitigate negative SIA
+51 
+CSR in aspirational districts 
+ CSR in aspirational districts
+52 
+PRINCIPLE  9  
+ PRINCIPLE  9
+4. 
+Steps for Filing Business Responsibility & Sustainability Reporting 
+I. 
+Fill up the data: Navigate to each ﬁeld of every section in the sheet to provide applicable data in correct format.  
+(Formats will get reﬂected while ﬁlling data.)  
+ 
+ - Use paste special command to paste data from other sheet.
+II.  
+Validating Sheets:  Click on the ''Validate" button to ensure that the sheet has been properly ﬁlled and also data 
+has been furnished in proper format. If there are some errors on the sheet, excel utility will prompt you about the 
+same.
+III. 
+Validate All Sheets:  Click on the ''Home" button. And then click on "Validate All Sheet" button to ensure that all 
+sheets has been properly ﬁlled and validated successfully. If there are some errors on the sheet, excel utility will 
+prompt you about the same and stop validation at the same time. After correction, once again follow the same 
+procedure to validate all sheets. Excel Utility will not allow you to generate XBRL/XML until you rectify all errors. 
+IV. 
+Generate XML :   Excel Utility will not allow you to generate XBRL/XML unless successful validation of all sheet 
+is completed. Now click on 'Generate XML'' to generate XBRL/XML ﬁle. 
+    
+ -  Save the XBRL/XML ﬁle in your desired folder in local system. 
+ 
+V. 
+Generate Report : Excel Utility will allow you to generate Report. Now click on 'Generate Report'' to generate 
+html report.   
+ 
+- Save the HTML Report ﬁle in your desired folder in local system.
+ 
+- To view HTML Report open Chrome Web Browser.
+ 
+- To print report in PDF Format, Click on print button and save as PDF. 
+5.  
+Fill up the data in excel utility 
+ 
+1.  
+Cells with red fonts indicate mandatory ﬁelds. 
+ 
+2.  
+If mandatory ﬁeld is left empty, then Utility will not allow you to proceed further for generating XML. 
+3.  
+You are not allowed to enter data in the Grey Cells. 
+ 
+4.  
+If ﬁelds are not applicable to your company then leave it blank. Do not insert Zero unless it is a mandatory ﬁeld. 
+5.  
+Data provided must be in correct format, otherwise Utility will not allow you to proceed further for generating XML. 
+6.  
+Select data from "Dropdown list" wherever applicable. 
+ 
+2023-24
+Annual Report
+55
+SECTION A: GENERAL DISCLOSURES
+2023-24
+Annual Report
+56
+18 
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover) 
+ 
+III. 
+Operations 
+ 
+ 
+19 
+Number of locations where plants and/or operations/oﬃces of the entity are situated  
+ 
+ 
+ 
+ 
+Location 
+Number of plants 
+Number of oﬃces Total
+ 
+National 
+0 
+6 
+6
+ 
+International 
+0 
+0 
+0
+20 
+Markets served by the entity 
+A 
+Number of locations  
+Locations 
+Number
+ 
+National (No. of States) 
+ 
+10
+ 
+International (No. of Countries) 
+ 
+0
+B 
+What is the contribution of exports as a percentage of  
+0.00%
+ 
+the total turnover of the entity?
+C 
+A brief on types of customers 
+ 
+NA 
+ 
+NIC Code list link: https://www.ncs.gov.in/Documents/NIC_Sector.pdf
+II. 
+Products/services 
+ 
+ 
+ 
+17 
+Details of business activities (accounting for 90% of the turnover) 
+ 
+57
+2023-24
+Annual Report
+V. 
+Holding, Subsidiary and Associate Companies (including joint ventures) 
+ 
+24 
+(a) Names of holding / subsidiary / associate companies / joint ventures 
+ 
+22 
+Participation/Inclusion/
+ 
+Representation of women 
+  
+  
+ 
+  
+  
+Total (A) 
+No. and percentage of Females
+  
+ 
+ 
+No. (B) 
+% (B / A)
+  
+Board of Directors 
+9 
+1 
+11.11%
+  
+Key Management Personnel 
+5 
+0 
+0.00%
+23 
+Turnover rate for permanent employees and workers (Disclose trends for the past 3 years) 
+ 
+ 
+Turnover rate in current  
+Turnover rate in previous  
+ Turnover rate in the year prior to the
+ 
+ 
+FY (2023-24) 
+FY (2022-23) 
+previous FY (2021-22)
+ 
+ 
+Male 
+Female Other 
+Total 
+Male 
+Female Other 
+Total 
+Male 
+Female 
+Other 
+Total
+ 
+Permanent Employees 32.05% 35.51% 0.00% 32.76% 13.00% 10.83% 0.00% 12.56% 
+15.58% 
+12.41% 
+0.00% 
+14.96%
+ 
+Permanent Workers 
+0.00% 
+0.00% 0.00% 0.00% 
+0.00% 
+4.00% 
+0.00% 9.00% 
+0.00% 
+0.00% 
+0.00% 
+0.00%
+VI.  
+CSR Details 
+25 
+(i)  
+Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) 
+No
+ 
+(ii)  
+Turnover (in Rs.) 
+ 
+ 
+53420556.00
+ 
+(iii)  Net worth (in Rs.) 
+ 
+ 
+162567931711.00
+2023-24
+Annual Report
+58
+(If NA, then 
+provide
+the reason
+Remarks
+27 (i)
+27 (ii)
+27 (i)
+59
+2023-24
+Annual Report
+27 (ii)
+2023-24
+Annual Report
+60
+Section B: Management and Process Disclosures
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards 
+adopting the NGRBC Principles and Core Elements.
+Disclosure Questions 
+P1 
+P2 
+P3 
+P4 
+P5 
+P6 
+P7 
+P8 
+P9
+Policy and management processes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+a. Whether your entity’s policy/pol-icies  
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+No 
+Yes 
+Yes
+ 
+ 
+cover each principle and its core 
+ 
+ 
+elements of the NGR- BCs. (Yes/No) 
+ 
+b. Has the policy been approved 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+No 
+Yes 
+Yes
+ 
+ 
+by the Board? (Yes/No) 
+ 
+ 
+c. Web Link of the Policies, if 
+https://mmtclimited.com
+ 
+ 
+available
+2. 
+2. Whether the entity has translated the  
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes
+ 
+policy into procedures. 
+3.  
+Do the enlisted policies extend to your  
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes
+ 
+value chain partners? 
+4. 
+Name of the national and international codes/certiﬁca-  tions/labels/ standards (e.g.  Forest Stewardship Council, 
+ 
+Fairtrade, Rainforest Alliance, Trustea) standards (e.g.   SA 8000, OHSAS, ISO, BIS)  adopt- ed by your entity and 
+ 
+mapped to each principle.
+5. 
+Speciﬁc commitments, goals and targets set by the entity with  deﬁned timelines, if any. 
+6. 
+Performance of the entity against the speciﬁc commitments, g oals and targets along-with r easons in case the 
+same are not met.
+ 
+Governance, leadership and oversight
+7. 
+Statement by director responsible for the business r esponsibility report, highlighting ESG related challenges, t argets 
+and achievements (listed entity has ﬂexibility r egarding the placement of this disclosure)- As per instruction od 
+Department of Commerce, the operations of all types of businesses has been stopped for the time being.
+8. 
+Details of the highest authority responsible for implementation a nd oversight of the B usiness Responsibility policy (ies). - 
+CMD and Board of directors are responsible for the  implementation of the Business responsibility policies and as 
+per DoC Instructions  the business operations has been stoped till further notice, So there is no activities in MMTC 
+Limited currently.
+9. 
+Does the entity have a speciﬁed Committee of the Board/ Di- rector  responsible for deci-sion making on  
+sustainability related issues? (Yes).  
+ 
+ Yes, We have CSR and Sustainability Development committee along with risk management commit- tee. Also, 
+Sustainability Vertical directly reports to Director (operations).
+ 
+The detailed structure can be found at
+61
+2023-24
+Annual Report
+10.  Details of Review of NGRBCs by the Company:
+Subject for Review 
+Indicate whether review was under-  
+Frequency (Annually/ Half yearly/ Quarterly/ 
+ 
+ 
+taken by Director / Committee of the  
+Any other – please specify)
+ 
+ 
+Board/ Any other Committee
+ 
+P1 
+P2 
+P3 P4 
+P5 
+P6 P7 P8 P9 P1 P2 P3 P4 P5 P6 P7 P8 P9
+Performance against Above 
+ 
+ 
+ 
+ 
+ 
+ policies and follow up action
+Compliance with statutory  
+ 
+ 
+ 
+ 
+requirements of relevance to 
+the principles, and, rectiﬁcation 
+of any non-compliances
+11. Has the entity carried out  
+P 1 
+P 2 
+P 3 
+P 4 
+P5 
+P 6 
+P 7 
+P8 
+P 9
+ 
+independent assessment/ 
+ 
+evaluation of the working of 
+ 
+its policies by an external 
+ 
+agency? (Yes/No). If yes,  
+ 
+ 
+ 
+ 
+NO
+ 
+provide name of the 
+ 
+agency.
+12.  If answer to question (1)  
+ 
+above is “No” i.e. not all 
+ 
+Principles are covered by 
+ 
+a policy, reasons to be stated: 
+ 
+Question 
+P 1 
+P 2 
+P 3 
+P 4 
+P5 
+P 6 
+P 7 
+P8 
+P 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The entity does not consider the Principles material to its business   
+ 
+(No)
+ 
+The entity is not at a stage where it is in a position to formulate and   
+ 
+(No)
+ 
+implement the policies on speciﬁed principles
+ 
+ The entity does not have the ﬁnancial or/human and technical  
+ 
+ 
+(No)
+ 
+resources available for the task 
+ 
+It is planned to be done in the next ﬁnancial year   
+ 
+ 
+ 
+(Yes)
+ 
+Any other reason (please specify)  
+ 
+ 
+ 
+ 
+ 
+(NA)
+ 
+Notes -  
+ 
+ 
+ 
+ 
+ 
+ 
+(NA)
+DIRECTOR
+DIRECTOR
+DIRECTOR
+DIRECTOR
+DIRECTOR
+DIRECTOR
+DIRECTOR
+DIRECTOR
+DIRECTOR
+ANNUALLY
+ANNUALLY
+ANNUALLY
+ANNUALLY
+ANNUALLY
+ANNUALLY
+ANNUALLY
+ANNUALLY
+ANNUALLY
+DIRECTOR
+DIRECTOR
+DIRECTOR
+DIRECTOR
+DIRECTOR
+DIRECTOR
+DIRECTOR
+DIRECTOR
+DIRECTOR
+ANNUALLY
+ANNUALLY
+ANNUALLY
+ANNUALLY
+ANNUALLY
+ANNUALLY
+ANNUALLY
+ANNUALLY
+ANNUALLY
+2023-24
+Annual Report
+62
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE 
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements 
+with key processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the 
+essential indicators are expected to be disclosed by every entity that is mandated to ﬁle this report, the leadership 
+indicators may be voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be socially, 
+environmentally and ethically responsible. 
+ 
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is 
+Ethical, Transparent and Accountable. 
+ 
+Essential Indicators
+1. Percentage coverage by training and awareness programmes on any of the Principles during the ﬁnancial 
+    year:
+2.  Details of ﬁnes / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the ﬁnancial year, 
+in the following format (Note: the entity shall make disclosures on the basis of materiality as speciﬁed in Regulation 
+30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s 
+website): 
+ 
+Monetary 
+ 
+Penalty/ Fine 
+NA
+ 
+Settlement 
+NA
+ 
+Compounding fee 
+NA
+ 
+Non- Monetary 
+ 
+Imprisonment 
+NA
+ 
+Punishment 
+NA
+3.  Of the instances disclosed in Question 2 above,  
+NA
+ 
+details of the Appeal/ Revision preferred in cases 
+ 
+where monetary or non-monetary action has been 
+ 
+appealed
+4.  Does the entity have anti-corruption or  
+Yes
+ 
+anti-bribery policy?
+ 
+If Yes, provide details in brief 
+Yes, MMTC has a Anti Bribery and Anti-Corruption 
+(ABAC) policy in place to ensure its business is conducted 
+in accordance with the highest ethical standards. The 
+same can be accessed through
+ 
+Provide a web-link if the entity has anti-corruption or anti-bribery policy https://mmtclimited.com/ 
+5.  Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption: 
+ 
+ 
+FY (2023-24) 
+PY (2022-23)
+ 
+Directors 
+0 
+0
+ 
+KMPs 
+0 
+0
+ 
+Employees 
+0 
+0
+ 
+Workers 
+0 
+0
+2023-24
+Annual Report
+63
+6. Details of complaints with regard to conﬂict of interest:
+ 
+FY 2023-24 
+PY 2022-23 
+ 
+Number 
+Remarks 
+Number 
+Remarks
+Number of complaints received  
+0 
+NA 
+0 
+NA
+in relation to issues of Conﬂict 
+of Interest of the Directors 
+Number of complaints received  
+0 
+NA 
+0 
+NA
+in relation to issues of Conﬂict of 
+Interest of the KMP's 
+ 
+7. 
+Provide details of any corrective action taken or underway on issues related to ﬁnes / penalties / action 
+taken by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conﬂicts 
+of interest. 
+   No Corrective action taken as no such issue were identiﬁed.
+8.  Number of days of accounts payables 
+ 
+ 
+FY (2023-24) 
+PY (2022-23)
+ 
+i)  Accounts payable x 365 days 
+2397197160.00 
+0.00
+ 
+ii) Cost of goods/services procured 
+0.00 
+0.00
+ 
+iii) Number of days of accounts payables 
+0.00 
+0.00
+9.  Open-ness of business - Provide details of concentration of purchases and sales with trading houses, 
+dealers, and related parties along-with loans and advances & investments, with related parties, in the 
+following format
+2023-24
+Annual Report
+64
+Leadership Indicators 
+1.  Awareness programmes conducted for value chain partners on any of the Principles during the ﬁnancial year 
+ 
+NA 
+2.  Does the entity have processes in place to avoid/ manage conﬂict of interests involving members of the Board? 
+ 
+Yes 
+ 
+If Yes, provide details of the same. - Yes, MMTC has a robust system in pace to avoid/ manage conﬂict of interests 
+involving members of the Board. 
+21  Notes 
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1. Percentage of R&D and capital expenditure (capex) investments in speciﬁc technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively. 
+ 
+ 
+FY (2023-24) 
+PY (2022-23) 
+Details of improvements in 
+ 
+ 
+ 
+ 
+environmental and social impacts
+R&D 
+0.00% 
+0.00% 
+0
+Capex 
+0.00% 
+0.00% 
+0
+2.   a. Does the entity have procedures in place for sustainable sourcing? (Yes/No) 
+Yes
+ 
+b. If yes, what percentage of inputs were sourced sustainably? 
+100.00%
+3.  Describe the processes in place to safely reclaim your products for reusing, recycling 
+ 
+and disposing at the end of life, for 
+ 
+ 
+(a) Plastics (including packaging) 
+NA
+ 
+(b) E-waste 
+NA
+ 
+(c) Hazardous waste 
+ NA
+ 
+(d) other waste 
+NA 
+4.  Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities  
+No
+ 
+(Yes / No). 
+ 
+ 
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted 
+to Pollution Control Boards?  
+ 
+ 
+If not, provide steps taken to address the same. 
+ 
+2023-24
+Annual Report
+65
+Leadership Indicators 
+1.  Has the entity conducted Life Cycle Perspective / Assessments (LCA) 
+No 
+ 
+for any of its products (for manufacturing industry) or for its services 
+ 
+(for service industry)? 
+ 
+If yes, provide details 
+ 
+2.  If there are any signiﬁcant social or environmental concerns and/or risks  
+NA 
+ 
+arising from production or disposal of your products / services, as 
+ 
+identiﬁed in the Life Cycle Perspective / Assessments (LCA) or through 
+ 
+any other means, brieﬂy describe the same along-with action taken to 
+ 
+mitigate the same. 
+3.  Percentage of recycled or reused input material to total material (by value)  
+NA 
+ 
+used in production (for manufacturing industry) or providing services 
+ 
+(for service industry). 
+4.  Of the products and packaging reclaimed at end of life of products, amount 
+ 
+(in metric tonnes) reused, recycled, and safely disposed, as per the following format:
+ 
+Other waste 
+NA 
+5.  Reclaimed products and their packaging materials (as percentage of products sold) for each product category Add 
+NA 
+ 
+ 
+Notes : There is no scope for reclaiming packaging materials in Energy generation and transmission business.
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, 
+including those in their value chains 
+ 
+Essential Indicators
+2023-24
+Annual Report
+66
+2.   Details of retirement beneﬁts
+C. Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent) in the following format: 
+ 
+ 
+FY (2023-24) 
+PY (2022-23) 
+I)  Cost incurred on well being measures (well-being  
+NIL 
+NIL
+ 
+measures means well-being of employees and workers  
+ 
+(including male, female, permanent and other than 
+ 
+permanent employees and workers) 
+ii)  Total revenue of the company 
+NIL 
+NIL 
+iii)  Cost incurred on well being measures as a % of total revenue  
+NIL 
+NIL
+ 
+of the company 
+ 
+ 
+3. 
+ Accessibility of workplaces 
+ 
+ 
+Are the premises / oﬃces of the entity accessible to diﬀerently  
+ 
+ 
+abled employees and workers, as per the requirements of the 
+ 
+Rights of Persons with Disabilities Act, 2016?  
+ 
+ 
+If not, whether any steps are being taken by the entity in this regard. 
+ 
+4.  Does the entity have an equal opportunity policy as per the Rights of  
+ 
+ 
+Persons with Disabilities Act, 2016? 
+ 
+ 
+If so, provide a web-link to the policy.
+5.  Return to work and Retention rates of permanent employees and workers that took parental leave.
+https://mmtclimited.com/ﬁles/MMTC%20Guideli
+nes-Facilities%20for%20PwD %20 
+Employees.pdf
+Yes 
+Yes 
+NA
+2023-24
+Annual Report
+67
+6.  Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker?
+ 
+If yes, give details of the  
+Yes/No 
+(If Yes, then give
+ 
+mechanism in brief. 
+ 
+details of the mechanism in brief)
+ 
+Permanent Workers 
+Yes 
+ 
+Other than Permanent Workers 
+Yes 
+ 
+Permanent Employees 
+Yes 
+ 
+Other than Permanent Employees 
+Yes 
+7.  Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+8.  Details of training given to employees and workers: 
+MMTC Employees' Grievance Redressal Procedure 2008 (Sahayata) is in 
+place in the Company which outlines the procedure for handling grievances 
+relating to service matters such as increments, recovery of dues, working 
+condition, allotment of quarters, seniority, leave transfer, pay ﬁxation, 
+medical facility and interpretation of rules. Under this mechanism, in Stage I 
+an employee may take up his grievance(s) orally with his immediate superior 
+or in writing to the designated Employee rievance Oﬃcer who examines and 
+takes up the matter with concerned Sectional/Divisional Head, collects the 
+information and furnishes reply to the concerned employee. In Stage II, if the 
+employee is not satisﬁed with the reply received from the Employee 
+Grievance Oﬃcer or fails to receive a reply within the stipulated period, 
+he/she may present the case to the Grievance Committee at Corporate 
+Oﬃce / Regional Oﬃce. The Grievance Committee examines the matter and 
+decision is conveyed to the employee. In case the employee is not satisﬁed, 
+he/she may appeal to the APEX Committee at Corporate Oﬃce. The APEX 
+Committee consists of Director (P), Director (F) and Director (Marketing). 
+Decision of the APEX Committee is ﬁnal and binding
+2023-24
+Annual Report
+68
+9.  Details of performance and career development reviews of employees and worker:
+10.  Health and safety management system: 
+ 
+ 
+a. Whether an occupational health and safety management system has been implemented  
+No
+ 
+ 
+by the entity? (Yes/ No/ NA). 
+ 
+ 
+ If yes, the coverage such system? 
+ 
+ 
+b. What are the processes used to identify work-related hazards and assess risks on a  
+NA
+ 
+ 
+routine and non-routine basis by the entity? 
+  
+ 
+c. Whether you have processes for workers to report the work related hazards and to  
+No 
+ 
+ 
+remove themselves from such risks? 
+ 
+ 
+d. Do the employees/ worker of the entity have access to non-occupational medical and  
+No 
+ 
+ 
+healthcare services?
+11.  Details of safety related incidents, in the following format:
+12.  Describe the measures taken by the entity to ensure a safe and healthy work place. 
+NA 
+13.  Number of Complaints on the following made by employees and workers:
+NA
+NA
+NA
+NA
+2023-24
+Annual Report
+69
+14.  Assessments for the year:
+ 
+ 
+ 
+% of your plants and oﬃces that were
+ 
+ 
+ 
+assessed (by entity or statutory authorities or third parties) 
+Health and safety practices 
+0.00% 
+Working Conditions 
+0.00% 
+15.  Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on signiﬁcant 
+risks / concerns arising from assessments of health & safety practices and working conditions. MMTC Limited arranges 
+the various medical camps in the oﬃce to diagnose and to ensure the proper treatment of health problems faced by the 
+employees through the reputed Hospitals. MMTC Limited has installed Fire Extinguishers, Alarm systems ans Alram 
+Systems in the premises and the same are well maintained and inspection is also done timely.   
+Leadership Indicators 
+ 
+1.  Does the entity extend any life insurance or any compensatory package in the event of death of  
+ 
+(A) Employees (Y/N) 
+ Yes 
+ 
+(B) Workers (Y/N). 
+ Yes 
+2.  Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the 
+value chain partners. 
+ NA
+3.  Provide the number of employees / workers having suﬀered high consequence work related injury / ill-health / fatalities 
+(as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment or 
+whose family members have been placed in suitable employment:
+4.  Does the entity provide transition assistance programs to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? (Yes/ No/ NA)
+5.  Details on assessment of value chain partners:  
+ 
+ 
+ 
+ 
+% of value chain partners (by value of 
+ 
+ 
+ 
+business done with such partners) that were assessed 
+ 
+Health and safety practices 
+ 
+ 
+Working Conditions
+6.  Provide details of any corrective actions taken or underway to address signiﬁcant  NA
+ 
+risks / concerns arising from assessments of health and safety practices and 
+ 
+working conditions of value chain partners. Notes :
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders 
+Essential Indicators 
+1.  Describe the processes for identifying key stakeholder groups of the entity. 
+NA
+2.  List stakeholder groups identiﬁed as key for your entity and the frequency of  
+Table mention below 
+ 
+engagement with each stakeholder group. 
+Leadership Indicators 
+1.  Provide the processes for consultation between stakeholders and the Board on  
+NA
+ 
+economic, environmental, and social topics or if consultation is delegated, 
+ 
+ow is feedback from such consultations provided to the Board. 
+ 
+2. Whether stakeholder consultation is used to support the identiﬁcation and  
+No
+ 
+management of environmental, and social topics. 
+ 
+If so, provide details of instances as to how the inputs received from  
+NA
+ 
+on these topics were incorporated into policies and activities of the entity. 
+3.  Provide details of instances of engagement with, and actions taken to,  
+NA
+ 
+address the concerns of vulnerable/ marginalized stakeholder groups. 
+ 
+ 
+Notes 
+NA
+2023-24
+Annual Report
+70
+List stakeholder groups identiﬁed as key for your entity and the frequency of 
+engagement with each stakeholder group.
+Sr. No.
+Stakeholder 
+Group
+Whether identiﬁed as 
+Vulnerable & Marginalized 
+Group
+Channels of 
+communication
+Details of Other Channels of 
+communication
+Frequency of 
+engagement
+Details of Other Frequency 
+of engagement
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Stakeholder
+No
+Other
+Phone, email annual report, 
+results announcements, 
+microsite on performance 
+highlights, media releases, 
+capital Market Day, Annual 
+General Meeting(AGM) and 
+website.
+Others – 
+please specify
+Ongoing, Quarterly
+AGMs allow shareholders to 
+communicate directly with the
+Board of Directors and the 
+Management Committee. 
+Capital Markets Day and 
+quaterly earnings calls allow 
+investors to engage with the 
+management of company on 
+business strategy and 
+performance. We have 
+dedicated email IDs through 
+which our Investor Service
+Department engages with 
+shareholders to resolve their 
+queries and greviences. 
+1.
+PRINCIPLE 5 Businesses should respect and promote human rights 
+ 
+Essential Indicators 
+1.  Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in 
+the following format:
+2.  Details of minimum wages paid to employees and workers, in the following format: 
+2023-24
+Annual Report
+71
+b.  Gross wages paid to females: 
+ 
+ 
+ 
+ 
+ 
+FY (2023-24) 
+PY (2022-23) 
+ 
+Gross wages paid to females 
+0.00 
+ 0.00 
+ 
+Total wages 
+0.00 
+ 0.00 
+ 
+"Gross wages paid to females
+ 
+(Gross wages paid to females as % of total wages)"
+4.  Do you have a focal point (Individual/ Committee) responsible for addressing  
+Yes
+ 
+human rights impacts or issues caused or contributed to by the business? 
+ 
+5.  Describe the internal mechanisms in place to redress grievances related to human  
+ 
+rights issues. 
+ 
+Being a Government of India Company, MMTC owes allegiance to the Constitution of India, which resolves to 
+secure to all its citizens justice, liberty, equality and fraternity and which also encompasses the fundamental 
+human rights as envisioned in the Universal Declaration of Human Rights. MMTC stands committed to support 
+and respect the protection of internationally proclaimed human rights at its work places and ensure that its 
+employees enjoy the fundamental human rights. MM'TC has 3 tier grievance redressal systems called "Sahayata" 
+for resolving employees' grievances. MMTC has in its management system provisions for health, safety and 
+housing. Comprehensively covering all these aspects, MMTC has appropriate systems in place.
+2023-24
+Annual Report
+16842279
+2571725
+72
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+7.  Complaints ﬁled under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) 
+Act, 2013, in the following format: 
+ 
+ 
+ 
+ 
+ 
+FY (2023-24) 
+PY (2022-23) 
+I)  Total Complaints reported under Sexual Harassment on of 
+ 
+Women at Workplace (Prevention, Prohibition and Redressal) 
+ 
+Act, 2013 (POSH) 
+0 
+ 0 
+ 
+ii) Female employees / workers 
+0 
+ 0 
+ 
+iii) Complaints on POSH as a % of female employees / workers 
+ 
+ 
+ 
+iv) Complaints on POSH upheld 
+0 
+ 0 
+8.  MMTC has put in place a policy in line with the requirements of the Sexual Harrasment of women at workplace 
+(Prevention, Prohibition & Redressal) Act, 2013. Internal Complaints Committee (ICC) has been set up at 
+Corporate Oﬃce & Regional Oﬃces to redress complaints recieved regarding sexual harrasment ta workplace. All 
+employee ( permanent, contractual, temporary, trainees) are covered under this policy.
+ 
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases. 
+9.  Do human rights requirements form part of your business agreements and contracts? (Yes/No/NA) Yes 
+10.  Assessments for the year:
+ 
+Child labour  
+0.00% 
+ 
+ 
+Forced/involuntary labour  
+0.00% 
+ 
+ 
+Sexual harassment 
+0.00% 
+ 
+ 
+Discrimination at workplace 
+0.00% 
+ 
+ 
+Wages 
+0.00% 
+ 
+ 
+Others – please specify 
+NA
+11.  Provide details of any corrective actions taken or underway to  
+NA
+ 
+address signiﬁcant risks / concerns arising from the 
+ 
+assessments at Question 10 above. 
+Leadership Indicators 
+ 
+1.  Details of a business process being modiﬁed/introduced  
+NA
+ 
+as a result of addressing human rights grievances/complaints. 
+ 
+ 
+2.  Details of the scope and coverage of any Human rights  
+NA
+ 
+due-diligence conducted 
+ 
+ 
+3.  Is the premise/oﬃce of the entity accessible to diﬀerently  
+Yes
+ 
+abled visitors, as per the requirements of the Rights of Persons 
+ 
+with Disabilities Act, 2016?  
+4.  Details on assessment of value chain partners: 
+ 
+ 
+ 
+% of value chain partners (by value of business done with 
+ 
+such partners) that were assessed 
+ 
+ 
+ 
+Sexual harassment  
+0.00% 
+ 
+ 
+Discrimination at workplace  
+0.00% 
+ 
+ 
+Child Labour  
+0.00% 
+ 
+ 
+Forced Labour/Involuntary Labour  
+0.00% 
+ 
+ 
+Wages  
+0.00% 
+ 
+ 
+Others – please specify 
+NA
+5.  Provide details of any corrective actions taken or underway  
+NA
+ 
+to address signiﬁcant risks / concerns arising from the 
+ 
+assessments at Question 4 above. 
+ 
+ 
+ 
+Notes 
+NA
+2023-24
+Annual Report
+73
+2023-24
+Annual Report
+74
+No such assessment was undertaken
+2023-24
+Annual Report
+75
+ 
+Whether air emissions (other than GHG emissions) by the entity is applicable to the company? 
+ No
+ 
+Parameter 
+Please specify unit 
+FY (2023-24) 
+PY (2022-23)
+ 
+NOx 
+ 
+ 
+ 
+SOx 
+ 
+ 
+ 
+Particulate matter (PM) 
+ 
+ 
+ 
+Persistent organic pollutants (POP) 
+ 
+ 
+ 
+Volatile organic compounds (VOC) 
+ 
+ 
+ 
+Hazardous air pollutants (HAP) 
+ 
+ 
+ 
+Others – please specify 
+ 
+ 
+ 
+Note: Indicate if any independent assessment/ evaluation/ 
+ 
+(Y/N) 
+ 
+assurance has been carried out by an external agency?  
+ 
+ 
+If yes, name of the external agency. 
+ 
+ 
+7.  Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) 
+ 
+& its intensity, in the following format: 
+ 
+ 
+ 
+Whether greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its  
+No
+ 
+intensity is applicable to the company?
+ 
+Parameter 
+Unit 
+FY (2023-24) 
+PY (2022-23)
+ 
+Total Scope 1 emissions (Break-up of the GHG into CO2, 
+ 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available) 
+ 
+ 
+ 
+Total Scope 2 emissions (Break-up of the GHG into CO2, 
+ 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available) 
+ 
+ 
+ 
+"Total Scope 1 and Scope 2 emission intensity per rupee of turnover
+ 
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from operations)" 
+ 
+ 
+ 
+"Total Scope 1 and Scope 2 emission intensity per rupee of turnover 
+ 
+adjusted for Purchasing Power Parity (PPP)
+ 
+(Total Scope 1 and Scope 2 GHG emissions / Revenue 
+ 
+from operations adjusted for PPP)" 
+ 
+ 
+ 
+Total Scope 1 and Scope 2 emission intensity in 
+ 
+terms of physical output 
+ 
+ 
+ 
+Total Scope 1 and Scope 2 emission intensity (optional) – the 
+ 
+relevant metric may be selected by the entity 
+ 
+ 
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance  
+ 
+(Y/N)
+ 
+has been carried out by an external agency?  
+ 
+ 
+ 
+If yes, name of the external agency. 
+ 
+ 
+8.  Does the entity have any project related to reducing Green House Gas emission?  
+ No 
+ 
+If Yes, then provide details.
+2023-24
+Annual Report
+76
+2023-24
+Annual Report
+77
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance  
+ 
+No
+ 
+has been carried out by an external agency? (Y/N) 
+ 
+ 
+ 
+If yes, name of the external agency. 
+ 
+ 
+10.  Brieﬂy describe the waste management practices adopted in your  
+ 
+ 
+NA
+ 
+establishments. Describe the strategy adopted by your company 
+ 
+to reduce usage of hazardous and toxic chemicals in your products 
+ 
+and processes and the practices adopted to manage such wastes. 
+ 
+ 
+ 
+11. If the entity has operations/oﬃces in/around ecologically sensitive  
+ 
+ 
+NA
+ 
+areas (such as national parks, wildlife sanctuaries, biosphere reserves, 
+ 
+wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) 
+ 
+where environmental approvals / clearances are required, please specify 
+ 
+details in the following format: 
+ 
+ 
+12.  Details of environmental impact assessments of projects undertaken by  
+ 
+NA
+ 
+the entity based on applicable laws, in the current ﬁnancial year: 
+ 
+ 
+13.  Is the entity compliant with the applicable environmental law/ regulations/ guidelines  
+Yes 
+ 
+in India; such as the Water (Prevention and Control of Pollution) Act, Air (Prevention 
+ 
+and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N/NA). 
+ 
+ 
+If not, provide details of all such non-compliances, in the following format:
+ 
+Leadership Indicators 
+ 
+ 
+1.  Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):  
+ 
+ 
+For each facility / plant located in areas of water stress, provide the following information: 
+NA 
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried 
+ 
+out by an external agency? (Y/N) 
+ 
+ 
+ 
+ 
+If yes, name of the external agency. 
+ 
+ 
+ 
+2.  Please provide details of total Scope 3 emissions & its intensity, in the following format: 
+ 
+ 
+Whether total Scope 3 emissions & its intensity is applicable to the company? 
+ 
+ No 
+ 
+Parameter 
+Unit 
+FY (2023-24) 
+PY (2022-23) 
+ 
+Total Scope 3 emissions (Break-up of the GHG into CO2, 
+ 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available) 
+ 
+ 
+ 
+ 
+Total Scope 3 emissions per rupee of turnover 
+ 
+ 
+ 
+ 
+Total Scope 3 emission intensity (optional) – the relevant metric may be selected by the entity 
+ 
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) 
+ 
+ 
+ 
+ 
+If yes, name of the external agency. 
+ 
+ 
+ 
+3.  With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide 
+details of signiﬁcant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities. 
+ 
+ 
+NA 
+4.  If the entity has undertaken any speciﬁc initiatives or used innovative technology or solutions to improve resource 
+eﬃciency, or reduce impact due to emissions / eﬄuent discharge / waste generated, please provide details of the 
+same as well as outcome of such initiatives, as per the following format: 
+ 
+NA 
+5.  Does the entity have a business continuity and disaster management plan? 
+ 
+NA 
+ 
+Details of entity at which business continuity and disaster management plan is placed or weblink. 
+ 
+6.  Disclose any signiﬁcant adverse impact to the environment, arising from the value chain of 
+NA
+ 
+the entity. What mitigation or adaptation measures have been taken by the entity in this regard. 
+ 
+7.  Percentage of value chain partners (by value of business done with such partners)   
+NA
+ 
+that were assessed for environmental impacts. 
+ 
+ 
+ 
+ 
+Notes
+2023-24
+Annual Report
+78
+2023-24
+Annual Report
+79
+Leadership Indicators 
+ 
+1.  Provide details of actions taken to mitigate any negative social  
+ 
+ 
+NA
+ 
+impacts identiﬁed in the Social Impact Assessments (Reference: 
+ 
+Question 1 of Essential Indicators above): 
+ 
+ 
+ 
+2.  Provide the following information on CSR projects undertaken by your entity in  
+ 
+NA
+ 
+designated aspirational districts as identiﬁed by government bodies:  
+ 
+3.  (a) Do you have a preferential procurement policy where you give 
+ 
+preference to purchase from suppliers comprising marginalized /vulnerable groups? (Yes/No/NA) 
+ Yes 
+ 
+(b) From which marginalized /vulnerable groups do you procure? 
+ 
+ 
+(c) What percentage of total procurement (by value) does it constitute? 
+ 
+4.  Details of the beneﬁts derived and shared from the intellectual properties owned 
+ 
+or acquired by your entity (in the current ﬁnancial year), based on traditional knowledge: 
+NA
+5.  Details of corrective actions taken or underway, based on any adverse order in 
+ 
+intellectual property related disputes wherein usage of traditional knowledge is involved. 
+NA
+6.  Details of beneﬁciaries of CSR Projects: 
+ 
+ 
+NA
+ 
+Notes 
+ 
+2023-24
+Annual Report
+80
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a 
+responsible manner 
+ 
+Essential Indicators 
+ 
+1.  Describe the mechanisms in place to receive and respond  
+ As per instruction of Govt. we have stopped
+ 
+to consumer complaints and feedback. 
+ 
+doing any business 
+  
+2.  Turnover of products and/ services as a percentage of  
+ As a percentage to total turnover  
+ 
+turnover from all products/service that carry information about 
+ 
+Environmental and social parameters relevant to the product 
+ 
+0.00% 
+ 
+ 
+Safe and responsible usage 
+ 
+0.00% 
+ 
+ 
+Recycling and/or safe disposal 
+ 
+0.00%
+2023-24
+Annual Report
+81
+No Action
+Was Taken
+Place: New Delhi
+Date : 09.08.2024
+For and behalf of the Board of Directors
+Sd/-
+HARDEEP SINGH
+Chairman & Managing Director
+2023-24
+Annual Report
+82
